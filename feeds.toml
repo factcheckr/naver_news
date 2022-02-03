@@ -1,8 +1,0 @@
-[politics_headline]
-title = "네이버 뉴스 ─ 정치"
-url = "https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=100"
-entrySelector = "div.cluster div.cluster_group._cluster_content div.cluster_body ul.cluster_list li.cluster_item"
-titleSelector = "div.cluster_text a.cluster_text_headline"
-linkSelector = "div.cluster_text a.cluster_text_headline"
-contentSelector = "div.cluster_text div.cluster_text_lede"
-waitUntil = "networkidle"
