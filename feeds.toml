@@ -6,3 +6,11 @@ titleSelector = "div.cluster_text a.cluster_text_headline"
 linkSelector = "div.cluster_text a.cluster_text_headline"
 contentSelector = "div.cluster_text div.cluster_text_lede"
 waitUntil = "networkidle"
+
+[politics]
+title = "네이버 뉴스 ─ 정치"
+url = "https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=100"
+entrySelector = "div.classfy.sd ul.list_txt li"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
