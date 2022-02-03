@@ -1,16 +1,43 @@
-[politics_headline]
-title = "네이버 뉴스 ─ 정치"
-url = "https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=100"
-entrySelector = "div.cluster div.cluster_group._cluster_content div.cluster_body ul.cluster_list li.cluster_item"
-titleSelector = "div.cluster_text a.cluster_text_headline"
-linkSelector = "div.cluster_text a.cluster_text_headline"
-contentSelector = "div.cluster_text div.cluster_text_lede"
-waitUntil = "networkidle"
-
-[politics]
-title = "네이버 뉴스 ─ 정치"
+[major]
+title = "네이버 뉴스 ─ 분야별 주요뉴스"
 url = "https://news.naver.com/main/main.naver?mode=LSD&mid=shm&sid1=100"
 entrySelector = "div.classfy.sd ul.list_txt li"
 titleSelector = "a"
 linkSelector = "a"
+waitUntil = "networkidle"
+
+[ombudsman_error]
+title = "네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다"
+url = "https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb"
+entrySelector = "div.list_body ul.type02 li"
+titleSelector = "a"
+linkSelector = "a"
+contentSelector = "span.writing"
+waitUntil = "networkidle"
+
+[ombudsman_request]
+title = "네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청"
+url = "https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb"
+entrySelector = "div.list_body ul.type02 li"
+titleSelector = "a"
+linkSelector = "a"
+contentSelector = "span.writing"
+waitUntil = "networkidle"
+
+[ombudsman_revision]
+title = "네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도"
+url = "https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb"
+entrySelector = "div.list_body ul.type02 li"
+titleSelector = "a"
+linkSelector = "a"
+contentSelector = "span.writing"
+waitUntil = "networkidle"
+
+[ombudsman_unfair]
+title = "네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도"
+url = "https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&sid1=100&cid=909906&decorator=ombudsman&confirm=true"
+entrySelector = "div.list_body ul.type02 li"
+titleSelector = "a"
+linkSelector = "a"
+contentSelector = "span.writing"
 waitUntil = "networkidle"
