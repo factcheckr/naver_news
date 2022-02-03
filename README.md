@@ -1,34 +1,10 @@
-# CI setup for Feed me up, Scotty!
+# 네이버 뉴스
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+https://factcheckr.github.io/naver_news/all.xml
 
-# Automatically generate feeds
+- 분야별 주요뉴스: https://factcheckr.github.io/naver_news/major.xml
+- 고침·바로잡습니다 기사: https://factcheckr.github.io/naver_news/ombudsman_error.xml
+- 정정·반론·추후보도요청 기사: https://factcheckr.github.io/naver_news/ombudsman_request.xml
+- 정정·반론·추후보도 기사: https://factcheckr.github.io/naver_news/ombudsman_revision.xml
+- 불공정 선거보도 기사: https://factcheckr.github.io/naver_news/ombudsman_unfair.xml
 
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
