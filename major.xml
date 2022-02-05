@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-05T14:11:23.483Z</updated>
+    <updated>2022-02-05T15:12:15.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=006&amp;aid=0000111675" class="nclicks(rig.secteco)" title="윤석열측, 돌연 기협·JTBC 공정성 문제삼아 TV토론 무산시켜">윤석열측, 돌연 기협·JTBC 공정성 문제삼아 TV토론 무산시켜</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강정마을서 노무현 기린 尹..."통합·평화의 정치로"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001698139</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001698139"/>
-        <updated>2022-02-05T14:10:55.182Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001698139" class="nclicks(rig.secteco)" title="강정마을서 노무현 기린 尹...&quot;통합·평화의 정치로&quot;">강정마을서 노무현 기린 尹..."통합·평화의 정치로"</a>]]></content>
+        <title type="html"><![CDATA[제주 아픔 챙긴 윤석열…강정마을서 盧 언급하며 '눈시울']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004704296</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004704296"/>
+        <updated>2022-02-05T15:11:47.081Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004704296" class="nclicks(rig.secteco)" title="제주 아픔 챙긴 윤석열…강정마을서 盧 언급하며 '눈시울'">제주 아픔 챙긴 윤석열…강정마을서 盧 언급하며 '눈시울'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[한반도 브리핑] 북한, 중거리 탄도미사일 발사…2월 한반도 정세는?]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=215&amp;aid=0001012990" class="nclicks(rig.secteco)" title="미국 코로나 사망자 90만명 돌파…'세계 최다'">미국 코로나 사망자 90만명 돌파…'세계 최다'</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부안 종계 농장서 32번째 조류 독감…내주 전국 일제 소독]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0010982749</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0010982749"/>
+        <updated>2022-02-05T15:11:47.087Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0010982749" class="nclicks(rig.secteco)" title="부안 종계 농장서 32번째 조류 독감…내주 전국 일제 소독">부안 종계 농장서 32번째 조류 독감…내주 전국 일제 소독</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2월에도 여전한 비트코인 시세…엘살바도르 뚝심은 통할까 [위클리 코인리뷰]]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000022363</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000022363"/>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004703986" class="nclicks(rig.secteco)" title="&quot;휘발유값 또 1800원 넘을라&quot;...국제유가 7년만에 90달러 돌파">"휘발유값 또 1800원 넘을라"...국제유가 7년만에 90달러 돌파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴욕증시]이번엔 '아마존 효과'…빅테크 반등에 나스닥 1.6%↑]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005139560</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005139560"/>
-        <updated>2022-02-05T14:10:55.191Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005139560" class="nclicks(rig.secteco)" title="[뉴욕증시]이번엔 '아마존 효과'…빅테크 반등에 나스닥 1.6%↑">[뉴욕증시]이번엔 '아마존 효과'…빅테크 반등에 나스닥 1.6%↑</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사우디 왕세자, 넥슨에 1조 베팅... 난리난 판교 게임업계]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003670531</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003670531"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003670531" class="nclicks(rig.secteco)" title="사우디 왕세자, 넥슨에 1조 베팅... 난리난 판교 게임업계">사우디 왕세자, 넥슨에 1조 베팅... 난리난 판교 게임업계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이정재 이어 '고딩 좀비'까지 당했다…중국, 불법 유통에 혹평까지]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004917343</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004917343"/>
-        <updated>2022-02-05T14:10:55.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004917343" class="nclicks(rig.secteco)" title="이정재 이어 '고딩 좀비'까지 당했다…중국, 불법 유통에 혹평까지">이정재 이어 '고딩 좀비'까지 당했다…중국, 불법 유통에 혹평까지</a>]]></content>
+        <title type="html"><![CDATA[카카오 이어 네이버도 방역 고삐 죈다…"모든 대면 활동 금지"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003604864</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003604864"/>
+        <updated>2022-02-05T15:11:47.095Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003604864" class="nclicks(rig.secteco)" title="카카오 이어 네이버도 방역 고삐 죈다…&quot;모든 대면 활동 금지&quot;">카카오 이어 네이버도 방역 고삐 죈다…"모든 대면 활동 금지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곽상도, 영장 재청구 끝에 구속…“범죄 혐의 소명”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011207338</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011207338"/>
-        <updated>2022-02-05T13:11:57.419Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011207338" class="nclicks(rig.secteco)" title="곽상도, 영장 재청구 끝에 구속…“범죄 혐의 소명”">곽상도, 영장 재청구 끝에 구속…“범죄 혐의 소명”</a>]]></content>
+        <title type="html"><![CDATA[곽상도 구속에 "너무 늦었다" 50억클럽 대선판 흔들까]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=006&amp;aid=0000111670</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=006&amp;aid=0000111670"/>
+        <updated>2022-02-05T15:11:47.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=006&amp;aid=0000111670" class="nclicks(rig.secteco)" title="곽상도 구속에 &quot;너무 늦었다&quot; 50억클럽 대선판 흔들까">곽상도 구속에 "너무 늦었다" 50억클럽 대선판 흔들까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] "'전공의 탈락' 성적 때문 아냐"…조국 딸, 네티즌 고소]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=448&amp;aid=0000350765" class="nclicks(rig.secteco)" title="[단독] &quot;'전공의 탈락' 성적 때문 아냐&quot;…조국 딸, 네티즌 고소">[단독] "'전공의 탈락' 성적 때문 아냐"…조국 딸, 네티즌 고소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[붕괴 사고 26일째...남은 매몰자·실종자 구조는 언제쯤?]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001698149</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001698149"/>
-        <updated>2022-02-05T14:10:55.201Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001698149" class="nclicks(rig.secteco)" title="붕괴 사고 26일째...남은 매몰자·실종자 구조는 언제쯤?">붕괴 사고 26일째...남은 매몰자·실종자 구조는 언제쯤?</a>]]></content>
+        <title type="html"><![CDATA[숨진채 발견된 배구 김인혁…"자택서 신변 비관 메모 발견"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003171208</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003171208"/>
+        <updated>2022-02-05T15:11:47.111Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003171208" class="nclicks(rig.secteco)" title="숨진채 발견된 배구 김인혁…&quot;자택서 신변 비관 메모 발견&quot;">숨진채 발견된 배구 김인혁…"자택서 신변 비관 메모 발견"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[종합뉴스 날씨]휴일, 종일 영하권 강추위…내일 오전까지 충남·호남 눈]]></title>
