@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-09T10:15:35.792Z</updated>
+    <updated>2022-02-09T11:12:25.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[영상] 7분 사과, 질문 4개... 김혜경 "선거 후라도 책임, 제보자는 피해자"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341735</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341735"/>
-        <updated>2022-02-09T10:15:07.859Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341735" class="nclicks(rig.secteco)" title="[영상] 7분 사과, 질문 4개... 김혜경 &quot;선거 후라도 책임, 제보자는 피해자&quot;">[영상] 7분 사과, 질문 4개... 김혜경 "선거 후라도 책임, 제보자는 피해자"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OECD 사무총장 만난 문 대통령 "국제 협력 중요해졌다"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719"/>
-        <updated>2022-02-09T10:15:07.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719" class="nclicks(rig.secteco)" title="OECD 사무총장 만난 문 대통령 &quot;국제 협력 중요해졌다&quot;">OECD 사무총장 만난 문 대통령 "국제 협력 중요해졌다"</a>]]></content>
+        <title type="html"><![CDATA[김혜경 8분 사과에…제보자 A씨 "그 많은 음식 누가 먹었나"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003172294</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003172294"/>
+        <updated>2022-02-09T11:11:59.208Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003172294" class="nclicks(rig.secteco)" title="김혜경 8분 사과에…제보자 A씨 &quot;그 많은 음식 누가 먹었나&quot;">김혜경 8분 사과에…제보자 A씨 "그 많은 음식 누가 먹었나"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['확진자 현장투표' 난항…여야 '시간연장' 요구에 선관위 반대]]></title>
@@ -27,25 +20,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0012971311" class="nclicks(rig.secteco)" title="'확진자 현장투표' 난항…여야 '시간연장' 요구에 선관위 반대">'확진자 현장투표' 난항…여야 '시간연장' 요구에 선관위 반대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외신이 본 한국 대선은?…"무당이 고문인 역대 최악의 선거"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001641106</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001641106"/>
-        <updated>2022-02-09T08:17:19.946Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001641106" class="nclicks(rig.secteco)" title="외신이 본 한국 대선은?…&quot;무당이 고문인 역대 최악의 선거&quot;">외신이 본 한국 대선은?…"무당이 고문인 역대 최악의 선거"</a>]]></content>
+        <title type="html"><![CDATA[OECD 사무총장 만난 문 대통령 "국제 협력 중요해졌다"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719"/>
+        <updated>2022-02-09T10:15:07.866Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002341719" class="nclicks(rig.secteco)" title="OECD 사무총장 만난 문 대통령 &quot;국제 협력 중요해졌다&quot;">OECD 사무총장 만난 문 대통령 "국제 협력 중요해졌다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WHO “오미크론 출현 이후 50만명 숨져”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003665286</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003665286"/>
-        <updated>2022-02-09T10:15:07.867Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003665286" class="nclicks(rig.secteco)" title="WHO “오미크론 출현 이후 50만명 숨져”">WHO “오미크론 출현 이후 50만명 숨져”</a>]]></content>
+        <title type="html"><![CDATA[[기획] "추문·모욕으로 얼룩" 낯 부끄러운 대선판]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=029&amp;aid=0002719662</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=029&amp;aid=0002719662"/>
+        <updated>2022-02-09T11:11:59.217Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=029&amp;aid=0002719662" class="nclicks(rig.secteco)" title="[기획] &quot;추문·모욕으로 얼룩&quot; 낯 부끄러운 대선판">[기획] "추문·모욕으로 얼룩" 낯 부끄러운 대선판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년 영업익 두배 늘린 카뱅, "내년에도 두자릿수 성장 자신"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005041988</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005041988"/>
-        <updated>2022-02-09T10:15:07.867Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005041988" class="nclicks(rig.secteco)" title="작년 영업익 두배 늘린 카뱅, &quot;내년에도 두자릿수 성장 자신&quot;(종합)">작년 영업익 두배 늘린 카뱅, "내년에도 두자릿수 성장 자신"(종합)</a>]]></content>
+        <title type="html"><![CDATA[우크라 외교노력 새 물꼬…독프폴 정상 "단결해 전쟁 막을 것"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0012971331</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0012971331"/>
+        <updated>2022-02-09T11:11:59.218Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0012971331" class="nclicks(rig.secteco)" title="우크라 외교노력 새 물꼬…독프폴 정상 &quot;단결해 전쟁 막을 것&quot;">우크라 외교노력 새 물꼬…독프폴 정상 "단결해 전쟁 막을 것"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뱅크, 지난해 순익 2041억원 '역대 최대']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004919800</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004919800"/>
+        <updated>2022-02-09T11:11:59.219Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004919800" class="nclicks(rig.secteco)" title="카카오뱅크, 지난해 순익 2041억원 '역대 최대'">카카오뱅크, 지난해 순익 2041억원 '역대 최대'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신한·우리금융도 지난해 순익 '역대 최대'(종합2보)]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002118601" class="nclicks(rig.secteco)" title="[종합] 넷마블 아쉬운 성적표…메타버스·블록체인 신작게임 승부수">[종합] 넷마블 아쉬운 성적표…메타버스·블록체인 신작게임 승부수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공수처, 한명숙 사건 수사방해 의혹 윤석열 "혐의 없다"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=469&amp;aid=0000657237</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=469&amp;aid=0000657237"/>
-        <updated>2022-02-09T10:15:07.875Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=469&amp;aid=0000657237" class="nclicks(rig.secteco)" title="공수처, 한명숙 사건 수사방해 의혹 윤석열 &quot;혐의 없다&quot;">공수처, 한명숙 사건 수사방해 의혹 윤석열 "혐의 없다"</a>]]></content>
+        <title type="html"><![CDATA['윤석열 불기소'에 추미애 "공수처 한심"…임은정 "재정신청할 계획"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001641147</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001641147"/>
+        <updated>2022-02-09T11:11:59.225Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001641147" class="nclicks(rig.secteco)" title="'윤석열 불기소'에 추미애 &quot;공수처 한심&quot;…임은정 &quot;재정신청할 계획&quot;">'윤석열 불기소'에 추미애 "공수처 한심"…임은정 "재정신청할 계획"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["선고 연기" 꼼수에도 실형 못 피한 오거돈…피해자 진단까지 의심]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005894169" class="nclicks(rig.secteco)" title="&quot;선고 연기&quot; 꼼수에도 실형 못 피한 오거돈…피해자 진단까지 의심">"선고 연기" 꼼수에도 실형 못 피한 오거돈…피해자 진단까지 의심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['셀프 재택치료' 시작…"산소포화도 측정기 등 스스로 구해야"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000744130</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000744130"/>
-        <updated>2022-02-09T10:15:07.877Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000744130" class="nclicks(rig.secteco)" title="'셀프 재택치료' 시작…&quot;산소포화도 측정기 등 스스로 구해야&quot;">'셀프 재택치료' 시작…"산소포화도 측정기 등 스스로 구해야"</a>]]></content>
+        <title type="html"><![CDATA[50대 이하 무증상 경증 환자는 ‘셀프 재택치료’]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=655&amp;aid=0000000406</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=655&amp;aid=0000000406"/>
+        <updated>2022-02-09T11:11:59.227Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=655&amp;aid=0000000406" class="nclicks(rig.secteco)" title="50대 이하 무증상 경증 환자는 ‘셀프 재택치료’">50대 이하 무증상 경증 환자는 ‘셀프 재택치료’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KBS “‘태종 이방원’ 제작시스템 재정비 중…동물 복지 가이드라인 신설”]]></title>
