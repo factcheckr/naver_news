@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-14T07:14:40.120Z</updated>
+    <updated>2022-02-14T08:17:35.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[文대통령 “경제·안보 위기에 임기 없다… 우크라이나 사태 시급”[전문]]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005146079</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005146079"/>
-        <updated>2022-02-14T07:14:11.556Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005146079" class="nclicks(rig.secteco)" title="文대통령 “경제·안보 위기에 임기 없다… 우크라이나 사태 시급”[전문]">文대통령 “경제·안보 위기에 임기 없다… 우크라이나 사태 시급”[전문]</a>]]></content>
+        <title type="html"><![CDATA[문 대통령 "공급망 위기, 범정부적 신속 대응 긴요해져"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342283</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342283"/>
+        <updated>2022-02-14T08:17:07.774Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342283" class="nclicks(rig.secteco)" title="문 대통령 &quot;공급망 위기, 범정부적 신속 대응 긴요해져&quot;">문 대통령 "공급망 위기, 범정부적 신속 대응 긴요해져"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["반드시"만 5번... 이재명, 명동서 "정치교체" 외치다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342252</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342252"/>
-        <updated>2022-02-14T06:17:24.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342252" class="nclicks(rig.secteco)" title="&quot;반드시&quot;만 5번... 이재명, 명동서 &quot;정치교체&quot; 외치다">"반드시"만 5번... 이재명, 명동서 "정치교체" 외치다</a>]]></content>
+        <title type="html"><![CDATA[국정원 "메인서버 교체 계획 없어" vs 尹 "국민의 자산 폐기 안 돼"(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011001897</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011001897"/>
+        <updated>2022-02-14T08:17:07.775Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011001897" class="nclicks(rig.secteco)" title="국정원 &quot;메인서버 교체 계획 없어&quot; vs 尹 &quot;국민의 자산 폐기 안 돼&quot;(종합)">국정원 "메인서버 교체 계획 없어" vs 尹 "국민의 자산 폐기 안 돼"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국힘 "메인서버 교체, 증거 인멸"…국정원 "그럴 계획 없어"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005904308</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005904308"/>
-        <updated>2022-02-14T07:14:11.559Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005904308" class="nclicks(rig.secteco)" title="국힘 &quot;메인서버 교체, 증거 인멸&quot;…국정원 &quot;그럴 계획 없어&quot;(종합)">국힘 "메인서버 교체, 증거 인멸"…국정원 "그럴 계획 없어"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강제동원 숨기고 에도시대 부각…일본 ‘사도광산’ 세계유산 전략 드러나]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002579123</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002579123"/>
-        <updated>2022-02-14T07:14:11.560Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002579123" class="nclicks(rig.secteco)" title="강제동원 숨기고 에도시대 부각…일본 ‘사도광산’ 세계유산 전략 드러나">강제동원 숨기고 에도시대 부각…일본 ‘사도광산’ 세계유산 전략 드러나</a>]]></content>
+        <title type="html"><![CDATA[코로나 확진자 오후 6시~7시30분 투표 가능 법안 국회 본회의 통과]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003128285</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003128285"/>
+        <updated>2022-02-14T08:17:07.776Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003128285" class="nclicks(rig.secteco)" title="코로나 확진자 오후 6시~7시30분 투표 가능 법안 국회 본회의 통과">코로나 확진자 오후 6시~7시30분 투표 가능 법안 국회 본회의 통과</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["손 발가락 잘리고 뇌 파괴"…일론 머스크 '뇌연구기업' 원숭이 학대 논란]]></title>
@@ -41,18 +34,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=009&amp;aid=0004921553" class="nclicks(rig.secteco)" title="&quot;손 발가락 잘리고 뇌 파괴&quot;…일론 머스크 '뇌연구기업' 원숭이 학대 논란">"손 발가락 잘리고 뇌 파괴"…일론 머스크 '뇌연구기업' 원숭이 학대 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회사 유리문 파손될 정도의 싸움…택배노조 vs CJ대한통운]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003251522</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003251522"/>
-        <updated>2022-02-14T07:14:11.565Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003251522" class="nclicks(rig.secteco)" title="회사 유리문 파손될 정도의 싸움…택배노조 vs CJ대한통운">회사 유리문 파손될 정도의 싸움…택배노조 vs CJ대한통운</a>]]></content>
+        <title type="html"><![CDATA[[단독]일본, 세계문화유산 기준 2개에 해당한다고 신청...일본측 논리와 한계는?]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=437&amp;aid=0000289599</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=437&amp;aid=0000289599"/>
+        <updated>2022-02-14T08:17:07.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=437&amp;aid=0000289599" class="nclicks(rig.secteco)" title="[단독]일본, 세계문화유산 기준 2개에 해당한다고 신청...일본측 논리와 한계는?">[단독]일본, 세계문화유산 기준 2개에 해당한다고 신청...일본측 논리와 한계는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HMM, 작년 영업익 7.4조원… 현대차 제쳤다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000793567</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000793567"/>
-        <updated>2022-02-14T07:14:11.566Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000793567" class="nclicks(rig.secteco)" title="HMM, 작년 영업익 7.4조원… 현대차 제쳤다">HMM, 작년 영업익 7.4조원… 현대차 제쳤다</a>]]></content>
+        <title type="html"><![CDATA[HMM, 지난해 영업이익 7조3775억…창사 이래 최대]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002575580</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002575580"/>
+        <updated>2022-02-14T08:17:07.779Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002575580" class="nclicks(rig.secteco)" title="HMM, 지난해 영업이익 7조3775억…창사 이래 최대">HMM, 지난해 영업이익 7조3775억…창사 이래 최대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금감원, 코로나 이후 금융안정에 힘 쏟는다]]></title>
@@ -62,52 +55,59 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005044160" class="nclicks(rig.secteco)" title="금감원, 코로나 이후 금융안정에 힘 쏟는다">금감원, 코로나 이후 금융안정에 힘 쏟는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["2시간 방송에 132억 판매"…'갤럭시S22' 예판 첫날 완판 행진]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000653732</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000653732"/>
-        <updated>2022-02-14T07:14:11.568Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000653732" class="nclicks(rig.secteco)" title="&quot;2시간 방송에 132억 판매&quot;…'갤럭시S22' 예판 첫날 완판 행진">"2시간 방송에 132억 판매"…'갤럭시S22' 예판 첫날 완판 행진</a>]]></content>
+        <title type="html"><![CDATA[CJ제일제당, 연매출 첫 15조 돌파…"사상 최대"(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011001901</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011001901"/>
+        <updated>2022-02-14T08:17:07.782Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011001901" class="nclicks(rig.secteco)" title="CJ제일제당, 연매출 첫 15조 돌파…&quot;사상 최대&quot;(종합)">CJ제일제당, 연매출 첫 15조 돌파…"사상 최대"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["코로나19 널리 퍼질수록 위중증 환자는 감소"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002247488</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002247488"/>
-        <updated>2022-02-14T05:13:39.424Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002247488" class="nclicks(rig.secteco)" title="&quot;코로나19 널리 퍼질수록 위중증 환자는 감소&quot;">"코로나19 널리 퍼질수록 위중증 환자는 감소"</a>]]></content>
+        <title type="html"><![CDATA[완판속도도 역대급…삼성 갤럭시S22 사전판매 첫날 '완판']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=014&amp;aid=0004787757</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=014&amp;aid=0004787757"/>
+        <updated>2022-02-14T08:17:07.783Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=014&amp;aid=0004787757" class="nclicks(rig.secteco)" title="완판속도도 역대급…삼성 갤럭시S22 사전판매 첫날 '완판'">완판속도도 역대급…삼성 갤럭시S22 사전판매 첫날 '완판'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[면역저하자 150만명 오늘부터 4차접종…요양병원 3월 시행(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011001528</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011001528"/>
-        <updated>2022-02-14T07:14:11.572Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011001528" class="nclicks(rig.secteco)" title="면역저하자 150만명 오늘부터 4차접종…요양병원 3월 시행(종합)">면역저하자 150만명 오늘부터 4차접종…요양병원 3월 시행(종합)</a>]]></content>
+        <title type="html"><![CDATA["고맙다 쿠키런"…데브시스터즈, 지난해 영업익 563억원 '흑자전환']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002575588</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002575588"/>
+        <updated>2022-02-14T08:17:07.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002575588" class="nclicks(rig.secteco)" title="&quot;고맙다 쿠키런&quot;…데브시스터즈, 지난해 영업익 563억원 '흑자전환'">"고맙다 쿠키런"…데브시스터즈, 지난해 영업익 563억원 '흑자전환'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“유치원·초등생, 새 학기 등교하려면 주 2회 자가검사 받아야”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003666717</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003666717"/>
-        <updated>2022-02-14T07:14:11.573Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003666717" class="nclicks(rig.secteco)" title="“유치원·초등생, 새 학기 등교하려면 주 2회 자가검사 받아야”">“유치원·초등생, 새 학기 등교하려면 주 2회 자가검사 받아야”</a>]]></content>
+        <title type="html"><![CDATA[4차접종 시작됐다…면역저하자 오늘부터, 요양병원서는 내달부터(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012984045</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012984045"/>
+        <updated>2022-02-14T08:17:07.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012984045" class="nclicks(rig.secteco)" title="4차접종 시작됐다…면역저하자 오늘부터, 요양병원서는 내달부터(종합)">4차접종 시작됐다…면역저하자 오늘부터, 요양병원서는 내달부터(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 코로나 생활지원비 입원·격리자만…2인 7일 41만3천원]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579099</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579099"/>
-        <updated>2022-02-14T07:14:11.574Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579099" class="nclicks(rig.secteco)" title="오늘부터 코로나 생활지원비 입원·격리자만…2인 7일 41만3천원">오늘부터 코로나 생활지원비 입원·격리자만…2인 7일 41만3천원</a>]]></content>
+        <title type="html"><![CDATA[[단독] 자녀 대학 학자금 달라는 택배노조… 비현실적 협약서로 파업 확대 노리나]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=366&amp;aid=0000793588</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=366&amp;aid=0000793588"/>
+        <updated>2022-02-14T08:17:07.787Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=366&amp;aid=0000793588" class="nclicks(rig.secteco)" title="[단독] 자녀 대학 학자금 달라는 택배노조… 비현실적 협약서로 파업 확대 노리나">[단독] 자녀 대학 학자금 달라는 택배노조… 비현실적 협약서로 파업 확대 노리나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['녹두장군' 쓴 故송기숙 작가 '금관문화훈장']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=277&amp;aid=0005044187</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=277&amp;aid=0005044187"/>
-        <updated>2022-02-14T07:14:11.575Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=277&amp;aid=0005044187" class="nclicks(rig.secteco)" title="'녹두장군' 쓴 故송기숙 작가 '금관문화훈장'">'녹두장군' 쓴 故송기숙 작가 '금관문화훈장'</a>]]></content>
+        <title type="html"><![CDATA[3월부터 유치원·초중고생 등교 전 자가검사키트 ‘선제검사’]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579133</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579133"/>
+        <updated>2022-02-14T08:17:07.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579133" class="nclicks(rig.secteco)" title="3월부터 유치원·초중고생 등교 전 자가검사키트 ‘선제검사’">3월부터 유치원·초중고생 등교 전 자가검사키트 ‘선제검사’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민음사 세계문학전집 400호 돌파했다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004921582</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004921582"/>
-        <updated>2022-02-14T07:14:11.576Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004921582" class="nclicks(rig.secteco)" title="민음사 세계문학전집 400호 돌파했다">민음사 세계문학전집 400호 돌파했다</a>]]></content>
+        <title type="html"><![CDATA[고(故) 송기숙 소설가 금관문화훈장 추서]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=011&amp;aid=0004018586</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=011&amp;aid=0004018586"/>
+        <updated>2022-02-14T08:17:07.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=011&amp;aid=0004018586" class="nclicks(rig.secteco)" title="고(故) 송기숙 소설가 금관문화훈장 추서">고(故) 송기숙 소설가 금관문화훈장 추서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민음사 세계문학전집 400호 돌파...최고 인기책은 '호밀밭의 파수꾼']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011001791</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011001791"/>
+        <updated>2022-02-14T08:17:07.789Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011001791" class="nclicks(rig.secteco)" title="민음사 세계문학전집 400호 돌파...최고 인기책은 '호밀밭의 파수꾼'">민음사 세계문학전집 400호 돌파...최고 인기책은 '호밀밭의 파수꾼'</a>]]></content>
     </entry>
 </feed>
