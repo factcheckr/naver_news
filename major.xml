@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-14T02:25:16.710Z</updated>
+    <updated>2022-02-14T03:14:52.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 이재명, 이승만·박정희 등 前대통령 묘역참배…"나쁜것도 한부분"]]></title>
+        <title type="html"><![CDATA[[전문]이재명 “‘묻지마’ 정권교체, 정의일 수 없어…정치보복·폭압통치 세력 있다”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=016&amp;aid=0001950485</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=016&amp;aid=0001950485"/>
+        <updated>2022-02-14T03:14:24.378Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=016&amp;aid=0001950485" class="nclicks(rig.secteco)" title="[전문]이재명 “‘묻지마’ 정권교체, 정의일 수 없어…정치보복·폭압통치 세력 있다”　">[전문]이재명 “‘묻지마’ 정권교체, 정의일 수 없어…정치보복·폭압통치 세력 있다”　</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5년전 거부한 이승만·박정희 묘역참배한 이재명…"나쁜것도 한부분"]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000744744</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000744744"/>
         <updated>2022-02-14T01:55:08.621Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000744744" class="nclicks(rig.secteco)" title="[속보] 이재명, 이승만·박정희 등 前대통령 묘역참배…&quot;나쁜것도 한부분&quot;">[속보] 이재명, 이승만·박정희 등 前대통령 묘역참배…"나쁜것도 한부분"</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000744744" class="nclicks(rig.secteco)" title="5년전 거부한 이승만·박정희 묘역참배한 이재명…&quot;나쁜것도 한부분&quot;">5년전 거부한 이승만·박정희 묘역참배한 이재명…"나쁜것도 한부분"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권영세 "'여론조사 단일화' 좋은 방법 아냐…통 큰 단일화 필요"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000882066</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000882066"/>
-        <updated>2022-02-14T02:24:48.276Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000882066" class="nclicks(rig.secteco)" title="권영세 &quot;'여론조사 단일화' 좋은 방법 아냐…통 큰 단일화 필요&quot;">권영세 "'여론조사 단일화' 좋은 방법 아냐…통 큰 단일화 필요"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독립운동가 후손 화나게 한 광복회장, 비자금으로 한복 사입었나]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003251437</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003251437"/>
-        <updated>2022-02-14T02:24:48.278Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003251437" class="nclicks(rig.secteco)" title="독립운동가 후손 화나게 한 광복회장, 비자금으로 한복 사입었나">독립운동가 후손 화나게 한 광복회장, 비자금으로 한복 사입었나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미-캐나다 다리 점거 시위대 6일 만에 해산…다른 곳은 '진행 중']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005145765</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005145765"/>
-        <updated>2022-02-14T02:24:48.278Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005145765" class="nclicks(rig.secteco)" title="미-캐나다 다리 점거 시위대 6일 만에 해산…다른 곳은 '진행 중'">미-캐나다 다리 점거 시위대 6일 만에 해산…다른 곳은 '진행 중'</a>]]></content>
+        <title type="html"><![CDATA[권영세 "안철수, 통 큰 단일화 필요…4·7 보선과 선거 종류도 후보 상황도 달라"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002720292</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002720292"/>
+        <updated>2022-02-14T03:14:24.391Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002720292" class="nclicks(rig.secteco)" title="권영세 &quot;안철수, 통 큰 단일화 필요…4·7 보선과 선거 종류도 후보 상황도 달라&quot;">권영세 "안철수, 통 큰 단일화 필요…4·7 보선과 선거 종류도 후보 상황도 달라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["美 강력한 지지 보여달라"…러 침공 위협에 우크라 대통령, 바이든 초청]]></title>
@@ -41,39 +34,46 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=029&amp;aid=0002720287" class="nclicks(rig.secteco)" title="&quot;美 강력한 지지 보여달라&quot;…러 침공 위협에 우크라 대통령, 바이든 초청">"美 강력한 지지 보여달라"…러 침공 위협에 우크라 대통령, 바이든 초청</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["빚으로 겨우 버티는데 숨통 좀 트이나"…오늘부터 인뱅도 연3%·1억원 빌려준다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004921362</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004921362"/>
-        <updated>2022-02-14T00:48:44.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004921362" class="nclicks(rig.secteco)" title="&quot;빚으로 겨우 버티는데 숨통 좀 트이나&quot;…오늘부터 인뱅도 연3%·1억원 빌려준다">"빚으로 겨우 버티는데 숨통 좀 트이나"…오늘부터 인뱅도 연3%·1억원 빌려준다</a>]]></content>
+        <title type="html"><![CDATA[[World Now] 전쟁 위협 고조‥우크라이나 주재 외교관 탈출 러시]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001178241</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001178241"/>
+        <updated>2022-02-14T03:14:24.394Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001178241" class="nclicks(rig.secteco)" title="[World Now] 전쟁 위협 고조‥우크라이나 주재 외교관 탈출 러시">[World Now] 전쟁 위협 고조‥우크라이나 주재 외교관 탈출 러시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 주담대 금리 최고 6% 육박… 文 정부 4년 새 자산세수 2.4배 급증 [한강로 경제 브리핑]]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003666592</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003666592"/>
-        <updated>2022-02-13T23:13:58.485Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003666592" class="nclicks(rig.secteco)" title="은행 주담대 금리 최고 6% 육박… 文 정부 4년 새 자산세수 2.4배 급증 [한강로 경제 브리핑]">은행 주담대 금리 최고 6% 육박… 文 정부 4년 새 자산세수 2.4배 급증 [한강로 경제 브리핑]</a>]]></content>
+        <title type="html"><![CDATA[‘CJ대한통운 점거 5일째’ 택배노조 “21일 택배노동자대회 개최”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=016&amp;aid=0001950605</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=016&amp;aid=0001950605"/>
+        <updated>2022-02-14T03:14:24.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=016&amp;aid=0001950605" class="nclicks(rig.secteco)" title="‘CJ대한통운 점거 5일째’ 택배노조 “21일 택배노동자대회 개최”">‘CJ대한통운 점거 5일째’ 택배노조 “21일 택배노동자대회 개최”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["국민 절반이 바라는 차기정부 1순위 과제는 경제활성화"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012982381</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012982381"/>
-        <updated>2022-02-14T02:24:48.288Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012982381" class="nclicks(rig.secteco)" title="&quot;국민 절반이 바라는 차기정부 1순위 과제는 경제활성화&quot;">"국민 절반이 바라는 차기정부 1순위 과제는 경제활성화"</a>]]></content>
+        <title type="html"><![CDATA[대한항공, '차세대 친환경 항공기' 보잉 737-8 1호기 도입]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004787383</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004787383"/>
+        <updated>2022-02-14T03:14:24.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004787383" class="nclicks(rig.secteco)" title="대한항공, '차세대 친환경 항공기' 보잉 737-8 1호기 도입">대한항공, '차세대 친환경 항공기' 보잉 737-8 1호기 도입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['갤럭시S22' 공시지원금 최대 24만원, 선택약정 할인하면 공짜?]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005043963</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005043963"/>
-        <updated>2022-02-14T02:24:48.289Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005043963" class="nclicks(rig.secteco)" title="'갤럭시S22' 공시지원금 최대 24만원, 선택약정 할인하면 공짜?">'갤럭시S22' 공시지원금 최대 24만원, 선택약정 할인하면 공짜?</a>]]></content>
+        <title type="html"><![CDATA[환경영향평가서, 내달부터 대폭 달라진다…탄소중립 등 정책 반영]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005903488</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005903488"/>
+        <updated>2022-02-14T03:14:24.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005903488" class="nclicks(rig.secteco)" title="환경영향평가서, 내달부터 대폭 달라진다…탄소중립 등 정책 반영">환경영향평가서, 내달부터 대폭 달라진다…탄소중립 등 정책 반영</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공지능 자격증 시험, '코딩 알못' 기자 도전기]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000006347</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000006347"/>
-        <updated>2022-02-14T02:24:48.289Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000006347" class="nclicks(rig.secteco)" title="인공지능 자격증 시험, '코딩 알못' 기자 도전기">인공지능 자격증 시험, '코딩 알못' 기자 도전기</a>]]></content>
+        <title type="html"><![CDATA[‘곰손’도 ‘금손’ 되는 카메라 성능↑…“포토샵 없이 그림자도 지워주네”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=028&amp;aid=0002579085</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=028&amp;aid=0002579085"/>
+        <updated>2022-02-14T03:14:24.399Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=028&amp;aid=0002579085" class="nclicks(rig.secteco)" title="‘곰손’도 ‘금손’ 되는 카메라 성능↑…“포토샵 없이 그림자도 지워주네”">‘곰손’도 ‘금손’ 되는 카메라 성능↑…“포토샵 없이 그림자도 지워주네”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 클라우드 동향/2월②] 커지는 공공 클라우드 시장, 업계 준비 만반]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002118865</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002118865"/>
+        <updated>2022-02-14T03:14:24.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002118865" class="nclicks(rig.secteco)" title="[주간 클라우드 동향/2월②] 커지는 공공 클라우드 시장, 업계 준비 만반">[주간 클라우드 동향/2월②] 커지는 공공 클라우드 시장, 업계 준비 만반</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]여천NCC 다른 열교환기 ‘1987년 제작’…노후 기계결함 폭발 가능성]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003410832" class="nclicks(rig.secteco)" title="[단독]여천NCC 다른 열교환기 ‘1987년 제작’…노후 기계결함 폭발 가능성">[단독]여천NCC 다른 열교환기 ‘1987년 제작’…노후 기계결함 폭발 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 정부 “2월말 4차접종…요양시설 입소자·면역저하자 대상”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579081</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579081"/>
-        <updated>2022-02-14T02:24:48.289Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002579081" class="nclicks(rig.secteco)" title="[속보] 정부 “2월말 4차접종…요양시설 입소자·면역저하자 대상”">[속보] 정부 “2월말 4차접종…요양시설 입소자·면역저하자 대상”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신규확진 5만4천619명…위중증 306명, 17일만에 300명대(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982159</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982159"/>
         <updated>2022-02-14T01:55:08.641Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982159" class="nclicks(rig.secteco)" title="신규확진 5만4천619명…위중증 306명, 17일만에 300명대(종합)">신규확진 5만4천619명…위중증 306명, 17일만에 300명대(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유치원·초중고생과 교직원, 자가진단키트 활용해 선제검사(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982506</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982506"/>
+        <updated>2022-02-14T03:14:24.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0012982506" class="nclicks(rig.secteco)" title="유치원·초중고생과 교직원, 자가진단키트 활용해 선제검사(종합)">유치원·초중고생과 교직원, 자가진단키트 활용해 선제검사(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인들이 가장 좋아하는 한국 드라마는 '오징어게임']]></title>
