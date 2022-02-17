@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-17T04:18:54.348Z</updated>
+    <updated>2022-02-17T05:13:38.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]文 "반도체·배터리·백신 외투기업 세제·현금지원 강화"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004709465</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004709465"/>
+        <updated>2022-02-17T05:13:06.186Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004709465" class="nclicks(rig.secteco)" title="[속보]文 &quot;반도체·배터리·백신 외투기업 세제·현금지원 강화&quot;">[속보]文 "반도체·배터리·백신 외투기업 세제·현금지원 강화"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 40% 李 31% '초반 尹 기세'…李 본진 경기도 뒤집혔다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005912465</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005912465"/>
+        <updated>2022-02-17T05:13:06.188Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005912465" class="nclicks(rig.secteco)" title="尹 40% 李 31% '초반 尹 기세'…李 본진 경기도 뒤집혔다">尹 40% 李 31% '초반 尹 기세'…李 본진 경기도 뒤집혔다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석, 민주당에 '광주 복합쇼핑몰' 토론 제안 "즉흥 공약 아냐"]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342708</id>
@@ -13,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342708" class="nclicks(rig.secteco)" title="이준석, 민주당에 '광주 복합쇼핑몰' 토론 제안 &quot;즉흥 공약 아냐&quot;">이준석, 민주당에 '광주 복합쇼핑몰' 토론 제안 "즉흥 공약 아냐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[똑같던 이재명·윤석열 지지율, 일주일새 급변...원인은?]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005148806</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005148806"/>
-        <updated>2022-02-17T04:18:25.573Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005148806" class="nclicks(rig.secteco)" title="똑같던 이재명·윤석열 지지율, 일주일새 급변...원인은?">똑같던 이재명·윤석열 지지율, 일주일새 급변...원인은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거칠어진 윤석열의 입, 문재인 대통령=히틀러?]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342701</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342701"/>
-        <updated>2022-02-17T04:18:25.574Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002342701" class="nclicks(rig.secteco)" title="거칠어진 윤석열의 입, 문재인 대통령=히틀러?">거칠어진 윤석열의 입, 문재인 대통령=히틀러?</a>]]></content>
+        <title type="html"><![CDATA[러 매체 "우크라, 친러 반군 장악 루간스크에 4차례 포격"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000954406</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000954406"/>
+        <updated>2022-02-17T05:13:06.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000954406" class="nclicks(rig.secteco)" title="러 매체 &quot;우크라, 친러 반군 장악 루간스크에 4차례 포격&quot;">러 매체 "우크라, 친러 반군 장악 루간스크에 4차례 포격"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['러 철군 맞나'…가열되는 서방-러 '진실 공방(종합2보)]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=421&amp;aid=0005912097" class="nclicks(rig.secteco)" title="'러 철군 맞나'…가열되는 서방-러 '진실 공방(종합2보)">'러 철군 맞나'…가열되는 서방-러 '진실 공방(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["2015년엔 어땠길래"…연준 '1월 회의록'에서 확인된 점들]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004709451</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004709451"/>
-        <updated>2022-02-17T04:18:25.577Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004709451" class="nclicks(rig.secteco)" title="&quot;2015년엔 어땠길래&quot;…연준 '1월 회의록'에서 확인된 점들">"2015년엔 어땠길래"…연준 '1월 회의록'에서 확인된 점들</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4년간 아이스크림값 담합…공정위, 5개사에 과징금 1천350억원]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012993174</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012993174"/>
         <updated>2022-02-17T04:18:25.580Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0012993174" class="nclicks(rig.secteco)" title="4년간 아이스크림값 담합…공정위, 5개사에 과징금 1천350억원">4년간 아이스크림값 담합…공정위, 5개사에 과징금 1천350억원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오화경 신임 저축은행중앙회장...‘규제개선·디지털 뱅킹’ 현안 산적]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002576843</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002576843"/>
+        <updated>2022-02-17T05:13:06.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002576843" class="nclicks(rig.secteco)" title="오화경 신임 저축은행중앙회장...‘규제개선·디지털 뱅킹’ 현안 산적">오화경 신임 저축은행중앙회장...‘규제개선·디지털 뱅킹’ 현안 산적</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추경만 2번, 작년 정부지출 사상 처음으로 600조원 넘었다]]></title>
@@ -55,32 +62,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000794282" class="nclicks(rig.secteco)" title="추경만 2번, 작년 정부지출 사상 처음으로 600조원 넘었다">추경만 2번, 작년 정부지출 사상 처음으로 600조원 넘었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최대 月 300만원 농지연금…만 60세도 가입 가능해진다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004664685</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004664685"/>
-        <updated>2022-02-17T03:16:11.152Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004664685" class="nclicks(rig.secteco)" title="최대 月 300만원 농지연금…만 60세도 가입 가능해진다">최대 月 300만원 농지연금…만 60세도 가입 가능해진다</a>]]></content>
+        <title type="html"><![CDATA[LG U+ 요구 주파수 할당, 2월 무산…과기정통부 “종합적 검토”(일문일답)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005148824</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005148824"/>
+        <updated>2022-02-17T05:13:06.201Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005148824" class="nclicks(rig.secteco)" title="LG U+ 요구 주파수 할당, 2월 무산…과기정통부 “종합적 검토”(일문일답)">LG U+ 요구 주파수 할당, 2월 무산…과기정통부 “종합적 검토”(일문일답)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5G 주파수 추가할당 일정 지연…과기장관 "종합 검토 필요"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=001&amp;aid=0012993282</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=001&amp;aid=0012993282"/>
-        <updated>2022-02-17T04:18:25.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=001&amp;aid=0012993282" class="nclicks(rig.secteco)" title="5G 주파수 추가할당 일정 지연…과기장관 &quot;종합 검토 필요&quot;(종합)">5G 주파수 추가할당 일정 지연…과기장관 "종합 검토 필요"(종합)</a>]]></content>
+        <title type="html"><![CDATA["이번엔 노트북"…삼성, MWC서 야심작 '갤럭시 북' 공개]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004664731</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004664731"/>
+        <updated>2022-02-17T05:13:06.203Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004664731" class="nclicks(rig.secteco)" title="&quot;이번엔 노트북&quot;…삼성, MWC서 야심작 '갤럭시 북' 공개">"이번엔 노트북"…삼성, MWC서 야심작 '갤럭시 북' 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 새 갤럭시북 나온다…“이동성과 연결성 강화”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=081&amp;aid=0003252367</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=081&amp;aid=0003252367"/>
-        <updated>2022-02-17T04:18:25.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=081&amp;aid=0003252367" class="nclicks(rig.secteco)" title="삼성 새 갤럭시북 나온다…“이동성과 연결성 강화”">삼성 새 갤럭시북 나온다…“이동성과 연결성 강화”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘부정 채용’ 김성태 유죄·권성동 무죄 확정]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011214777</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011214777"/>
-        <updated>2022-02-17T04:18:25.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011214777" class="nclicks(rig.secteco)" title="‘부정 채용’ 김성태 유죄·권성동 무죄 확정">‘부정 채용’ 김성태 유죄·권성동 무죄 확정</a>]]></content>
+        <title type="html"><![CDATA[대법원서 희비 교차한 '채용비리'... 김성태 유죄-권성동 무죄]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002267392</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002267392"/>
+        <updated>2022-02-17T05:13:06.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002267392" class="nclicks(rig.secteco)" title="대법원서 희비 교차한 '채용비리'... 김성태 유죄-권성동 무죄">대법원서 희비 교차한 '채용비리'... 김성태 유죄-권성동 무죄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대법원, 강원랜드 채용비리 혐의 권성동 무죄 선고]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=047&amp;aid=0002342717" class="nclicks(rig.secteco)" title="대법원, 강원랜드 채용비리 혐의 권성동 무죄 선고">대법원, 강원랜드 채용비리 혐의 권성동 무죄 선고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오스템 불 꺼지기도 전에 '계양전기' 사태…'코리아 디스카운트' 우려]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000133228</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000133228"/>
-        <updated>2022-02-17T04:18:25.587Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000133228" class="nclicks(rig.secteco)" title="오스템 불 꺼지기도 전에 '계양전기' 사태…'코리아 디스카운트' 우려">오스템 불 꺼지기도 전에 '계양전기' 사태…'코리아 디스카운트' 우려</a>]]></content>
+        <title type="html"><![CDATA[[속보]국과수, 안철수 유세버스 사망자 '일산화탄소 중독 의심' 소견…수사 급물살]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000882711</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000882711"/>
+        <updated>2022-02-17T05:13:06.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000882711" class="nclicks(rig.secteco)" title="[속보]국과수, 안철수 유세버스 사망자 '일산화탄소 중독 의심' 소견…수사 급물살">[속보]국과수, 안철수 유세버스 사망자 '일산화탄소 중독 의심' 소견…수사 급물살</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍상수 '소설가의영화' 베를린 심사위원대상…김민희도 "감동"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=437&amp;aid=0000289947</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=437&amp;aid=0000289947"/>
-        <updated>2022-02-17T00:47:36.268Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=437&amp;aid=0000289947" class="nclicks(rig.secteco)" title="홍상수 '소설가의영화' 베를린 심사위원대상…김민희도 &quot;감동&quot;">홍상수 '소설가의영화' 베를린 심사위원대상…김민희도 "감동"</a>]]></content>
+        <title type="html"><![CDATA[황희 "'문화예술계 블랙리스트' 재발방지 제도 개선 70% 완료"(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0012993438</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0012993438"/>
+        <updated>2022-02-17T05:13:06.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0012993438" class="nclicks(rig.secteco)" title="황희 &quot;'문화예술계 블랙리스트' 재발방지 제도 개선 70% 완료&quot;(종합)">황희 "'문화예술계 블랙리스트' 재발방지 제도 개선 70% 완료"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['완충하면 400km 이상 주행'…한국지엠, '볼트EV·EUV' 2분기 인도]]></title>
