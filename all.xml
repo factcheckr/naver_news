@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-21T14:15:15.731Z</updated>
+    <updated>2022-02-21T15:16:58.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[16.9조 규모 추경 국회 통과…여야, 대선후 2차 추경도 예고(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <title type="html"><![CDATA[16.9조 추경 통과…대선 2주전 23일부터 332만명에 300만원씩 지급(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013003761</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013003761"/>
         <updated>2022-02-21T14:14:45.861Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013003761" class="nclicks(rig.secteco)" title="16.9조 규모 추경 국회 통과…여야, 대선후 2차 추경도 예고(종합)">16.9조 규모 추경 국회 통과…여야, 대선후 2차 추경도 예고(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]“332만명에 방역지원금 300만원” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263"/>
-        <updated>2022-02-21T12:24:02.897Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263" class="nclicks(rig.secteco)" title="[속보]“332만명에 방역지원금 300만원”">[속보]“332만명에 방역지원금 300만원”</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013003761" class="nclicks(rig.secteco)" title="16.9조 추경 통과…대선 2주전 23일부터 332만명에 300만원씩 지급(종합)">16.9조 추경 통과…대선 2주전 23일부터 332만명에 300만원씩 지급(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹이 김혜경 법카 꺼내자…"尹 죽어" 김만배 녹취록 외친 李 [TV토론②] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,39 +19,46 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003175163" class="nclicks(rig.secteco)" title="尹이 김혜경 법카 꺼내자…&quot;尹 죽어&quot; 김만배 녹취록 외친 李 [TV토론②]">尹이 김혜경 법카 꺼내자…"尹 죽어" 김만배 녹취록 외친 李 [TV토론②]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 "러시아 전면 공격 준비하는 듯"‥미·러 정상회담 개최 원칙적 합의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001179770</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001179770"/>
-        <updated>2022-02-21T14:14:45.864Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=214&amp;aid=0001179770" class="nclicks(rig.secteco)" title="미 &quot;러시아 전면 공격 준비하는 듯&quot;‥미·러 정상회담 개최 원칙적 합의">미 "러시아 전면 공격 준비하는 듯"‥미·러 정상회담 개최 원칙적 합의</a>]]></content>
+        <title type="html"><![CDATA[[속보]“332만명에 방역지원금 300만원” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263"/>
+        <updated>2022-02-21T12:24:02.897Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003253263" class="nclicks(rig.secteco)" title="[속보]“332만명에 방역지원금 300만원”">[속보]“332만명에 방역지원금 300만원”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 “우크라이나가 국경 침범”…우크라이나 “거짓” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002580074</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002580074"/>
-        <updated>2022-02-21T14:14:45.865Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=028&amp;aid=0002580074" class="nclicks(rig.secteco)" title="러시아 “우크라이나가 국경 침범”…우크라이나 “거짓”">러시아 “우크라이나가 국경 침범”…우크라이나 “거짓”</a>]]></content>
+        <title type="html"><![CDATA[“바이든, ‘푸틴에 미·러 정상회담 제안해달라’고 프랑스 마크롱에 요청” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795089</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795089"/>
+        <updated>2022-02-21T15:16:30.394Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795089" class="nclicks(rig.secteco)" title="“바이든, ‘푸틴에 미·러 정상회담 제안해달라’고 프랑스 마크롱에 요청”">“바이든, ‘푸틴에 미·러 정상회담 제안해달라’고 프랑스 마크롱에 요청”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["일단 다 받아라"…금리 10% 청년적금 폭주에 은행앱 마비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175144</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175144"/>
-        <updated>2022-02-21T12:24:02.902Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175144" class="nclicks(rig.secteco)" title="&quot;일단 다 받아라&quot;…금리 10% 청년적금 폭주에 은행앱 마비">"일단 다 받아라"…금리 10% 청년적금 폭주에 은행앱 마비</a>]]></content>
+        <title type="html"><![CDATA[러시아 “로스토프주 국경 침범 시도한 우크라이나 정찰대원 5명 사살” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795093</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795093"/>
+        <updated>2022-02-21T15:16:30.394Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000795093" class="nclicks(rig.secteco)" title="러시아 “로스토프주 국경 침범 시도한 우크라이나 정찰대원 5명 사살”">러시아 “로스토프주 국경 침범 시도한 우크라이나 정찰대원 5명 사살”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대기업 직장인 월급 529만원, 중소기업은 그 절반 '임금격차 여전' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=031&amp;aid=0000655240</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=031&amp;aid=0000655240"/>
-        <updated>2022-02-21T13:18:18.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=031&amp;aid=0000655240" class="nclicks(rig.secteco)" title="대기업 직장인 월급 529만원, 중소기업은 그 절반 '임금격차 여전'">대기업 직장인 월급 529만원, 중소기업은 그 절반 '임금격차 여전'</a>]]></content>
+        <title type="html"><![CDATA[“금리 10%짜리래” 청년희망적금 첫날부터 가입 폭주 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175193</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175193"/>
+        <updated>2022-02-21T15:16:30.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175193" class="nclicks(rig.secteco)" title="“금리 10%짜리래” 청년희망적금 첫날부터 가입 폭주">“금리 10%짜리래” 청년희망적금 첫날부터 가입 폭주</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융위 "코로나 대출 4차 재연장 방안 마련"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011018321</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011018321"/>
-        <updated>2022-02-21T14:14:45.870Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011018321" class="nclicks(rig.secteco)" title="금융위 &quot;코로나 대출 4차 재연장 방안 마련&quot;(종합)">금융위 "코로나 대출 4차 재연장 방안 마련"(종합)</a>]]></content>
+        <title type="html"><![CDATA[알바생 줄어서 평균임금 늘었나? 코로나 월급의 역설 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175216</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175216"/>
+        <updated>2022-02-21T15:16:30.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003175216" class="nclicks(rig.secteco)" title="알바생 줄어서 평균임금 늘었나? 코로나 월급의 역설">알바생 줄어서 평균임금 늘었나? 코로나 월급의 역설</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융위 "소상공인 대출 만기연장·상환유예, 4월 이후로 4차 연장" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=469&amp;aid=0000659538</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=469&amp;aid=0000659538"/>
+        <updated>2022-02-21T15:16:30.399Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=469&amp;aid=0000659538" class="nclicks(rig.secteco)" title="금융위 &quot;소상공인 대출 만기연장·상환유예, 4월 이후로 4차 연장&quot;">금융위 "소상공인 대출 만기연장·상환유예, 4월 이후로 4차 연장"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장병규 의장, 크래프톤 100억 장내매수… "주주가치 제고" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=366&amp;aid=0000795085" class="nclicks(rig.secteco)" title="택배노조, CJ대한통운 본사 점거 농성 일부 해제…“마지막 대화 기회”">택배노조, CJ대한통운 본사 점거 농성 일부 해제…“마지막 대화 기회”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방침 바꾼 교육부 “새학기 2주간 전면원격 허용” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003674227</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003674227"/>
-        <updated>2022-02-21T14:14:45.879Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003674227" class="nclicks(rig.secteco)" title="방침 바꾼 교육부 “새학기 2주간 전면원격 허용”">방침 바꾼 교육부 “새학기 2주간 전면원격 허용”</a>]]></content>
+        <title type="html"><![CDATA["새학기 2주는 기준 못 미쳐도 원격수업 가능"..한발 물러선 교육부 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001704800</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001704800"/>
+        <updated>2022-02-21T15:16:30.403Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001704800" class="nclicks(rig.secteco)" title="&quot;새학기 2주는 기준 못 미쳐도 원격수업 가능&quot;..한발 물러선 교육부">"새학기 2주는 기준 못 미쳐도 원격수업 가능"..한발 물러선 교육부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오후 6시까지 신규확진 8만6372명…어제보다 2348명 많아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003129750</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003129750"/>
-        <updated>2022-02-21T14:14:45.880Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003129750" class="nclicks(rig.secteco)" title="오후 6시까지 신규확진 8만6372명…어제보다 2348명 많아">오후 6시까지 신규확진 8만6372명…어제보다 2348명 많아</a>]]></content>
+        <title type="html"><![CDATA['탈북자 월북' 놓친 22사단서 간부들 직무유기 의혹…"상황실에서 유튜브 보고, 대대엔 보고 누락" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004021411</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004021411"/>
+        <updated>2022-02-21T15:16:30.404Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004021411" class="nclicks(rig.secteco)" title="'탈북자 월북' 놓친 22사단서 간부들 직무유기 의혹…&quot;상황실에서 유튜브 보고, 대대엔 보고 누락&quot;">'탈북자 월북' 놓친 22사단서 간부들 직무유기 의혹…"상황실에서 유튜브 보고, 대대엔 보고 누락"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안호상 사장 "세종문화회관, 예술단 중심 제작극장으로 전환" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
