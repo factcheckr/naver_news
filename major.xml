@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-24T15:16:24.843Z</updated>
+    <updated>2022-02-24T16:20:41.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011026168" class="nclicks(rig.secteco)" title="문 대통령 &quot;러시아, 우크라이나 침공 유감…경제제재 동참&quot;(종합)">문 대통령 "러시아, 우크라이나 침공 유감…경제제재 동참"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹, '호남 홀대론' 부각…文, 의미있는 '군산조선소' 방문]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=629&amp;aid=0000134650</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=629&amp;aid=0000134650"/>
-        <updated>2022-02-24T15:15:50.018Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=629&amp;aid=0000134650" class="nclicks(rig.secteco)" title="尹, '호남 홀대론' 부각…文, 의미있는 '군산조선소' 방문">尹, '호남 홀대론' 부각…文, 의미있는 '군산조선소' 방문</a>]]></content>
+        <title type="html"><![CDATA[군산조선소, 2023년 1월 운영 재개한다…정부·지자체와 협약 체결]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003670670</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003670670"/>
+        <updated>2022-02-24T16:20:10.614Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003670670" class="nclicks(rig.secteco)" title="군산조선소, 2023년 1월 운영 재개한다…정부·지자체와 협약 체결">군산조선소, 2023년 1월 운영 재개한다…정부·지자체와 협약 체결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰 "김건희 관련 도이치모터스 공소장, 오류 없다"]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013012152" class="nclicks(rig.secteco)" title="[우크라 침공] 나토, 동부 유럽 병력 강화…&quot;우크라에 파병 계획 없어&quot;(종합2보)">[우크라 침공] 나토, 동부 유럽 병력 강화…"우크라에 파병 계획 없어"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한전, 작년 영업손실 5조8601억 원…역대 최대 적자]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640"/>
-        <updated>2022-02-24T15:15:50.034Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640" class="nclicks(rig.secteco)" title="한전, 작년 영업손실 5조8601억 원…역대 최대 적자">한전, 작년 영업손실 5조8601억 원…역대 최대 적자</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GTX 상록수역 신설, 삼성역은 2028년까지 무정차 통과]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176133</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176133"/>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176133" class="nclicks(rig.secteco)" title="GTX 상록수역 신설, 삼성역은 2028년까지 무정차 통과">GTX 상록수역 신설, 삼성역은 2028년까지 무정차 통과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["1억5천이면 강남에 25평 짓는다" SH사장 반값아파트 구상]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176058</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176058"/>
+        <title type="html"><![CDATA[한전, 작년 영업손실 5조8601억 원…역대 최대 적자]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640"/>
         <updated>2022-02-24T15:15:50.034Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176058" class="nclicks(rig.secteco)" title="&quot;1억5천이면 강남에 25평 짓는다&quot; SH사장 반값아파트 구상">"1억5천이면 강남에 25평 짓는다" SH사장 반값아파트 구상</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134640" class="nclicks(rig.secteco)" title="한전, 작년 영업손실 5조8601억 원…역대 최대 적자">한전, 작년 영업손실 5조8601억 원…역대 최대 적자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 물가상승률 10년 만에 3%대]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=087&amp;aid=0000883930</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=087&amp;aid=0000883930"/>
+        <updated>2022-02-24T16:20:10.622Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=087&amp;aid=0000883930" class="nclicks(rig.secteco)" title="올해 물가상승률 10년 만에 3%대">올해 물가상승률 10년 만에 3%대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독해진 남궁훈 “배부르고 봐야”…카카오 메타버스는 ‘롤플레잉 채팅’]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507771" class="nclicks(rig.secteco)" title="[단독] 수상했던 마포 살해 피의자, 경찰 메모에 덜미">[단독] 수상했던 마포 살해 피의자, 경찰 메모에 덜미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['썩은 김치' 후폭풍…"환불해달라" 100억 넘게 판 홈쇼핑 진땀]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004712641</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004712641"/>
-        <updated>2022-02-24T15:15:50.041Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004712641" class="nclicks(rig.secteco)" title="'썩은 김치' 후폭풍…&quot;환불해달라&quot; 100억 넘게 판 홈쇼핑 진땀">'썩은 김치' 후폭풍…"환불해달라" 100억 넘게 판 홈쇼핑 진땀</a>]]></content>
+        <title type="html"><![CDATA[[속보] 신규 확진 14만 3229명 확진… 25일 17만명 예상]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003254199</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003254199"/>
+        <updated>2022-02-24T16:20:10.628Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003254199" class="nclicks(rig.secteco)" title="[속보] 신규 확진 14만 3229명 확진… 25일 17만명 예상">[속보] 신규 확진 14만 3229명 확진… 25일 17만명 예상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["귀국후 의무격리 없다"…사이판으로 떠난 한국인, 1만명 넘어]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=031&amp;aid=0000656097" class="nclicks(rig.secteco)" title="&quot;귀국후 의무격리 없다&quot;…사이판으로 떠난 한국인, 1만명 넘어">"귀국후 의무격리 없다"…사이판으로 떠난 한국인, 1만명 넘어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["문 정부서 한국교회 가장 불행"…목사 777명, 윤석열 지지선언]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=031&amp;aid=0000656095</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=031&amp;aid=0000656095"/>
-        <updated>2022-02-24T15:15:50.044Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=031&amp;aid=0000656095" class="nclicks(rig.secteco)" title="&quot;문 정부서 한국교회 가장 불행&quot;…목사 777명, 윤석열 지지선언">"문 정부서 한국교회 가장 불행"…목사 777명, 윤석열 지지선언</a>]]></content>
+        <title type="html"><![CDATA[기독대안학교 세워 요셉같은 인물 키우기에 주력]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613296</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613296"/>
+        <updated>2022-02-24T16:20:10.630Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613296" class="nclicks(rig.secteco)" title="기독대안학교 세워 요셉같은 인물 키우기에 주력">기독대안학교 세워 요셉같은 인물 키우기에 주력</a>]]></content>
     </entry>
 </feed>
