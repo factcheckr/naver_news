@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T22:15:53.472Z</updated>
+    <updated>2022-02-24T23:15:51.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[문 대통령 "러시아, 우크라이나 침공 유감…경제제재 동참"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011026168</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011026168"/>
-        <updated>2022-02-24T21:13:28.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011026168" class="nclicks(rig.secteco)" title="문 대통령 &quot;러시아, 우크라이나 침공 유감…경제제재 동참&quot;(종합)">문 대통령 "러시아, 우크라이나 침공 유감…경제제재 동참"(종합)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 김건희 신한 계좌, '선수와 결별' 후에도 통정 거래 발생 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002343693</id>
@@ -26,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002343635" class="nclicks(rig.secteco)" title="군산조선소에 간 문 대통령 &quot;정부 함께한 것 기억해달라&quot;">군산조선소에 간 문 대통령 "정부 함께한 것 기억해달라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아軍 체르노빌 점령..."이런 무차별 공격, 유럽도 위험" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176214</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176214"/>
-        <updated>2022-02-24T22:15:26.158Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176214" class="nclicks(rig.secteco)" title="러시아軍 체르노빌 점령...&quot;이런 무차별 공격, 유럽도 위험&quot;">러시아軍 체르노빌 점령..."이런 무차별 공격, 유럽도 위험"</a>]]></content>
+        <title type="html"><![CDATA[문 대통령, '무력 침공' 규정…"국제사회 제재 동참" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=437&amp;aid=0000290741</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=437&amp;aid=0000290741"/>
+        <updated>2022-02-24T23:15:23.816Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=437&amp;aid=0000290741" class="nclicks(rig.secteco)" title="문 대통령, '무력 침공' 규정…&quot;국제사회 제재 동참&quot;">문 대통령, '무력 침공' 규정…"국제사회 제재 동참"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 "러시아군 체르노빌 원전 점령…심각한 문제" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003130696</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003130696"/>
+        <updated>2022-02-24T23:15:23.816Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003130696" class="nclicks(rig.secteco)" title="우크라이나 &quot;러시아군 체르노빌 원전 점령…심각한 문제&quot;">우크라이나 "러시아군 체르노빌 원전 점령…심각한 문제"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“푸틴은 침략자” 격노한 바이든, 러 침공에 ‘수출 통제’ 추가 제재 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,18 +54,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005930276" class="nclicks(rig.secteco)" title="러-우크라 전쟁에 韓 물가 '휘청'…한은, 연 3.1%로 대폭 상향">러-우크라 전쟁에 韓 물가 '휘청'…한은, 연 3.1%로 대폭 상향</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5.8조 적자 한전…러시아-우크라 사태로 올해는 더 '암울' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005930284</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005930284"/>
-        <updated>2022-02-24T21:13:28.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005930284" class="nclicks(rig.secteco)" title="5.8조 적자 한전…러시아-우크라 사태로 올해는 더 '암울'">5.8조 적자 한전…러시아-우크라 사태로 올해는 더 '암울'</a>]]></content>
+        <title type="html"><![CDATA["서울 강남 25평 아파트 5억에 분양"..'김헌동의 매직' 실현될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004794022</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004794022"/>
+        <updated>2022-02-24T23:15:23.823Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004794022" class="nclicks(rig.secteco)" title="&quot;서울 강남 25평 아파트 5억에 분양&quot;..'김헌동의 매직' 실현될까">"서울 강남 25평 아파트 5억에 분양"..'김헌동의 매직' 실현될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독해진 남궁훈 “배부르고 봐야”…카카오 메타버스는 ‘롤플레잉 채팅’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005154309</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005154309"/>
-        <updated>2022-02-24T20:15:44.339Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005154309" class="nclicks(rig.secteco)" title="독해진 남궁훈 “배부르고 봐야”…카카오 메타버스는 ‘롤플레잉 채팅’">독해진 남궁훈 “배부르고 봐야”…카카오 메타버스는 ‘롤플레잉 채팅’</a>]]></content>
+        <title type="html"><![CDATA[카카오, 3D 아바타 아닌 '텍스트'로 간다…남궁훈의 메타버스는 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004926993</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004926993"/>
+        <updated>2022-02-24T23:15:23.825Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004926993" class="nclicks(rig.secteco)" title="카카오, 3D 아바타 아닌 '텍스트'로 간다…남궁훈의 메타버스는">카카오, 3D 아바타 아닌 '텍스트'로 간다…남궁훈의 메타버스는</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["도대체 어디서 파나요"...S22 인기에 뜬금 품귀템된 '이것' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,32 +82,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=469&amp;aid=0000660126" class="nclicks(rig.secteco)" title="[단독] 대구 방역패스 정지, 경북으로 파장... '행정고시' 통해 중단 추진">[단독] 대구 방역패스 정지, 경북으로 파장... '행정고시' 통해 중단 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 전날 차번호 메모한 경찰, 살해 피의자 5시간 만에 검거 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507882</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507882"/>
-        <updated>2022-02-24T20:15:44.343Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507882" class="nclicks(rig.secteco)" title="[단독] 전날 차번호 메모한 경찰, 살해 피의자 5시간 만에 검거">[단독] 전날 차번호 메모한 경찰, 살해 피의자 5시간 만에 검거</a>]]></content>
+        <title type="html"><![CDATA[평창 방림면 산불 16시간째…헬기 5대 투입 진화작업 재개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005930401</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005930401"/>
+        <updated>2022-02-24T23:15:23.830Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005930401" class="nclicks(rig.secteco)" title="평창 방림면 산불 16시간째…헬기 5대 투입 진화작업 재개">평창 방림면 산불 16시간째…헬기 5대 투입 진화작업 재개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위치 ‘깜깜’ 송전선로…산불 진화 헬기 위협 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011219617</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011219617"/>
-        <updated>2022-02-24T22:15:26.178Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011219617" class="nclicks(rig.secteco)" title="위치 ‘깜깜’ 송전선로…산불 진화 헬기 위협">위치 ‘깜깜’ 송전선로…산불 진화 헬기 위협</a>]]></content>
+        <title type="html"><![CDATA[[단독] 수상했던 마포 살해 피의자, 경찰 메모에 덜미 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507771</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507771"/>
+        <updated>2022-02-24T23:15:23.831Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001507771" class="nclicks(rig.secteco)" title="[단독] 수상했던 마포 살해 피의자, 경찰 메모에 덜미">[단독] 수상했던 마포 살해 피의자, 경찰 메모에 덜미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 전국 낮 기온 10도 안팎…평년 수준 회복 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930343</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930343"/>
-        <updated>2022-02-24T22:15:26.180Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930343" class="nclicks(rig.secteco)" title="[오늘 날씨] 전국 낮 기온 10도 안팎…평년 수준 회복">[오늘 날씨] 전국 낮 기온 10도 안팎…평년 수준 회복</a>]]></content>
+        <title type="html"><![CDATA[[오늘 날씨]낮 서울 10도·춘천 10도…평년 기온 회복 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930304</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930304"/>
+        <updated>2022-02-24T23:15:23.833Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005930304" class="nclicks(rig.secteco)" title="[오늘 날씨]낮 서울 10도·춘천 10도…평년 기온 회복">[오늘 날씨]낮 서울 10도·춘천 10도…평년 기온 회복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 광역시도기독교연합회, 3.1운동 연합 기도회 개최 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613845</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613845"/>
-        <updated>2022-02-24T22:15:26.181Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003613845" class="nclicks(rig.secteco)" title="전국 광역시도기독교연합회, 3.1운동 연합 기도회 개최">전국 광역시도기독교연합회, 3.1운동 연합 기도회 개최</a>]]></content>
+        <title type="html"><![CDATA[추위 물러났지만 미세먼지…경기 동부 등에는 비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=016&amp;aid=0001956281</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=016&amp;aid=0001956281"/>
+        <updated>2022-02-24T23:15:23.834Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=016&amp;aid=0001956281" class="nclicks(rig.secteco)" title="추위 물러났지만 미세먼지…경기 동부 등에는 비">추위 물러났지만 미세먼지…경기 동부 등에는 비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '삼성디플 CEO 사과 받은 '삼다르크'' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
