@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-25T19:12:54.993Z</updated>
+    <updated>2022-02-25T20:15:41.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정치개혁 격돌...이재명 "尹만 반대" vs 윤석열 "정치 쇼"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001706818</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001706818"/>
+        <updated>2022-02-25T20:15:12.013Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=052&amp;aid=0001706818" class="nclicks(rig.secteco)" title="정치개혁 격돌...이재명 &quot;尹만 반대&quot; vs 윤석열 &quot;정치 쇼&quot;">정치개혁 격돌...이재명 "尹만 반대" vs 윤석열 "정치 쇼"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文 “원전이 주력” 대선직전 뒤집기]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675398</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675398" class="nclicks(rig.secteco)" title="文 “원전이 주력” 대선직전 뒤집기">文 “원전이 주력” 대선직전 뒤집기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李 “제3의 선택 할수있게 선거개혁” 尹 “대선 열흘 앞두고 정치쇼”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675401</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675401"/>
-        <updated>2022-02-25T19:12:27.112Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675401" class="nclicks(rig.secteco)" title="李 “제3의 선택 할수있게 선거개혁” 尹 “대선 열흘 앞두고 정치쇼”">李 “제3의 선택 할수있게 선거개혁” 尹 “대선 열흘 앞두고 정치쇼”</a>]]></content>
+        <title type="html"><![CDATA[李 “대장동 몸통은 윤석열, 尹게이트” 尹 “이완용이 안중근에 매국노라는 꼴”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675413</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675413"/>
+        <updated>2022-02-25T20:15:12.016Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003675413" class="nclicks(rig.secteco)" title="李 “대장동 몸통은 윤석열, 尹게이트” 尹 “이완용이 안중근에 매국노라는 꼴”">李 “대장동 몸통은 윤석열, 尹게이트” 尹 “이완용이 안중근에 매국노라는 꼴”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[TV토론] 이재명 "尹이 대장동 몸통" vs 윤석열 "제가 성남시장 했나, 초밥 먹었나"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=119&amp;aid=0002579782</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=119&amp;aid=0002579782"/>
-        <updated>2022-02-25T19:12:27.113Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=119&amp;aid=0002579782" class="nclicks(rig.secteco)" title="[TV토론] 이재명 &quot;尹이 대장동 몸통&quot; vs 윤석열 &quot;제가 성남시장 했나, 초밥 먹었나&quot;">[TV토론] 이재명 "尹이 대장동 몸통" vs 윤석열 "제가 성남시장 했나, 초밥 먹었나"</a>]]></content>
+        <title type="html"><![CDATA[[속보] 푸틴 "우크라와 고위급협상 희망" 시진핑 "협상 지지"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176330</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176330"/>
+        <updated>2022-02-25T20:15:12.021Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003176330" class="nclicks(rig.secteco)" title="[속보] 푸틴 &quot;우크라와 고위급협상 희망&quot; 시진핑 &quot;협상 지지&quot;">[속보] 푸틴 "우크라와 고위급협상 희망" 시진핑 "협상 지지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 침공 이틀째, 푸틴·시진핑 통화… “우크라와 협상 원해”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003675321</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003675321"/>
-        <updated>2022-02-25T17:15:16.537Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003675321" class="nclicks(rig.secteco)" title="우크라 침공 이틀째, 푸틴·시진핑 통화… “우크라와 협상 원해”">우크라 침공 이틀째, 푸틴·시진핑 통화… “우크라와 협상 원해”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 러시아군, 우크라이나 수도 키예프 함락 ‘초읽기’]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=243&amp;aid=0000023437</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=243&amp;aid=0000023437"/>
-        <updated>2022-02-25T17:15:16.537Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=243&amp;aid=0000023437" class="nclicks(rig.secteco)" title="[속보] 러시아군, 우크라이나 수도 키예프 함락 ‘초읽기’">[속보] 러시아군, 우크라이나 수도 키예프 함락 ‘초읽기’</a>]]></content>
+        <title type="html"><![CDATA[[우크라 침공] EU, 푸틴 직접 겨냥…"역내 자산동결할 것"(종합2보)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013014266</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013014266"/>
+        <updated>2022-02-25T20:15:12.021Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013014266" class="nclicks(rig.secteco)" title="[우크라 침공] EU, 푸틴 직접 겨냥…&quot;역내 자산동결할 것&quot;(종합2보)">[우크라 침공] EU, 푸틴 직접 겨냥…"역내 자산동결할 것"(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주6일, 76시간 근무 개선됐는데... 이것이 '택배노조 횡포'?]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=047&amp;aid=0002343821" class="nclicks(rig.secteco)" title="주6일, 76시간 근무 개선됐는데... 이것이 '택배노조 횡포'?">주6일, 76시간 근무 개선됐는데... 이것이 '택배노조 횡포'?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422"/>
-        <updated>2022-02-25T14:13:35.157Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422" class="nclicks(rig.secteco)" title="카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다">카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리금융, 지주·은행 임원인사 및 조직개편 단행]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134836</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134836"/>
         <updated>2022-02-25T17:15:16.541Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134836" class="nclicks(rig.secteco)" title="우리금융, 지주·은행 임원인사 및 조직개편 단행">우리금융, 지주·은행 임원인사 및 조직개편 단행</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422"/>
+        <updated>2022-02-25T14:13:35.157Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023422" class="nclicks(rig.secteco)" title="카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다">카뱅·케뱅, 중저신용자 대출 크게 확대…올해도 규모 키운다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 15일에 누리호 2차 발사!...위성 등 1.5톤 탑재]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003670961" class="nclicks(rig.secteco)" title="[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개">[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[확진자 가족, 접종 관계 없이 3월부터 격리 안해도 된다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=353&amp;aid=0000041696</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=353&amp;aid=0000041696"/>
-        <updated>2022-02-25T16:20:07.720Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=353&amp;aid=0000041696" class="nclicks(rig.secteco)" title="확진자 가족, 접종 관계 없이 3월부터 격리 안해도 된다">확진자 가족, 접종 관계 없이 3월부터 격리 안해도 된다</a>]]></content>
+        <title type="html"><![CDATA[3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271"/>
+        <updated>2022-02-25T20:15:12.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271" class="nclicks(rig.secteco)" title="3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지">3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“어릴적 트라우마 술로 의지”… 음주래퍼 장용준, 법정 최후진술엔]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005155388" class="nclicks(rig.secteco)" title="“어릴적 트라우마 술로 의지”… 음주래퍼 장용준, 법정 최후진술엔">“어릴적 트라우마 술로 의지”… 음주래퍼 장용준, 법정 최후진술엔</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["광화문은 실감콘텐츠 명소"…문체부-콘진원, '광화시대' 8종 전시]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=030&amp;aid=0003000922</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=030&amp;aid=0003000922"/>
-        <updated>2022-02-25T16:20:07.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=030&amp;aid=0003000922" class="nclicks(rig.secteco)" title="&quot;광화문은 실감콘텐츠 명소&quot;…문체부-콘진원, '광화시대' 8종 전시">"광화문은 실감콘텐츠 명소"…문체부-콘진원, '광화시대' 8종 전시</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시작부터 엇박자 '웹툰작가 상생협의체'… 창작자 '눈물' 닦아줄까]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=417&amp;aid=0000788891</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=417&amp;aid=0000788891"/>
         <updated>2022-02-25T16:20:07.789Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=417&amp;aid=0000788891" class="nclicks(rig.secteco)" title="시작부터 엇박자 '웹툰작가 상생협의체'… 창작자 '눈물' 닦아줄까">시작부터 엇박자 '웹툰작가 상생협의체'… 창작자 '눈물' 닦아줄까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박물관 외벽이 초대형 캔버스로…'광화벽화'로 '광화시대' 완성]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011026925</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011026925"/>
+        <updated>2022-02-25T20:15:12.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011026925" class="nclicks(rig.secteco)" title="박물관 외벽이 초대형 캔버스로…'광화벽화'로 '광화시대' 완성">박물관 외벽이 초대형 캔버스로…'광화벽화'로 '광화시대' 완성</a>]]></content>
     </entry>
 </feed>
