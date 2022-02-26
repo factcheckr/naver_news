@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-26T10:15:30.726Z</updated>
+    <updated>2022-02-26T11:13:01.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문 대통령, 이어령 전 장관 빈소 조문…"영면 기원"(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011029144</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011029144"/>
+        <updated>2022-02-26T11:12:32.411Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011029144" class="nclicks(rig.secteco)" title="문 대통령, 이어령 전 장관 빈소 조문…&quot;영면 기원&quot;(종합)">문 대통령, 이어령 전 장관 빈소 조문…"영면 기원"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 말처럼… 윤석열은 "일본 자위대 한반도 진입 허용" 말했나]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000660551</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000660551" class="nclicks(rig.secteco)" title="이재명 말처럼… 윤석열은 &quot;일본 자위대 한반도 진입 허용&quot; 말했나">이재명 말처럼… 윤석열은 "일본 자위대 한반도 진입 허용" 말했나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 "방역지원금 300만원은 불충분…최대 1000만원 지원"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562"/>
-        <updated>2022-02-26T07:13:25.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562" class="nclicks(rig.secteco)" title="윤석열 &quot;방역지원금 300만원은 불충분…최대 1000만원 지원&quot;">윤석열 "방역지원금 300만원은 불충분…최대 1000만원 지원"</a>]]></content>
+        <title type="html"><![CDATA[러 침공이 우크라 대통령 탓?… 윤석열, 李 발언에 “국제 망신, 대신 사과드린다”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003671188</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003671188"/>
+        <updated>2022-02-26T11:12:32.416Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003671188" class="nclicks(rig.secteco)" title="러 침공이 우크라 대통령 탓?… 윤석열, 李 발언에 “국제 망신, 대신 사과드린다”">러 침공이 우크라 대통령 탓?… 윤석열, 李 발언에 “국제 망신, 대신 사과드린다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 “尹, 유관순에게 미안하지도 않나” 직격]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254535</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254535"/>
-        <updated>2022-02-26T09:13:29.592Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254535" class="nclicks(rig.secteco)" title="이재명 “尹, 유관순에게 미안하지도 않나” 직격">이재명 “尹, 유관순에게 미안하지도 않나” 직격</a>]]></content>
+        <title type="html"><![CDATA[S&P, 러시아 신용등급 '정크'로 낮춰…무디스도 강등 검토(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011028862</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011028862"/>
+        <updated>2022-02-26T11:12:32.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011028862" class="nclicks(rig.secteco)" title="S&amp;P, 러시아 신용등급 '정크'로 낮춰…무디스도 강등 검토(종합)">S&amp;P, 러시아 신용등급 '정크'로 낮춰…무디스도 강등 검토(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피치, 우크라 신용등급 '채무불이행 우려'로 강등]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092"/>
-        <updated>2022-02-26T10:15:02.086Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092" class="nclicks(rig.secteco)" title="피치, 우크라 신용등급 '채무불이행 우려'로 강등">피치, 우크라 신용등급 '채무불이행 우려'로 강등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643"/>
-        <updated>2022-02-26T10:15:02.087Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643" class="nclicks(rig.secteco)" title="서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산">서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산</a>]]></content>
+        <title type="html"><![CDATA[미국·EU "푸틴 자산 동결"…유엔 안보리 결의안 채택 무산]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001645200</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001645200"/>
+        <updated>2022-02-26T11:12:32.418Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=057&amp;aid=0001645200" class="nclicks(rig.secteco)" title="미국·EU &quot;푸틴 자산 동결&quot;…유엔 안보리 결의안 채택 무산">미국·EU "푸틴 자산 동결"…유엔 안보리 결의안 채택 무산</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000290866" class="nclicks(rig.secteco)" title="우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파">우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868"/>
+        <updated>2022-02-26T11:12:32.420Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868" class="nclicks(rig.secteco)" title="뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑">뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548"/>
         <updated>2022-02-26T10:15:02.093Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548" class="nclicks(rig.secteco)" title="코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응">코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003670961</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003670961"/>
-        <updated>2022-02-26T09:13:29.601Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003670961" class="nclicks(rig.secteco)" title="[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개">[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우크라이나 침공 강력 규탄"…MWC서 러시아관 빠진다]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000656375" class="nclicks(rig.secteco)" title="&quot;우크라이나 침공 강력 규탄&quot;…MWC서 러시아관 빠진다">"우크라이나 침공 강력 규탄"…MWC서 러시아관 빠진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[강민구의 星별우주]우주에 대한 국민 인식은 어떨까]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628"/>
-        <updated>2022-02-26T10:15:02.098Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628" class="nclicks(rig.secteco)" title="[강민구의 星별우주]우주에 대한 국민 인식은 어떨까">[강민구의 星별우주]우주에 대한 국민 인식은 어떨까</a>]]></content>
+        <title type="html"><![CDATA[2022년 발사체·위성·우주탐사 다한다...7340억원 투자]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=584&amp;aid=0000017954</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=584&amp;aid=0000017954"/>
+        <updated>2022-02-26T11:12:32.425Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=584&amp;aid=0000017954" class="nclicks(rig.secteco)" title="2022년 발사체·위성·우주탐사 다한다...7340억원 투자">2022년 발사체·위성·우주탐사 다한다...7340억원 투자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 사망 112명 '역대 최다'…확진 16만6209명·위중증 643명(종합)]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439" class="nclicks(rig.secteco)" title="단식 6일째 진경호 택배노조위원장 병원행…&quot;매우 위험한 상태&quot;">단식 6일째 진경호 택배노조위원장 병원행…"매우 위험한 상태"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[완도군 야산 산불, 2시간 15분만에 진화]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105"/>
-        <updated>2022-02-26T10:15:02.100Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105" class="nclicks(rig.secteco)" title="완도군 야산 산불, 2시간 15분만에 진화">완도군 야산 산불, 2시간 15분만에 진화</a>]]></content>
+        <title type="html"><![CDATA[오늘만 전국 12곳서 동시다발 산불…인제 등 3곳 진화중(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005933105</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005933105"/>
+        <updated>2022-02-26T11:12:32.428Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005933105" class="nclicks(rig.secteco)" title="오늘만 전국 12곳서 동시다발 산불…인제 등 3곳 진화중(종합)">오늘만 전국 12곳서 동시다발 산불…인제 등 3곳 진화중(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['우리 시대 최고의 지성' 이어령 초대 문화부 장관 별세]]></title>
