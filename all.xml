@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-26T09:13:59.280Z</updated>
+    <updated>2022-02-26T10:15:30.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이재명 말처럼… 윤석열은 "일본 자위대 한반도 진입 허용" 말했나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000660551</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000660551"/>
+        <updated>2022-02-26T10:15:02.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000660551" class="nclicks(rig.secteco)" title="이재명 말처럼… 윤석열은 &quot;일본 자위대 한반도 진입 허용&quot; 말했나">이재명 말처럼… 윤석열은 "일본 자위대 한반도 진입 허용" 말했나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 "방역지원금 300만원은 불충분…최대 1000만원 지원" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562"/>
         <updated>2022-02-26T07:13:25.680Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004927562" class="nclicks(rig.secteco)" title="윤석열 &quot;방역지원금 300만원은 불충분…최대 1000만원 지원&quot;">윤석열 "방역지원금 300만원은 불충분…최대 1000만원 지원"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "尹, 일본 자위대 발언 실언이길…사과하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=586&amp;aid=0000035449</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=586&amp;aid=0000035449"/>
-        <updated>2022-02-26T09:13:29.592Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=586&amp;aid=0000035449" class="nclicks(rig.secteco)" title="이재명 &quot;尹, 일본 자위대 발언 실언이길…사과하라&quot;">이재명 "尹, 일본 자위대 발언 실언이길…사과하라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 “尹, 유관순에게 미안하지도 않나” 직격 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,25 +26,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254535" class="nclicks(rig.secteco)" title="이재명 “尹, 유관순에게 미안하지도 않나” 직격">이재명 “尹, 유관순에게 미안하지도 않나” 직격</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[S＆P, 러시아 신용등급 ‘투자부적격’ BB+로 강등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000796257</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000796257"/>
-        <updated>2022-02-26T08:16:31.341Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=366&amp;aid=0000796257" class="nclicks(rig.secteco)" title="S＆P, 러시아 신용등급 ‘투자부적격’ BB+로 강등">S＆P, 러시아 신용등급 ‘투자부적격’ BB+로 강등</a>]]></content>
+        <title type="html"><![CDATA[피치, 우크라 신용등급 '채무불이행 우려'로 강등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092"/>
+        <updated>2022-02-26T10:15:02.086Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000530092" class="nclicks(rig.secteco)" title="피치, 우크라 신용등급 '채무불이행 우려'로 강등">피치, 우크라 신용등급 '채무불이행 우려'로 강등</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“침략 국가가 상임이사국” 유엔도 속수무책 … 외교도 부재 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254521</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254521"/>
-        <updated>2022-02-26T06:17:28.115Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254521" class="nclicks(rig.secteco)" title="“침략 국가가 상임이사국” 유엔도 속수무책 … 외교도 부재">“침략 국가가 상임이사국” 유엔도 속수무책 … 외교도 부재</a>]]></content>
+        <title type="html"><![CDATA[서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643"/>
+        <updated>2022-02-26T10:15:02.087Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=448&amp;aid=0000352643" class="nclicks(rig.secteco)" title="서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산">서방, 푸틴 직접 제재…유엔, 러시아 규탄 결의안 채택 무산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["휘발윳값 2000원 넘을 수도"…국제유가 급등세에 러 우크라 침공까지 가중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004927555</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004927555"/>
-        <updated>2022-02-26T06:17:28.117Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004927555" class="nclicks(rig.secteco)" title="&quot;휘발윳값 2000원 넘을 수도&quot;…국제유가 급등세에 러 우크라 침공까지 가중">"휘발윳값 2000원 넘을 수도"…국제유가 급등세에 러 우크라 침공까지 가중</a>]]></content>
+        <title type="html"><![CDATA[우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000290866</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000290866"/>
+        <updated>2022-02-26T10:15:02.092Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000290866" class="nclicks(rig.secteco)" title="우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파">우크라 사태에 휘발윳값 들썩…서울 리터당 1800원 돌파</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548"/>
+        <updated>2022-02-26T10:15:02.093Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005155548" class="nclicks(rig.secteco)" title="코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응">코트라 '우크라이나 비상대책반' 가동…수출현안 긴급 대응</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,32 +61,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003670961" class="nclicks(rig.secteco)" title="[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개">[단독] 포스코 홀딩스 2023년 3월까지 포항 이전 추진… 합의서 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868"/>
-        <updated>2022-02-26T05:13:10.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000134868" class="nclicks(rig.secteco)" title="뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑">뉴욕증시, 러·우크라 대화 움직임 소식에 상승마감... 다우 2.51%↑</a>]]></content>
+        <title type="html"><![CDATA["우크라이나 침공 강력 규탄"…MWC서 러시아관 빠진다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000656375</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000656375"/>
+        <updated>2022-02-26T10:15:02.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000656375" class="nclicks(rig.secteco)" title="&quot;우크라이나 침공 강력 규탄&quot;…MWC서 러시아관 빠진다">"우크라이나 침공 강력 규탄"…MWC서 러시아관 빠진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MWC 3년 만에 정상개최…모바일업계 메타버스·AI 기술 경연 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=374&amp;aid=0000276920</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=374&amp;aid=0000276920"/>
-        <updated>2022-02-26T08:16:31.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=374&amp;aid=0000276920" class="nclicks(rig.secteco)" title="MWC 3년 만에 정상개최…모바일업계 메타버스·AI 기술 경연">MWC 3년 만에 정상개최…모바일업계 메타버스·AI 기술 경연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038159</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038159"/>
-        <updated>2022-02-25T21:13:49.662Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038159" class="nclicks(rig.secteco)" title="[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’">[이젠, 우주]강해져 돌아온다…한 달 늦췄지만 더 완벽한 누리호, 6월 ‘우주로’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단식 6일째 진경호 택배노조위원장 병원행…"매우 위험한 상태" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439"/>
-        <updated>2022-02-26T09:13:29.608Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439" class="nclicks(rig.secteco)" title="단식 6일째 진경호 택배노조위원장 병원행…&quot;매우 위험한 상태&quot;">단식 6일째 진경호 택배노조위원장 병원행…"매우 위험한 상태"</a>]]></content>
+        <title type="html"><![CDATA[[강민구의 星별우주]우주에 대한 국민 인식은 어떨까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628"/>
+        <updated>2022-02-26T10:15:02.098Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005155628" class="nclicks(rig.secteco)" title="[강민구의 星별우주]우주에 대한 국민 인식은 어떨까">[강민구의 星별우주]우주에 대한 국민 인식은 어떨까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 사망 112명 '역대 최다'…확진 16만6209명·위중증 643명(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,18 +82,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005932563" class="nclicks(rig.secteco)" title="코로나 사망 112명 '역대 최다'…확진 16만6209명·위중증 643명(종합)">코로나 사망 112명 '역대 최다'…확진 16만6209명·위중증 643명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271"/>
-        <updated>2022-02-26T07:13:25.701Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176271" class="nclicks(rig.secteco)" title="3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지">3월부터 가족 중 확진자 나와도 격리 안해...학생은 등교중지</a>]]></content>
+        <title type="html"><![CDATA[단식 6일째 진경호 택배노조위원장 병원행…"매우 위험한 상태" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439"/>
+        <updated>2022-02-26T09:13:29.608Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003176439" class="nclicks(rig.secteco)" title="단식 6일째 진경호 택배노조위원장 병원행…&quot;매우 위험한 상태&quot;">단식 6일째 진경호 택배노조위원장 병원행…"매우 위험한 상태"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['시대의 지성' 이어령 초대 문화부 장관 별세…향년 89세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=586&amp;aid=0000035447</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=586&amp;aid=0000035447"/>
-        <updated>2022-02-26T09:13:29.612Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=586&amp;aid=0000035447" class="nclicks(rig.secteco)" title="'시대의 지성' 이어령 초대 문화부 장관 별세…향년 89세">'시대의 지성' 이어령 초대 문화부 장관 별세…향년 89세</a>]]></content>
+        <title type="html"><![CDATA[완도군 야산 산불, 2시간 15분만에 진화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105"/>
+        <updated>2022-02-26T10:15:02.100Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011029105" class="nclicks(rig.secteco)" title="완도군 야산 산불, 2시간 15분만에 진화">완도군 야산 산불, 2시간 15분만에 진화</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우리 시대 최고의 지성' 이어령 초대 문화부 장관 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=469&amp;aid=0000660540</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=469&amp;aid=0000660540"/>
+        <updated>2022-02-26T10:15:02.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=469&amp;aid=0000660540" class="nclicks(rig.secteco)" title="'우리 시대 최고의 지성' 이어령 초대 문화부 장관 별세">'우리 시대 최고의 지성' 이어령 초대 문화부 장관 별세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 전국 대부분 지역 초미세먼지 '나쁨'…내일은 '보통' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
