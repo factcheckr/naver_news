@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-02-28T03:16:43.867Z</updated>
+    <updated>2022-02-28T04:19:26.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文대통령, 국제사회 비판 의식한듯…"우크라에 인도적 지원"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004713991</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004713991"/>
+        <updated>2022-02-28T04:18:56.055Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004713991" class="nclicks(rig.secteco)" title="文대통령, 국제사회 비판 의식한듯…&quot;우크라에 인도적 지원&quot;">文대통령, 국제사회 비판 의식한듯…"우크라에 인도적 지원"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 우크라 침공으로 긴장 높은데…관심 환기하는 북한]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254800</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254800"/>
         <updated>2022-02-28T03:16:11.316Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003254800" class="nclicks(rig.secteco)" title="러시아 우크라 침공으로 긴장 높은데…관심 환기하는 북한">러시아 우크라 침공으로 긴장 높은데…관심 환기하는 북한</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문 대통령 "우크라이나에 인도적 지원, 신속 강구하라"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344018</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344018"/>
-        <updated>2022-02-28T03:16:11.320Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344018" class="nclicks(rig.secteco)" title="문 대통령 &quot;우크라이나에 인도적 지원, 신속 강구하라&quot;">문 대통령 "우크라이나에 인도적 지원, 신속 강구하라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“우크라이나 사태에 국제 관심 환기 노려” 北미사일에 긴급 지휘관 회의]]></title>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005156580" class="nclicks(rig.secteco)" title="EU 행정부 수장 “우크라, EU 일부 되길 바란다”…우크라는?(상보)">EU 행정부 수장 “우크라, EU 일부 되길 바란다”…우크라는?(상보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘우크라이나 미녀들 중국으로 오고 있다’ 中 SNS, 허위 정보 차단]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001957333</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001957333"/>
-        <updated>2022-02-28T03:16:11.323Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001957333" class="nclicks(rig.secteco)" title="‘우크라이나 미녀들 중국으로 오고 있다’ 中 SNS, 허위 정보 차단">‘우크라이나 미녀들 중국으로 오고 있다’ 中 SNS, 허위 정보 차단</a>]]></content>
+        <title type="html"><![CDATA[中SNS “우크라 미녀 온다” “신난다”…한국서도 성희롱 글 올라와]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254805</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254805"/>
+        <updated>2022-02-28T04:18:56.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003254805" class="nclicks(rig.secteco)" title="中SNS “우크라 미녀 온다” “신난다”…한국서도 성희롱 글 올라와">中SNS “우크라 미녀 온다” “신난다”…한국서도 성희롱 글 올라와</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글로벌 반도체 대란에도 작년 한국 자동차생산 346만대로 세계 5위]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002119760</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002119760"/>
-        <updated>2022-02-28T03:16:11.326Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002119760" class="nclicks(rig.secteco)" title="글로벌 반도체 대란에도 작년 한국 자동차생산 346만대로 세계 5위">글로벌 반도체 대란에도 작년 한국 자동차생산 346만대로 세계 5위</a>]]></content>
+        <title type="html"><![CDATA[대우건설, 백정완 체제 출범…임원인사·조직개편 단행]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000135113</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000135113"/>
+        <updated>2022-02-28T04:18:56.061Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=629&amp;aid=0000135113" class="nclicks(rig.secteco)" title="대우건설, 백정완 체제 출범…임원인사·조직개편 단행">대우건설, 백정완 체제 출범…임원인사·조직개편 단행</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월 주택매매 전년 대비 54%↓…지방 미분양 쌓인다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003131236</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003131236"/>
+        <updated>2022-02-28T04:18:56.063Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003131236" class="nclicks(rig.secteco)" title="1월 주택매매 전년 대비 54%↓…지방 미분양 쌓인다">1월 주택매매 전년 대비 54%↓…지방 미분양 쌓인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['그랜저' 실내에서 독성물질 톨루엔 기준치 초과]]></title>
@@ -53,13 +60,6 @@
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003131225"/>
         <updated>2022-02-28T03:16:11.329Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003131225" class="nclicks(rig.secteco)" title="'그랜저' 실내에서 독성물질 톨루엔 기준치 초과">'그랜저' 실내에서 독성물질 톨루엔 기준치 초과</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽁꽁 얼어붙은 주택시장…1월 주택 거래량 8년 반만에 최저]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176779</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176779"/>
-        <updated>2022-02-28T03:16:11.330Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003176779" class="nclicks(rig.secteco)" title="꽁꽁 얼어붙은 주택시장…1월 주택 거래량 8년 반만에 최저">꽁꽁 얼어붙은 주택시장…1월 주택 거래량 8년 반만에 최저</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MWC]'갤럭시폰 DNA' 입은 노트북…'갤럭시북2 프로' 써보니]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=629&amp;aid=0000135093" class="nclicks(rig.secteco)" title="네이버·카카오, 재택치료 '상담·처방' 가능 병·의원 정보 제공">네이버·카카오, 재택치료 '상담·처방' 가능 병·의원 정보 제공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[논란·갈등 시달린 방역패스, 4개월만에 중단…"효용성 떨어져"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017395</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017395"/>
-        <updated>2022-02-28T02:06:13.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017395" class="nclicks(rig.secteco)" title="논란·갈등 시달린 방역패스, 4개월만에 중단…&quot;효용성 떨어져&quot;">논란·갈등 시달린 방역패스, 4개월만에 중단…"효용성 떨어져"</a>]]></content>
+        <title type="html"><![CDATA['QR인증' 사라진다…내일부터 모든 방역패스 잠정 중단(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017891</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017891"/>
+        <updated>2022-02-28T04:18:56.069Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017891" class="nclicks(rig.secteco)" title="'QR인증' 사라진다…내일부터 모든 방역패스 잠정 중단(종합)">'QR인증' 사라진다…내일부터 모든 방역패스 잠정 중단(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법무부 "국내 우크라인 3천843명 인도적 특별체류 조치"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017458</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017458"/>
-        <updated>2022-02-28T02:06:13.808Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017458" class="nclicks(rig.secteco)" title="법무부 &quot;국내 우크라인 3천843명 인도적 특별체류 조치&quot;(종합)">법무부 "국내 우크라인 3천843명 인도적 특별체류 조치"(종합)</a>]]></content>
+        <title type="html"><![CDATA[문대통령 "우크라이나에 대한 인도적 지원 신속히 강구하라"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000884347</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000884347"/>
+        <updated>2022-02-28T04:18:56.070Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=087&amp;aid=0000884347" class="nclicks(rig.secteco)" title="문대통령 &quot;우크라이나에 대한 인도적 지원 신속히 강구하라&quot;">문대통령 "우크라이나에 대한 인도적 지원 신속히 강구하라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규확진 13만9626명…사망 114명, 또 역대최다·위중증 715명(종합)]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013017223" class="nclicks(rig.secteco)" title="신규확진 13만9626명…사망 114명, 또 역대최다·위중증 715명(종합)">신규확진 13만9626명…사망 114명, 또 역대최다·위중증 715명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["오! 세상에" 이정재·정호연, 美배우조합상 남녀주연상]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004713958</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004713958"/>
-        <updated>2022-02-28T03:16:11.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004713958" class="nclicks(rig.secteco)" title="&quot;오! 세상에&quot; 이정재·정호연, 美배우조합상 남녀주연상">"오! 세상에" 이정재·정호연, 美배우조합상 남녀주연상</a>]]></content>
+        <title type="html"><![CDATA[이정재 "오 세상에" 정호연은 눈물…美SAG 휩쓴 '오징어게임']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003176791</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003176791"/>
+        <updated>2022-02-28T04:18:56.072Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003176791" class="nclicks(rig.secteco)" title="이정재 &quot;오 세상에&quot; 정호연은 눈물…美SAG 휩쓴 '오징어게임'">이정재 "오 세상에" 정호연은 눈물…美SAG 휩쓴 '오징어게임'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['10억 몸값' 비키니 셀럽녀, 이번엔 볼트EV 탄다]]></title>
