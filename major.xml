@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-06T21:13:38.349Z</updated>
+    <updated>2022-03-06T22:15:19.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[선관위, 심야 2차 사과문서 "확진 선거인 투표함 직접 투입"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011046200</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011046200"/>
-        <updated>2022-03-06T19:11:29.887Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011046200" class="nclicks(rig.secteco)" title="선관위, 심야 2차 사과문서 &quot;확진 선거인 투표함 직접 투입&quot;">선관위, 심야 2차 사과문서 "확진 선거인 투표함 직접 투입"</a>]]></content>
+        <title type="html"><![CDATA["김만배, 박영수·윤석열 통해 부산저축은행 사건 해결" 보도에 尹 측 "명백한 허위"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002723577</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002723577"/>
+        <updated>2022-03-06T22:14:49.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=029&amp;aid=0002723577" class="nclicks(rig.secteco)" title="&quot;김만배, 박영수·윤석열 통해 부산저축은행 사건 해결&quot; 보도에 尹 측 &quot;명백한 허위&quot;">"김만배, 박영수·윤석열 통해 부산저축은행 사건 해결" 보도에 尹 측 "명백한 허위"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['법대로 했다'던 선관위, 심야 '2차 사과'…"책임 통감"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003617358</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003617358"/>
+        <updated>2022-03-06T22:14:49.313Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003617358" class="nclicks(rig.secteco)" title="'법대로 했다'던 선관위, 심야 '2차 사과'…&quot;책임 통감&quot;">'법대로 했다'던 선관위, 심야 '2차 사과'…"책임 통감"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 북한이 쏜 위성들 알고보니 '깡통 위성'…김정은의 가짜 우주쇼 실상]]></title>
@@ -20,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=011&amp;aid=0004026388" class="nclicks(rig.secteco)" title="[단독] 북한이 쏜 위성들 알고보니 '깡통 위성'…김정은의 가짜 우주쇼 실상">[단독] 북한이 쏜 위성들 알고보니 '깡통 위성'…김정은의 가짜 우주쇼 실상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김만배 녹취록 "尹 통해 부산저축은행 사건 해결" 국민의힘 "명백한 허위"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747936</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747936"/>
-        <updated>2022-03-06T21:13:07.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747936" class="nclicks(rig.secteco)" title="김만배 녹취록 &quot;尹 통해 부산저축은행 사건 해결&quot; 국민의힘 &quot;명백한 허위&quot;">김만배 녹취록 "尹 통해 부산저축은행 사건 해결" 국민의힘 "명백한 허위"</a>]]></content>
+        <title type="html"><![CDATA[美 국무 “동맹과 러 원유 제재 논의중”…무디스, 러 등급 10단계 강등]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=374&amp;aid=0000277718</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=374&amp;aid=0000277718"/>
+        <updated>2022-03-06T22:14:49.316Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=374&amp;aid=0000277718" class="nclicks(rig.secteco)" title="美 국무 “동맹과 러 원유 제재 논의중”…무디스, 러 등급 10단계 강등">美 국무 “동맹과 러 원유 제재 논의중”…무디스, 러 등급 10단계 강등</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무디스, 러 신용등급 4단계 추가 강등]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003673565</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003673565"/>
-        <updated>2022-03-06T21:13:07.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003673565" class="nclicks(rig.secteco)" title="무디스, 러 신용등급 4단계 추가 강등">무디스, 러 신용등급 4단계 추가 강등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 블링컨 “유럽 동맹과 러 원유수출 금지 논의 중”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001960196</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001960196"/>
-        <updated>2022-03-06T21:13:07.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001960196" class="nclicks(rig.secteco)" title="美 블링컨 “유럽 동맹과 러 원유수출 금지 논의 중”">美 블링컨 “유럽 동맹과 러 원유수출 금지 논의 중”</a>]]></content>
+        <title type="html"><![CDATA[러 "반드시 목표 달성"…미, 원유 제재 검토]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000531391</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000531391"/>
+        <updated>2022-03-06T22:14:49.323Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=422&amp;aid=0000531391" class="nclicks(rig.secteco)" title="러 &quot;반드시 목표 달성&quot;…미, 원유 제재 검토">러 "반드시 목표 달성"…미, 원유 제재 검토</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차·삼성·SK·두산…산불 피해복구 주민지원 기부 행렬]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011046223" class="nclicks(rig.secteco)" title="현대차·삼성·SK·두산…산불 피해복구 주민지원 기부 행렬">현대차·삼성·SK·두산…산불 피해복구 주민지원 기부 행렬</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 예상의 8배...청년희망적금, 열흘만에 290만명 몰렸다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004798739</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004798739"/>
-        <updated>2022-03-06T21:13:07.829Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004798739" class="nclicks(rig.secteco)" title="정부 예상의 8배...청년희망적금, 열흘만에 290만명 몰렸다">정부 예상의 8배...청년희망적금, 열흘만에 290만명 몰렸다</a>]]></content>
+        <title type="html"><![CDATA[산불 피해 지원에 손 모으는 금융권…“대출 상환유예·만기연장”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023773</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023773"/>
+        <updated>2022-03-06T22:14:49.325Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000023773" class="nclicks(rig.secteco)" title="산불 피해 지원에 손 모으는 금융권…“대출 상환유예·만기연장”">산불 피해 지원에 손 모으는 금융권…“대출 상환유예·만기연장”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 “러시아 손잡은 벨라루스에 수출 통제 제재”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000791673</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000791673"/>
-        <updated>2022-03-06T21:13:07.830Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000791673" class="nclicks(rig.secteco)" title="정부 “러시아 손잡은 벨라루스에 수출 통제 제재”">정부 “러시아 손잡은 벨라루스에 수출 통제 제재”</a>]]></content>
+        <title type="html"><![CDATA[정부 "'우크라 침공 지원' 벨라루스도 수출 통제"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=422&amp;aid=0000531397</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=422&amp;aid=0000531397"/>
+        <updated>2022-03-06T22:14:49.327Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=422&amp;aid=0000531397" class="nclicks(rig.secteco)" title="정부 &quot;'우크라 침공 지원' 벨라루스도 수출 통제&quot;">정부 "'우크라 침공 지원' 벨라루스도 수출 통제"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시S22 'GOS 논란' 확산…?국민청원에 긱벤치 퇴출까지]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033997" class="nclicks(rig.secteco)" title="울산 울주군 산불 7시간 30여 분만에 진화…13㏊ 피해 추정">울산 울주군 산불 7시간 30여 분만에 진화…13㏊ 피해 추정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["무시당했다" 강릉·동해 산불 촉발 60대 구속]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000531383</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000531383"/>
-        <updated>2022-03-06T21:13:07.836Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000531383" class="nclicks(rig.secteco)" title="&quot;무시당했다&quot; 강릉·동해 산불 촉발 60대 구속">"무시당했다" 강릉·동해 산불 촉발 60대 구속</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오후 9시까지 전국서 20만405명 확진…어제보다 3만1901명 적어(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033929</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033929"/>
         <updated>2022-03-06T17:13:37.315Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033929" class="nclicks(rig.secteco)" title="오후 9시까지 전국서 20만405명 확진…어제보다 3만1901명 적어(종합)">오후 9시까지 전국서 20만405명 확진…어제보다 3만1901명 적어(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무시 당한다고 동해안 잿더미 만든 60대 구속 "헬멧쓰고 불질러"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004716725</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004716725"/>
+        <updated>2022-03-06T22:14:49.338Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004716725" class="nclicks(rig.secteco)" title="무시 당한다고 동해안 잿더미 만든 60대 구속 &quot;헬멧쓰고 불질러&quot;">무시 당한다고 동해안 잿더미 만든 60대 구속 "헬멧쓰고 불질러"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“산불 이재민 돕겠다”…이병헌·아이유·송강호·김고은 릴레이기부(종합)]]></title>
