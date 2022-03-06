@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-06T15:15:06.878Z</updated>
+    <updated>2022-03-06T16:19:52.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[울진·삼척 특별재난지역 선포, LH주택 활용 주거지원 지시]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=654&amp;aid=0000004367</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=654&amp;aid=0000004367"/>
-        <updated>2022-03-06T15:14:39.348Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=654&amp;aid=0000004367" class="nclicks(rig.secteco)" title="울진·삼척 특별재난지역 선포, LH주택 활용 주거지원 지시">울진·삼척 특별재난지역 선포, LH주택 활용 주거지원 지시</a>]]></content>
+        <title type="html"><![CDATA[문 대통령, 울진·삼척 특별재난지역 선포 "사람이 중요"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344864</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344864"/>
+        <updated>2022-03-06T16:19:24.770Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002344864" class="nclicks(rig.secteco)" title="문 대통령, 울진·삼척 특별재난지역 선포 &quot;사람이 중요&quot;">문 대통령, 울진·삼척 특별재난지역 선포 "사람이 중요"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 NO출근 사과는 없어']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934"/>
+        <updated>2022-03-06T14:13:25.801Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934" class="nclicks(rig.secteco)" title="[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 NO출근 사과는 없어'">[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 NO출근 사과는 없어'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文대통령 "사전투표 논란 유감... 선관위, 충분히 설명해야"]]></title>
@@ -18,13 +25,6 @@
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=123&amp;aid=0002268733"/>
         <updated>2022-03-06T13:17:15.657Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=123&amp;aid=0002268733" class="nclicks(rig.secteco)" title="文대통령 &quot;사전투표 논란 유감... 선관위, 충분히 설명해야&quot;">文대통령 "사전투표 논란 유감... 선관위, 충분히 설명해야"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 No출근 사과는 없어']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934"/>
-        <updated>2022-03-06T14:13:25.801Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000747934" class="nclicks(rig.secteco)" title="[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 No출근 사과는 없어'">[속보] 선관위 내일 긴급회의 앞두고 2차 사과 '노정희 No출근 사과는 없어'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무디스, 러 신용등급 ‘파산 직전’으로 강등… 사흘간 10단계 추락]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=022&amp;aid=0003673504" class="nclicks(rig.secteco)" title="게임하면 성능 저하… 갤럭시S22 ‘GOS’ 작동 논란 확산">게임하면 성능 저하… 갤럭시S22 ‘GOS’ 작동 논란 확산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아직도 살아 있었어?” 전도연 접속했던 ‘이것’ 결국 눈물의 퇴장]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001960184</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001960184"/>
-        <updated>2022-03-06T13:17:15.667Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001960184" class="nclicks(rig.secteco)" title="“아직도 살아 있었어?” 전도연 접속했던 ‘이것’ 결국 눈물의 퇴장">“아직도 살아 있었어?” 전도연 접속했던 ‘이것’ 결국 눈물의 퇴장</a>]]></content>
+        <title type="html"><![CDATA[영화 '접속'에 나온 PC통신 유니텔, 26년만에 사업 접는다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003178132</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003178132"/>
+        <updated>2022-03-06T16:19:24.784Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003178132" class="nclicks(rig.secteco)" title="영화 '접속'에 나온 PC통신 유니텔, 26년만에 사업 접는다">영화 '접속'에 나온 PC통신 유니텔, 26년만에 사업 접는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강릉 옥계 '토치 방화범' 구속‥ "도주 우려·증거 인멸"]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005054192" class="nclicks(rig.secteco)" title="코로나 확진자, 오후 9시까지 전국서 20만405명…어제보다 3만1901명↓">코로나 확진자, 오후 9시까지 전국서 20만405명…어제보다 3만1901명↓</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오후 6시까지 17만4537명 확진…어제보다 2만9774명↓]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005161072</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005161072"/>
-        <updated>2022-03-06T14:13:25.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005161072" class="nclicks(rig.secteco)" title="오후 6시까지 17만4537명 확진…어제보다 2만9774명↓">오후 6시까지 17만4537명 확진…어제보다 2만9774명↓</a>]]></content>
+        <title type="html"><![CDATA[울주군 산불 밤샘 방화선 구축…"내일 해 뜨면 헬기 투입"(종합2보)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033958</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033958"/>
+        <updated>2022-03-06T16:19:24.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013033958" class="nclicks(rig.secteco)" title="울주군 산불 밤샘 방화선 구축…&quot;내일 해 뜨면 헬기 투입&quot;(종합2보)">울주군 산불 밤샘 방화선 구축…"내일 해 뜨면 헬기 투입"(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“울진·삼척 산불 이재민 위해” 아이유·김고은·이병헌·송강호 등 기부 손길]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=032&amp;aid=0003132628" class="nclicks(rig.secteco)" title="“울진·삼척 산불 이재민 위해” 아이유·김고은·이병헌·송강호 등 기부 손길">“울진·삼척 산불 이재민 위해” 아이유·김고은·이병헌·송강호 등 기부 손길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 당분간 비 소식 없어...꽃샘추위 내일 차츰 풀려]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001710402</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001710402"/>
-        <updated>2022-03-06T15:14:39.364Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001710402" class="nclicks(rig.secteco)" title="[날씨] 당분간 비 소식 없어...꽃샘추위 내일 차츰 풀려">[날씨] 당분간 비 소식 없어...꽃샘추위 내일 차츰 풀려</a>]]></content>
+        <title type="html"><![CDATA[“李지지 김어준, 뉴스공장 진행은 심의규정 위반” 법정 제재 받는다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003677022</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003677022"/>
+        <updated>2022-03-06T16:19:24.791Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003677022" class="nclicks(rig.secteco)" title="“李지지 김어준, 뉴스공장 진행은 심의규정 위반” 법정 제재 받는다">“李지지 김어준, 뉴스공장 진행은 심의규정 위반” 법정 제재 받는다</a>]]></content>
     </entry>
 </feed>
