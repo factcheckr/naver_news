@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-08T04:19:41.585Z</updated>
+    <updated>2022-03-08T05:14:04.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 노정희, 부실선거 사흘만에 사과 "불편·혼란에 책임 통감... 죄송"]]></title>
+        <title type="html"><![CDATA[노정희, 부실선거 사흘만에 사과 "불편·혼란에 책임 통감... 죄송"]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000662335</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000662335"/>
         <updated>2022-03-08T04:19:11.804Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000662335" class="nclicks(rig.secteco)" title="[속보] 노정희, 부실선거 사흘만에 사과 &quot;불편·혼란에 책임 통감... 죄송&quot;">[속보] 노정희, 부실선거 사흘만에 사과 "불편·혼란에 책임 통감... 죄송"</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000662335" class="nclicks(rig.secteco)" title="노정희, 부실선거 사흘만에 사과 &quot;불편·혼란에 책임 통감... 죄송&quot;">노정희, 부실선거 사흘만에 사과 "불편·혼란에 책임 통감... 죄송"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“여성만을 위한 부처 아냐”…대선 하루 전 ‘여가부 폐지’ 반박한 문 대통령]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003132957</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003132957"/>
+        <updated>2022-03-08T05:13:36.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003132957" class="nclicks(rig.secteco)" title="“여성만을 위한 부처 아냐”…대선 하루 전 ‘여가부 폐지’ 반박한 문 대통령">“여성만을 위한 부처 아냐”…대선 하루 전 ‘여가부 폐지’ 반박한 문 대통령</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "제 모든 걸 바치겠다…제 손을 잡아달라"[전문]]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005162362" class="nclicks(rig.secteco)" title="이재명 &quot;제 모든 걸 바치겠다…제 손을 잡아달라&quot;[전문]">이재명 "제 모든 걸 바치겠다…제 손을 잡아달라"[전문]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문 대통령 "국민의 시간, 투표로 집단지성 보여달라"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345117</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345117"/>
-        <updated>2022-03-08T03:15:14.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345117" class="nclicks(rig.secteco)" title="문 대통령 &quot;국민의 시간, 투표로 집단지성 보여달라&quot;">문 대통령 "국민의 시간, 투표로 집단지성 보여달라"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["대피로 지뢰 깔리고 버스도 포격"…사흘째 민간인 대피 불발]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003178680</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003178680"/>
-        <updated>2022-03-08T04:19:11.808Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003178680" class="nclicks(rig.secteco)" title="&quot;대피로 지뢰 깔리고 버스도 포격&quot;…사흘째 민간인 대피 불발">"대피로 지뢰 깔리고 버스도 포격"…사흘째 민간인 대피 불발</a>]]></content>
+        <title type="html"><![CDATA[불신만 키운 러시아의 '인도주의 통로' 제안…"시민 대피로에 지뢰"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003132966</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003132966"/>
+        <updated>2022-03-08T05:13:36.399Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=032&amp;aid=0003132966" class="nclicks(rig.secteco)" title="불신만 키운 러시아의 '인도주의 통로' 제안…&quot;시민 대피로에 지뢰&quot;">불신만 키운 러시아의 '인도주의 통로' 제안…"시민 대피로에 지뢰"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나치 마크처럼 '섬뜩'...러시아 곳곳 번지는 'Z' 마크의 정체]]></title>
@@ -48,39 +48,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003415191" class="nclicks(rig.secteco)" title="지난해 건축물, 축구장 1만3000개 만큼 늘었다">지난해 건축물, 축구장 1만3000개 만큼 늘었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국, 러 수출통제 'FDPR' 면제 확정...정부 "한·미동맹 굳건"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004799727</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004799727"/>
-        <updated>2022-03-08T02:10:26.604Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=014&amp;aid=0004799727" class="nclicks(rig.secteco)" title="한국, 러 수출통제 'FDPR' 면제 확정...정부 &quot;한·미동맹 굳건&quot;">한국, 러 수출통제 'FDPR' 면제 확정...정부 "한·미동맹 굳건"</a>]]></content>
+        <title type="html"><![CDATA[우리은행, 우크라이나 사태 피해기업에 최대 5억 대출]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000792316</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000792316"/>
+        <updated>2022-03-08T05:13:36.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000792316" class="nclicks(rig.secteco)" title="우리은행, 우크라이나 사태 피해기업에 최대 5억 대출">우리은행, 우크라이나 사태 피해기업에 최대 5억 대출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대우건설, 탄소배출권 첫 수익…에너지시장 본격 진출]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002583167</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002583167"/>
-        <updated>2022-03-08T04:19:11.811Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002583167" class="nclicks(rig.secteco)" title="대우건설, 탄소배출권 첫 수익…에너지시장 본격 진출">대우건설, 탄소배출권 첫 수익…에너지시장 본격 진출</a>]]></content>
+        <title type="html"><![CDATA[효자였던 탄소배출권도 ‘글쎄’...국내 ETF 한달새 20% 넘게 빠졌다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000798148</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000798148"/>
+        <updated>2022-03-08T05:13:36.404Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000798148" class="nclicks(rig.secteco)" title="효자였던 탄소배출권도 ‘글쎄’...국내 ETF 한달새 20% 넘게 빠졌다">효자였던 탄소배출권도 ‘글쎄’...국내 ETF 한달새 20% 넘게 빠졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오, 산불 피해 모금액 '12억 원' 돌파…김범수 10억 기부 동참]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=629&amp;aid=0000136506</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=629&amp;aid=0000136506"/>
-        <updated>2022-03-08T04:19:11.812Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=629&amp;aid=0000136506" class="nclicks(rig.secteco)" title="카카오, 산불 피해 모금액 '12억 원' 돌파…김범수 10억 기부 동참">카카오, 산불 피해 모금액 '12억 원' 돌파…김범수 10억 기부 동참</a>]]></content>
+        <title type="html"><![CDATA[이재민에 손내민 카카오…김범수 의장, 개인주식 10억원 기부]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004931816</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004931816"/>
+        <updated>2022-03-08T05:13:36.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004931816" class="nclicks(rig.secteco)" title="이재민에 손내민 카카오…김범수 의장, 개인주식 10억원 기부">이재민에 손내민 카카오…김범수 의장, 개인주식 10억원 기부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SKT, 온라인 채용관 열고 협력사 인재채용 지원]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0005955276</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0005955276"/>
-        <updated>2022-03-08T04:19:11.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0005955276" class="nclicks(rig.secteco)" title="SKT, 온라인 채용관 열고 협력사 인재채용 지원">SKT, 온라인 채용관 열고 협력사 인재채용 지원</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위중증 1007명, 64일만에 1000명대…20만2721명 확진(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013037107</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013037107"/>
-        <updated>2022-03-08T02:10:26.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013037107" class="nclicks(rig.secteco)" title="위중증 1007명, 64일만에 1000명대…20만2721명 확진(종합)">위중증 1007명, 64일만에 1000명대…20만2721명 확진(종합)</a>]]></content>
+        <title type="html"><![CDATA[인앱결제법, '외부결제 안내 차별' 꼼수도 막았다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002249863</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002249863"/>
+        <updated>2022-03-08T05:13:36.407Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002249863" class="nclicks(rig.secteco)" title="인앱결제법, '외부결제 안내 차별' 꼼수도 막았다">인앱결제법, '외부결제 안내 차별' 꼼수도 막았다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개학 1주만에 서울 정상등교 84%→66%…학생 확진 5배 증가]]></title>
@@ -90,11 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003178653" class="nclicks(rig.secteco)" title="개학 1주만에 서울 정상등교 84%→66%…학생 확진 5배 증가">개학 1주만에 서울 정상등교 84%→66%…학생 확진 5배 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달리던 택시서 뛰어내린 20대 여대생…그날 밤 무슨 일이]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291776</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291776"/>
-        <updated>2022-03-08T03:15:14.576Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291776" class="nclicks(rig.secteco)" title="달리던 택시서 뛰어내린 20대 여대생…그날 밤 무슨 일이">달리던 택시서 뛰어내린 20대 여대생…그날 밤 무슨 일이</a>]]></content>
+        <title type="html"><![CDATA[산림청장 "산불 소광리 금강송 군락지 약간 넘어와"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291784</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291784"/>
+        <updated>2022-03-08T05:13:36.409Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000291784" class="nclicks(rig.secteco)" title="산림청장 &quot;산불 소광리 금강송 군락지 약간 넘어와&quot;">산림청장 "산불 소광리 금강송 군락지 약간 넘어와"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[코로나19] 신규확진 20만2721명…위중증 1007명, 64일만에 1000명대]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002268907</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002268907"/>
+        <updated>2022-03-08T05:13:36.411Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002268907" class="nclicks(rig.secteco)" title="[코로나19] 신규확진 20만2721명…위중증 1007명, 64일만에 1000명대">[코로나19] 신규확진 20만2721명…위중증 1007명, 64일만에 1000명대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년형 아반떼 출격…안전위한 ‘스마트 센싱’ 강화, 정숙성도 높여]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=138&amp;aid=0002120266" class="nclicks(rig.secteco)" title="2022년형 아반떼 출격…안전위한 ‘스마트 센싱’ 강화, 정숙성도 높여">2022년형 아반떼 출격…안전위한 ‘스마트 센싱’ 강화, 정숙성도 높여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양양군, 스마트관광도시 공모 최종 선정]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011050027</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011050027"/>
-        <updated>2022-03-08T04:19:11.823Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011050027" class="nclicks(rig.secteco)" title="양양군, 스마트관광도시 공모 최종 선정">양양군, 스마트관광도시 공모 최종 선정</a>]]></content>
+        <title type="html"><![CDATA[구준엽, '대만 금잔디' 서희원과 결혼…"20년전 사랑했던 여인"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003178674</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003178674"/>
+        <updated>2022-03-08T05:13:36.413Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003178674" class="nclicks(rig.secteco)" title="구준엽, '대만 금잔디' 서희원과 결혼…&quot;20년전 사랑했던 여인&quot;">구준엽, '대만 금잔디' 서희원과 결혼…"20년전 사랑했던 여인"</a>]]></content>
     </entry>
 </feed>
