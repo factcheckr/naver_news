@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-09T10:16:47.793Z</updated>
+    <updated>2022-03-09T11:13:21.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179009" class="nclicks(rig.secteco)" title="북한군 6명 탔는데…NLL 넘은 北선박, 하루 만에 송환 논란">북한군 6명 탔는데…NLL 넘은 北선박, 하루 만에 송환 논란</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사]]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179025</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179025"/>
+        <updated>2022-03-09T11:12:53.727Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179025" class="nclicks(rig.secteco)" title="지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사]">지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오후 6시 대선투표율 75.7%…19대보다 3%p 높았다]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179014</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179014"/>
@@ -20,32 +27,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179014" class="nclicks(rig.secteco)" title="오후 6시 대선투표율 75.7%…19대보다 3%p 높았다">오후 6시 대선투표율 75.7%…19대보다 3%p 높았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사퇴한 안철수·김동연이 왜 투표지에? ‘불신 가득’ 투표소 곳곳서 소동]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003674547</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003674547"/>
-        <updated>2022-03-09T09:14:58.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003674547" class="nclicks(rig.secteco)" title="사퇴한 안철수·김동연이 왜 투표지에? ‘불신 가득’ 투표소 곳곳서 소동">사퇴한 안철수·김동연이 왜 투표지에? ‘불신 가득’ 투표소 곳곳서 소동</a>]]></content>
+        <title type="html"><![CDATA[불매운동 확산에… 맥도날드 러 영업 중단]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674590</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674590"/>
+        <updated>2022-03-09T11:12:53.729Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674590" class="nclicks(rig.secteco)" title="불매운동 확산에… 맥도날드 러 영업 중단">불매운동 확산에… 맥도날드 러 영업 중단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민간인 죽어가는데… ’철수’ 맥도날드에 몰려든 러시아인들 실제 상황]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257061</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257061"/>
-        <updated>2022-03-09T10:16:20.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257061" class="nclicks(rig.secteco)" title="민간인 죽어가는데… ’철수’ 맥도날드에 몰려든 러시아인들 실제 상황">민간인 죽어가는데… ’철수’ 맥도날드에 몰려든 러시아인들 실제 상황</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴란드 “美 통해 우크라에 전투기 보내겠다”… 美는 거절]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674564</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674564"/>
-        <updated>2022-03-09T10:16:20.707Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003674564" class="nclicks(rig.secteco)" title="폴란드 “美 통해 우크라에 전투기 보내겠다”… 美는 거절">폴란드 “美 통해 우크라에 전투기 보내겠다”… 美는 거절</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한은 "금융위기 발생가능성 높다"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=029&amp;aid=0002723969</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=029&amp;aid=0002723969"/>
-        <updated>2022-03-09T07:14:38.857Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=029&amp;aid=0002723969" class="nclicks(rig.secteco)" title="한은 &quot;금융위기 발생가능성 높다&quot;">한은 "금융위기 발생가능성 높다"</a>]]></content>
+        <title type="html"><![CDATA[[영상] 우크라 수미서 이틀째 민간인 대피…시장 “개인 차로 이동” [나우,어스]]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001961588</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001961588"/>
+        <updated>2022-03-09T11:12:53.730Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001961588" class="nclicks(rig.secteco)" title="[영상] 우크라 수미서 이틀째 민간인 대피…시장 “개인 차로 이동” [나우,어스]">[영상] 우크라 수미서 이틀째 민간인 대피…시장 “개인 차로 이동” [나우,어스]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 돌연 급등… 미 재무부 땀나는 ‘성명 실수’]]></title>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=005&amp;aid=0001510806" class="nclicks(rig.secteco)" title="비트코인 돌연 급등… 미 재무부 땀나는 ‘성명 실수’">비트코인 돌연 급등… 미 재무부 땀나는 ‘성명 실수’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공정위, 금융사 주식소유 '샘표'·부채 초과한 '폴라에너지앤마린' 제재]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003618543</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003618543"/>
-        <updated>2022-03-09T10:16:20.710Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003618543" class="nclicks(rig.secteco)" title="공정위, 금융사 주식소유 '샘표'·부채 초과한 '폴라에너지앤마린' 제재">공정위, 금융사 주식소유 '샘표'·부채 초과한 '폴라에너지앤마린' 제재</a>]]></content>
+        <title type="html"><![CDATA[금융취약성 2008년 리먼사태 때보다 심각]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004027722</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004027722"/>
+        <updated>2022-03-09T11:12:53.732Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004027722" class="nclicks(rig.secteco)" title="금융취약성 2008년 리먼사태 때보다 심각">금융취약성 2008년 리먼사태 때보다 심각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘금산분리 위반’ 샘표 제재…공정위, 과징금·시정명령]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003674601</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003674601"/>
+        <updated>2022-03-09T11:12:53.733Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003674601" class="nclicks(rig.secteco)" title="‘금산분리 위반’ 샘표 제재…공정위, 과징금·시정명령">‘금산분리 위반’ 샘표 제재…공정위, 과징금·시정명령</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 ‘최신 두뇌’ 품은 아이폰SE3 공개…삼성은 갤A53으로 맞불]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003178975" class="nclicks(rig.secteco)" title="애플 ‘최신 두뇌’ 품은 아이폰SE3 공개…삼성은 갤A53으로 맞불">애플 ‘최신 두뇌’ 품은 아이폰SE3 공개…삼성은 갤A53으로 맞불</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 단단해지는 애플 생태계… 아이폰SE, M1 울트라 칩 등 대거 공개]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=005&amp;aid=0001510795</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=005&amp;aid=0001510795"/>
-        <updated>2022-03-09T09:14:58.306Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=005&amp;aid=0001510795" class="nclicks(rig.secteco)" title="더 단단해지는 애플 생태계… 아이폰SE, M1 울트라 칩 등 대거 공개">더 단단해지는 애플 생태계… 아이폰SE, M1 울트라 칩 등 대거 공개</a>]]></content>
+        <title type="html"><![CDATA[애플 스페셜 이벤트 주인공, 아이폰 아닌 'M1 울트라'였다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038292</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038292"/>
+        <updated>2022-03-09T11:12:53.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038292" class="nclicks(rig.secteco)" title="애플 스페셜 이벤트 주인공, 아이폰 아닌 'M1 울트라'였다">애플 스페셜 이벤트 주인공, 아이폰 아닌 'M1 울트라'였다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려”]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003257058" class="nclicks(rig.secteco)" title="[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려”">[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일부 지자체, '확진자 투표 외출시간' 잘못 안내해 논란]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001647802</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001647802"/>
-        <updated>2022-03-09T10:16:20.715Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=057&amp;aid=0001647802" class="nclicks(rig.secteco)" title="일부 지자체, '확진자 투표 외출시간' 잘못 안내해 논란">일부 지자체, '확진자 투표 외출시간' 잘못 안내해 논란</a>]]></content>
+        <title type="html"><![CDATA[[Q&A] “확진자 외출 5시50분부터, 투표지는 투표함에 직접”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582014</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582014"/>
+        <updated>2022-03-09T11:12:53.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582014" class="nclicks(rig.secteco)" title="[Q&amp;A] “확진자 외출 5시50분부터, 투표지는 투표함에 직접”">[Q&amp;A] “확진자 외출 5시50분부터, 투표지는 투표함에 직접”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울진·삼척 산불 75% 진화…"금강송 군락지 방어에 집중"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005959426</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005959426"/>
-        <updated>2022-03-09T10:16:20.716Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005959426" class="nclicks(rig.secteco)" title="울진·삼척 산불 75% 진화…&quot;금강송 군락지 방어에 집중&quot;(종합)">울진·삼척 산불 75% 진화…"금강송 군락지 방어에 집중"(종합)</a>]]></content>
+        <title type="html"><![CDATA[울진·삼척 산불 진화율 75%…금강송 군락지 불씨 여전]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041179</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041179"/>
+        <updated>2022-03-09T11:12:53.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041179" class="nclicks(rig.secteco)" title="울진·삼척 산불 진화율 75%…금강송 군락지 불씨 여전">울진·삼척 산불 진화율 75%…금강송 군락지 불씨 여전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["1번 찍으라는 의미인가?" 정호연 투표 인증샷 황급히 삭제]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=015&amp;aid=0004672181" class="nclicks(rig.secteco)" title="&quot;1번 찍으라는 의미인가?&quot; 정호연 투표 인증샷 황급히 삭제">"1번 찍으라는 의미인가?" 정호연 투표 인증샷 황급히 삭제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누구도 트집 못잡는다…"완벽 투표룩" 찬사받은 데프콘 옷]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179006</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179006"/>
-        <updated>2022-03-09T09:14:58.314Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179006" class="nclicks(rig.secteco)" title="누구도 트집 못잡는다…&quot;완벽 투표룩&quot; 찬사받은 데프콘 옷">누구도 트집 못잡는다…"완벽 투표룩" 찬사받은 데프콘 옷</a>]]></content>
+        <title type="html"><![CDATA[[ET] 현대차 ‘중고차 시장’ 돌진…가격 영향은?]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011226040</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011226040"/>
+        <updated>2022-03-09T11:12:53.745Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011226040" class="nclicks(rig.secteco)" title="[ET] 현대차 ‘중고차 시장’ 돌진…가격 영향은?">[ET] 현대차 ‘중고차 시장’ 돌진…가격 영향은?</a>]]></content>
     </entry>
 </feed>
