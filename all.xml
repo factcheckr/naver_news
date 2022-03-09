@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-09T17:16:49.420Z</updated>
+    <updated>2022-03-09T18:18:29.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[80%대 벽 못넘었다…20대 대선 최종 투표율 77.1% (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004717973</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004717973"/>
+        <updated>2022-03-09T18:17:59.727Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004717973" class="nclicks(rig.secteco)" title="80%대 벽 못넘었다…20대 대선 최종 투표율 77.1%">80%대 벽 못넘었다…20대 대선 최종 투표율 77.1%</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179025</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179025" class="nclicks(rig.secteco)" title="지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사]">지상파, 李 47.8% 尹 48.4%…JTBC, 李 48.4% 尹 47.7% [방송 출구조사]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['텃밭' 영호남에 몰린 열기…최종투표율 '80% 벽'은 못넘었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013042055</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013042055"/>
-        <updated>2022-03-09T17:16:20.649Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013042055" class="nclicks(rig.secteco)" title="'텃밭' 영호남에 몰린 열기…최종투표율 '80% 벽'은 못넘었다">'텃밭' 영호남에 몰린 열기…최종투표율 '80% 벽'은 못넘었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40대·이대녀 李, 60대·이대남 尹…세대·성별로 갈렸다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=658&amp;aid=0000004035</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=658&amp;aid=0000004035"/>
-        <updated>2022-03-09T17:16:20.651Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=658&amp;aid=0000004035" class="nclicks(rig.secteco)" title="40대·이대녀 李, 60대·이대남 尹…세대·성별로 갈렸다">40대·이대녀 李, 60대·이대남 尹…세대·성별로 갈렸다</a>]]></content>
+        <title type="html"><![CDATA[‘출구조사’ 20대남성 尹 58.7% - 20대여성 李 58% (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415462</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415462"/>
+        <updated>2022-03-09T18:17:59.732Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415462" class="nclicks(rig.secteco)" title="‘출구조사’ 20대남성 尹 58.7% - 20대여성 李 58%">‘출구조사’ 20대남성 尹 58.7% - 20대여성 李 58%</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 체르노빌 전력망 파손…방사능 유출 우려에 휴전 제의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013042132" class="nclicks(rig.secteco)" title="[우크라 침공] 체르노빌 전력망 파손…방사능 유출 우려에 휴전 제의">[우크라 침공] 체르노빌 전력망 파손…방사능 유출 우려에 휴전 제의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 대통령 "교전지역 민간인 2만3천 명 이상 대피" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=052&amp;aid=0001711749</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=052&amp;aid=0001711749"/>
-        <updated>2022-03-09T17:16:20.654Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=052&amp;aid=0001711749" class="nclicks(rig.secteco)" title="우크라 대통령 &quot;교전지역 민간인 2만3천 명 이상 대피&quot;">우크라 대통령 "교전지역 민간인 2만3천 명 이상 대피"</a>]]></content>
+        <title type="html"><![CDATA[[우크라 침공] 젤렌스키 "교전지역 민간인 2만3천명 이상 대피"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013042256</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013042256"/>
+        <updated>2022-03-09T18:17:59.733Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013042256" class="nclicks(rig.secteco)" title="[우크라 침공] 젤렌스키 &quot;교전지역 민간인 2만3천명 이상 대피&quot;(종합)">[우크라 침공] 젤렌스키 "교전지역 민간인 2만3천명 이상 대피"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한은 "과도한 빚, 금융위기 발생 가능성 높아" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,11 +47,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004932415" class="nclicks(rig.secteco)" title="한은 &quot;과도한 빚, 금융위기 발생 가능성 높아&quot;">한은 "과도한 빚, 금융위기 발생 가능성 높아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['디지털 달러' 뜨나…비트코인값 덩달아 9% 폭등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163429</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163429"/>
-        <updated>2022-03-09T16:21:29.875Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163429" class="nclicks(rig.secteco)" title="'디지털 달러' 뜨나…비트코인값 덩달아 9% 폭등">'디지털 달러' 뜨나…비트코인값 덩달아 9% 폭등</a>]]></content>
+        <title type="html"><![CDATA[美 규제 가능성 낮아지자… 비트코인 8% 급등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=023&amp;aid=0003677739</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=023&amp;aid=0003677739"/>
+        <updated>2022-03-09T18:17:59.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=023&amp;aid=0003677739" class="nclicks(rig.secteco)" title="美 규제 가능성 낮아지자… 비트코인 8% 급등">美 규제 가능성 낮아지자… 비트코인 8% 급등</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결국, 러 원유 금수 결단…국제유가 200달러 갈까(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,25 +61,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163193" class="nclicks(rig.secteco)" title="결국, 러 원유 금수 결단…국제유가 200달러 갈까(종합)">결국, 러 원유 금수 결단…국제유가 200달러 갈까(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 2년 만에 ‘아이폰SE’ 신제품 출시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=032&amp;aid=0003133332</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=032&amp;aid=0003133332"/>
-        <updated>2022-03-09T17:16:20.665Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=032&amp;aid=0003133332" class="nclicks(rig.secteco)" title="애플, 2년 만에 ‘아이폰SE’ 신제품 출시">애플, 2년 만에 ‘아이폰SE’ 신제품 출시</a>]]></content>
+        <title type="html"><![CDATA[두뇌는 최신, 가격은 59만원… 애플 중저가폰 전쟁 뛰어들었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003677766</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003677766"/>
+        <updated>2022-03-09T18:17:59.739Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=023&amp;aid=0003677766" class="nclicks(rig.secteco)" title="두뇌는 최신, 가격은 59만원… 애플 중저가폰 전쟁 뛰어들었다">두뇌는 최신, 가격은 59만원… 애플 중저가폰 전쟁 뛰어들었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한달간 45% 급등…알파벳 인수 소식, 들썩이는 사이버 보안업계 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004717964</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004717964"/>
-        <updated>2022-03-09T17:16:20.667Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004717964" class="nclicks(rig.secteco)" title="한달간 45% 급등…알파벳 인수 소식, 들썩이는 사이버 보안업계">한달간 45% 급등…알파벳 인수 소식, 들썩이는 사이버 보안업계</a>]]></content>
+        <title type="html"><![CDATA[구글, 54억달러에 보안업체 인수… “클라우드 사업 강화” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=020&amp;aid=0003415532</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=020&amp;aid=0003415532"/>
+        <updated>2022-03-09T18:17:59.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=020&amp;aid=0003415532" class="nclicks(rig.secteco)" title="구글, 54억달러에 보안업체 인수… “클라우드 사업 강화”">구글, 54억달러에 보안업체 인수… “클라우드 사업 강화”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003257058</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003257058"/>
-        <updated>2022-03-09T10:16:20.714Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003257058" class="nclicks(rig.secteco)" title="[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려”">[속보] ‘송영길 망치 습격’ 70대 유튜버 구속… “도주 우려”</a>]]></content>
+        <title type="html"><![CDATA[‘송영길 습격’ 유튜버 구속… 영장심사前 투표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415449</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415449"/>
+        <updated>2022-03-09T18:17:59.744Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415449" class="nclicks(rig.secteco)" title="‘송영길 습격’ 유튜버 구속… 영장심사前 투표">‘송영길 습격’ 유튜버 구속… 영장심사前 투표</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선날 오후 9시까지 30만5191명 확진…어제보다 2만1643명 적어(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041924" class="nclicks(rig.secteco)" title="대선날 오후 9시까지 30만5191명 확진…어제보다 2만1643명 적어(종합)">대선날 오후 9시까지 30만5191명 확진…어제보다 2만1643명 적어(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선날 오후 6시까지 전국 26만615명 확진…어제보다 2908명↓ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041401</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041401"/>
-        <updated>2022-03-09T15:15:30.076Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013041401" class="nclicks(rig.secteco)" title="대선날 오후 6시까지 전국 26만615명 확진…어제보다 2908명↓">대선날 오후 6시까지 전국 26만615명 확진…어제보다 2908명↓</a>]]></content>
+        <title type="html"><![CDATA[청주 상당 국회의원 재선거, 국민의힘 정우택 당선 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011054211</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011054211"/>
+        <updated>2022-03-09T18:17:59.751Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011054211" class="nclicks(rig.secteco)" title="청주 상당 국회의원 재선거, 국민의힘 정우택 당선">청주 상당 국회의원 재선거, 국민의힘 정우택 당선</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 날씨] 낮기온 15도 안팎…전국 맑고 포근 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=629&amp;aid=0000136773" class="nclicks(rig.secteco)" title="[오늘의 날씨] 낮기온 15도 안팎…전국 맑고 포근">[오늘의 날씨] 낮기온 15도 안팎…전국 맑고 포근</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘빨노파’ 데프콘, ‘올블랙’ 정보석…스타들도 “잊지 말고 투표” 인증 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=081&amp;aid=0003257029</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=081&amp;aid=0003257029"/>
-        <updated>2022-03-09T17:16:20.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=081&amp;aid=0003257029" class="nclicks(rig.secteco)" title="‘빨노파’ 데프콘, ‘올블랙’ 정보석…스타들도 “잊지 말고 투표” 인증">‘빨노파’ 데프콘, ‘올블랙’ 정보석…스타들도 “잊지 말고 투표” 인증</a>]]></content>
+        <title type="html"><![CDATA[[내일날씨]대선일 전국 맑고 포근…대기질은 '나쁨' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005162864</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005162864"/>
+        <updated>2022-03-09T18:17:59.755Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005162864" class="nclicks(rig.secteco)" title="[내일날씨]대선일 전국 맑고 포근…대기질은 '나쁨'">[내일날씨]대선일 전국 맑고 포근…대기질은 '나쁨'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '삼성디플 CEO 사과 받은 '삼다르크'' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
