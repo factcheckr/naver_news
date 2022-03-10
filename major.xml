@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-10T21:14:19.761Z</updated>
+    <updated>2022-03-10T22:17:36.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003619395" class="nclicks(rig.secteco)" title="위기의 민주당…이재명, 6월 지방선거 대비 쇄신 역할 맡을까[영상]">위기의 민주당…이재명, 6월 지방선거 대비 쇄신 역할 맡을까[영상]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[속보] 美 "북한, 최근 2차례 신형 ICBM 시스템 시험"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=015&amp;aid=0004672855</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=015&amp;aid=0004672855"/>
+        <updated>2022-03-10T22:17:08.092Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=015&amp;aid=0004672855" class="nclicks(rig.secteco)" title="[속보] 美 &quot;북한, 최근 2차례 신형 ICBM 시스템 시험&quot;">[속보] 美 "북한, 최근 2차례 신형 ICBM 시스템 시험"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[문 대통령 “분열 씻고 통합해야” 윤 당선인 “많이 가르쳐달라”]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511231</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511231"/>
         <updated>2022-03-10T20:15:49.703Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511231" class="nclicks(rig.secteco)" title="문 대통령 “분열 씻고 통합해야” 윤 당선인 “많이 가르쳐달라”">문 대통령 “분열 씻고 통합해야” 윤 당선인 “많이 가르쳐달라”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 먼저 달려간 이준석… “차로 받겠다” 협박도 [포착]]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511263</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511263"/>
-        <updated>2022-03-10T21:13:49.676Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=005&amp;aid=0001511263" class="nclicks(rig.secteco)" title="광주 먼저 달려간 이준석… “차로 받겠다” 협박도 [포착]">광주 먼저 달려간 이준석… “차로 받겠다” 협박도 [포착]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 러·우크라 외무장관 회담 돌파구 없이 종료(종합)]]></title>
@@ -41,32 +41,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=277&amp;aid=0005056521" class="nclicks(rig.secteco)" title="8% 육박한 美2월 물가…바이든 &quot;푸틴 탓에 에너지 가격 올라&quot;">8% 육박한 美2월 물가…바이든 "푸틴 탓에 에너지 가격 올라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["메타버스부터 헬스케어까지"…롯데, 미래 먹거리 발굴 속도낸다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005962720</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005962720"/>
-        <updated>2022-03-10T20:15:49.707Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005962720" class="nclicks(rig.secteco)" title="&quot;메타버스부터 헬스케어까지&quot;…롯데, 미래 먹거리 발굴 속도낸다">"메타버스부터 헬스케어까지"…롯데, 미래 먹거리 발굴 속도낸다</a>]]></content>
+        <title type="html"><![CDATA[신한 '운동코치'·KB '건강설계'… 차별화 전략 통할까]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000793233</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000793233"/>
+        <updated>2022-03-10T22:17:08.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000793233" class="nclicks(rig.secteco)" title="신한 '운동코치'·KB '건강설계'… 차별화 전략 통할까">신한 '운동코치'·KB '건강설계'… 차별화 전략 통할까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17년 투자 결실···풍력·가스터빈·원전·수소, 다 있는 두산중공업]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004718556</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004718556"/>
-        <updated>2022-03-10T21:13:49.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004718556" class="nclicks(rig.secteco)" title="17년 투자 결실···풍력·가스터빈·원전·수소, 다 있는 두산중공업">17년 투자 결실···풍력·가스터빈·원전·수소, 다 있는 두산중공업</a>]]></content>
+        <title type="html"><![CDATA[윤석열 정부 경제사령탑은 누가?… 尹 정부 기대감에 코스피 급등 [한강로 경제브리핑]]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003675038</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003675038"/>
+        <updated>2022-03-10T22:17:08.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003675038" class="nclicks(rig.secteco)" title="윤석열 정부 경제사령탑은 누가?… 尹 정부 기대감에 코스피 급등 [한강로 경제브리핑]">윤석열 정부 경제사령탑은 누가?… 尹 정부 기대감에 코스피 급등 [한강로 경제브리핑]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가계대출 3개월 연속 감소…추세적 감소에는 이견(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011055946</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011055946"/>
-        <updated>2022-03-10T20:15:49.708Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011055946" class="nclicks(rig.secteco)" title="가계대출 3개월 연속 감소…추세적 감소에는 이견(종합)">가계대출 3개월 연속 감소…추세적 감소에는 이견(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301"/>
-        <updated>2022-03-10T15:18:40.568Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301" class="nclicks(rig.secteco)" title="앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련">앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련</a>]]></content>
+        <title type="html"><![CDATA[원전·신재생에너지 함께 간다…두산重 기대감 '솔솔']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002584183</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002584183"/>
+        <updated>2022-03-10T22:17:08.098Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002584183" class="nclicks(rig.secteco)" title="원전·신재생에너지 함께 간다…두산重 기대감 '솔솔'">원전·신재생에너지 함께 간다…두산重 기대감 '솔솔'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["앱 끄면 불타는 100만원 넘는 폰? 삼성, 진심어린 사과 없었다"]]></title>
@@ -76,11 +69,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004718571" class="nclicks(rig.secteco)" title="&quot;앱 끄면 불타는 100만원 넘는 폰? 삼성, 진심어린 사과 없었다&quot;">"앱 끄면 불타는 100만원 넘는 폰? 삼성, 진심어린 사과 없었다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울진·강원산불 일주일째, 진화 '제자리 걸음']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005164298</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005164298"/>
-        <updated>2022-03-10T17:16:07.598Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005164298" class="nclicks(rig.secteco)" title="울진·강원산불 일주일째, 진화 '제자리 걸음'">울진·강원산불 일주일째, 진화 '제자리 걸음'</a>]]></content>
+        <title type="html"><![CDATA[앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301"/>
+        <updated>2022-03-10T15:18:40.568Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005164301" class="nclicks(rig.secteco)" title="앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련">앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울진 산불, 금강송 군락지 넘어‥또 확산 우려]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183652</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183652"/>
+        <updated>2022-03-10T22:17:08.103Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183652" class="nclicks(rig.secteco)" title="울진 산불, 금강송 군락지 넘어‥또 확산 우려">울진 산불, 금강송 군락지 넘어‥또 확산 우려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[울진·강원산불 이재민, 임대료 50%감면 임대주택 제공]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005163903" class="nclicks(rig.secteco)" title="울진·강원산불 이재민, 임대료 50%감면 임대주택 제공">울진·강원산불 이재민, 임대료 50%감면 임대주택 제공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전문가 항원검사로 확진 판정 도입 임박…긴장 푸는 방역당국]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004718553</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004718553"/>
-        <updated>2022-03-10T21:13:49.689Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004718553" class="nclicks(rig.secteco)" title="전문가 항원검사로 확진 판정 도입 임박…긴장 푸는 방역당국">전문가 항원검사로 확진 판정 도입 임박…긴장 푸는 방역당국</a>]]></content>
+        <title type="html"><![CDATA[전문가용 신속항원검사로 확진 검토 발표‥"정점 임박"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183654</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183654"/>
+        <updated>2022-03-10T22:17:08.106Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=214&amp;aid=0001183654" class="nclicks(rig.secteco)" title="전문가용 신속항원검사로 확진 검토 발표‥&quot;정점 임박&quot;">전문가용 신속항원검사로 확진 검토 발표‥"정점 임박"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249"/>
-        <updated>2022-03-10T21:13:49.690Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249" class="nclicks(rig.secteco)" title="방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝'">방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝'</a>]]></content>
+        <title type="html"><![CDATA[[노컷 리뷰]드디어 서울 콘서트…BTS, 집으로 돌아오다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003619409</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003619409"/>
+        <updated>2022-03-10T22:17:08.108Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=079&amp;aid=0003619409" class="nclicks(rig.secteco)" title="[노컷 리뷰]드디어 서울 콘서트…BTS, 집으로 돌아오다">[노컷 리뷰]드디어 서울 콘서트…BTS, 집으로 돌아오다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨]'큰 일교차' 유의…'또 강풍' 울진·삼척 산불진화 난항]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005962988</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005962988"/>
-        <updated>2022-03-10T21:13:49.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005962988" class="nclicks(rig.secteco)" title="[오늘날씨]'큰 일교차' 유의…'또 강풍' 울진·삼척 산불진화 난항">[오늘날씨]'큰 일교차' 유의…'또 강풍' 울진·삼척 산불진화 난항</a>]]></content>
+        <title type="html"><![CDATA['낮 최고 20도' 포근한 날씨…수도권 등 미세먼지 '나쁨']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013045062</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013045062"/>
+        <updated>2022-03-10T22:17:08.109Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013045062" class="nclicks(rig.secteco)" title="'낮 최고 20도' 포근한 날씨…수도권 등 미세먼지 '나쁨'">'낮 최고 20도' 포근한 날씨…수도권 등 미세먼지 '나쁨'</a>]]></content>
     </entry>
 </feed>
