@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-10T18:18:12.172Z</updated>
+    <updated>2022-03-10T19:12:48.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003179363" class="nclicks(rig.secteco)" title="172석 '거대 야당'의 첫날, 송영길 지도부 싹 물러났다">172석 '거대 야당'의 첫날, 송영길 지도부 싹 물러났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["같이 걸어 행복했다"는 봉사자... 두눈 질끈 이재명]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390"/>
-        <updated>2022-03-10T16:21:23.397Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390" class="nclicks(rig.secteco)" title="&quot;같이 걸어 행복했다&quot;는 봉사자... 두눈 질끈 이재명">"같이 걸어 행복했다"는 봉사자... 두눈 질끈 이재명</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[文 “분열 씻고 통합을”…尹 “많이 가르쳐 달라”]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415697</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415697"/>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415697" class="nclicks(rig.secteco)" title="文 “분열 씻고 통합을”…尹 “많이 가르쳐 달라”">文 “분열 씻고 통합을”…尹 “많이 가르쳐 달라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러 외무장관 "우크라 휴전, 3자 회담서 절대 합의 안돼"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011056717</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011056717"/>
-        <updated>2022-03-10T18:17:41.693Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011056717" class="nclicks(rig.secteco)" title="러 외무장관 &quot;우크라 휴전, 3자 회담서 절대 합의 안돼&quot;">러 외무장관 "우크라 휴전, 3자 회담서 절대 합의 안돼"</a>]]></content>
+        <title type="html"><![CDATA["같이 걸어 행복했다"는 봉사자... 두눈 질끈 이재명]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390"/>
+        <updated>2022-03-10T16:21:23.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002345390" class="nclicks(rig.secteco)" title="&quot;같이 걸어 행복했다&quot;는 봉사자... 두눈 질끈 이재명">"같이 걸어 행복했다"는 봉사자... 두눈 질끈 이재명</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[우크라 침공] 러·우크라 외무장관 회담 돌파구 없이 종료(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013044987</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013044987"/>
+        <updated>2022-03-10T19:12:14.465Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013044987" class="nclicks(rig.secteco)" title="[우크라 침공] 러·우크라 외무장관 회담 돌파구 없이 종료(종합)">[우크라 침공] 러·우크라 외무장관 회담 돌파구 없이 종료(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 日 기시다 총리와 오늘 통화…한일관계 개선 첫단추 끼우나]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003415784" class="nclicks(rig.secteco)" title="롯데 “헬스케어 전문 자회사 700억 출자해 설립”">롯데 “헬스케어 전문 자회사 700억 출자해 설립”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 물가 또 7.9% 폭등…파월, 실책일까 인내일까]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005164480</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005164480"/>
-        <updated>2022-03-10T16:21:23.401Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005164480" class="nclicks(rig.secteco)" title="미 물가 또 7.9% 폭등…파월, 실책일까 인내일까">미 물가 또 7.9% 폭등…파월, 실책일까 인내일까</a>]]></content>
+        <title type="html"><![CDATA[바이든 "美 2월 물가 급등, 러시아 푸틴 탓"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011056716</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011056716"/>
+        <updated>2022-03-10T19:12:14.471Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011056716" class="nclicks(rig.secteco)" title="바이든 &quot;美 2월 물가 급등, 러시아 푸틴 탓&quot;">바이든 "美 2월 물가 급등, 러시아 푸틴 탓"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 가계대출 사상 첫 3개월 연속 감소]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003415793</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003415793"/>
-        <updated>2022-03-10T18:17:41.699Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003415793" class="nclicks(rig.secteco)" title="은행 가계대출 사상 첫 3개월 연속 감소">은행 가계대출 사상 첫 3개월 연속 감소</a>]]></content>
+        <title type="html"><![CDATA[`탈원전`서 `원전 강국`으로…5년 만에 180도 뒤집힌다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163624</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163624"/>
+        <updated>2022-03-10T19:12:14.473Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005163624" class="nclicks(rig.secteco)" title="`탈원전`서 `원전 강국`으로…5년 만에 180도 뒤집힌다">`탈원전`서 `원전 강국`으로…5년 만에 180도 뒤집힌다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앱마켓 갑질 금지 위법성 판단 기준은?…‘강제성’ 등 세부 기준 마련]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005164298" class="nclicks(rig.secteco)" title="울진·강원산불 일주일째, 진화 '제자리 걸음'">울진·강원산불 일주일째, 진화 '제자리 걸음'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060"/>
-        <updated>2022-03-10T10:16:19.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060" class="nclicks(rig.secteco)" title="[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수">[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정부, 동해안 산불 이재민에 무상 '임시 조립주택' 지원…보험료·연체금 부담 완화]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005056124</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005056124"/>
@@ -97,17 +90,24 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005056124" class="nclicks(rig.secteco)" title="정부, 동해안 산불 이재민에 무상 '임시 조립주택' 지원…보험료·연체금 부담 완화">정부, 동해안 산불 이재민에 무상 '임시 조립주택' 지원…보험료·연체금 부담 완화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249"/>
-        <updated>2022-03-10T18:17:41.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712249" class="nclicks(rig.secteco)" title="방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝'">방탄소년단, 2년 반 만에 국내 대면 공연...함성 대신 박수 '짝짝'</a>]]></content>
+        <title type="html"><![CDATA[[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060"/>
+        <updated>2022-03-10T10:16:19.518Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292060" class="nclicks(rig.secteco)" title="[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수">[단독] 강남에서 전자발찌 끊고 사라진 30대 남성, 이틀 만에 자수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 4월 중순처럼 포근...미세먼지 '나쁨']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712226</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712226"/>
-        <updated>2022-03-10T16:21:23.428Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001712226" class="nclicks(rig.secteco)" title="[날씨] 내일 4월 중순처럼 포근...미세먼지 '나쁨'">[날씨] 내일 4월 중순처럼 포근...미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[“BTS 실물 보니 꿈만 같다” 2년반 만에 잠실 대면 콘서트]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179421</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179421"/>
+        <updated>2022-03-10T19:12:14.488Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179421" class="nclicks(rig.secteco)" title="“BTS 실물 보니 꿈만 같다” 2년반 만에 잠실 대면 콘서트">“BTS 실물 보니 꿈만 같다” 2년반 만에 잠실 대면 콘서트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 건조한 대기 계속…내일 봄날씨 속 미세먼지]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000532044</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000532044"/>
+        <updated>2022-03-10T19:12:14.490Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000532044" class="nclicks(rig.secteco)" title="[날씨] 건조한 대기 계속…내일 봄날씨 속 미세먼지">[날씨] 건조한 대기 계속…내일 봄날씨 속 미세먼지</a>]]></content>
     </entry>
 </feed>
