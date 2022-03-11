@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-11T10:17:30.532Z</updated>
+    <updated>2022-03-11T11:13:15.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013046637" class="nclicks(rig.secteco)" title="&quot;인수위 얘기 없었다&quot;…尹-安 '140분 독대' 어떤 교감 이뤘나">"인수위 얘기 없었다"…尹-安 '140분 독대' 어떤 교감 이뤘나</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한미, 대선 파장 고려해 ‘北 ICBM’ 뒤늦게 발표? 靑 침묵]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415885</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415885"/>
+        <updated>2022-03-11T11:12:46.659Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415885" class="nclicks(rig.secteco)" title="한미, 대선 파장 고려해 ‘北 ICBM’ 뒤늦게 발표? 靑 침묵">한미, 대선 파장 고려해 ‘北 ICBM’ 뒤늦게 발표? 靑 침묵</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤석열·日기시다 "이른 시일 내에 만나자" 외국 정상 중 두번째 통화(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=014&amp;aid=0004801800</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=014&amp;aid=0004801800"/>
@@ -20,53 +27,39 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=014&amp;aid=0004801800" class="nclicks(rig.secteco)" title="윤석열·日기시다 &quot;이른 시일 내에 만나자&quot; 외국 정상 중 두번째 통화(종합)">윤석열·日기시다 "이른 시일 내에 만나자" 외국 정상 중 두번째 통화(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193"/>
-        <updated>2022-03-11T10:17:01.343Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193" class="nclicks(rig.secteco)" title="출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯">출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯</a>]]></content>
+        <title type="html"><![CDATA[우크라 중·서부로 공습 확대…고위급 휴전 논의 결렬 후 “새로운 전쟁 국면 시작”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257640</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257640"/>
+        <updated>2022-03-11T11:12:46.659Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003257640" class="nclicks(rig.secteco)" title="우크라 중·서부로 공습 확대…고위급 휴전 논의 결렬 후 “새로운 전쟁 국면 시작”">우크라 중·서부로 공습 확대…고위급 휴전 논의 결렬 후 “새로운 전쟁 국면 시작”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[우크라 침공] 전선서 먼 서부까지 겨눈 러군…"전쟁 새 국면"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013046740</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013046740"/>
-        <updated>2022-03-11T10:17:01.343Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013046740" class="nclicks(rig.secteco)" title="[우크라 침공] 전선서 먼 서부까지 겨눈 러군…&quot;전쟁 새 국면&quot;(종합)">[우크라 침공] 전선서 먼 서부까지 겨눈 러군…"전쟁 새 국면"(종합)</a>]]></content>
+        <title type="html"><![CDATA[바이든, 러 수입품에 관세폭탄 추가제재 예고…“무역 최혜국 대우 박탈”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003675203</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003675203"/>
+        <updated>2022-03-11T11:12:46.659Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=022&amp;aid=0003675203" class="nclicks(rig.secteco)" title="바이든, 러 수입품에 관세폭탄 추가제재 예고…“무역 최혜국 대우 박탈”">바이든, 러 수입품에 관세폭탄 추가제재 예고…“무역 최혜국 대우 박탈”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 차원 다른 제재...러 최혜국 대우 박탈 "관세폭탄 때릴 채비"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003179599</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003179599"/>
-        <updated>2022-03-11T10:17:01.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003179599" class="nclicks(rig.secteco)" title="美, 차원 다른 제재...러 최혜국 대우 박탈 &quot;관세폭탄 때릴 채비&quot;">美, 차원 다른 제재...러 최혜국 대우 박탈 "관세폭탄 때릴 채비"</a>]]></content>
+        <title type="html"><![CDATA[증선위, 셀트리온 분식회계 인정… 거래정지는 면해 (종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005056997</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005056997"/>
+        <updated>2022-03-11T11:12:46.661Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005056997" class="nclicks(rig.secteco)" title="증선위, 셀트리온 분식회계 인정… 거래정지는 면해 (종합)">증선위, 셀트리온 분식회계 인정… 거래정지는 면해 (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['분식 논란' 벗어난 셀트리온, 거래정지 피했다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006790</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006790"/>
-        <updated>2022-03-11T10:17:01.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006790" class="nclicks(rig.secteco)" title="'분식 논란' 벗어난 셀트리온, 거래정지 피했다">'분식 논란' 벗어난 셀트리온, 거래정지 피했다</a>]]></content>
+        <title type="html"><![CDATA[주주의향 살피는 금호석화, 역대 최대 배당 푼다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006788</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006788"/>
+        <updated>2022-03-11T11:12:46.661Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=648&amp;aid=0000006788" class="nclicks(rig.secteco)" title="주주의향 살피는 금호석화, 역대 최대 배당 푼다">주주의향 살피는 금호석화, 역대 최대 배당 푼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635"/>
-        <updated>2022-03-11T10:17:01.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635" class="nclicks(rig.secteco)" title="주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서">주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 평균 휘발윳값 2000원 돌파…전국은 1900원대]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278301</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278301"/>
-        <updated>2022-03-11T10:17:01.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278301" class="nclicks(rig.secteco)" title="서울 평균 휘발윳값 2000원 돌파…전국은 1900원대">서울 평균 휘발윳값 2000원 돌파…전국은 1900원대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913"/>
-        <updated>2022-03-11T09:15:19.646Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913" class="nclicks(rig.secteco)" title="가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?">가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?</a>]]></content>
+        <title type="html"><![CDATA[한미FTA 10년…수출과 맞바꾼 투자, 수입 규제는 여전]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278295</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278295"/>
+        <updated>2022-03-11T11:12:46.662Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=374&amp;aid=0000278295" class="nclicks(rig.secteco)" title="한미FTA 10년…수출과 맞바꾼 투자, 수입 규제는 여전">한미FTA 10년…수출과 맞바꾼 투자, 수입 규제는 여전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”]]></title>
@@ -76,6 +69,13 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=366&amp;aid=0000799153" class="nclicks(rig.secteco)" title="“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”">“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913"/>
+        <updated>2022-03-11T09:15:19.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000658913" class="nclicks(rig.secteco)" title="가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?">가볍지 않은 삼성 'GOS' 논란…'삼성폰' 이번엔 진짜 위기?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“추천했으나 영향력 행사 안해” 하나금융 부회장 ‘채용 비리’ 무죄]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582539</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582539"/>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582539" class="nclicks(rig.secteco)" title="“추천했으나 영향력 행사 안해” 하나금융 부회장 ‘채용 비리’ 무죄">“추천했으나 영향력 행사 안해” 하나금융 부회장 ‘채용 비리’ 무죄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Q&A]병·의원 신속검사 양성도 ‘확진’…내주부터 바뀌는 검사체계]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003179600</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003179600"/>
-        <updated>2022-03-11T09:15:19.648Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003179600" class="nclicks(rig.secteco)" title="[Q&amp;A]병·의원 신속검사 양성도 ‘확진’…내주부터 바뀌는 검사체계">[Q&amp;A]병·의원 신속검사 양성도 ‘확진’…내주부터 바뀌는 검사체계</a>]]></content>
+        <title type="html"><![CDATA[14일부터 PCR검사 없어도 전문가 신속항원검사로 확진 판정]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003678169</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003678169"/>
+        <updated>2022-03-11T11:12:46.667Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003678169" class="nclicks(rig.secteco)" title="14일부터 PCR검사 없어도 전문가 신속항원검사로 확진 판정">14일부터 PCR검사 없어도 전문가 신속항원검사로 확진 판정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘학교 대신 학원으로’ 코로나19 장기화에 사교육비 23.4조 ‘역대 최대’]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011227748</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011227748"/>
-        <updated>2022-03-11T10:17:01.352Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=056&amp;aid=0011227748" class="nclicks(rig.secteco)" title="‘학교 대신 학원으로’ 코로나19 장기화에 사교육비 23.4조 ‘역대 최대’">‘학교 대신 학원으로’ 코로나19 장기화에 사교육비 23.4조 ‘역대 최대’</a>]]></content>
+        <title type="html"><![CDATA[사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394"/>
+        <updated>2022-03-11T11:12:46.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394" class="nclicks(rig.secteco)" title="사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로">사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘자유·평화 상징’ 마이크로버스의 귀환… 폴크스바겐, 전기 미니밴 ‘ID.버즈’ 공개]]></title>
