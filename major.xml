@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-11T12:25:31.249Z</updated>
+    <updated>2022-03-11T13:20:31.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은 ‘ICBM 위협’…尹당선인 “한미관계 재건”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415901</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415901"/>
+        <updated>2022-03-11T13:20:02.584Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003415901" class="nclicks(rig.secteco)" title="김정은 ‘ICBM 위협’…尹당선인 “한미관계 재건”">김정은 ‘ICBM 위협’…尹당선인 “한미관계 재건”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열·안철수 ‘국정통합’ 공감…합당·인사 논의는 없었다]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003133728</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003133728" class="nclicks(rig.secteco)" title="윤석열·안철수 ‘국정통합’ 공감…합당·인사 논의는 없었다">윤석열·안철수 ‘국정통합’ 공감…합당·인사 논의는 없었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193"/>
-        <updated>2022-03-11T12:25:01.430Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675193" class="nclicks(rig.secteco)" title="출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯">출범 앞둔 새 정부 겨냥… 북한, ‘괴물 ICBM’ 곧 쏠 듯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 `눈물의 비대위` 출범…새 원내대표 '교황 선출' 방식으로]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005165166</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005165166"/>
-        <updated>2022-03-11T12:25:01.432Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=018&amp;aid=0005165166" class="nclicks(rig.secteco)" title="민주당 `눈물의 비대위` 출범…새 원내대표 '교황 선출' 방식으로">민주당 `눈물의 비대위` 출범…새 원내대표 '교황 선출' 방식으로</a>]]></content>
+        <title type="html"><![CDATA[‘尹과 회동’ 安 “국정 전반 현안 논의… 인수위장 얘기는 없어” [20대 대통령 윤석열]]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675198</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675198"/>
+        <updated>2022-03-11T13:20:02.588Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003675198" class="nclicks(rig.secteco)" title="‘尹과 회동’ 安 “국정 전반 현안 논의… 인수위장 얘기는 없어” [20대 대통령 윤석열]">‘尹과 회동’ 安 “국정 전반 현안 논의… 인수위장 얘기는 없어” [20대 대통령 윤석열]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라 중·서부로 공습 확대…고위급 휴전 논의 결렬 후 “새로운 전쟁 국면 시작”]]></title>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=015&amp;aid=0004673152" class="nclicks(rig.secteco)" title="美·EU &quot;무역 단교&quot; vs 푸틴 &quot;200개 품목 수출금지&quot;">美·EU "무역 단교" vs 푸틴 "200개 품목 수출금지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셀트리온 기사회생…"회계부정 고의성 없어"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004933544</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004933544"/>
-        <updated>2022-03-11T12:25:01.433Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004933544" class="nclicks(rig.secteco)" title="셀트리온 기사회생…&quot;회계부정 고의성 없어&quot;">셀트리온 기사회생…"회계부정 고의성 없어"</a>]]></content>
+        <title type="html"><![CDATA[셀트리온·헬스케어·제약, '고의 분식' 혐의 벗었다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004673195</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004673195"/>
+        <updated>2022-03-11T13:20:02.593Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004673195" class="nclicks(rig.secteco)" title="셀트리온·헬스케어·제약, '고의 분식' 혐의 벗었다">셀트리온·헬스케어·제약, '고의 분식' 혐의 벗었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울 휘발윳값 2000원 돌파...전국 평균도 곧 2000원]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=469&amp;aid=0000663016" class="nclicks(rig.secteco)" title="서울 휘발윳값 2000원 돌파...전국 평균도 곧 2000원">서울 휘발윳값 2000원 돌파...전국 평균도 곧 2000원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635"/>
-        <updated>2022-03-11T12:25:01.436Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257635" class="nclicks(rig.secteco)" title="주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서">주총서 ‘표 대결’ 금호석화, ‘매출 12조원’ 표심 잡기 나서</a>]]></content>
+        <title type="html"><![CDATA[국민연금, 삼성전자 경계현 등 이사 선임 반대 “기업가치 훼손”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257653</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257653"/>
+        <updated>2022-03-11T13:20:02.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=081&amp;aid=0003257653" class="nclicks(rig.secteco)" title="국민연금, 삼성전자 경계현 등 이사 선임 반대 “기업가치 훼손”">국민연금, 삼성전자 경계현 등 이사 선임 반대 “기업가치 훼손”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=366&amp;aid=0000799153</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=366&amp;aid=0000799153"/>
-        <updated>2022-03-11T09:15:19.646Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=366&amp;aid=0000799153" class="nclicks(rig.secteco)" title="“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”">“토니로 불러달라”…SKT 회장 맡은 최태원 “글로벌 AI 컴퍼니 첫발”</a>]]></content>
+        <title type="html"><![CDATA[SKT AI사업 직접 챙기는 최태원 "미래기획팀 만들겠다"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=003&amp;aid=0011058353</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=003&amp;aid=0011058353"/>
+        <updated>2022-03-11T13:20:02.596Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=003&amp;aid=0011058353" class="nclicks(rig.secteco)" title="SKT AI사업 직접 챙기는 최태원 &quot;미래기획팀 만들겠다&quot;">SKT AI사업 직접 챙기는 최태원 "미래기획팀 만들겠다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 저격했는데…삼성, GOS 논란에 해킹 `어쩌나` [GO WEST]]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=215&amp;aid=0001019335" class="nclicks(rig.secteco)" title="애플 저격했는데…삼성, GOS 논란에 해킹 `어쩌나` [GO WEST]">애플 저격했는데…삼성, GOS 논란에 해킹 `어쩌나` [GO WEST]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신속항원검사 중심 새 진단 체계… 어떻게 바뀌나 [Q&A]]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003675209</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003675209"/>
-        <updated>2022-03-11T12:25:01.438Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003675209" class="nclicks(rig.secteco)" title="신속항원검사 중심 새 진단 체계… 어떻게 바뀌나 [Q&amp;A]">신속항원검사 중심 새 진단 체계… 어떻게 바뀌나 [Q&amp;A]</a>]]></content>
+        <title type="html"><![CDATA[PCR도 과부하, 검사 체계 바꾼다…12일 누적사망 1만명 넘길 듯]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415900</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415900"/>
+        <updated>2022-03-11T13:20:02.598Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003415900" class="nclicks(rig.secteco)" title="PCR도 과부하, 검사 체계 바꾼다…12일 누적사망 1만명 넘길 듯">PCR도 과부하, 검사 체계 바꾼다…12일 누적사망 1만명 넘길 듯</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘하나은행 채용비리’ 부행장·법인은 유죄, 행장은 무죄나온 이유]]></title>
@@ -90,11 +90,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003675216" class="nclicks(rig.secteco)" title="‘하나은행 채용비리’ 부행장·법인은 유죄, 행장은 무죄나온 이유">‘하나은행 채용비리’ 부행장·법인은 유죄, 행장은 무죄나온 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394"/>
-        <updated>2022-03-11T11:12:46.669Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011058394" class="nclicks(rig.secteco)" title="사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로">사상 최대 사교육비, 코로나도 뚫은 입시경쟁…새 정부 과제로</a>]]></content>
+        <title type="html"><![CDATA[공수처, 스폰서 검사 '1호 기소'…검찰 무혐의 재수사]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292211</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292211"/>
+        <updated>2022-03-11T13:20:02.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000292211" class="nclicks(rig.secteco)" title="공수처, 스폰서 검사 '1호 기소'…검찰 무혐의 재수사">공수처, 스폰서 검사 '1호 기소'…검찰 무혐의 재수사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국작가 2인 후보에 올랐다, 한강이 받았던 세계적 문학상]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179626</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179626"/>
+        <updated>2022-03-11T13:20:02.602Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003179626" class="nclicks(rig.secteco)" title="한국작가 2인 후보에 올랐다, 한강이 받았던 세계적 문학상">한국작가 2인 후보에 올랐다, 한강이 받았던 세계적 문학상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘자유·평화 상징’ 마이크로버스의 귀환… 폴크스바겐, 전기 미니밴 ‘ID.버즈’ 공개]]></title>
@@ -102,12 +109,5 @@
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=020&amp;aid=0003415873"/>
         <updated>2022-03-11T09:15:19.649Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=020&amp;aid=0003415873" class="nclicks(rig.secteco)" title="‘자유·평화 상징’ 마이크로버스의 귀환… 폴크스바겐, 전기 미니밴 ‘ID.버즈’ 공개">‘자유·평화 상징’ 마이크로버스의 귀환… 폴크스바겐, 전기 미니밴 ‘ID.버즈’ 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박상영·정보라 작가 ‘부커상’ 후보에]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=032&amp;aid=0003133753</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=032&amp;aid=0003133753"/>
-        <updated>2022-03-11T12:25:01.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=032&amp;aid=0003133753" class="nclicks(rig.secteco)" title="박상영·정보라 작가 ‘부커상’ 후보에">박상영·정보라 작가 ‘부커상’ 후보에</a>]]></content>
     </entry>
 </feed>
