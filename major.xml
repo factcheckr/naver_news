@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-15T16:21:46.678Z</updated>
+    <updated>2022-03-15T17:17:02.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=011&amp;aid=0004029833" class="nclicks(rig.secteco)" title="[단독]尹 &quot;신한울 착공 빨리&quot; '산불' 울진 원전 특별지원금 ‘단비’">[단독]尹 "신한울 착공 빨리" '산불' 울진 원전 특별지원금 ‘단비’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316"/>
-        <updated>2022-03-15T16:21:17.832Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316" class="nclicks(rig.secteco)" title="[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비">[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 군당국, 윤석열 청와대 '국방부 청사' 이전안 인수위에 보고했다]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000663638</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000663638"/>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=469&amp;aid=0000663638" class="nclicks(rig.secteco)" title="[단독] 군당국, 윤석열 청와대 '국방부 청사' 이전안 인수위에 보고했다">[단독] 군당국, 윤석열 청와대 '국방부 청사' 이전안 인수위에 보고했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(영상) 러 뉴스 생방 중 '난입' 반전시위…변호인 “실종 의심”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005167573</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005167573"/>
-        <updated>2022-03-15T16:21:17.833Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005167573" class="nclicks(rig.secteco)" title="(영상) 러 뉴스 생방 중 '난입' 반전시위…변호인 “실종 의심”">(영상) 러 뉴스 생방 중 '난입' 반전시위…변호인 “실종 의심”</a>]]></content>
+        <title type="html"><![CDATA[[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316"/>
+        <updated>2022-03-15T16:21:17.832Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003416316" class="nclicks(rig.secteco)" title="[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비">[단독]文대통령, 무궁화대훈장 ‘셀프수여’ 준비</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러 국영방송 뉴스 도중 뛰어든 여성, "전쟁 반대" 외쳐]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000960386</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000960386"/>
+        <updated>2022-03-15T17:16:32.598Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=055&amp;aid=0000960386" class="nclicks(rig.secteco)" title="러 국영방송 뉴스 도중 뛰어든 여성, &quot;전쟁 반대&quot; 외쳐">러 국영방송 뉴스 도중 뛰어든 여성, "전쟁 반대" 외쳐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[우크라 침공] 영·EU, 잇따라 대러 추가제재…명품 수출 금지(종합)]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001714033" class="nclicks(rig.secteco)" title="'별 다섯 개 리뷰' 쿠팡 PB 상품...&quot;직원 동원해 후기 조작&quot; 의혹">'별 다섯 개 리뷰' 쿠팡 PB 상품..."직원 동원해 후기 조작" 의혹</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오후 9시까지 전국서 44만1423명 확진…정부 예측치 크게 넘어서]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582973</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582973"/>
-        <updated>2022-03-15T15:15:55.551Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002582973" class="nclicks(rig.secteco)" title="오후 9시까지 전국서 44만1423명 확진…정부 예측치 크게 넘어서">오후 9시까지 전국서 44만1423명 확진…정부 예측치 크게 넘어서</a>]]></content>
+        <title type="html"><![CDATA[코로나 신규 확진자 결국 40만명 넘었다, 오후 9시까지 44만명]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=014&amp;aid=0004803692</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=014&amp;aid=0004803692"/>
+        <updated>2022-03-15T17:16:32.609Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=014&amp;aid=0004803692" class="nclicks(rig.secteco)" title="코로나 신규 확진자 결국 40만명 넘었다, 오후 9시까지 44만명">코로나 신규 확진자 결국 40만명 넘었다, 오후 9시까지 44만명</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오후 6시 전국 37만7661명 확진…첫 '40만명' 돌파 기정사실]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005970611" class="nclicks(rig.secteco)" title="오후 6시 전국 37만7661명 확진…첫 '40만명' 돌파 기정사실">오후 6시 전국 37만7661명 확진…첫 '40만명' 돌파 기정사실</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“여성들이여 좌절하지 말고 전진하라”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=022&amp;aid=0003676372</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=022&amp;aid=0003676372"/>
-        <updated>2022-03-15T16:21:17.849Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=022&amp;aid=0003676372" class="nclicks(rig.secteco)" title="“여성들이여 좌절하지 말고 전진하라”">“여성들이여 좌절하지 말고 전진하라”</a>]]></content>
+        <title type="html"><![CDATA['윤석열 시대' 미 페미니스트의 조언 "함께 싸우라, 포기 말라"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=310&amp;aid=0000094759</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=310&amp;aid=0000094759"/>
+        <updated>2022-03-15T17:16:32.612Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=310&amp;aid=0000094759" class="nclicks(rig.secteco)" title="'윤석열 시대' 미 페미니스트의 조언 &quot;함께 싸우라, 포기 말라&quot;">'윤석열 시대' 미 페미니스트의 조언 "함께 싸우라, 포기 말라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조국, 책 ‘가불선진국’ 낸다…초판 1만부 24일께 출간(종합)]]></title>
