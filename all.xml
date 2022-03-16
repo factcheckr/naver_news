@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T03:19:07.329Z</updated>
+    <updated>2022-03-16T04:18:59.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120"/>
-        <updated>2022-03-16T03:18:36.182Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120" class="nclicks(rig.secteco)" title="新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산">新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[합참 "北, 순안서 미상 발사체 쐈으나 실패한 듯"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005971659</id>
@@ -19,18 +12,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0005971659" class="nclicks(rig.secteco)" title="합참 &quot;北, 순안서 미상 발사체 쐈으나 실패한 듯&quot;(종합)">합참 "北, 순안서 미상 발사체 쐈으나 실패한 듯"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹당선인, 강석훈·김현숙 정책특보-장성민 정무특보 임명(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013054031</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013054031"/>
-        <updated>2022-03-16T03:18:36.184Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013054031" class="nclicks(rig.secteco)" title="尹당선인, 강석훈·김현숙 정책특보-장성민 정무특보 임명(종합)">尹당선인, 강석훈·김현숙 정책특보-장성민 정무특보 임명(종합)</a>]]></content>
+        <title type="html"><![CDATA[[단독]'정책특보' 김현숙 "인수위에 尹철학 반영되게 가교 역할" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004720532</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004720532"/>
+        <updated>2022-03-16T04:18:29.184Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004720532" class="nclicks(rig.secteco)" title="[단독]'정책특보' 김현숙 &quot;인수위에 尹철학 반영되게 가교 역할&quot;">[단독]'정책특보' 김현숙 "인수위에 尹철학 반영되게 가교 역할"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[우크라 침공] 러 '생방송 시위' 언론인 "푸틴위한 선전 부끄러워" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013053519</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013053519"/>
-        <updated>2022-03-16T02:25:19.801Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013053519" class="nclicks(rig.secteco)" title="[우크라 침공] 러 '생방송 시위' 언론인 &quot;푸틴위한 선전 부끄러워&quot;">[우크라 침공] 러 '생방송 시위' 언론인 "푸틴위한 선전 부끄러워"</a>]]></content>
+        <title type="html"><![CDATA[新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120"/>
+        <updated>2022-03-16T03:18:36.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=003&amp;aid=0011065120" class="nclicks(rig.secteco)" title="新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산">新·舊 권력 정면 충돌…文·尹 오늘 회동, 전격 무산</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방송 중 "전쟁 반대" 간큰 러시아 직원, 미리 남긴 영상에선… (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004720531</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004720531"/>
+        <updated>2022-03-16T04:18:29.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004720531" class="nclicks(rig.secteco)" title="방송 중 &quot;전쟁 반대&quot; 간큰 러시아 직원, 미리 남긴 영상에선…">방송 중 "전쟁 반대" 간큰 러시아 직원, 미리 남긴 영상에선…</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“루블화로 채무 상환”…러 ‘디폴트’ 시계 째깍째깍 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,18 +40,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001964535" class="nclicks(rig.secteco)" title="“루블화로 채무 상환”…러 ‘디폴트’ 시계 째깍째깍">“루블화로 채무 상환”…러 ‘디폴트’ 시계 째깍째깍</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한종희 부회장 "GOS 논란 주주·고객에 사과"..일부 이용자 '트럭시위' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004720533</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004720533"/>
+        <updated>2022-03-16T04:18:29.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004720533" class="nclicks(rig.secteco)" title="한종희 부회장 &quot;GOS 논란 주주·고객에 사과&quot;..일부 이용자 '트럭시위'">한종희 부회장 "GOS 논란 주주·고객에 사과"..일부 이용자 '트럭시위'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오미크론에도 고용 '훨훨'…"취업자수 정점 아직 아니다"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005167991</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005167991"/>
         <updated>2022-03-16T03:18:36.186Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005167991" class="nclicks(rig.secteco)" title="오미크론에도 고용 '훨훨'…&quot;취업자수 정점 아직 아니다&quot;(종합)">오미크론에도 고용 '훨훨'…"취업자수 정점 아직 아니다"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 부회장, 성능저하 논란 사과…"고객 마음 못 헤아려"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013054097</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013054097"/>
-        <updated>2022-03-16T03:18:36.187Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013054097" class="nclicks(rig.secteco)" title="삼성전자 부회장, 성능저하 논란 사과…&quot;고객 마음 못 헤아려&quot;(종합)">삼성전자 부회장, 성능저하 논란 사과…"고객 마음 못 헤아려"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자 500만명 동학개미, 송곳 질문으로 주총장 달궜다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=003&amp;aid=0011065275" class="nclicks(rig.secteco)" title="&quot;한국형 스페이스X 키운다&quot;…소형발사체 개발에 6년간 279억 지원">"한국형 스페이스X 키운다"…소형발사체 개발에 6년간 279억 지원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성SDS 황성우 대표 "클라우드 회사로 변신" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002250623</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002250623"/>
-        <updated>2022-03-16T03:18:36.193Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002250623" class="nclicks(rig.secteco)" title="삼성SDS 황성우 대표 &quot;클라우드 회사로 변신&quot;">삼성SDS 황성우 대표 "클라우드 회사로 변신"</a>]]></content>
+        <title type="html"><![CDATA[주주들에 고개 숙인 삼성SDS, "주가 많이 떨어지고 클라우드 많이 늦었다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004935379</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004935379"/>
+        <updated>2022-03-16T04:18:29.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004935379" class="nclicks(rig.secteco)" title="주주들에 고개 숙인 삼성SDS, &quot;주가 많이 떨어지고 클라우드 많이 늦었다&quot;">주주들에 고개 숙인 삼성SDS, "주가 많이 떨어지고 클라우드 많이 늦었다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자진사퇴론 나오자 “법·원칙따라 임무수행” 하겠다는 김오수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002506488</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002506488"/>
-        <updated>2022-03-16T03:18:36.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002506488" class="nclicks(rig.secteco)" title="자진사퇴론 나오자 “법·원칙따라 임무수행” 하겠다는 김오수">자진사퇴론 나오자 “법·원칙따라 임무수행” 하겠다는 김오수</a>]]></content>
+        <title type="html"><![CDATA["사퇴 거부" 윤석열이 했던 말, 김오수가 했다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=047&amp;aid=0002345979</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=047&amp;aid=0002345979"/>
+        <updated>2022-03-16T04:18:29.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=047&amp;aid=0002345979" class="nclicks(rig.secteco)" title="&quot;사퇴 거부&quot; 윤석열이 했던 말, 김오수가 했다">"사퇴 거부" 윤석열이 했던 말, 김오수가 했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4월에도 등교전 신속항원키트로 주2회 검사…3째주부턴 주1회(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
