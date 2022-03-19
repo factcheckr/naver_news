@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-19T03:15:44.382Z</updated>
+    <updated>2022-03-19T04:19:03.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독] 윤석열 당선인, 일요일쯤 "국방부로 이전" 직접 발표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=448&amp;aid=0000354194</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=448&amp;aid=0000354194"/>
+        <updated>2022-03-19T04:18:34.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=448&amp;aid=0000354194" class="nclicks(rig.secteco)" title="[단독] 윤석열 당선인,  일요일쯤 &quot;국방부로 이전&quot; 직접 발표">[단독] 윤석열 당선인, 일요일쯤 "국방부로 이전" 직접 발표</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]윤석열 당선인, 21일 경제5단체장과 회동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003135086</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=032&amp;aid=0003135086" class="nclicks(rig.secteco)" title="[단독]윤석열 당선인, 21일 경제5단체장과 회동">[단독]윤석열 당선인, 21일 경제5단체장과 회동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문 대통령 "의용소방대원 자랑스러워...안전한 대한민국 만들기 위해 함께 힘써나가길" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000887358</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000887358"/>
-        <updated>2022-03-19T03:15:13.800Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=087&amp;aid=0000887358" class="nclicks(rig.secteco)" title="문 대통령 &quot;의용소방대원 자랑스러워...안전한 대한민국 만들기 위해 함께 힘써나가길&quot;">문 대통령 "의용소방대원 자랑스러워...안전한 대한민국 만들기 위해 함께 힘써나가길"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스브스레터 이브닝(3/18) : 인수위 출범 시각 '대화' 언급한 청와대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000961086</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000961086"/>
-        <updated>2022-03-19T02:11:11.547Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000961086" class="nclicks(rig.secteco)" title="스브스레터 이브닝(3/18) : 인수위 출범 시각 '대화' 언급한 청와대">스브스레터 이브닝(3/18) : 인수위 출범 시각 '대화' 언급한 청와대</a>]]></content>
+        <title type="html"><![CDATA[문 대통령, 10만 의용소방대원들에 "참으로 자랑스럽다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002346300</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002346300"/>
+        <updated>2022-03-19T04:18:34.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002346300" class="nclicks(rig.secteco)" title="문 대통령, 10만 의용소방대원들에 &quot;참으로 자랑스럽다&quot;">문 대통령, 10만 의용소방대원들에 "참으로 자랑스럽다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든 "러시아 지원 시 대가"…시진핑 "전쟁, 문제해결 못해, 전방위 제재는 엄청난 손실" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,32 +33,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=029&amp;aid=0002725421" class="nclicks(rig.secteco)" title="바이든 &quot;러시아 지원 시 대가&quot;…시진핑 &quot;전쟁, 문제해결 못해, 전방위 제재는 엄청난 손실&quot;">바이든 "러시아 지원 시 대가"…시진핑 "전쟁, 문제해결 못해, 전방위 제재는 엄청난 손실"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 우크라의 '부산' 첫 폭격…전쟁 새 국면 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=079&amp;aid=0003622044</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=079&amp;aid=0003622044"/>
-        <updated>2022-03-19T03:15:13.808Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=079&amp;aid=0003622044" class="nclicks(rig.secteco)" title="러, 우크라의 '부산' 첫 폭격…전쟁 새 국면">러, 우크라의 '부산' 첫 폭격…전쟁 새 국면</a>]]></content>
+        <title type="html"><![CDATA[젤렌스키 “푸틴, 이제 대화할 때 됐다”…우·러 정상회담 촉구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=020&amp;aid=0003417372</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=020&amp;aid=0003417372"/>
+        <updated>2022-03-19T04:18:34.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=020&amp;aid=0003417372" class="nclicks(rig.secteco)" title="젤렌스키 “푸틴, 이제 대화할 때 됐다”…우·러 정상회담 촉구">젤렌스키 “푸틴, 이제 대화할 때 됐다”…우·러 정상회담 촉구</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차·롯데 등 대기업 가세…‘온라인 중고차 플랫폼’시장 급팽창 예고 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002121028</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002121028"/>
-        <updated>2022-03-19T03:15:13.818Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=138&amp;aid=0002121028" class="nclicks(rig.secteco)" title="현대차·롯데 등 대기업 가세…‘온라인 중고차 플랫폼’시장 급팽창 예고">현대차·롯데 등 대기업 가세…‘온라인 중고차 플랫폼’시장 급팽창 예고</a>]]></content>
+        <title type="html"><![CDATA[대기업 중고차 시장 진출 길 열려…증권가 관련주는 '쑥쑥' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005060541</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005060541"/>
+        <updated>2022-03-19T04:18:34.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005060541" class="nclicks(rig.secteco)" title="대기업 중고차 시장 진출 길 열려…증권가 관련주는 '쑥쑥'">대기업 중고차 시장 진출 길 열려…증권가 관련주는 '쑥쑥'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[휘발유 최고가 ℓ당 3천원 육박…9년 5개월만 최고가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000749851</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000749851"/>
-        <updated>2022-03-19T03:15:13.818Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000749851" class="nclicks(rig.secteco)" title="휘발유 최고가 ℓ당 3천원 육박…9년 5개월만 최고가">휘발유 최고가 ℓ당 3천원 육박…9년 5개월만 최고가</a>]]></content>
+        <title type="html"><![CDATA[휘발유 최고가 2959원…"만땅 대신 '3만원만' 입에 붙었어요" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004721794</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004721794"/>
+        <updated>2022-03-19T04:18:34.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004721794" class="nclicks(rig.secteco)" title="휘발유 최고가 2959원…&quot;만땅 대신 '3만원만' 입에 붙었어요&quot;">휘발유 최고가 2959원…"만땅 대신 '3만원만' 입에 붙었어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스코홀딩스 첫 주총, 반발 없었다…“그룹 가치 높이고 주주환원 강화” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005169644</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005169644"/>
-        <updated>2022-03-18T17:17:02.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005169644" class="nclicks(rig.secteco)" title="포스코홀딩스 첫 주총, 반발 없었다…“그룹 가치 높이고 주주환원 강화”">포스코홀딩스 첫 주총, 반발 없었다…“그룹 가치 높이고 주주환원 강화”</a>]]></content>
+        <title type="html"><![CDATA[하나금융, 영국 부동산 재벌과 첼시 FC 인수전에 나섰다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000024355</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000024355"/>
+        <updated>2022-03-19T04:18:34.664Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=243&amp;aid=0000024355" class="nclicks(rig.secteco)" title="하나금융, 영국 부동산 재벌과 첼시 FC 인수전에 나섰다">하나금융, 영국 부동산 재벌과 첼시 FC 인수전에 나섰다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['S급 카메라' 갤럭시A53 써보니...'다재다능 하네' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,11 +68,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002250982" class="nclicks(rig.secteco)" title="'S급 카메라' 갤럭시A53 써보니...'다재다능 하네'">'S급 카메라' 갤럭시A53 써보니...'다재다능 하네'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["그동안 나는 호구였나?"…폰에선 6900원 카톡 이모티콘, PC에선 3900원 [뉴스 쉽게보기] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004936964</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004936964"/>
-        <updated>2022-03-19T03:15:13.821Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004936964" class="nclicks(rig.secteco)" title="&quot;그동안 나는 호구였나?&quot;…폰에선 6900원 카톡 이모티콘, PC에선 3900원 [뉴스 쉽게보기]">"그동안 나는 호구였나?"…폰에선 6900원 카톡 이모티콘, PC에선 3900원 [뉴스 쉽게보기]</a>]]></content>
+        <title type="html"><![CDATA[[단독]네이버, '최수연표' 복지제도 공개…3년 근속 시 6개월 무급휴직 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=030&amp;aid=0003004602</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=030&amp;aid=0003004602"/>
+        <updated>2022-03-19T04:18:34.667Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=030&amp;aid=0003004602" class="nclicks(rig.secteco)" title="[단독]네이버, '최수연표' 복지제도 공개…3년 근속 시 6개월 무급휴직">[단독]네이버, '최수연표' 복지제도 공개…3년 근속 시 6개월 무급휴직</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신규확진 소폭 줄어 38만1454명…사망 319명, 위중증 1049명(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013060189" class="nclicks(rig.secteco)" title="신규확진 소폭 줄어 38만1454명…사망 319명, 위중증 1049명(종합)">신규확진 소폭 줄어 38만1454명…사망 319명, 위중증 1049명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["아웃백 맛 변했다" 알고보니…가본적 없는 취준생이 썼다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004031516</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004031516"/>
-        <updated>2022-03-19T03:15:13.824Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=011&amp;aid=0004031516" class="nclicks(rig.secteco)" title="&quot;아웃백 맛 변했다&quot; 알고보니…가본적 없는 취준생이 썼다">"아웃백 맛 변했다" 알고보니…가본적 없는 취준생이 썼다</a>]]></content>
+        <title type="html"><![CDATA[“(안 가봤지만) 아웃백 품질 별로…” 취준생 거짓폭로 일파만파 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005170068</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005170068"/>
+        <updated>2022-03-19T04:18:34.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=018&amp;aid=0005170068" class="nclicks(rig.secteco)" title="“(안 가봤지만) 아웃백 품질 별로…” 취준생 거짓폭로 일파만파">“(안 가봤지만) 아웃백 품질 별로…” 취준생 거짓폭로 일파만파</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토요일 전국 눈·비, 동해안 산지 최대 20㎝…당분간 꽃샘추위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003181223" class="nclicks(rig.secteco)" title="토요일 전국 눈·비, 동해안 산지 최대 20㎝…당분간 꽃샘추위">토요일 전국 눈·비, 동해안 산지 최대 20㎝…당분간 꽃샘추위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 중부 중심 대설특보...오전까지 강한 눈, 한낮 쌀쌀 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001715485</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001715485"/>
-        <updated>2022-03-19T03:15:13.826Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001715485" class="nclicks(rig.secteco)" title="[날씨] 중부 중심 대설특보...오전까지 강한 눈, 한낮 쌀쌀">[날씨] 중부 중심 대설특보...오전까지 강한 눈, 한낮 쌀쌀</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국 곳곳 비 · 눈…강원 산간 최고 50cm '많은 눈' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=055&amp;aid=0000961196</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=055&amp;aid=0000961196"/>
+        <updated>2022-03-19T04:18:34.670Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=055&amp;aid=0000961196" class="nclicks(rig.secteco)" title="[날씨] 전국 곳곳 비 · 눈…강원 산간 최고 50cm '많은 눈'">[날씨] 전국 곳곳 비 · 눈…강원 산간 최고 50cm '많은 눈'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['3월 폭설' 향로봉 56㎝...강원 동해안제외 대부분 지역 대설 특보 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=654&amp;aid=0000005455</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=654&amp;aid=0000005455"/>
-        <updated>2022-03-19T03:15:13.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=654&amp;aid=0000005455" class="nclicks(rig.secteco)" title="'3월 폭설' 향로봉 56㎝...강원 동해안제외 대부분 지역 대설 특보">'3월 폭설' 향로봉 56㎝...강원 동해안제외 대부분 지역 대설 특보</a>]]></content>
+        <title type="html"><![CDATA[강원 향로봉 38㎝ 봄 시샘 눈 '펑펑'…내일까지 20㎝ 더 내려(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013059777</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013059777"/>
+        <updated>2022-03-19T04:18:34.670Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013059777" class="nclicks(rig.secteco)" title="강원 향로봉 38㎝ 봄 시샘 눈 '펑펑'…내일까지 20㎝ 더 내려(종합)">강원 향로봉 38㎝ 봄 시샘 눈 '펑펑'…내일까지 20㎝ 더 내려(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '삼성디플 CEO 사과 받은 '삼다르크'' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
