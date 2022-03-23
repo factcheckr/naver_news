@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-23T11:12:43.304Z</updated>
+    <updated>2022-03-23T12:26:49.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260361" class="nclicks(rig.secteco)" title="3분 만에 8900m 수직 추락…중국 여객기 블랙박스 발견(종합)">3분 만에 8900m 수직 추락…중국 여객기 블랙박스 발견(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다소 줄어 신규 확진 29만 5240명…오후 6시, 4만 1787명↓(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260363</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260363"/>
-        <updated>2022-03-23T11:12:15.692Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260363" class="nclicks(rig.secteco)" title="다소 줄어 신규 확진 29만 5240명…오후 6시, 4만 1787명↓(종합)">다소 줄어 신규 확진 29만 5240명…오후 6시, 4만 1787명↓(종합)</a>]]></content>
+        <title type="html"><![CDATA[[속보] 젤렌스키 “러시아, 사린 화학무기 공격 준비”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260367</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260367"/>
+        <updated>2022-03-23T12:26:19.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003260367" class="nclicks(rig.secteco)" title="[속보] 젤렌스키 “러시아, 사린 화학무기 공격 준비”">[속보] 젤렌스키 “러시아, 사린 화학무기 공격 준비”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한은 떠나는 이주열 총재 "금리인상 안하면 훗날 큰 비용 치를 것"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=047&amp;aid=0002346745</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=047&amp;aid=0002346745"/>
-        <updated>2022-03-23T11:12:15.693Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=047&amp;aid=0002346745" class="nclicks(rig.secteco)" title="한은 떠나는 이주열 총재 &quot;금리인상 안하면 훗날 큰 비용 치를 것&quot;">한은 떠나는 이주열 총재 "금리인상 안하면 훗날 큰 비용 치를 것"</a>]]></content>
+        <title type="html"><![CDATA["중앙은행 존립기반은 국민신뢰"…이주열 총재가 8년 전 새긴 이 말]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005985778</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005985778"/>
+        <updated>2022-03-23T12:26:19.661Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005985778" class="nclicks(rig.secteco)" title="&quot;중앙은행 존립기반은 국민신뢰&quot;…이주열 총재가 8년 전 새긴 이 말">"중앙은행 존립기반은 국민신뢰"…이주열 총재가 8년 전 새긴 이 말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공시가격 또 17% 급등에 부담 느꼈나? 1주택자 보유세 사실상 동결]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=214&amp;aid=0001186032</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=214&amp;aid=0001186032"/>
+        <updated>2022-03-23T12:26:19.662Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=214&amp;aid=0001186032" class="nclicks(rig.secteco)" title="공시가격 또 17% 급등에 부담 느꼈나? 1주택자 보유세 사실상 동결">공시가격 또 17% 급등에 부담 느꼈나? 1주택자 보유세 사실상 동결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[133兆 소상공인 대출 한숨 돌렸지만…'부실화 위험' 더 커졌다]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004677233" class="nclicks(rig.secteco)" title="133兆 소상공인 대출 한숨 돌렸지만…'부실화 위험' 더 커졌다">133兆 소상공인 대출 한숨 돌렸지만…'부실화 위험' 더 커졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신동빈, 푸드사업 재편에도 속도…롯데제과·롯데푸드 합병으로 업계 2위]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003182283</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003182283"/>
-        <updated>2022-03-23T11:12:15.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003182283" class="nclicks(rig.secteco)" title="신동빈, 푸드사업 재편에도 속도…롯데제과·롯데푸드 합병으로 업계 2위">신동빈, 푸드사업 재편에도 속도…롯데제과·롯데푸드 합병으로 업계 2위</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] SK스퀘어, 암호화폐 발행한다…SK텔레콤·11번가와 연동]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004677056</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004677056"/>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=015&amp;aid=0004677056" class="nclicks(rig.secteco)" title="[단독] SK스퀘어, 암호화폐 발행한다…SK텔레콤·11번가와 연동">[단독] SK스퀘어, 암호화폐 발행한다…SK텔레콤·11번가와 연동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빗썸·코인원, NH농협과 실명계좌 발급 계약 1년 연장]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005062648</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005062648"/>
-        <updated>2022-03-23T11:12:15.699Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=277&amp;aid=0005062648" class="nclicks(rig.secteco)" title="빗썸·코인원, NH농협과 실명계좌 발급 계약 1년 연장">빗썸·코인원, NH농협과 실명계좌 발급 계약 1년 연장</a>]]></content>
+        <title type="html"><![CDATA[빗썸과 코인원, NH농협과 실명확인 입출금 서비스 제휴 1년 연장 성공]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002121327</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002121327"/>
+        <updated>2022-03-23T12:26:19.666Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=138&amp;aid=0002121327" class="nclicks(rig.secteco)" title="빗썸과 코인원, NH농협과 실명확인 입출금 서비스 제휴 1년 연장 성공">빗썸과 코인원, NH농협과 실명확인 입출금 서비스 제휴 1년 연장 성공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[확진자 폭증에 '효과 적은' 라게브리오까지 승인…26일부터 처방(종합2보)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985691</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985691"/>
-        <updated>2022-03-23T11:12:15.700Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985691" class="nclicks(rig.secteco)" title="확진자 폭증에 '효과 적은' 라게브리오까지 승인…26일부터 처방(종합2보)">확진자 폭증에 '효과 적은' 라게브리오까지 승인…26일부터 처방(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[코로나 먹는 치료약 ‘라게브리오’ 긴급승인]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003679049</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003679049"/>
+        <updated>2022-03-23T12:26:19.666Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=022&amp;aid=0003679049" class="nclicks(rig.secteco)" title="코로나 먹는 치료약 ‘라게브리오’ 긴급승인">코로나 먹는 치료약 ‘라게브리오’ 긴급승인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박범계 “수사지휘권 폐지 반대…대장동은 특검으로”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=449&amp;aid=0000224294</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=449&amp;aid=0000224294"/>
-        <updated>2022-03-23T11:12:15.702Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=449&amp;aid=0000224294" class="nclicks(rig.secteco)" title="박범계 “수사지휘권 폐지 반대…대장동은 특검으로”">박범계 “수사지휘권 폐지 반대…대장동은 특검으로”</a>]]></content>
+        <title type="html"><![CDATA[檢 “수사지휘권 폐지” 박범계 “필요” 정면충돌…인수위 업무보고도 따로]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003418167</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003418167"/>
+        <updated>2022-03-23T12:26:19.668Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003418167" class="nclicks(rig.secteco)" title="檢 “수사지휘권 폐지” 박범계 “필요” 정면충돌…인수위 업무보고도 따로">檢 “수사지휘권 폐지” 박범계 “필요” 정면충돌…인수위 업무보고도 따로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 오후 6시 29만5240명 확진…어제보다 4만1787명 줄어]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002583968</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002583968"/>
-        <updated>2022-03-23T11:12:15.703Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=028&amp;aid=0002583968" class="nclicks(rig.secteco)" title="[속보] 오후 6시 29만5240명 확진…어제보다 4만1787명 줄어">[속보] 오후 6시 29만5240명 확진…어제보다 4만1787명 줄어</a>]]></content>
+        <title type="html"><![CDATA[오후 6시 29만9338명…전날 동시간 대비 4만4029명↓(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985800</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985800"/>
+        <updated>2022-03-23T12:26:19.668Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005985800" class="nclicks(rig.secteco)" title="오후 6시 29만9338명…전날 동시간 대비 4만4029명↓(종합)">오후 6시 29만9338명…전날 동시간 대비 4만4029명↓(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안데르센상 이수지 "커다란 진실을 단순하게, 그림책 못 끊어요"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003181985</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003181985"/>
-        <updated>2022-03-23T11:12:15.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003181985" class="nclicks(rig.secteco)" title="안데르센상 이수지 &quot;커다란 진실을 단순하게, 그림책 못 끊어요&quot;">안데르센상 이수지 "커다란 진실을 단순하게, 그림책 못 끊어요"</a>]]></content>
+        <title type="html"><![CDATA[‘글자 하나 없는 그림책’… 세계 어린이책 새역사 썼다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003680403</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003680403"/>
+        <updated>2022-03-23T12:26:19.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=023&amp;aid=0003680403" class="nclicks(rig.secteco)" title="‘글자 하나 없는 그림책’… 세계 어린이책 새역사 썼다">‘글자 하나 없는 그림책’… 세계 어린이책 새역사 썼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영원을 추구한 고독한 예술가…탄생 100주년 조각거장 권진규(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013068506</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013068506"/>
-        <updated>2022-03-23T11:12:15.706Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013068506" class="nclicks(rig.secteco)" title="영원을 추구한 고독한 예술가…탄생 100주년 조각거장 권진규(종합)">영원을 추구한 고독한 예술가…탄생 100주년 조각거장 권진규(종합)</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 광주·전남 내일 아침 쌀쌀, 서리·얼음 주의…낮부터 따뜻]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011234732</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011234732"/>
+        <updated>2022-03-23T12:26:19.670Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=056&amp;aid=0011234732" class="nclicks(rig.secteco)" title="[날씨] 광주·전남 내일 아침 쌀쌀, 서리·얼음 주의…낮부터 따뜻">[날씨] 광주·전남 내일 아침 쌀쌀, 서리·얼음 주의…낮부터 따뜻</a>]]></content>
     </entry>
 </feed>
