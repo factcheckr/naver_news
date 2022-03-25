@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-03-25T02:24:54.292Z</updated>
+    <updated>2022-03-25T03:19:56.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루만에 물러선 박범계 "난 이제 갈 사람…업무보고 받아달라"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003182831</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003182831"/>
+        <updated>2022-03-25T03:19:30.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003182831" class="nclicks(rig.secteco)" title="하루만에 물러선 박범계 &quot;난 이제 갈 사람…업무보고 받아달라&quot;">하루만에 물러선 박범계 "난 이제 갈 사람…업무보고 받아달라"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["용감히 쏘라" 신형 ICBM 발사한 김정은, 미국과 대결 노골화]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013071932</id>
@@ -20,94 +27,87 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=123&amp;aid=0002270425" class="nclicks(rig.secteco)" title="尹당선인, 시진핑과 오후 통화 예정... 美·日·英·濠·印·越에 이은 7번째">尹당선인, 시진핑과 오후 통화 예정... 美·日·英·濠·印·越에 이은 7번째</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 "호국의 별이된 용사 기려"…'서해 수호의 날' 기념식은 불참(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013072259</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013072259"/>
-        <updated>2022-03-25T02:24:27.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013072259" class="nclicks(rig.secteco)" title="文 &quot;호국의 별이된 용사 기려&quot;…'서해 수호의 날' 기념식은 불참(종합)">文 "호국의 별이된 용사 기려"…'서해 수호의 날' 기념식은 불참(종합)</a>]]></content>
+        <title type="html"><![CDATA[우리 정부도 '北 ICBM 대응' 안보리 회의 참석한다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=421&amp;aid=0005989650</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=421&amp;aid=0005989650"/>
+        <updated>2022-03-25T03:19:30.407Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=421&amp;aid=0005989650" class="nclicks(rig.secteco)" title="우리 정부도 '北 ICBM 대응' 안보리 회의 참석한다">우리 정부도 '北 ICBM 대응' 안보리 회의 참석한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[우크라 침공] 일본, 우크라에 1천200억원 추가 지원…러시아엔 '관세 폭탄']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013072135</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013072135"/>
-        <updated>2022-03-25T02:24:27.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013072135" class="nclicks(rig.secteco)" title="[우크라 침공] 일본, 우크라에 1천200억원 추가 지원…러시아엔 '관세 폭탄'">[우크라 침공] 일본, 우크라에 1천200억원 추가 지원…러시아엔 '관세 폭탄'</a>]]></content>
+        <title type="html"><![CDATA[바이든 “G20, 러 퇴출해야…생화학 사용땐 추가조치”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001968674</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001968674"/>
+        <updated>2022-03-25T03:19:30.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001968674" class="nclicks(rig.secteco)" title="바이든 “G20, 러 퇴출해야…생화학 사용땐 추가조치”">바이든 “G20, 러 퇴출해야…생화학 사용땐 추가조치”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 직원들도 '급여 적다' 불만…회의서 관련 질문 쏟아져]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013071731</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013071731"/>
-        <updated>2022-03-25T02:24:27.329Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013071731" class="nclicks(rig.secteco)" title="구글 직원들도 '급여 적다' 불만…회의서 관련 질문 쏟아져">구글 직원들도 '급여 적다' 불만…회의서 관련 질문 쏟아져</a>]]></content>
+        <title type="html"><![CDATA[함영주, 하나금융 차기 회장 선임…국민연금도 찬성표]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003624418</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003624418"/>
+        <updated>2022-03-25T03:19:30.409Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=079&amp;aid=0003624418" class="nclicks(rig.secteco)" title="함영주, 하나금융 차기 회장 선임…국민연금도 찬성표">함영주, 하나금융 차기 회장 선임…국민연금도 찬성표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중기중앙회-기정원, 연구·개발 사업화 中企 해외진출 지원 협력]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005989536</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005989536"/>
-        <updated>2022-03-25T02:24:27.332Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=421&amp;aid=0005989536" class="nclicks(rig.secteco)" title="중기중앙회-기정원, 연구·개발 사업화 中企 해외진출 지원 협력">중기중앙회-기정원, 연구·개발 사업화 中企 해외진출 지원 협력</a>]]></content>
+        <title type="html"><![CDATA[매년 전기차 220만대 분 '하얀석유'…"포스코케미칼 2년내 리튬 완전자급"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004724331</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004724331"/>
+        <updated>2022-03-25T03:19:30.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004724331" class="nclicks(rig.secteco)" title="매년 전기차 220만대 분 '하얀석유'…&quot;포스코케미칼 2년내 리튬 완전자급&quot;">매년 전기차 220만대 분 '하얀석유'…"포스코케미칼 2년내 리튬 완전자급"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["90년생부터 국민연금 못 받는다?"…한경연, 국민연금 고갈 불안 고조]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=057&amp;aid=0001651490</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=057&amp;aid=0001651490"/>
-        <updated>2022-03-25T02:24:27.333Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=057&amp;aid=0001651490" class="nclicks(rig.secteco)" title="&quot;90년생부터 국민연금 못 받는다?&quot;…한경연, 국민연금 고갈 불안 고조">"90년생부터 국민연금 못 받는다?"…한경연, 국민연금 고갈 불안 고조</a>]]></content>
+        <title type="html"><![CDATA[BBQ 회장 “치킨, 삼겹살보다 훨씬 저렴… 1닭 3만원 정도 돼야”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003679719</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003679719"/>
+        <updated>2022-03-25T03:19:30.411Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003679719" class="nclicks(rig.secteco)" title="BBQ 회장 “치킨, 삼겹살보다 훨씬 저렴… 1닭 3만원 정도 돼야”">BBQ 회장 “치킨, 삼겹살보다 훨씬 저렴… 1닭 3만원 정도 돼야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노랑풍선, 터키 일주 대한항공 단독 전세기 띄운다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000797583</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000797583"/>
-        <updated>2022-03-25T02:24:27.333Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000797583" class="nclicks(rig.secteco)" title="노랑풍선, 터키 일주 대한항공 단독 전세기 띄운다">노랑풍선, 터키 일주 대한항공 단독 전세기 띄운다</a>]]></content>
+        <title type="html"><![CDATA["스펙보니 말이 안나온다"…삼성 30만원대 역대급 가성비폰 내놨다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004939956</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004939956"/>
+        <updated>2022-03-25T03:19:30.412Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004939956" class="nclicks(rig.secteco)" title="&quot;스펙보니 말이 안나온다&quot;…삼성 30만원대 역대급 가성비폰 내놨다">"스펙보니 말이 안나온다"…삼성 30만원대 역대급 가성비폰 내놨다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“800억 성과급 달라” 임지훈 카카오 전 대표, 김범수에 소송]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000024574</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000024574"/>
-        <updated>2022-03-25T02:24:27.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000024574" class="nclicks(rig.secteco)" title="“800억 성과급 달라” 임지훈 카카오 전 대표, 김범수에 소송">“800억 성과급 달라” 임지훈 카카오 전 대표, 김범수에 소송</a>]]></content>
+        <title type="html"><![CDATA[100만명 몰렸다…기대작 '던파모바일' 첫날부터 흥행 조짐]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000661893</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000661893"/>
+        <updated>2022-03-25T03:19:30.414Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000661893" class="nclicks(rig.secteco)" title="100만명 몰렸다…기대작 '던파모바일' 첫날부터 흥행 조짐">100만명 몰렸다…기대작 '던파모바일' 첫날부터 흥행 조짐</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“넷플릭스 무임승차, 안 보는 사람에 비용 전가하는 꼴”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001968627</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001968627"/>
-        <updated>2022-03-25T02:24:27.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001968627" class="nclicks(rig.secteco)" title="“넷플릭스 무임승차, 안 보는 사람에 비용 전가하는 꼴”">“넷플릭스 무임승차, 안 보는 사람에 비용 전가하는 꼴”</a>]]></content>
+        <title type="html"><![CDATA[확진 33만9514명, 상승세 '주춤'…사망 393명, 소아 1명 추가(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005989229</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005989229"/>
+        <updated>2022-03-25T03:19:30.415Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0005989229" class="nclicks(rig.secteco)" title="확진 33만9514명, 상승세 '주춤'…사망 393명, 소아 1명 추가(종합)">확진 33만9514명, 상승세 '주춤'…사망 393명, 소아 1명 추가(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세종 택시 태부족 문제 해결될까… 세종시 택시 86대 증차]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=656&amp;aid=0000006593</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=656&amp;aid=0000006593"/>
-        <updated>2022-03-25T02:24:27.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=656&amp;aid=0000006593" class="nclicks(rig.secteco)" title="세종 택시 태부족 문제 해결될까… 세종시 택시 86대 증차">세종 택시 태부족 문제 해결될까… 세종시 택시 86대 증차</a>]]></content>
+        <title type="html"><![CDATA["빽 있으니 놔라" 지하철서 60대 머리 가격한 20대 구속]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000293604</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000293604"/>
+        <updated>2022-03-25T03:19:30.416Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000293604" class="nclicks(rig.secteco)" title="&quot;빽 있으니 놔라&quot; 지하철서 60대 머리 가격한 20대 구속">"빽 있으니 놔라" 지하철서 60대 머리 가격한 20대 구속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경북서 신규 확진 1만 5092명…누적 확진 40만 넘어]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=079&amp;aid=0003624311</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=079&amp;aid=0003624311"/>
-        <updated>2022-03-25T02:24:27.341Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=079&amp;aid=0003624311" class="nclicks(rig.secteco)" title="경북서 신규 확진 1만 5092명…누적 확진 40만 넘어">경북서 신규 확진 1만 5092명…누적 확진 40만 넘어</a>]]></content>
+        <title type="html"><![CDATA[[속보]정부 "먹는치료제 다음달 말까지 46만명분 도입 추진"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003136431</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003136431"/>
+        <updated>2022-03-25T03:19:30.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003136431" class="nclicks(rig.secteco)" title="[속보]정부 &quot;먹는치료제 다음달 말까지 46만명분 도입 추진&quot;">[속보]정부 "먹는치료제 다음달 말까지 46만명분 도입 추진"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강원도, '외국인 관광객 유치'‥ 전담 여행사와 공동마케팅]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005063678</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005063678"/>
-        <updated>2022-03-25T02:24:27.342Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005063678" class="nclicks(rig.secteco)" title="강원도, '외국인 관광객 유치'‥ 전담 여행사와 공동마케팅">강원도, '외국인 관광객 유치'‥ 전담 여행사와 공동마케팅</a>]]></content>
+        <title type="html"><![CDATA[오늘 폭풍우…오후 제주·전남·경남서부서 시작해 전국에 내려]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013071926</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013071926"/>
+        <updated>2022-03-25T03:19:30.418Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=001&amp;aid=0013071926" class="nclicks(rig.secteco)" title="오늘 폭풍우…오후 제주·전남·경남서부서 시작해 전국에 내려">오늘 폭풍우…오후 제주·전남·경남서부서 시작해 전국에 내려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동아시아문화도시 경주…찬란한 신라문화 실크로드로 이어지다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005989276</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005989276"/>
-        <updated>2022-03-25T02:24:27.343Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=421&amp;aid=0005989276" class="nclicks(rig.secteco)" title="동아시아문화도시 경주…찬란한 신라문화 실크로드로 이어지다">동아시아문화도시 경주…찬란한 신라문화 실크로드로 이어지다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20주년 통영국제음악제, 오늘 개막…진은숙 감독과 새 출발]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011082525</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011082525"/>
-        <updated>2022-03-25T02:24:27.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011082525" class="nclicks(rig.secteco)" title="20주년 통영국제음악제, 오늘 개막…진은숙 감독과 새 출발">20주년 통영국제음악제, 오늘 개막…진은숙 감독과 새 출발</a>]]></content>
+        <title type="html"><![CDATA[CGV, 4월 4일부터 영화 관람료 1천원 인상]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=374&amp;aid=0000279915</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=374&amp;aid=0000279915"/>
+        <updated>2022-03-25T03:19:30.419Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=374&amp;aid=0000279915" class="nclicks(rig.secteco)" title="CGV, 4월 4일부터 영화 관람료 1천원 인상">CGV, 4월 4일부터 영화 관람료 1천원 인상</a>]]></content>
     </entry>
 </feed>
