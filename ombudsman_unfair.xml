@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;decorator=ombudsman&amp;confirm=true</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도</title>
-    <updated>2022-03-25T07:15:28.831Z</updated>
+    <updated>2022-03-25T08:19:14.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/hotissue/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주 “美 타임지, 이재명 유력 당선인으로 보고 있다”]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574350&amp;oid=016&amp;aid=0001959716&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574350&amp;oid=016&amp;aid=0001959716&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.746Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대 당선 후보 족집게 인터뷰 美 타임지, 이번엔 이재명 기사 게재]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574349&amp;oid=656&amp;aid=0000004468&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574349&amp;oid=656&amp;aid=0000004468&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.748Z</updated>
+        <content type="html"><![CDATA[대전일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574348&amp;oid=079&amp;aid=0003614480&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574348&amp;oid=079&amp;aid=0003614480&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.749Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 침공에 李 “우크라 초보정치인 책임” 발언 부적절 논란 계속]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574347&amp;oid=023&amp;aid=0003675451&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574347&amp;oid=023&amp;aid=0003675451&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.751Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우크라 사태 본질 모르는 윤석열, 이런 사람이 대선후보라니..."]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574346&amp;oid=047&amp;aid=0002343890&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574346&amp;oid=047&amp;aid=0002343890&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.752Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아, 우크라 침공에…이재명 “우리와 관계없지만, 주가는 하락”]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574345&amp;oid=366&amp;aid=0000795844&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574345&amp;oid=366&amp;aid=0000795844&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.753Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“엽기 굿판에 윤석열 부부 연등 사진”…국민의힘 “마타도어”]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574344&amp;oid=028&amp;aid=0002579356&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574344&amp;oid=028&amp;aid=0002579356&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.758Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외신 "제2의 한국전쟁 가능성"…푸틴-윤석열 어떤 관계길래]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574343&amp;oid=079&amp;aid=0003607202&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574343&amp;oid=079&amp;aid=0003607202&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.758Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[횡령궁' 김혜경 스캔들, 대장동과 조국이 울고 간다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574342&amp;oid=119&amp;aid=0002573044&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574342&amp;oid=119&amp;aid=0002573044&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.760Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인권변호사 이재명? ①] 살인범·조폭·음주운전 변호도 '인권'인가요?]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574340&amp;oid=119&amp;aid=0002571845&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574340&amp;oid=119&amp;aid=0002571845&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.763Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 후보의 ‘개 사과’보다 李 후보의 ‘욕 사과’에 더 화가 난 이유]]></title>
         <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26562297&amp;oid=023&amp;aid=0003669512&amp;ptype=021</id>
@@ -60,6 +130,13 @@
         <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26562305&amp;oid=025&amp;aid=0003167732&amp;ptype=021"/>
         <updated>2022-02-15T07:14:05.601Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘친형이고 조카고 없다…쌍욕 세례’ 이재명 부부, 욕설 들어보니]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574339&amp;oid=088&amp;aid=0000741155&amp;ptype=021</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26574339&amp;oid=088&amp;aid=0000741155&amp;ptype=021"/>
+        <updated>2022-03-25T08:19:13.782Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대장동 재판, 속속 드러나는 ‘윗선의 입김’]]></title>
@@ -137,82 +214,5 @@
         <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554016&amp;oid=018&amp;aid=0005094530&amp;ptype=021"/>
         <updated>2022-02-03T18:20:14.988Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김부선 “2007년 이재명에 직접 들어”... ‘조카 살인’ 발언 재조명]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554015&amp;oid=023&amp;aid=0003655486&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554015&amp;oid=023&amp;aid=0003655486&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:14.995Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]화천대유 ‘대장동 5개 블록’ 수의계약, 법조계 “법적 근거 없다”]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554024&amp;oid=020&amp;aid=0003394311&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554024&amp;oid=020&amp;aid=0003394311&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:14.996Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“홍준표, 4지 선다·‘이재명과 양자대결’서 윤석열 누르고 모두 1위”]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547245&amp;oid=081&amp;aid=0003224793&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547245&amp;oid=081&amp;aid=0003224793&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:14.998Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4지 선다·양자 대결 모두 1위 찍은 홍준표 “이로써 입증됐다”]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547241&amp;oid=022&amp;aid=0003631738&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547241&amp;oid=022&amp;aid=0003631738&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:14.998Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표, 4지 선다·'李와 양자대결' 野주자 우위]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547246&amp;oid=088&amp;aid=0000727683&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547246&amp;oid=088&amp;aid=0000727683&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:14.999Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표만 이재명 앞섰다… 양자대결서 洪 43.7 vs 李 38.6]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547244&amp;oid=023&amp;aid=0003648579&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547244&amp;oid=023&amp;aid=0003648579&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.000Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표만 이재명 이겼다…윤석열은 양자대결서 '주춤']]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547243&amp;oid=015&amp;aid=0004620367&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547243&amp;oid=015&amp;aid=0004620367&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.001Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["홍준표, 4지 선다·'이재명과 양자대결' 모두 野주자 1위"]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547242&amp;oid=001&amp;aid=0012746252&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547242&amp;oid=001&amp;aid=0012746252&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.002Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 ‘조폭 돈’ 의혹 더 구체적 폭로, 충격적이다]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554014&amp;oid=021&amp;aid=0002489509&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554014&amp;oid=021&amp;aid=0002489509&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.004Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 주춤한새 윤석열 치고 나갔다…양자대결시 尹·洪 모두 이재명에 앞서]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547240&amp;oid=009&amp;aid=0004867756&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26547240&amp;oid=009&amp;aid=0004867756&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.005Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진중권 “국민의힘이 대장동 100% 공공개발 반대? 이재명 거짓말”]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554022&amp;oid=023&amp;aid=0003647052&amp;ptype=021</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;iid=26554022&amp;oid=023&amp;aid=0003647052&amp;ptype=021"/>
-        <updated>2022-02-03T18:20:15.007Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
