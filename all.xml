@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T03:27:57.099Z</updated>
+    <updated>2022-03-31T04:19:39.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[尹당선인 측 "대우조선 알박기 인사, 비상식적이고 몰염치" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003626541</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003626541"/>
-        <updated>2022-03-31T03:27:29.706Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003626541" class="nclicks(rig.secteco)" title="尹당선인 측 &quot;대우조선 알박기 인사, 비상식적이고 몰염치&quot;">尹당선인 측 "대우조선 알박기 인사, 비상식적이고 몰염치"</a>]]></content>
+        <title type="html"><![CDATA[尹측, 대우조선 인사에 정면비판…신구 권력, 다시 전면전 가나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013084623</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013084623"/>
+        <updated>2022-03-31T04:19:10.499Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013084623" class="nclicks(rig.secteco)" title="尹측, 대우조선 인사에 정면비판…신구 권력, 다시 전면전 가나">尹측, 대우조선 인사에 정면비판…신구 권력, 다시 전면전 가나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[靑 "'옷값 의혹' 해도해도 너무해…현금이든 카드든 뭐가 문제" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003184338</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003184338"/>
+        <updated>2022-03-31T04:19:10.501Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=025&amp;aid=0003184338" class="nclicks(rig.secteco)" title="靑 &quot;'옷값 의혹' 해도해도 너무해…현금이든 카드든 뭐가 문제&quot;">靑 "'옷값 의혹' 해도해도 너무해…현금이든 카드든 뭐가 문제"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경기도 선택 김동연 "범정치교체세력 승리 이끌 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -17,13 +24,6 @@
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002347640"/>
         <updated>2022-03-31T03:27:29.706Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002347640" class="nclicks(rig.secteco)" title="경기도 선택 김동연 &quot;범정치교체세력 승리 이끌 것&quot;">경기도 선택 김동연 "범정치교체세력 승리 이끌 것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 靑 “김정숙 여사 옷값·특활비 무분별한 의혹제기 유감” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003262209</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003262209"/>
-        <updated>2022-03-31T02:52:38.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003262209" class="nclicks(rig.secteco)" title="[속보] 靑 “김정숙 여사 옷값·특활비 무분별한 의혹제기 유감”">[속보] 靑 “김정숙 여사 옷값·특활비 무분별한 의혹제기 유감”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아카데미, 윌 스미스 징계 절차 "수상 취소·회원 제명 가능" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=016&amp;aid=0001971371" class="nclicks(rig.secteco)" title="‘BTS’ 하이브·‘아기상어 ’더핑크퐁 컴퍼니, ‘영향력 있는 100대 기업’ 선정">‘BTS’ 하이브·‘아기상어 ’더핑크퐁 컴퍼니, ‘영향력 있는 100대 기업’ 선정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기회복 두 달째 '주춤'…우크라 사태에 잿빛 전망(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005178873</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005178873"/>
-        <updated>2022-03-31T03:27:29.708Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005178873" class="nclicks(rig.secteco)" title="경기회복 두 달째 '주춤'…우크라 사태에 잿빛 전망(종합)">경기회복 두 달째 '주춤'…우크라 사태에 잿빛 전망(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주담대 6%·전세대출 5%…"올해는 집 사고 싶은데" 대출 풀려도 한숨 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004726983</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004726983"/>
@@ -54,25 +47,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004726983" class="nclicks(rig.secteco)" title="주담대 6%·전세대출 5%…&quot;올해는 집 사고 싶은데&quot; 대출 풀려도 한숨">주담대 6%·전세대출 5%…"올해는 집 사고 싶은데" 대출 풀려도 한숨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빼빼로도 스크류바도…롯데제과 일부 제품 비싸진다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000294195</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000294195"/>
-        <updated>2022-03-31T03:27:29.710Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=437&amp;aid=0000294195" class="nclicks(rig.secteco)" title="빼빼로도 스크류바도…롯데제과 일부 제품 비싸진다">빼빼로도 스크류바도…롯데제과 일부 제품 비싸진다</a>]]></content>
+        <title type="html"><![CDATA[100달러대 국제 유가에 오미크론까지…경기 정점 찍고 내려오나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000803351</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000803351"/>
+        <updated>2022-03-31T04:19:10.510Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=366&amp;aid=0000803351" class="nclicks(rig.secteco)" title="100달러대 국제 유가에 오미크론까지…경기 정점 찍고 내려오나">100달러대 국제 유가에 오미크론까지…경기 정점 찍고 내려오나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT 지주회사로 가나?…구현모 '지주형 회사' 언급에 가능성 커져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005178839</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005178839"/>
-        <updated>2022-03-31T03:27:29.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=018&amp;aid=0005178839" class="nclicks(rig.secteco)" title="KT 지주회사로 가나?…구현모 '지주형 회사' 언급에 가능성 커져">KT 지주회사로 가나?…구현모 '지주형 회사' 언급에 가능성 커져</a>]]></content>
+        <title type="html"><![CDATA[정부, ‘조선소 재가동’ 군산에 힘싣는다…산업위기지역 1년 연장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005066730</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005066730"/>
+        <updated>2022-03-31T04:19:10.512Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=277&amp;aid=0005066730" class="nclicks(rig.secteco)" title="정부, ‘조선소 재가동’ 군산에 힘싣는다…산업위기지역 1년 연장">정부, ‘조선소 재가동’ 군산에 힘싣는다…산업위기지역 1년 연장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공항버스' 인수한 '티맵'…자율주행 시범 서비스한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038573</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038573"/>
-        <updated>2022-03-31T03:27:29.714Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038573" class="nclicks(rig.secteco)" title="'공항버스' 인수한 '티맵'…자율주행 시범 서비스한다">'공항버스' 인수한 '티맵'…자율주행 시범 서비스한다</a>]]></content>
+        <title type="html"><![CDATA[KT 구현모, 임기 3년차 '지주형 회사'로 기업가치 퀀텀점프(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002590116</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002590116"/>
+        <updated>2022-03-31T04:19:10.513Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=119&amp;aid=0002590116" class="nclicks(rig.secteco)" title="KT 구현모, 임기 3년차 '지주형 회사'로 기업가치 퀀텀점프(종합)">KT 구현모, 임기 3년차 '지주형 회사'로 기업가치 퀀텀점프(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“뉴욕 호텔까지 가는 길 알려줘” 티맵, ‘탄소중립·MaaS’ 투트랙 공략한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001971334</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001971334"/>
+        <updated>2022-03-31T04:19:10.514Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001971334" class="nclicks(rig.secteco)" title="“뉴욕 호텔까지 가는 길 알려줘” 티맵, ‘탄소중립·MaaS’ 투트랙 공략한다">“뉴욕 호텔까지 가는 길 알려줘” 티맵, ‘탄소중립·MaaS’ 투트랙 공략한다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘조국 감찰 무마 의혹’ 유재수 전 부산 부시장, 뇌물 유죄 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013083906" class="nclicks(rig.secteco)" title="신규확진 32만743명, 10만여명 감소…위중증 1315명 연일 최다(종합)">신규확진 32만743명, 10만여명 감소…위중증 1315명 연일 최다(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부동산 급등에… 고위공직자 83%가 재산 증가 ‘역대 최대’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002508353</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002508353"/>
-        <updated>2022-03-31T03:27:29.718Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=021&amp;aid=0002508353" class="nclicks(rig.secteco)" title="부동산 급등에… 고위공직자 83%가 재산 증가 ‘역대 최대’">부동산 급등에… 고위공직자 83%가 재산 증가 ‘역대 최대’</a>]]></content>
+        <title type="html"><![CDATA[대법, 뇌출혈 아버지 방치한 '간병 살인' 20대 아들 징역 4년 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005066865</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005066865"/>
+        <updated>2022-03-31T04:19:10.517Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=277&amp;aid=0005066865" class="nclicks(rig.secteco)" title="대법, 뇌출혈 아버지 방치한 '간병 살인' 20대 아들 징역 4년 확정">대법, 뇌출혈 아버지 방치한 '간병 살인' 20대 아들 징역 4년 확정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차, 영국 '현대 커미션' 프로젝트 작가에 세실리아 비큐냐 선정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
