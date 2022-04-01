@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T19:13:28.069Z</updated>
+    <updated>2022-04-01T20:17:19.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA['독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640"/>
-        <updated>2022-04-01T15:16:49.426Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640" class="nclicks(rig.secteco)" title="'독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순">'독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유영하 “대구시장 출마, 박근혜가 후원회장”, 홍준표-김재원과 격돌… 후보 경선 안갯속 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420124</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420124"/>
-        <updated>2022-04-01T18:19:49.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420124" class="nclicks(rig.secteco)" title="유영하 “대구시장 출마, 박근혜가 후원회장”, 홍준표-김재원과 격돌… 후보 경선 안갯속">유영하 “대구시장 출마, 박근혜가 후원회장”, 홍준표-김재원과 격돌… 후보 경선 안갯속</a>]]></content>
+        <title type="html"><![CDATA[유영하, 대구시장 출마 “박 前대통령이 후원회장” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003682660</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003682660"/>
+        <updated>2022-04-01T20:16:48.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003682660" class="nclicks(rig.secteco)" title="유영하, 대구시장 출마 “박 前대통령이 후원회장”">유영하, 대구시장 출마 “박 前대통령이 후원회장”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 인수위, BTS 軍 현역복무 면제 검토 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -24,6 +17,13 @@
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=021&amp;aid=0002508449"/>
         <updated>2022-04-01T16:22:29.820Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=021&amp;aid=0002508449" class="nclicks(rig.secteco)" title="[단독] 인수위, BTS 軍 현역복무 면제 검토">[단독] 인수위, BTS 軍 현역복무 면제 검토</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640"/>
+        <updated>2022-04-01T15:16:49.426Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004727640" class="nclicks(rig.secteco)" title="'독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순">'독이 든 성배' 든 송영길…정치적 미래 좌우할 '서울 출마' 수순</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“우크라, 러시아 본토 첫 공격… 헬기로 석유저장고 폭격” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013087765" class="nclicks(rig.secteco)" title="직원들 만난 삼성전자 한종희 &quot;부회장 말고 'JH'로 불러달라&quot;(종합)">직원들 만난 삼성전자 한종희 "부회장 말고 'JH'로 불러달라"(종합)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[도 넘은 '인앱결제 갑질'...규제 움직임도 전세계로 확산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=469&amp;aid=0000667155</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=469&amp;aid=0000667155"/>
+        <updated>2022-04-01T20:16:48.416Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=469&amp;aid=0000667155" class="nclicks(rig.secteco)" title="도 넘은 '인앱결제 갑질'...규제 움직임도 전세계로 확산">도 넘은 '인앱결제 갑질'...규제 움직임도 전세계로 확산</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[클라우드+]KT와 NHN은 클라우드 사업을 왜 떼어내나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038598</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038598"/>
         <updated>2022-04-01T19:12:58.267Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=293&amp;aid=0000038598" class="nclicks(rig.secteco)" title="[클라우드+]KT와 NHN은 클라우드 사업을 왜 떼어내나">[클라우드+]KT와 NHN은 클라우드 사업을 왜 떼어내나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 인앱결제 '꼼수' 맞대응 방통위…실효성 '글쎄' [IT돋보기] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000663231</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000663231"/>
-        <updated>2022-04-01T14:15:47.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=031&amp;aid=0000663231" class="nclicks(rig.secteco)" title="구글 인앱결제 '꼼수' 맞대응 방통위…실효성 '글쎄' [IT돋보기]">구글 인앱결제 '꼼수' 맞대응 방통위…실효성 '글쎄' [IT돋보기]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공군 훈련기 2대 공중충돌, 4명 순직 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,25 +82,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003420170" class="nclicks(rig.secteco)" title="공군 훈련기 2대 공중충돌, 4명 순직">공군 훈련기 2대 공중충돌, 4명 순직</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황무성 "성남도개공 사직 종용, 성남시장 지시라 들었다"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013087895</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013087895"/>
-        <updated>2022-04-01T19:12:58.271Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013087895" class="nclicks(rig.secteco)" title="황무성 &quot;성남도개공 사직 종용, 성남시장 지시라 들었다&quot;(종합)">황무성 "성남도개공 사직 종용, 성남시장 지시라 들었다"(종합)</a>]]></content>
+        <title type="html"><![CDATA[황무성 “유한기, 李지시라며 사표 강요” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003420181</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003420181"/>
+        <updated>2022-04-01T20:16:48.420Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003420181" class="nclicks(rig.secteco)" title="황무성 “유한기, 李지시라며 사표 강요”">황무성 “유한기, 李지시라며 사표 강요”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카페 일회용품 퇴출 첫날…플라스틱컵 요구하자 "안됩니다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184660</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184660"/>
-        <updated>2022-04-01T19:12:58.272Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184660" class="nclicks(rig.secteco)" title="카페 일회용품 퇴출 첫날…플라스틱컵 요구하자 &quot;안됩니다&quot;">카페 일회용품 퇴출 첫날…플라스틱컵 요구하자 "안됩니다"</a>]]></content>
+        <title type="html"><![CDATA[공수처, 통신사찰 설명도 사과도 없이…'반쪽 보완책' 발표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184653</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184653"/>
+        <updated>2022-04-01T20:16:48.422Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003184653" class="nclicks(rig.secteco)" title="공수처, 통신사찰 설명도 사과도 없이…'반쪽 보완책' 발표">공수처, 통신사찰 설명도 사과도 없이…'반쪽 보완책' 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벚꽃 피는 맑고 포근한 주말…아침 찬 바람 조심하세요 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003184687</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003184687"/>
-        <updated>2022-04-01T14:15:47.332Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=025&amp;aid=0003184687" class="nclicks(rig.secteco)" title="벚꽃 피는 맑고 포근한 주말…아침 찬 바람 조심하세요">벚꽃 피는 맑고 포근한 주말…아침 찬 바람 조심하세요</a>]]></content>
+        <title type="html"><![CDATA[[오늘 날씨] 아침엔 쌀쌀해요…전국 맑고 낮 최고 '17도' 포근 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004727818</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004727818"/>
+        <updated>2022-04-01T20:16:48.424Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=008&amp;aid=0004727818" class="nclicks(rig.secteco)" title="[오늘 날씨] 아침엔 쌀쌀해요…전국 맑고 낮 최고 '17도' 포근">[오늘 날씨] 아침엔 쌀쌀해요…전국 맑고 낮 최고 '17도' 포근</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 주말 완연한 봄 날씨, 전국 맑고 포근...일교차↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
