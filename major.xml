@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-05T13:25:55.450Z</updated>
+    <updated>2022-04-05T14:15:26.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[文 임기 34일 남았는데 북악산 개방… ‘청와대 개방’ 尹 공약 의식했나]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420707</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420707"/>
-        <updated>2022-04-05T13:25:26.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=020&amp;aid=0003420707" class="nclicks(rig.secteco)" title="文 임기 34일 남았는데 북악산 개방… ‘청와대 개방’ 尹 공약 의식했나">文 임기 34일 남았는데 북악산 개방… ‘청와대 개방’ 尹 공약 의식했나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918"/>
-        <updated>2022-04-05T13:25:26.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918" class="nclicks(rig.secteco)" title="[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워">[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워</a>]]></content>
+        <title type="html"><![CDATA[임기 한달 남기고 북악산 개방…'尹 때문이냐’ 질문에 靑 대답은?]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003683305</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003683305"/>
+        <updated>2022-04-05T14:14:58.853Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003683305" class="nclicks(rig.secteco)" title="임기 한달 남기고 북악산 개방…'尹 때문이냐’ 질문에 靑 대답은?">임기 한달 남기고 북악산 개방…'尹 때문이냐’ 질문에 靑 대답은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '비서실장 유력' 장성민 특보-장제원 실장 오찬 회동]]></title>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=057&amp;aid=0001654077" class="nclicks(rig.secteco)" title="[단독] '비서실장 유력' 장성민 특보-장제원 실장 오찬 회동">[단독] '비서실장 유력' 장성민 특보-장제원 실장 오찬 회동</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918"/>
+        <updated>2022-04-05T13:25:26.928Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=449&amp;aid=0000224918" class="nclicks(rig.secteco)" title="[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워">[단독]이달 안 예비비 496억 처리…尹 취임일 이전 어려워</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["머스크가 돈 벌려 투자했겠나"…트위터, 이젠 '쩐의 전쟁'?[오미주]]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004729138</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004729138"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=008&amp;aid=0004729138" class="nclicks(rig.secteco)" title="&quot;머스크가 돈 벌려 투자했겠나&quot;…트위터, 이젠 '쩐의 전쟁'?[오미주]">"머스크가 돈 벌려 투자했겠나"…트위터, 이젠 '쩐의 전쟁'?[오미주]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 러시아 외교관, 유럽 각국서 이틀새 148명 추방]]></title>
+        <title type="html"><![CDATA[러시아 외교관, 유럽 각국서 이틀새 148명 추방]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=082&amp;aid=0001149492</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=082&amp;aid=0001149492"/>
         <updated>2022-04-05T13:25:26.935Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=082&amp;aid=0001149492" class="nclicks(rig.secteco)" title="[속보] 러시아 외교관, 유럽 각국서 이틀새 148명 추방">[속보] 러시아 외교관, 유럽 각국서 이틀새 148명 추방</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=082&amp;aid=0001149492" class="nclicks(rig.secteco)" title="러시아 외교관, 유럽 각국서 이틀새 148명 추방">러시아 외교관, 유럽 각국서 이틀새 148명 추방</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['물가 쇼크' 10년 만에 4%도 뚫었다... 서민 생활 더 팍팍해진다]]></title>
@@ -62,39 +62,39 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=008&amp;aid=0004728920" class="nclicks(rig.secteco)" title="[단독]에디슨모터스, 쌍용차 포기 안한다…금호에이치티 컨소시엄 참여">[단독]에디슨모터스, 쌍용차 포기 안한다…금호에이치티 컨소시엄 참여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]애플도 '꼼수' 택했다…6월부터 수수료 4%p만 깎고 3자결제 허용]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004729117</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004729117"/>
-        <updated>2022-04-05T13:25:26.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=008&amp;aid=0004729117" class="nclicks(rig.secteco)" title="[단독]애플도 '꼼수' 택했다…6월부터 수수료 4%p만 깎고 3자결제 허용">[단독]애플도 '꼼수' 택했다…6월부터 수수료 4%p만 깎고 3자결제 허용</a>]]></content>
+        <title type="html"><![CDATA[[단독] 방통위, 삼성전자·애플·구글 의견수렴 0%…韓인기협 의견은 86% 수용]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004944801</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004944801"/>
+        <updated>2022-04-05T14:14:58.869Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004944801" class="nclicks(rig.secteco)" title="[단독] 방통위, 삼성전자·애플·구글 의견수렴 0%…韓인기협 의견은 86% 수용">[단독] 방통위, 삼성전자·애플·구글 의견수렴 0%…韓인기협 의견은 86% 수용</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이게 삼성보다 낫나요?” 큰 소리친 중국 ‘샤오미’]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001973628</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001973628"/>
-        <updated>2022-04-05T13:25:26.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001973628" class="nclicks(rig.secteco)" title="“이게 삼성보다 낫나요?” 큰 소리친 중국 ‘샤오미’">“이게 삼성보다 낫나요?” 큰 소리친 중국 ‘샤오미’</a>]]></content>
+        <title type="html"><![CDATA["삼성 애플, 진정한 가성비 아니다"…1% 점유율 샤오미의 반격]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004945489</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004945489"/>
+        <updated>2022-04-05T14:14:58.870Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004945489" class="nclicks(rig.secteco)" title="&quot;삼성 애플, 진정한 가성비 아니다&quot;…1% 점유율 샤오미의 반격">"삼성 애플, 진정한 가성비 아니다"…1% 점유율 샤오미의 반격</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민 부산대 입학취소…고려대·의사면허도 취소 가능성↑(종합2보)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006010913</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006010913"/>
-        <updated>2022-04-05T13:25:26.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006010913" class="nclicks(rig.secteco)" title="조민 부산대 입학취소…고려대·의사면허도 취소 가능성↑(종합2보)">조민 부산대 입학취소…고려대·의사면허도 취소 가능성↑(종합2보)</a>]]></content>
+        <title type="html"><![CDATA['딸 입학취소'에 조국 "집행정지신청"…같은날 유튜브서 尹 비판]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004729150</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004729150"/>
+        <updated>2022-04-05T14:14:58.872Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004729150" class="nclicks(rig.secteco)" title="'딸 입학취소'에 조국 &quot;집행정지신청&quot;…같은날 유튜브서 尹 비판">'딸 입학취소'에 조국 "집행정지신청"…같은날 유튜브서 尹 비판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]?경북 봉화 산불 ‘3단계 격상’… 축구장 147개 면적 산림 잿더미로]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003263441</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003263441"/>
-        <updated>2022-04-05T13:25:26.948Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=081&amp;aid=0003263441" class="nclicks(rig.secteco)" title="[속보]?경북 봉화 산불 ‘3단계 격상’… 축구장 147개 면적 산림 잿더미로">[속보]?경북 봉화 산불 ‘3단계 격상’… 축구장 147개 면적 산림 잿더미로</a>]]></content>
+        <title type="html"><![CDATA[[속보] 경북 봉화 산불, 3단계 발령… 축구장 147배 면적 집어삼켜]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000752447</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000752447"/>
+        <updated>2022-04-05T14:14:58.873Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=088&amp;aid=0000752447" class="nclicks(rig.secteco)" title="[속보] 경북 봉화 산불, 3단계 발령… 축구장 147배 면적 집어삼켜">[속보] 경북 봉화 산불, 3단계 발령… 축구장 147배 면적 집어삼켜</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년도 최저임금위 첫 만남부터…샅바 꽉 움켜쥔 노사]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003138688</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003138688"/>
-        <updated>2022-04-05T13:25:26.950Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=032&amp;aid=0003138688" class="nclicks(rig.secteco)" title="내년도 최저임금위 첫 만남부터…샅바 꽉 움켜쥔 노사">내년도 최저임금위 첫 만남부터…샅바 꽉 움켜쥔 노사</a>]]></content>
+        <title type="html"><![CDATA[최저임금 심의 시작…경영-노동계 '기선잡기']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000535968</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000535968"/>
+        <updated>2022-04-05T14:14:58.874Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000535968" class="nclicks(rig.secteco)" title="최저임금 심의 시작…경영-노동계 '기선잡기'">최저임금 심의 시작…경영-노동계 '기선잡기'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[냄새엔 국적 없었다…좋아한 향은 바닐라, 가장 싫어한 이것은]]></title>
