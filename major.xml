@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-08T03:39:00.603Z</updated>
+    <updated>2022-04-08T04:19:45.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[영상] "유영하 지지해달라" 박근혜 사면 뒤 첫 정치 행보…유튜브 등장 눈길]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000965473</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000965473"/>
-        <updated>2022-04-08T03:38:28.554Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000965473" class="nclicks(rig.secteco)" title="[영상] &quot;유영하 지지해달라&quot; 박근혜 사면 뒤 첫 정치 행보…유튜브 등장 눈길">[영상] "유영하 지지해달라" 박근혜 사면 뒤 첫 정치 행보…유튜브 등장 눈길</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[국힘 새 원내대표에 尹최측근 권성동…"쓴소리 마다 않겠다"(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013101163</id>
@@ -20,11 +13,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013101163" class="nclicks(rig.secteco)" title="국힘 새 원내대표에 尹최측근 권성동…&quot;쓴소리 마다 않겠다&quot;(종합)">국힘 새 원내대표에 尹최측근 권성동…"쓴소리 마다 않겠다"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조국, 딸 입학취소에 “살갗 벗겨내는 고통…尹, 이제 만족하시냐”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003684351</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003684351"/>
-        <updated>2022-04-08T03:38:28.569Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003684351" class="nclicks(rig.secteco)" title="조국, 딸 입학취소에 “살갗 벗겨내는 고통…尹, 이제 만족하시냐”">조국, 딸 입학취소에 “살갗 벗겨내는 고통…尹, 이제 만족하시냐”</a>]]></content>
+        <title type="html"><![CDATA[박근혜, '유영하 지지' 공개 선언 "모두 떠날 때 제 곁에"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002348622</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002348622"/>
+        <updated>2022-04-08T04:19:11.457Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002348622" class="nclicks(rig.secteco)" title="박근혜, '유영하 지지' 공개 선언 &quot;모두 떠날 때 제 곁에&quot;">박근혜, '유영하 지지' 공개 선언 "모두 떠날 때 제 곁에"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조국 “딸 입학취소, 만족하시냐”…尹 측 “왜 당선인한테 묻나”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003264231</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003264231"/>
+        <updated>2022-04-08T04:19:11.459Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=081&amp;aid=0003264231" class="nclicks(rig.secteco)" title="조국 “딸 입학취소, 만족하시냐”…尹 측 “왜 당선인한테 묻나”">조국 “딸 입학취소, 만족하시냐”…尹 측 “왜 당선인한테 묻나”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]한국, 유엔 인권이사회서 러 자격정지 결의안에 공동제안국 참여]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011110917" class="nclicks(rig.secteco)" title="'유류세 깎고 비축유 풀고'…고유가에 뛴 물가 잡힐까">'유류세 깎고 비축유 풀고'…고유가에 뛴 물가 잡힐까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“외출 힘든 분들, 온라인으로 벚꽃 구경 하세요”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001974996</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001974996"/>
-        <updated>2022-04-08T02:59:45.065Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001974996" class="nclicks(rig.secteco)" title="“외출 힘든 분들, 온라인으로 벚꽃 구경 하세요”">“외출 힘든 분들, 온라인으로 벚꽃 구경 하세요”</a>]]></content>
+        <title type="html"><![CDATA[석촌호수 벚꽃길, 4K CCTV로 본다…KT, 자회사 KT텔레캅 CCTV 기가아이즈 활용 벚꽃길 유튜브 중계]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=082&amp;aid=0001149887</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=082&amp;aid=0001149887"/>
+        <updated>2022-04-08T04:19:11.470Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=082&amp;aid=0001149887" class="nclicks(rig.secteco)" title="석촌호수 벚꽃길, 4K CCTV로 본다…KT, 자회사 KT텔레캅 CCTV 기가아이즈 활용 벚꽃길 유튜브 중계">석촌호수 벚꽃길, 4K CCTV로 본다…KT, 자회사 KT텔레캅 CCTV 기가아이즈 활용 벚꽃길 유튜브 중계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK텔레콤도 '갤S22·갤S22+' 공시지원금 인상… 통신 3사 실구매가 '뚝']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=417&amp;aid=0000801943</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=417&amp;aid=0000801943"/>
-        <updated>2022-04-08T03:38:28.578Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=417&amp;aid=0000801943" class="nclicks(rig.secteco)" title="SK텔레콤도 '갤S22·갤S22+' 공시지원금 인상… 통신 3사 실구매가 '뚝'">SK텔레콤도 '갤S22·갤S22+' 공시지원금 인상… 통신 3사 실구매가 '뚝'</a>]]></content>
+        <title type="html"><![CDATA[갤S22 3000만대 목표 물건너 갈라...삼성전자 '판매 총력전']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003186175</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003186175"/>
+        <updated>2022-04-08T04:19:11.472Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=025&amp;aid=0003186175" class="nclicks(rig.secteco)" title="갤S22 3000만대 목표 물건너 갈라...삼성전자 '판매 총력전'">갤S22 3000만대 목표 물건너 갈라...삼성전자 '판매 총력전'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["해경 헬기 이륙 30∼40초만에 추락…육안으로도 확인"]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013101172" class="nclicks(rig.secteco)" title="&quot;해경 헬기 이륙 30∼40초만에 추락…육안으로도 확인&quot;">"해경 헬기 이륙 30∼40초만에 추락…육안으로도 확인"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 대구지검, 전체 검사회의 열었다…전국 고검장회의도 개최]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003186179</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003186179"/>
-        <updated>2022-04-08T03:38:28.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003186179" class="nclicks(rig.secteco)" title="[단독] 대구지검, 전체 검사회의 열었다…전국 고검장회의도 개최">[단독] 대구지검, 전체 검사회의 열었다…전국 고검장회의도 개최</a>]]></content>
+        <title type="html"><![CDATA[[단독] 대검, '검수완박 저지' 공식화..."힘 보태달라" 호소 글]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001723669</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001723669"/>
+        <updated>2022-04-08T04:19:11.478Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001723669" class="nclicks(rig.secteco)" title="[단독] 대검, '검수완박 저지' 공식화...&quot;힘 보태달라&quot; 호소 글">[단독] 대검, '검수완박 저지' 공식화..."힘 보태달라" 호소 글</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9명 쫓아낸 '오거돈 블랙리스트' 관련 오씨 등 3명 기소(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100838</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100838"/>
-        <updated>2022-04-08T02:59:45.071Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100838" class="nclicks(rig.secteco)" title="9명 쫓아낸 '오거돈 블랙리스트' 관련 오씨 등 3명 기소(종합)">9명 쫓아낸 '오거돈 블랙리스트' 관련 오씨 등 3명 기소(종합)</a>]]></content>
+        <title type="html"><![CDATA[[전문]유시민 "저는 한동훈 검사의 명예를 훼손한 적이 없다"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002271681</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002271681"/>
+        <updated>2022-04-08T04:19:11.481Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=123&amp;aid=0002271681" class="nclicks(rig.secteco)" title="[전문]유시민 &quot;저는 한동훈 검사의 명예를 훼손한 적이 없다&quot;">[전문]유시민 "저는 한동훈 검사의 명예를 훼손한 적이 없다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“장르문학으로 英 부커상 최종후보 올라 놀랍고 기뻐”]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=021&amp;aid=0002509331" class="nclicks(rig.secteco)" title="“장르문학으로 英 부커상 최종후보 올라 놀랍고 기뻐”">“장르문학으로 英 부커상 최종후보 올라 놀랍고 기뻐”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쌍용차, 11번가서 뉴 렉스턴 '피크닉 패키지' 할인 이벤트]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=015&amp;aid=0004683544</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=015&amp;aid=0004683544"/>
-        <updated>2022-04-08T02:59:45.086Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=015&amp;aid=0004683544" class="nclicks(rig.secteco)" title="쌍용차, 11번가서 뉴 렉스턴 '피크닉 패키지' 할인 이벤트">쌍용차, 11번가서 뉴 렉스턴 '피크닉 패키지' 할인 이벤트</a>]]></content>
+        <title type="html"><![CDATA[볼보, CO₂ 배출량 62% 낮춘다…친환경 소재 확대]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011111135</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011111135"/>
+        <updated>2022-04-08T04:19:11.489Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011111135" class="nclicks(rig.secteco)" title="볼보, CO₂ 배출량 62% 낮춘다…친환경 소재 확대">볼보, CO₂ 배출량 62% 낮춘다…친환경 소재 확대</a>]]></content>
     </entry>
 </feed>
