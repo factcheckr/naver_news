@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-08T18:19:42.250Z</updated>
+    <updated>2022-04-08T19:13:27.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003684131" class="nclicks(rig.secteco)" title="권성동 “협치” 밝혔지만… 추경·임대차법 가시밭길">권성동 “협치” 밝혔지만… 추경·임대차법 가시밭길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "고통의 시간 함께 한 유영하"…박근혜 영상메시지]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=422&amp;aid=0000536360</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=422&amp;aid=0000536360"/>
-        <updated>2022-04-08T16:21:39.230Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=422&amp;aid=0000536360" class="nclicks(rig.secteco)" title="[단독] &quot;고통의 시간 함께 한 유영하&quot;…박근혜 영상메시지">[단독] "고통의 시간 함께 한 유영하"…박근혜 영상메시지</a>]]></content>
+        <title type="html"><![CDATA[박근혜 “내 곁 지킨 유영하 지지해달라”]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003684113</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003684113"/>
+        <updated>2022-04-08T19:12:58.247Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=023&amp;aid=0003684113" class="nclicks(rig.secteco)" title="박근혜 “내 곁 지킨 유영하 지지해달라”">박근혜 “내 곁 지킨 유영하 지지해달라”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대만서 실종된 예인선 선원 모두 부산 거주…"가족 지원실 마련"(종합)]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003629791" class="nclicks(rig.secteco)" title="대만서 실종된 예인선 선원 모두 부산 거주…&quot;가족 지원실 마련&quot;(종합)">대만서 실종된 예인선 선원 모두 부산 거주…"가족 지원실 마련"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유엔 인권이사회에서도… 쫓겨나는 러시아]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124"/>
-        <updated>2022-04-08T18:19:13.418Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124" class="nclicks(rig.secteco)" title="유엔 인권이사회에서도… 쫓겨나는 러시아">유엔 인권이사회에서도… 쫓겨나는 러시아</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[우크라 침공] "러, 피란 기차역에 집속탄 공격…어린이 포함 50명 사망"(종합3보)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102390</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102390"/>
         <updated>2022-04-08T18:19:13.419Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102390" class="nclicks(rig.secteco)" title="[우크라 침공] &quot;러, 피란 기차역에 집속탄 공격…어린이 포함 50명 사망&quot;(종합3보)">[우크라 침공] "러, 피란 기차역에 집속탄 공격…어린이 포함 50명 사망"(종합3보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유엔 인권이사회에서도… 쫓겨나는 러시아]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124"/>
+        <updated>2022-04-08T18:19:13.418Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=023&amp;aid=0003684124" class="nclicks(rig.secteco)" title="유엔 인권이사회에서도… 쫓겨나는 러시아">유엔 인권이사회에서도… 쫓겨나는 러시아</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차 찾은 안철수 “모빌리티, 과학기술국가 핵심”]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=020&amp;aid=0003421444" class="nclicks(rig.secteco)" title="현대차 찾은 안철수 “모빌리티, 과학기술국가 핵심”">현대차 찾은 안철수 “모빌리티, 과학기술국가 핵심”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658"/>
-        <updated>2022-04-08T15:16:16.389Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658" class="nclicks(rig.secteco)" title="LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)">LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한화디펜스, K-9 장갑차 호주생산공장 착공식 개최]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005185707</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005185707"/>
         <updated>2022-04-08T17:19:02.334Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005185707" class="nclicks(rig.secteco)" title="한화디펜스, K-9 장갑차 호주생산공장 착공식 개최">한화디펜스, K-9 장갑차 호주생산공장 착공식 개최</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658"/>
+        <updated>2022-04-08T15:16:16.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013101658" class="nclicks(rig.secteco)" title="LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)">LG전자, 올해 8% 임금인상 결정…LG엔솔·이노텍은 10%↑(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['삼성폰 통화끊김' 와글와글.. "전화통화 5분을 못해"]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003629596" class="nclicks(rig.secteco)" title="'삼성폰 통화끊김' 와글와글.. &quot;전화통화 5분을 못해&quot;">'삼성폰 통화끊김' 와글와글.. "전화통화 5분을 못해"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위메이드, 동서대에 10억 규모 암호화폐 위믹스 기부]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253266</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253266"/>
-        <updated>2022-04-08T15:16:16.396Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253266" class="nclicks(rig.secteco)" title="위메이드, 동서대에 10억 규모 암호화폐 위믹스 기부">위메이드, 동서대에 10억 규모 암호화폐 위믹스 기부</a>]]></content>
+        <title type="html"><![CDATA[[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0006016210</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0006016210"/>
+        <updated>2022-04-08T19:12:58.261Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0006016210" class="nclicks(rig.secteco)" title="[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충'">[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국인 선원 구하러 갔다가… 해경헬기 추락]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684093" class="nclicks(rig.secteco)" title="한국인 선원 구하러 갔다가… 해경헬기 추락">한국인 선원 구하러 갔다가… 해경헬기 추락</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교육부 “확진된 학생, 중간고사 응시 제한 유지”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003421436</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003421436"/>
-        <updated>2022-04-08T18:19:13.429Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=020&amp;aid=0003421436" class="nclicks(rig.secteco)" title="교육부 “확진된 학생, 중간고사 응시 제한 유지”">교육부 “확진된 학생, 중간고사 응시 제한 유지”</a>]]></content>
+        <title type="html"><![CDATA[방역당국 "확진자 중간고사 계획 마련시 지원"…교육부는 '난감'(종합2보)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100018</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100018"/>
+        <updated>2022-04-08T19:12:58.268Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013100018" class="nclicks(rig.secteco)" title="방역당국 &quot;확진자 중간고사 계획 마련시 지원&quot;…교육부는 '난감'(종합2보)">방역당국 "확진자 중간고사 계획 마련시 지원"…교육부는 '난감'(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 조민 입학 취소 늦게 알려진 이유…“밝힐 이유도 의무도 없다”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001517474</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001517474"/>
-        <updated>2022-04-08T13:29:05.346Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=005&amp;aid=0001517474" class="nclicks(rig.secteco)" title="[단독] 조민 입학 취소 늦게 알려진 이유…“밝힐 이유도 의무도 없다”">[단독] 조민 입학 취소 늦게 알려진 이유…“밝힐 이유도 의무도 없다”</a>]]></content>
+        <title type="html"><![CDATA[“자기들 치부 덮으려 헌법 질서 파괴”… 지검부터 대검까지 격앙]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684110</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684110"/>
+        <updated>2022-04-08T19:12:58.269Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684110" class="nclicks(rig.secteco)" title="“자기들 치부 덮으려 헌법 질서 파괴”… 지검부터 대검까지 격앙">“자기들 치부 덮으려 헌법 질서 파괴”… 지검부터 대검까지 격앙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토요일 오전 봄비…낮부터 맑아지며 '서울 최고 22도' 오른다]]></title>
