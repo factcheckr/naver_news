@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-09T02:49:20.764Z</updated>
+    <updated>2022-04-09T03:24:02.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[속보] 대만해역서 인양한 시신 2구, '교토 1호' 한국 선원으로 확인]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=082&amp;aid=0001149991</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=082&amp;aid=0001149991"/>
-        <updated>2022-04-09T02:48:48.946Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=082&amp;aid=0001149991" class="nclicks(rig.secteco)" title="[속보] 대만해역서 인양한 시신 2구, '교토 1호' 한국 선원으로 확인">[속보] 대만해역서 인양한 시신 2구, '교토 1호' 한국 선원으로 확인</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[원내사령탑에 ‘윤핵관’ 권성동… “야당과의 협치에 더욱 정력”]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=022&amp;aid=0003684559</id>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=009&amp;aid=0004947267" class="nclicks(rig.secteco)" title="[속보] 이준석 &quot;성비위 의혹은 허위…강용석 복당 반대표결&quot;">[속보] 이준석 "성비위 의혹은 허위…강용석 복당 반대표결"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[우크라 침공] "'쾅 쾅' 하더니 사방에 신체조각"…기차역 생존자 증언]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102522</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102522"/>
-        <updated>2022-04-09T01:04:28.499Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013102522" class="nclicks(rig.secteco)" title="[우크라 침공] &quot;'쾅 쾅' 하더니 사방에 신체조각&quot;…기차역 생존자 증언">[우크라 침공] "'쾅 쾅' 하더니 사방에 신체조각"…기차역 생존자 증언</a>]]></content>
+        <title type="html"><![CDATA[[속보] 공개활동 임박?…김건희 인스타 활동 활발 '이번엔 고양이 학대 처벌 촉구']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000752953</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000752953"/>
+        <updated>2022-04-09T03:23:33.352Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=088&amp;aid=0000752953" class="nclicks(rig.secteco)" title="[속보] 공개활동 임박?…김건희 인스타 활동 활발 '이번엔 고양이 학대 처벌 촉구'">[속보] 공개활동 임박?…김건희 인스타 활동 활발 '이번엔 고양이 학대 처벌 촉구'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 기차역 공격 300여명 사상…어린이 5명도 사망]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005186073</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005186073"/>
+        <updated>2022-04-09T03:23:33.353Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=018&amp;aid=0005186073" class="nclicks(rig.secteco)" title="우크라이나 기차역 공격 300여명 사상…어린이 5명도 사망">우크라이나 기차역 공격 300여명 사상…어린이 5명도 사망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['폭행 논란' 윌 스미스, 10년간 아카데미 참석·출연 금지]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=119&amp;aid=0002592598" class="nclicks(rig.secteco)" title="정의선-안철수 &quot;미래 모빌리티가 국가산업 미래 핵심&quot; 한 목소리">정의선-안철수 "미래 모빌리티가 국가산업 미래 핵심" 한 목소리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주유소 휘발윳값, 이번주 L당 평균 1990원…"국제유가 하락 영향"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004040029</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004040029"/>
-        <updated>2022-04-09T02:48:48.960Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=011&amp;aid=0004040029" class="nclicks(rig.secteco)" title="주유소 휘발윳값, 이번주 L당 평균 1990원…&quot;국제유가 하락 영향&quot;">주유소 휘발윳값, 이번주 L당 평균 1990원…"국제유가 하락 영향"</a>]]></content>
+        <title type="html"><![CDATA[국제유가 하락세에 주유소 휘발유 가격 ↓…ℓ당 평균 1천990원]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000752952</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000752952"/>
+        <updated>2022-04-09T03:23:33.357Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=088&amp;aid=0000752952" class="nclicks(rig.secteco)" title="국제유가 하락세에 주유소 휘발유 가격 ↓…ℓ당 평균 1천990원">국제유가 하락세에 주유소 휘발유 가격 ↓…ℓ당 평균 1천990원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕증시]어느덧 3% 목전에 둔 국채금리…나스닥 1.3%↓]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=018&amp;aid=0005185991" class="nclicks(rig.secteco)" title="[뉴욕증시]어느덧 3% 목전에 둔 국채금리…나스닥 1.3%↓">[뉴욕증시]어느덧 3% 목전에 둔 국채금리…나스닥 1.3%↓</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["GOS도 해결 안됐는데"…갤럭시 S22, '수신 불량' 문제 제기]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000025114</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000025114"/>
-        <updated>2022-04-09T02:48:48.966Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=243&amp;aid=0000025114" class="nclicks(rig.secteco)" title="&quot;GOS도 해결 안됐는데&quot;…갤럭시 S22, '수신 불량' 문제 제기">"GOS도 해결 안됐는데"…갤럭시 S22, '수신 불량' 문제 제기</a>]]></content>
+        <title type="html"><![CDATA['삼성폰 통화끊김' 와글와글.. "전화통화 5분을 못해"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003629596</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003629596"/>
+        <updated>2022-04-09T03:23:33.361Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=079&amp;aid=0003629596" class="nclicks(rig.secteco)" title="'삼성폰 통화끊김' 와글와글.. &quot;전화통화 5분을 못해&quot;">'삼성폰 통화끊김' 와글와글.. "전화통화 5분을 못해"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충']]></title>
@@ -76,32 +76,32 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=421&amp;aid=0006016210" class="nclicks(rig.secteco)" title="[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충'">[단독]SK텔레콤 '갤S22·갤S22+' 지원금 45만·48만원…3배로 '껑충'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추락 해경 헬기 동체 해저 58m에서 발견… 이틀째 실종자 수색]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684169</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684169"/>
-        <updated>2022-04-09T02:48:48.970Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=023&amp;aid=0003684169" class="nclicks(rig.secteco)" title="추락 해경 헬기 동체 해저 58m에서 발견… 이틀째 실종자 수색">추락 해경 헬기 동체 해저 58m에서 발견… 이틀째 실종자 수색</a>]]></content>
+        <title type="html"><![CDATA[추락한 해경 헬기, 해저 58m서 발견…실종자 수중 수색?]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000142461</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000142461"/>
+        <updated>2022-04-09T03:23:33.364Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=629&amp;aid=0000142461" class="nclicks(rig.secteco)" title="추락한 해경 헬기, 해저 58m서 발견…실종자 수중 수색?">추락한 해경 헬기, 해저 58m서 발견…실종자 수중 수색?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대만해역서 인양한 시신 2구, 한국 선원으로 확인]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000295177</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000295177"/>
+        <updated>2022-04-09T03:23:33.368Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=437&amp;aid=0000295177" class="nclicks(rig.secteco)" title="대만해역서 인양한 시신 2구, 한국 선원으로 확인">대만해역서 인양한 시신 2구, 한국 선원으로 확인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[檢, '검수완박' 후속 대응 고심...다음 주 월요일 전국 검사장 회의]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724072</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724072"/>
-        <updated>2022-04-09T02:48:48.972Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724072" class="nclicks(rig.secteco)" title="檢, '검수완박' 후속 대응 고심...다음 주 월요일 전국 검사장 회의">檢, '검수완박' 후속 대응 고심...다음 주 월요일 전국 검사장 회의</a>]]></content>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724105</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724105"/>
+        <updated>2022-04-09T03:23:33.368Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001724105" class="nclicks(rig.secteco)" title="檢, '검수완박' 후속 대응 고심...다음 주 월요일 전국 검사장 회의">檢, '검수완박' 후속 대응 고심...다음 주 월요일 전국 검사장 회의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규 확진 18만5566명…닷새만에 20만명 아래로(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013102538</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013102538"/>
-        <updated>2022-04-09T02:48:48.973Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013102538" class="nclicks(rig.secteco)" title="신규 확진 18만5566명…닷새만에 20만명 아래로(종합)">신규 확진 18만5566명…닷새만에 20만명 아래로(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Y현장 in LV] 라스베이거스 접수한 BTS...전방위 체험 폭격 (종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001724089</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001724089"/>
-        <updated>2022-04-09T02:48:48.975Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=052&amp;aid=0001724089" class="nclicks(rig.secteco)" title="[Y현장 in LV] 라스베이거스 접수한 BTS...전방위 체험 폭격 (종합)">[Y현장 in LV] 라스베이거스 접수한 BTS...전방위 체험 폭격 (종합)</a>]]></content>
+        <title type="html"><![CDATA[방탄소년단, 라스베이거스를 완벽하게 삼켰다[BTS in VEGAS]]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004947262</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004947262"/>
+        <updated>2022-04-09T03:23:33.369Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004947262" class="nclicks(rig.secteco)" title="방탄소년단, 라스베이거스를 완벽하게 삼켰다[BTS in VEGAS]">방탄소년단, 라스베이거스를 완벽하게 삼켰다[BTS in VEGAS]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[내일날씨]강릉 낮 최고 29도 '포근한 주말'…큰 일교차 주의]]></title>
