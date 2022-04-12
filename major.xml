@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-12T22:15:33.866Z</updated>
+    <updated>2022-04-12T23:16:02.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당, '검수완박' 만장일치 당론 채택 "4월 국회 처리"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000966391</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000966391"/>
+        <updated>2022-04-12T23:15:34.735Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=055&amp;aid=0000966391" class="nclicks(rig.secteco)" title="민주당, '검수완박' 만장일치 당론 채택 &quot;4월 국회 처리&quot;">민주당, '검수완박' 만장일치 당론 채택 "4월 국회 처리"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열·박근혜 첫 회동, 지방선거 앞두고 '대구 민심' 흔들까[영상]]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003631172</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=079&amp;aid=0003631172" class="nclicks(rig.secteco)" title="윤석열·박근혜 첫 회동, 지방선거 앞두고 '대구 민심' 흔들까[영상]">윤석열·박근혜 첫 회동, 지방선거 앞두고 '대구 민심' 흔들까[영상]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상] "한국형 FBI"… 민주, '검수완박' 만장일치 당론 채택]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0006025186</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0006025186"/>
-        <updated>2022-04-12T22:15:06.951Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=421&amp;aid=0006025186" class="nclicks(rig.secteco)" title="[영상] &quot;한국형 FBI&quot;… 민주, '검수완박' 만장일치 당론 채택">[영상] "한국형 FBI"… 민주, '검수완박' 만장일치 당론 채택</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전기료 5배 급등 예상’에 인수위 “탈원전 폐기”]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=374&amp;aid=0000282030</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=374&amp;aid=0000282030"/>
-        <updated>2022-04-12T22:15:06.953Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=374&amp;aid=0000282030" class="nclicks(rig.secteco)" title="‘전기료 5배 급등 예상’에 인수위 “탈원전 폐기”">‘전기료 5배 급등 예상’에 인수위 “탈원전 폐기”</a>]]></content>
+        <title type="html"><![CDATA["K-택소노미에 원전 포함"...尹정부, 탄소중립 정책조합 다시짠다]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004731730</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004731730"/>
+        <updated>2022-04-12T23:15:34.737Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=008&amp;aid=0004731730" class="nclicks(rig.secteco)" title="&quot;K-택소노미에 원전 포함&quot;...尹정부, 탄소중립 정책조합 다시짠다">"K-택소노미에 원전 포함"...尹정부, 탄소중립 정책조합 다시짠다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕 지하철서 방독면 쓴뒤 '탕탕'…연기 속 "도망쳐라" 비명만(종합)]]></title>
@@ -34,11 +34,18 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013109990" class="nclicks(rig.secteco)" title="뉴욕 지하철서 방독면 쓴뒤 '탕탕'…연기 속 &quot;도망쳐라&quot; 비명만(종합)">뉴욕 지하철서 방독면 쓴뒤 '탕탕'…연기 속 "도망쳐라" 비명만(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["협상, 극히 어려워" 러-우크라 평화협상 난항(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011118696</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011118696"/>
-        <updated>2022-04-12T22:15:06.955Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=003&amp;aid=0011118696" class="nclicks(rig.secteco)" title="&quot;협상, 극히 어려워&quot; 러-우크라 평화협상 난항(종합)">"협상, 극히 어려워" 러-우크라 평화협상 난항(종합)</a>]]></content>
+        <title type="html"><![CDATA[美 국무부 '한국 인권보고서' "LH, 대장동, 조국 부부…韓 정부 수많은 부정부패"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003187221</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003187221"/>
+        <updated>2022-04-12T23:15:34.738Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=025&amp;aid=0003187221" class="nclicks(rig.secteco)" title="美 국무부 '한국 인권보고서' &quot;LH, 대장동, 조국 부부…韓 정부 수많은 부정부패&quot;">美 국무부 '한국 인권보고서' "LH, 대장동, 조국 부부…韓 정부 수많은 부정부패"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보험사기 적발 5명 중 1명은 20대…자동차보험 사기에 몰려]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=056&amp;aid=0011247151</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=056&amp;aid=0011247151"/>
+        <updated>2022-04-12T23:15:34.738Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=056&amp;aid=0011247151" class="nclicks(rig.secteco)" title="보험사기 적발 5명 중 1명은 20대…자동차보험 사기에 몰려">보험사기 적발 5명 중 1명은 20대…자동차보험 사기에 몰려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍남기 “경제성장률은 하락, 물가상승률은 높아질 것”]]></title>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=022&amp;aid=0003685722" class="nclicks(rig.secteco)" title="홍남기 “경제성장률은 하락, 물가상승률은 높아질 것”">홍남기 “경제성장률은 하락, 물가상승률은 높아질 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MZ세대 보험사기 갈수록 늘어… 지난해 적발금액은 9434억원 찍었다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000803120</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000803120"/>
-        <updated>2022-04-12T22:15:06.957Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=417&amp;aid=0000803120" class="nclicks(rig.secteco)" title="MZ세대 보험사기 갈수록 늘어… 지난해 적발금액은 9434억원 찍었다">MZ세대 보험사기 갈수록 늘어… 지난해 적발금액은 9434억원 찍었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이름값 할까" 삼성 거대 금융 플랫폼 '모니모' 나온다]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004948599</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004948599"/>
-        <updated>2022-04-12T22:15:06.957Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=009&amp;aid=0004948599" class="nclicks(rig.secteco)" title="&quot;이름값 할까&quot; 삼성 거대 금융 플랫폼 '모니모' 나온다">"이름값 할까" 삼성 거대 금융 플랫폼 '모니모' 나온다</a>]]></content>
+        <title type="html"><![CDATA[쌍방울 사실상 낙마, KG그룹 쌍용차 인수전 유력 후보 부상]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004685094</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004685094"/>
+        <updated>2022-04-12T23:15:34.739Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=015&amp;aid=0004685094" class="nclicks(rig.secteco)" title="쌍방울 사실상 낙마, KG그룹 쌍용차 인수전 유력 후보 부상">쌍방울 사실상 낙마, KG그룹 쌍용차 인수전 유력 후보 부상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이유 있는 구글의 자신감… 대체 왜?]]></title>
@@ -69,25 +69,25 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=417&amp;aid=0000802732" class="nclicks(rig.secteco)" title="이유 있는 구글의 자신감… 대체 왜?">이유 있는 구글의 자신감… 대체 왜?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK텔레콤-더존비즈온, 니즈 맞추며 경쟁 아닌 협력]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000007327</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000007327"/>
-        <updated>2022-04-12T22:15:06.966Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=648&amp;aid=0000007327" class="nclicks(rig.secteco)" title="SK텔레콤-더존비즈온, 니즈 맞추며 경쟁 아닌 협력">SK텔레콤-더존비즈온, 니즈 맞추며 경쟁 아닌 협력</a>]]></content>
+        <title type="html"><![CDATA[더존비즈온, 아마란스10에 회상회의 서비스 연동]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253606</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253606"/>
+        <updated>2022-04-12T23:15:34.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253606" class="nclicks(rig.secteco)" title="더존비즈온, 아마란스10에 회상회의 서비스 연동">더존비즈온, 아마란스10에 회상회의 서비스 연동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주노총, 오늘 도심집회 강행…최대 1만명 모일듯]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000537143</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000537143"/>
-        <updated>2022-04-12T22:15:06.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=422&amp;aid=0000537143" class="nclicks(rig.secteco)" title="민주노총, 오늘 도심집회 강행…최대 1만명 모일듯">민주노총, 오늘 도심집회 강행…최대 1만명 모일듯</a>]]></content>
+        <title type="html"><![CDATA[민주노총, 오늘 서울 도심서 대규모 집회 강행..충돌 우려]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=660&amp;aid=0000005519</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=660&amp;aid=0000005519"/>
+        <updated>2022-04-12T23:15:34.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=660&amp;aid=0000005519" class="nclicks(rig.secteco)" title="민주노총, 오늘 서울 도심서 대규모 집회 강행..충돌 우려">민주노총, 오늘 서울 도심서 대규모 집회 강행..충돌 우려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 변이가 왜 이리 많을까?…XL변이, 유입 아닌 국내 발생 가능성]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006025182</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006025182"/>
-        <updated>2022-04-12T22:15:06.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=421&amp;aid=0006025182" class="nclicks(rig.secteco)" title="코로나 변이가 왜 이리 많을까?…XL변이, 유입 아닌 국내 발생 가능성">코로나 변이가 왜 이리 많을까?…XL변이, 유입 아닌 국내 발생 가능성</a>]]></content>
+        <title type="html"><![CDATA[3차접종 40대男, 'XL 변이' 첫 감염…'4차접종' 효과 있을까]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004732087</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004732087"/>
+        <updated>2022-04-12T23:15:34.744Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004732087" class="nclicks(rig.secteco)" title="3차접종 40대男, 'XL 변이' 첫 감염…'4차접종' 효과 있을까">3차접종 40대男, 'XL 변이' 첫 감염…'4차접종' 효과 있을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검수완박 현실화…백척간두 선 검찰 "대단히 유감"]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004948413" class="nclicks(rig.secteco)" title="[단독] 소설 '파친코' 판매중단…베스트셀러 '절판' 초유 사태">[단독] 소설 '파친코' 판매중단…베스트셀러 '절판' 초유 사태</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이건희 컬렉션 아직도 못 보셨나요?...6월6일까지 재연장]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011118039</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011118039"/>
-        <updated>2022-04-12T22:15:06.970Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=003&amp;aid=0011118039" class="nclicks(rig.secteco)" title="이건희 컬렉션 아직도 못 보셨나요?...6월6일까지 재연장">이건희 컬렉션 아직도 못 보셨나요?...6월6일까지 재연장</a>]]></content>
+        <title type="html"><![CDATA[[날씨클릭] 내일까지 전국 가끔 비…기온 크게 낮아져]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000537144</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000537144"/>
+        <updated>2022-04-12T23:15:34.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=422&amp;aid=0000537144" class="nclicks(rig.secteco)" title="[날씨클릭] 내일까지 전국 가끔 비…기온 크게 낮아져">[날씨클릭] 내일까지 전국 가끔 비…기온 크게 낮아져</a>]]></content>
     </entry>
 </feed>
