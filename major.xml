@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-13T04:20:32.486Z</updated>
+    <updated>2022-04-13T05:15:04.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[인수위 "'검수완박'은 새 대통령 국정운영 방해 행위"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178"/>
-        <updated>2022-04-13T04:20:04.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178" class="nclicks(rig.secteco)" title="인수위 &quot;'검수완박'은 새 대통령 국정운영 방해 행위&quot;">인수위 "'검수완박'은 새 대통령 국정운영 방해 행위"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[민주, 서울 전략공천키로…"송영길 등 기존후보 배제 아냐"(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013110902</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013110902"/>
         <updated>2022-04-13T04:20:04.712Z</updated>
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013110902" class="nclicks(rig.secteco)" title="민주, 서울 전략공천키로…&quot;송영길 등 기존후보 배제 아냐&quot;(종합)">민주, 서울 전략공천키로…"송영길 등 기존후보 배제 아냐"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수위 "'검수완박'은 새 대통령 국정운영 방해 행위"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178"/>
+        <updated>2022-04-13T04:20:04.712Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=047&amp;aid=0002349178" class="nclicks(rig.secteco)" title="인수위 &quot;'검수완박'은 새 대통령 국정운영 방해 행위&quot;">인수위 "'검수완박'은 새 대통령 국정운영 방해 행위"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹정부 첫 외교장관 박진·통일장관 권영세…비서실장 김대기(종합)]]></title>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=100&amp;oid=001&amp;aid=0013110805" class="nclicks(rig.secteco)" title="尹정부 첫 외교장관 박진·통일장관 권영세…비서실장 김대기(종합)">尹정부 첫 외교장관 박진·통일장관 권영세…비서실장 김대기(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕 지하철 총격사건…용의자는 62세 흑인 남성]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376"/>
-        <updated>2022-04-13T03:02:03.385Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376" class="nclicks(rig.secteco)" title="뉴욕 지하철 총격사건…용의자는 62세 흑인 남성">뉴욕 지하철 총격사건…용의자는 62세 흑인 남성</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[우크라 침공] 바이든, 러 겨냥 '제노사이드' 첫 언급(종합)]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013110401</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013110401"/>
@@ -41,46 +34,60 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=001&amp;aid=0013110401" class="nclicks(rig.secteco)" title="[우크라 침공] 바이든, 러 겨냥 '제노사이드' 첫 언급(종합)">[우크라 침공] 바이든, 러 겨냥 '제노사이드' 첫 언급(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3월 은행 가계대출 1조원 감소…금리상승 등에 4개월째 '뒷걸음']]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013110837</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013110837"/>
-        <updated>2022-04-13T04:20:04.727Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=001&amp;aid=0013110837" class="nclicks(rig.secteco)" title="3월 은행 가계대출 1조원 감소…금리상승 등에 4개월째 '뒷걸음'">3월 은행 가계대출 1조원 감소…금리상승 등에 4개월째 '뒷걸음'</a>]]></content>
+        <title type="html"><![CDATA[뉴욕 지하철 총격사건…용의자는 62세 흑인 남성]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376"/>
+        <updated>2022-04-13T03:02:03.385Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=104&amp;oid=081&amp;aid=0003265376" class="nclicks(rig.secteco)" title="뉴욕 지하철 총격사건…용의자는 62세 흑인 남성">뉴욕 지하철 총격사건…용의자는 62세 흑인 남성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고용 '봄기운'에도 자영업은'겨울'…비중 20% 밑으로]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003187271</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003187271"/>
-        <updated>2022-04-13T03:02:03.389Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=025&amp;aid=0003187271" class="nclicks(rig.secteco)" title="고용 '봄기운'에도 자영업은'겨울'…비중 20% 밑으로">고용 '봄기운'에도 자영업은'겨울'…비중 20% 밑으로</a>]]></content>
+        <title type="html"><![CDATA[가계대출 사상 첫 4개월 연속 감소…감소폭 역대 최고(종합)]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011120037</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011120037"/>
+        <updated>2022-04-13T05:14:36.272Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011120037" class="nclicks(rig.secteco)" title="가계대출 사상 첫 4개월 연속 감소…감소폭 역대 최고(종합)">가계대출 사상 첫 4개월 연속 감소…감소폭 역대 최고(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍남기 "규제완화·개발 기대감에 강남4구 반등…불안 재확산"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011118992</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011118992"/>
-        <updated>2022-04-13T04:20:04.727Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=003&amp;aid=0011118992" class="nclicks(rig.secteco)" title="홍남기 &quot;규제완화·개발 기대감에 강남4구 반등…불안 재확산&quot;(종합)">홍남기 "규제완화·개발 기대감에 강남4구 반등…불안 재확산"(종합)</a>]]></content>
+        <title type="html"><![CDATA[文대통령 "우리 정부 5년간 일자리 127만개 늘었다"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=123&amp;aid=0002272086</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=123&amp;aid=0002272086"/>
+        <updated>2022-04-13T05:14:36.273Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=123&amp;aid=0002272086" class="nclicks(rig.secteco)" title="文대통령 &quot;우리 정부 5년간 일자리 127만개 늘었다&quot;">文대통령 "우리 정부 5년간 일자리 127만개 늘었다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버 새 리더십 본격 출범…"5년 내 매출 두 배 키워 15조 돌파"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=011&amp;aid=0004041517</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=011&amp;aid=0004041517"/>
-        <updated>2022-04-13T03:02:03.393Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=011&amp;aid=0004041517" class="nclicks(rig.secteco)" title="네이버 새 리더십 본격 출범…&quot;5년 내 매출 두 배 키워 15조 돌파&quot;">네이버 새 리더십 본격 출범…"5년 내 매출 두 배 키워 15조 돌파"</a>]]></content>
+        <title type="html"><![CDATA[고용시장 '훈풍' 분다...취약계층은 여전히 '한파']]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003140268</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003140268"/>
+        <updated>2022-04-13T05:14:36.276Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=101&amp;oid=032&amp;aid=0003140268" class="nclicks(rig.secteco)" title="고용시장 '훈풍' 분다...취약계층은 여전히 '한파'">고용시장 '훈풍' 분다...취약계층은 여전히 '한파'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SKT, 2025년 비도심부터 ‘하늘을 나는 택시’ 서비스]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001977006</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001977006"/>
-        <updated>2022-04-13T03:02:03.395Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=016&amp;aid=0001977006" class="nclicks(rig.secteco)" title="SKT, 2025년 비도심부터 ‘하늘을 나는 택시’ 서비스">SKT, 2025년 비도심부터 ‘하늘을 나는 택시’ 서비스</a>]]></content>
+        <title type="html"><![CDATA[네이버 "5년 내 글로벌 이용자 10억, 매출 15조 목표"]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253677</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253677"/>
+        <updated>2022-04-13T05:14:36.277Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=092&amp;aid=0002253677" class="nclicks(rig.secteco)" title="네이버 &quot;5년 내 글로벌 이용자 10억, 매출 15조 목표&quot;">네이버 "5년 내 글로벌 이용자 10억, 매출 15조 목표"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김오수 검찰총장 "검수완박, 헌법 정면 위반…범죄자만 만세"(종합)]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013110202</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013110202"/>
-        <updated>2022-04-13T04:20:04.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=001&amp;aid=0013110202" class="nclicks(rig.secteco)" title="김오수 검찰총장 &quot;검수완박, 헌법 정면 위반…범죄자만 만세&quot;(종합)">김오수 검찰총장 "검수완박, 헌법 정면 위반…범죄자만 만세"(종합)</a>]]></content>
+        <title type="html"><![CDATA[스마일게이트, 크파 · 로아 쌍두마차 앞세워 ‘빅5’에 가세]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004949031</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004949031"/>
+        <updated>2022-04-13T05:14:36.279Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=105&amp;oid=009&amp;aid=0004949031" class="nclicks(rig.secteco)" title="스마일게이트, 크파 · 로아 쌍두마차 앞세워 ‘빅5’에 가세">스마일게이트, 크파 · 로아 쌍두마차 앞세워 ‘빅5’에 가세</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김오수 "검수완박하면 범죄자 만세 부를 것"...잠시 뒤엔 기자간담회]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001725849</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001725849"/>
+        <updated>2022-04-13T05:14:36.279Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=052&amp;aid=0001725849" class="nclicks(rig.secteco)" title="김오수 &quot;검수완박하면 범죄자 만세 부를 것&quot;...잠시 뒤엔 기자간담회">김오수 "검수완박하면 범죄자 만세 부를 것"...잠시 뒤엔 기자간담회</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주노총 "오후 3시 종묘공원서 결의대회"…도심집회 강행]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011119978</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011119978"/>
+        <updated>2022-04-13T05:14:36.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=003&amp;aid=0011119978" class="nclicks(rig.secteco)" title="민주노총 &quot;오후 3시 종묘공원서 결의대회&quot;…도심집회 강행">민주노총 "오후 3시 종묘공원서 결의대회"…도심집회 강행</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["맞아도 걸리는데" 일반인 4차접종에 싸늘한 반응, 전문가는?]]></title>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=008&amp;aid=0004732236" class="nclicks(rig.secteco)" title="&quot;맞아도 걸리는데&quot; 일반인 4차접종에 싸늘한 반응, 전문가는?">"맞아도 걸리는데" 일반인 4차접종에 싸늘한 반응, 전문가는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검수완박 때린 이복현 검사 사의 "文대통령 입장 밝혀달라"]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003187248</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003187248"/>
-        <updated>2022-04-13T04:20:04.736Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=102&amp;oid=025&amp;aid=0003187248" class="nclicks(rig.secteco)" title="검수완박 때린 이복현 검사 사의 &quot;文대통령 입장 밝혀달라&quot;">검수완박 때린 이복현 검사 사의 "文대통령 입장 밝혀달라"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정보라 ‘저주 토끼’ 美 아셰트와 판권 계약…15개국 판매]]></title>
         <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005189217</id>
         <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005189217"/>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=018&amp;aid=0005189217" class="nclicks(rig.secteco)" title="정보라 ‘저주 토끼’ 美 아셰트와 판권 계약…15개국 판매">정보라 ‘저주 토끼’ 美 아셰트와 판권 계약…15개국 판매</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“날카로운 눈빛” BMW 플래그십 SUV '뉴 X7' 공개…4분기 국내 출시]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004948975</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004948975"/>
-        <updated>2022-04-13T03:02:03.401Z</updated>
-        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=009&amp;aid=0004948975" class="nclicks(rig.secteco)" title="“날카로운 눈빛” BMW 플래그십 SUV '뉴 X7' 공개…4분기 국내 출시">“날카로운 눈빛” BMW 플래그십 SUV '뉴 X7' 공개…4분기 국내 출시</a>]]></content>
+        <title type="html"><![CDATA[볼보, 'XC90·S90·XC60 리차지 플러그인 하이브리드' 출시]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=092&amp;aid=0002253691</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=092&amp;aid=0002253691"/>
+        <updated>2022-04-13T05:14:36.283Z</updated>
+        <content type="html"><![CDATA[<a href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=shm&amp;sid1=103&amp;oid=092&amp;aid=0002253691" class="nclicks(rig.secteco)" title="볼보, 'XC90·S90·XC60 리차지 플러그인 하이브리드' 출시">볼보, 'XC90·S90·XC60 리차지 플러그인 하이브리드' 출시</a>]]></content>
     </entry>
 </feed>
