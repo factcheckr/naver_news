@@ -2,7 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2022-04-16T03:26:16.546Z</updated>
+    <updated>2022-04-16T04:19:55.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '삼성디플 CEO 사과 받은 '삼다르크'' 관련]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426414&amp;oid=025&amp;aid=0003174757&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426414&amp;oid=025&amp;aid=0003174757&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.739Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 2월 9일 자 A30면 '박종인의 땅의 歷史-군함 만들 돈으로 淸 황실은 서태후 환갑잔치를 벌였다' 기사 본문에서 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426413&amp;oid=023&amp;aid=0003673865&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426413&amp;oid=023&amp;aid=0003673865&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.745Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 2021년 12월17일자  "이재명 장남이 쏘아 올린 '마사지 업소 후기'…이준석에 '불똥'" 관련]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426412&amp;oid=031&amp;aid=0000653865&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426412&amp;oid=031&amp;aid=0000653865&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.746Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426411&amp;oid=032&amp;aid=0003127844&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426411&amp;oid=032&amp;aid=0003127844&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.747Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 4일 자 A30면 '신상목의 스시 한 조각' 기사에서]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426410&amp;oid=023&amp;aid=0003671123&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426410&amp;oid=023&amp;aid=0003671123&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.748Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 29일~30일자 6면 '대선후보들 스타일 변신' 기사]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426409&amp;oid=353&amp;aid=0000041535&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426409&amp;oid=353&amp;aid=0000041535&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.749Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 26일 자 A35면 '김준의 맛과 섬' 기사 중]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426408&amp;oid=023&amp;aid=0003669313&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426408&amp;oid=023&amp;aid=0003669313&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.750Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 22일 자 B9면 '코로나 패닉에 던져진 확률 퀴즈… 백신 접종, 살아남는 데 정말 유리할까?' 기사 중 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426407&amp;oid=023&amp;aid=0003669006&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426407&amp;oid=023&amp;aid=0003669006&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.751Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426406&amp;oid=028&amp;aid=0002577135&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426406&amp;oid=028&amp;aid=0002577135&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.752Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426405&amp;oid=020&amp;aid=0003407656&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426405&amp;oid=020&amp;aid=0003407656&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.753Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 15일 자 B1면 '투사에서 택시기사로… 종철이가 감아준 목도리에 부끄럽지 않도록' 기사 중]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426404&amp;oid=023&amp;aid=0003667981&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426404&amp;oid=023&amp;aid=0003667981&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.758Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '국내서도 항공정비사 자격시험 본다…극동대, 첫 지정' 관련]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426403&amp;oid=003&amp;aid=0010953066&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426403&amp;oid=003&amp;aid=0010953066&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.762Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정·반론보도] <오천현대힐스테이트아파트 층간소음 완충재, 경량1등급 중량 2등급 사용으로 확인돼>]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426402&amp;oid=003&amp;aid=0010950703&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426402&amp;oid=003&amp;aid=0010950703&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.763Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정정보도문]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426401&amp;oid=003&amp;aid=0010951572&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426401&amp;oid=003&amp;aid=0010951572&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.763Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]신풍제약 관련 정정보도]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426400&amp;oid=018&amp;aid=0005129139&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426400&amp;oid=018&amp;aid=0005129139&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.764Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 13일 자 B2면 '삼성 임원들이 내놓은 격려금 10%, 100억원… 새 헌혈버스로 부르릉' 기사에서 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426399&amp;oid=023&amp;aid=0003666425&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426399&amp;oid=023&amp;aid=0003666425&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.766Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1월 10일자 B6면 '음원퀸 아이유…' 기사]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426398&amp;oid=025&amp;aid=0003165610&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426398&amp;oid=025&amp;aid=0003165610&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.768Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]이재명 아들 불법 도박에…'나꼼수' 김용민 "이게 시빗거리?" 관련]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426397&amp;oid=018&amp;aid=0005122744&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426397&amp;oid=018&amp;aid=0005122744&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.769Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2021 바로잡습니다] "박근혜 특사 안한다" 결과적으로 오보였습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426396&amp;oid=025&amp;aid=0003163244&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426396&amp;oid=025&amp;aid=0003163244&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.769Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 29일 자 A6면 '새로운물결 김동연 후보 인터뷰' 기사 중 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426395&amp;oid=023&amp;aid=0003663236&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426395&amp;oid=023&amp;aid=0003663236&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.770Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426394&amp;oid=032&amp;aid=0003119880&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426394&amp;oid=032&amp;aid=0003119880&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.771Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 28일 자 A12면 '내년 충북 음성에 청주대 3캠퍼스' 기사 중 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426393&amp;oid=023&amp;aid=0003663004&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426393&amp;oid=023&amp;aid=0003663004&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.772Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 24일 자 A3면 '방역 당국, 화이자 치료제 다음 주 긴급 승인' 기사에서]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426392&amp;oid=023&amp;aid=0003662475&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426392&amp;oid=023&amp;aid=0003662475&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.774Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]광주도시공사 직원들, 대낮에 도박판 벌이다 카메라에 '찰칵' 관련]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426391&amp;oid=629&amp;aid=0000123489&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1426391&amp;oid=629&amp;aid=0000123489&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.775Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 21일 자 A38면 조선칼럼 '한국과 호주의 동병상련·동상이몽'에서]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421517&amp;oid=023&amp;aid=0003661455&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421517&amp;oid=023&amp;aid=0003661455&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.776Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421516&amp;oid=009&amp;aid=0004897754&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421516&amp;oid=009&amp;aid=0004897754&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.778Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 15일 자 A8면 '김정은 핵폭주 10년… 北성장률 반의 반 토막, 무역액은 20분의 1로' 기사에서]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421422&amp;oid=023&amp;aid=0003661136&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421422&amp;oid=023&amp;aid=0003661136&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.780Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 11일 자 A17면 소설 '완전한 행복' 기사에서]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421421&amp;oid=023&amp;aid=0003659635&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421421&amp;oid=023&amp;aid=0003659635&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.781Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전주시시설관리공단 및 이사장 관련 반론보도문]]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421515&amp;oid=003&amp;aid=0010883545&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421515&amp;oid=003&amp;aid=0010883545&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.782Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 1일 자 A34면 〈[박종인의 땅의 歷史] "공부하는 선비가 드물어 안타깝구나…"〉 기사에서 외]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421418&amp;oid=023&amp;aid=0003658924&amp;ptype=021&amp;rtype=err&amp;sid1=001</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;iid=1421418&amp;oid=023&amp;aid=0003658924&amp;ptype=021&amp;rtype=err&amp;sid1=001"/>
+        <updated>2022-04-16T04:19:32.785Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
 </feed>
