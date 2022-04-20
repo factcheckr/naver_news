@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2022-04-20T01:24:19.765Z</updated>
+    <updated>2022-04-20T03:40:31.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌려준 집에 고양이 배설물 산더미, 집주인은 ‘소송’]]></title>
+        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=655&amp;aid=0000001330&amp;rtype=req</id>
+        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=655&amp;aid=0000001330&amp;rtype=req"/>
+        <updated>2022-04-20T03:40:15.923Z</updated>
+        <content type="html"><![CDATA[CJB청주방송]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 …]]></title>
         <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=032&amp;aid=0003123688&amp;rtype=req</id>
@@ -207,12 +214,5 @@
         <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=022&amp;aid=0003457861&amp;rtype=req"/>
         <updated>2022-04-19T18:19:24.099Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현직 의원 비서관, 아내폭행·강간 혐의로 경찰 수사중]]></title>
-        <id>https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=079&amp;aid=0003351137&amp;rtype=req</id>
-        <link href="https://news.naver.com/main/ombudsman/read.naver?mid=omb&amp;oid=079&amp;aid=0003351137&amp;rtype=req"/>
-        <updated>2022-04-19T18:19:24.109Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
