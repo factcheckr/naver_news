@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-21T18:21:41.596Z</updated>
+    <updated>2022-04-21T19:12:15.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[복지부 “정호영 아들 재검, 2015년 4급판정과 같아”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003686757?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003686757?sid=100"/>
-        <updated>2022-04-21T18:21:13.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003686757?sid=100" class="nclicks(rig.secteco)" title="복지부 “정호영 아들 재검, 2015년 4급판정과 같아”">복지부 “정호영 아들 재검, 2015년 4급판정과 같아”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[민주, 박병석에 “오늘 본회의 열어야”… 안건조정위는 일단 보류]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003424035?sid=100</id>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189333?sid=100" class="nclicks(rig.secteco)" title="[단독]'송영길 컷오프' 그날 새벽…이재명, 비대위에 전화 돌렸다">[단독]'송영길 컷오프' 그날 새벽…이재명, 비대위에 전화 돌렸다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹, 대기업 중 포스코 제일 먼저 갔다...광양제철소서 '엄지 척']]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003189318?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003189318?sid=100"/>
+        <updated>2022-04-21T19:11:47.820Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189318?sid=100" class="nclicks(rig.secteco)" title="尹, 대기업 중 포스코 제일 먼저 갔다...광양제철소서 '엄지 척'">尹, 대기업 중 포스코 제일 먼저 갔다...광양제철소서 '엄지 척'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[속보] 모스크바 인근 러 국방부 연구소 불…“20여명 사상”]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003267567?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003267567?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003267567?sid=104" class="nclicks(rig.secteco)" title="[속보] 모스크바 인근 러 국방부 연구소 불…“20여명 사상”">[속보] 모스크바 인근 러 국방부 연구소 불…“20여명 사상”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아베, 'A급 전범' 야스쿠니 참배하며 "우크라이나 생각했다" 황당 발언]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005077913?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005077913?sid=104"/>
-        <updated>2022-04-21T18:21:13.790Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005077913?sid=104" class="nclicks(rig.secteco)" title="아베, 'A급 전범' 야스쿠니 참배하며 &quot;우크라이나 생각했다&quot; 황당 발언">아베, 'A급 전범' 야스쿠니 참배하며 "우크라이나 생각했다" 황당 발언</a>]]></content>
+        <title type="html"><![CDATA[日, 전쟁에 내로남불?…러 비판하던 총리, 야스쿠니에 또 공물]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004735929?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004735929?sid=104"/>
+        <updated>2022-04-21T19:11:47.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004735929?sid=104" class="nclicks(rig.secteco)" title="日, 전쟁에 내로남불?…러 비판하던 총리, 야스쿠니에 또 공물">日, 전쟁에 내로남불?…러 비판하던 총리, 야스쿠니에 또 공물</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓 대외신인도 지켰지만…고령화·가계부채 경고한 무디스(종합)]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005197106?sid=101" class="nclicks(rig.secteco)" title="韓 대외신인도 지켰지만…고령화·가계부채 경고한 무디스(종합)">韓 대외신인도 지켰지만…고령화·가계부채 경고한 무디스(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이창용 “정부가 밤새워 일한다고 성장 못해… 민간주도 성장해야”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003424031?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003424031?sid=101"/>
-        <updated>2022-04-21T18:21:13.793Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003424031?sid=101" class="nclicks(rig.secteco)" title="이창용 “정부가 밤새워 일한다고 성장 못해… 민간주도 성장해야”">이창용 “정부가 밤새워 일한다고 성장 못해… 민간주도 성장해야”</a>]]></content>
+        <title type="html"><![CDATA[이창용 "인플레 압력 한층 고조, 경기 회복세 약화…정교한 균형 잡아야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006043985?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006043985?sid=101"/>
+        <updated>2022-04-21T19:11:47.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006043985?sid=101" class="nclicks(rig.secteco)" title="이창용 &quot;인플레 압력 한층 고조, 경기 회복세 약화…정교한 균형 잡아야&quot;">이창용 "인플레 압력 한층 고조, 경기 회복세 약화…정교한 균형 잡아야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저소득 청년에 월세 20만원씩 1년 지원]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003424032?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003424032?sid=101"/>
-        <updated>2022-04-21T18:21:13.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003424032?sid=101" class="nclicks(rig.secteco)" title="저소득 청년에 월세 20만원씩 1년 지원">저소득 청년에 월세 20만원씩 1년 지원</a>]]></content>
+        <title type="html"><![CDATA[월급 116만원 안되는 청년, 나라에서 매달 20만원 월세 준다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004735911?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004735911?sid=101"/>
+        <updated>2022-04-21T19:11:47.823Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004735911?sid=101" class="nclicks(rig.secteco)" title="월급 116만원 안되는 청년, 나라에서 매달 20만원 월세 준다">월급 116만원 안되는 청년, 나라에서 매달 20만원 월세 준다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["해킹 팬데믹’ 대비하라"···SK쉴더스, 사회·기업·개인, 모두가 위협에 노출]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005197109?sid=105" class="nclicks(rig.secteco)" title="국회 ‘망사용료법’ 의결 보류…공청회 열기로">국회 ‘망사용료법’ 의결 보류…공청회 열기로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고검장들 “검수완박 막아달라” 朴 “의회에 영향 한계”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003424039?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003424039?sid=102"/>
-        <updated>2022-04-21T18:21:13.797Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003424039?sid=102" class="nclicks(rig.secteco)" title="고검장들 “검수완박 막아달라” 朴 “의회에 영향 한계”">고검장들 “검수완박 막아달라” 朴 “의회에 영향 한계”</a>]]></content>
+        <title type="html"><![CDATA[정호영 “세브란스병원서 2015년과 같은 4급 판정” 진단서 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003189312?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003189312?sid=102"/>
+        <updated>2022-04-21T19:11:47.828Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189312?sid=102" class="nclicks(rig.secteco)" title="정호영 “세브란스병원서 2015년과 같은 4급 판정” 진단서 공개">정호영 “세브란스병원서 2015년과 같은 4급 판정” 진단서 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“군기 침해땐 합의한 동성애라도 처벌”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003686776?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003686776?sid=102"/>
-        <updated>2022-04-21T18:21:13.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003686776?sid=102" class="nclicks(rig.secteco)" title="“군기 침해땐 합의한 동성애라도 처벌”">“군기 침해땐 합의한 동성애라도 처벌”</a>]]></content>
+        <title type="html"><![CDATA[고검장 6명 "검수완박, 檢 부정" 박범계 "집단 반발에 상실감"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003189358?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003189358?sid=102"/>
+        <updated>2022-04-21T19:11:47.829Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189358?sid=102" class="nclicks(rig.secteco)" title="고검장 6명 &quot;검수완박, 檢 부정&quot; 박범계 &quot;집단 반발에 상실감&quot;">고검장 6명 "검수완박, 檢 부정" 박범계 "집단 반발에 상실감"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애인단체 시위로 지하철 1시간 지연… “따릉이 출근” 지각 속출]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003424060?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003424060?sid=102"/>
-        <updated>2022-04-21T18:21:13.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003424060?sid=102" class="nclicks(rig.secteco)" title="장애인단체 시위로 지하철 1시간 지연… “따릉이 출근” 지각 속출">장애인단체 시위로 지하철 1시간 지연… “따릉이 출근” 지각 속출</a>]]></content>
+        <title type="html"><![CDATA["동성 군인 사적 성행위 처벌할 수 없다"…대법, 판례 변경(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006044133?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006044133?sid=102"/>
+        <updated>2022-04-21T19:11:47.830Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006044133?sid=102" class="nclicks(rig.secteco)" title="&quot;동성 군인 사적 성행위 처벌할 수 없다&quot;…대법, 판례 변경(종합)">"동성 군인 사적 성행위 처벌할 수 없다"…대법, 판례 변경(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 건조특보 속 강풍...내일 중북부 비, 해갈엔 역부족]]></title>
