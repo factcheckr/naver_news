@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-23T16:21:30.049Z</updated>
+    <updated>2022-04-23T17:17:36.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[민주 서울시장, 송영길·박주민·김진애 3파전…박영선 불출마(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003267879?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003267879?sid=100"/>
-        <updated>2022-04-23T16:21:01.565Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003267879?sid=100" class="nclicks(rig.secteco)" title="민주 서울시장, 송영길·박주민·김진애 3파전…박영선 불출마(종합)">민주 서울시장, 송영길·박주민·김진애 3파전…박영선 불출마(종합)</a>]]></content>
+        <title type="html"><![CDATA[박영선 끝내 불출마…민주당 서울시장, 송영길·박주민·김진애 3파전]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000968797?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000968797?sid=100"/>
+        <updated>2022-04-23T17:17:07.838Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000968797?sid=100" class="nclicks(rig.secteco)" title="박영선 끝내 불출마…민주당 서울시장, 송영길·박주민·김진애 3파전">박영선 끝내 불출마…민주당 서울시장, 송영길·박주민·김진애 3파전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['朴心' '윤심' 돌파 홍준표·김진태…국힘 지방선거 체제 돌입]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011140973?sid=101" class="nclicks(rig.secteco)" title="홍남기, MSCI에 선진국 지수 편입 의지 강조…'관찰대상 등재' 요청">홍남기, MSCI에 선진국 지수 편입 의지 강조…'관찰대상 등재' 요청</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 파월 발언 여진에 2%↓…다우 2년 만에 최대 하락 마감]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013132908?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013132908?sid=101"/>
-        <updated>2022-04-23T16:21:01.573Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013132908?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 파월 발언 여진에 2%↓…다우 2년 만에 최대 하락 마감">뉴욕증시, 파월 발언 여진에 2%↓…다우 2년 만에 최대 하락 마감</a>]]></content>
+        <title type="html"><![CDATA[동원산업·동원엔터프라이즈 합병 논란 쟁점은]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013132937?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013132937?sid=101"/>
+        <updated>2022-04-23T17:17:07.845Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013132937?sid=101" class="nclicks(rig.secteco)" title="동원산업·동원엔터프라이즈 합병 논란 쟁점은">동원산업·동원엔터프라이즈 합병 논란 쟁점은</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU, IT공룡 정조준…불법 콘텐츠 '과징금 수조원' 법률 눈앞]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005198202?sid=105" class="nclicks(rig.secteco)" title="EU, IT공룡 정조준…불법 콘텐츠 '과징금 수조원' 법률 눈앞">EU, IT공룡 정조준…불법 콘텐츠 '과징금 수조원' 법률 눈앞</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]尹 정부 대통령실엔 '과학'이 없다]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005078265?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005078265?sid=105"/>
-        <updated>2022-04-23T16:21:01.577Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005078265?sid=105" class="nclicks(rig.secteco)" title="[단독]尹 정부 대통령실엔 '과학'이 없다">[단독]尹 정부 대통령실엔 '과학'이 없다</a>]]></content>
+        <title type="html"><![CDATA[대통령이 직접 챙기겠다더니…尹 청와대에 '과학기술' 안보인다]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006047161?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006047161?sid=105"/>
+        <updated>2022-04-23T17:17:07.847Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006047161?sid=105" class="nclicks(rig.secteco)" title="대통령이 직접 챙기겠다더니…尹 청와대에 '과학기술' 안보인다">대통령이 직접 챙기겠다더니…尹 청와대에 '과학기술' 안보인다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검수완박 중재안에 검사들 "정치인들 발 뻗고 잘 수 있게 돼"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013133289?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013133289?sid=102"/>
-        <updated>2022-04-23T16:21:01.577Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013133289?sid=102" class="nclicks(rig.secteco)" title="검수완박 중재안에 검사들 &quot;정치인들 발 뻗고 잘 수 있게 돼&quot;(종합)">검수완박 중재안에 검사들 "정치인들 발 뻗고 잘 수 있게 돼"(종합)</a>]]></content>
+        <title type="html"><![CDATA["부정부패 우려" 한동훈도 중재안 반대...檢 반발 속 '전전긍긍']]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001730564?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001730564?sid=102"/>
+        <updated>2022-04-23T17:17:07.852Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001730564?sid=102" class="nclicks(rig.secteco)" title="&quot;부정부패 우려&quot; 한동훈도 중재안 반대...檢 반발 속 '전전긍긍'">"부정부패 우려" 한동훈도 중재안 반대...檢 반발 속 '전전긍긍'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건조특보 속 전국 곳곳 산불...양양선 주민 대피령 [영상]]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006047697?sid=102" class="nclicks(rig.secteco)" title="&quot;친하니깐 괴롭힌거야&quot; 남편 머리채 잡은 이은해…가스라이팅 정황들">"친하니깐 괴롭힌거야" 남편 머리채 잡은 이은해…가스라이팅 정황들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 서울 낮 '24도'...수도권 미세먼지 주의]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001730549?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001730549?sid=103"/>
-        <updated>2022-04-23T16:21:01.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001730549?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 서울 낮 '24도'...수도권 미세먼지 주의">[날씨] 내일 서울 낮 '24도'...수도권 미세먼지 주의</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내일도 낮더위‥대기 건조, 불조심]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001192310?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001192310?sid=103"/>
+        <updated>2022-04-23T17:17:07.852Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001192310?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일도 낮더위‥대기 건조, 불조심">[날씨] 내일도 낮더위‥대기 건조, 불조심</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건조하고 포근한 주말…최고 30도 찍어 '5월 하순' 기온]]></title>
