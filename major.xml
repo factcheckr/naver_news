@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-24T05:14:47.587Z</updated>
+    <updated>2022-04-24T06:19:42.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수, 검수완박 합의에 "정치인 檢수사 안 받는 것, 이해상충"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013134070?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013134070?sid=100"/>
+        <updated>2022-04-24T06:19:13.985Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013134070?sid=100" class="nclicks(rig.secteco)" title="안철수, 검수완박 합의에 &quot;정치인 檢수사 안 받는 것, 이해상충&quot;">안철수, 검수완박 합의에 "정치인 檢수사 안 받는 것, 이해상충"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹측 "김건희 여사가 외교장관 공관관저 골랐다? 전후순서 틀린 오보"]]></title>
         <id>https://n.news.naver.com/mnews/article/029/0002731033?sid=100</id>
@@ -13,53 +20,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002731033?sid=100" class="nclicks(rig.secteco)" title="尹측 &quot;김건희 여사가 외교장관 공관관저 골랐다? 전후순서 틀린 오보&quot;">尹측 "김건희 여사가 외교장관 공관관저 골랐다? 전후순서 틀린 오보"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한일정책협의단, 尹친서 들고 방일…"새로운 한일관계 첫 단추"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013133876?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013133876?sid=100"/>
-        <updated>2022-04-24T04:19:23.693Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013133876?sid=100" class="nclicks(rig.secteco)" title="한일정책협의단, 尹친서 들고 방일…&quot;새로운 한일관계 첫 단추&quot;(종합)">한일정책협의단, 尹친서 들고 방일…"새로운 한일관계 첫 단추"(종합)</a>]]></content>
+        <title type="html"><![CDATA[권성동 “검수완박 합의 사과…선거·공직자 범죄 사수 못해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003424381?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003424381?sid=100"/>
+        <updated>2022-04-24T06:19:13.989Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003424381?sid=100" class="nclicks(rig.secteco)" title="권성동 “검수완박 합의 사과…선거·공직자 범죄 사수 못해”">권성동 “검수완박 합의 사과…선거·공직자 범죄 사수 못해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹측 "대통령실 직제 개편·인선, 신중하게 고려 중" 장제원 "이달 안에는"]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002273022?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002273022?sid=100"/>
-        <updated>2022-04-24T03:27:18.418Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002273022?sid=100" class="nclicks(rig.secteco)" title="尹측 &quot;대통령실 직제 개편·인선, 신중하게 고려 중&quot; 장제원 &quot;이달 안에는&quot;">尹측 "대통령실 직제 개편·인선, 신중하게 고려 중" 장제원 "이달 안에는"</a>]]></content>
+        <title type="html"><![CDATA[격분한 젤렌스키 “러시아 개자식들, 생후 3개월도 죽였다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001521103?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001521103?sid=104"/>
+        <updated>2022-04-24T06:19:13.989Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001521103?sid=104" class="nclicks(rig.secteco)" title="격분한 젤렌스키 “러시아 개자식들, 생후 3개월도 죽였다”">격분한 젤렌스키 “러시아 개자식들, 생후 3개월도 죽였다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["美장관들, 키이우 방문한다"…러는 몰도바도 공격할 가능성 열어]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004736923?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004736923?sid=104"/>
-        <updated>2022-04-24T05:14:18.758Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004736923?sid=104" class="nclicks(rig.secteco)" title="&quot;美장관들, 키이우 방문한다&quot;…러는 몰도바도 공격할 가능성 열어">"美장관들, 키이우 방문한다"…러는 몰도바도 공격할 가능성 열어</a>]]></content>
+        <title type="html"><![CDATA[70%는 롱 코비드?…"코로나 입원 환자 29%만 1년 뒤 완전 회복"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000968858?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000968858?sid=104"/>
+        <updated>2022-04-24T06:19:13.993Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000968858?sid=104" class="nclicks(rig.secteco)" title="70%는 롱 코비드?…&quot;코로나 입원 환자 29%만 1년 뒤 완전 회복&quot;">70%는 롱 코비드?…"코로나 입원 환자 29%만 1년 뒤 완전 회복"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["테슬라 공매도했냐" 머스크, 빌 게이츠에 '발끈' 메시지 보내]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000145377?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000145377?sid=104"/>
-        <updated>2022-04-24T04:19:23.697Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000145377?sid=104" class="nclicks(rig.secteco)" title="&quot;테슬라 공매도했냐&quot; 머스크, 빌 게이츠에 '발끈' 메시지 보내">"테슬라 공매도했냐" 머스크, 빌 게이츠에 '발끈' 메시지 보내</a>]]></content>
+        <title type="html"><![CDATA[탄소중립 속도내는 LG화학·엔솔, 국내 기업 최초 REC 장기계약도]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002731046?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002731046?sid=101"/>
+        <updated>2022-04-24T06:19:13.994Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002731046?sid=101" class="nclicks(rig.secteco)" title="탄소중립 속도내는 LG화학·엔솔, 국내 기업 최초 REC 장기계약도">탄소중립 속도내는 LG화학·엔솔, 국내 기업 최초 REC 장기계약도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RE100 속도내는 LG화학, 국내 최초 재생에너지 장기구매 계약]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004689612?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004689612?sid=101"/>
-        <updated>2022-04-24T03:27:18.420Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004689612?sid=101" class="nclicks(rig.secteco)" title="RE100 속도내는 LG화학, 국내 최초 재생에너지 장기구매 계약">RE100 속도내는 LG화학, 국내 최초 재생에너지 장기구매 계약</a>]]></content>
+        <title type="html"><![CDATA[포항 지진 손해 만회하려 입찰 담합‥손보사 8곳 과징금 17억]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001192363?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001192363?sid=101"/>
+        <updated>2022-04-24T06:19:13.994Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001192363?sid=101" class="nclicks(rig.secteco)" title="포항 지진 손해 만회하려 입찰 담합‥손보사 8곳 과징금 17억">포항 지진 손해 만회하려 입찰 담합‥손보사 8곳 과징금 17억</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 집 마련, 더 멀어질 수도…“대출 받아도 집 못 구해”]]></title>
-        <id>https://n.news.naver.com/mnews/article/661/0000005816?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/661/0000005816?sid=101"/>
-        <updated>2022-04-24T05:14:18.765Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000005816?sid=101" class="nclicks(rig.secteco)" title="내 집 마련, 더 멀어질 수도…“대출 받아도 집 못 구해”">내 집 마련, 더 멀어질 수도…“대출 받아도 집 못 구해”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정위, 8개 보험사, 입찰담합에 보험증권 위조까지]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002597269?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002597269?sid=101"/>
-        <updated>2022-04-24T05:14:18.765Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002597269?sid=101" class="nclicks(rig.secteco)" title="공정위, 8개 보험사, 입찰담합에 보험증권 위조까지">공정위, 8개 보험사, 입찰담합에 보험증권 위조까지</a>]]></content>
+        <title type="html"><![CDATA[경총, 대기업 연봉 인상 자제 권고…"그 돈으로 일자리 늘려야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004736924?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004736924?sid=101"/>
+        <updated>2022-04-24T06:19:13.994Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004736924?sid=101" class="nclicks(rig.secteco)" title="경총, 대기업 연봉 인상 자제 권고…&quot;그 돈으로 일자리 늘려야&quot;">경총, 대기업 연봉 인상 자제 권고…"그 돈으로 일자리 늘려야"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성, '빵길' 걸을까…갤Z플립3 포켓몬 IP 입고 오늘밤 등판]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005198619?sid=105" class="nclicks(rig.secteco)" title="우본, 국가 기관 최초로 ‘마이데이터’ 예비허가 신청">우본, 국가 기관 최초로 ‘마이데이터’ 예비허가 신청</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김오수, 검수완박 중재안 미리 알았나...내일 회견 열고 입장 밝힌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003687181?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003687181?sid=102"/>
+        <updated>2022-04-24T06:19:13.999Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003687181?sid=102" class="nclicks(rig.secteco)" title="김오수, 검수완박 중재안 미리 알았나...내일 회견 열고 입장 밝힌다">김오수, 검수완박 중재안 미리 알았나...내일 회견 열고 입장 밝힌다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뚫리면 노원~강남 10분대…동부간선도로 왕복 4차로 지하화]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003189775?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003189775?sid=102"/>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189775?sid=102" class="nclicks(rig.secteco)" title="뚫리면 노원~강남 10분대…동부간선도로 왕복 4차로 지하화">뚫리면 노원~강남 10분대…동부간선도로 왕복 4차로 지하화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6만4725명 확진, 나흘째 10만명 아래…사망 109명·위중증 726명(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013133635?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013133635?sid=102"/>
-        <updated>2022-04-24T04:19:23.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013133635?sid=102" class="nclicks(rig.secteco)" title="6만4725명 확진, 나흘째 10만명 아래…사망 109명·위중증 726명(종합)">6만4725명 확진, 나흘째 10만명 아래…사망 109명·위중증 726명(종합)</a>]]></content>
+        <title type="html"><![CDATA[월요일 저녁부터 비 쏟아진다…전국 최대 120㎜ 천둥?번개]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003189777?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003189777?sid=102"/>
+        <updated>2022-04-24T06:19:14.001Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189777?sid=102" class="nclicks(rig.secteco)" title="월요일 저녁부터 비 쏟아진다…전국 최대 120㎜ 천둥?번개">월요일 저녁부터 비 쏟아진다…전국 최대 120㎜ 천둥?번개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 저녁부터 전국 비…제주·남해 120㎜ 폭우]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000225871?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000225871?sid=102"/>
-        <updated>2022-04-24T05:14:18.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000225871?sid=102" class="nclicks(rig.secteco)" title="내일 저녁부터 전국 비…제주·남해 120㎜ 폭우">내일 저녁부터 전국 비…제주·남해 120㎜ 폭우</a>]]></content>
+        <title type="html"><![CDATA[현대차그룹 전기차 형제, 獨전문지 평가서 테슬라 넘었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003267941?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003267941?sid=103"/>
+        <updated>2022-04-24T06:19:14.002Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003267941?sid=103" class="nclicks(rig.secteco)" title="현대차그룹 전기차 형제, 獨전문지 평가서 테슬라 넘었다">현대차그룹 전기차 형제, 獨전문지 평가서 테슬라 넘었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이오닉5·EV6, 독일 유력 車전문지 평가서 테슬라 모델Y 제쳐]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004954057?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004954057?sid=103"/>
-        <updated>2022-04-24T05:14:18.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004954057?sid=103" class="nclicks(rig.secteco)" title="아이오닉5·EV6, 독일 유력 車전문지 평가서 테슬라 모델Y 제쳐">아이오닉5·EV6, 독일 유력 車전문지 평가서 테슬라 모델Y 제쳐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베네치아 비엔날레 최고상 휩쓴 여성 작가들... '흑인 여성 정체성' 주목]]></title>
-        <id>https://n.news.naver.com/mnews/article/310/0000095851?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/310/0000095851?sid=103"/>
-        <updated>2022-04-24T05:14:18.772Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000095851?sid=103" class="nclicks(rig.secteco)" title="베네치아 비엔날레 최고상 휩쓴 여성 작가들... '흑인 여성 정체성' 주목">베네치아 비엔날레 최고상 휩쓴 여성 작가들... '흑인 여성 정체성' 주목</a>]]></content>
+        <title type="html"><![CDATA[올해 베네치아 비엔날레 수놓은 '흑인 여성'…황금사자상 휩쓸어]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013133415?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013133415?sid=103"/>
+        <updated>2022-04-24T06:19:14.004Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013133415?sid=103" class="nclicks(rig.secteco)" title="올해 베네치아 비엔날레 수놓은 '흑인 여성'…황금사자상 휩쓸어">올해 베네치아 비엔날레 수놓은 '흑인 여성'…황금사자상 휩쓸어</a>]]></content>
     </entry>
 </feed>
