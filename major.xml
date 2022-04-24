@@ -2,64 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-23T23:16:40.455Z</updated>
+    <updated>2022-04-24T01:07:03.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["모친 투병" 박영선 결국 불출마...민주, 서울시장 경선 3파전]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003189720?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003189720?sid=100"/>
-        <updated>2022-04-23T23:16:12.140Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189720?sid=100" class="nclicks(rig.secteco)" title="&quot;모친 투병&quot; 박영선 결국 불출마...민주, 서울시장 경선 3파전">"모친 투병" 박영선 결국 불출마...민주, 서울시장 경선 3파전</a>]]></content>
+        <title type="html"><![CDATA[민주 서울 경선에 박영선 불출마…송영길·박주민·김진애 3파전]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000538921?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000538921?sid=100"/>
+        <updated>2022-04-24T01:06:34.520Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000538921?sid=100" class="nclicks(rig.secteco)" title="민주 서울 경선에 박영선 불출마…송영길·박주민·김진애 3파전">민주 서울 경선에 박영선 불출마…송영길·박주민·김진애 3파전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끝내 출마 고사한 박영선 “어머니 야윈 몸 보니 발길이…”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001521056?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001521056?sid=100"/>
-        <updated>2022-04-23T21:13:41.841Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001521056?sid=100" class="nclicks(rig.secteco)" title="끝내 출마 고사한 박영선 “어머니 야윈 몸 보니 발길이…”">끝내 출마 고사한 박영선 “어머니 야윈 몸 보니 발길이…”</a>]]></content>
+        <title type="html"><![CDATA["어머니 야윈 몸 보니 발길이..." 박영선이 밝힌 출마 고사 이유]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004824808?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004824808?sid=100"/>
+        <updated>2022-04-24T01:06:34.520Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004824808?sid=100" class="nclicks(rig.secteco)" title="&quot;어머니 야윈 몸 보니 발길이...&quot; 박영선이 밝힌 출마 고사 이유">"어머니 야윈 몸 보니 발길이..." 박영선이 밝힌 출마 고사 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권성동 “검수완박 중재안 수용 불가피했다… 113석 소수정당의 최선”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003267876?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003267876?sid=100"/>
-        <updated>2022-04-23T18:18:09.841Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003267876?sid=100" class="nclicks(rig.secteco)" title="권성동 “검수완박 중재안 수용 불가피했다… 113석 소수정당의 최선”">권성동 “검수완박 중재안 수용 불가피했다… 113석 소수정당의 최선”</a>]]></content>
+        <title type="html"><![CDATA['윤석열 정부 1기 내각' 청문 정국 개막…내일부터 한덕수 검증대]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000968817?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000968817?sid=100"/>
+        <updated>2022-04-24T01:06:34.520Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000968817?sid=100" class="nclicks(rig.secteco)" title="'윤석열 정부 1기 내각' 청문 정국 개막…내일부터 한덕수 검증대">'윤석열 정부 1기 내각' 청문 정국 개막…내일부터 한덕수 검증대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 우크라 오데사 미사일 공격…"8명 사망자 중 3개월 신생아 포함"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005078639?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005078639?sid=104"/>
-        <updated>2022-04-23T22:15:13.282Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005078639?sid=104" class="nclicks(rig.secteco)" title="러, 우크라 오데사 미사일 공격…&quot;8명 사망자 중 3개월 신생아 포함&quot;">러, 우크라 오데사 미사일 공격…"8명 사망자 중 3개월 신생아 포함"</a>]]></content>
+        <title type="html"><![CDATA["푸틴 부활절 미사일 선물에 3개월 아기 희생"…처참한 오데사 [이 시각]]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003189751?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003189751?sid=104"/>
+        <updated>2022-04-24T01:06:34.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003189751?sid=104" class="nclicks(rig.secteco)" title="&quot;푸틴 부활절 미사일 선물에 3개월 아기 희생&quot;…처참한 오데사 [이 시각]">"푸틴 부활절 미사일 선물에 3개월 아기 희생"…처참한 오데사 [이 시각]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 국무·국방, 키이우서 젤렌스키 회동…러 침공 후 최고위급 첫 방문]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003687158?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003687158?sid=104"/>
-        <updated>2022-04-23T23:16:12.155Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003687158?sid=104" class="nclicks(rig.secteco)" title="美 국무·국방, 키이우서 젤렌스키 회동…러 침공 후 최고위급 첫 방문">美 국무·국방, 키이우서 젤렌스키 회동…러 침공 후 최고위급 첫 방문</a>]]></content>
+        <title type="html"><![CDATA[젤렌스키 "미국 국무·국방장관 우크라이나 온다"…백악관은 답변 거부]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003142459?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003142459?sid=104"/>
+        <updated>2022-04-24T01:06:34.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003142459?sid=104" class="nclicks(rig.secteco)" title="젤렌스키 &quot;미국 국무·국방장관 우크라이나 온다&quot;…백악관은 답변 거부">젤렌스키 "미국 국무·국방장관 우크라이나 온다"…백악관은 답변 거부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 팔고 가상공간에서 수업···신세계百, 메타버스 영토 넓힌다]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005078637?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005078637?sid=101"/>
-        <updated>2022-04-23T22:15:13.286Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005078637?sid=101" class="nclicks(rig.secteco)" title="NFT 팔고 가상공간에서 수업···신세계百, 메타버스 영토 넓힌다">NFT 팔고 가상공간에서 수업···신세계百, 메타버스 영토 넓힌다</a>]]></content>
+        <title type="html"><![CDATA[[주간증시전망]거시 불확실성에 '박스피'…실적 따른 차별화 장세]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005198466?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005198466?sid=101"/>
+        <updated>2022-04-24T01:06:34.524Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005198466?sid=101" class="nclicks(rig.secteco)" title="[주간증시전망]거시 불확실성에 '박스피'…실적 따른 차별화 장세">[주간증시전망]거시 불확실성에 '박스피'…실적 따른 차별화 장세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSG닷컴 "2022년 봄 선물 트렌드는 뷰티 & 스포츠"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003635485?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003635485?sid=101"/>
-        <updated>2022-04-23T23:16:12.159Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003635485?sid=101" class="nclicks(rig.secteco)" title="SSG닷컴 &quot;2022년 봄 선물 트렌드는 뷰티 &amp; 스포츠&quot;">SSG닷컴 "2022년 봄 선물 트렌드는 뷰티 &amp; 스포츠"</a>]]></content>
+        <title type="html"><![CDATA[신세계百, '푸빌라 NFT' 제작·판매 나선다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004736884?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004736884?sid=101"/>
+        <updated>2022-04-24T01:06:34.525Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004736884?sid=101" class="nclicks(rig.secteco)" title="신세계百, '푸빌라 NFT' 제작·판매 나선다">신세계百, '푸빌라 NFT' 제작·판매 나선다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["롯데百, 초대형 아트 갤러리로"…英 팝 아티스트 존 버거맨 '맞손']]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005078636?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005078636?sid=101"/>
-        <updated>2022-04-23T22:15:13.286Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005078636?sid=101" class="nclicks(rig.secteco)" title="&quot;롯데百, 초대형 아트 갤러리로&quot;…英 팝 아티스트 존 버거맨 '맞손'">"롯데百, 초대형 아트 갤러리로"…英 팝 아티스트 존 버거맨 '맞손'</a>]]></content>
+        <title type="html"><![CDATA[아트 갤러리로 변한 롯데백화점…英 ‘존 버거맨’과 맞손]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000808576?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000808576?sid=101"/>
+        <updated>2022-04-24T01:06:34.526Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000808576?sid=101" class="nclicks(rig.secteco)" title="아트 갤러리로 변한 롯데백화점…英 ‘존 버거맨’과 맞손">아트 갤러리로 변한 롯데백화점…英 ‘존 버거맨’과 맞손</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[헬시타임] 세계적 학자가 20년 커피 연구 후 내린 결론은…]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004045777?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004045777?sid=105"/>
+        <updated>2022-04-24T01:06:34.528Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004045777?sid=105" class="nclicks(rig.secteco)" title="[헬시타임] 세계적 학자가 20년 커피 연구 후 내린 결론은…">[헬시타임] 세계적 학자가 20년 커피 연구 후 내린 결론은…</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[폰SIGHT]갤럭시 '공시지원금' 올랐다는데...정말 싸졌을까?]]></title>
@@ -69,45 +76,38 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000038842?sid=105" class="nclicks(rig.secteco)" title="[폰SIGHT]갤럭시 '공시지원금' 올랐다는데...정말 싸졌을까?">[폰SIGHT]갤럭시 '공시지원금' 올랐다는데...정말 싸졌을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지하철에 드러누운 장애인…새 정부는 답할까[사사건건]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005198146?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005198146?sid=102"/>
-        <updated>2022-04-23T18:18:09.862Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005198146?sid=102" class="nclicks(rig.secteco)" title="지하철에 드러누운 장애인…새 정부는 답할까[사사건건]">지하철에 드러누운 장애인…새 정부는 답할까[사사건건]</a>]]></content>
+        <title type="html"><![CDATA[코로나19 감염병 등급 2급으로…방역·의료체계 '일상회복' 본격화]]></title>
+        <id>https://n.news.naver.com/mnews/article/656/0000009858?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/656/0000009858?sid=102"/>
+        <updated>2022-04-24T01:06:34.530Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000009858?sid=102" class="nclicks(rig.secteco)" title="코로나19 감염병 등급 2급으로…방역·의료체계 '일상회복' 본격화">코로나19 감염병 등급 2급으로…방역·의료체계 '일상회복' 본격화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 감염병 등급 2급으로 하향…'일상회복' 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013133434?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013133434?sid=102"/>
-        <updated>2022-04-23T23:16:12.163Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013133434?sid=102" class="nclicks(rig.secteco)" title="코로나19 감염병 등급 2급으로 하향…'일상회복' 본격화">코로나19 감염병 등급 2급으로 하향…'일상회복' 본격화</a>]]></content>
+        <title type="html"><![CDATA[경찰, 고속도로 얌체 운전 · 위험운전 집중 단속]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000968816?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000968816?sid=102"/>
+        <updated>2022-04-24T01:06:34.532Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000968816?sid=102" class="nclicks(rig.secteco)" title="경찰, 고속도로 얌체 운전 · 위험운전 집중 단속">경찰, 고속도로 얌체 운전 · 위험운전 집중 단속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1012회 로또 1등 당첨 지역은? "18억씩 수도권 절반, 대구·충남 2곳씩 잭팟"]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000755048?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000755048?sid=102"/>
-        <updated>2022-04-23T23:16:12.164Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000755048?sid=102" class="nclicks(rig.secteco)" title="1012회 로또 1등 당첨 지역은? &quot;18억씩 수도권 절반, 대구·충남 2곳씩 잭팟&quot;">1012회 로또 1등 당첨 지역은? "18억씩 수도권 절반, 대구·충남 2곳씩 잭팟"</a>]]></content>
+        <title type="html"><![CDATA[“방문 목적에 ‘취업’”…유승준 비자 재소송, 이번주 1심 선고]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003267899?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003267899?sid=102"/>
+        <updated>2022-04-24T01:06:34.534Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003267899?sid=102" class="nclicks(rig.secteco)" title="“방문 목적에 ‘취업’”…유승준 비자 재소송, 이번주 1심 선고">“방문 목적에 ‘취업’”…유승준 비자 재소송, 이번주 1심 선고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨] 전국 흐리고 일교차 15도 이상…경기·충남 '비']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006048026?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006048026?sid=103"/>
-        <updated>2022-04-23T23:16:12.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006048026?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 전국 흐리고 일교차 15도 이상…경기·충남 '비'">[오늘날씨] 전국 흐리고 일교차 15도 이상…경기·충남 '비'</a>]]></content>
+        <title type="html"><![CDATA[대기 매우 건조…수도권 미세먼지 '나쁨']]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000968823?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000968823?sid=103"/>
+        <updated>2022-04-24T01:06:34.535Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000968823?sid=103" class="nclicks(rig.secteco)" title="대기 매우 건조…수도권 미세먼지 '나쁨'">대기 매우 건조…수도권 미세먼지 '나쁨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 내일 오전까지 서해안 안개 주의…내일도 맑고 더워]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011253836?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011253836?sid=103"/>
-        <updated>2022-04-23T20:16:36.371Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011253836?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일 오전까지 서해안 안개 주의…내일도 맑고 더워">[뉴스9 날씨] 내일 오전까지 서해안 안개 주의…내일도 맑고 더워</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[귀거래사]귀농 후 세계적 녹차 만들기 18년…숱한 좌절 딛고 '우뚝']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006047407?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006047407?sid=102"/>
-        <updated>2022-04-23T23:16:12.168Z</updated>
-        <content type="html"><![CDATA[<em class="keyword"><span>연재</span></em> <a href="https://n.news.naver.com/mnews/article/421/0006047407?sid=102" class="nclicks(rig.secteco)" title="[귀거래사]귀농 후 세계적 녹차 만들기 18년…숱한 좌절 딛고 '우뚝'">[귀거래사]귀농 후 세계적 녹차 만들기 18년…숱한 좌절 딛고 '우뚝'</a>]]></content>
+        <title type="html"><![CDATA[아이오닉 5·EV6, 獨전문지 전기차 평가서 모델Y 제쳤다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005198471?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005198471?sid=103"/>
+        <updated>2022-04-24T01:06:34.536Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005198471?sid=103" class="nclicks(rig.secteco)" title="아이오닉 5·EV6, 獨전문지 전기차 평가서 모델Y 제쳤다">아이오닉 5·EV6, 獨전문지 전기차 평가서 모델Y 제쳤다</a>]]></content>
     </entry>
 </feed>
