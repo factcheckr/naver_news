@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-25T14:15:52.794Z</updated>
+    <updated>2022-04-25T15:18:45.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤석열 정부 첫 인사청문회, 첫날부터 파국... 선서조차 못한 한덕수]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000671539?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000671539?sid=100"/>
-        <updated>2022-04-25T13:30:38.632Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000671539?sid=100" class="nclicks(rig.secteco)" title="윤석열 정부 첫 인사청문회, 첫날부터 파국... 선서조차 못한 한덕수">윤석열 정부 첫 인사청문회, 첫날부터 파국... 선서조차 못한 한덕수</a>]]></content>
+        <title type="html"><![CDATA[파행 치달은 '한덕수' 인청…민주당·정의당, 왜 불참했나?]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000145686?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000145686?sid=100"/>
+        <updated>2022-04-25T15:18:16.963Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000145686?sid=100" class="nclicks(rig.secteco)" title="파행 치달은 '한덕수' 인청…민주당·정의당, 왜 불참했나?">파행 치달은 '한덕수' 인청…민주당·정의당, 왜 불참했나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“5월 10일 정오 청와대 개방…모레(27일)부터 사전 신청”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011254710?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011254710?sid=100"/>
-        <updated>2022-04-25T14:15:21.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011254710?sid=100" class="nclicks(rig.secteco)" title="“5월 10일 정오 청와대 개방…모레(27일)부터 사전 신청”">“5월 10일 정오 청와대 개방…모레(27일)부터 사전 신청”</a>]]></content>
+        <title type="html"><![CDATA[북한, 25일 밤 10시 넘어 심야 열병식 시작]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002588205?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002588205?sid=100"/>
+        <updated>2022-04-25T15:18:16.966Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002588205?sid=100" class="nclicks(rig.secteco)" title="북한, 25일 밤 10시 넘어 심야 열병식 시작">북한, 25일 밤 10시 넘어 심야 열병식 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문 대통령 "검수완박 중재안, 잘된 논의…가능하면 합의 처리해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003689640?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003689640?sid=100"/>
-        <updated>2022-04-25T14:15:21.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003689640?sid=100" class="nclicks(rig.secteco)" title="문 대통령 &quot;검수완박 중재안, 잘된 논의…가능하면 합의 처리해야&quot;">문 대통령 "검수완박 중재안, 잘된 논의…가능하면 합의 처리해야"</a>]]></content>
+        <title type="html"><![CDATA['대장동 저격수' vs '이재명 지킴이'…김은혜-김동연 격돌]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013137270?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013137270?sid=100"/>
+        <updated>2022-04-25T15:18:16.967Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013137270?sid=100" class="nclicks(rig.secteco)" title="'대장동 저격수' vs '이재명 지킴이'…김은혜-김동연 격돌">'대장동 저격수' vs '이재명 지킴이'…김은혜-김동연 격돌</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크롱 재선했지만, 르펜 극우바람 거셌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003190251?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003190251?sid=104"/>
+        <updated>2022-04-25T15:18:16.968Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003190251?sid=104" class="nclicks(rig.secteco)" title="마크롱 재선했지만, 르펜 극우바람 거셌다">마크롱 재선했지만, 르펜 극우바람 거셌다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스브스레터 이브닝(4/25) : 키이우 간 미 외교 · 안보 사령탑…"러시아 실패"]]></title>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000969111?sid=104" class="nclicks(rig.secteco)" title="스브스레터 이브닝(4/25) : 키이우 간 미 외교 · 안보 사령탑…&quot;러시아 실패&quot;">스브스레터 이브닝(4/25) : 키이우 간 미 외교 · 안보 사령탑…"러시아 실패"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허니문 없는 마크롱2기…좌·우파 각각 결집에 '6월 총선' 비상]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003190122?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003190122?sid=104"/>
-        <updated>2022-04-25T14:15:21.248Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003190122?sid=104" class="nclicks(rig.secteco)" title="허니문 없는 마크롱2기…좌·우파 각각 결집에 '6월 총선' 비상">허니문 없는 마크롱2기…좌·우파 각각 결집에 '6월 총선' 비상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차, 악재 뚫고 1분기 영업익 1조9000억 ‘깜짝 질주’]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003689672?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003689672?sid=101"/>
-        <updated>2022-04-25T14:15:21.249Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003689672?sid=101" class="nclicks(rig.secteco)" title="현대차, 악재 뚫고 1분기 영업익 1조9000억 ‘깜짝 질주’">현대차, 악재 뚫고 1분기 영업익 1조9000억 ‘깜짝 질주’</a>]]></content>
+        <title type="html"><![CDATA[제네시스·SUV의 힘…덜 팔고도 더 벌었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003190233?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003190233?sid=101"/>
+        <updated>2022-04-25T15:18:16.971Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003190233?sid=101" class="nclicks(rig.secteco)" title="제네시스·SUV의 힘…덜 팔고도 더 벌었다">제네시스·SUV의 힘…덜 팔고도 더 벌었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[문답]이창용 "현재로선 물가 더 우려…장기적으로는 비둘기파"]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006051543?sid=101" class="nclicks(rig.secteco)" title="[문답]이창용 &quot;현재로선 물가 더 우려…장기적으로는 비둘기파&quot;">[문답]이창용 "현재로선 물가 더 우려…장기적으로는 비둘기파"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재계 “이재용·신동빈 사면” 청원에…文, 총수 사면 ‘0명’ 기록 깨질까]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003190150?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003190150?sid=101"/>
-        <updated>2022-04-25T12:28:11.548Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003190150?sid=101" class="nclicks(rig.secteco)" title="재계 “이재용·신동빈 사면” 청원에…文, 총수 사면 ‘0명’ 기록 깨질까">재계 “이재용·신동빈 사면” 청원에…文, 총수 사면 ‘0명’ 기록 깨질까</a>]]></content>
+        <title type="html"><![CDATA[머스크, 결국 트위터 인수…54조원 규모에 합의]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001521490?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001521490?sid=101"/>
+        <updated>2022-04-25T15:18:16.973Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001521490?sid=101" class="nclicks(rig.secteco)" title="머스크, 결국 트위터 인수…54조원 규모에 합의">머스크, 결국 트위터 인수…54조원 규모에 합의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]11번가, 25일부터 포켓몬빵 선착순 판매 돌입]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005199137?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005199137?sid=105"/>
-        <updated>2022-04-25T12:28:11.549Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005199137?sid=105" class="nclicks(rig.secteco)" title="[단독]11번가, 25일부터 포켓몬빵 선착순 판매 돌입">[단독]11번가, 25일부터 포켓몬빵 선착순 판매 돌입</a>]]></content>
+        <title type="html"><![CDATA[11번가 라방 물량도 완판…포켓몬 Z플립3 에디션 모두 팔렸다(종합3보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006051788?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006051788?sid=105"/>
+        <updated>2022-04-25T15:18:16.975Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006051788?sid=105" class="nclicks(rig.secteco)" title="11번가 라방 물량도 완판…포켓몬 Z플립3 에디션 모두 팔렸다(종합3보)">11번가 라방 물량도 완판…포켓몬 Z플립3 에디션 모두 팔렸다(종합3보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연구용 원자로 '하나로' 또 고장]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003142850?sid=102" class="nclicks(rig.secteco)" title="전국 버스 노사 밤늦게까지 협상 난항...전남지역은 임금인상 합의">전국 버스 노사 밤늦게까지 협상 난항...전남지역은 임금인상 합의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민만이 아니었다… ‘미성년자 논문 끼워넣기’ 96건 적발]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003689637?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003689637?sid=102"/>
-        <updated>2022-04-25T14:15:21.260Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003689637?sid=102" class="nclicks(rig.secteco)" title="조민만이 아니었다… ‘미성년자 논문 끼워넣기’ 96건 적발">조민만이 아니었다… ‘미성년자 논문 끼워넣기’ 96건 적발</a>]]></content>
+        <title type="html"><![CDATA['부모 찬스' 논문 96건 적발...조민 씨 등 5명 입학취소]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001731360?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001731360?sid=102"/>
+        <updated>2022-04-25T15:18:16.978Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001731360?sid=102" class="nclicks(rig.secteco)" title="'부모 찬스' 논문 96건 적발...조민 씨 등 5명 입학취소">'부모 찬스' 논문 96건 적발...조민 씨 등 5명 입학취소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하남시, 버스파업 대비 '셔틀버스 무료 운행 비상대책' 추진]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003012713?sid=102" class="nclicks(rig.secteco)" title="하남시, 버스파업 대비 '셔틀버스 무료 운행 비상대책' 추진">하남시, 버스파업 대비 '셔틀버스 무료 운행 비상대책' 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소설가 이외수씨 별세···책 읽지 않는 시대 파격으로 소통한 괴짜, 하늘 독자 만나러 가다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003142863?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003142863?sid=103"/>
-        <updated>2022-04-25T14:15:21.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003142863?sid=103" class="nclicks(rig.secteco)" title="소설가 이외수씨 별세···책 읽지 않는 시대 파격으로 소통한 괴짜, 하늘 독자 만나러 가다">소설가 이외수씨 별세···책 읽지 않는 시대 파격으로 소통한 괴짜, 하늘 독자 만나러 가다</a>]]></content>
+        <title type="html"><![CDATA['존버' 창시자 괴짜 소설가 이외수 별세…향년 76세(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011145140?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011145140?sid=103"/>
+        <updated>2022-04-25T15:18:16.979Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011145140?sid=103" class="nclicks(rig.secteco)" title="'존버' 창시자 괴짜 소설가 이외수 별세…향년 76세(종합2보)">'존버' 창시자 괴짜 소설가 이외수 별세…향년 76세(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 밤사이 강한 비…남해안·제주 호우특보]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000539196?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000539196?sid=103"/>
-        <updated>2022-04-25T14:15:21.268Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000539196?sid=103" class="nclicks(rig.secteco)" title="[날씨] 밤사이 강한 비…남해안·제주 호우특보">[날씨] 밤사이 강한 비…남해안·제주 호우특보</a>]]></content>
+        <title type="html"><![CDATA[[오늘의 날씨] 전국 흐리고 비…오후에 대부분 그쳐]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000145685?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000145685?sid=103"/>
+        <updated>2022-04-25T15:18:16.980Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000145685?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 전국 흐리고 비…오후에 대부분 그쳐">[오늘의 날씨] 전국 흐리고 비…오후에 대부분 그쳐</a>]]></content>
     </entry>
 </feed>
