@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-28T20:17:25.527Z</updated>
+    <updated>2022-04-28T21:14:28.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[단독]바이든, 亞 첫순방 한국서 中견제 행보… 尹과 용산집무실 회담 검토]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003425485?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003425485?sid=100"/>
-        <updated>2022-04-28T20:16:56.543Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003425485?sid=100" class="nclicks(rig.secteco)" title="[단독]바이든, 亞 첫순방 한국서 中견제 행보… 尹과 용산집무실 회담 검토">[단독]바이든, 亞 첫순방 한국서 中견제 행보… 尹과 용산집무실 회담 검토</a>]]></content>
+        <title type="html"><![CDATA[이례적으로 빠른 尹·바이든 회담… 강력한 韓·美동맹 외교 ‘신호탄’ 될까]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003690989?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003690989?sid=100"/>
+        <updated>2022-04-28T21:14:00.432Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003690989?sid=100" class="nclicks(rig.secteco)" title="이례적으로 빠른 尹·바이든 회담… 강력한 韓·美동맹 외교 ‘신호탄’ 될까">이례적으로 빠른 尹·바이든 회담… 강력한 韓·美동맹 외교 ‘신호탄’ 될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소상공인 551만곳 차등 지원금… 추경 통과 즉시 지급]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003269364?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003269364?sid=100"/>
-        <updated>2022-04-28T20:16:56.544Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269364?sid=100" class="nclicks(rig.secteco)" title="소상공인 551만곳 차등 지원금… 추경 통과 즉시 지급">소상공인 551만곳 차등 지원금… 추경 통과 즉시 지급</a>]]></content>
+        <title type="html"><![CDATA[“맞춤형 손실보전” 文정부와 차별화… 尹정부 ‘손실보상안’ 내용은]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003690985?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003690985?sid=100"/>
+        <updated>2022-04-28T21:14:00.432Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003690985?sid=100" class="nclicks(rig.secteco)" title="“맞춤형 손실보전” 文정부와 차별화… 尹정부 ‘손실보상안’ 내용은">“맞춤형 손실보전” 文정부와 차별화… 尹정부 ‘손실보상안’ 내용은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹측 “국민투표법 개정 추진” 민주 “초헌법적 발상”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003425476?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003425476?sid=100"/>
-        <updated>2022-04-28T18:20:28.047Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003425476?sid=100" class="nclicks(rig.secteco)" title="尹측 “국민투표법 개정 추진” 민주 “초헌법적 발상”">尹측 “국민투표법 개정 추진” 민주 “초헌법적 발상”</a>]]></content>
+        <title type="html"><![CDATA[민주, 중수청 설치 사개특위 구성 착수… 확대되는 검수완박 전선]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003269366?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003269366?sid=100"/>
+        <updated>2022-04-28T21:14:00.435Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269366?sid=100" class="nclicks(rig.secteco)" title="민주, 중수청 설치 사개특위 구성 착수… 확대되는 검수완박 전선">민주, 중수청 설치 사개특위 구성 착수… 확대되는 검수완박 전선</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 1분기 성장률 -1.4%…무역적자·인플레 속 예상 밖 후퇴(종합2보)]]></title>
@@ -41,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191130?sid=104" class="nclicks(rig.secteco)" title="&quot;아베, 한·일 좋았던 시절 돌아가고 싶다더라&quot; 尹 정책협의단 귀국">"아베, 한·일 좋았던 시절 돌아가고 싶다더라" 尹 정책협의단 귀국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대기업 중고차 판매 오늘 결론…현대차는 웃고 중고차 업계는 단식 투쟁]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003688176?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003688176?sid=101"/>
-        <updated>2022-04-28T19:13:36.437Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003688176?sid=101" class="nclicks(rig.secteco)" title="대기업 중고차 판매 오늘 결론…현대차는 웃고 중고차 업계는 단식 투쟁">대기업 중고차 판매 오늘 결론…현대차는 웃고 중고차 업계는 단식 투쟁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원·달러 환율, 1270도 뚫렸다…1300원까지 가나]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003637687?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003637687?sid=101"/>
-        <updated>2022-04-28T20:16:56.554Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003637687?sid=101" class="nclicks(rig.secteco)" title="원·달러 환율, 1270도 뚫렸다…1300원까지 가나">원·달러 환율, 1270도 뚫렸다…1300원까지 가나</a>]]></content>
+        <title type="html"><![CDATA[현대차·기아, 중고차 판매 2023년 5월 개시… 사업 진출 1년 연기]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003690999?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003690999?sid=101"/>
+        <updated>2022-04-28T21:14:00.441Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003690999?sid=101" class="nclicks(rig.secteco)" title="현대차·기아, 중고차 판매 2023년 5월 개시… 사업 진출 1년 연기">현대차·기아, 중고차 판매 2023년 5월 개시… 사업 진출 1년 연기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금융당국이 던진 조각투자 플랫폼 14개 체크리스트…"사실상 금지령"]]></title>
@@ -60,6 +53,13 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004739415?sid=101"/>
         <updated>2022-04-28T20:16:56.555Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004739415?sid=101" class="nclicks(rig.secteco)" title="금융당국이 던진 조각투자 플랫폼 14개 체크리스트…&quot;사실상 금지령&quot;">금융당국이 던진 조각투자 플랫폼 14개 체크리스트…"사실상 금지령"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원·달러 환율, 1270도 뚫렸다…1300원까지 가나]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003637687?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003637687?sid=101"/>
+        <updated>2022-04-28T20:16:56.554Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003637687?sid=101" class="nclicks(rig.secteco)" title="원·달러 환율, 1270도 뚫렸다…1300원까지 가나">원·달러 환율, 1270도 뚫렸다…1300원까지 가나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 인수위, 논란의 5G 손본다…2024년까지 전국망 구축·중간 요금제 도입]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002731978?sid=105" class="nclicks(rig.secteco)" title="삼성SDS 분기매출 4조 돌파… IT서비스·물류 통했다">삼성SDS 분기매출 4조 돌파… IT서비스·물류 통했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인수위 반대에도 실외 마스크 다음 주 해제 ... "마스크 밀당이 정치방역" 비판]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000672262?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000672262?sid=102"/>
-        <updated>2022-04-28T20:16:56.559Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000672262?sid=102" class="nclicks(rig.secteco)" title="인수위 반대에도 실외 마스크 다음 주 해제 ... &quot;마스크 밀당이 정치방역&quot; 비판">인수위 반대에도 실외 마스크 다음 주 해제 ... "마스크 밀당이 정치방역" 비판</a>]]></content>
+        <title type="html"><![CDATA[드디어 벗나… 정부, 오늘 '실외 마스크' 해제 여부 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000808432?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000808432?sid=102"/>
+        <updated>2022-04-28T21:14:00.449Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000808432?sid=102" class="nclicks(rig.secteco)" title="드디어 벗나… 정부, 오늘 '실외 마스크' 해제 여부 발표">드디어 벗나… 정부, 오늘 '실외 마스크' 해제 여부 발표</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] “도박 빚 시달려” 가상화폐 받고 北에 군사기밀 넘긴 장교]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001522440?sid=102" class="nclicks(rig.secteco)" title="[단독] “도박 빚 시달려” 가상화폐 받고 北에 군사기밀 넘긴 장교">[단독] “도박 빚 시달려” 가상화폐 받고 北에 군사기밀 넘긴 장교</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차장이 600억 횡령해도 몰랐던 우리은행·금감원… 오늘 구속영장 신청]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000808422?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000808422?sid=102"/>
-        <updated>2022-04-28T20:16:56.562Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000808422?sid=102" class="nclicks(rig.secteco)" title="차장이 600억 횡령해도 몰랐던 우리은행·금감원… 오늘 구속영장 신청">차장이 600억 횡령해도 몰랐던 우리은행·금감원… 오늘 구속영장 신청</a>]]></content>
+        <title type="html"><![CDATA[임성근 전 부장판사 '재판 개입' 무죄 확정…"현명한 판단에 경의"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191051?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191051?sid=102"/>
+        <updated>2022-04-28T21:14:00.452Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191051?sid=102" class="nclicks(rig.secteco)" title="임성근 전 부장판사 '재판 개입' 무죄 확정…&quot;현명한 판단에 경의&quot;">임성근 전 부장판사 '재판 개입' 무죄 확정…"현명한 판단에 경의"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 새벽부터 아침까지 비… 출근길 '우산 필수']]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000808425?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000808425?sid=103"/>
-        <updated>2022-04-28T20:16:56.563Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000808425?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 새벽부터 아침까지 비… 출근길 '우산 필수'">[오늘 날씨] 새벽부터 아침까지 비… 출근길 '우산 필수'</a>]]></content>
+        <title type="html"><![CDATA[[오늘날씨] 전국 새벽부터 비…낮·밤 기온차 최대 20도 '유의']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006060713?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006060713?sid=103"/>
+        <updated>2022-04-28T21:14:00.453Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006060713?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 전국 새벽부터 비…낮·밤 기온차 최대 20도 '유의'">[오늘날씨] 전국 새벽부터 비…낮·밤 기온차 최대 20도 '유의'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전주국제영화제 개막… 3년 만에 정상화]]></title>
