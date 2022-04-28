@@ -2,71 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-28T14:13:24.334Z</updated>
+    <updated>2022-04-28T15:18:08.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[새 정부, 소상공인 54조 손실 추산..."지원금 차등 지급"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001732915?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001732915?sid=100"/>
-        <updated>2022-04-28T14:12:55.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001732915?sid=100" class="nclicks(rig.secteco)" title="새 정부, 소상공인 54조 손실 추산...&quot;지원금 차등 지급&quot;">새 정부, 소상공인 54조 손실 추산..."지원금 차등 지급"</a>]]></content>
+        <title type="html"><![CDATA[바이든, 일본보다 한국 먼저 온다…내달 21일 정상회담]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191223?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191223?sid=100"/>
+        <updated>2022-04-28T15:17:40.385Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191223?sid=100" class="nclicks(rig.secteco)" title="바이든, 일본보다 한국 먼저 온다…내달 21일 정상회담">바이든, 일본보다 한국 먼저 온다…내달 21일 정상회담</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 한미정상회담, '용산 대통령 집무실'에서 한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000358250?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000358250?sid=100"/>
-        <updated>2022-04-28T13:35:43.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000358250?sid=100" class="nclicks(rig.secteco)" title="[단독] 한미정상회담, '용산 대통령 집무실'에서 한다">[단독] 한미정상회담, '용산 대통령 집무실'에서 한다</a>]]></content>
+        <title type="html"><![CDATA[소상공인 손실 따라 차등 지원, 최대 600만원 검토]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191221?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191221?sid=100"/>
+        <updated>2022-04-28T15:17:40.387Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191221?sid=100" class="nclicks(rig.secteco)" title="소상공인 손실 따라 차등 지원, 최대 600만원 검토">소상공인 손실 따라 차등 지원, 최대 600만원 검토</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘검수완박 국민투표’ 띄우는 국민의힘]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003143688?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003143688?sid=100"/>
-        <updated>2022-04-28T14:12:55.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003143688?sid=100" class="nclicks(rig.secteco)" title="‘검수완박 국민투표’ 띄우는 국민의힘">‘검수완박 국민투표’ 띄우는 국민의힘</a>]]></content>
+        <title type="html"><![CDATA[尹측, “법 보완해 검수완박 국민투표에…” 개정안 발의 검토]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003425466?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003425466?sid=100"/>
+        <updated>2022-04-28T15:17:40.388Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003425466?sid=100" class="nclicks(rig.secteco)" title="尹측, “법 보완해 검수완박 국민투표에…” 개정안 발의 검토">尹측, “법 보완해 검수완박 국민투표에…” 개정안 발의 검토</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러 언론 “현대차·기아 러시아에서 차량 생산 중”…현대차는 부인]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002588683?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002588683?sid=104"/>
-        <updated>2022-04-28T13:35:43.787Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002588683?sid=104" class="nclicks(rig.secteco)" title="러 언론 “현대차·기아 러시아에서 차량 생산 중”…현대차는 부인">러 언론 “현대차·기아 러시아에서 차량 생산 중”…현대차는 부인</a>]]></content>
+        <title type="html"><![CDATA[러 언론 "현대차, 러시아서 차량 생산 지속"…현대차 "사실 무근"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006060556?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006060556?sid=104"/>
+        <updated>2022-04-28T15:17:40.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006060556?sid=104" class="nclicks(rig.secteco)" title="러 언론 &quot;현대차, 러시아서 차량 생산 지속&quot;…현대차 &quot;사실 무근&quot;(종합)">러 언론 "현대차, 러시아서 차량 생산 지속"…현대차 "사실 무근"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["아베, 한·일 좋았던 시절 돌아가고 싶다더라" 尹 정책협의단 귀국]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003191130?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003191130?sid=104"/>
-        <updated>2022-04-28T13:35:43.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191130?sid=104" class="nclicks(rig.secteco)" title="&quot;아베, 한·일 좋았던 시절 돌아가고 싶다더라&quot; 尹 정책협의단 귀국">"아베, 한·일 좋았던 시절 돌아가고 싶다더라" 尹 정책협의단 귀국</a>]]></content>
+        <title type="html"><![CDATA[미국 1분기 성장률 -1.4%…인플레·무역적자로 예상 밖 후퇴(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013145780?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013145780?sid=104"/>
+        <updated>2022-04-28T15:17:40.395Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013145780?sid=104" class="nclicks(rig.secteco)" title="미국 1분기 성장률 -1.4%…인플레·무역적자로 예상 밖 후퇴(종합)">미국 1분기 성장률 -1.4%…인플레·무역적자로 예상 밖 후퇴(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차·기아, 중고차 사업 내년 5월로 연기]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003143685?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003143685?sid=101"/>
-        <updated>2022-04-28T14:12:55.813Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003143685?sid=101" class="nclicks(rig.secteco)" title="현대차·기아, 중고차 사업 내년 5월로 연기">현대차·기아, 중고차 사업 내년 5월로 연기</a>]]></content>
+        <title type="html"><![CDATA[현대차·기아 '내년 5월 중고차시장 진출-2년간 판매량 제한' 권고(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013145785?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013145785?sid=101"/>
+        <updated>2022-04-28T15:17:40.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013145785?sid=101" class="nclicks(rig.secteco)" title="현대차·기아 '내년 5월 중고차시장 진출-2년간 판매량 제한' 권고(종합)">현대차·기아 '내년 5월 중고차시장 진출-2년간 판매량 제한' 권고(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 ‘반도체’·LG ‘프리미엄 가전’… 위기 속에도 빛났다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003690858?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003690858?sid=101"/>
-        <updated>2022-04-28T12:31:19.064Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003690858?sid=101" class="nclicks(rig.secteco)" title="삼성 ‘반도체’·LG ‘프리미엄 가전’… 위기 속에도 빛났다">삼성 ‘반도체’·LG ‘프리미엄 가전’… 위기 속에도 빛났다</a>]]></content>
+        <title type="html"><![CDATA[[종합] "역시 韓 경제 버팀목"…또 기록 깬 삼성·LG, 연간 실적 신기록 쓸까]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000669357?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000669357?sid=101"/>
+        <updated>2022-04-28T15:17:40.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000669357?sid=101" class="nclicks(rig.secteco)" title="[종합] &quot;역시 韓 경제 버팀목&quot;…또 기록 깬 삼성·LG, 연간 실적 신기록 쓸까">[종합] "역시 韓 경제 버팀목"…또 기록 깬 삼성·LG, 연간 실적 신기록 쓸까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미술품·부동산 등 조각투자, 수익 청구권 가지면 ‘증권’으로 본다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003143718?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003143718?sid=101"/>
-        <updated>2022-04-28T14:12:55.816Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003143718?sid=101" class="nclicks(rig.secteco)" title="미술품·부동산 등 조각투자, 수익 청구권 가지면 ‘증권’으로 본다">미술품·부동산 등 조각투자, 수익 청구권 가지면 ‘증권’으로 본다</a>]]></content>
+        <title type="html"><![CDATA[“제도권 바깥의 조각투자는 없다” 금융위, 신종증권 가이드라인 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191254?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191254?sid=101"/>
+        <updated>2022-04-28T15:17:40.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191254?sid=101" class="nclicks(rig.secteco)" title="“제도권 바깥의 조각투자는 없다” 금융위, 신종증권 가이드라인 발표">“제도권 바깥의 조각투자는 없다” 금융위, 신종증권 가이드라인 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["5만~7만원대 중저가 도입" 인수위, 5G 요금제 다양화]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002732000?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002732000?sid=105"/>
-        <updated>2022-04-28T12:31:19.071Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002732000?sid=105" class="nclicks(rig.secteco)" title="&quot;5만~7만원대 중저가 도입&quot; 인수위, 5G 요금제 다양화">"5만~7만원대 중저가 도입" 인수위, 5G 요금제 다양화</a>]]></content>
+        <title type="html"><![CDATA[[단독] 인수위, 논란의 5G 손본다…2024년까지 전국망 구축·중간 요금제 도입]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000358184?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000358184?sid=105"/>
+        <updated>2022-04-28T15:17:40.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000358184?sid=105" class="nclicks(rig.secteco)" title="[단독] 인수위, 논란의 5G 손본다…2024년까지 전국망 구축·중간 요금제 도입">[단독] 인수위, 논란의 5G 손본다…2024년까지 전국망 구축·중간 요금제 도입</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성SDS 분기매출 4조 돌파… IT서비스·물류 통했다]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269343?sid=102" class="nclicks(rig.secteco)" title="현역 대위, 北 공작원 지령받고 軍 기밀 넘기려다 잡혔다">현역 대위, 北 공작원 지령받고 軍 기밀 넘기려다 잡혔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유승준, '비자 발급' 두 번째 소송 패소..."청년에게 박탈감"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001732885?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001732885?sid=102"/>
-        <updated>2022-04-28T13:35:43.800Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001732885?sid=102" class="nclicks(rig.secteco)" title="유승준, '비자 발급' 두 번째 소송 패소...&quot;청년에게 박탈감&quot;">유승준, '비자 발급' 두 번째 소송 패소..."청년에게 박탈감"</a>]]></content>
+        <title type="html"><![CDATA[우리은행 직원 600억 빼돌렸는데, 10년간 아무도 몰랐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191215?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191215?sid=102"/>
+        <updated>2022-04-28T15:17:40.403Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191215?sid=102" class="nclicks(rig.secteco)" title="우리은행 직원 600억 빼돌렸는데, 10년간 아무도 몰랐다">우리은행 직원 600억 빼돌렸는데, 10년간 아무도 몰랐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[23th JIFF] "영화는 전주다"…전주국제영화제, 관객과 함께 포문 열다]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002599128?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002599128?sid=103"/>
-        <updated>2022-04-28T13:35:43.802Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002599128?sid=103" class="nclicks(rig.secteco)" title="[23th JIFF] &quot;영화는 전주다&quot;…전주국제영화제, 관객과 함께 포문 열다">[23th JIFF] "영화는 전주다"…전주국제영화제, 관객과 함께 포문 열다</a>]]></content>
+        <title type="html"><![CDATA[막 올린 전주국제영화제…3년만에 레드카펫 펼쳐졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191236?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191236?sid=103"/>
+        <updated>2022-04-28T15:17:40.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191236?sid=103" class="nclicks(rig.secteco)" title="막 올린 전주국제영화제…3년만에 레드카펫 펼쳐졌다">막 올린 전주국제영화제…3년만에 레드카펫 펼쳐졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일 날씨] "출근길 우산 챙기세요"…전국 대체로 흐리고 '비소식']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004692110?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004692110?sid=103"/>
-        <updated>2022-04-28T13:35:43.803Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004692110?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] &quot;출근길 우산 챙기세요&quot;…전국 대체로 흐리고 '비소식'">[내일 날씨] "출근길 우산 챙기세요"…전국 대체로 흐리고 '비소식'</a>]]></content>
+        <title type="html"><![CDATA[“국민 MC라면 질문엔 답해야”…文지지자도 “괴롭히지 마”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003269355?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003269355?sid=103"/>
+        <updated>2022-04-28T15:17:40.407Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269355?sid=103" class="nclicks(rig.secteco)" title="“국민 MC라면 질문엔 답해야”…文지지자도 “괴롭히지 마”">“국민 MC라면 질문엔 답해야”…文지지자도 “괴롭히지 마”</a>]]></content>
     </entry>
 </feed>
