@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-29T22:16:47.678Z</updated>
+    <updated>2022-04-29T23:16:37.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[민주당 서울시장 후보에 송영길…전북 김관영]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011258157?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011258157?sid=100"/>
-        <updated>2022-04-29T22:16:20.862Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011258157?sid=100" class="nclicks(rig.secteco)" title="민주당 서울시장 후보에 송영길…전북 김관영">민주당 서울시장 후보에 송영길…전북 김관영</a>]]></content>
+        <title type="html"><![CDATA[6·1 지방선거 ‘하이라이트’ 서울시장…송영길 vs 오세훈 격돌]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003691290?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003691290?sid=100"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691290?sid=100" class="nclicks(rig.secteco)" title="6·1 지방선거 ‘하이라이트’ 서울시장…송영길 vs 오세훈 격돌">6·1 지방선거 ‘하이라이트’ 서울시장…송영길 vs 오세훈 격돌</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검수완박 완결판… 검찰의 남은 수사권마저 박탈 착수]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003688581?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003688581?sid=100"/>
-        <updated>2022-04-29T22:16:20.862Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003688581?sid=100" class="nclicks(rig.secteco)" title="검수완박 완결판… 검찰의 남은 수사권마저 박탈 착수">검수완박 완결판… 검찰의 남은 수사권마저 박탈 착수</a>]]></content>
+        <title type="html"><![CDATA[국힘, 국민투표·사개특위 불참…검수완박 저지 총력]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011155477?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011155477?sid=100"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011155477?sid=100" class="nclicks(rig.secteco)" title="국힘, 국민투표·사개특위 불참…검수완박 저지 총력">국힘, 국민투표·사개특위 불참…검수완박 저지 총력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 “집무실 이전, 꼭 해야 하나 의문” VS 인수위 “국민께 예의 지켜라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003691271?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003691271?sid=100"/>
-        <updated>2022-04-29T22:16:20.863Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691271?sid=100" class="nclicks(rig.secteco)" title="文 “집무실 이전, 꼭 해야 하나 의문” VS 인수위 “국민께 예의 지켜라”">文 “집무실 이전, 꼭 해야 하나 의문” VS 인수위 “국민께 예의 지켜라”</a>]]></content>
+        <title type="html"><![CDATA[文 “MB사면 찬성 많아”… ‘뇌물·횡령 사면 없다’ 약속 깰까]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001522679?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001522679?sid=100"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001522679?sid=100" class="nclicks(rig.secteco)" title="文 “MB사면 찬성 많아”… ‘뇌물·횡령 사면 없다’ 약속 깰까">文 “MB사면 찬성 많아”… ‘뇌물·횡령 사면 없다’ 약속 깰까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["유엔 총장 방문 중 우크라 공격, 푸틴이 보낸 '가운뎃손가락' 메시지"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006062803?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006062803?sid=104"/>
-        <updated>2022-04-29T22:16:20.864Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006062803?sid=104" class="nclicks(rig.secteco)" title="&quot;유엔 총장 방문 중 우크라 공격, 푸틴이 보낸 '가운뎃손가락' 메시지&quot;">"유엔 총장 방문 중 우크라 공격, 푸틴이 보낸 '가운뎃손가락' 메시지"</a>]]></content>
+        <title type="html"><![CDATA["푸틴, 유엔에 손가락 욕 한것"…우크라 수도에 무슨일이]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004957441?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004957441?sid=104"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004957441?sid=104" class="nclicks(rig.secteco)" title="&quot;푸틴, 유엔에 손가락 욕 한것&quot;…우크라 수도에 무슨일이">"푸틴, 유엔에 손가락 욕 한것"…우크라 수도에 무슨일이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크, 테슬라 지분 85억달러 매각..."더 안 판다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004828706?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004828706?sid=104"/>
-        <updated>2022-04-29T21:14:50.435Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004828706?sid=104" class="nclicks(rig.secteco)" title="머스크, 테슬라 지분 85억달러 매각...&quot;더 안 판다&quot;">머스크, 테슬라 지분 85억달러 매각..."더 안 판다"</a>]]></content>
+        <title type="html"><![CDATA[머스크 트위터 인수 선언 이후 테슬라 주가 19% 급락]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006062845?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006062845?sid=104"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006062845?sid=104" class="nclicks(rig.secteco)" title="머스크 트위터 인수 선언 이후 테슬라 주가 19% 급락">머스크 트위터 인수 선언 이후 테슬라 주가 19% 급락</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004739955?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101"/>
+        <updated>2022-04-29T22:16:20.869Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101" class="nclicks(rig.secteco)" title="&quot;정부 지원? 그정도 비용으로는…&quot; '토종백신' 개발 현장 한목소리">"정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[본점서 '600억대 횡령'…우리은행 내외부 회계통제 '마비']]></title>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003638065?sid=101" class="nclicks(rig.secteco)" title="본점서 '600억대 횡령'…우리은행 내외부 회계통제 '마비'">본점서 '600억대 횡령'…우리은행 내외부 회계통제 '마비'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[취재파일] '오르는' 가스요금, '오르게 될' 전기요금]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000970128?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000970128?sid=101"/>
-        <updated>2022-04-29T19:13:07.205Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000970128?sid=101" class="nclicks(rig.secteco)" title="[취재파일] '오르는' 가스요금, '오르게 될' 전기요금">[취재파일] '오르는' 가스요금, '오르게 될' 전기요금</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004739955?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101"/>
-        <updated>2022-04-29T22:16:20.869Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101" class="nclicks(rig.secteco)" title="&quot;정부 지원? 그정도 비용으로는…&quot; '토종백신' 개발 현장 한목소리">"정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리</a>]]></content>
+        <title type="html"><![CDATA[뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓마감]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013148152?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013148152?sid=101"/>
+        <updated>2022-04-29T23:16:08.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013148152?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓마감">뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓마감</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中·애플 사이서 빛난 삼성전자, GOS 논란 딛고 글로벌 시장서 1위 탈환]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691249?sid=105" class="nclicks(rig.secteco)" title="시티투어 정보 한눈에… 관광공사·카카오모빌리티 맞손">시티투어 정보 한눈에… 관광공사·카카오모빌리티 맞손</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['566일 만의 해방'…신구 권력 갈등에도 '마스크 벗긴 벗는다']]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002599547?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002599547?sid=102"/>
-        <updated>2022-04-29T22:16:20.873Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002599547?sid=102" class="nclicks(rig.secteco)" title="'566일 만의 해방'…신구 권력 갈등에도 '마스크 벗긴 벗는다'">'566일 만의 해방'…신구 권력 갈등에도 '마스크 벗긴 벗는다'</a>]]></content>
+        <title type="html"><![CDATA[불안·기대 교차하는 실외 '마스크 해제'… 인수위 "과학적 근거 불명확"]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003691295?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003691295?sid=102"/>
+        <updated>2022-04-29T23:16:08.487Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691295?sid=102" class="nclicks(rig.secteco)" title="불안·기대 교차하는 실외 '마스크 해제'… 인수위 &quot;과학적 근거 불명확&quot;">불안·기대 교차하는 실외 '마스크 해제'… 인수위 "과학적 근거 불명확"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘614억 횡령’ 우리은행 직원, 동생 사업에도 투자 후 손실]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001522675?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001522675?sid=102"/>
-        <updated>2022-04-29T22:16:20.874Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001522675?sid=102" class="nclicks(rig.secteco)" title="‘614억 횡령’ 우리은행 직원, 동생 사업에도 투자 후 손실">‘614억 횡령’ 우리은행 직원, 동생 사업에도 투자 후 손실</a>]]></content>
+        <title type="html"><![CDATA['614억 횡령' 동생도 공범‥"해외 사업 투자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001193695?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001193695?sid=102"/>
+        <updated>2022-04-29T23:16:08.487Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001193695?sid=102" class="nclicks(rig.secteco)" title="'614억 횡령' 동생도 공범‥&quot;해외 사업 투자&quot;">'614억 횡령' 동생도 공범‥"해외 사업 투자"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]검찰, 이은해·조현수 도피 조력자 체포]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006062451?sid=103" class="nclicks(rig.secteco)" title="[주말날씨] 토요일 구름 많고 일요일 전국 맑아…기온 20도 아래 선선">[주말날씨] 토요일 구름 많고 일요일 전국 맑아…기온 20도 아래 선선</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨]오늘 밤까지 동해안 비…주말에도 선선]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000226157?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000226157?sid=103"/>
-        <updated>2022-04-29T22:16:20.880Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000226157?sid=103" class="nclicks(rig.secteco)" title="[날씨]오늘 밤까지 동해안 비…주말에도 선선">[날씨]오늘 밤까지 동해안 비…주말에도 선선</a>]]></content>
+        <title type="html"><![CDATA[DDP서 전시 연 팀 버튼 "광장시장 부침개 못 잊어 돌아왔다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/310/0000096045?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/310/0000096045?sid=103"/>
+        <updated>2022-04-29T23:16:08.488Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000096045?sid=103" class="nclicks(rig.secteco)" title="DDP서 전시 연 팀 버튼 &quot;광장시장 부침개 못 잊어 돌아왔다&quot;">DDP서 전시 연 팀 버튼 "광장시장 부침개 못 잊어 돌아왔다"</a>]]></content>
     </entry>
 </feed>
