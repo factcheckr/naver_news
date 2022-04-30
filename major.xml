@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-04-30T04:23:30.342Z</updated>
+    <updated>2022-04-30T05:15:13.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[서울시장선거 대진표 확정…'4선 도전' 오세훈 대 송영길]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003638083?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003638083?sid=100"/>
-        <updated>2022-04-30T04:22:58.106Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003638083?sid=100" class="nclicks(rig.secteco)" title="서울시장선거 대진표 확정…'4선 도전' 오세훈 대 송영길">서울시장선거 대진표 확정…'4선 도전' 오세훈 대 송영길</a>]]></content>
+        <title type="html"><![CDATA["졌잘싸도 어렵다" 송영길 전략은…"吳 아닌 尹과 한판승부"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191513?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191513?sid=100"/>
+        <updated>2022-04-30T05:14:47.291Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191513?sid=100" class="nclicks(rig.secteco)" title="&quot;졌잘싸도 어렵다&quot; 송영길 전략은…&quot;吳 아닌 尹과 한판승부&quot;">"졌잘싸도 어렵다" 송영길 전략은…"吳 아닌 尹과 한판승부"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北 김정은, '핵 선제 사용' 거듭 시사..."적대세력 핵위협, 필요시 선제 제압"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001733453?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001733453?sid=100"/>
-        <updated>2022-04-30T04:22:58.106Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001733453?sid=100" class="nclicks(rig.secteco)" title="北 김정은, '핵 선제 사용' 거듭 시사...&quot;적대세력 핵위협, 필요시 선제 제압&quot;">北 김정은, '핵 선제 사용' 거듭 시사..."적대세력 핵위협, 필요시 선제 제압"</a>]]></content>
+        <title type="html"><![CDATA[김정은 “적대세력 핵위협, 필요시 선제 제압·분쇄”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003691335?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003691335?sid=100"/>
+        <updated>2022-04-30T05:14:47.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691335?sid=100" class="nclicks(rig.secteco)" title="김정은 “적대세력 핵위협, 필요시 선제 제압·분쇄”">김정은 “적대세력 핵위협, 필요시 선제 제압·분쇄”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 국회 본회의 ‘검찰청법’ 처리…사개특위도 갈등]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011258220?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011258220?sid=100"/>
-        <updated>2022-04-30T03:15:32.357Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011258220?sid=100" class="nclicks(rig.secteco)" title="오늘 국회 본회의 ‘검찰청법’ 처리…사개특위도 갈등">오늘 국회 본회의 ‘검찰청법’ 처리…사개특위도 갈등</a>]]></content>
+        <title type="html"><![CDATA[중수청 없는 검수완박?…민주 '사개특위 구성' 단독 의결]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000297367?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000297367?sid=100"/>
+        <updated>2022-04-30T05:14:47.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000297367?sid=100" class="nclicks(rig.secteco)" title="중수청 없는 검수완박?…민주 '사개특위 구성' 단독 의결">중수청 없는 검수완박?…민주 '사개특위 구성' 단독 의결</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['머스크 절친' 잭 도시, 트위터 인수 부추겼나…트위터 창업자이지만 쫓겨난 악연도]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005082391?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005082391?sid=104"/>
-        <updated>2022-04-30T04:22:58.109Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005082391?sid=104" class="nclicks(rig.secteco)" title="'머스크 절친' 잭 도시, 트위터 인수 부추겼나…트위터 창업자이지만 쫓겨난 악연도">'머스크 절친' 잭 도시, 트위터 인수 부추겼나…트위터 창업자이지만 쫓겨난 악연도</a>]]></content>
+        <title type="html"><![CDATA["머스크, 트위터 임원 급여 삭감 제시…새 수익 방안 비전도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011155703?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011155703?sid=104"/>
+        <updated>2022-04-30T05:14:47.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011155703?sid=104" class="nclicks(rig.secteco)" title="&quot;머스크, 트위터 임원 급여 삭감 제시…새 수익 방안 비전도&quot;">"머스크, 트위터 임원 급여 삭감 제시…새 수익 방안 비전도"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“푸틴이 유엔 사무총장에 가운뎃손가락 들어 보였다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005204402?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005204402?sid=104"/>
-        <updated>2022-04-30T01:23:50.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005204402?sid=104" class="nclicks(rig.secteco)" title="“푸틴이 유엔 사무총장에 가운뎃손가락 들어 보였다”">“푸틴이 유엔 사무총장에 가운뎃손가락 들어 보였다”</a>]]></content>
+        <title type="html"><![CDATA[러시아, 유엔 총장 방문한 키이우 겨냥해 미사일 발사 [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011153653?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011153653?sid=104"/>
+        <updated>2022-04-30T05:14:47.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011153653?sid=104" class="nclicks(rig.secteco)" title="러시아, 유엔 총장 방문한 키이우 겨냥해 미사일 발사 [뉴시스Pic]">러시아, 유엔 총장 방문한 키이우 겨냥해 미사일 발사 [뉴시스Pic]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어닝쇼크' 아마존 14%↓…나스닥 4%↓…월요일 국내증시 어쩌나]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004828785?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004828785?sid=101"/>
+        <updated>2022-04-30T05:14:47.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004828785?sid=101" class="nclicks(rig.secteco)" title="'어닝쇼크' 아마존 14%↓…나스닥 4%↓…월요일 국내증시 어쩌나">'어닝쇼크' 아마존 14%↓…나스닥 4%↓…월요일 국내증시 어쩌나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발윳값 소폭 상승…내일부터 유류세 인하 확대]]></title>
@@ -48,25 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000539938?sid=101" class="nclicks(rig.secteco)" title="휘발윳값 소폭 상승…내일부터 유류세 인하 확대">휘발윳값 소폭 상승…내일부터 유류세 인하 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000539937?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000539937?sid=101"/>
-        <updated>2022-04-30T04:22:58.117Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000539937?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓">뉴욕증시, 대형주 폭락에 급락…나스닥 4.17%↓</a>]]></content>
+        <title type="html"><![CDATA[집값 올라도 내려도 욕 먹는 정부…원희룡 후보자의 해법은? [김은정의 클릭 부동산]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004692689?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004692689?sid=101"/>
+        <updated>2022-04-30T05:14:47.296Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004692689?sid=101" class="nclicks(rig.secteco)" title="집값 올라도 내려도 욕 먹는 정부…원희룡 후보자의 해법은? [김은정의 클릭 부동산]">집값 올라도 내려도 욕 먹는 정부…원희룡 후보자의 해법은? [김은정의 클릭 부동산]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004739955?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101"/>
-        <updated>2022-04-29T22:16:20.869Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004739955?sid=101" class="nclicks(rig.secteco)" title="&quot;정부 지원? 그정도 비용으로는…&quot; '토종백신' 개발 현장 한목소리">"정부 지원? 그정도 비용으로는…" '토종백신' 개발 현장 한목소리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인수위 “5G 중간요금제 도입”에 시민단체 “즉각 출시”…통신사는 울상]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003269607?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003269607?sid=105"/>
-        <updated>2022-04-30T01:23:50.737Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269607?sid=105" class="nclicks(rig.secteco)" title="인수위 “5G 중간요금제 도입”에 시민단체 “즉각 출시”…통신사는 울상">인수위 “5G 중간요금제 도입”에 시민단체 “즉각 출시”…통신사는 울상</a>]]></content>
+        <title type="html"><![CDATA[5G 중간요금제 도입…통신사 걱정 시작됐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000007689?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000007689?sid=105"/>
+        <updated>2022-04-30T05:14:47.297Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000007689?sid=105" class="nclicks(rig.secteco)" title="5G 중간요금제 도입…통신사 걱정 시작됐다">5G 중간요금제 도입…통신사 걱정 시작됐다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中·애플 사이서 빛난 삼성전자, GOS 논란 딛고 글로벌 시장서 1위 탈환]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000669489?sid=105" class="nclicks(rig.secteco)" title="中·애플 사이서 빛난 삼성전자, GOS 논란 딛고 글로벌 시장서 1위 탈환">中·애플 사이서 빛난 삼성전자, GOS 논란 딛고 글로벌 시장서 1위 탈환</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거리두기 이어 실외마스크도 해제…시험대 오른 '자율방역']]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011155686?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011155686?sid=102"/>
-        <updated>2022-04-30T04:22:58.122Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011155686?sid=102" class="nclicks(rig.secteco)" title="거리두기 이어 실외마스크도 해제…시험대 오른 '자율방역'">거리두기 이어 실외마스크도 해제…시험대 오른 '자율방역'</a>]]></content>
+        <title type="html"><![CDATA['계곡살인' 이은해 도피생활 조력자 2명 구속영장·2명 피의자 입건]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001193726?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001193726?sid=102"/>
+        <updated>2022-04-30T05:14:47.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001193726?sid=102" class="nclicks(rig.secteco)" title="'계곡살인' 이은해 도피생활 조력자 2명 구속영장·2명 피의자 입건">'계곡살인' 이은해 도피생활 조력자 2명 구속영장·2명 피의자 입건</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이은해·조현수에 오피스텔·도피자금 댄 지인 2명…구속 갈림길]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003691318?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003691318?sid=102"/>
-        <updated>2022-04-30T03:15:32.368Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003691318?sid=102" class="nclicks(rig.secteco)" title="이은해·조현수에 오피스텔·도피자금 댄 지인 2명…구속 갈림길">이은해·조현수에 오피스텔·도피자금 댄 지인 2명…구속 갈림길</a>]]></content>
+        <title type="html"><![CDATA[[단독] ‘우리은행 직원 횡령 600억’ 회수될까…서울경찰청 몰수전담팀 투입]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0001984567?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0001984567?sid=102"/>
+        <updated>2022-04-30T05:14:47.302Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001984567?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘우리은행 직원 횡령 600억’ 회수될까…서울경찰청 몰수전담팀 투입">[단독] ‘우리은행 직원 횡령 600억’ 회수될까…서울경찰청 몰수전담팀 투입</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4만3286명 확진…위중증 67일만에 500명 밑으로(종합)]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011155079?sid=103" class="nclicks(rig.secteco)" title="내일 전국 곳곳서 비소식…낮 최고기온 20도">내일 전국 곳곳서 비소식…낮 최고기온 20도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DDP서 전시 연 팀 버튼 "광장시장 부침개 못 잊어 돌아왔다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/310/0000096045?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/310/0000096045?sid=103"/>
-        <updated>2022-04-30T04:22:58.132Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000096045?sid=103" class="nclicks(rig.secteco)" title="DDP서 전시 연 팀 버튼 &quot;광장시장 부침개 못 잊어 돌아왔다&quot;">DDP서 전시 연 팀 버튼 "광장시장 부침개 못 잊어 돌아왔다"</a>]]></content>
+        <title type="html"><![CDATA[종영 하루만에…애플 히트작 ‘파친코’, 시즌2 제작 확정]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0001985063?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0001985063?sid=103"/>
+        <updated>2022-04-30T05:14:47.316Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001985063?sid=103" class="nclicks(rig.secteco)" title="종영 하루만에…애플 히트작 ‘파친코’, 시즌2 제작 확정">종영 하루만에…애플 히트작 ‘파친코’, 시즌2 제작 확정</a>]]></content>
     </entry>
 </feed>
