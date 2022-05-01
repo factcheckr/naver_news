@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-01T03:41:46.134Z</updated>
+    <updated>2022-05-01T04:34:54.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤 당선인이 택한 새 대통령실 인사들은 누구?]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002351325?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002351325?sid=100"/>
-        <updated>2022-05-01T03:41:17.598Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002351325?sid=100" class="nclicks(rig.secteco)" title="윤 당선인이 택한 새 대통령실 인사들은 누구?">윤 당선인이 택한 새 대통령실 인사들은 누구?</a>]]></content>
+        <title type="html"><![CDATA[잠시후 대통령실 인선 발표…'2실장·5수석' 체제]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000540054?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000540054?sid=100"/>
+        <updated>2022-05-01T04:34:27.277Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000540054?sid=100" class="nclicks(rig.secteco)" title="잠시후 대통령실 인선 발표…'2실장·5수석' 체제">잠시후 대통령실 인선 발표…'2실장·5수석' 체제</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문 대통령 “5년 동안 노동 기본권 보장에 온 힘 기울여”]]></title>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002588857?sid=100" class="nclicks(rig.secteco)" title="문 대통령 “5년 동안 노동 기본권 보장에 온 힘 기울여”">문 대통령 “5년 동안 노동 기본권 보장에 온 힘 기울여”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘검수완박 찬성’ 정의당에…진중권 “징그러운 인간들”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001985201?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001985201?sid=100"/>
-        <updated>2022-05-01T03:41:17.599Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001985201?sid=100" class="nclicks(rig.secteco)" title="‘검수완박 찬성’ 정의당에…진중권 “징그러운 인간들”">‘검수완박 찬성’ 정의당에…진중권 “징그러운 인간들”</a>]]></content>
+        <title type="html"><![CDATA['10만 가구 추가 공급' 재건축 특별법 추진…1기 신도시 날개 다나]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004957664?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004957664?sid=100"/>
+        <updated>2022-05-01T04:34:27.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004957664?sid=100" class="nclicks(rig.secteco)" title="'10만 가구 추가 공급' 재건축 특별법 추진…1기 신도시 날개 다나">'10만 가구 추가 공급' 재건축 특별법 추진…1기 신도시 날개 다나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라 폭격 현장 나타난 안젤리나 졸리…아이들부터 안았다]]></title>
@@ -48,25 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191667?sid=101" class="nclicks(rig.secteco)" title="'쌍둥이 적자' 현실화 되나…고물가에 또 2개월 연속 무역적자">'쌍둥이 적자' 현실화 되나…고물가에 또 2개월 연속 무역적자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['좀비 세금' vs '착한 세금'‥20년 논쟁 언제까지?]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001193787?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001193787?sid=101"/>
-        <updated>2022-05-01T01:45:36.472Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001193787?sid=101" class="nclicks(rig.secteco)" title="'좀비 세금' vs '착한 세금'‥20년 논쟁 언제까지?">'좀비 세금' vs '착한 세금'‥20년 논쟁 언제까지?</a>]]></content>
+        <title type="html"><![CDATA[유류세 30% 인하…당장 싼 값에 기름 넣으려면? [취재파일]]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000970394?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000970394?sid=101"/>
+        <updated>2022-05-01T04:34:27.298Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000970394?sid=101" class="nclicks(rig.secteco)" title="유류세 30% 인하…당장 싼 값에 기름 넣으려면? [취재파일]">유류세 30% 인하…당장 싼 값에 기름 넣으려면? [취재파일]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스코홀딩스, 한전과 수소·암모니아 사업 협력…공동 기술개발]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002599781?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002599781?sid=101"/>
-        <updated>2022-05-01T03:41:17.605Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002599781?sid=101" class="nclicks(rig.secteco)" title="포스코홀딩스, 한전과 수소·암모니아 사업 협력…공동 기술개발">포스코홀딩스, 한전과 수소·암모니아 사업 협력…공동 기술개발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGU+, 군자녀 500명 '온라인 수업' 지원…"교육격차 해소"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006063917?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006063917?sid=105"/>
-        <updated>2022-05-01T01:45:36.475Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006063917?sid=105" class="nclicks(rig.secteco)" title="LGU+, 군자녀 500명 '온라인 수업' 지원…&quot;교육격차 해소&quot;">LGU+, 군자녀 500명 '온라인 수업' 지원…"교육격차 해소"</a>]]></content>
+        <title type="html"><![CDATA[`AI로 온라인 시험 부정 잡는다`..삼성이 지원하는 사내 벤처는?]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005204838?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005204838?sid=101"/>
+        <updated>2022-05-01T04:34:27.299Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005204838?sid=101" class="nclicks(rig.secteco)" title="`AI로 온라인 시험 부정 잡는다`..삼성이 지원하는 사내 벤처는?">`AI로 온라인 시험 부정 잡는다`..삼성이 지원하는 사내 벤처는?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방통위, 시·청각장애인용 TV 1만5000대 보급]]></title>
@@ -76,18 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004828953?sid=105" class="nclicks(rig.secteco)" title="방통위, 시·청각장애인용 TV 1만5000대 보급">방통위, 시·청각장애인용 TV 1만5000대 보급</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9호선 '지옥철' 노린 '검은 손'…출근길 지갑 또 털렸다[영상]]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004740139?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004740139?sid=102"/>
-        <updated>2022-05-01T03:41:17.611Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004740139?sid=102" class="nclicks(rig.secteco)" title="9호선 '지옥철' 노린 '검은 손'…출근길 지갑 또 털렸다[영상]">9호선 '지옥철' 노린 '검은 손'…출근길 지갑 또 털렸다[영상]</a>]]></content>
+        <title type="html"><![CDATA[LGU+, 군자녀 500명 '온라인 수업' 지원…"교육격차 해소"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006063917?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006063917?sid=105"/>
+        <updated>2022-05-01T01:45:36.475Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006063917?sid=105" class="nclicks(rig.secteco)" title="LGU+, 군자녀 500명 '온라인 수업' 지원…&quot;교육격차 해소&quot;">LGU+, 군자녀 500명 '온라인 수업' 지원…"교육격차 해소"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일부터 실외 마스크 벗는다…버스·지하철에선 착용]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003014021?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003014021?sid=102"/>
-        <updated>2022-05-01T03:41:17.611Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003014021?sid=102" class="nclicks(rig.secteco)" title="내일부터 실외 마스크 벗는다…버스·지하철에선 착용">내일부터 실외 마스크 벗는다…버스·지하철에선 착용</a>]]></content>
+        <title type="html"><![CDATA[“와~얼마만” “괜찮나” 2일부터 야외 마스크 해제 [싹.다.정]]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001522774?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001522774?sid=102"/>
+        <updated>2022-05-01T04:34:27.308Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001522774?sid=102" class="nclicks(rig.secteco)" title="“와~얼마만” “괜찮나” 2일부터 야외 마스크 해제 [싹.다.정]">“와~얼마만” “괜찮나” 2일부터 야외 마스크 해제 [싹.다.정]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女승객만 골라 소매치기…9호선 그놈, 잡고보니 지명수배자]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191671?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191671?sid=102"/>
+        <updated>2022-05-01T04:34:27.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191671?sid=102" class="nclicks(rig.secteco)" title="女승객만 골라 소매치기…9호선 그놈, 잡고보니 지명수배자">女승객만 골라 소매치기…9호선 그놈, 잡고보니 지명수배자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엿새만에 다시 3만명대 확진…사망 81명, 이틀째 두자릿수(종합)]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006063877?sid=102" class="nclicks(rig.secteco)" title="엿새만에 다시 3만명대 확진…사망 81명, 이틀째 두자릿수(종합)">엿새만에 다시 3만명대 확진…사망 81명, 이틀째 두자릿수(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["일본차 텃밭인데 현대차엔 호재"…인니 시장서 뜻밖의 한일전]]></title>
+        <title type="html"><![CDATA[인니 시장서 한일전…일본차 텃밭이지만 현대차엔 호재인 이유는]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004692903?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/015/0004692903?sid=103"/>
         <updated>2022-05-01T03:41:17.615Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004692903?sid=103" class="nclicks(rig.secteco)" title="&quot;일본차 텃밭인데 현대차엔 호재&quot;…인니 시장서 뜻밖의 한일전">"일본차 텃밭인데 현대차엔 호재"…인니 시장서 뜻밖의 한일전</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004692903?sid=103" class="nclicks(rig.secteco)" title="인니 시장서 한일전…일본차 텃밭이지만 현대차엔 호재인 이유는">인니 시장서 한일전…일본차 텃밭이지만 현대차엔 호재인 이유는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디올 패션쇼에 등장한 ‘이대 과잠’…패션계 거장도 입었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003269669?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003269669?sid=103"/>
-        <updated>2022-05-01T03:41:17.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269669?sid=103" class="nclicks(rig.secteco)" title="디올 패션쇼에 등장한 ‘이대 과잠’…패션계 거장도 입었다">디올 패션쇼에 등장한 ‘이대 과잠’…패션계 거장도 입었다</a>]]></content>
+        <title type="html"><![CDATA[디올 패션쇼에 깜짝 등장…'이대 과잠' 입은 여성의 정체]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004957662?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004957662?sid=103"/>
+        <updated>2022-05-01T04:34:27.313Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004957662?sid=103" class="nclicks(rig.secteco)" title="디올 패션쇼에 깜짝 등장…'이대 과잠' 입은 여성의 정체">디올 패션쇼에 깜짝 등장…'이대 과잠' 입은 여성의 정체</a>]]></content>
     </entry>
 </feed>
