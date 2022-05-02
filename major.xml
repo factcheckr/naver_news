@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-02T04:51:13.403Z</updated>
+    <updated>2022-05-02T05:29:49.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[전문]인수위 “포털, 가짜뉴스 숙주…편집권 폐지 검토”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005205612?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005205612?sid=100"/>
-        <updated>2022-05-02T03:53:29.847Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005205612?sid=100" class="nclicks(rig.secteco)" title="[전문]인수위 “포털, 가짜뉴스 숙주…편집권 폐지 검토”">[전문]인수위 “포털, 가짜뉴스 숙주…편집권 폐지 검토”</a>]]></content>
+        <title type="html"><![CDATA[인수위 “포털, 가짜뉴스 숙주 역할 못하게 검증…편집권 폐지 검토·아웃링크 도입 추진”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000810626?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000810626?sid=100"/>
+        <updated>2022-05-02T05:29:21.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000810626?sid=100" class="nclicks(rig.secteco)" title="인수위 “포털, 가짜뉴스 숙주 역할 못하게 검증…편집권 폐지 검토·아웃링크 도입 추진”">인수위 “포털, 가짜뉴스 숙주 역할 못하게 검증…편집권 폐지 검토·아웃링크 도입 추진”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["숲 위기=인간의 위기" 세계 최대 산림총회 참석한 문 대통령]]></title>
@@ -20,25 +20,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002351424?sid=100" class="nclicks(rig.secteco)" title="&quot;숲 위기=인간의 위기&quot; 세계 최대 산림총회 참석한 문 대통령">"숲 위기=인간의 위기" 세계 최대 산림총회 참석한 문 대통령</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文대통령 손으로 내일 '검수완박 공포' 끝낼듯…사면 결단도 임박]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006066247?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006066247?sid=100"/>
-        <updated>2022-05-02T03:53:29.848Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006066247?sid=100" class="nclicks(rig.secteco)" title="文대통령 손으로 내일 '검수완박 공포' 끝낼듯…사면 결단도 임박">文대통령 손으로 내일 '검수완박 공포' 끝낼듯…사면 결단도 임박</a>]]></content>
+        <title type="html"><![CDATA[박병석 만난 권성동 "사개특위 구성안 상정 말아달라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002732313?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002732313?sid=100"/>
+        <updated>2022-05-02T05:29:21.739Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002732313?sid=100" class="nclicks(rig.secteco)" title="박병석 만난 권성동 &quot;사개특위 구성안 상정 말아달라&quot;">박병석 만난 권성동 "사개특위 구성안 상정 말아달라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 전승절 승전 선언설 부인…"극초음속 미사일, 美 때문" 주장]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000038329?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000038329?sid=104"/>
-        <updated>2022-05-02T04:50:44.776Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000038329?sid=104" class="nclicks(rig.secteco)" title="러, 전승절 승전 선언설 부인…&quot;극초음속 미사일, 美 때문&quot; 주장">러, 전승절 승전 선언설 부인…"극초음속 미사일, 美 때문" 주장</a>]]></content>
+        <title type="html"><![CDATA[러 외무장관 "전승절 맞춘 인위적 군사행동 없다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000540178?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000540178?sid=104"/>
+        <updated>2022-05-02T05:29:21.740Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000540178?sid=104" class="nclicks(rig.secteco)" title="러 외무장관 &quot;전승절 맞춘 인위적 군사행동 없다&quot;">러 외무장관 "전승절 맞춘 인위적 군사행동 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“60세 은퇴·마크롱 퇴진” 프랑스 노동절 10만여명 거리로]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003269919?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003269919?sid=104"/>
-        <updated>2022-05-02T04:50:44.776Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003269919?sid=104" class="nclicks(rig.secteco)" title="“60세 은퇴·마크롱 퇴진” 프랑스 노동절 10만여명 거리로">“60세 은퇴·마크롱 퇴진” 프랑스 노동절 10만여명 거리로</a>]]></content>
+        <title type="html"><![CDATA[美하원의장 키이우 깜짝방문…'최후항전' 제철소선 민간인 대피]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013151471?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013151471?sid=104"/>
+        <updated>2022-05-02T05:29:21.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013151471?sid=104" class="nclicks(rig.secteco)" title="美하원의장 키이우 깜짝방문…'최후항전' 제철소선 민간인 대피">美하원의장 키이우 깜짝방문…'최후항전' 제철소선 민간인 대피</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포] 빌트인 가전의 ‘신세계’…삼성전자 ‘데이코 하우스’ 가 보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002123890?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002123890?sid=101"/>
+        <updated>2022-05-02T05:29:21.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002123890?sid=101" class="nclicks(rig.secteco)" title="[르포] 빌트인 가전의 ‘신세계’…삼성전자 ‘데이코 하우스’ 가 보니">[르포] 빌트인 가전의 ‘신세계’…삼성전자 ‘데이코 하우스’ 가 보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추경호 "금융투자소득세 2년 유예…종부세 부과 방식 논의"(종합)]]></title>
@@ -48,18 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011158717?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;금융투자소득세 2년 유예…종부세 부과 방식 논의&quot;(종합)">추경호 "금융투자소득세 2년 유예…종부세 부과 방식 논의"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 "불합리한 부동산 규제 풀어 시장 기능 회복할 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000146961?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000146961?sid=101"/>
-        <updated>2022-05-02T03:53:29.850Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000146961?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;불합리한 부동산 규제 풀어 시장 기능 회복할 것&quot;">원희룡 "불합리한 부동산 규제 풀어 시장 기능 회복할 것"</a>]]></content>
+        <title type="html"><![CDATA[원희룡 "집값 단기 하향안정이 목표…세금·공시가격 완화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013151709?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013151709?sid=101"/>
+        <updated>2022-05-02T05:29:21.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013151709?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;집값 단기 하향안정이 목표…세금·공시가격 완화&quot;">원희룡 "집값 단기 하향안정이 목표…세금·공시가격 완화"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Q&A]근로·자녀장려금 안내 못 받으면 어떻게 신청할 수 있나?]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011158857?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011158857?sid=101"/>
-        <updated>2022-05-02T04:50:44.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011158857?sid=101" class="nclicks(rig.secteco)" title="[Q&amp;A]근로·자녀장려금 안내 못 받으면 어떻게 신청할 수 있나?">[Q&amp;A]근로·자녀장려금 안내 못 받으면 어떻게 신청할 수 있나?</a>]]></content>
+        <title type="html"><![CDATA[봇물 터진 국내 5G 특화망 시장…국내외 장비제조사들 '들썩']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004740623?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004740623?sid=105"/>
+        <updated>2022-05-02T05:29:21.744Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004740623?sid=105" class="nclicks(rig.secteco)" title="봇물 터진 국내 5G 특화망 시장…국내외 장비제조사들 '들썩'">봇물 터진 국내 5G 특화망 시장…국내외 장비제조사들 '들썩'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LGU+, “통신장애에도 걱정 뚝”…소상공인 전용 상품 5종 출시(종합)]]></title>
@@ -69,45 +76,38 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006066245?sid=105" class="nclicks(rig.secteco)" title="LGU+, “통신장애에도 걱정 뚝”…소상공인 전용 상품 5종 출시(종합)">LGU+, “통신장애에도 걱정 뚝”…소상공인 전용 상품 5종 출시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK네트웍스서비스, 이음5G 3호 사업자 됐다...주파수 할당 신청]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003014339?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003014339?sid=105"/>
-        <updated>2022-05-02T04:50:44.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003014339?sid=105" class="nclicks(rig.secteco)" title="SK네트웍스서비스, 이음5G 3호 사업자 됐다...주파수 할당 신청">SK네트웍스서비스, 이음5G 3호 사업자 됐다...주파수 할당 신청</a>]]></content>
+        <title type="html"><![CDATA[[e글중심] 실외 노마스크 첫날 "길거리 대부분 착용" "어정쩡한 정책"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003191910?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003191910?sid=102"/>
+        <updated>2022-05-02T05:29:21.748Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003191910?sid=102" class="nclicks(rig.secteco)" title="[e글중심] 실외 노마스크 첫날 &quot;길거리 대부분 착용&quot; &quot;어정쩡한 정책&quot;">[e글중심] 실외 노마스크 첫날 "길거리 대부분 착용" "어정쩡한 정책"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실외 마스크 착용 의무 해제 첫날… "아직은 어색한 마스크 벗기" [뉴시스Pic]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011158886?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011158886?sid=102"/>
-        <updated>2022-05-02T04:50:44.783Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011158886?sid=102" class="nclicks(rig.secteco)" title="실외 마스크 착용 의무 해제 첫날… &quot;아직은 어색한 마스크 벗기&quot; [뉴시스Pic]">실외 마스크 착용 의무 해제 첫날… "아직은 어색한 마스크 벗기" [뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[경찰, '614억 횡령' 우리은행 본점 압수수색…내부 공모 가능성 본다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004740654?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004740654?sid=102"/>
+        <updated>2022-05-02T05:29:21.749Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004740654?sid=102" class="nclicks(rig.secteco)" title="경찰, '614억 횡령' 우리은행 본점 압수수색…내부 공모 가능성 본다">경찰, '614억 횡령' 우리은행 본점 압수수색…내부 공모 가능성 본다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰청장, 검수완박 檢반발에 “경찰 역할 의도적 축소 유감”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001985700?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001985700?sid=102"/>
-        <updated>2022-05-02T04:50:44.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001985700?sid=102" class="nclicks(rig.secteco)" title="경찰청장, 검수완박 檢반발에 “경찰 역할 의도적 축소 유감”">경찰청장, 검수완박 檢반발에 “경찰 역할 의도적 축소 유감”</a>]]></content>
+        <title type="html"><![CDATA[경찰청장 “경찰 역량 폄하, 상당히 유감” 검찰 공개 반박]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001523019?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001523019?sid=102"/>
+        <updated>2022-05-02T05:29:21.750Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001523019?sid=102" class="nclicks(rig.secteco)" title="경찰청장 “경찰 역량 폄하, 상당히 유감” 검찰 공개 반박">경찰청장 “경찰 역량 폄하, 상당히 유감” 검찰 공개 반박</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, '성남FC 의혹' 성남시청 압수수색(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003638558?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003638558?sid=102"/>
-        <updated>2022-05-02T04:50:44.785Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003638558?sid=102" class="nclicks(rig.secteco)" title="경찰, '성남FC 의혹' 성남시청 압수수색(종합)">경찰, '성남FC 의혹' 성남시청 압수수색(종합)</a>]]></content>
+        <title type="html"><![CDATA[민주당, 박보균 후보자 '친일 논란' 공세…"후안 무치" 비판]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005205786?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005205786?sid=103"/>
+        <updated>2022-05-02T05:29:21.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005205786?sid=103" class="nclicks(rig.secteco)" title="민주당, 박보균 후보자 '친일 논란' 공세…&quot;후안 무치&quot; 비판">민주당, 박보균 후보자 '친일 논란' 공세…"후안 무치" 비판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동학농민혁명 확산 시발점 ‘고창 무장기포지’, 사적 됐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001523014?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001523014?sid=103"/>
-        <updated>2022-05-02T04:50:44.786Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001523014?sid=103" class="nclicks(rig.secteco)" title="동학농민혁명 확산 시발점 ‘고창 무장기포지’, 사적 됐다">동학농민혁명 확산 시발점 ‘고창 무장기포지’, 사적 됐다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박보균 "일왕 생일파티, 초청장 없이 갔다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011158456?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011158456?sid=103"/>
-        <updated>2022-05-02T04:50:44.795Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011158456?sid=103" class="nclicks(rig.secteco)" title="박보균 &quot;일왕 생일파티, 초청장 없이 갔다&quot;">박보균 "일왕 생일파티, 초청장 없이 갔다"</a>]]></content>
+        <title type="html"><![CDATA[동학농민혁명 시발점 '고창 무장기포지'…국가지정문화재 사적 지정]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006066649?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006066649?sid=103"/>
+        <updated>2022-05-02T05:29:21.755Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006066649?sid=103" class="nclicks(rig.secteco)" title="동학농민혁명 시발점 '고창 무장기포지'…국가지정문화재 사적 지정">동학농민혁명 시발점 '고창 무장기포지'…국가지정문화재 사적 지정</a>]]></content>
     </entry>
 </feed>
