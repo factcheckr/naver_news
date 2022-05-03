@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T17:26:29.292Z</updated>
+    <updated>2022-05-03T18:19:44.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퇴임 6일 앞두고…문 대통령, 국무회의 시간까지 바꿔 검수완박 '마침표' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002600745?sid=100" class="nclicks(rig.secteco)" title="김인철 사퇴에 흔들리는 '윤석열 공정'…고심 깊어질 듯">김인철 사퇴에 흔들리는 '윤석열 공정'…고심 깊어질 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정호영 청문회 파행…민주 "의미없다" vs 국힘 "유감" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002600749?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002600749?sid=100"/>
-        <updated>2022-05-03T17:26:01.396Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002600749?sid=100" class="nclicks(rig.secteco)" title="정호영 청문회 파행…민주 &quot;의미없다&quot; vs 국힘 &quot;유감&quot;">정호영 청문회 파행…민주 "의미없다" vs 국힘 "유감"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴 "비우호국에 러 원자재 수출금지"…보복제재 서명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005207217?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005207217?sid=104"/>
-        <updated>2022-05-03T17:26:01.400Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005207217?sid=104" class="nclicks(rig.secteco)" title="푸틴 &quot;비우호국에 러 원자재 수출금지&quot;…보복제재 서명">푸틴 "비우호국에 러 원자재 수출금지"…보복제재 서명</a>]]></content>
+        <title type="html"><![CDATA[민주 “정호영 자녀 입시 수사를” 퇴장… 鄭 “의혹 밝힐것” 사퇴 거부 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426361?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426361?sid=100"/>
+        <updated>2022-05-03T18:19:17.091Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426361?sid=100" class="nclicks(rig.secteco)" title="민주 “정호영 자녀 입시 수사를” 퇴장… 鄭 “의혹 밝힐것” 사퇴 거부">민주 “정호영 자녀 입시 수사를” 퇴장… 鄭 “의혹 밝힐것” 사퇴 거부</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든 “낙태권 보장 판결 뒤집혀선 안 돼”… 사법부 비판 이례적 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,18 +33,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000673139?sid=104" class="nclicks(rig.secteco)" title="바이든 “낙태권 보장 판결 뒤집혀선 안 돼”… 사법부 비판 이례적">바이든 “낙태권 보장 판결 뒤집혀선 안 돼”… 사법부 비판 이례적</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용의 북한산 정상 담판…삼성전자 1조원 수주 '대박' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005207211?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005207211?sid=101"/>
-        <updated>2022-05-03T17:26:01.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005207211?sid=101" class="nclicks(rig.secteco)" title="이재용의 북한산 정상 담판…삼성전자 1조원 수주 '대박'">이재용의 북한산 정상 담판…삼성전자 1조원 수주 '대박'</a>]]></content>
+        <title type="html"><![CDATA[푸틴 “러 제재 동참국에 상품-원자재 수출 금지”… 보복제재 서명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426428?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426428?sid=104"/>
+        <updated>2022-05-03T18:19:17.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426428?sid=104" class="nclicks(rig.secteco)" title="푸틴 “러 제재 동참국에 상품-원자재 수출 금지”… 보복제재 서명">푸틴 “러 제재 동참국에 상품-원자재 수출 금지”… 보복제재 서명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[162개월만에 5%대 육박한 소비자물가…금융위기 수준 다다랐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003192205?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003192205?sid=101"/>
-        <updated>2022-05-03T15:17:33.896Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192205?sid=101" class="nclicks(rig.secteco)" title="162개월만에 5%대 육박한 소비자물가…금융위기 수준 다다랐다">162개월만에 5%대 육박한 소비자물가…금융위기 수준 다다랐다</a>]]></content>
+        <title type="html"><![CDATA[삼성전자 5G 장비, 美서 1조원대 수주 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426455?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426455?sid=101"/>
+        <updated>2022-05-03T18:19:17.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426455?sid=101" class="nclicks(rig.secteco)" title="삼성전자 5G 장비, 美서 1조원대 수주">삼성전자 5G 장비, 美서 1조원대 수주</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물가 5% 가까이 껑충… 13년반 만에 최대폭 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426367?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426367?sid=101"/>
+        <updated>2022-05-03T18:19:17.102Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426367?sid=101" class="nclicks(rig.secteco)" title="물가 5% 가까이 껑충… 13년반 만에 최대폭">물가 5% 가까이 껑충… 13년반 만에 최대폭</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[尹 국정과제]원전최강국·코로나회복·산업경쟁력…尹 "함께 잘 사는 나라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192290?sid=102" class="nclicks(rig.secteco)" title="'오미크론 항체' 쓸모없다…美 전역 번지는 새 변이 경고음">'오미크론 항체' 쓸모없다…美 전역 번지는 새 변이 경고음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대검 "적법절차 준수되지 않아 참담...법적 수단 검토" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001734869?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001734869?sid=102"/>
-        <updated>2022-05-03T17:26:01.411Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001734869?sid=102" class="nclicks(rig.secteco)" title="대검 &quot;적법절차 준수되지 않아 참담...법적 수단 검토&quot;">대검 "적법절차 준수되지 않아 참담...법적 수단 검토"</a>]]></content>
+        <title type="html"><![CDATA[대검 “검수완박, 법절차 위반” 소송 예고… 고위간부 항의성 사퇴도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426372?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426372?sid=102"/>
+        <updated>2022-05-03T18:19:17.106Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426372?sid=102" class="nclicks(rig.secteco)" title="대검 “검수완박, 법절차 위반” 소송 예고… 고위간부 항의성 사퇴도">대검 “검수완박, 법절차 위반” 소송 예고… 고위간부 항의성 사퇴도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사과 못받고 떠난 안은주씨…‘그 살균제’ 1774번째 죽음 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
