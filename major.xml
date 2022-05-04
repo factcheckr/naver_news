@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-04T13:36:51.143Z</updated>
+    <updated>2022-05-04T14:16:11.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001735294?sid=100" class="nclicks(rig.secteco)" title="尹 취임 코앞에 두고...北 올해 14번째 미사일 발사">尹 취임 코앞에 두고...北 올해 14번째 미사일 발사</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주당, ‘검수완박’ 항의 김기현·배현진 징계안 제출…국민의힘 “국민께 사죄부터”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000811406?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000811406?sid=100"/>
+        <updated>2022-05-04T14:15:43.625Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000811406?sid=100" class="nclicks(rig.secteco)" title="민주당, ‘검수완박’ 항의 김기현·배현진 징계안 제출…국민의힘 “국민께 사죄부터”">민주당, ‘검수완박’ 항의 김기현·배현진 징계안 제출…국민의힘 “국민께 사죄부터”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[문 대통령 "윤석열 정부, 우리 성과 전면적 부정... 비교될 것"]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002351821?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002351821?sid=100"/>
@@ -20,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002351821?sid=100" class="nclicks(rig.secteco)" title="문 대통령 &quot;윤석열 정부, 우리 성과 전면적 부정... 비교될 것&quot;">문 대통령 "윤석열 정부, 우리 성과 전면적 부정... 비교될 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["'성희롱' 최강욱도 아니고"…민주 징계 요구에 김기현 반응]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003192617?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003192617?sid=100"/>
-        <updated>2022-05-04T12:31:59.650Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192617?sid=100" class="nclicks(rig.secteco)" title="&quot;'성희롱' 최강욱도 아니고&quot;…민주 징계 요구에 김기현 반응">"'성희롱' 최강욱도 아니고"…민주 징계 요구에 김기현 반응</a>]]></content>
+        <title type="html"><![CDATA[‘낙태권 폐지’ 판결문 유출에 美 들썩… 바이든 “판결 뒤집혀선 안돼”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003689460?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003689460?sid=104"/>
+        <updated>2022-05-04T14:15:43.628Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003689460?sid=104" class="nclicks(rig.secteco)" title="‘낙태권 폐지’ 판결문 유출에 美 들썩… 바이든 “판결 뒤집혀선 안돼”">‘낙태권 폐지’ 판결문 유출에 美 들썩… 바이든 “판결 뒤집혀선 안돼”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['낙태권 폐지' 판결문 유출에, 미 들썩…바이든도 나섰다]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000971226?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000971226?sid=104"/>
-        <updated>2022-05-04T13:36:23.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000971226?sid=104" class="nclicks(rig.secteco)" title="'낙태권 폐지' 판결문 유출에, 미 들썩…바이든도 나섰다">'낙태권 폐지' 판결문 유출에, 미 들썩…바이든도 나섰다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러, 전승절 전면전 선포설에 “말도 안 돼”…“교황·푸틴 회동은 미합의”(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003270738?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003270738?sid=104"/>
-        <updated>2022-05-04T13:36:23.790Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003270738?sid=104" class="nclicks(rig.secteco)" title="러, 전승절 전면전 선포설에 “말도 안 돼”…“교황·푸틴 회동은 미합의”(종합)">러, 전승절 전면전 선포설에 “말도 안 돼”…“교황·푸틴 회동은 미합의”(종합)</a>]]></content>
+        <title type="html"><![CDATA[러 "교황·푸틴 회담 합의 없어"…전면전 선포설에 "황당"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005208024?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005208024?sid=104"/>
+        <updated>2022-05-04T14:15:43.629Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005208024?sid=104" class="nclicks(rig.secteco)" title="러 &quot;교황·푸틴 회담 합의 없어&quot;…전면전 선포설에 &quot;황당&quot;">러 "교황·푸틴 회담 합의 없어"…전면전 선포설에 "황당"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘붕괴’ 광주 화정아이파크, 8개동 모두 철거 후 재시공]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003144900?sid=101" class="nclicks(rig.secteco)" title="‘붕괴’ 광주 화정아이파크, 8개동 모두 철거 후 재시공">‘붕괴’ 광주 화정아이파크, 8개동 모두 철거 후 재시공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[떠나는 홍남기 "부동산 안정 못해 아쉬워"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004831429?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004831429?sid=101"/>
-        <updated>2022-05-04T13:36:23.791Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004831429?sid=101" class="nclicks(rig.secteco)" title="떠나는 홍남기 &quot;부동산 안정 못해 아쉬워&quot;">떠나는 홍남기 "부동산 안정 못해 아쉬워"</a>]]></content>
+        <title type="html"><![CDATA[떠나는 홍남기 "경제운영 공과, 충분한 평가 이뤄지지 못해"]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003692732?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003692732?sid=101"/>
+        <updated>2022-05-04T14:15:43.633Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003692732?sid=101" class="nclicks(rig.secteco)" title="떠나는 홍남기 &quot;경제운영 공과, 충분한 평가 이뤄지지 못해&quot;">떠나는 홍남기 "경제운영 공과, 충분한 평가 이뤄지지 못해"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한항공 또 날았다…1분기 영업익 7800억원 역대 최대]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003270744?sid=105" class="nclicks(rig.secteco)" title="네이버, 7월부터 전면 자율근무제… ‘워케이션’도 허용">네이버, 7월부터 전면 자율근무제… ‘워케이션’도 허용</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인건비 상승에 비대면 수혜 ‘끝’?… 카카오도 실적 ‘주춤’]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003692724?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003692724?sid=105"/>
-        <updated>2022-05-04T13:36:23.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003692724?sid=105" class="nclicks(rig.secteco)" title="인건비 상승에 비대면 수혜 ‘끝’?… 카카오도 실적 ‘주춤’">인건비 상승에 비대면 수혜 ‘끝’?… 카카오도 실적 ‘주춤’</a>]]></content>
+        <title type="html"><![CDATA[카카오, 너마저…시장 눈높이 못 맞춘 올해 1분기 ‘성적표’]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003144929?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003144929?sid=105"/>
+        <updated>2022-05-04T14:15:43.640Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003144929?sid=105" class="nclicks(rig.secteco)" title="카카오, 너마저…시장 눈높이 못 맞춘 올해 1분기 ‘성적표’">카카오, 너마저…시장 눈높이 못 맞춘 올해 1분기 ‘성적표’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이진동 "고발사주 사건, 검찰의 총선개입 규정한 건 전무후무"]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000113037?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000113037?sid=102"/>
-        <updated>2022-05-04T12:31:59.663Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000113037?sid=102" class="nclicks(rig.secteco)" title="이진동 &quot;고발사주 사건, 검찰의 총선개입 규정한 건 전무후무&quot;">이진동 "고발사주 사건, 검찰의 총선개입 규정한 건 전무후무"</a>]]></content>
+        <title type="html"><![CDATA[공수처, '고발사주' 손준성만 기소...윤석열·한동훈 무혐의]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001735307?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001735307?sid=102"/>
+        <updated>2022-05-04T14:15:43.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001735307?sid=102" class="nclicks(rig.secteco)" title="공수처, '고발사주' 손준성만 기소...윤석열·한동훈 무혐의">공수처, '고발사주' 손준성만 기소...윤석열·한동훈 무혐의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 검찰, 이은해의 남편 다이빙 강요 구체적 정황 포착]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001194536?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰, 이은해의 남편 다이빙 강요 구체적 정황 포착">[단독] 검찰, 이은해의 남편 다이빙 강요 구체적 정황 포착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈, 딸 대학 진학 스펙 위한 기부 의혹에 ‘법적 대응’ 시사]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003692721?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003692721?sid=102"/>
-        <updated>2022-05-04T13:36:23.804Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003692721?sid=102" class="nclicks(rig.secteco)" title="한동훈, 딸 대학 진학 스펙 위한 기부 의혹에 ‘법적 대응’ 시사">한동훈, 딸 대학 진학 스펙 위한 기부 의혹에 ‘법적 대응’ 시사</a>]]></content>
+        <title type="html"><![CDATA[[단독] 한동훈 딸도 ‘부모 찬스’로 대학진학용 ‘기부 스펙’ 의혹]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002589281?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002589281?sid=102"/>
+        <updated>2022-05-04T14:15:43.644Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002589281?sid=102" class="nclicks(rig.secteco)" title="[단독] 한동훈 딸도 ‘부모 찬스’로 대학진학용 ‘기부 스펙’ 의혹">[단독] 한동훈 딸도 ‘부모 찬스’로 대학진학용 ‘기부 스펙’ 의혹</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[백브리핑] 'BTS 병역특례' 총대 멘 장관? "20대 청년들에 호소"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000297866?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000297866?sid=103"/>
-        <updated>2022-05-04T13:36:23.804Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000297866?sid=103" class="nclicks(rig.secteco)" title="[백브리핑] 'BTS 병역특례' 총대 멘 장관? &quot;20대 청년들에 호소&quot;">[백브리핑] 'BTS 병역특례' 총대 멘 장관? "20대 청년들에 호소"</a>]]></content>
+        <title type="html"><![CDATA[‘BTS 병역 특례’ 총대 멘 황희 장관… “20대 청년들 양해해달라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003692557?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003692557?sid=103"/>
+        <updated>2022-05-04T14:15:43.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003692557?sid=103" class="nclicks(rig.secteco)" title="‘BTS 병역 특례’ 총대 멘 황희 장관… “20대 청년들 양해해달라”">‘BTS 병역 특례’ 총대 멘 황희 장관… “20대 청년들 양해해달라”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맑고 포근, 미세먼지도 적은 어린이날…나들이하기 좋은 날씨]]></title>
