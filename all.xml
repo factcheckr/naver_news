@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-05T21:15:16.205Z</updated>
+    <updated>2022-05-05T22:18:40.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[공직기강비서관에 ‘간첩조작’ 검사 출신…대통령실 슬림화는 퇴색 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003270977?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003270977?sid=100"/>
-        <updated>2022-05-05T20:17:02.156Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003270977?sid=100" class="nclicks(rig.secteco)" title="공직기강비서관에 ‘간첩조작’ 검사 출신…대통령실 슬림화는 퇴색">공직기강비서관에 ‘간첩조작’ 검사 출신…대통령실 슬림화는 퇴색</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 안철수, 분당갑 출마한다…'국민의힘' 간판 달고 첫 선거 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003192780?sid=100</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192780?sid=100" class="nclicks(rig.secteco)" title="[단독] 안철수, 분당갑 출마한다…'국민의힘' 간판 달고 첫 선거">[단독] 안철수, 분당갑 출마한다…'국민의힘' 간판 달고 첫 선거</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 한동훈 장녀 서울시장상·인천시장상 수상?‥시에선 "준 적 없다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001194522?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001194522?sid=100"/>
-        <updated>2022-05-05T21:14:47.404Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001194522?sid=100" class="nclicks(rig.secteco)" title="[단독] 한동훈 장녀 서울시장상·인천시장상 수상?‥시에선 &quot;준 적 없다&quot;">[단독] 한동훈 장녀 서울시장상·인천시장상 수상?‥시에선 "준 적 없다"</a>]]></content>
+        <title type="html"><![CDATA[부활한 정책조정기획관에 장성민…비서실장실은 검사, 경제수석실은 늘공 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003192810?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003192810?sid=100"/>
+        <updated>2022-05-05T22:18:05.264Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192810?sid=100" class="nclicks(rig.secteco)" title="부활한 정책조정기획관에 장성민…비서실장실은 검사, 경제수석실은 늘공">부활한 정책조정기획관에 장성민…비서실장실은 검사, 경제수석실은 늘공</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 계양을 보궐 출마선언 임박?..마음 굳힌 듯 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/660/0000007796?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/660/0000007796?sid=100"/>
+        <updated>2022-05-05T22:18:05.265Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000007796?sid=100" class="nclicks(rig.secteco)" title="이재명 계양을 보궐 출마선언 임박?..마음 굳힌 듯">이재명 계양을 보궐 출마선언 임박?..마음 굳힌 듯</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美금리 '최대폭' 인상에도 증시급등..."파월 쌩유"[뉴욕마감] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004742099?sid=104" class="nclicks(rig.secteco)" title="美금리 '최대폭' 인상에도 증시급등...&quot;파월 쌩유&quot;[뉴욕마감]">美금리 '최대폭' 인상에도 증시급등..."파월 쌩유"[뉴욕마감]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영국 기준금리 1%로 인상…13년 만에 최고 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001987182?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001987182?sid=104"/>
-        <updated>2022-05-05T21:14:47.406Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001987182?sid=104" class="nclicks(rig.secteco)" title="영국 기준금리 1%로 인상…13년 만에 최고">영국 기준금리 1%로 인상…13년 만에 최고</a>]]></content>
+        <title type="html"><![CDATA[美상원, 주한美대사 지명자 만장일치 인준…조만간 부임 예상(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013160168?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013160168?sid=104"/>
+        <updated>2022-05-05T22:18:05.266Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013160168?sid=104" class="nclicks(rig.secteco)" title="美상원, 주한美대사 지명자 만장일치 인준…조만간 부임 예상(종합)">美상원, 주한美대사 지명자 만장일치 인준…조만간 부임 예상(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,25 +47,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003693071?sid=101" class="nclicks(rig.secteco)" title="美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은">美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중대재해법 겨우 100일인데…벌써 군불 때는 개정 논란 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003639929?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003639929?sid=101"/>
-        <updated>2022-05-05T21:14:47.407Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003639929?sid=101" class="nclicks(rig.secteco)" title="중대재해법 겨우 100일인데…벌써 군불 때는 개정 논란">중대재해법 겨우 100일인데…벌써 군불 때는 개정 논란</a>]]></content>
+        <title type="html"><![CDATA[뉴욕증시, 급등 하루만에 폭락...공포지수는 폭등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004831742?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004831742?sid=101"/>
+        <updated>2022-05-05T22:18:05.270Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004831742?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 급등 하루만에 폭락...공포지수는 폭등">뉴욕증시, 급등 하루만에 폭락...공포지수는 폭등</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글로벌 시장에 악재 수두룩…대기업, 잇달아 ‘사장단 소집령’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003192786?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003192786?sid=101"/>
-        <updated>2022-05-05T20:17:02.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003192786?sid=101" class="nclicks(rig.secteco)" title="글로벌 시장에 악재 수두룩…대기업, 잇달아 ‘사장단 소집령’">글로벌 시장에 악재 수두룩…대기업, 잇달아 ‘사장단 소집령’</a>]]></content>
+        <title type="html"><![CDATA[억만장자, 실리콘밸리 양대 VC, 사우디 왕자, 국부펀드가 머스크 지원 나섰다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003689767?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003689767?sid=101"/>
+        <updated>2022-05-05T22:18:05.271Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003689767?sid=101" class="nclicks(rig.secteco)" title="억만장자, 실리콘밸리 양대 VC, 사우디 왕자, 국부펀드가 머스크 지원 나섰다">억만장자, 실리콘밸리 양대 VC, 사우디 왕자, 국부펀드가 머스크 지원 나섰다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중이온가속기, 미국은 가동 시작하는데… 한국은 10년째 ‘준비 중’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003426771?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003426771?sid=105"/>
-        <updated>2022-05-05T21:14:47.410Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426771?sid=105" class="nclicks(rig.secteco)" title="중이온가속기, 미국은 가동 시작하는데… 한국은 10년째 ‘준비 중’">중이온가속기, 미국은 가동 시작하는데… 한국은 10년째 ‘준비 중’</a>]]></content>
+        <title type="html"><![CDATA[[과학게시판] 가속기 인력양성사업 주관에 고려대·포스텍 주도 2개 연합체 선정 外 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/584/0000018859?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/584/0000018859?sid=105"/>
+        <updated>2022-05-05T22:18:05.275Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/584/0000018859?sid=105" class="nclicks(rig.secteco)" title="[과학게시판] 가속기 인력양성사업 주관에 고려대·포스텍 주도 2개 연합체 선정 外">[과학게시판] 가속기 인력양성사업 주관에 고려대·포스텍 주도 2개 연합체 선정 外</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘1인 가족시대’… 우리는 AI·로봇과 동행할 준비가 됐을까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002124106?sid=105" class="nclicks(rig.secteco)" title="‘1인 가족시대’… 우리는 AI·로봇과 동행할 준비가 됐을까">‘1인 가족시대’… 우리는 AI·로봇과 동행할 준비가 됐을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화배우 강수연, 심정지 상태로 병원 이송… 의식 못 찾아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003270987?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003270987?sid=102"/>
-        <updated>2022-05-05T21:14:47.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003270987?sid=102" class="nclicks(rig.secteco)" title="영화배우 강수연, 심정지 상태로 병원 이송… 의식 못 찾아">영화배우 강수연, 심정지 상태로 병원 이송… 의식 못 찾아</a>]]></content>
+        <title type="html"><![CDATA[배우 강수연, 심정지 상태로 병원 이송 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001194744?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001194744?sid=102"/>
+        <updated>2022-05-05T22:18:05.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001194744?sid=102" class="nclicks(rig.secteco)" title="배우 강수연, 심정지 상태로 병원 이송">배우 강수연, 심정지 상태로 병원 이송</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]서울시, "심야택시 대란, 카카오앱 골라태우기 탓" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005208086?sid=102" class="nclicks(rig.secteco)" title="[단독]서울시, &quot;심야택시 대란, 카카오앱 골라태우기 탓&quot;">[단독]서울시, "심야택시 대란, 카카오앱 골라태우기 탓"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[춘천 레고랜드 오픈 첫날 ‘장사진’… 골목상권 활성화는 ‘글쎄’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003270990?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003270990?sid=102"/>
-        <updated>2022-05-05T20:17:02.172Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003270990?sid=102" class="nclicks(rig.secteco)" title="춘천 레고랜드 오픈 첫날 ‘장사진’… 골목상권 활성화는 ‘글쎄’">춘천 레고랜드 오픈 첫날 ‘장사진’… 골목상권 활성화는 ‘글쎄’</a>]]></content>
+        <title type="html"><![CDATA[구미 국가산단 공장 화재 12시간 만에 초진…인명피해 없어 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003639934?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003639934?sid=102"/>
+        <updated>2022-05-05T22:18:05.290Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003639934?sid=102" class="nclicks(rig.secteco)" title="구미 국가산단 공장 화재 12시간 만에 초진…인명피해 없어">구미 국가산단 공장 화재 12시간 만에 초진…인명피해 없어</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한예슬, 美 협곡 밟고 올라타 ‘찰칵’…여행 인증샷 뭇매 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
