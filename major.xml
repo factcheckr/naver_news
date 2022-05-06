@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-06T21:15:07.223Z</updated>
+    <updated>2022-05-06T22:16:17.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000673683?sid=100" class="nclicks(rig.secteco)" title="&quot;수도권 승리 몸 던지겠다&quot;... 인수위 끝나자 원내 입성 두드리는 안철수">"수도권 승리 몸 던지겠다"... 인수위 끝나자 원내 입성 두드리는 안철수</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['이회창식 복귀' 택한 이재명…지선 결과, '李 운명' 좌우]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011169030?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011169030?sid=100"/>
+        <updated>2022-05-06T22:15:46.526Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169030?sid=100" class="nclicks(rig.secteco)" title="'이회창식 복귀' 택한 이재명…지선 결과, '李 운명' 좌우">'이회창식 복귀' 택한 이재명…지선 결과, '李 운명' 좌우</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['사실상 靑수석' 복두규...檢수사관때부터 "입이 정말 무겁다"]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003193067?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003193067?sid=100"/>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193067?sid=100" class="nclicks(rig.secteco)" title="'사실상 靑수석' 복두규...檢수사관때부터 &quot;입이 정말 무겁다&quot;">'사실상 靑수석' 복두규...檢수사관때부터 "입이 정말 무겁다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈·한덕수 두고 여야 신경전 최고조…尹측 “총리는 한덕수 한 명”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003271187?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003271187?sid=100"/>
-        <updated>2022-05-06T21:14:35.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271187?sid=100" class="nclicks(rig.secteco)" title="한동훈·한덕수 두고 여야 신경전 최고조…尹측 “총리는 한덕수 한 명”">한동훈·한덕수 두고 여야 신경전 최고조…尹측 “총리는 한덕수 한 명”</a>]]></content>
+        <title type="html"><![CDATA[[단독]“北 ‘핵탄두 소형화’ 완성…20일 바이든 방한 직전, 풍계리서 7차 핵실험 할듯”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426755?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426755?sid=104"/>
+        <updated>2022-05-06T22:15:46.535Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426755?sid=104" class="nclicks(rig.secteco)" title="[단독]“北 ‘핵탄두 소형화’ 완성…20일 바이든 방한 직전, 풍계리서 7차 핵실험 할듯”">[단독]“北 ‘핵탄두 소형화’ 완성…20일 바이든 방한 직전, 풍계리서 7차 핵실험 할듯”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中, 코로나 확산에 9월 항저우 아시안게임 연기]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426992?sid=104" class="nclicks(rig.secteco)" title="中, 코로나 확산에 9월 항저우 아시안게임 연기">中, 코로나 확산에 9월 항저우 아시안게임 연기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 침공 72일…러 공격에도 아조우 민간인 대피 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011168999?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011168999?sid=104"/>
-        <updated>2022-05-06T21:14:35.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011168999?sid=104" class="nclicks(rig.secteco)" title="우크라 침공 72일…러 공격에도 아조우 민간인 대피 계속">우크라 침공 72일…러 공격에도 아조우 민간인 대피 계속</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 美연준 빅스텝 첫 희생양…SK쉴더스 상장 연기]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004050611?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/011/0004050611?sid=101"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004050611?sid=101" class="nclicks(rig.secteco)" title="[단독] 美연준 빅스텝 첫 희생양…SK쉴더스 상장 연기">[단독] 美연준 빅스텝 첫 희생양…SK쉴더스 상장 연기</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뉴욕증시, 4월 고용보고서에 하락 마감…나스닥 1.4%↓]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004960510?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004960510?sid=101"/>
+        <updated>2022-05-06T22:15:46.537Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004960510?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 4월 고용보고서에 하락 마감…나스닥 1.4%↓">뉴욕증시, 4월 고용보고서에 하락 마감…나스닥 1.4%↓</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정황근, CPTPP 농업계 피해 우려…사외이사·부재지주 논란 정면 돌파(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011168636?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011168636?sid=101"/>
         <updated>2022-05-06T20:17:15.685Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011168636?sid=101" class="nclicks(rig.secteco)" title="정황근, CPTPP 농업계 피해 우려…사외이사·부재지주 논란 정면 돌파(종합)">정황근, CPTPP 농업계 피해 우려…사외이사·부재지주 논란 정면 돌파(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003693071?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003693071?sid=101"/>
-        <updated>2022-05-06T20:17:15.686Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003693071?sid=101" class="nclicks(rig.secteco)" title="美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은">美 추가 ‘빅스텝’ 예고에 금리 역전 가능성… ‘인상 폭’ 압박에 고심 깊은 한은</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플·구글·MS "암호없는 로그인 기술 표준 지원 확대"]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006076376?sid=105" class="nclicks(rig.secteco)" title="HBO맥스에 파라마운트까지 온다…글로벌 짝짓기로 살 길 찾는 토종 OTT">HBO맥스에 파라마운트까지 온다…글로벌 짝짓기로 살 길 찾는 토종 OTT</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]100억대 '수표 한장'으로 빼돌렸다…은행 직원 간 큰 횡령]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003193040?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003193040?sid=102"/>
-        <updated>2022-05-06T14:15:38.596Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193040?sid=102" class="nclicks(rig.secteco)" title="[단독]100억대 '수표 한장'으로 빼돌렸다…은행 직원 간 큰 횡령">[단독]100억대 '수표 한장'으로 빼돌렸다…은행 직원 간 큰 횡령</a>]]></content>
+        <title type="html"><![CDATA[내부 조력자 있었다…우리은행 사라진 614억은 어디에[사사건건]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005209450?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005209450?sid=102"/>
+        <updated>2022-05-06T22:15:46.541Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005209450?sid=102" class="nclicks(rig.secteco)" title="내부 조력자 있었다…우리은행 사라진 614억은 어디에[사사건건]">내부 조력자 있었다…우리은행 사라진 614억은 어디에[사사건건]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[檢 "임은정, 한명숙 사건 비밀 누설 혐의" 공수처에 사건 이첩]]></title>
