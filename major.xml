@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-06T09:17:09.797Z</updated>
+    <updated>2022-05-06T10:18:39.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,32 +20,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006076067?sid=100" class="nclicks(rig.secteco)" title="尹 대통령실 '검찰·늘공'으로 채웠다…실용주의냐, 인맥꽂기냐 '분분'">尹 대통령실 '검찰·늘공'으로 채웠다…실용주의냐, 인맥꽂기냐 '분분'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 계양을 전략공천에 민주당 "기대" 국힘 "과욕"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003640198?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003640198?sid=100"/>
-        <updated>2022-05-06T08:20:26.079Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003640198?sid=100" class="nclicks(rig.secteco)" title="이재명 계양을 전략공천에 민주당 &quot;기대&quot; 국힘 &quot;과욕&quot;">이재명 계양을 전략공천에 민주당 "기대" 국힘 "과욕"</a>]]></content>
+        <title type="html"><![CDATA[방탄 금배지냐 당 위한 희생이냐…이재명 '초고속 재등판' 전말]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193030?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193030?sid=100"/>
+        <updated>2022-05-06T10:18:07.582Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193030?sid=100" class="nclicks(rig.secteco)" title="방탄 금배지냐 당 위한 희생이냐…이재명 '초고속 재등판' 전말">방탄 금배지냐 당 위한 희생이냐…이재명 '초고속 재등판' 전말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 9월 항저우 아시안게임 연기…"코로나 상황 등 고려"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003640194?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003640194?sid=104"/>
-        <updated>2022-05-06T09:16:42.974Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003640194?sid=104" class="nclicks(rig.secteco)" title="中 9월 항저우 아시안게임 연기…&quot;코로나 상황 등 고려&quot;">中 9월 항저우 아시안게임 연기…"코로나 상황 등 고려"</a>]]></content>
+        <title type="html"><![CDATA[항저우 아시안게임 연기…시진핑 "제로코로나 끝까지 간다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193001?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193001?sid=104"/>
+        <updated>2022-05-06T10:18:07.583Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193001?sid=104" class="nclicks(rig.secteco)" title="항저우 아시안게임 연기…시진핑 &quot;제로코로나 끝까지 간다&quot;">항저우 아시안게임 연기…시진핑 "제로코로나 끝까지 간다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 확진 후 백신 접종 "미접종자는 1회면 충분"]]></title>
-        <id>https://n.news.naver.com/mnews/article/584/0000018870?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/584/0000018870?sid=104"/>
-        <updated>2022-05-06T07:15:17.913Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/584/0000018870?sid=104" class="nclicks(rig.secteco)" title="코로나19 확진 후 백신 접종 &quot;미접종자는 1회면 충분&quot;">코로나19 확진 후 백신 접종 "미접종자는 1회면 충분"</a>]]></content>
+        <title type="html"><![CDATA[국내 151만명 맞은 얀센…“혈전 위험” 美FDA 경고]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003426932?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003426932?sid=104"/>
+        <updated>2022-05-06T10:18:07.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003426932?sid=104" class="nclicks(rig.secteco)" title="국내 151만명 맞은 얀센…“혈전 위험” 美FDA 경고">국내 151만명 맞은 얀센…“혈전 위험” 美FDA 경고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대마불사'는 옛말…IPO 흥행 필수 조건은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000007800?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000007800?sid=101"/>
-        <updated>2022-05-06T09:16:42.975Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000007800?sid=101" class="nclicks(rig.secteco)" title="'대마불사'는 옛말…IPO 흥행 필수 조건은?">'대마불사'는 옛말…IPO 흥행 필수 조건은?</a>]]></content>
+        <title type="html"><![CDATA['3조 대어' SK쉴더스 상장 철회…美 금리인상 첫 희생양]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004695359?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004695359?sid=101"/>
+        <updated>2022-05-06T10:18:07.591Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004695359?sid=101" class="nclicks(rig.secteco)" title="'3조 대어' SK쉴더스 상장 철회…美 금리인상 첫 희생양">'3조 대어' SK쉴더스 상장 철회…美 금리인상 첫 희생양</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓 6개사 신산업 시총, 中 텐센트 3분의 1…규제가 발목"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011168724?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011168724?sid=101"/>
+        <updated>2022-05-06T10:18:07.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011168724?sid=101" class="nclicks(rig.secteco)" title="韓 6개사 신산업 시총, 中 텐센트 3분의 1…규제가 발목&quot;(종합)">韓 6개사 신산업 시총, 中 텐센트 3분의 1…규제가 발목"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피빈 석달만에 또 가격 인상…아메리카노 5000원 시대]]></title>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011168438?sid=101" class="nclicks(rig.secteco)" title="커피빈 석달만에 또 가격 인상…아메리카노 5000원 시대">커피빈 석달만에 또 가격 인상…아메리카노 5000원 시대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["과도한 규제가 한국 신산업 죽인다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000026144?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000026144?sid=101"/>
-        <updated>2022-05-06T09:16:42.984Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000026144?sid=101" class="nclicks(rig.secteco)" title="&quot;과도한 규제가 한국 신산업 죽인다&quot;">"과도한 규제가 한국 신산업 죽인다"</a>]]></content>
+        <title type="html"><![CDATA[“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0001987558?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0001987558?sid=105"/>
+        <updated>2022-05-06T08:20:26.090Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001987558?sid=105" class="nclicks(rig.secteco)" title="“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다">“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유]]></title>
@@ -69,32 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039013?sid=105" class="nclicks(rig.secteco)" title="'아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유">'아이버스'는 재미있게...SKT·SK스퀘어, '해긴' 투자한 3가지 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001987558?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001987558?sid=105"/>
-        <updated>2022-05-06T08:20:26.090Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001987558?sid=105" class="nclicks(rig.secteco)" title="“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다">“10분에 억대 출연료” 네이버가 만든 ‘이 분’ 목소리 나온다</a>]]></content>
+        <title type="html"><![CDATA[공수처, '옵티머스 부실수사' 의혹 윤석열 무혐의 처분]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000298033?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000298033?sid=102"/>
+        <updated>2022-05-06T10:18:07.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000298033?sid=102" class="nclicks(rig.secteco)" title="공수처, '옵티머스 부실수사' 의혹 윤석열 무혐의 처분">공수처, '옵티머스 부실수사' 의혹 윤석열 무혐의 처분</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공수처, ‘옵티머스 부실수사 의혹’도 尹 무혐의 처분]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011261795?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011261795?sid=102"/>
-        <updated>2022-05-06T09:16:42.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011261795?sid=102" class="nclicks(rig.secteco)" title="공수처, ‘옵티머스 부실수사 의혹’도 尹 무혐의 처분">공수처, ‘옵티머스 부실수사 의혹’도 尹 무혐의 처분</a>]]></content>
+        <title type="html"><![CDATA[막 내린 文정부 법무·검찰…“검수완박, 씻을 수 없는 상처 남겼다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003693256?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003693256?sid=102"/>
+        <updated>2022-05-06T10:18:07.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003693256?sid=102" class="nclicks(rig.secteco)" title="막 내린 文정부 법무·검찰…“검수완박, 씻을 수 없는 상처 남겼다”">막 내린 文정부 법무·검찰…“검수완박, 씻을 수 없는 상처 남겼다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공무상 비밀 누설' 고발된 임은정…검찰 "혐의 발견돼 공수처 이첩"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003640216?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003640216?sid=102"/>
-        <updated>2022-05-06T09:16:42.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003640216?sid=102" class="nclicks(rig.secteco)" title="'공무상 비밀 누설' 고발된 임은정…검찰 &quot;혐의 발견돼 공수처 이첩&quot;">'공무상 비밀 누설' 고발된 임은정…검찰 "혐의 발견돼 공수처 이첩"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박범계, 이임사서 ‘거악 척결 검사는 소중한 존재’ 문구 뺐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003689861?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003689861?sid=102"/>
-        <updated>2022-05-06T09:16:42.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003689861?sid=102" class="nclicks(rig.secteco)" title="박범계, 이임사서 ‘거악 척결 검사는 소중한 존재’ 문구 뺐다">박범계, 이임사서 ‘거악 척결 검사는 소중한 존재’ 문구 뺐다</a>]]></content>
+        <title type="html"><![CDATA[檢 "임은정, 한명숙 사건 비밀 누설 혐의" 공수처에 사건 이첩]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193029?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193029?sid=102"/>
+        <updated>2022-05-06T10:18:07.602Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193029?sid=102" class="nclicks(rig.secteco)" title="檢 &quot;임은정, 한명숙 사건 비밀 누설 혐의&quot; 공수처에 사건 이첩">檢 "임은정, 한명숙 사건 비밀 누설 혐의" 공수처에 사건 이첩</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닥터 스트레인지 뜨니 영화 관객 하루 130만…팬데믹 이전 수치 회복]]></title>
