@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-07T19:15:06.367Z</updated>
+    <updated>2022-05-07T20:17:14.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005209656?sid=100" class="nclicks(rig.secteco)" title="새정부 앞두고 북한 연속 미사일…文 “안보 빈틈 없도록”(종합)">새정부 앞두고 북한 연속 미사일…文 “안보 빈틈 없도록”(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현실 된 ‘미니 대선’… 보궐 7석 판도 흔든다 [정치쫌!]]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001987697?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001987697?sid=100"/>
-        <updated>2022-05-07T19:14:38.285Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001987697?sid=100" class="nclicks(rig.secteco)" title="현실 된 ‘미니 대선’… 보궐 7석 판도 흔든다 [정치쫌!]">현실 된 ‘미니 대선’… 보궐 7석 판도 흔든다 [정치쫌!]</a>]]></content>
+        <title type="html"><![CDATA['안철수·이재명' 재보궐선거 등판…대선 후보들의 의원직 도전]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000147963?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000147963?sid=100"/>
+        <updated>2022-05-07T20:16:45.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000147963?sid=100" class="nclicks(rig.secteco)" title="'안철수·이재명' 재보궐선거 등판…대선 후보들의 의원직 도전">'안철수·이재명' 재보궐선거 등판…대선 후보들의 의원직 도전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북, SLBM 추정 미사일 도발…핵실험 감행 가능성]]></title>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001661500?sid=104" class="nclicks(rig.secteco)" title="북, SLBM 추정 미사일 도발…핵실험 감행 가능성">북, SLBM 추정 미사일 도발…핵실험 감행 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크의 트위터 인수전, 적대적 M&A 정석 보여줘]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000042204?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000042204?sid=104"/>
-        <updated>2022-05-07T11:13:37.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000042204?sid=104" class="nclicks(rig.secteco)" title="머스크의 트위터 인수전, 적대적 M&amp;A 정석 보여줘">머스크의 트위터 인수전, 적대적 M&amp;A 정석 보여줘</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011169284?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101"/>
-        <updated>2022-05-07T17:17:34.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101" class="nclicks(rig.secteco)" title="세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지">세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지</a>]]></content>
+        <title type="html"><![CDATA[[속보] “원래 우리땅” 러, 점령지 헤르손 병합 공식화]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271235?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271235?sid=104"/>
+        <updated>2022-05-07T20:16:45.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271235?sid=104" class="nclicks(rig.secteco)" title="[속보] “원래 우리땅” 러, 점령지 헤르손 병합 공식화">[속보] “원래 우리땅” 러, 점령지 헤르손 병합 공식화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5년간 진척없던 여의도 재건축 '물꼬'…한강변 스카이라인 바뀐다]]></title>
@@ -55,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004695353?sid=101" class="nclicks(rig.secteco)" title="5년간 진척없던 여의도 재건축 '물꼬'…한강변 스카이라인 바뀐다">5년간 진척없던 여의도 재건축 '물꼬'…한강변 스카이라인 바뀐다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011169284?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101"/>
+        <updated>2022-05-07T17:17:34.518Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101" class="nclicks(rig.secteco)" title="세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지">세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하루에 그친 비트코인 랠리…주요국 코인 규제는 ‘점입가경’ [위클리 코인리뷰]]]></title>
         <id>https://n.news.naver.com/mnews/article/243/0000026147?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/243/0000026147?sid=101"/>
@@ -62,18 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000026147?sid=101" class="nclicks(rig.secteco)" title="하루에 그친 비트코인 랠리…주요국 코인 규제는 ‘점입가경’ [위클리 코인리뷰]">하루에 그친 비트코인 랠리…주요국 코인 규제는 ‘점입가경’ [위클리 코인리뷰]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["삼성 갤럭시Z플립4 골드·블루 온다"…어떤 모습일까]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004832177?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004832177?sid=105"/>
-        <updated>2022-05-07T17:17:34.524Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004832177?sid=105" class="nclicks(rig.secteco)" title="&quot;삼성 갤럭시Z플립4 골드·블루 온다&quot;…어떤 모습일까">"삼성 갤럭시Z플립4 골드·블루 온다"…어떤 모습일까</a>]]></content>
+        <title type="html"><![CDATA[세계산림총회 닷새 일정 마무리…'서울 산림선언문' 채택]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011168640?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011168640?sid=105"/>
+        <updated>2022-05-07T20:16:45.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011168640?sid=105" class="nclicks(rig.secteco)" title="세계산림총회 닷새 일정 마무리…'서울 산림선언문' 채택">세계산림총회 닷새 일정 마무리…'서울 산림선언문' 채택</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[판교통신]"괌에서 퇴근합니다"…디지털 노마드 천국인 '이 곳']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004742654?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004742654?sid=105"/>
-        <updated>2022-05-07T19:14:38.303Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004742654?sid=105" class="nclicks(rig.secteco)" title="[판교통신]&quot;괌에서 퇴근합니다&quot;…디지털 노마드 천국인 '이 곳'">[판교통신]"괌에서 퇴근합니다"…디지털 노마드 천국인 '이 곳'</a>]]></content>
+        <title type="html"><![CDATA[넷플릭스 ‘허’ 찌른 파라마운트…격해지는 글로벌 OTT 춘추전국]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271197?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271197?sid=105"/>
+        <updated>2022-05-07T20:16:45.411Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271197?sid=105" class="nclicks(rig.secteco)" title="넷플릭스 ‘허’ 찌른 파라마운트…격해지는 글로벌 OTT 춘추전국">넷플릭스 ‘허’ 찌른 파라마운트…격해지는 글로벌 OTT 춘추전국</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271169?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271169?sid=102"/>
+        <updated>2022-05-07T20:16:45.412Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271169?sid=102" class="nclicks(rig.secteco)" title="[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”">[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀]]></title>
@@ -83,25 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005085531?sid=102" class="nclicks(rig.secteco)" title="채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀">채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈 "검수완박 법 위헌 소지…가장 시급한 현안"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013162424?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013162424?sid=102"/>
-        <updated>2022-05-07T13:24:42.659Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013162424?sid=102" class="nclicks(rig.secteco)" title="한동훈 &quot;검수완박 법 위헌 소지…가장 시급한 현안&quot;(종합)">한동훈 "검수완박 법 위헌 소지…가장 시급한 현안"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순천시장 후보 경선...재경선 요구, 규탄시위, 고발 등 '혼돈']]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000147951?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000147951?sid=102"/>
-        <updated>2022-05-07T19:14:38.311Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000147951?sid=102" class="nclicks(rig.secteco)" title="순천시장 후보 경선...재경선 요구, 규탄시위, 고발 등 '혼돈'">순천시장 후보 경선...재경선 요구, 규탄시위, 고발 등 '혼돈'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003271169?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003271169?sid=103"/>
-        <updated>2022-05-07T17:17:34.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271169?sid=103" class="nclicks(rig.secteco)" title="[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”">[단독] 부산국제영화제 “강수연 전 집행위원장 쾌유 빌어”</a>]]></content>
+        <title type="html"><![CDATA[로또 1014회 당첨번호 1등 10명…'반자동 2명, 얼마만이야']]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000147967?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000147967?sid=102"/>
+        <updated>2022-05-07T20:16:45.414Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000147967?sid=102" class="nclicks(rig.secteco)" title="로또 1014회 당첨번호 1등 10명…'반자동 2명, 얼마만이야'">로또 1014회 당첨번호 1등 10명…'반자동 2명, 얼마만이야'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어버이날, 전국 흐린 날씨…서울 낮 최고 21도]]></title>
@@ -109,5 +102,12 @@
         <link href="https://n.news.naver.com/mnews/article/003/0011169315?sid=103"/>
         <updated>2022-05-07T17:17:34.534Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169315?sid=103" class="nclicks(rig.secteco)" title="어버이날, 전국 흐린 날씨…서울 낮 최고 21도">어버이날, 전국 흐린 날씨…서울 낮 최고 21도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["잊지 않겠다" 넷플릭스도 애도…강수연 유작 '정이' 개봉은 [강수연 1966~2022]]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193130?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193130?sid=103"/>
+        <updated>2022-05-07T20:16:45.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193130?sid=103" class="nclicks(rig.secteco)" title="&quot;잊지 않겠다&quot; 넷플릭스도 애도…강수연 유작 '정이' 개봉은 [강수연 1966~2022]">"잊지 않겠다" 넷플릭스도 애도…강수연 유작 '정이' 개봉은 [강수연 1966~2022]</a>]]></content>
     </entry>
 </feed>
