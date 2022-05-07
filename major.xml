@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-07T17:18:02.101Z</updated>
+    <updated>2022-05-07T18:18:24.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[한반도 브리핑] 새 정부 외교안보라인 완성…북, 연이어 탄도미사일 발사]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000541000?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000541000?sid=100"/>
-        <updated>2022-05-07T17:17:34.510Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000541000?sid=100" class="nclicks(rig.secteco)" title="[한반도 브리핑] 새 정부 외교안보라인 완성…북, 연이어 탄도미사일 발사">[한반도 브리핑] 새 정부 외교안보라인 완성…북, 연이어 탄도미사일 발사</a>]]></content>
+        <title type="html"><![CDATA[美국무부 "北 SLBM 규탄, 대화하자"…인·태사령부 "즉각 위협 안 돼"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011169444?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011169444?sid=100"/>
+        <updated>2022-05-07T18:17:57.771Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169444?sid=100" class="nclicks(rig.secteco)" title="美국무부 &quot;北 SLBM 규탄, 대화하자&quot;…인·태사령부 &quot;즉각 위협 안 돼&quot;(종합)">美국무부 "北 SLBM 규탄, 대화하자"…인·태사령부 "즉각 위협 안 돼"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새정부 앞두고 북한 연속 미사일…文 “안보 빈틈 없도록”(종합)]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004695353?sid=101" class="nclicks(rig.secteco)" title="5년간 진척없던 여의도 재건축 '물꼬'…한강변 스카이라인 바뀐다">5년간 진척없던 여의도 재건축 '물꼬'…한강변 스카이라인 바뀐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000026140?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000026140?sid=101"/>
-        <updated>2022-05-07T12:26:21.765Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000026140?sid=101" class="nclicks(rig.secteco)" title="유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑">유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011169284?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011169284?sid=101" class="nclicks(rig.secteco)" title="세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지">세계식량가격 소폭 하락했지만…코로나 전보다 70% 폭등세 유지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[G-브리핑] 카카오게임즈, ‘이터널 리턴’, 플레이엑스포 단독 부스 참가]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004960180?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004960180?sid=105"/>
-        <updated>2022-05-07T17:17:34.520Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004960180?sid=105" class="nclicks(rig.secteco)" title="[G-브리핑] 카카오게임즈, ‘이터널 리턴’, 플레이엑스포 단독 부스 참가">[G-브리핑] 카카오게임즈, ‘이터널 리턴’, 플레이엑스포 단독 부스 참가</a>]]></content>
+        <title type="html"><![CDATA[유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000026140?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000026140?sid=101"/>
+        <updated>2022-05-07T12:26:21.765Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000026140?sid=101" class="nclicks(rig.secteco)" title="유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑">유류세 30%인하 일주일, 기름값 찔끔 인하…국제유가는 또↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["삼성 갤럭시Z플립4 골드·블루 온다"…어떤 모습일까]]></title>
@@ -76,11 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004832177?sid=105" class="nclicks(rig.secteco)" title="&quot;삼성 갤럭시Z플립4 골드·블루 온다&quot;…어떤 모습일까">"삼성 갤럭시Z플립4 골드·블루 온다"…어떤 모습일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[채팅 앱으로 만나 흉기 들고 다투다 '마약 투약' 적발된 남녀]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004960676?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004960676?sid=102"/>
-        <updated>2022-05-07T16:20:57.177Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004960676?sid=102" class="nclicks(rig.secteco)" title="채팅 앱으로 만나 흉기 들고 다투다 '마약 투약' 적발된 남녀">채팅 앱으로 만나 흉기 들고 다투다 '마약 투약' 적발된 남녀</a>]]></content>
+        <title type="html"><![CDATA["스타트업판 쇼미더머니"…토스, 자체 제작 콘텐츠 '파운드' 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000039014?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000039014?sid=105"/>
+        <updated>2022-05-07T18:17:57.787Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039014?sid=105" class="nclicks(rig.secteco)" title="&quot;스타트업판 쇼미더머니&quot;…토스, 자체 제작 콘텐츠 '파운드' 공개">"스타트업판 쇼미더머니"…토스, 자체 제작 콘텐츠 '파운드' 공개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005085531?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005085531?sid=102"/>
+        <updated>2022-05-07T18:17:57.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005085531?sid=102" class="nclicks(rig.secteco)" title="채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀">채팅으로 만나 마약 투약한 남여…거리서 흉기 들고 싸우다 붙잡혀</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 "검수완박 법 위헌 소지…가장 시급한 현안"(종합)]]></title>
