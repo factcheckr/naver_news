@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-10T13:45:33.390Z</updated>
+    <updated>2022-05-10T14:19:31.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["문재인 여유 응원해요"…휴가까지 냈다, 울산역·평산마을 인파]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003193866?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003193866?sid=100"/>
-        <updated>2022-05-10T11:15:08.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193866?sid=100" class="nclicks(rig.secteco)" title="&quot;문재인 여유 응원해요&quot;…휴가까지 냈다, 울산역·평산마을 인파">"문재인 여유 응원해요"…휴가까지 냈다, 울산역·평산마을 인파</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003145867?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003145867?sid=100"/>
-        <updated>2022-05-10T12:32:30.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003145867?sid=100" class="nclicks(rig.secteco)" title="[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절">[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절</a>]]></content>
+        <title type="html"><![CDATA[문 전 대통령의 ‘전입 신고’…“집에 오니 무사히 끝냈구나 안도감”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002590089?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002590089?sid=100"/>
+        <updated>2022-05-10T14:19:02.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002590089?sid=100" class="nclicks(rig.secteco)" title="문 전 대통령의 ‘전입 신고’…“집에 오니 무사히 끝냈구나 안도감”">문 전 대통령의 ‘전입 신고’…“집에 오니 무사히 끝냈구나 안도감”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시진핑, 친서 통해 尹대통령 방중 초청…"방문 환영하고 초청"]]></title>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641410?sid=100" class="nclicks(rig.secteco)" title="시진핑, 친서 통해 尹대통령 방중 초청…&quot;방문 환영하고 초청&quot;">시진핑, 친서 통해 尹대통령 방중 초청…"방문 환영하고 초청"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003145867?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003145867?sid=100"/>
+        <updated>2022-05-10T12:32:30.915Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003145867?sid=100" class="nclicks(rig.secteco)" title="[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절">[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003193777?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003193777?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193777?sid=104" class="nclicks(rig.secteco)" title="北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드">北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011263698?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011263698?sid=104"/>
-        <updated>2022-05-10T13:45:05.300Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011263698?sid=104" class="nclicks(rig.secteco)" title="독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행">독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행</a>]]></content>
+        <title type="html"><![CDATA[독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013169695?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013169695?sid=104"/>
+        <updated>2022-05-10T14:19:02.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013169695?sid=104" class="nclicks(rig.secteco)" title="독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐">독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 취임식 총출동한 대기업 총수들 “자리 배치부터 친시장”]]></title>
@@ -55,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004834020?sid=101" class="nclicks(rig.secteco)" title="尹정부 첫 금융위원장에 김주현 내정… 국세청장 김창기 유력">尹정부 첫 금융위원장에 김주현 내정… 국세청장 김창기 유력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["비트코인 뱉어내라"…코인거래소 투자자 보호 `뒷전`]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001030687?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001030687?sid=101"/>
-        <updated>2022-05-10T11:15:08.331Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001030687?sid=101" class="nclicks(rig.secteco)" title="&quot;비트코인 뱉어내라&quot;…코인거래소 투자자 보호 `뒷전`">"비트코인 뱉어내라"…코인거래소 투자자 보호 `뒷전`</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003271939?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105"/>
-        <updated>2022-05-10T09:16:59.442Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105" class="nclicks(rig.secteco)" title="윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나">윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나</a>]]></content>
+        <title type="html"><![CDATA[“10만 달러 찍는다” 나랏돈으로 비트코인 산 대통령 결국…[김유민의 돋보기]]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271784?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271784?sid=101"/>
+        <updated>2022-05-10T14:19:02.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271784?sid=101" class="nclicks(rig.secteco)" title="“10만 달러 찍는다” 나랏돈으로 비트코인 산 대통령 결국…[김유민의 돋보기]">“10만 달러 찍는다” 나랏돈으로 비트코인 산 대통령 결국…[김유민의 돋보기]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가]]></title>
@@ -76,11 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005211557?sid=105" class="nclicks(rig.secteco)" title="SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가">SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011263688?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011263688?sid=102"/>
-        <updated>2022-05-10T13:45:05.315Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011263688?sid=102" class="nclicks(rig.secteco)" title="‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”">‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”</a>]]></content>
+        <title type="html"><![CDATA[윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271939?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105"/>
+        <updated>2022-05-10T09:16:59.442Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105" class="nclicks(rig.secteco)" title="윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나">윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193857?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193857?sid=102"/>
+        <updated>2022-05-10T14:19:02.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193857?sid=102" class="nclicks(rig.secteco)" title="8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요">8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰, 지인들 잇달아 살해한 권재찬에 사형 구형]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001524974?sid=102" class="nclicks(rig.secteco)" title="검찰, 지인들 잇달아 살해한 권재찬에 사형 구형">검찰, 지인들 잇달아 살해한 권재찬에 사형 구형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?]]></title>
-        <id>https://n.news.naver.com/mnews/article/310/0000096364?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/310/0000096364?sid=102"/>
-        <updated>2022-05-10T13:45:05.318Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000096364?sid=102" class="nclicks(rig.secteco)" title="무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?">무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?</a>]]></content>
+        <title type="html"><![CDATA[발 닦으며 무 씻었던 비위생 족발집 조리장…벌금 1000만 원]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003641195?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003641195?sid=102"/>
+        <updated>2022-05-10T14:19:02.039Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641195?sid=102" class="nclicks(rig.secteco)" title="발 닦으며 무 씻었던 비위생 족발집 조리장…벌금 1000만 원">발 닦으며 무 씻었던 비위생 족발집 조리장…벌금 1000만 원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003271974?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003271974?sid=103"/>
-        <updated>2022-05-10T13:45:05.319Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271974?sid=103" class="nclicks(rig.secteco)" title="尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다">尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다</a>]]></content>
+        <title type="html"><![CDATA[조국 “윤석열 찍은 분들 ‘그대가 조국’ 봐달라, 진실 복구돼야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0001988934?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0001988934?sid=103"/>
+        <updated>2022-05-10T14:19:02.041Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001988934?sid=103" class="nclicks(rig.secteco)" title="조국 “윤석열 찍은 분들 ‘그대가 조국’ 봐달라, 진실 복구돼야”">조국 “윤석열 찍은 분들 ‘그대가 조국’ 봐달라, 진실 복구돼야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 흐리고 낮더위…당분간 큰 일교차]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000541379?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000541379?sid=103"/>
-        <updated>2022-05-10T13:45:05.322Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000541379?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 흐리고 낮더위…당분간 큰 일교차">[날씨] 내일 흐리고 낮더위…당분간 큰 일교차</a>]]></content>
+        <title type="html"><![CDATA[[생활날씨] 내일 전국 흐림…전남·제주 새벽까지 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000541387?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000541387?sid=103"/>
+        <updated>2022-05-10T14:19:02.042Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000541387?sid=103" class="nclicks(rig.secteco)" title="[생활날씨] 내일 전국 흐림…전남·제주 새벽까지 비">[생활날씨] 내일 전국 흐림…전남·제주 새벽까지 비</a>]]></content>
     </entry>
 </feed>
