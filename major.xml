@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-10T12:33:00.362Z</updated>
+    <updated>2022-05-10T13:45:33.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003145867?sid=100" class="nclicks(rig.secteco)" title="[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절">[단독]'이재명 대항마 거론' 최원식 전 의원, 국민의힘 공천 제안 거절</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시진핑, 尹대통령 방중 초청…"양측 편리한 시기에 방문 환영"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013169621?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013169621?sid=100"/>
-        <updated>2022-05-10T12:32:30.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013169621?sid=100" class="nclicks(rig.secteco)" title="시진핑, 尹대통령 방중 초청…&quot;양측 편리한 시기에 방문 환영&quot;">시진핑, 尹대통령 방중 초청…"양측 편리한 시기에 방문 환영"</a>]]></content>
+        <title type="html"><![CDATA[시진핑, 친서 통해 尹대통령 방중 초청…"방문 환영하고 초청"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003641410?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003641410?sid=100"/>
+        <updated>2022-05-10T13:45:05.298Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641410?sid=100" class="nclicks(rig.secteco)" title="시진핑, 친서 통해 尹대통령 방중 초청…&quot;방문 환영하고 초청&quot;">시진핑, 친서 통해 尹대통령 방중 초청…"방문 환영하고 초청"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드]]></title>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193777?sid=104" class="nclicks(rig.secteco)" title="北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드">北 감싸며 모순적 '비토'…중·러 망신 주려 꺼낸 美히든카드</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013169695?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013169695?sid=104"/>
-        <updated>2022-05-10T12:32:30.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013169695?sid=104" class="nclicks(rig.secteco)" title="독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐">독재자의 아들, 필리핀 대통령 당선에 '불복 운동' 확산 조짐</a>]]></content>
+        <title type="html"><![CDATA[독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011263698?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011263698?sid=104"/>
+        <updated>2022-05-10T13:45:05.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011263698?sid=104" class="nclicks(rig.secteco)" title="독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행">독재자 아들 마르코스, 대선 압승…36년 만에 대통령궁행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대기업 총수 총출동한 尹취임식, 한화·현대중공업 불참했다 왜]]></title>
+        <title type="html"><![CDATA[尹 취임식 총출동한 대기업 총수들 “자리 배치부터 친시장”]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003193880?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003193880?sid=101"/>
         <updated>2022-05-10T12:32:30.920Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193880?sid=101" class="nclicks(rig.secteco)" title="대기업 총수 총출동한 尹취임식, 한화·현대중공업 불참했다 왜">대기업 총수 총출동한 尹취임식, 한화·현대중공업 불참했다 왜</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193880?sid=101" class="nclicks(rig.secteco)" title="尹 취임식 총출동한  대기업 총수들 “자리 배치부터  친시장”">尹 취임식 총출동한 대기업 총수들 “자리 배치부터 친시장”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹정부 첫 금융위원장에 김주현 내정… 국세청장 김창기 유력]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004834020?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004834020?sid=101"/>
+        <updated>2022-05-10T13:45:05.308Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004834020?sid=101" class="nclicks(rig.secteco)" title="尹정부 첫 금융위원장에 김주현 내정… 국세청장 김창기 유력">尹정부 첫 금융위원장에 김주현 내정… 국세청장 김창기 유력</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["비트코인 뱉어내라"…코인거래소 투자자 보호 `뒷전`]]></title>
@@ -55,20 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001030687?sid=101" class="nclicks(rig.secteco)" title="&quot;비트코인 뱉어내라&quot;…코인거래소 투자자 보호 `뒷전`">"비트코인 뱉어내라"…코인거래소 투자자 보호 `뒷전`</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹정부 첫 국세청장에 김창기 내정… 금융위원장에 김주현 유력]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000812561?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000812561?sid=101"/>
-        <updated>2022-05-10T12:32:30.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000812561?sid=101" class="nclicks(rig.secteco)" title="尹정부 첫 국세청장에 김창기 내정… 금융위원장에 김주현 유력">尹정부 첫 국세청장에 김창기 내정… 금융위원장에 김주현 유력</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 뚝 떨어진 마케팅비에 영업익 쑥쑥]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000007866?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000007866?sid=105"/>
-        <updated>2022-05-10T10:17:50.315Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000007866?sid=105" class="nclicks(rig.secteco)" title="SKT, 뚝 떨어진 마케팅비에 영업익 쑥쑥">SKT, 뚝 떨어진 마케팅비에 영업익 쑥쑥</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003271939?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105"/>
@@ -76,38 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271939?sid=105" class="nclicks(rig.secteco)" title="윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나">윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003193857?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003193857?sid=102"/>
-        <updated>2022-05-10T10:17:50.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193857?sid=102" class="nclicks(rig.secteco)" title="8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요">8명 목숨 앗아간 원인불명 '아동 급성간염'…이 증상 의심하세요</a>]]></content>
+        <title type="html"><![CDATA[SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005211557?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005211557?sid=105"/>
+        <updated>2022-05-10T13:45:05.314Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005211557?sid=105" class="nclicks(rig.secteco)" title="SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가">SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["짜증내길래 화나서"…50대 남녀 연쇄살해 권재찬에 사형 구형]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004744018?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004744018?sid=102"/>
-        <updated>2022-05-10T12:32:30.929Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744018?sid=102" class="nclicks(rig.secteco)" title="&quot;짜증내길래 화나서&quot;…50대 남녀 연쇄살해 권재찬에 사형 구형">"짜증내길래 화나서"…50대 남녀 연쇄살해 권재찬에 사형 구형</a>]]></content>
+        <title type="html"><![CDATA[‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011263688?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011263688?sid=102"/>
+        <updated>2022-05-10T13:45:05.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011263688?sid=102" class="nclicks(rig.secteco)" title="‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”">‘소아 급성 간염’ 의심 신고…“코로나 감소폭 둔화”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘발 닦은 수세미로 무 손질’ 식당 조리장·주인, 1심에서 벌금형]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011263643?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011263643?sid=102"/>
-        <updated>2022-05-10T12:32:30.933Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011263643?sid=102" class="nclicks(rig.secteco)" title="‘발 닦은 수세미로 무 손질’ 식당 조리장·주인, 1심에서 벌금형">‘발 닦은 수세미로 무 손질’ 식당 조리장·주인, 1심에서 벌금형</a>]]></content>
+        <title type="html"><![CDATA[검찰, 지인들 잇달아 살해한 권재찬에 사형 구형]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001524974?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001524974?sid=102"/>
+        <updated>2022-05-10T13:45:05.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001524974?sid=102" class="nclicks(rig.secteco)" title="검찰, 지인들 잇달아 살해한 권재찬에 사형 구형">검찰, 지인들 잇달아 살해한 권재찬에 사형 구형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["기관총·수류탄도 막는다"…尹대통령 탄 차는 에쿠스·마이바흐]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013169464?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013169464?sid=103"/>
-        <updated>2022-05-10T10:17:50.326Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013169464?sid=103" class="nclicks(rig.secteco)" title="&quot;기관총·수류탄도 막는다&quot;…尹대통령 탄 차는 에쿠스·마이바흐">"기관총·수류탄도 막는다"…尹대통령 탄 차는 에쿠스·마이바흐</a>]]></content>
+        <title type="html"><![CDATA[무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?]]></title>
+        <id>https://n.news.naver.com/mnews/article/310/0000096364?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/310/0000096364?sid=102"/>
+        <updated>2022-05-10T13:45:05.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000096364?sid=102" class="nclicks(rig.secteco)" title="무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?">무 씻는 대야에서 발 닦은 족발집 조리실장 벌금 1000만원?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조국 "윤석열 찍은 분들, 다큐 '그대가 조국' 많이 봐달라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001154981?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001154981?sid=103"/>
-        <updated>2022-05-10T12:32:30.936Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001154981?sid=103" class="nclicks(rig.secteco)" title="조국 &quot;윤석열 찍은 분들, 다큐 '그대가 조국' 많이 봐달라&quot;">조국 "윤석열 찍은 분들, 다큐 '그대가 조국' 많이 봐달라"</a>]]></content>
+        <title type="html"><![CDATA[尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003271974?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003271974?sid=103"/>
+        <updated>2022-05-10T13:45:05.319Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003271974?sid=103" class="nclicks(rig.secteco)" title="尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다">尹대통령 취임식날, ‘그대가 조국’ 시사회 열렸다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 내일 흐리고 낮더위…당분간 큰 일교차]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000541379?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000541379?sid=103"/>
+        <updated>2022-05-10T13:45:05.322Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000541379?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 흐리고 낮더위…당분간 큰 일교차">[날씨] 내일 흐리고 낮더위…당분간 큰 일교차</a>]]></content>
     </entry>
 </feed>
