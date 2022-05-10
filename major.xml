@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-10T21:15:23.737Z</updated>
+    <updated>2022-05-10T22:16:42.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001525078?sid=100" class="nclicks(rig.secteco)" title="文 “제2의 삶 기대”… 윤건영 “그의 꿈, 尹에 달려”">文 “제2의 삶 기대”… 윤건영 “그의 꿈, 尹에 달려”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤희숙 “이준석, 무운 빈다”…계양을 공천에 불편 심기]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001525083?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001525083?sid=100"/>
-        <updated>2022-05-10T21:14:55.140Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001525083?sid=100" class="nclicks(rig.secteco)" title="윤희숙 “이준석, 무운 빈다”…계양을 공천에 불편 심기">윤희숙 “이준석, 무운 빈다”…계양을 공천에 불편 심기</a>]]></content>
+        <title type="html"><![CDATA[‘자유’ 35번 등장, ‘통합’ 빠진 취임사…尹이 직접 퇴고]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001525079?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001525079?sid=100"/>
+        <updated>2022-05-10T22:16:12.684Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001525079?sid=100" class="nclicks(rig.secteco)" title="‘자유’ 35번 등장, ‘통합’ 빠진 취임사…尹이 직접 퇴고">‘자유’ 35번 등장, ‘통합’ 빠진 취임사…尹이 직접 퇴고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["트럼프, 재임 기간 韓 자주 폄하…주한미군 철수 반복해 위협"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006084055?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006084055?sid=104"/>
+        <updated>2022-05-10T22:16:12.687Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006084055?sid=104" class="nclicks(rig.secteco)" title="&quot;트럼프, 재임 기간 韓 자주 폄하…주한미군 철수 반복해 위협&quot;">"트럼프, 재임 기간 韓 자주 폄하…주한미군 철수 반복해 위협"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[필리핀 독재자 마르코스 아들 대통령 당선…대학생들 "수업 거부"]]></title>
@@ -34,32 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002242727?sid=104" class="nclicks(rig.secteco)" title="필리핀 독재자 마르코스 아들 대통령 당선…대학생들 &quot;수업 거부&quot;">필리핀 독재자 마르코스 아들 대통령 당선…대학생들 "수업 거부"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["트럼프, 주한미군 완전 철수 제안…수차례 압박" 에스퍼 前국방(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011176370?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011176370?sid=104"/>
-        <updated>2022-05-10T21:14:55.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011176370?sid=104" class="nclicks(rig.secteco)" title="&quot;트럼프, 주한미군 완전 철수 제안…수차례 압박&quot; 에스퍼 前국방(종합2보)">"트럼프, 주한미군 완전 철수 제안…수차례 압박" 에스퍼 前국방(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[경제계, 적극적인 투자 약속…“윤석열 정부와 경제 발전”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003694461?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003694461?sid=101"/>
+        <updated>2022-05-10T22:16:12.693Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003694461?sid=101" class="nclicks(rig.secteco)" title="경제계, 적극적인 투자 약속…“윤석열 정부와 경제 발전”">경제계, 적극적인 투자 약속…“윤석열 정부와 경제 발전”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 국세청장에 김창기…금융위원장에 김주현 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001524918?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001524918?sid=101"/>
-        <updated>2022-05-10T16:26:09.795Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001524918?sid=101" class="nclicks(rig.secteco)" title="[단독] 국세청장에 김창기…금융위원장에 김주현 확정">[단독] 국세청장에 김창기…금융위원장에 김주현 확정</a>]]></content>
+        <title type="html"><![CDATA[새 국세청장 후보자 김창기…사상 최초 '퇴직자' 발탁]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002274604?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002274604?sid=101"/>
+        <updated>2022-05-10T22:16:12.693Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002274604?sid=101" class="nclicks(rig.secteco)" title="새 국세청장 후보자 김창기…사상 최초 '퇴직자' 발탁">새 국세청장 후보자 김창기…사상 최초 '퇴직자' 발탁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“국민이 주인인 나라로 재건”… 시민들과 주먹인사하며 입장]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003427621?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003427621?sid=101"/>
-        <updated>2022-05-10T18:20:15.198Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003427621?sid=101" class="nclicks(rig.secteco)" title="“국민이 주인인 나라로 재건”… 시민들과 주먹인사하며 입장">“국민이 주인인 나라로 재건”… 시민들과 주먹인사하며 입장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국시장 노리는 中 지리차, 르노코리아 지분 34% 인수]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003690582?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003690582?sid=101"/>
-        <updated>2022-05-10T20:18:22.065Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003690582?sid=101" class="nclicks(rig.secteco)" title="한국시장 노리는 中 지리차, 르노코리아 지분 34% 인수">한국시장 노리는 中 지리차, 르노코리아 지분 34% 인수</a>]]></content>
+        <title type="html"><![CDATA[中지리차, 르노코리아 지분 34% 인수…한국시장 공략 가속]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000285376?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000285376?sid=101"/>
+        <updated>2022-05-10T22:16:12.694Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000285376?sid=101" class="nclicks(rig.secteco)" title="中지리차, 르노코리아 지분 34% 인수…한국시장 공략 가속">中지리차, 르노코리아 지분 34% 인수…한국시장 공략 가속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 새 정부 예고한 ‘5G 중간요금제’…통신3사 ‘1조 클럽’ 금 가나]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005211557?sid=105" class="nclicks(rig.secteco)" title="SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가">SK텔레콤, 영업익도 설비투자도 증가…전년비 15.5%, 27% 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소아 급성간염 의심 사례 국내서 첫 신고]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003694433?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003694433?sid=102"/>
-        <updated>2022-05-10T21:14:55.152Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003694433?sid=102" class="nclicks(rig.secteco)" title="소아 급성간염 의심 사례 국내서 첫 신고">소아 급성간염 의심 사례 국내서 첫 신고</a>]]></content>
+        <title type="html"><![CDATA[당국, 국내 첫 소아 급성간염 의심사례에 "백신과 무관"]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000811769?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000811769?sid=102"/>
+        <updated>2022-05-10T22:16:12.695Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000811769?sid=102" class="nclicks(rig.secteco)" title="당국, 국내 첫 소아 급성간염 의심사례에 &quot;백신과 무관&quot;">당국, 국내 첫 소아 급성간염 의심사례에 "백신과 무관"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["기억안나" "순간 화나서"…사형 구형 권재찬 시종 '오락가락 진술']]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001525080?sid=103" class="nclicks(rig.secteco)" title="조국 “尹 찍은 분들, ‘그대가 조국’ 봤으면… 진실 복구돼야”">조국 “尹 찍은 분들, ‘그대가 조국’ 봤으면… 진실 복구돼야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹이 벤츠 대신 고른 '국산 방탄차'는 에쿠스...기관총·수류탄 막는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004834036?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004834036?sid=103"/>
-        <updated>2022-05-10T20:18:22.074Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004834036?sid=103" class="nclicks(rig.secteco)" title="尹이 벤츠 대신 고른 '국산 방탄차'는 에쿠스...기관총·수류탄 막는다">尹이 벤츠 대신 고른 '국산 방탄차'는 에쿠스...기관총·수류탄 막는다</a>]]></content>
+        <title type="html"><![CDATA["펑크 나도 30분 달린다"…벤츠타고 나온 尹이 바꿔탄 방탄차]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003193749?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003193749?sid=103"/>
+        <updated>2022-05-10T22:16:12.703Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003193749?sid=103" class="nclicks(rig.secteco)" title="&quot;펑크 나도 30분 달린다&quot;…벤츠타고 나온 尹이 바꿔탄 방탄차">"펑크 나도 30분 달린다"…벤츠타고 나온 尹이 바꿔탄 방탄차</a>]]></content>
     </entry>
 </feed>
