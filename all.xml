@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T06:24:19.559Z</updated>
+    <updated>2022-05-11T07:17:11.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[새 정부 신임 국정원장에 김규현 지명…1차장엔 권춘택(상보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005212963?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005212963?sid=100"/>
+        <updated>2022-05-11T07:16:44.740Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005212963?sid=100" class="nclicks(rig.secteco)" title="새 정부 신임 국정원장에 김규현 지명…1차장엔 권춘택(상보)">새 정부 신임 국정원장에 김규현 지명…1차장엔 권춘택(상보)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["다음부턴 이런 거 없습니다" 첫 회의 주재한 윤 대통령 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002352618?sid=100</id>
@@ -12,46 +19,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002352618?sid=100" class="nclicks(rig.secteco)" title="&quot;다음부턴 이런 거 없습니다&quot; 첫 회의 주재한 윤 대통령">"다음부턴 이런 거 없습니다" 첫 회의 주재한 윤 대통령</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 “방탄, 방탄하는데 물 안 든 물총 안 두렵다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003272148?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003272148?sid=100"/>
-        <updated>2022-05-11T06:23:51.268Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003272148?sid=100" class="nclicks(rig.secteco)" title="이재명 “방탄, 방탄하는데 물 안 든 물총 안 두렵다”">이재명 “방탄, 방탄하는데 물 안 든 물총 안 두렵다”</a>]]></content>
+        <title type="html"><![CDATA[이재명 "권력 견제해야"…檢수사엔 "물 안든 물총 안 두려워" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003641750?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003641750?sid=100"/>
+        <updated>2022-05-11T07:16:44.748Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641750?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;권력 견제해야&quot;…檢수사엔 &quot;물 안든 물총 안 두려워&quot;">이재명 "권력 견제해야"…檢수사엔 "물 안든 물총 안 두려워"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 국정원장에 김규현 지명…1차장 권춘택 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003194060?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003194060?sid=100"/>
-        <updated>2022-05-11T06:23:51.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194060?sid=100" class="nclicks(rig.secteco)" title="[속보] 국정원장에 김규현 지명…1차장 권춘택">[속보] 국정원장에 김규현 지명…1차장 권춘택</a>]]></content>
+        <title type="html"><![CDATA[美 "푸틴, 전쟁 진다 판단하면 핵무기 쓸 수도"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013171111?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013171111?sid=104"/>
+        <updated>2022-05-11T07:16:44.750Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013171111?sid=104" class="nclicks(rig.secteco)" title="美 &quot;푸틴, 전쟁 진다 판단하면 핵무기 쓸 수도&quot;(종합)">美 "푸틴, 전쟁 진다 판단하면 핵무기 쓸 수도"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 정보기관 “푸틴, 패배 직감하면 핵무기 사용할수도” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000812776?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000812776?sid=104"/>
-        <updated>2022-05-11T06:23:51.270Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000812776?sid=104" class="nclicks(rig.secteco)" title="美 정보기관 “푸틴, 패배 직감하면 핵무기 사용할수도”">美 정보기관 “푸틴, 패배 직감하면 핵무기 사용할수도”</a>]]></content>
+        <title type="html"><![CDATA["제로코로나 실패하면 160만명 사망"…中 숨막히는 통제 이유 있었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004744423?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004744423?sid=104"/>
+        <updated>2022-05-11T07:16:44.751Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744423?sid=104" class="nclicks(rig.secteco)" title="&quot;제로코로나 실패하면 160만명 사망&quot;…中 숨막히는 통제 이유 있었다">"제로코로나 실패하면 160만명 사망"…中 숨막히는 통제 이유 있었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크 “트럼프 트위터 계정 복구하겠다”…美서 논란 확산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003427809?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003427809?sid=104"/>
-        <updated>2022-05-11T06:23:51.271Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003427809?sid=104" class="nclicks(rig.secteco)" title="머스크 “트럼프 트위터 계정 복구하겠다”…美서 논란 확산">머스크 “트럼프 트위터 계정 복구하겠다”…美서 논란 확산</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹정부 규제 완화 기조에 4월 가계대출 1.2조 늘어…5개월만 증가 전환 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005212688?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005212688?sid=101"/>
-        <updated>2022-05-11T04:38:07.300Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005212688?sid=101" class="nclicks(rig.secteco)" title="尹정부 규제 완화 기조에 4월 가계대출 1.2조 늘어…5개월만 증가 전환">尹정부 규제 완화 기조에 4월 가계대출 1.2조 늘어…5개월만 증가 전환</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세계, 1분기 영업익 1636억원… 전년비 32.4% ↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000812035?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000812035?sid=101"/>
-        <updated>2022-05-11T06:23:51.273Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000812035?sid=101" class="nclicks(rig.secteco)" title="신세계, 1분기 영업익 1636억원… 전년비 32.4% ↑">신세계, 1분기 영업익 1636억원… 전년비 32.4% ↑</a>]]></content>
+        <title type="html"><![CDATA[신세계, 또 역대급 실적…1분기 매출·영업익 모두 사상최대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003194090?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003194090?sid=101"/>
+        <updated>2022-05-11T07:16:44.752Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194090?sid=101" class="nclicks(rig.secteco)" title="신세계, 또 역대급 실적…1분기 매출·영업익 모두 사상최대">신세계, 또 역대급 실적…1분기 매출·영업익 모두 사상최대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추경호 경제부총리 취임…"물가 등 민생 안정 최우선"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,53 +54,60 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013171669?sid=101" class="nclicks(rig.secteco)" title="추경호 경제부총리 취임…&quot;물가 등 민생 안정 최우선&quot;(종합)">추경호 경제부총리 취임…"물가 등 민생 안정 최우선"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이종호 과기정통부 장관 “ICT 홀대론, 尹대통령께 전달할 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000812740?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000812740?sid=105"/>
-        <updated>2022-05-11T05:25:25.917Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000812740?sid=105" class="nclicks(rig.secteco)" title="이종호 과기정통부 장관 “ICT 홀대론, 尹대통령께 전달할 것”">이종호 과기정통부 장관 “ICT 홀대론, 尹대통령께 전달할 것”</a>]]></content>
+        <title type="html"><![CDATA[대출금리 인상에도 불구, 은행권 가계대출 증가 전환 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003641736?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003641736?sid=101"/>
+        <updated>2022-05-11T07:16:44.761Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641736?sid=101" class="nclicks(rig.secteco)" title="대출금리 인상에도 불구, 은행권 가계대출 증가 전환">대출금리 인상에도 불구, 은행권 가계대출 증가 전환</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위메이드 "어닝쇼크는 착시효과"…위믹스 3.0으로 진화한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004744360?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004744360?sid=105"/>
-        <updated>2022-05-11T06:23:51.277Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744360?sid=105" class="nclicks(rig.secteco)" title="위메이드 &quot;어닝쇼크는 착시효과&quot;…위믹스 3.0으로 진화한다">위메이드 "어닝쇼크는 착시효과"…위믹스 3.0으로 진화한다</a>]]></content>
+        <title type="html"><![CDATA[울산에 C-ITS 구축한 KT, 레벨4 자율주행 시대 연다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002256433?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002256433?sid=105"/>
+        <updated>2022-05-11T07:16:44.761Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002256433?sid=105" class="nclicks(rig.secteco)" title="울산에 C-ITS 구축한 KT, 레벨4 자율주행 시대 연다">울산에 C-ITS 구축한 KT, 레벨4 자율주행 시대 연다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원, 용산 대통령실 인근 집회 허용...집행정지 일부 인용 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001737725?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001737725?sid=102"/>
-        <updated>2022-05-11T06:23:51.278Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001737725?sid=102" class="nclicks(rig.secteco)" title="법원, 용산 대통령실 인근 집회 허용...집행정지 일부 인용">법원, 용산 대통령실 인근 집회 허용...집행정지 일부 인용</a>]]></content>
+        <title type="html"><![CDATA[尹정부 과기수장 "국가 미래 책임질 핵심 부처…'홀대' 없다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004744472?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004744472?sid=105"/>
+        <updated>2022-05-11T07:16:44.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744472?sid=105" class="nclicks(rig.secteco)" title="尹정부 과기수장 &quot;국가 미래 책임질 핵심 부처…'홀대' 없다&quot;">尹정부 과기수장 "국가 미래 책임질 핵심 부처…'홀대' 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“자료 제출 부실”… 김현숙 청문회 1시간 만에 정회 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003694557?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003694557?sid=102"/>
-        <updated>2022-05-11T06:23:51.279Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003694557?sid=102" class="nclicks(rig.secteco)" title="“자료 제출 부실”… 김현숙 청문회 1시간 만에 정회">“자료 제출 부실”… 김현숙 청문회 1시간 만에 정회</a>]]></content>
+        <title type="html"><![CDATA[법원 "대통령 집무실, 관저 아니다"…집회·시위 허용(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013171785?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013171785?sid=102"/>
+        <updated>2022-05-11T07:16:44.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013171785?sid=102" class="nclicks(rig.secteco)" title="법원 &quot;대통령 집무실, 관저 아니다&quot;…집회·시위 허용(종합)">법원 "대통령 집무실, 관저 아니다"…집회·시위 허용(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['디스커버리 펀드' 피해자들 "사기판매 핵심 장하원 구속해야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005212864?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005212864?sid=102"/>
-        <updated>2022-05-11T06:23:51.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005212864?sid=102" class="nclicks(rig.secteco)" title="'디스커버리 펀드' 피해자들 &quot;사기판매 핵심 장하원 구속해야&quot;">'디스커버리 펀드' 피해자들 "사기판매 핵심 장하원 구속해야"</a>]]></content>
+        <title type="html"><![CDATA[김현숙 "여가부 폐지 원칙 분명…국민과 약속 지켜야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011178350?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011178350?sid=102"/>
+        <updated>2022-05-11T07:16:44.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011178350?sid=102" class="nclicks(rig.secteco)" title="김현숙 &quot;여가부 폐지 원칙 분명…국민과 약속 지켜야&quot;">김현숙 "여가부 폐지 원칙 분명…국민과 약속 지켜야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["수연아, 뭐가 그리 바빠서" 임권택 감독 탄식…눈물의 영결식 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003194056?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003194056?sid=103"/>
-        <updated>2022-05-11T06:23:51.282Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194056?sid=103" class="nclicks(rig.secteco)" title="&quot;수연아, 뭐가 그리 바빠서&quot; 임권택 감독 탄식…눈물의 영결식">"수연아, 뭐가 그리 바빠서" 임권택 감독 탄식…눈물의 영결식</a>]]></content>
+        <title type="html"><![CDATA[“장하원 즉각 구속하라” 디스커버리 피해자 남부지검 앞에서 기자회견 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003690743?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003690743?sid=102"/>
+        <updated>2022-05-11T07:16:44.763Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003690743?sid=102" class="nclicks(rig.secteco)" title="“장하원 즉각 구속하라” 디스커버리 피해자 남부지검 앞에서 기자회견">“장하원 즉각 구속하라” 디스커버리 피해자 남부지검 앞에서 기자회견</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["참담" 강수연 눈물의 영결식…이와중에 '충격 고백' 막장 경쟁 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003194085?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003194085?sid=103"/>
+        <updated>2022-05-11T07:16:44.764Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194085?sid=103" class="nclicks(rig.secteco)" title="&quot;참담&quot; 강수연 눈물의 영결식…이와중에 '충격 고백' 막장 경쟁">"참담" 강수연 눈물의 영결식…이와중에 '충격 고백' 막장 경쟁</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘타는 목마름으로’ 김지하 시인, 부인 곁에서 영면 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004052465?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004052465?sid=103"/>
-        <updated>2022-05-11T06:23:51.283Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004052465?sid=103" class="nclicks(rig.secteco)" title="‘타는 목마름으로’ 김지하 시인, 부인 곁에서 영면">‘타는 목마름으로’ 김지하 시인, 부인 곁에서 영면</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/011/0004052501?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004052501?sid=103"/>
+        <updated>2022-05-11T07:16:44.765Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004052501?sid=103" class="nclicks(rig.secteco)" title="‘타는 목마름으로’ 김지하 시인, 부인 곁에서 영면">‘타는 목마름으로’ 김지하 시인, 부인 곁에서 영면</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
