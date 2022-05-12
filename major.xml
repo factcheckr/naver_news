@@ -2,50 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-05-12T03:13:54.845Z</updated>
+    <updated>2022-05-12T04:29:05.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[尹, 박진·이상민 장관 임명 강행…이창양·이영 추가해 국무회의(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006087757?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006087757?sid=100"/>
-        <updated>2022-05-12T03:13:27.250Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006087757?sid=100" class="nclicks(rig.secteco)" title="尹, 박진·이상민 장관 임명 강행…이창양·이영 추가해 국무회의(종합)">尹, 박진·이상민 장관 임명 강행…이창양·이영 추가해 국무회의(종합)</a>]]></content>
+        <title type="html"><![CDATA['성비위 제명' 박완주, 과거엔 "박근혜 정권서 여성 처지 어려워져"]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000031338?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000031338?sid=100"/>
+        <updated>2022-05-12T04:28:35.840Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000031338?sid=100" class="nclicks(rig.secteco)" title="'성비위 제명' 박완주, 과거엔 &quot;박근혜 정권서 여성 처지 어려워져&quot;">'성비위 제명' 박완주, 과거엔 "박근혜 정권서 여성 처지 어려워져"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['성비위 사건' 박완주 제명...지방선거 앞둔 민주당은 걱정 태산]]></title>
-        <id>https://n.news.naver.com/mnews/article/053/0000031337?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/053/0000031337?sid=100"/>
-        <updated>2022-05-12T03:13:27.255Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000031337?sid=100" class="nclicks(rig.secteco)" title="'성비위 사건' 박완주 제명...지방선거 앞둔 민주당은 걱정 태산">'성비위 사건' 박완주 제명...지방선거 앞둔 민주당은 걱정 태산</a>]]></content>
+        <title type="html"><![CDATA[尹 대통령, 박진·이상민 임명…‘600만 원+α’ 속도]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000226854?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000226854?sid=100"/>
+        <updated>2022-05-12T04:28:35.841Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000226854?sid=100" class="nclicks(rig.secteco)" title="尹 대통령, 박진·이상민 임명…‘600만 원+α’ 속도">尹 대통령, 박진·이상민 임명…‘600만 원+α’ 속도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한서 첫 코로나19 감염자 발생..."국가 최중대 비상 사건"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001738119?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001738119?sid=100"/>
-        <updated>2022-05-12T03:13:27.256Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001738119?sid=100" class="nclicks(rig.secteco)" title="북한서 첫 코로나19 감염자 발생...&quot;국가 최중대 비상 사건&quot;">북한서 첫 코로나19 감염자 발생..."국가 최중대 비상 사건"</a>]]></content>
+        <title type="html"><![CDATA['코로나 0' 이라던 北 "오미크론 나왔다"…이례적 공개한 이유]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003194331?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003194331?sid=100"/>
+        <updated>2022-05-12T04:28:35.843Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194331?sid=100" class="nclicks(rig.secteco)" title="'코로나 0' 이라던 北 &quot;오미크론 나왔다&quot;…이례적 공개한 이유">'코로나 0' 이라던 北 "오미크론 나왔다"…이례적 공개한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["비행기 조종사 쓰러지고 나는 조종할 줄 모르고"…30분 후 '대반전']]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004962795?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004962795?sid=104"/>
-        <updated>2022-05-12T03:13:27.257Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004962795?sid=104" class="nclicks(rig.secteco)" title="&quot;비행기 조종사 쓰러지고 나는 조종할 줄 모르고&quot;…30분 후 '대반전'">"비행기 조종사 쓰러지고 나는 조종할 줄 모르고"…30분 후 '대반전'</a>]]></content>
+        <title type="html"><![CDATA[비행 중 갑자기 의식 잃은 조종사…경험없는 승객이 무사 착륙시켰다]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011180131?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011180131?sid=104"/>
+        <updated>2022-05-12T04:28:35.844Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011180131?sid=104" class="nclicks(rig.secteco)" title="비행 중 갑자기 의식 잃은 조종사…경험없는 승객이 무사 착륙시켰다">비행 중 갑자기 의식 잃은 조종사…경험없는 승객이 무사 착륙시켰다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[둘로 갈라진 유엔 안보리…'대북 제재' 놓고 미vs중·러 '충돌']]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005213303?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005213303?sid=104"/>
-        <updated>2022-05-12T03:13:27.258Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005213303?sid=104" class="nclicks(rig.secteco)" title="둘로 갈라진 유엔 안보리…'대북 제재' 놓고 미vs중·러 '충돌'">둘로 갈라진 유엔 안보리…'대북 제재' 놓고 미vs중·러 '충돌'</a>]]></content>
+        <title type="html"><![CDATA[북 핵실험 임박설에도…안보리 긴급회의 ‘미-중·러 대립’만]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002590299?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002590299?sid=104"/>
+        <updated>2022-05-12T04:28:35.846Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002590299?sid=104" class="nclicks(rig.secteco)" title="북 핵실험 임박설에도…안보리 긴급회의 ‘미-중·러 대립’만">북 핵실험 임박설에도…안보리 긴급회의 ‘미-중·러 대립’만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘대한민국 산업 1세대’ 구자학 아워홈 회장 별세]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005213276?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005213276?sid=101"/>
-        <updated>2022-05-12T01:19:23.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005213276?sid=101" class="nclicks(rig.secteco)" title="‘대한민국 산업 1세대’ 구자학 아워홈 회장 별세">‘대한민국 산업 1세대’ 구자학 아워홈 회장 별세</a>]]></content>
+        <title type="html"><![CDATA[[구자학 별세] 부친 임종 앞두고 가족장 vs 회사장 갈등 빚은 장남 구본성]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000813021?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000813021?sid=101"/>
+        <updated>2022-05-12T04:28:35.863Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000813021?sid=101" class="nclicks(rig.secteco)" title="[구자학 별세] 부친 임종 앞두고 가족장 vs 회사장 갈등 빚은 장남 구본성">[구자학 별세] 부친 임종 앞두고 가족장 vs 회사장 갈등 빚은 장남 구본성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['K-코인' 루나, 1주일새 99% 폭락…"죽음의 소용돌이 향해가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004744926?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004744926?sid=101"/>
+        <updated>2022-05-12T04:28:35.864Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744926?sid=101" class="nclicks(rig.secteco)" title="'K-코인' 루나, 1주일새 99% 폭락…&quot;죽음의 소용돌이 향해가&quot;">'K-코인' 루나, 1주일새 99% 폭락…"죽음의 소용돌이 향해가"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주가 떨어진 쿠팡, 분기 매출 6조5천억 사상 최대 달성]]></title>
@@ -55,46 +62,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003641982?sid=101" class="nclicks(rig.secteco)" title="주가 떨어진 쿠팡, 분기 매출 6조5천억 사상 최대 달성">주가 떨어진 쿠팡, 분기 매출 6조5천억 사상 최대 달성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테라 폭락에…'Fed 경고' 스테이블코인發 금융충격 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005087835?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005087835?sid=101"/>
-        <updated>2022-05-12T03:13:27.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005087835?sid=101" class="nclicks(rig.secteco)" title="테라 폭락에…'Fed 경고' 스테이블코인發 금융충격 우려">테라 폭락에…'Fed 경고' 스테이블코인發 금융충격 우려</a>]]></content>
+        <title type="html"><![CDATA[5G 가입자 늘고, 디지코 성장…KT, 1Q 영업익 12년 만에 최대 (종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002124521?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002124521?sid=105"/>
+        <updated>2022-05-12T04:28:35.864Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002124521?sid=105" class="nclicks(rig.secteco)" title="5G 가입자 늘고, 디지코 성장…KT,  1Q 영업익 12년 만에 최대 (종합)">5G 가입자 늘고, 디지코 성장…KT, 1Q 영업익 12년 만에 최대 (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT, 1분기 영업익 41% 폭풍 성장…"디지코 도약 순풍"]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004962792?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004962792?sid=105"/>
-        <updated>2022-05-12T03:13:27.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004962792?sid=105" class="nclicks(rig.secteco)" title="KT, 1분기 영업익 41% 폭풍 성장…&quot;디지코 도약 순풍&quot;">KT, 1분기 영업익 41% 폭풍 성장…"디지코 도약 순풍"</a>]]></content>
+        <title type="html"><![CDATA[갤럭시 워치에 구글 어시스턴트 담긴다…삼성 시너지 속도]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004052778?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004052778?sid=105"/>
+        <updated>2022-05-12T04:28:35.864Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004052778?sid=105" class="nclicks(rig.secteco)" title="갤럭시 워치에 구글 어시스턴트 담긴다…삼성 시너지 속도">갤럭시 워치에 구글 어시스턴트 담긴다…삼성 시너지 속도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국서 외면받은 '검은사막M'... 펄어비스 "매출반등 자신"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004744810?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004744810?sid=105"/>
-        <updated>2022-05-12T03:13:27.270Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004744810?sid=105" class="nclicks(rig.secteco)" title="중국서 외면받은 '검은사막M'... 펄어비스 &quot;매출반등 자신&quot;">중국서 외면받은 '검은사막M'... 펄어비스 "매출반등 자신"</a>]]></content>
+        <title type="html"><![CDATA[이상직, 국회의원직 상실… 여전히 남은 사건들]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000031336?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000031336?sid=102"/>
+        <updated>2022-05-12T04:28:35.864Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000031336?sid=102" class="nclicks(rig.secteco)" title="이상직, 국회의원직 상실… 여전히 남은 사건들">이상직, 국회의원직 상실… 여전히 남은 사건들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["선거구민에 전통주 돌렸다"…이상직 유죄 확정, 의원직 상실]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003194296?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003194296?sid=102"/>
-        <updated>2022-05-12T03:13:27.273Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003194296?sid=102" class="nclicks(rig.secteco)" title="&quot;선거구민에 전통주 돌렸다&quot;…이상직 유죄 확정, 의원직 상실">"선거구민에 전통주 돌렸다"…이상직 유죄 확정, 의원직 상실</a>]]></content>
+        <title type="html"><![CDATA[경찰, 용산 집무실 집회 일부 허용 결정에 항고하기로]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006087934?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006087934?sid=102"/>
+        <updated>2022-05-12T04:28:35.870Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006087934?sid=102" class="nclicks(rig.secteco)" title="경찰, 용산 집무실 집회 일부 허용 결정에 항고하기로">경찰, 용산 집무실 집회 일부 허용 결정에 항고하기로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢, ‘로톡’ 무혐의 처분…코스포·변호사 ‘환영’ vs 변협 ‘유감’]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002124536?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002124536?sid=102"/>
-        <updated>2022-05-12T03:13:27.275Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002124536?sid=102" class="nclicks(rig.secteco)" title="檢, ‘로톡’ 무혐의 처분…코스포·변호사 ‘환영’ vs 변협 ‘유감’">檢, ‘로톡’ 무혐의 처분…코스포·변호사 ‘환영’ vs 변협 ‘유감’</a>]]></content>
+        <title type="html"><![CDATA[‘야놀자 vs 여기어때’ 정보 빼가기 다툼…法 판단은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001525480?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001525480?sid=102"/>
+        <updated>2022-05-12T04:28:35.871Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001525480?sid=102" class="nclicks(rig.secteco)" title="‘야놀자 vs 여기어때’ 정보 빼가기 다툼…法 판단은?">‘야놀자 vs 여기어때’ 정보 빼가기 다툼…法 판단은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['야놀자 vs 여기어때' 정보 무단복제 논란…대법 "불법 아니다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004697802?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004697802?sid=102"/>
-        <updated>2022-05-12T03:13:27.276Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004697802?sid=102" class="nclicks(rig.secteco)" title="'야놀자 vs 여기어때' 정보 무단복제 논란…대법 &quot;불법 아니다&quot;">'야놀자 vs 여기어때' 정보 무단복제 논란…대법 "불법 아니다"</a>]]></content>
+        <title type="html"><![CDATA['80세 피아니스트' 마우리치오 폴리니 내한공연 무산]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005213609?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005213609?sid=103"/>
+        <updated>2022-05-12T04:28:35.873Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005213609?sid=103" class="nclicks(rig.secteco)" title="'80세 피아니스트' 마우리치오 폴리니 내한공연 무산">'80세 피아니스트' 마우리치오 폴리니 내한공연 무산</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차 홍보대사 로스차일드 “친환경 이동수단 선한 영향력 알릴 것”]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/016/0001989901?sid=103"/>
         <updated>2022-05-12T03:13:27.277Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0001989901?sid=103" class="nclicks(rig.secteco)" title="현대차 홍보대사 로스차일드 “친환경 이동수단 선한 영향력 알릴 것”">현대차 홍보대사 로스차일드 “친환경 이동수단 선한 영향력 알릴 것”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전설의 피아니스트' 80세 폴리니 내한일정 취소는 건강문제]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013173943?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013173943?sid=103"/>
-        <updated>2022-05-12T03:13:27.277Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013173943?sid=103" class="nclicks(rig.secteco)" title="'전설의 피아니스트' 80세 폴리니 내한일정 취소는 건강문제">'전설의 피아니스트' 80세 폴리니 내한일정 취소는 건강문제</a>]]></content>
     </entry>
 </feed>
