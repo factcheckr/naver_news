@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;decorator=ombudsman&amp;confirm=true</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도</title>
-    <updated>2022-05-12T23:18:03.935Z</updated>
+    <updated>2022-06-04T13:14:36.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/hotissue/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 여론조사] 서울시교육감 조희연 선두…'보수후보 3명 합산' 보다는 낮아]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002607008?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002607008?sid=100"/>
+        <updated>2022-06-04T13:14:35.907Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 여론조사] 조전혁이 조희연에 앞서…서울시교육감 가상 양자대결]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002607009?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002607009?sid=100"/>
+        <updated>2022-06-04T13:14:35.908Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '변호사비 대납 의혹' S사 실소유주, 김동연 출마하자 고액 후원]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000360889?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000360889?sid=100"/>
+        <updated>2022-06-04T13:14:35.909Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우승희 ‘현금 동원’ 권리당원 불법 모집 의혹 불거져]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000151066?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000151066?sid=100"/>
+        <updated>2022-06-04T13:14:35.910Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천계양을 이재명 윤형선 국힘후보에 3.7% 밀려]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001527692?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001527692?sid=100"/>
+        <updated>2022-06-04T13:14:35.917Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 삭발·정당색깔 점퍼…‘교육’ 실종된 교육감 유세 현장]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003196225?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003196225?sid=100"/>
+        <updated>2022-06-04T13:14:35.918Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 서울 원정 건강검진비 할인 특혜 의혹 이춘희 세종시장 수사]]></title>
         <id>https://n.news.naver.com/mnews/article/586/0000037760?sid=100</id>
@@ -172,47 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/308/0000030117?sid=100"/>
         <updated>2022-04-26T22:16:16.205Z</updated>
         <content type="html"><![CDATA[시사IN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석 이재명, 준비 안 해놓고 ‘환경 탓…거짓말쟁이]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000349615?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000349615?sid=100"/>
-        <updated>2022-04-26T22:16:16.208Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거 코앞인데 다시 뒤집혔다...윤석열 36.1% vs 이재명 34.9%]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004698186?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004698186?sid=100"/>
-        <updated>2022-04-26T22:16:16.209Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 34.9% 윤석열 36.1%…대선 49일 전 뒤집혔다 [한국갤럽]]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003167732?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003167732?sid=100"/>
-        <updated>2022-04-26T22:16:16.210Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘친형이고 조카고 없다…쌍욕 세례’ 이재명 부부, 욕설 들어보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000741155?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000741155?sid=100"/>
-        <updated>2022-04-26T22:16:16.210Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 재판, 속속 드러나는 ‘윗선의 입김’]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002500248?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002500248?sid=100"/>
-        <updated>2022-04-26T22:16:16.211Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴있저] 해외 여행 동행 인정…출입국 기록 삭제 의혹도 재점화?]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001690857?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001690857?sid=100"/>
-        <updated>2022-04-26T22:16:16.212Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
