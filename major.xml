@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-04T14:13:41.136Z</updated>
+    <updated>2022-06-04T15:15:06.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002593400?sid=100" class="nclicks(rig.secteco)" title="한-미, 4년7개월만에 핵항모 동원 연합훈련…대북 무력 시위">한-미, 4년7개월만에 핵항모 동원 연합훈련…대북 무력 시위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친명계 반격 시작되나… 김남국 “일부 의원들 ‘이재명 죽이기’ 기획”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003702314?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003702314?sid=100"/>
-        <updated>2022-06-04T14:13:09.946Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003702314?sid=100" class="nclicks(rig.secteco)" title="친명계 반격 시작되나… 김남국 “일부 의원들 ‘이재명 죽이기’ 기획”">친명계 반격 시작되나… 김남국 “일부 의원들 ‘이재명 죽이기’ 기획”</a>]]></content>
+        <title type="html"><![CDATA[김남국 "'이재명 죽이기', 선거 전부터 기획한 듯"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004846839?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004846839?sid=100"/>
+        <updated>2022-06-04T15:14:40.105Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004846839?sid=100" class="nclicks(rig.secteco)" title="김남국 &quot;'이재명 죽이기', 선거 전부터 기획한 듯&quot;">김남국 "'이재명 죽이기', 선거 전부터 기획한 듯"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주당 패배 요인은?…권성동 "처럼회 같은 극단주의자에 의지"]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001667965?sid=100" class="nclicks(rig.secteco)" title="민주당 패배 요인은?…권성동 &quot;처럼회 같은 극단주의자에 의지&quot;">민주당 패배 요인은?…권성동 "처럼회 같은 극단주의자에 의지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003200078?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003200078?sid=104"/>
-        <updated>2022-06-04T14:13:09.949Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200078?sid=104" class="nclicks(rig.secteco)" title="&quot;기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진&quot;">"기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진"</a>]]></content>
+        <title type="html"><![CDATA["기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013227106?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013227106?sid=104"/>
+        <updated>2022-06-04T15:14:40.109Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013227106?sid=104" class="nclicks(rig.secteco)" title="&quot;기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진&quot;(종합)">"기시다, 나토 정상회의 참석 검토…韓, 정상회담 타진"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴 "마리우폴·벨라루스로 곡물 수출 가능"…식량난 책임 서방에(종합)]]></title>
@@ -83,25 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003199949?sid=102" class="nclicks(rig.secteco)" title="&quot;尹 자택 테러합니다&quot;…김건희 팬카페 올라온 '테러글'에 발칵">"尹 자택 테러합니다"…김건희 팬카페 올라온 '테러글'에 발칵</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규 확진 이틀째 1만2000명대…토요일 기준 '19주만에 최저'(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006139353?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006139353?sid=102"/>
-        <updated>2022-06-04T13:14:03.672Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006139353?sid=102" class="nclicks(rig.secteco)" title="신규 확진 이틀째 1만2000명대…토요일 기준 '19주만에 최저'(종합)">신규 확진 이틀째 1만2000명대…토요일 기준 '19주만에 최저'(종합)</a>]]></content>
+        <title type="html"><![CDATA[양산·용산서 “전라도 가라” “나쁜 ??“ …욕설·고성 쏟아지자 식은땀이 흘렀다]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000042387?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000042387?sid=102"/>
+        <updated>2022-06-04T15:14:40.113Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000042387?sid=102" class="nclicks(rig.secteco)" title="양산·용산서  “전라도 가라” “나쁜 ??“ …욕설·고성 쏟아지자 식은땀이 흘렀다">양산·용산서 “전라도 가라” “나쁜 ??“ …욕설·고성 쏟아지자 식은땀이 흘렀다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문 사저 시위 금지했지만‥현장은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001200767?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001200767?sid=102"/>
-        <updated>2022-06-04T14:13:09.962Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001200767?sid=102" class="nclicks(rig.secteco)" title="문 사저 시위 금지했지만‥현장은?">문 사저 시위 금지했지만‥현장은?</a>]]></content>
+        <title type="html"><![CDATA[9년만에 터진 123억 '대박 로또'…부산·인천서 1등 2명 나왔다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003200079?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003200079?sid=102"/>
+        <updated>2022-06-04T15:14:40.117Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200079?sid=102" class="nclicks(rig.secteco)" title="9년만에 터진 123억 '대박 로또'…부산·인천서 1등 2명 나왔다">9년만에 터진 123억 '대박 로또'…부산·인천서 1등 2명 나왔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말 30도 안팎 더위…5일부터 남부·영동 지방 단비]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003199977?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003199977?sid=103"/>
-        <updated>2022-06-04T13:14:03.673Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003199977?sid=103" class="nclicks(rig.secteco)" title="주말 30도 안팎 더위…5일부터 남부·영동 지방 단비">주말 30도 안팎 더위…5일부터 남부·영동 지방 단비</a>]]></content>
+        <title type="html"><![CDATA[오늘 새벽 남부지방 비 확대…낮부터 동해안에도 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011278305?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011278305?sid=103"/>
+        <updated>2022-06-04T15:14:40.117Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011278305?sid=103" class="nclicks(rig.secteco)" title="오늘 새벽 남부지방 비 확대…낮부터 동해안에도 비">오늘 새벽 남부지방 비 확대…낮부터 동해안에도 비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4∼7일 ‘장마 예행연습’… 제주·남부·영동에 최고 100㎜ 비]]></title>
