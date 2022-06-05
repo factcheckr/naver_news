@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/hotissue/sectionList.naver?mid=hot&amp;sid1=100&amp;cid=909906&amp;decorator=ombudsman&amp;confirm=true</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도</title>
-    <updated>2022-06-05T05:15:49.984Z</updated>
+    <updated>2022-06-05T06:18:17.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/hotissue/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000151066?sid=100"/>
         <updated>2022-06-04T13:14:35.910Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천계양을 이재명 윤형선 국힘후보에 3.7% 밀려]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001527692?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001527692?sid=100"/>
-        <updated>2022-06-04T13:14:35.917Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 삭발·정당색깔 점퍼…‘교육’ 실종된 교육감 유세 현장]]></title>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/308/0000030117?sid=100"/>
         <updated>2022-04-26T22:16:16.205Z</updated>
         <content type="html"><![CDATA[시사IN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석 이재명, 준비 안 해놓고 ‘환경 탓…거짓말쟁이]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000349615?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000349615?sid=100"/>
+        <updated>2022-06-05T06:18:16.988Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
