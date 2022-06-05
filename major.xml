@@ -2,64 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-05T01:21:59.010Z</updated>
+    <updated>2022-06-05T03:09:46.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 한미훈련 다음날…"北, 동해로 탄도미사일 여러발 발사"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003200102?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003200102?sid=100"/>
-        <updated>2022-06-05T01:21:30.038Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200102?sid=100" class="nclicks(rig.secteco)" title="[속보] 한미훈련 다음날…&quot;北, 동해로 탄도미사일 여러발 발사&quot;">[속보] 한미훈련 다음날…"北, 동해로 탄도미사일 여러발 발사"</a>]]></content>
+        <title type="html"><![CDATA[이례적 미사일 8발 발사…한미훈련·북핵수석회동 겨냥]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011229821?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011229821?sid=100"/>
+        <updated>2022-06-05T03:09:16.086Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011229821?sid=100" class="nclicks(rig.secteco)" title="이례적 미사일 8발 발사…한미훈련·북핵수석회동 겨냥">이례적 미사일 8발 발사…한미훈련·북핵수석회동 겨냥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4년7개월만에 핵항모 동원 연합훈련…한미 "북 어떤 도발도 대응"]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000545173?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000545173?sid=100"/>
-        <updated>2022-06-05T01:21:30.039Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000545173?sid=100" class="nclicks(rig.secteco)" title="4년7개월만에 핵항모 동원 연합훈련…한미 &quot;북 어떤 도발도 대응&quot;">4년7개월만에 핵항모 동원 연합훈련…한미 "북 어떤 도발도 대응"</a>]]></content>
+        <title type="html"><![CDATA[우크라이나 방문 이준석 “현지서 의약품 등 한국의 많은 지원 바라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000818856?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000818856?sid=100"/>
+        <updated>2022-06-05T03:09:16.090Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000818856?sid=100" class="nclicks(rig.secteco)" title="우크라이나 방문 이준석 “현지서 의약품 등 한국의 많은 지원 바라”">우크라이나 방문 이준석 “현지서 의약품 등 한국의 많은 지원 바라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박지원, 다음주 文 전 대통령 만난다… 민주당 복당 나서나]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000819649?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000819649?sid=100"/>
-        <updated>2022-06-05T01:21:30.047Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000819649?sid=100" class="nclicks(rig.secteco)" title="박지원, 다음주 文 전 대통령 만난다… 민주당 복당 나서나">박지원, 다음주 文 전 대통령 만난다… 민주당 복당 나서나</a>]]></content>
+        <title type="html"><![CDATA[박지원 "민주당, 민생 실종 인신공격만 난무…3연패가 기다릴 뿐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005234204?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005234204?sid=100"/>
+        <updated>2022-06-05T03:09:16.093Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005234204?sid=100" class="nclicks(rig.secteco)" title="박지원 &quot;민주당, 민생 실종 인신공격만 난무…3연패가 기다릴 뿐&quot;">박지원 "민주당, 민생 실종 인신공격만 난무…3연패가 기다릴 뿐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTS에 BTS 노래 들려준 바이든…BTS 백악관 영상 2탄 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013227230?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013227230?sid=104"/>
-        <updated>2022-06-05T01:21:30.048Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013227230?sid=104" class="nclicks(rig.secteco)" title="BTS에 BTS 노래 들려준 바이든…BTS 백악관 영상 2탄 공개">BTS에 BTS 노래 들려준 바이든…BTS 백악관 영상 2탄 공개</a>]]></content>
+        <title type="html"><![CDATA[백악관, BTS-바이든 환담 영상 공개 "무척 역사적인 날"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003650779?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003650779?sid=104"/>
+        <updated>2022-06-05T03:09:16.094Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003650779?sid=104" class="nclicks(rig.secteco)" title="백악관, BTS-바이든 환담 영상 공개 &quot;무척 역사적인 날&quot;">백악관, BTS-바이든 환담 영상 공개 "무척 역사적인 날"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세베로도네츠크 "일부 탈환"vs"퇴각"...양국 주장 엇갈려]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002277066?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002277066?sid=104"/>
-        <updated>2022-06-05T01:21:30.048Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002277066?sid=104" class="nclicks(rig.secteco)" title="세베로도네츠크 &quot;일부 탈환&quot;vs&quot;퇴각&quot;...양국 주장 엇갈려">세베로도네츠크 "일부 탈환"vs"퇴각"...양국 주장 엇갈려</a>]]></content>
+        <title type="html"><![CDATA[총격범 들을까 작게 말하자…“왜 속삭이냐”며 신고전화 끊은 911직원 해고]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003277906?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003277906?sid=104"/>
+        <updated>2022-06-05T03:09:16.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003277906?sid=104" class="nclicks(rig.secteco)" title="총격범 들을까 작게 말하자…“왜 속삭이냐”며 신고전화 끊은 911직원 해고">총격범 들을까 작게 말하자…“왜 속삭이냐”며 신고전화 끊은 911직원 해고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신동빈 롯데 회장, 2030부산세계박람회 유치 힘 싣는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005234170?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005234170?sid=101"/>
-        <updated>2022-06-05T01:21:30.050Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005234170?sid=101" class="nclicks(rig.secteco)" title="신동빈 롯데 회장, 2030부산세계박람회 유치 힘 싣는다">신동빈 롯데 회장, 2030부산세계박람회 유치 힘 싣는다</a>]]></content>
+        <title type="html"><![CDATA[신동빈, 롯데 오픈서 '부산세계박람회' 유치 홍보맨 자처]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000153492?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000153492?sid=101"/>
+        <updated>2022-06-05T03:09:16.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000153492?sid=101" class="nclicks(rig.secteco)" title="신동빈, 롯데 오픈서 '부산세계박람회' 유치 홍보맨 자처">신동빈, 롯데 오픈서 '부산세계박람회' 유치 홍보맨 자처</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울시청에 웬 북극곰? HS애드 환경의 날 맞아 3D 영상 선봬]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005234189?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005234189?sid=101"/>
-        <updated>2022-06-05T01:21:30.051Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005234189?sid=101" class="nclicks(rig.secteco)" title="서울시청에 웬 북극곰? HS애드 환경의 날 맞아 3D 영상 선봬">서울시청에 웬 북극곰? HS애드 환경의 날 맞아 3D 영상 선봬</a>]]></content>
+        <title type="html"><![CDATA[검사기간 지난 중고차 살 때 '미실시' 통지받는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003151300?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003151300?sid=101"/>
+        <updated>2022-06-05T03:09:16.100Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003151300?sid=101" class="nclicks(rig.secteco)" title="검사기간 지난 중고차 살 때 '미실시' 통지받는다">검사기간 지난 중고차 살 때 '미실시' 통지받는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인터넷은행 가계대출, 다섯달 연속 증가… 시중은행은 줄어]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000818833?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000818833?sid=101"/>
-        <updated>2022-06-05T01:21:30.052Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000818833?sid=101" class="nclicks(rig.secteco)" title="인터넷은행 가계대출, 다섯달 연속 증가… 시중은행은 줄어">인터넷은행 가계대출, 다섯달 연속 증가… 시중은행은 줄어</a>]]></content>
+        <title type="html"><![CDATA[기름값에 세차·수리비도 다 올라…차 굴리는 비용 25.2%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005234182?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005234182?sid=101"/>
+        <updated>2022-06-05T03:09:16.102Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005234182?sid=101" class="nclicks(rig.secteco)" title="기름값에 세차·수리비도 다 올라…차 굴리는 비용 25.2%↑">기름값에 세차·수리비도 다 올라…차 굴리는 비용 25.2%↑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKB, 한국광해광업공단과 스마트 마이닝 사업 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002609933?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002609933?sid=105"/>
+        <updated>2022-06-05T03:09:16.103Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002609933?sid=105" class="nclicks(rig.secteco)" title="SKB, 한국광해광업공단과 스마트 마이닝 사업 추진">SKB, 한국광해광업공단과 스마트 마이닝 사업 추진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘MZ세대 찐팬 늘겠네’…LG유플러스, 폐플라스틱 유니폼 입는다]]></title>
@@ -69,25 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/050/0000060962?sid=105" class="nclicks(rig.secteco)" title="‘MZ세대 찐팬 늘겠네’…LG유플러스, 폐플라스틱 유니폼 입는다">‘MZ세대 찐팬 늘겠네’…LG유플러스, 폐플라스틱 유니폼 입는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거리두기 해제에 에버랜드·레고랜드 티맵 검색 증가]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004061665?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004061665?sid=105"/>
-        <updated>2022-06-05T01:21:30.055Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004061665?sid=105" class="nclicks(rig.secteco)" title="거리두기 해제에 에버랜드·레고랜드 티맵 검색 증가">거리두기 해제에 에버랜드·레고랜드 티맵 검색 증가</a>]]></content>
+        <title type="html"><![CDATA[9835명 확진, 사흘만에 다시 1만명 아래…위중증 136명(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006139830?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006139830?sid=102"/>
+        <updated>2022-06-05T03:09:16.107Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006139830?sid=102" class="nclicks(rig.secteco)" title="9835명 확진, 사흘만에 다시 1만명 아래…위중증 136명(종합)">9835명 확진, 사흘만에 다시 1만명 아래…위중증 136명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19 신규 확진 9,835명…3일 만에 1만 명 아래]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011278335?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011278335?sid=102"/>
-        <updated>2022-06-05T01:21:30.056Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011278335?sid=102" class="nclicks(rig.secteco)" title="코로나19 신규 확진 9,835명…3일 만에 1만 명 아래">코로나19 신규 확진 9,835명…3일 만에 1만 명 아래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002277062?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002277062?sid=102"/>
-        <updated>2022-06-05T01:21:30.058Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002277062?sid=102" class="nclicks(rig.secteco)" title="[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심">[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심</a>]]></content>
+        <title type="html"><![CDATA['남자 n번방' 김영준, 징역 10년 확정…상고 포기]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005234208?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005234208?sid=102"/>
+        <updated>2022-06-05T03:09:16.109Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005234208?sid=102" class="nclicks(rig.secteco)" title="'남자 n번방' 김영준, 징역 10년 확정…상고 포기">'남자 n번방' 김영준, 징역 10년 확정…상고 포기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사장 아닌 상무가 노조 회유·압박…대법 “임원도 부당노동행위 구제신청 대상”]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002593409?sid=102" class="nclicks(rig.secteco)" title="사장 아닌 상무가 노조 회유·압박…대법 “임원도 부당노동행위 구제신청 대상”">사장 아닌 상무가 노조 회유·압박…대법 “임원도 부당노동행위 구제신청 대상”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최하영, ‘퀸 엘리자베스 콩쿠르’ 우승…첼로 부문 한국인 최초]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003432532?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003432532?sid=103"/>
-        <updated>2022-06-05T01:21:30.062Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003432532?sid=103" class="nclicks(rig.secteco)" title="최하영, ‘퀸 엘리자베스 콩쿠르’ 우승…첼로 부문 한국인 최초">최하영, ‘퀸 엘리자베스 콩쿠르’ 우승…첼로 부문 한국인 최초</a>]]></content>
+        <title type="html"><![CDATA[첼리스트 최하영, 퀸 엘리자베스 콩쿠르 우승]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004973503?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004973503?sid=103"/>
+        <updated>2022-06-05T03:09:16.112Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004973503?sid=103" class="nclicks(rig.secteco)" title="첼리스트 최하영, 퀸 엘리자베스 콩쿠르 우승">첼리스트 최하영, 퀸 엘리자베스 콩쿠르 우승</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 현재 충청·남부 비...제주도 호우주의보, 비 전망은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001747701?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001747701?sid=103"/>
-        <updated>2022-06-05T01:21:30.063Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001747701?sid=103" class="nclicks(rig.secteco)" title="[날씨] 현재 충청·남부 비...제주도 호우주의보, 비 전망은?">[날씨] 현재 충청·남부 비...제주도 호우주의보, 비 전망은?</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002277062?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002277062?sid=103"/>
+        <updated>2022-06-05T03:09:16.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002277062?sid=103" class="nclicks(rig.secteco)" title="[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심">[날씨] 강원 경북 제주도에 많은 비, 동해안 너울 조심</a>]]></content>
     </entry>
 </feed>
