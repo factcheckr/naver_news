@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-07T15:16:43.809Z</updated>
+    <updated>2022-06-07T16:23:54.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[위기 속 비대위 맡은 우상호…'또86' 지적 뚫고 내홍 봉합할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013231599?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013231599?sid=100"/>
-        <updated>2022-06-07T15:16:16.528Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013231599?sid=100" class="nclicks(rig.secteco)" title="위기 속 비대위 맡은 우상호…'또86' 지적 뚫고 내홍 봉합할까">위기 속 비대위 맡은 우상호…'또86' 지적 뚫고 내홍 봉합할까</a>]]></content>
+        <title type="html"><![CDATA[민주당, 비대위원장에 우상호 추대…"중립적 리더십 기대"]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002610473?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002610473?sid=100"/>
+        <updated>2022-06-07T16:23:23.316Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002610473?sid=100" class="nclicks(rig.secteco)" title="민주당, 비대위원장에 우상호 추대…&quot;중립적 리더십 기대&quot;">민주당, 비대위원장에 우상호 추대…"중립적 리더십 기대"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 사저 욕설시위에도 대통령실 “법대로”...박용진 “졸렬하기 짝이 없어”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003703005?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003703005?sid=100"/>
-        <updated>2022-06-07T13:33:38.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003703005?sid=100" class="nclicks(rig.secteco)" title="文 사저 욕설시위에도 대통령실 “법대로”...박용진 “졸렬하기 짝이 없어”">文 사저 욕설시위에도 대통령실 “법대로”...박용진 “졸렬하기 짝이 없어”</a>]]></content>
+        <title type="html"><![CDATA[민주, 尹 '文 사저 시위 법대로' 발언에 "옹졸함의 극치" 맹비난]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002610471?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002610471?sid=100"/>
+        <updated>2022-06-07T16:23:23.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002610471?sid=100" class="nclicks(rig.secteco)" title="민주, 尹 '文 사저 시위 법대로' 발언에 &quot;옹졸함의 극치&quot; 맹비난">민주, 尹 '文 사저 시위 법대로' 발언에 "옹졸함의 극치" 맹비난</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정은 보란듯…한·미 전투기 20대 공격편대 비행]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200708?sid=104" class="nclicks(rig.secteco)" title="중국, 캄보디아에 비밀해군기지 착공…인도·태평양에 첫 해외거점">중국, 캄보디아에 비밀해군기지 착공…인도·태평양에 첫 해외거점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003432916?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003432916?sid=101"/>
-        <updated>2022-06-07T15:16:16.548Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003432916?sid=101" class="nclicks(rig.secteco)" title="신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가">신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유통기지 막아선 화물연대, 철강·시멘트·소주 발 묶였다]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003200702?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003200702?sid=101"/>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200702?sid=101" class="nclicks(rig.secteco)" title="유통기지 막아선 화물연대, 철강·시멘트·소주 발 묶였다">유통기지 막아선 화물연대, 철강·시멘트·소주 발 묶였다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['가전 라이벌' 삼성·LG 이태리서 '한판 승부']]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004848118?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004848118?sid=101"/>
+        <title type="html"><![CDATA[신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003432916?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003432916?sid=101"/>
         <updated>2022-06-07T15:16:16.548Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004848118?sid=101" class="nclicks(rig.secteco)" title="'가전 라이벌' 삼성·LG 이태리서 '한판 승부'">'가전 라이벌' 삼성·LG 이태리서 '한판 승부'</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003432916?sid=101" class="nclicks(rig.secteco)" title="신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가">신임 금감원장에 이복현 前 부장검사…경제·금융수사 전문가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“글로벌도 가전은 LG?” 삼성, 세계 가전 시장 노린 ‘신무기’ 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002000024?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002000024?sid=101"/>
+        <updated>2022-06-07T16:23:23.334Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002000024?sid=101" class="nclicks(rig.secteco)" title="“글로벌도 가전은 LG?” 삼성, 세계 가전 시장 노린 ‘신무기’ 공개">“글로벌도 가전은 LG?” 삼성, 세계 가전 시장 노린 ‘신무기’ 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[관심사 연결 '카카오 유니버스' 띄운 남궁훈…메타버스 투트랙 간다]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003703007?sid=102" class="nclicks(rig.secteco)" title="‘무기한·전면 총파업’ 화물연대… 그들은 왜 거리로 나왔나">‘무기한·전면 총파업’ 화물연대… 그들은 왜 거리로 나왔나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원숭이두창, 2급 감염병으로...정부 “3세대 백신 도입 협의 중”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003696099?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003696099?sid=102"/>
-        <updated>2022-06-07T15:16:16.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003696099?sid=102" class="nclicks(rig.secteco)" title="원숭이두창, 2급 감염병으로...정부 “3세대 백신 도입 협의 중”">원숭이두창, 2급 감염병으로...정부 “3세대 백신 도입 협의 중”</a>]]></content>
+        <title type="html"><![CDATA[영국 '원숭이두창' 법정전염병 지정... "의심 환자 발생시 신고해 달라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000679345?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000679345?sid=102"/>
+        <updated>2022-06-07T16:23:23.341Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000679345?sid=102" class="nclicks(rig.secteco)" title="영국 '원숭이두창' 법정전염병 지정... &quot;의심 환자 발생시 신고해 달라&quot;">영국 '원숭이두창' 법정전염병 지정... "의심 환자 발생시 신고해 달라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이동균 담당관은 ‘윤석열 사단’… 檢, 인사정보관리단 주도권 쥘 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003278481?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003278481?sid=102"/>
-        <updated>2022-06-07T15:16:16.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003278481?sid=102" class="nclicks(rig.secteco)" title="이동균 담당관은 ‘윤석열 사단’… 檢, 인사정보관리단 주도권 쥘 듯">이동균 담당관은 ‘윤석열 사단’… 檢, 인사정보관리단 주도권 쥘 듯</a>]]></content>
+        <title type="html"><![CDATA[법무부 인사정보관리단 공식 출범]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000898378?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000898378?sid=102"/>
+        <updated>2022-06-07T16:23:23.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000898378?sid=102" class="nclicks(rig.secteco)" title="법무부 인사정보관리단 공식 출범">법무부 인사정보관리단 공식 출범</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 전국 더위 주춤…곳곳 소나기]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000153843?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000153843?sid=103"/>
-        <updated>2022-06-07T15:16:16.556Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000153843?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 전국 더위 주춤…곳곳 소나기">[오늘의 날씨] 전국 더위 주춤…곳곳 소나기</a>]]></content>
+        <title type="html"><![CDATA[내일 내륙 곳곳에 5~40㎜ 소나기…돌풍·천둥·번개 동반]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013231412?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013231412?sid=103"/>
+        <updated>2022-06-07T16:23:23.343Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013231412?sid=103" class="nclicks(rig.secteco)" title="내일 내륙 곳곳에 5~40㎜ 소나기…돌풍·천둥·번개 동반">내일 내륙 곳곳에 5~40㎜ 소나기…돌풍·천둥·번개 동반</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국립현대미술관 ‘이건희컬렉션’, 11개월 동안 25만 명 다녀갔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002000027?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002000027?sid=103"/>
-        <updated>2022-06-07T15:16:16.557Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002000027?sid=103" class="nclicks(rig.secteco)" title="국립현대미술관 ‘이건희컬렉션’, 11개월 동안 25만 명 다녀갔다">국립현대미술관 ‘이건희컬렉션’, 11개월 동안 25만 명 다녀갔다</a>]]></content>
+        <title type="html"><![CDATA[국립현대미술관 이건희컬렉션 특별전 25만명이 봤다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003200648?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003200648?sid=103"/>
+        <updated>2022-06-07T16:23:23.344Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200648?sid=103" class="nclicks(rig.secteco)" title="국립현대미술관 이건희컬렉션 특별전 25만명이 봤다">국립현대미술관 이건희컬렉션 특별전 25만명이 봤다</a>]]></content>
     </entry>
 </feed>
