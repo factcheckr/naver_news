@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-07T22:14:51.580Z</updated>
+    <updated>2022-06-07T23:15:28.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003651459?sid=100" class="nclicks(rig.secteco)" title="'옅은 계파색' 우상호 비대위로 임시봉합…집안싸움은 진행형">'옅은 계파색' 우상호 비대위로 임시봉합…집안싸움은 진행형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 사저 앞 시위 묻자, 尹 “대통령실 주변도 허가되는 판이니”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003703146?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003703146?sid=100"/>
-        <updated>2022-06-07T22:14:24.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003703146?sid=100" class="nclicks(rig.secteco)" title="文 사저 앞 시위 묻자, 尹 “대통령실 주변도 허가되는 판이니”">文 사저 앞 시위 묻자, 尹 “대통령실 주변도 허가되는 판이니”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이준석 “우크라 영웅 젤렌스키 만났다” 악수 사진]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003278587?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003278587?sid=100"/>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003278587?sid=100" class="nclicks(rig.secteco)" title="이준석 “우크라 영웅 젤렌스키 만났다” 악수 사진">이준석 “우크라 영웅 젤렌스키 만났다” 악수 사진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 "北, 핵실험 언제든 가능…확실히 준비 마쳐"(종합3보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011234006?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011234006?sid=104"/>
-        <updated>2022-06-07T22:14:24.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011234006?sid=104" class="nclicks(rig.secteco)" title="美 &quot;北, 핵실험 언제든 가능…확실히 준비 마쳐&quot;(종합3보)">美 "北, 핵실험 언제든 가능…확실히 준비 마쳐"(종합3보)</a>]]></content>
+        <title type="html"><![CDATA[[7NEWS] “반도체 인재양성… 교육부 목숨걸라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003696207?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003696207?sid=100"/>
+        <updated>2022-06-07T23:15:01.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003696207?sid=100" class="nclicks(rig.secteco)" title="[7NEWS] “반도체 인재양성… 교육부 목숨걸라”">[7NEWS] “반도체 인재양성… 교육부 목숨걸라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 경제 전망 대폭 하향…'스태그플레이션' 경고]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000978029?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000978029?sid=104"/>
-        <updated>2022-06-07T22:14:24.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000978029?sid=104" class="nclicks(rig.secteco)" title="세계 경제 전망 대폭 하향…'스태그플레이션' 경고">세계 경제 전망 대폭 하향…'스태그플레이션' 경고</a>]]></content>
+        <title type="html"><![CDATA[美전문가 "北 핵실험장비 갱도 내부로 옮기는 작업만 남은듯"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013231888?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013231888?sid=104"/>
+        <updated>2022-06-07T23:15:01.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013231888?sid=104" class="nclicks(rig.secteco)" title="美전문가 &quot;北 핵실험장비 갱도 내부로 옮기는 작업만 남은듯&quot;">美전문가 "北 핵실험장비 갱도 내부로 옮기는 작업만 남은듯"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계은행, 성장률 전망 2.9%로 하향…스태그플레이션 경고]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000301382?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000301382?sid=104"/>
+        <updated>2022-06-07T23:15:01.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000301382?sid=104" class="nclicks(rig.secteco)" title="세계은행, 성장률 전망 2.9%로 하향…스태그플레이션 경고">세계은행, 성장률 전망 2.9%로 하향…스태그플레이션 경고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 총파업… 尹정부·민노총 ‘샅바싸움’?]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002258950?sid=101" class="nclicks(rig.secteco)" title="이재승 삼성전자 사장 &quot;비스포크 홈·인피니트 글로벌 판매 본격 확대&quot;">이재승 삼성전자 사장 "비스포크 홈·인피니트 글로벌 판매 본격 확대"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노사정 '밖'에서도 노동환경 인식차 컸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004062444?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004062444?sid=101"/>
-        <updated>2022-06-07T22:14:24.930Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004062444?sid=101" class="nclicks(rig.secteco)" title="노사정 '밖'에서도 노동환경 인식차 컸다">노사정 '밖'에서도 노동환경 인식차 컸다</a>]]></content>
+        <title type="html"><![CDATA[사상 첫 검사 출신 금감원장 등장에 금융권 술렁… 금융당국 수장에는 정통 금융관료 [한강로 경제브리핑]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003703134?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003703134?sid=101"/>
+        <updated>2022-06-07T23:15:01.064Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003703134?sid=101" class="nclicks(rig.secteco)" title="사상 첫 검사 출신 금감원장 등장에 금융권 술렁… 금융당국 수장에는 정통 금융관료 [한강로 경제브리핑]">사상 첫 검사 출신 금감원장 등장에 금융권 술렁… 금융당국 수장에는 정통 금융관료 [한강로 경제브리핑]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베일벗은 카카오판 메타버스...전세계인과 관심사 '오픈채팅' 머지 않았다]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004755565?sid=105" class="nclicks(rig.secteco)" title="베일벗은 카카오판 메타버스...전세계인과 관심사 '오픈채팅' 머지 않았다">베일벗은 카카오판 메타버스...전세계인과 관심사 '오픈채팅' 머지 않았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['괴물칩 M2' 앞세운 애플·칩셋 자립 아마존·MS…설자리 좁아진 인텔]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004755546?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004755546?sid=105"/>
-        <updated>2022-06-07T21:14:06.118Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004755546?sid=105" class="nclicks(rig.secteco)" title="'괴물칩 M2' 앞세운 애플·칩셋 자립 아마존·MS…설자리 좁아진 인텔">'괴물칩 M2' 앞세운 애플·칩셋 자립 아마존·MS…설자리 좁아진 인텔</a>]]></content>
+        <title type="html"><![CDATA[‘괴물’ M2칩 공개하자 박수 터져나왔다… 연결성 강조한 애플]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003695970?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003695970?sid=105"/>
+        <updated>2022-06-07T23:15:01.067Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003695970?sid=105" class="nclicks(rig.secteco)" title="‘괴물’ M2칩 공개하자 박수 터져나왔다… 연결성 강조한 애플">‘괴물’ M2칩 공개하자 박수 터져나왔다… 연결성 강조한 애플</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유통업계도 서민도 화물연대 총파업에 ‘한숨’…“물가상승 부추길라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002610489?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002610489?sid=102"/>
-        <updated>2022-06-07T21:14:06.118Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002610489?sid=102" class="nclicks(rig.secteco)" title="유통업계도 서민도 화물연대 총파업에 ‘한숨’…“물가상승 부추길라”">유통업계도 서민도 화물연대 총파업에 ‘한숨’…“물가상승 부추길라”</a>]]></content>
+        <title type="html"><![CDATA[[이슈분석] '원숭이두창' 확산세라는데…오해와 진실은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000289143?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000289143?sid=102"/>
+        <updated>2022-06-07T23:15:01.068Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000289143?sid=102" class="nclicks(rig.secteco)" title="[이슈분석] '원숭이두창' 확산세라는데…오해와 진실은?">[이슈분석] '원숭이두창' 확산세라는데…오해와 진실은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 원숭이두창 감염자 격리...코로나19는 해외입국자 격리 면제]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002516686?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002516686?sid=102"/>
-        <updated>2022-06-07T22:14:24.935Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002516686?sid=102" class="nclicks(rig.secteco)" title="오늘부터 원숭이두창 감염자 격리...코로나19는 해외입국자 격리 면제">오늘부터 원숭이두창 감염자 격리...코로나19는 해외입국자 격리 면제</a>]]></content>
+        <title type="html"><![CDATA[화물연대 파업 이틀째‥곳곳서 물류 차질]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001201314?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001201314?sid=102"/>
+        <updated>2022-06-07T23:15:01.070Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001201314?sid=102" class="nclicks(rig.secteco)" title="화물연대 파업 이틀째‥곳곳서 물류 차질">화물연대 파업 이틀째‥곳곳서 물류 차질</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인사정보관리단 출범… 첫 검증 대상, 경찰청장 될 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003703124?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003703124?sid=102"/>
-        <updated>2022-06-07T21:14:06.118Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003703124?sid=102" class="nclicks(rig.secteco)" title="인사정보관리단 출범… 첫 검증 대상, 경찰청장 될 듯">인사정보관리단 출범… 첫 검증 대상, 경찰청장 될 듯</a>]]></content>
+        <title type="html"><![CDATA[해외 입국자 '격리 의무' 해제…원숭이두창 '2급' 지정]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000301383?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000301383?sid=102"/>
+        <updated>2022-06-07T23:15:01.071Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000301383?sid=102" class="nclicks(rig.secteco)" title="해외 입국자 '격리 의무' 해제…원숭이두창 '2급' 지정">해외 입국자 '격리 의무' 해제…원숭이두창 '2급' 지정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨] 중부 곳곳 최대 40㎜ 소나기…경기북부엔 밤부터 비]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006144264?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006144264?sid=103"/>
-        <updated>2022-06-07T21:14:06.118Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006144264?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 중부 곳곳 최대 40㎜ 소나기…경기북부엔 밤부터 비">[오늘날씨] 중부 곳곳 최대 40㎜ 소나기…경기북부엔 밤부터 비</a>]]></content>
+        <title type="html"><![CDATA[전국 곳곳 소나기…낮 최고 26도]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005099971?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005099971?sid=103"/>
+        <updated>2022-06-07T23:15:01.073Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005099971?sid=103" class="nclicks(rig.secteco)" title="전국 곳곳 소나기…낮 최고 26도">전국 곳곳 소나기…낮 최고 26도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국립현대미술관 이건희컬렉션 특별전 25만명이 봤다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003200648?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003200648?sid=103"/>
-        <updated>2022-06-07T16:23:23.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003200648?sid=103" class="nclicks(rig.secteco)" title="국립현대미술관 이건희컬렉션 특별전 25만명이 봤다">국립현대미술관 이건희컬렉션 특별전 25만명이 봤다</a>]]></content>
+        <title type="html"><![CDATA[막 내린 '이건희 컬렉션 특별전' 24만8000명 발길…시즌2는 언제?]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004755583?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004755583?sid=103"/>
+        <updated>2022-06-07T23:15:01.074Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004755583?sid=103" class="nclicks(rig.secteco)" title="막 내린 '이건희 컬렉션 특별전' 24만8000명 발길…시즌2는 언제?">막 내린 '이건희 컬렉션 특별전' 24만8000명 발길…시즌2는 언제?</a>]]></content>
     </entry>
 </feed>
