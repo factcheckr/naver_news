@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-10T20:16:18.385Z</updated>
+    <updated>2022-06-10T21:14:12.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[샹그릴라 대화 첫날 미·중 '대만' 문제 두고 충돌…北 문제도 논의(종합3보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006151405?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006151405?sid=100"/>
-        <updated>2022-06-10T20:15:51.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006151405?sid=100" class="nclicks(rig.secteco)" title="샹그릴라 대화 첫날 미·중 '대만' 문제 두고 충돌…北 문제도 논의(종합3보)">샹그릴라 대화 첫날 미·중 '대만' 문제 두고 충돌…北 문제도 논의(종합3보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 이번엔 ‘민들레’ 내분… 권성동 “자제해야” 장제원 “열린 모임”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003433690?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003433690?sid=100"/>
-        <updated>2022-06-10T20:15:51.270Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003433690?sid=100" class="nclicks(rig.secteco)" title="與 이번엔 ‘민들레’ 내분… 권성동 “자제해야” 장제원 “열린 모임”">與 이번엔 ‘민들레’ 내분… 권성동 “자제해야” 장제원 “열린 모임”</a>]]></content>
+        <title type="html"><![CDATA[韓中 국방회담 “北 비핵화 협력”… 中, 美주도 印太 전략에 부정적 입장]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003433706?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003433706?sid=100"/>
+        <updated>2022-06-10T21:13:40.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003433706?sid=100" class="nclicks(rig.secteco)" title="韓中 국방회담 “北 비핵화 협력”… 中, 美주도 印太 전략에 부정적 입장">韓中 국방회담 “北 비핵화 협력”… 中, 美주도 印太 전략에 부정적 입장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹, 한국 대통령 최초로 나토 정상회의 참석한다]]></title>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003433711?sid=100" class="nclicks(rig.secteco)" title="尹, 한국 대통령 최초로 나토 정상회의 참석한다">尹, 한국 대통령 최초로 나토 정상회의 참석한다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘민들레’가 불붙인 與계파논쟁… 권성동 “막겠다” 장제원 “오해다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003696910?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003696910?sid=100"/>
+        <updated>2022-06-10T21:13:40.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003696910?sid=100" class="nclicks(rig.secteco)" title="‘민들레’가 불붙인 與계파논쟁… 권성동 “막겠다” 장제원 “오해다”">‘민들레’가 불붙인 與계파논쟁… 권성동 “막겠다” 장제원 “오해다”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[美 5월 소비자물가 8.6%↑...41년 만에 최악 인플레]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001750194?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/052/0001750194?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001750194?sid=104" class="nclicks(rig.secteco)" title="美 5월 소비자물가 8.6%↑...41년 만에 최악 인플레">美 5월 소비자물가 8.6%↑...41년 만에 최악 인플레</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유엔 "외국인 병사에 사형 판결 우려‥도네츠크 사법부, 전쟁범죄"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001202064?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001202064?sid=104"/>
-        <updated>2022-06-10T20:15:51.274Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001202064?sid=104" class="nclicks(rig.secteco)" title="유엔 &quot;외국인 병사에 사형 판결 우려‥도네츠크 사법부, 전쟁범죄&quot;">유엔 "외국인 병사에 사형 판결 우려‥도네츠크 사법부, 전쟁범죄"</a>]]></content>
+        <title type="html"><![CDATA[[포착] “총살될 것” 우크라 위해 러軍과 맞서 싸운 외국인 포로들 사형 선고]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003279219?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003279219?sid=104"/>
+        <updated>2022-06-10T21:13:40.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003279219?sid=104" class="nclicks(rig.secteco)" title="[포착] “총살될 것” 우크라 위해 러軍과 맞서 싸운 외국인 포로들 사형 선고">[포착] “총살될 것” 우크라 위해 러軍과 맞서 싸운 외국인 포로들 사형 선고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘쌍둥이 적자’ 계속땐 신인도 타격→외자 유출→신용 하락 ‘악순환’]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003433689?sid=101" class="nclicks(rig.secteco)" title="‘쌍둥이 적자’ 계속땐 신인도 타격→외자 유출→신용 하락 ‘악순환’">‘쌍둥이 적자’ 계속땐 신인도 타격→외자 유출→신용 하락 ‘악순환’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 휘발유·경유 가격 2천40원 돌파…연초 대비 26%, 42%↑]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013237199?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013237199?sid=101"/>
-        <updated>2022-06-10T17:18:12.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013237199?sid=101" class="nclicks(rig.secteco)" title="국내 휘발유·경유 가격 2천40원 돌파…연초 대비 26%, 42%↑">국내 휘발유·경유 가격 2천40원 돌파…연초 대비 26%, 42%↑</a>]]></content>
+        <title type="html"><![CDATA[[7NEWS] 120여 년 만에 국민에 공개되는 ‘금단의 땅’ 용산공원]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003696578?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003696578?sid=101"/>
+        <updated>2022-06-10T21:13:40.130Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003696578?sid=101" class="nclicks(rig.secteco)" title="[7NEWS] 120여 년 만에 국민에 공개되는 ‘금단의 땅’ 용산공원">[7NEWS] 120여 년 만에 국민에 공개되는 ‘금단의 땅’ 용산공원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차 하루 2000대 생산손실… 가전 출하도 비상]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003433721?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003433721?sid=101"/>
-        <updated>2022-06-10T20:15:51.278Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003433721?sid=101" class="nclicks(rig.secteco)" title="현대차 하루 2000대 생산손실… 가전 출하도 비상">현대차 하루 2000대 생산손실… 가전 출하도 비상</a>]]></content>
+        <title type="html"><![CDATA[국내 기름값 2050원 넘었다…최고가 3000원 보인다]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011241351?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011241351?sid=101"/>
+        <updated>2022-06-10T21:13:40.132Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011241351?sid=101" class="nclicks(rig.secteco)" title="국내 기름값 2050원 넘었다…최고가 3000원 보인다">국내 기름값 2050원 넘었다…최고가 3000원 보인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[풀어쓰는 과학 이야기] 누리호 2차 발사에 관한 모든 것]]></title>
