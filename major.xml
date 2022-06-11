@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-10T23:16:29.314Z</updated>
+    <updated>2022-06-11T01:11:45.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]장제원 "민들레모임 참여 않겠다...권성동 형과 갈등 없다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000898855?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000898855?sid=100"/>
+        <updated>2022-06-11T01:11:16.988Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000898855?sid=100" class="nclicks(rig.secteco)" title="[속보]장제원 &quot;민들레모임 참여 않겠다...권성동 형과 갈등 없다&quot;">[속보]장제원 "민들레모임 참여 않겠다...권성동 형과 갈등 없다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]김정은 “강 대 강, 정면승부 투쟁” 선언···핵 언급은 없어]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003152576?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003152576?sid=100"/>
+        <updated>2022-06-11T01:11:16.989Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003152576?sid=100" class="nclicks(rig.secteco)" title="[속보]김정은 “강 대 강, 정면승부 투쟁” 선언···핵 언급은 없어">[속보]김정은 “강 대 강, 정면승부 투쟁” 선언···핵 언급은 없어</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 “北 핵포기 함께 노력을”… 中 “비핵화 협력”]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003704278?sid=100</id>
@@ -13,39 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003704278?sid=100" class="nclicks(rig.secteco)" title="韓 “北 핵포기 함께 노력을”… 中 “비핵화 협력”">韓 “北 핵포기 함께 노력을”… 中 “비핵화 협력”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이슈 In] '빅 이벤트' 된 나토 정상회의…한일 정상, 새 시대 서막 여나]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013239510?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013239510?sid=100"/>
-        <updated>2022-06-10T22:14:37.249Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013239510?sid=100" class="nclicks(rig.secteco)" title="[이슈 In] '빅 이벤트' 된 나토 정상회의…한일 정상, 새 시대 서막 여나">[이슈 In] '빅 이벤트' 된 나토 정상회의…한일 정상, 새 시대 서막 여나</a>]]></content>
+        <title type="html"><![CDATA[美 소비자물가, 40여년 만에 최대폭 8.6%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000546097?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000546097?sid=104"/>
+        <updated>2022-06-11T01:11:16.991Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000546097?sid=104" class="nclicks(rig.secteco)" title="美 소비자물가, 40여년 만에 최대폭 8.6%↑">美 소비자물가, 40여년 만에 최대폭 8.6%↑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 장제원 ‘민들레’ 탈퇴 선언…“권성동 형과 갈등 없어”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001532336?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001532336?sid=100"/>
-        <updated>2022-06-10T23:16:01.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001532336?sid=100" class="nclicks(rig.secteco)" title="[속보] 장제원 ‘민들레’ 탈퇴 선언…“권성동 형과 갈등 없어”">[속보] 장제원 ‘민들레’ 탈퇴 선언…“권성동 형과 갈등 없어”</a>]]></content>
+        <title type="html"><![CDATA[우크라 도왔다고 “사형”…철창 안 외인병사[포착]]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003279327?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003279327?sid=104"/>
+        <updated>2022-06-11T01:11:16.992Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003279327?sid=104" class="nclicks(rig.secteco)" title="우크라 도왔다고 “사형”…철창 안 외인병사[포착]">우크라 도왔다고 “사형”…철창 안 외인병사[포착]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 5월 소비자물가 8.6%↑…1981년 이후 최대폭]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000978771?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000978771?sid=104"/>
-        <updated>2022-06-10T23:16:01.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000978771?sid=104" class="nclicks(rig.secteco)" title="미국 5월 소비자물가 8.6%↑…1981년 이후 최대폭">미국 5월 소비자물가 8.6%↑…1981년 이후 최대폭</a>]]></content>
+        <title type="html"><![CDATA[[주간리뷰] 25년만에 '쌍둥이적자' 우려…경제성장률도 주춤]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005101730?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005101730?sid=101"/>
+        <updated>2022-06-11T01:11:16.993Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005101730?sid=101" class="nclicks(rig.secteco)" title="[주간리뷰] 25년만에 '쌍둥이적자' 우려…경제성장률도 주춤">[주간리뷰] 25년만에 '쌍둥이적자' 우려…경제성장률도 주춤</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 재무부, 한국 환율관찰대상국 지정...대만·베트남 추가]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002277681?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002277681?sid=104"/>
-        <updated>2022-06-10T22:14:37.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002277681?sid=104" class="nclicks(rig.secteco)" title="미 재무부, 한국 환율관찰대상국 지정...대만·베트남 추가">미 재무부, 한국 환율관찰대상국 지정...대만·베트남 추가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경상수지 2년 만에 적자전환… 재정수지까지 ‘쌍둥이 적자’ 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003704277?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003704277?sid=101"/>
-        <updated>2022-06-10T23:16:01.297Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003704277?sid=101" class="nclicks(rig.secteco)" title="경상수지 2년 만에 적자전환… 재정수지까지 ‘쌍둥이 적자’ 우려">경상수지 2년 만에 적자전환… 재정수지까지 ‘쌍둥이 적자’ 우려</a>]]></content>
+        <title type="html"><![CDATA["인플레 길어진다" 공포에 뉴욕증시 '털썩'…나스닥 3.5%↓ [데일리 국제금융시장]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004063809?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004063809?sid=101"/>
+        <updated>2022-06-11T01:11:16.994Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004063809?sid=101" class="nclicks(rig.secteco)" title="&quot;인플레 길어진다&quot; 공포에 뉴욕증시 '털썩'…나스닥 3.5%↓ [데일리 국제금융시장]">"인플레 길어진다" 공포에 뉴욕증시 '털썩'…나스닥 3.5%↓ [데일리 국제금융시장]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유 '2059원' 최고가 턱밑…경유까지 2050원대]]></title>
@@ -55,39 +62,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005101706?sid=101" class="nclicks(rig.secteco)" title="휘발유 '2059원' 최고가 턱밑…경유까지 2050원대">휘발유 '2059원' 최고가 턱밑…경유까지 2050원대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['120년 만에 개방' 용산공원... 학교부지·야구장에 펜스 친 이유]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002356307?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002356307?sid=101"/>
-        <updated>2022-06-10T23:16:01.301Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002356307?sid=101" class="nclicks(rig.secteco)" title="'120년 만에 개방' 용산공원... 학교부지·야구장에 펜스 친 이유">'120년 만에 개방' 용산공원... 학교부지·야구장에 펜스 친 이유</a>]]></content>
+        <title type="html"><![CDATA[누리호 조립 완료...비와 바람이 마지막 변수]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001750253?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001750253?sid=105"/>
+        <updated>2022-06-11T01:11:16.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001750253?sid=105" class="nclicks(rig.secteco)" title="누리호 조립 완료...비와 바람이 마지막 변수">누리호 조립 완료...비와 바람이 마지막 변수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[풀어쓰는 과학 이야기] 누리호 2차 발사에 관한 모든 것]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002259307?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002259307?sid=105"/>
-        <updated>2022-06-10T19:13:27.576Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002259307?sid=105" class="nclicks(rig.secteco)" title="[풀어쓰는 과학 이야기] 누리호 2차 발사에 관한 모든 것">[풀어쓰는 과학 이야기] 누리호 2차 발사에 관한 모든 것</a>]]></content>
+        <title type="html"><![CDATA[“NFT 둘러싼 오해가 가격 폭등 불러”]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000027432?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000027432?sid=105"/>
+        <updated>2022-06-11T01:11:17.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000027432?sid=105" class="nclicks(rig.secteco)" title="“NFT 둘러싼 오해가 가격 폭등 불러”">“NFT 둘러싼 오해가 가격 폭등 불러”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한물 간 줄 알았는데..NFT 키우는 '크리에이터 이코노미']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004757135?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004757135?sid=105"/>
-        <updated>2022-06-10T23:16:01.305Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004757135?sid=105" class="nclicks(rig.secteco)" title="한물 간 줄 알았는데..NFT 키우는 '크리에이터 이코노미'">한물 간 줄 알았는데..NFT 키우는 '크리에이터 이코노미'</a>]]></content>
+        <title type="html"><![CDATA[文사저 ‘맞불집회’...서울의소리 “尹대통령 자택 앞 집회, 다음 주 시작”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003704282?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003704282?sid=102"/>
+        <updated>2022-06-11T01:11:17.004Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003704282?sid=102" class="nclicks(rig.secteco)" title="文사저 ‘맞불집회’...서울의소리 “尹대통령 자택 앞 집회, 다음 주 시작”">文사저 ‘맞불집회’...서울의소리 “尹대통령 자택 앞 집회, 다음 주 시작”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울의소리 "법 허용 최대 소음, 尹사저 앞 보복 집회"…주민 "후원금 노리나"]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002611510?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002611510?sid=102"/>
-        <updated>2022-06-10T22:14:37.265Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002611510?sid=102" class="nclicks(rig.secteco)" title="서울의소리 &quot;법 허용 최대 소음, 尹사저 앞 보복 집회&quot;…주민 &quot;후원금 노리나&quot;">서울의소리 "법 허용 최대 소음, 尹사저 앞 보복 집회"…주민 "후원금 노리나"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 법률사무소 방화참사 희생자 합동분향소 전국 법조인들 조문 행렬]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003652746?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003652746?sid=102"/>
-        <updated>2022-06-10T18:20:00.209Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003652746?sid=102" class="nclicks(rig.secteco)" title="대구 법률사무소 방화참사 희생자 합동분향소 전국 법조인들 조문 행렬">대구 법률사무소 방화참사 희생자 합동분향소 전국 법조인들 조문 행렬</a>]]></content>
+        <title type="html"><![CDATA[대구 방화 참사 '치밀한 계획 범행'…한동훈 "반문명 테러"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000546085?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000546085?sid=102"/>
+        <updated>2022-06-11T01:11:17.006Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000546085?sid=102" class="nclicks(rig.secteco)" title="대구 방화 참사 '치밀한 계획 범행'…한동훈 &quot;반문명 테러&quot;">대구 방화 참사 '치밀한 계획 범행'…한동훈 "반문명 테러"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 파업에 주류사들 ‘플랜B’…하이트진로, 새 물류사와 계약]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003201510?sid=103" class="nclicks(rig.secteco)" title="주말 전국 곳곳 '최대 40mm' 소낙비…30도 안팎 더위 계속">주말 전국 곳곳 '최대 40mm' 소낙비…30도 안팎 더위 계속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 주말, 전국 소나기‥서쪽 낮더위·동해안 선선]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001202079?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001202079?sid=103"/>
-        <updated>2022-06-10T23:16:01.313Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001202079?sid=103" class="nclicks(rig.secteco)" title="[날씨] 주말, 전국 소나기‥서쪽 낮더위·동해안 선선">[날씨] 주말, 전국 소나기‥서쪽 낮더위·동해안 선선</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내륙 30℃ 안팎 낮 더위...오후부터 강한 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001750241?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001750241?sid=103"/>
+        <updated>2022-06-11T01:11:17.009Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001750241?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내륙 30℃ 안팎 낮 더위...오후부터 강한 소나기">[날씨] 내륙 30℃ 안팎 낮 더위...오후부터 강한 소나기</a>]]></content>
     </entry>
 </feed>
