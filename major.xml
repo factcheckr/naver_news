@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-11T13:22:28.985Z</updated>
+    <updated>2022-06-11T14:14:23.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['윤대통령 X파일 존재?' 답변 피한 박지원…"공개발언 유의하겠다" 논란 사과]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000761980?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000761980?sid=100"/>
+        <updated>2022-06-11T14:13:51.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000761980?sid=100" class="nclicks(rig.secteco)" title="'윤대통령 X파일 존재?' 답변 피한 박지원…&quot;공개발언 유의하겠다&quot; 논란 사과">'윤대통령 X파일 존재?' 답변 피한 박지원…"공개발언 유의하겠다" 논란 사과</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미일 국방당국, 北도발에 밀착 가속화…中·러도 견제]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013240062?sid=100</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001750374?sid=100" class="nclicks(rig.secteco)" title="장제원, '친윤 모임' 불참 선언...&quot;권성동과 갈등 없다&quot;">장제원, '친윤 모임' 불참 선언..."권성동과 갈등 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박지원 ‘X파일’ 발언 파장… 국정원 “부적절한 행동 자제해야”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003704360?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003704360?sid=100"/>
-        <updated>2022-06-11T13:22:01.543Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003704360?sid=100" class="nclicks(rig.secteco)" title="박지원 ‘X파일’ 발언 파장… 국정원 “부적절한 행동 자제해야”">박지원 ‘X파일’ 발언 파장… 국정원 “부적절한 행동 자제해야”</a>]]></content>
+        <title type="html"><![CDATA[[속보]친러 반군 "한국인 용병 재판 사실아냐…우크라 떠났다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003201625?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003201625?sid=104"/>
+        <updated>2022-06-11T14:13:51.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003201625?sid=104" class="nclicks(rig.secteco)" title="[속보]친러 반군 &quot;한국인 용병 재판 사실아냐…우크라 떠났다&quot;">[속보]친러 반군 "한국인 용병 재판 사실아냐…우크라 떠났다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] “미국 일부 성병 환자, 원숭이두창 감염일 수도”]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003279389?sid=104" class="nclicks(rig.secteco)" title="[속보] “미국 일부 성병 환자, 원숭이두창 감염일 수도”">[속보] “미국 일부 성병 환자, 원숭이두창 감염일 수도”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[포착] 해체되는 맥도날드…빅맥과 이별한 러시아 현재 상황]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003279290?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003279290?sid=104"/>
-        <updated>2022-06-11T13:22:01.543Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003279290?sid=104" class="nclicks(rig.secteco)" title="[포착] 해체되는 맥도날드…빅맥과 이별한 러시아 현재 상황">[포착] 해체되는 맥도날드…빅맥과 이별한 러시아 현재 상황</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["기름넣기 두렵다" 한국 이어 미국까지 휘발윳값 '고공행진']]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004757201?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004757201?sid=101"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004757201?sid=101" class="nclicks(rig.secteco)" title="&quot;기름넣기 두렵다&quot; 한국 이어 미국까지 휘발윳값 '고공행진'">"기름넣기 두렵다" 한국 이어 미국까지 휘발윳값 '고공행진'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화물연대 파업 닷새째…정부 이틀째 실무협의에도 타협점 못찾아(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013240101?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013240101?sid=101"/>
-        <updated>2022-06-11T12:25:49.892Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013240101?sid=101" class="nclicks(rig.secteco)" title="화물연대 파업 닷새째…정부 이틀째 실무협의에도 타협점 못찾아(종합)">화물연대 파업 닷새째…정부 이틀째 실무협의에도 타협점 못찾아(종합)</a>]]></content>
+        <title type="html"><![CDATA[화물연대 총파업 닷새째…협상은 지지부진, 물류피해 확산]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004710282?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004710282?sid=101"/>
+        <updated>2022-06-11T14:13:51.331Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004710282?sid=101" class="nclicks(rig.secteco)" title="화물연대 총파업 닷새째…협상은 지지부진, 물류피해 확산">화물연대 총파업 닷새째…협상은 지지부진, 물류피해 확산</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美재무부, 한·중·일 환율관찰대상국 유지…총 12개 국가(종합)]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011241319?sid=101" class="nclicks(rig.secteco)" title="美재무부, 한·중·일 환율관찰대상국 유지…총 12개 국가(종합)">美재무부, 한·중·일 환율관찰대상국 유지…총 12개 국가(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사우디 장관 만난 이수만 "사우디판 K팝 스타 함께 발굴"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004710285?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004710285?sid=105"/>
-        <updated>2022-06-11T13:22:01.548Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004710285?sid=105" class="nclicks(rig.secteco)" title="사우디 장관 만난 이수만 &quot;사우디판 K팝 스타 함께 발굴&quot;">사우디 장관 만난 이수만 "사우디판 K팝 스타 함께 발굴"</a>]]></content>
+        <title type="html"><![CDATA[SM 이수만, 사우디 문화부 장관 만나 “K팝처럼 S팝 키우자”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000820217?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000820217?sid=105"/>
+        <updated>2022-06-11T14:13:51.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000820217?sid=105" class="nclicks(rig.secteco)" title="SM 이수만, 사우디 문화부 장관 만나 “K팝처럼 S팝 키우자”">SM 이수만, 사우디 문화부 장관 만나 “K팝처럼 S팝 키우자”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[풀어쓰는 과학 이야기] 누리호 2차 발사에 관한 모든 것]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001202130?sid=102" class="nclicks(rig.secteco)" title="대구 변호사사무실 피해자, 일산화탄소중독으로 숨져‥잇딴 패소에 방화 드러나">대구 변호사사무실 피해자, 일산화탄소중독으로 숨져‥잇딴 패소에 방화 드러나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["남편이 준 신용카드 막혀 다투다가…" 20대 여성 구속]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000301836?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000301836?sid=102"/>
-        <updated>2022-06-11T12:25:49.902Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000301836?sid=102" class="nclicks(rig.secteco)" title="&quot;남편이 준 신용카드 막혀 다투다가…&quot; 20대 여성 구속">"남편이 준 신용카드 막혀 다투다가…" 20대 여성 구속</a>]]></content>
+        <title type="html"><![CDATA[[단독] "돈 많대서 결혼했더니 빈털터리"…잠자는 남편 흉기로 살해]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000362841?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000362841?sid=102"/>
+        <updated>2022-06-11T14:13:51.333Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000362841?sid=102" class="nclicks(rig.secteco)" title="[단독] &quot;돈 많대서 결혼했더니 빈털터리&quot;…잠자는 남편 흉기로 살해">[단독] "돈 많대서 결혼했더니 빈털터리"…잠자는 남편 흉기로 살해</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['5일째' 화물연대 파업... 연일 교섭에도 성과 감감 무소식]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000680171?sid=102" class="nclicks(rig.secteco)" title="'5일째' 화물연대 파업... 연일 교섭에도 성과 감감 무소식">'5일째' 화물연대 파업... 연일 교섭에도 성과 감감 무소식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거장 박찬욱도 권한 ‘범죄도시2’ 1,000만 관객 넘었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011282200?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011282200?sid=103"/>
-        <updated>2022-06-11T13:22:01.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011282200?sid=103" class="nclicks(rig.secteco)" title="거장 박찬욱도 권한 ‘범죄도시2’ 1,000만 관객 넘었다">거장 박찬욱도 권한 ‘범죄도시2’ 1,000만 관객 넘었다</a>]]></content>
+        <title type="html"><![CDATA[큰절 올린 마동석 "관객이 만든 천만 영화...하늘이 도왔다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001750396?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001750396?sid=103"/>
+        <updated>2022-06-11T14:13:51.337Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001750396?sid=103" class="nclicks(rig.secteco)" title="큰절 올린 마동석 &quot;관객이 만든 천만 영화...하늘이 도왔다&quot;">큰절 올린 마동석 "관객이 만든 천만 영화...하늘이 도왔다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스9 날씨] 휴일인 내일도 내륙 한낮 더위·소나기]]></title>
