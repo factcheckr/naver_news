@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-14T16:23:42.832Z</updated>
+    <updated>2022-06-14T17:19:14.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[응모작 3만건에도 돌고돌아 '대통령실'…靑, 61년만 역사속으로(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013246297?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013246297?sid=100"/>
-        <updated>2022-06-14T13:30:03.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013246297?sid=100" class="nclicks(rig.secteco)" title="응모작 3만건에도 돌고돌아 '대통령실'…靑, 61년만 역사속으로(종합)">응모작 3만건에도 돌고돌아 '대통령실'…靑, 61년만 역사속으로(종합)</a>]]></content>
+        <title type="html"><![CDATA[[단독]대통령실 새이름, 청와대→?…선호도 1위는 '이태원로22']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004758321?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004758321?sid=100"/>
+        <updated>2022-06-14T17:18:49.090Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004758321?sid=100" class="nclicks(rig.secteco)" title="[단독]대통령실 새이름, 청와대→?…선호도 1위는 '이태원로22'">[단독]대통령실 새이름, 청와대→?…선호도 1위는 '이태원로22'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 김건희 여사 봉하마을 '지인 수행원', 한 명 더 있다]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013246629?sid=104" class="nclicks(rig.secteco)" title="바이든, 왕따시키겠다던 사우디 내달 방문…'발등의불' 유가잡기(종합)">바이든, 왕따시키겠다던 사우디 내달 방문…'발등의불' 유가잡기(종합)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[산업계 피해 확산에 2차례 마라톤협상 결렬후 극적 타결…공은 국회로]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013246653?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013246653?sid=101"/>
+        <updated>2022-06-14T17:18:49.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013246653?sid=101" class="nclicks(rig.secteco)" title="산업계 피해 확산에 2차례 마라톤협상 결렬후 극적 타결…공은 국회로">산업계 피해 확산에 2차례 마라톤협상 결렬후 극적 타결…공은 국회로</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원희룡 국토장관 "국민경제 볼모로 파업 이어가면 중대 결단"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013245757?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013245757?sid=101"/>
@@ -53,13 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000680690?sid=101"/>
         <updated>2022-06-14T15:16:43.463Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000680690?sid=101" class="nclicks(rig.secteco)" title="'택시 합승' 본격 시행…심야 택시난 구원투수로는 '글쎄'">'택시 합승' 본격 시행…심야 택시난 구원투수로는 '글쎄'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문]김창기 국세청장 취임사]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002277966?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002277966?sid=101"/>
-        <updated>2022-06-14T16:23:14.509Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002277966?sid=101" class="nclicks(rig.secteco)" title="[전문]김창기 국세청장 취임사">[전문]김창기 국세청장 취임사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<10문10답>이번엔 더미 아닌 진짜 위성 탑재… 상공 700㎞ 궤도에 안착 목표]]></title>
@@ -76,18 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004711428?sid=105" class="nclicks(rig.secteco)" title="인터넷익스플로러 27년만에 사라진다…내일부터 지원 중단">인터넷익스플로러 27년만에 사라진다…내일부터 지원 중단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화물연대, 7일만에 파업 철회…국토부와 안전운임제 연장 합의(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013246646?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013246646?sid=102"/>
-        <updated>2022-06-14T16:23:14.511Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013246646?sid=102" class="nclicks(rig.secteco)" title="화물연대, 7일만에 파업 철회…국토부와 안전운임제 연장 합의(종합2보)">화물연대, 7일만에 파업 철회…국토부와 안전운임제 연장 합의(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전·현 대통령 사저 앞 집회대결…“시위가 정치 보복수단 전락”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003202358?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003202358?sid=102"/>
-        <updated>2022-06-14T15:16:43.468Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202358?sid=102" class="nclicks(rig.secteco)" title="전·현 대통령 사저 앞 집회대결…“시위가 정치 보복수단 전락”">전·현 대통령 사저 앞 집회대결…“시위가 정치 보복수단 전락”</a>]]></content>
+        <title type="html"><![CDATA[이젠 서초 주민도 골아프다…尹-文 사저 앞 '욕설 시위' 대결]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003202306?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003202306?sid=102"/>
+        <updated>2022-06-14T17:18:49.102Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202306?sid=102" class="nclicks(rig.secteco)" title="이젠 서초 주민도 골아프다…尹-文 사저 앞 '욕설 시위' 대결">이젠 서초 주민도 골아프다…尹-文 사저 앞 '욕설 시위' 대결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실내마스크 벗을까…“20명 중 19명, 코로나 항체”]]></title>
@@ -97,17 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003280086?sid=102" class="nclicks(rig.secteco)" title="실내마스크 벗을까…“20명 중 19명, 코로나 항체”">실내마스크 벗을까…“20명 중 19명, 코로나 항체”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WHO, 23일 원숭이두창 긴급회의…공중보건 비상사태 검토(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013246657?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013246657?sid=102"/>
+        <updated>2022-06-14T17:18:49.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013246657?sid=102" class="nclicks(rig.secteco)" title="WHO, 23일 원숭이두창 긴급회의…공중보건 비상사태 검토(종합)">WHO, 23일 원숭이두창 긴급회의…공중보건 비상사태 검토(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[라인 날씨] 오늘 아침까지 비…낮부터 내륙에 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011284076?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011284076?sid=103"/>
+        <updated>2022-06-14T17:18:49.106Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011284076?sid=103" class="nclicks(rig.secteco)" title="[라인 날씨] 오늘 아침까지 비…낮부터 내륙에 소나기">[라인 날씨] 오늘 아침까지 비…낮부터 내륙에 소나기</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[청와대, 문화유산 방문코스 됐다…최응천 청장 "MZ세대 소통 강화"]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011246128?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011246128?sid=103"/>
         <updated>2022-06-14T16:23:14.515Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011246128?sid=103" class="nclicks(rig.secteco)" title="청와대, 문화유산 방문코스 됐다…최응천 청장 &quot;MZ세대 소통 강화&quot;">청와대, 문화유산 방문코스 됐다…최응천 청장 "MZ세대 소통 강화"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 내일 아침까지 비…낮부터 내륙에 소나기]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011284038?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011284038?sid=103"/>
-        <updated>2022-06-14T15:16:43.470Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011284038?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일 아침까지 비…낮부터 내륙에 소나기">[뉴스9 날씨] 내일 아침까지 비…낮부터 내륙에 소나기</a>]]></content>
     </entry>
 </feed>
