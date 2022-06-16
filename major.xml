@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-16T08:22:37.453Z</updated>
+    <updated>2022-06-16T09:16:48.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[연희동 찾은 김건희 여사… 이순자 여사 배웅 받아 [뉴시스Pic]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011251919?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011251919?sid=100"/>
-        <updated>2022-06-16T08:22:07.964Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011251919?sid=100" class="nclicks(rig.secteco)" title="연희동 찾은 김건희 여사… 이순자 여사 배웅 받아 [뉴시스Pic]">연희동 찾은 김건희 여사… 이순자 여사 배웅 받아 [뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[이순자도 만난 김건희…與내부서도 "차라리 사과후 부속실을"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003202900?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003202900?sid=100"/>
+        <updated>2022-06-16T09:16:15.044Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202900?sid=100" class="nclicks(rig.secteco)" title="이순자도 만난 김건희…與내부서도 &quot;차라리 사과후 부속실을&quot;">이순자도 만난 김건희…與내부서도 "차라리 사과후 부속실을"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국힘 물가민생특위, 휘발유세-할당관세 등 단기대책 내놓아]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002278237?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002278237?sid=100"/>
-        <updated>2022-06-16T08:22:07.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002278237?sid=100" class="nclicks(rig.secteco)" title="국힘 물가민생특위, 휘발유세-할당관세 등 단기대책 내놓아">국힘 물가민생특위, 휘발유세-할당관세 등 단기대책 내놓아</a>]]></content>
+        <title type="html"><![CDATA[민주, 박순애-김승희 검증 TF 출범…"尹, 지명철회해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000762750?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000762750?sid=100"/>
+        <updated>2022-06-16T09:16:15.045Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000762750?sid=100" class="nclicks(rig.secteco)" title="민주, 박순애-김승희 검증 TF 출범…&quot;尹, 지명철회해야&quot;">민주, 박순애-김승희 검증 TF 출범…"尹, 지명철회해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령, 기업인들에 “저녁시간에 연락달라…경제문제 의논하자”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001533628?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001533628?sid=100"/>
-        <updated>2022-06-16T08:22:07.969Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001533628?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 기업인들에 “저녁시간에 연락달라…경제문제 의논하자”">尹대통령, 기업인들에 “저녁시간에 연락달라…경제문제 의논하자”</a>]]></content>
+        <title type="html"><![CDATA['물가안정·감세' 카드 꺼낸 국민의힘…野와 '민생 챙기기' 경쟁]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002613117?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002613117?sid=100"/>
+        <updated>2022-06-16T09:16:15.048Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002613117?sid=100" class="nclicks(rig.secteco)" title="'물가안정·감세' 카드 꺼낸 국민의힘…野와 '민생 챙기기' 경쟁">'물가안정·감세' 카드 꺼낸 국민의힘…野와 '민생 챙기기' 경쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[獨·佛·伊 정상, 키이우 왔지만…우크라 정부 탐탁치 않은 이유]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003202883?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003202883?sid=104"/>
+        <updated>2022-06-16T09:16:15.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202883?sid=104" class="nclicks(rig.secteco)" title="獨·佛·伊 정상, 키이우 왔지만…우크라 정부 탐탁치 않은 이유">獨·佛·伊 정상, 키이우 왔지만…우크라 정부 탐탁치 않은 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[北 연쇄 핵실험 준비? 풍계리 3번 이어 4번 갱도 복원 움직임]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003434702?sid=104" class="nclicks(rig.secteco)" title="北 연쇄 핵실험 준비? 풍계리 3번 이어 4번 갱도 복원 움직임">北 연쇄 핵실험 준비? 풍계리 3번 이어 4번 갱도 복원 움직임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독일·프랑스·이탈리아 정상, 우크라 키이우 도착]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011251794?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011251794?sid=104"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011251794?sid=104" class="nclicks(rig.secteco)" title="독일·프랑스·이탈리아 정상, 우크라 키이우 도착">독일·프랑스·이탈리아 정상, 우크라 키이우 도착</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['공시가 25억' 1주택자 올해 종부세 657만→216만원 [Q&A]]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003202882?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003202882?sid=101"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202882?sid=101" class="nclicks(rig.secteco)" title="'공시가 25억' 1주택자 올해 종부세 657만→216만원 [Q&amp;A]">'공시가 25억' 1주택자 올해 종부세 657만→216만원 [Q&amp;A]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['생애최초' LTV 80% 완화… 청년층, DSR 개선]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003705960?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003705960?sid=101"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003705960?sid=101" class="nclicks(rig.secteco)" title="'생애최초' LTV 80% 완화… 청년층, DSR 개선">'생애최초' LTV 80% 완화… 청년층, DSR 개선</a>]]></content>
+        <title type="html"><![CDATA[원희룡 “현행 안전운임제 문제 많아…先개선-後 ‘일몰 폐지’ 논의가 바람직”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000821481?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000821481?sid=101"/>
+        <updated>2022-06-16T09:16:15.058Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000821481?sid=101" class="nclicks(rig.secteco)" title="원희룡 “현행 안전운임제 문제 많아…先개선-後 ‘일몰 폐지’ 논의가 바람직”">원희룡 “현행 안전운임제 문제 많아…先개선-後 ‘일몰 폐지’ 논의가 바람직”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그냥 두면 최악 적자, 올리자니 고물가 쇼크…'전기료' 딜레마]]></title>
@@ -62,39 +62,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202859?sid=101" class="nclicks(rig.secteco)" title="그냥 두면 최악 적자, 올리자니 고물가 쇼크…'전기료' 딜레마">그냥 두면 최악 적자, 올리자니 고물가 쇼크…'전기료' 딜레마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누리호 발사일정 안갯속… 최악의 경우 9월에도 힘들어]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004853199?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004853199?sid=105"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004853199?sid=105" class="nclicks(rig.secteco)" title="누리호 발사일정 안갯속… 최악의 경우 9월에도 힘들어">누리호 발사일정 안갯속… 최악의 경우 9월에도 힘들어</a>]]></content>
+        <title type="html"><![CDATA["가을까지 지연? 상상하고 싶지 않다"…오류 점검 들어간 누리호]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003202908?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003202908?sid=105"/>
+        <updated>2022-06-16T09:16:15.061Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202908?sid=105" class="nclicks(rig.secteco)" title="&quot;가을까지 지연? 상상하고 싶지 않다&quot;…오류 점검 들어간 누리호">"가을까지 지연? 상상하고 싶지 않다"…오류 점검 들어간 누리호</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['OTT 위기' 속 티빙·파라마운트 동맹, 무엇을 얻나]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000113565?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000113565?sid=105"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000113565?sid=105" class="nclicks(rig.secteco)" title="'OTT 위기' 속 티빙·파라마운트 동맹, 무엇을 얻나">'OTT 위기' 속 티빙·파라마운트 동맹, 무엇을 얻나</a>]]></content>
+        <title type="html"><![CDATA[티빙 손잡은 파라마운트 “한국 교두보로 아시아 간다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003697965?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003697965?sid=105"/>
+        <updated>2022-06-16T09:16:15.069Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003697965?sid=105" class="nclicks(rig.secteco)" title="티빙 손잡은 파라마운트 “한국 교두보로 아시아 간다”">티빙 손잡은 파라마운트 “한국 교두보로 아시아 간다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北 시신 소각에 "사실 확인 필요" 이랬던 軍 "靑 지시였다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003202871?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003202871?sid=102"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202871?sid=102" class="nclicks(rig.secteco)" title="北 시신 소각에 &quot;사실 확인 필요&quot; 이랬던 軍 &quot;靑 지시였다&quot;">北 시신 소각에 "사실 확인 필요" 이랬던 軍 "靑 지시였다"</a>]]></content>
+        <title type="html"><![CDATA[2년 전엔 월북이라더니…정권 바뀌자 말 바꾼 해경(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013251339?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013251339?sid=102"/>
+        <updated>2022-06-16T09:16:15.071Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013251339?sid=102" class="nclicks(rig.secteco)" title="2년 전엔 월북이라더니…정권 바뀌자 말 바꾼 해경(종합)">2년 전엔 월북이라더니…정권 바뀌자 말 바꾼 해경(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권성동 "여가부 예산 축내는 부서" 김현숙 "조직개편 논의시작"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013251106?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013251106?sid=102"/>
-        <updated>2022-06-16T08:22:07.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013251106?sid=102" class="nclicks(rig.secteco)" title="권성동 &quot;여가부 예산 축내는 부서&quot; 김현숙 &quot;조직개편 논의시작&quot;(종합)">권성동 "여가부 예산 축내는 부서" 김현숙 "조직개편 논의시작"(종합)</a>]]></content>
+        <title type="html"><![CDATA[“여가부는 예산만 축내는 부처”…권성동, 여가부 장관 만나]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002594997?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002594997?sid=102"/>
+        <updated>2022-06-16T09:16:15.073Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002594997?sid=102" class="nclicks(rig.secteco)" title="“여가부는 예산만 축내는 부처”…권성동, 여가부 장관 만나">“여가부는 예산만 축내는 부처”…권성동, 여가부 장관 만나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['스토킹 살인' 김병찬 징역 35년에…?유족 "가해자 위한 법이냐" 분노]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000681086?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000681086?sid=102"/>
-        <updated>2022-06-16T07:15:50.596Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000681086?sid=102" class="nclicks(rig.secteco)" title="'스토킹 살인' 김병찬 징역 35년에…?유족 &quot;가해자 위한 법이냐&quot; 분노">'스토킹 살인' 김병찬 징역 35년에…?유족 "가해자 위한 법이냐" 분노</a>]]></content>
+        <title type="html"><![CDATA["정년 연장돼 임피제 근로자 임금 총액 늘어…KT 연령차별 아니다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004712415?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004712415?sid=102"/>
+        <updated>2022-06-16T09:16:15.074Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004712415?sid=102" class="nclicks(rig.secteco)" title="&quot;정년 연장돼 임피제 근로자 임금 총액 늘어…KT 연령차별 아니다&quot;">"정년 연장돼 임피제 근로자 임금 총액 늘어…KT 연령차별 아니다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[퇴근길 날씨] 내일 30도 안팎 더위…내륙 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011285268?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011285268?sid=103"/>
+        <updated>2022-06-16T09:16:15.076Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011285268?sid=103" class="nclicks(rig.secteco)" title="[퇴근길 날씨] 내일 30도 안팎 더위…내륙 소나기">[퇴근길 날씨] 내일 30도 안팎 더위…내륙 소나기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현미경 써야 보인다...'0.04㎜ 예술' 통일신라 금박화조도 공개]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003202853?sid=103"/>
         <updated>2022-06-16T07:15:50.597Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003202853?sid=103" class="nclicks(rig.secteco)" title="현미경 써야 보인다...'0.04㎜ 예술' 통일신라 금박화조도 공개">현미경 써야 보인다...'0.04㎜ 예술' 통일신라 금박화조도 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산모터쇼 4년만에 개최…현대차 아이오닉6 최초 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004853088?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004853088?sid=103"/>
-        <updated>2022-06-16T08:22:07.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004853088?sid=103" class="nclicks(rig.secteco)" title="부산모터쇼 4년만에 개최…현대차 아이오닉6 최초 공개">부산모터쇼 4년만에 개최…현대차 아이오닉6 최초 공개</a>]]></content>
     </entry>
 </feed>
