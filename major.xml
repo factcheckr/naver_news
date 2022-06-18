@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-18T19:13:30.750Z</updated>
+    <updated>2022-06-18T20:15:34.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003706541?sid=100" class="nclicks(rig.secteco)" title="전현희 “공직자 임기, 법으로 정해져”… 사실상 자진사퇴 일축">전현희 “공직자 임기, 법으로 정해져”… 사실상 자진사퇴 일축</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["목숨 바쳐 사랑한다"…`눈물의 개딸` 만난 이재명]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005245709?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005245709?sid=100"/>
+        <updated>2022-06-18T20:15:05.369Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005245709?sid=100" class="nclicks(rig.secteco)" title="&quot;목숨 바쳐 사랑한다&quot;…`눈물의 개딸` 만난 이재명">"목숨 바쳐 사랑한다"…`눈물의 개딸` 만난 이재명</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[與, '北 피살 공무원' 대야 압박…"세월호 때와 다른 태도…文, 입장표명하라"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011254508?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011254508?sid=100"/>
         <updated>2022-06-18T17:14:01.450Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254508?sid=100" class="nclicks(rig.secteco)" title="與, '北 피살 공무원' 대야 압박…&quot;세월호 때와 다른 태도…文, 입장표명하라&quot;(종합)">與, '北 피살 공무원' 대야 압박…"세월호 때와 다른 태도…文, 입장표명하라"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기?]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002613542?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002613542?sid=100"/>
-        <updated>2022-06-18T16:20:09.298Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002613542?sid=100" class="nclicks(rig.secteco)" title="책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기?">책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러 "우크라군 가담 한국인 4명 사망…모두 13명 참전"(종합)]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004760118?sid=104" class="nclicks(rig.secteco)" title="&quot;와, 246억!&quot;…'워런 버핏과 점심' 마지막 경매 대기록 세웠다">"와, 246억!"…'워런 버핏과 점심' 마지막 경매 대기록 세웠다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비트코인 "12일 연속 하락 기록적 궤멸"…1만 9천 달러 선 붕괴]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000980422?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000980422?sid=101"/>
+        <updated>2022-06-18T20:15:05.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000980422?sid=101" class="nclicks(rig.secteco)" title="비트코인 &quot;12일 연속 하락 기록적 궤멸&quot;…1만 9천 달러 선 붕괴">비트코인 "12일 연속 하락 기록적 궤멸"…1만 9천 달러 선 붕괴</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006164785?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006164785?sid=101"/>
@@ -55,25 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002260020?sid=101" class="nclicks(rig.secteco)" title="이재용 부회장, 유럽출장서 돌아와 ‘기술·인재’ 강조한 이유">이재용 부회장, 유럽출장서 돌아와 ‘기술·인재’ 강조한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30% 폭락 비트코인…“바닥 칠 것” Vs “투자 주의해야”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005245182?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005245182?sid=101"/>
-        <updated>2022-06-18T19:12:59.046Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005245182?sid=101" class="nclicks(rig.secteco)" title="30% 폭락 비트코인…“바닥 칠 것” Vs “투자 주의해야”">30% 폭락 비트코인…“바닥 칠 것” Vs “투자 주의해야”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000039461?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000039461?sid=105"/>
-        <updated>2022-06-18T11:12:25.327Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039461?sid=105" class="nclicks(rig.secteco)" title="‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나">‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["투명 스마트폰으로 한국 공략"...영국 IT기업 낫싱, '1% 반란' 성공할까]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000681417?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000681417?sid=105"/>
         <updated>2022-06-18T19:12:59.049Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000681417?sid=105" class="nclicks(rig.secteco)" title="&quot;투명 스마트폰으로 한국 공략&quot;...영국 IT기업 낫싱, '1% 반란' 성공할까">"투명 스마트폰으로 한국 공략"...영국 IT기업 낫싱, '1% 반란' 성공할까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도쿄 워케이션부터 격주 놀금제까지…파격 근무제 도입하는 네·카]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003280916?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003280916?sid=105"/>
+        <updated>2022-06-18T20:15:05.375Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003280916?sid=105" class="nclicks(rig.secteco)" title="도쿄 워케이션부터 격주 놀금제까지…파격 근무제 도입하는 네·카">도쿄 워케이션부터 격주 놀금제까지…파격 근무제 도입하는 네·카</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전처와 전 처남댁 흉기로 살해한 40대 구속…"도주 우려"]]></title>
@@ -90,11 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254368?sid=102" class="nclicks(rig.secteco)" title="서울경찰·시·구·도로공사 합동단속…체납 차량 12대 적발">서울경찰·시·구·도로공사 합동단속…체납 차량 12대 적발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“러軍 2명 사살” 목격담…이근 ‘사전죄’ 처벌될까]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003280925?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003280925?sid=102"/>
-        <updated>2022-06-18T19:12:59.056Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003280925?sid=102" class="nclicks(rig.secteco)" title="“러軍 2명 사살” 목격담…이근 ‘사전죄’ 처벌될까">“러軍 2명 사살” 목격담…이근 ‘사전죄’ 처벌될까</a>]]></content>
+        <title type="html"><![CDATA[오후 9시까지 전국에서 6485명 확진…어제보다 326명 적어]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013253415?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013253415?sid=102"/>
+        <updated>2022-06-18T20:15:05.380Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013253415?sid=102" class="nclicks(rig.secteco)" title="오후 9시까지 전국에서 6485명 확진…어제보다 326명 적어">오후 9시까지 전국에서 6485명 확진…어제보다 326명 적어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘날씨] "우산 챙기세요"… 전국 흐리고 곳곳에 비 소식]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000823718?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000823718?sid=103"/>
+        <updated>2022-06-18T20:15:05.381Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000823718?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] &quot;우산 챙기세요&quot;… 전국 흐리고 곳곳에 비 소식">[오늘날씨] "우산 챙기세요"… 전국 흐리고 곳곳에 비 소식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001753167?sid=103"/>
         <updated>2022-06-18T16:20:09.329Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001753167?sid=103" class="nclicks(rig.secteco)" title="[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기">[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 흐리고 중부 '소나기' 소식…서울 낮 최고 30도]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011254172?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011254172?sid=103"/>
-        <updated>2022-06-18T12:25:22.768Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254172?sid=103" class="nclicks(rig.secteco)" title="전국 흐리고 중부 '소나기' 소식…서울 낮 최고 30도">전국 흐리고 중부 '소나기' 소식…서울 낮 최고 30도</a>]]></content>
     </entry>
 </feed>
