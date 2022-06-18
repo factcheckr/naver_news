@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-18T09:14:21.243Z</updated>
+    <updated>2022-06-18T10:16:23.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254508?sid=100" class="nclicks(rig.secteco)" title="與, '北 피살 공무원' 대야 압박…&quot;세월호 때와 다른 태도…文, 입장표명하라&quot;(종합)">與, '北 피살 공무원' 대야 압박…"세월호 때와 다른 태도…文, 입장표명하라"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['조용한 내조 끝?' 김건희 언급량, 이준석 넘었다 [데이터로 본 정치민심]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004066419?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004066419?sid=100"/>
-        <updated>2022-06-18T07:13:41.007Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004066419?sid=100" class="nclicks(rig.secteco)" title="'조용한 내조 끝?' 김건희 언급량, 이준석 넘었다 [데이터로 본 정치민심]">'조용한 내조 끝?' 김건희 언급량, 이준석 넘었다 [데이터로 본 정치민심]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전현희, 사퇴 압박에 "법 정신 지켜져야, 역할 성실히 수행"]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000302600?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000302600?sid=100"/>
         <updated>2022-06-18T09:13:48.791Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000302600?sid=100" class="nclicks(rig.secteco)" title="전현희, 사퇴 압박에 &quot;법 정신 지켜져야, 역할 성실히 수행&quot;">전현희, 사퇴 압박에 "법 정신 지켜져야, 역할 성실히 수행"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]김건희 여사, 이번엔 김정숙 여사와 서울서 깜짝 회동]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003434942?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003434942?sid=100"/>
+        <updated>2022-06-18T10:15:49.776Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003434942?sid=100" class="nclicks(rig.secteco)" title="[단독]김건희 여사, 이번엔 김정숙 여사와 서울서 깜짝 회동">[단독]김건희 여사, 이번엔 김정숙 여사와 서울서 깜짝 회동</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워런 버핏과 점심 한 끼 246억원…마지막 경매에 역대 최고가 낙찰]]></title>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000302598?sid=104" class="nclicks(rig.secteco)" title="워런 버핏과 점심 한 끼 246억원…마지막 경매에 역대 최고가 낙찰">워런 버핏과 점심 한 끼 246억원…마지막 경매에 역대 최고가 낙찰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴 "우크라 군사작전, 세계 경제위기와 관련 없다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003154016?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003154016?sid=104"/>
-        <updated>2022-06-18T08:18:54.127Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003154016?sid=104" class="nclicks(rig.secteco)" title="푸틴 &quot;우크라 군사작전, 세계 경제위기와 관련 없다”">푸틴 "우크라 군사작전, 세계 경제위기와 관련 없다”</a>]]></content>
+        <title type="html"><![CDATA["'푸틴 인플레이션'은 헛소리" 서방에 비난 쏟아낸 푸틴]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005105152?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005105152?sid=104"/>
+        <updated>2022-06-18T10:15:49.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005105152?sid=104" class="nclicks(rig.secteco)" title="&quot;'푸틴 인플레이션'은 헛소리&quot; 서방에 비난 쏟아낸 푸틴">"'푸틴 인플레이션'은 헛소리" 서방에 비난 쏟아낸 푸틴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['목숨 건다' 선언한 이재용, 이번엔 "기술·기술·기술"]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000040480?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000040480?sid=101"/>
-        <updated>2022-06-18T08:18:54.128Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000040480?sid=101" class="nclicks(rig.secteco)" title="'목숨 건다' 선언한 이재용, 이번엔 &quot;기술·기술·기술&quot;">'목숨 건다' 선언한 이재용, 이번엔 "기술·기술·기술"</a>]]></content>
+        <title type="html"><![CDATA[말 아낀 이재용, 유럽출장 행적 보니…'반도체·배터리·M&A' 방점]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004713140?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004713140?sid=101"/>
+        <updated>2022-06-18T10:15:49.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004713140?sid=101" class="nclicks(rig.secteco)" title="말 아낀 이재용, 유럽출장 행적 보니…'반도체·배터리·M&amp;A' 방점">말 아낀 이재용, 유럽출장 행적 보니…'반도체·배터리·M&amp;A' 방점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006164785?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006164785?sid=101"/>
-        <updated>2022-06-18T07:13:41.014Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006164785?sid=101" class="nclicks(rig.secteco)" title="[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표">[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표</a>]]></content>
+        <title type="html"><![CDATA["차 몰기 겁난다"…이르면 내일 '유류세 인하 폭 확대' 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000302601?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000302601?sid=101"/>
+        <updated>2022-06-18T10:15:49.781Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000302601?sid=101" class="nclicks(rig.secteco)" title="&quot;차 몰기 겁난다&quot;…이르면 내일 '유류세 인하 폭 확대' 발표">"차 몰기 겁난다"…이르면 내일 '유류세 인하 폭 확대' 발표</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유·경유 2100원도 돌파…유류세 인하 효과 '미미']]></title>
@@ -62,18 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000679743?sid=101" class="nclicks(rig.secteco)" title="휘발유·경유 2100원도 돌파…유류세 인하 효과 '미미'">휘발유·경유 2100원도 돌파…유류세 인하 효과 '미미'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000039461?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000039461?sid=105"/>
-        <updated>2022-06-18T03:20:20.433Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039461?sid=105" class="nclicks(rig.secteco)" title="‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나">‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나</a>]]></content>
+        <title type="html"><![CDATA[누리호 내일부터 발사 준비 재개...21일 발사 변수는 '날씨']]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001753215?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001753215?sid=105"/>
+        <updated>2022-06-18T10:15:49.783Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001753215?sid=105" class="nclicks(rig.secteco)" title="누리호 내일부터 발사 준비 재개...21일 발사 변수는 '날씨'">누리호 내일부터 발사 준비 재개...21일 발사 변수는 '날씨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["타다 이어 카카오도...한국형 모빌리티 혁신은 끝났다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000681418?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000681418?sid=105"/>
-        <updated>2022-06-18T09:13:48.821Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000681418?sid=105" class="nclicks(rig.secteco)" title="&quot;타다 이어 카카오도...한국형 모빌리티 혁신은 끝났다&quot;">"타다 이어 카카오도...한국형 모빌리티 혁신은 끝났다"</a>]]></content>
+        <title type="html"><![CDATA[카카오 '격주 놀금' 네이버 '해외 원격근무'..근무제 변화 '바람']]></title>
+        <id>https://n.news.naver.com/mnews/article/660/0000010624?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/660/0000010624?sid=105"/>
+        <updated>2022-06-18T10:15:49.784Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000010624?sid=105" class="nclicks(rig.secteco)" title="카카오 '격주 놀금' 네이버 '해외 원격근무'..근무제 변화 '바람'">카카오 '격주 놀금' 네이버 '해외 원격근무'..근무제 변화 '바람'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전처·처남댁 살해 40대 "신천지 탓, 자녀와 생이별"…신천지 "살인자 옹호 규탄"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000762949?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000762949?sid=102"/>
+        <updated>2022-06-18T10:15:49.796Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000762949?sid=102" class="nclicks(rig.secteco)" title="전처·처남댁 살해 40대 &quot;신천지 탓, 자녀와 생이별&quot;…신천지 &quot;살인자 옹호 규탄&quot;">전처·처남댁 살해 40대 "신천지 탓, 자녀와 생이별"…신천지 "살인자 옹호 규탄"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[확진 6842명, 토요일 기준 22주만에 최저…치명률, 72일째 0.13%(종합)]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006164893?sid=102" class="nclicks(rig.secteco)" title="확진 6842명, 토요일 기준 22주만에 최저…치명률, 72일째 0.13%(종합)">확진 6842명, 토요일 기준 22주만에 최저…치명률, 72일째 0.13%(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전처·처남댁 살해한 40대 구속…"신천지 때문에 가정불화"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003655088?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003655088?sid=102"/>
-        <updated>2022-06-18T08:18:54.145Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003655088?sid=102" class="nclicks(rig.secteco)" title="전처·처남댁 살해한 40대 구속…&quot;신천지 때문에 가정불화&quot;">전처·처남댁 살해한 40대 구속…"신천지 때문에 가정불화"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[서울 음주·체납차량 단속에 12대 적발… 137만원 징수]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001534010?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/005/0001534010?sid=102"/>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001534010?sid=102" class="nclicks(rig.secteco)" title="서울 음주·체납차량 단속에 12대 적발… 137만원 징수">서울 음주·체납차량 단속에 12대 적발… 137만원 징수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[5시 날씨] 내일 새벽 수도권·강원에 비, 오후 내륙 소나기]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011286401?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011286401?sid=103"/>
-        <updated>2022-06-18T09:13:48.826Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011286401?sid=103" class="nclicks(rig.secteco)" title="[5시 날씨] 내일 새벽 수도권·강원에 비, 오후 내륙 소나기">[5시 날씨] 내일 새벽 수도권·강원에 비, 오후 내륙 소나기</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내일 전국 곳곳 비소식…낮 더위 계속]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000547221?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000547221?sid=103"/>
+        <updated>2022-06-18T10:15:49.800Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000547221?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 전국 곳곳 비소식…낮 더위 계속">[날씨] 내일 전국 곳곳 비소식…낮 더위 계속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 내륙 중심 소나기…경상권 체감 33도↑'무더위']]></title>
