@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-18T15:15:34.746Z</updated>
+    <updated>2022-06-18T16:20:41.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA["서해 공무원 진실, 文 전 대통령 답하라" 여당 집중공세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003655097?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003655097?sid=100"/>
+        <updated>2022-06-18T16:20:09.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003655097?sid=100" class="nclicks(rig.secteco)" title="&quot;서해 공무원 진실, 文 전 대통령 답하라&quot; 여당 집중공세">"서해 공무원 진실, 文 전 대통령 답하라" 여당 집중공세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전현희 "법률에 정해진 임기, 역할 성실히"...사퇴 일축 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001753235?sid=100</id>
@@ -12,25 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001753235?sid=100" class="nclicks(rig.secteco)" title="전현희 &quot;법률에 정해진 임기, 역할 성실히&quot;...사퇴 일축">전현희 "법률에 정해진 임기, 역할 성실히"...사퇴 일축</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與, 연일 서해피격 대야 압박…권성동 "文 전 대통령 답하라"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013253930?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013253930?sid=100"/>
-        <updated>2022-06-18T14:13:50.058Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013253930?sid=100" class="nclicks(rig.secteco)" title="與, 연일 서해피격 대야 압박…권성동 &quot;文 전 대통령 답하라&quot;(종합)">與, 연일 서해피격 대야 압박…권성동 "文 전 대통령 답하라"(종합)</a>]]></content>
+        <title type="html"><![CDATA[책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002613542?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002613542?sid=100"/>
+        <updated>2022-06-18T16:20:09.298Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002613542?sid=100" class="nclicks(rig.secteco)" title="책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기?">책임론·조여오는 수사망에도…이재명, 계양산서 당권 도전 몸풀기?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["목숨 바쳐 사랑한다"…`눈물의 개딸` 만난 이재명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005245709?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005245709?sid=100"/>
-        <updated>2022-06-18T13:24:34.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005245709?sid=100" class="nclicks(rig.secteco)" title="&quot;목숨 바쳐 사랑한다&quot;…`눈물의 개딸` 만난 이재명">"목숨 바쳐 사랑한다"…`눈물의 개딸` 만난 이재명</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 "우크라군 가담 한국인 4명 사망…모두 13명 참전"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013253926?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013253926?sid=104"/>
-        <updated>2022-06-18T12:25:22.748Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013253926?sid=104" class="nclicks(rig.secteco)" title="러 &quot;우크라군 가담 한국인 4명 사망…모두 13명 참전&quot;(종합)">러 "우크라군 가담 한국인 4명 사망…모두 13명 참전"(종합)</a>]]></content>
+        <title type="html"><![CDATA[러 국방, 우크라 가담 韓 용병 4명 사망 주장…韓 외교부 "사실관계 파악 중"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006165283?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006165283?sid=104"/>
+        <updated>2022-06-18T16:20:09.301Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006165283?sid=104" class="nclicks(rig.secteco)" title="러 국방, 우크라 가담 韓 용병 4명 사망 주장…韓 외교부 &quot;사실관계 파악 중&quot;(종합)">러 국방, 우크라 가담 韓 용병 4명 사망 주장…韓 외교부 "사실관계 파악 중"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["와, 246억!"…'워런 버핏과 점심' 마지막 경매 대기록 세웠다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006164785?sid=101" class="nclicks(rig.secteco)" title="[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표">[단독]기름값 충격에 유류세 인하 '30%→37%' 내일 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비트코인-이더리움 8% 이상 폭락하는 이유 2가지(종합2) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006165351?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006165351?sid=101"/>
-        <updated>2022-06-18T15:15:03.462Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006165351?sid=101" class="nclicks(rig.secteco)" title="비트코인-이더리움 8% 이상 폭락하는 이유 2가지(종합2)">비트코인-이더리움 8% 이상 폭락하는 이유 2가지(종합2)</a>]]></content>
+        <title type="html"><![CDATA[비트코인 추락…한때 1만9000달러선도 무너져(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011254635?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011254635?sid=101"/>
+        <updated>2022-06-18T16:20:09.310Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254635?sid=101" class="nclicks(rig.secteco)" title="비트코인 추락…한때 1만9000달러선도 무너져(종합)">비트코인 추락…한때 1만9000달러선도 무너져(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘부침’ 겪은 누리호, 21일 2차 발사 일정 받기까지 어떤 과정 있었나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,11 +96,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011254368?sid=102" class="nclicks(rig.secteco)" title="서울경찰·시·구·도로공사 합동단속…체납 차량 12대 적발">서울경찰·시·구·도로공사 합동단속…체납 차량 12대 적발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MBN뉴스센터 날씨]휴일 무더위 속 곳곳 소나기…다음 주 제주부터 장마 시작 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001671114?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001671114?sid=103"/>
-        <updated>2022-06-18T14:13:50.079Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001671114?sid=103" class="nclicks(rig.secteco)" title="[MBN뉴스센터 날씨]휴일 무더위 속 곳곳 소나기…다음 주 제주부터 장마 시작">[MBN뉴스센터 날씨]휴일 무더위 속 곳곳 소나기…다음 주 제주부터 장마 시작</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001753167?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001753167?sid=103"/>
+        <updated>2022-06-18T16:20:09.329Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001753167?sid=103" class="nclicks(rig.secteco)" title="[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기">[날씨] 영남 폭염 특보, 30℃ 안팎 더위...곳곳 요란한 소나기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전국 흐리고 중부 '소나기' 소식…서울 낮 최고 30도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
