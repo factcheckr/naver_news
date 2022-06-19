@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-19T12:26:56.313Z</updated>
+    <updated>2022-06-19T13:23:25.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[尹대통령 "입주 허락해줘 고맙다"…용산 주민 초대 집들이(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011255487?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011255487?sid=100"/>
-        <updated>2022-06-19T12:26:27.530Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011255487?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;입주 허락해줘 고맙다&quot;…용산 주민 초대 집들이(종합)">尹대통령 "입주 허락해줘 고맙다"…용산 주민 초대 집들이(종합)</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령, 주민 초청 '용산청사 집들이'…"용산 입주 허락 감사" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003655231?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003655231?sid=100"/>
+        <updated>2022-06-19T13:22:51.112Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003655231?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 주민 초청 '용산청사 집들이'…&quot;용산 입주 허락 감사&quot;">윤 대통령, 주민 초청 '용산청사 집들이'…"용산 입주 허락 감사"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국힘, ‘검수완박 반대’ 양향자에 반도체특위 위원장 제안 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003706779?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003706779?sid=100"/>
+        <updated>2022-06-19T13:22:51.116Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003706779?sid=100" class="nclicks(rig.secteco)" title="국힘, ‘검수완박 반대’ 양향자에 반도체특위 위원장 제안">국힘, ‘검수완박 반대’ 양향자에 반도체특위 위원장 제안</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 윤리위, 이준석 겨냥 “부적절한 정치행위 말라” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003154135?sid=100" class="nclicks(rig.secteco)" title="국민의힘 윤리위, 이준석 겨냥 “부적절한 정치행위 말라”">국민의힘 윤리위, 이준석 겨냥 “부적절한 정치행위 말라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 국힘, '검수완박 반대' 양향자에 반도체특위장 제안 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004979690?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004979690?sid=100"/>
-        <updated>2022-06-19T12:26:27.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004979690?sid=100" class="nclicks(rig.secteco)" title="[단독] 국힘, '검수완박 반대' 양향자에 반도체특위장 제안">[단독] 국힘, '검수완박 반대' 양향자에 반도체특위장 제안</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[러 “우크라군 가담 한국인 4명 사망”… 외교부 “확인 중” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003706729?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003706729?sid=104"/>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003706729?sid=104" class="nclicks(rig.secteco)" title="러 “우크라군 가담 한국인 4명 사망”… 외교부 “확인 중”">러 “우크라군 가담 한국인 4명 사망”… 외교부 “확인 중”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WP “우크라·러시아, 남북한처럼 될 수도...서방, 장기전 준비” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003203336?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003203336?sid=104"/>
-        <updated>2022-06-19T12:26:27.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203336?sid=104" class="nclicks(rig.secteco)" title="WP “우크라·러시아, 남북한처럼 될 수도...서방, 장기전 준비”">WP “우크라·러시아, 남북한처럼 될 수도...서방, 장기전 준비”</a>]]></content>
+        <title type="html"><![CDATA[우크라, ‘종전 못한’ 한반도처럼 되나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003154149?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003154149?sid=104"/>
+        <updated>2022-06-19T13:22:51.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003154149?sid=104" class="nclicks(rig.secteco)" title="우크라, ‘종전 못한’ 한반도처럼 되나">우크라, ‘종전 못한’ 한반도처럼 되나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유 57원-경유 38원 추가 인하… ‘마지막 카드’ 꺼냈다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,18 +47,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003435070?sid=101" class="nclicks(rig.secteco)" title="휘발유 57원-경유 38원 추가 인하… ‘마지막 카드’ 꺼냈다">휘발유 57원-경유 38원 추가 인하… ‘마지막 카드’ 꺼냈다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유류세 인하 37%로…전기·가스 등 공공요금 동결 기조 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000763070?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000763070?sid=101"/>
-        <updated>2022-06-19T12:26:27.532Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000763070?sid=101" class="nclicks(rig.secteco)" title="유류세 인하 37%로…전기·가스 등 공공요금 동결 기조">유류세 인하 37%로…전기·가스 등 공공요금 동결 기조</a>]]></content>
+        <title type="html"><![CDATA[1분기에만 8조 적자난 한전, 결국 전기요금 인상으로 전국민 연대책임 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000763068?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000763068?sid=101"/>
+        <updated>2022-06-19T13:22:51.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000763068?sid=101" class="nclicks(rig.secteco)" title="1분기에만 8조 적자난 한전, 결국 전기요금 인상으로 전국민 연대책임">1분기에만 8조 적자난 한전, 결국 전기요금 인상으로 전국민 연대책임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크, 테슬라 추격하는 '2등' 현대차에..."꽤 잘하고 있다" 칭찬 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005105373?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005105373?sid=101"/>
-        <updated>2022-06-19T12:26:27.532Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005105373?sid=101" class="nclicks(rig.secteco)" title="머스크, 테슬라 추격하는 '2등' 현대차에...&quot;꽤 잘하고 있다&quot; 칭찬">머스크, 테슬라 추격하는 '2등' 현대차에..."꽤 잘하고 있다" 칭찬</a>]]></content>
+        <title type="html"><![CDATA[머스크 “현대차 매우 잘하고 있다” 호평 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003281077?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003281077?sid=101"/>
+        <updated>2022-06-19T13:22:51.121Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003281077?sid=101" class="nclicks(rig.secteco)" title="머스크 “현대차 매우 잘하고 있다” 호평">머스크 “현대차 매우 잘하고 있다” 호평</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[`누리호` 21일 발사...바람·낙뢰가 변수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000027751?sid=105" class="nclicks(rig.secteco)" title="한미·KT 손잡고 디지털치료기기 시장에 본격 뛰어들다">한미·KT 손잡고 디지털치료기기 시장에 본격 뛰어들다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“김건희 명예 심각히 훼손”… 팬카페 대표, ‘尹 집앞 시위’ 서울의소리 고발 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003281072?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003281072?sid=102"/>
+        <updated>2022-06-19T13:22:51.134Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003281072?sid=102" class="nclicks(rig.secteco)" title="“김건희 명예 심각히 훼손”… 팬카페 대표, ‘尹 집앞 시위’ 서울의소리 고발">“김건희 명예 심각히 훼손”… 팬카페 대표, ‘尹 집앞 시위’ 서울의소리 고발</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가짜 다이아로 새마을금고서 380억 대출…이번엔 간부가 범행 가담 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003706737?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003706737?sid=102"/>
@@ -89,18 +96,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006165942?sid=102" class="nclicks(rig.secteco)" title="[단독]&quot;경찰국 설치 위법&quot;…경찰, 법적대응 검토 '갈등 장기화' 예고">[단독]"경찰국 설치 위법"…경찰, 법적대응 검토 '갈등 장기화' 예고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["주말 아침인데 소음 때문에 손녀가 깼다"…아크로비스타 앞 시위 현장 가보니[르포] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004979770?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004979770?sid=102"/>
-        <updated>2022-06-19T12:26:27.539Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004979770?sid=102" class="nclicks(rig.secteco)" title="&quot;주말 아침인데 소음 때문에 손녀가 깼다&quot;…아크로비스타 앞 시위 현장 가보니[르포]">"주말 아침인데 소음 때문에 손녀가 깼다"…아크로비스타 앞 시위 현장 가보니[르포]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반 클라이번 콩쿠르 최연소 우승…18세 스타 탄생 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000980509?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000980509?sid=103"/>
-        <updated>2022-06-19T12:26:27.540Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000980509?sid=103" class="nclicks(rig.secteco)" title="반 클라이번 콩쿠르 최연소 우승…18세 스타 탄생">반 클라이번 콩쿠르 최연소 우승…18세 스타 탄생</a>]]></content>
+        <title type="html"><![CDATA[18살 임윤찬, 반 클라이번 국제 콩쿠르 최연소 우승 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011286622?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011286622?sid=103"/>
+        <updated>2022-06-19T13:22:51.138Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011286622?sid=103" class="nclicks(rig.secteco)" title="18살 임윤찬, 반 클라이번 국제 콩쿠르 최연소 우승">18살 임윤찬, 반 클라이번 국제 콩쿠르 최연소 우승</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 전국 곳곳서 저녁 비소식…낮 최고 34도 무더위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
