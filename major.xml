@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-20T22:15:20.946Z</updated>
+    <updated>2022-06-20T23:15:31.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["'성희롱' 최강욱, 당원권 정지 6개월? 민주당은 썩었다"…이상이 일침]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005247315?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005247315?sid=100"/>
-        <updated>2022-06-20T22:14:51.334Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005247315?sid=100" class="nclicks(rig.secteco)" title="&quot;'성희롱' 최강욱, 당원권 정지 6개월? 민주당은 썩었다&quot;…이상이 일침">"'성희롱' 최강욱, 당원권 정지 6개월? 민주당은 썩었다"…이상이 일침</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]이준석, 배현진 겨냥 "충격 요법 썼다"…비공개회의 유출에 '초강수']]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005246857?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005246857?sid=100"/>
-        <updated>2022-06-20T20:17:49.144Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005246857?sid=100" class="nclicks(rig.secteco)" title="[단독]이준석, 배현진 겨냥 &quot;충격 요법 썼다&quot;…비공개회의 유출에 '초강수'">[단독]이준석, 배현진 겨냥 "충격 요법 썼다"…비공개회의 유출에 '초강수'</a>]]></content>
+        <title type="html"><![CDATA["XX이 치러갔냐"던 최강욱, '제명' 조치만 간신히 피했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004854875?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004854875?sid=100"/>
+        <updated>2022-06-20T23:15:04.070Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004854875?sid=100" class="nclicks(rig.secteco)" title="&quot;XX이 치러갔냐&quot;던 최강욱, '제명' 조치만 간신히 피했다">"XX이 치러갔냐"던 최강욱, '제명' 조치만 간신히 피했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[징계 위기 이준석 “별다른 걱정 안한다”… 혼돈의 국민의힘]]></title>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003707330?sid=100" class="nclicks(rig.secteco)" title="징계 위기 이준석 “별다른 걱정 안한다”… 혼돈의 국민의힘">징계 위기 이준석 “별다른 걱정 안한다”… 혼돈의 국민의힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중남미 '핑크타이드 시즌2' 완연…산업변혁·교육 확대, 성공할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006167491?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006167491?sid=104"/>
-        <updated>2022-06-20T21:18:04.172Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006167491?sid=104" class="nclicks(rig.secteco)" title="중남미 '핑크타이드 시즌2' 완연…산업변혁·교육 확대, 성공할까">중남미 '핑크타이드 시즌2' 완연…산업변혁·교육 확대, 성공할까</a>]]></content>
+        <title type="html"><![CDATA[[단독]이준석, 배현진 겨냥 "충격 요법 썼다"…비공개회의 유출에 '초강수']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005246857?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005246857?sid=100"/>
+        <updated>2022-06-20T20:17:49.144Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005246857?sid=100" class="nclicks(rig.secteco)" title="[단독]이준석, 배현진 겨냥 &quot;충격 요법 썼다&quot;…비공개회의 유출에 '초강수'">[단독]이준석, 배현진 겨냥 "충격 요법 썼다"…비공개회의 유출에 '초강수'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인플레에 의회 100석 날아갔다… ‘20년 만의 여소야대’ 몰린 마크롱]]></title>
@@ -41,11 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003281408?sid=104" class="nclicks(rig.secteco)" title="인플레에 의회 100석 날아갔다… ‘20년 만의 여소야대’ 몰린 마크롱">인플레에 의회 100석 날아갔다… ‘20년 만의 여소야대’ 몰린 마크롱</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한전·자회사 성과급 반납하라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003707314?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003707314?sid=101"/>
-        <updated>2022-06-20T22:14:51.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003707314?sid=101" class="nclicks(rig.secteco)" title="“한전·자회사 성과급 반납하라”">“한전·자회사 성과급 반납하라”</a>]]></content>
+        <title type="html"><![CDATA[치솟는 인플레에...바이든 "美유류세 한시 면제, 이르면 이번주 결정"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005106010?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005106010?sid=104"/>
+        <updated>2022-06-20T23:15:04.085Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005106010?sid=104" class="nclicks(rig.secteco)" title="치솟는 인플레에...바이든 &quot;美유류세 한시 면제, 이르면 이번주 결정&quot;">치솟는 인플레에...바이든 "美유류세 한시 면제, 이르면 이번주 결정"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011257311?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011257311?sid=101"/>
+        <updated>2022-06-20T23:15:04.087Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011257311?sid=101" class="nclicks(rig.secteco)" title="공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)">공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 한은, 물가상승률 또 올렸다 "올해 4.7% 넘을 수도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000681806?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000681806?sid=101"/>
+        <updated>2022-06-20T23:15:04.087Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000681806?sid=101" class="nclicks(rig.secteco)" title="[속보] 한은, 물가상승률 또 올렸다 &quot;올해 4.7% 넘을 수도&quot;">[속보] 한은, 물가상승률 또 올렸다 "올해 4.7% 넘을 수도"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유럽출장 후 ‘기술·인재’ 강조한 이재용, 곧바로 경영전략회의 가동]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000822168?sid=101" class="nclicks(rig.secteco)" title="유럽출장 후 ‘기술·인재’ 강조한 이재용, 곧바로 경영전략회의 가동">유럽출장 후 ‘기술·인재’ 강조한 이재용, 곧바로 경영전략회의 가동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['탈원전 덤터기'에 정책카드 소진.. 내달 전기료 오른다[양철민의 경알못]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004067183?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004067183?sid=101"/>
-        <updated>2022-06-20T22:14:51.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004067183?sid=101" class="nclicks(rig.secteco)" title="'탈원전 덤터기'에 정책카드 소진.. 내달 전기료 오른다[양철민의 경알못]">'탈원전 덤터기'에 정책카드 소진.. 내달 전기료 오른다[양철민의 경알못]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[7NEWS] 오늘 누리호 발사…우주에 태극기 펼칠 수 있을까]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003698772?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003698772?sid=105"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003698772?sid=105" class="nclicks(rig.secteco)" title="[7NEWS] 오늘 누리호 발사…우주에 태극기 펼칠 수 있을까">[7NEWS] 오늘 누리호 발사…우주에 태극기 펼칠 수 있을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모빌리티 매각설로 뒤숭숭한 카카오, 노조 반발에 '난감']]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000824278?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000824278?sid=105"/>
-        <updated>2022-06-20T22:14:51.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000824278?sid=105" class="nclicks(rig.secteco)" title="모빌리티 매각설로 뒤숭숭한 카카오, 노조 반발에 '난감'">모빌리티 매각설로 뒤숭숭한 카카오, 노조 반발에 '난감'</a>]]></content>
+        <title type="html"><![CDATA["카카오게임즈, 신작 '우마무스메' 대박…투자의견↑"-다올]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004714052?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004714052?sid=105"/>
+        <updated>2022-06-20T23:15:04.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004714052?sid=105" class="nclicks(rig.secteco)" title="&quot;카카오게임즈, 신작 '우마무스메' 대박…투자의견↑&quot;-다올">"카카오게임즈, 신작 '우마무스메' 대박…투자의견↑"-다올</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[행안부 '경찰통제안' 오늘 발표…경찰국 신설 등 추진]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002005299?sid=102" class="nclicks(rig.secteco)" title="행안부 '경찰통제안' 오늘 발표…경찰국 신설 등 추진">행안부 '경찰통제안' 오늘 발표…경찰국 신설 등 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈, 尹정부 첫 검찰 정기인사… 21일 인사위 소집]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000824304?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000824304?sid=102"/>
-        <updated>2022-06-20T22:14:51.357Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000824304?sid=102" class="nclicks(rig.secteco)" title="한동훈, 尹정부 첫 검찰 정기인사… 21일 인사위 소집">한동훈, 尹정부 첫 검찰 정기인사… 21일 인사위 소집</a>]]></content>
+        <title type="html"><![CDATA[검찰총장 패싱 논란 속 검찰 인사위 개최… ‘대규모 물갈이 예고’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003707287?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003707287?sid=102"/>
+        <updated>2022-06-20T23:15:04.092Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003707287?sid=102" class="nclicks(rig.secteco)" title="검찰총장 패싱 논란 속 검찰 인사위 개최… ‘대규모 물갈이 예고’">검찰총장 패싱 논란 속 검찰 인사위 개최… ‘대규모 물갈이 예고’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[`9억대 빚 고문` 논란 인혁당 피해자…정부 이자 면제 결정]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203636?sid=103" class="nclicks(rig.secteco)" title="예순에 하늘 나는 톰 크루즈 &quot;영화 보며 울어도 돼&quot; 웃픈 농담">예순에 하늘 나는 톰 크루즈 "영화 보며 울어도 돼" 웃픈 농담</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본능적인데 동시에 절제 한다…건반 위 '카멜레온' 18세 임윤찬]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003203537?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003203537?sid=103"/>
-        <updated>2022-06-20T16:25:04.288Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203537?sid=103" class="nclicks(rig.secteco)" title="본능적인데 동시에 절제 한다…건반 위 '카멜레온' 18세 임윤찬">본능적인데 동시에 절제 한다…건반 위 '카멜레온' 18세 임윤찬</a>]]></content>
+        <title type="html"><![CDATA[유희열 '표절' 인정에...원곡자 "법적 조치 필요한 수준 아냐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003203653?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003203653?sid=103"/>
+        <updated>2022-06-20T23:15:04.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203653?sid=103" class="nclicks(rig.secteco)" title="유희열 '표절' 인정에...원곡자 &quot;법적 조치 필요한 수준 아냐&quot;">유희열 '표절' 인정에...원곡자 "법적 조치 필요한 수준 아냐"</a>]]></content>
     </entry>
 </feed>
