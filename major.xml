@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-20T08:22:29.267Z</updated>
+    <updated>2022-06-20T09:20:36.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준석·배현진 싸움에 마이크 끈 권성동…'막장 국힘' 생중계]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003203603?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003203603?sid=100"/>
+        <updated>2022-06-20T09:20:08.777Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203603?sid=100" class="nclicks(rig.secteco)" title="이준석·배현진 싸움에 마이크 끈 권성동…'막장 국힘' 생중계">이준석·배현진 싸움에 마이크 끈 권성동…'막장 국힘' 생중계</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시작부터 '위기 엄습'…尹대통령, 'OO경제' 포장할 여유도 없다]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004760780?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004760780?sid=100"/>
         <updated>2022-06-20T08:22:02.770Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004760780?sid=100" class="nclicks(rig.secteco)" title="시작부터 '위기 엄습'…尹대통령, 'OO경제' 포장할 여유도 없다">시작부터 '위기 엄습'…尹대통령, 'OO경제' 포장할 여유도 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고위 충돌…이준석 "비공개 안한다" 배현진 "누굴 탓하나"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013257292?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013257292?sid=100"/>
-        <updated>2022-06-20T08:22:02.773Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013257292?sid=100" class="nclicks(rig.secteco)" title="최고위 충돌…이준석 &quot;비공개 안한다&quot; 배현진 &quot;누굴 탓하나&quot;(종합2보)">최고위 충돌…이준석 "비공개 안한다" 배현진 "누굴 탓하나"(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['폭풍전야' 與…'이준석 징계 논의' 임박에 당권구도 중대기로(종합)]]></title>
@@ -27,32 +27,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013257333?sid=100" class="nclicks(rig.secteco)" title="'폭풍전야' 與…'이준석 징계 논의' 임박에 당권구도 중대기로(종합)">'폭풍전야' 與…'이준석 징계 논의' 임박에 당권구도 중대기로(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프랑스 총선 극우 약진 이유는…"反마크롱 연합·기존체제 불신"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013257363?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013257363?sid=104"/>
-        <updated>2022-06-20T08:22:02.773Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013257363?sid=104" class="nclicks(rig.secteco)" title="프랑스 총선 극우 약진 이유는…&quot;反마크롱 연합·기존체제 불신&quot;">프랑스 총선 극우 약진 이유는…"反마크롱 연합·기존체제 불신"</a>]]></content>
+        <title type="html"><![CDATA[물가 압박, 마크롱 독선에 경고장…프랑스 총선 극좌·극우 돌풍]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003203635?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003203635?sid=104"/>
+        <updated>2022-06-20T09:20:08.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203635?sid=104" class="nclicks(rig.secteco)" title="물가 압박, 마크롱 독선에 경고장…프랑스 총선 극좌·극우 돌풍">물가 압박, 마크롱 독선에 경고장…프랑스 총선 극좌·극우 돌풍</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령실 “日, 한·일·호·뉴 4개국 정상회의 제안…검토중”]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000229071?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000229071?sid=104"/>
-        <updated>2022-06-20T07:15:05.755Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000229071?sid=104" class="nclicks(rig.secteco)" title="대통령실 “日, 한·일·호·뉴 4개국 정상회의 제안…검토중”">대통령실 “日, 한·일·호·뉴 4개국 정상회의 제안…검토중”</a>]]></content>
+        <title type="html"><![CDATA['유명무실' 정부위원회 통폐합…임기 내 20% 감축 목표]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005247177?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005247177?sid=104"/>
+        <updated>2022-06-20T09:20:08.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005247177?sid=104" class="nclicks(rig.secteco)" title="'유명무실' 정부위원회 통폐합…임기 내 20% 감축 목표">'유명무실' 정부위원회 통폐합…임기 내 20% 감축 목표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011257311?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011257311?sid=101"/>
-        <updated>2022-06-20T08:22:02.775Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011257311?sid=101" class="nclicks(rig.secteco)" title="공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)">공공기관 경평 코레일 등 18곳 낙제…한전에 성과급 반납 권고(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기요금 인상 폭 두고 부처 간 줄다리기…한전은 성과급 반납키로]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003154317?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003154317?sid=101"/>
-        <updated>2022-06-20T08:22:02.776Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003154317?sid=101" class="nclicks(rig.secteco)" title="전기요금 인상 폭 두고 부처 간 줄다리기…한전은 성과급 반납키로">전기요금 인상 폭 두고 부처 간 줄다리기…한전은 성과급 반납키로</a>]]></content>
+        <title type="html"><![CDATA[코레일·LH 경영평가 낙제점…'재무악화' 한전 임원 성과급 반납(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013257401?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013257401?sid=101"/>
+        <updated>2022-06-20T09:20:08.779Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013257401?sid=101" class="nclicks(rig.secteco)" title="코레일·LH 경영평가 낙제점…'재무악화' 한전 임원 성과급 반납(종합2보)">코레일·LH 경영평가 낙제점…'재무악화' 한전 임원 성과급 반납(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재용 '기술강조' 이틀만에 삼성사장단 긴급회의…비상경영 돌입하나]]></title>
@@ -62,25 +55,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013256965?sid=101" class="nclicks(rig.secteco)" title="이재용 '기술강조' 이틀만에 삼성사장단 긴급회의…비상경영 돌입하나">이재용 '기술강조' 이틀만에 삼성사장단 긴급회의…비상경영 돌입하나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누리호 발사 전날, 계획대로 착착 준비…오후 4시까지 모두 정상]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013257242?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013257242?sid=105"/>
-        <updated>2022-06-20T08:22:02.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013257242?sid=105" class="nclicks(rig.secteco)" title="누리호 발사 전날, 계획대로 착착 준비…오후 4시까지 모두 정상">누리호 발사 전날, 계획대로 착착 준비…오후 4시까지 모두 정상</a>]]></content>
+        <title type="html"><![CDATA[전기료 월1000원 인상? 한전 주장에 기재부 "자구노력부터"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003203618?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003203618?sid=101"/>
+        <updated>2022-06-20T09:20:08.781Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203618?sid=101" class="nclicks(rig.secteco)" title="전기료 월1000원 인상? 한전 주장에 기재부 &quot;자구노력부터&quot;">전기료 월1000원 인상? 한전 주장에 기재부 "자구노력부터"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["몰디브서 90일 해외 원격근무"…또 파격근무제 내세운 '이 회사']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004760612?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004760612?sid=105"/>
-        <updated>2022-06-20T07:15:05.762Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004760612?sid=105" class="nclicks(rig.secteco)" title="&quot;몰디브서 90일 해외 원격근무&quot;…또 파격근무제 내세운 '이 회사'">"몰디브서 90일 해외 원격근무"…또 파격근무제 내세운 '이 회사'</a>]]></content>
+        <title type="html"><![CDATA[[여기는 우주센터]누리호, 문제 부품 ‘정상’…“대한민국 우주 길 연다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000039492?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000039492?sid=105"/>
+        <updated>2022-06-20T09:20:08.782Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039492?sid=105" class="nclicks(rig.secteco)" title="[여기는 우주센터]누리호, 문제 부품 ‘정상’…“대한민국 우주 길 연다”">[여기는 우주센터]누리호, 문제 부품 ‘정상’…“대한민국 우주 길 연다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김건희 팬카페, ‘尹 대통령 자택 집회’ 서울의소리 고발]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001534351?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001534351?sid=102"/>
-        <updated>2022-06-20T08:22:02.781Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001534351?sid=102" class="nclicks(rig.secteco)" title="김건희 팬카페, ‘尹 대통령 자택 집회’ 서울의소리 고발">김건희 팬카페, ‘尹 대통령 자택 집회’ 서울의소리 고발</a>]]></content>
+        <title type="html"><![CDATA[카카오모빌리티 ‘매각설’에 직원 절반 노조 가입…매각 반대 목소리 높인다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003154321?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003154321?sid=105"/>
+        <updated>2022-06-20T09:20:08.784Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003154321?sid=105" class="nclicks(rig.secteco)" title="카카오모빌리티 ‘매각설’에 직원 절반 노조 가입…매각 반대 목소리 높인다">카카오모빌리티 ‘매각설’에 직원 절반 노조 가입…매각 반대 목소리 높인다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김건희 팬카페 대표, ‘서울의 소리’ 백은종 명예훼손 고발]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003281304?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003281304?sid=102"/>
+        <updated>2022-06-20T09:20:08.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003281304?sid=102" class="nclicks(rig.secteco)" title="김건희 팬카페 대표, ‘서울의 소리’ 백은종 명예훼손 고발">김건희 팬카페 대표, ‘서울의 소리’ 백은종 명예훼손 고발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 행안부 '경찰통제안' 발표 앞두고 경찰 반발 확산]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001534349?sid=103" class="nclicks(rig.secteco)" title="세계 홀린 18세 임윤찬, 병역은?…이미 3년전 혜택 얻어">세계 홀린 18세 임윤찬, 병역은?…이미 3년전 혜택 얻어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배우 이시영, 스위스서 여성 산악인들과 세계 기록 수립]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005246968?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005246968?sid=103"/>
-        <updated>2022-06-20T07:15:05.773Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005246968?sid=103" class="nclicks(rig.secteco)" title="배우 이시영, 스위스서 여성 산악인들과 세계 기록 수립">배우 이시영, 스위스서 여성 산악인들과 세계 기록 수립</a>]]></content>
+        <title type="html"><![CDATA[예순 나이에도 하늘 나는 톰 크루즈…“탑건2 보며 울어도 돼”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003203636?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003203636?sid=103"/>
+        <updated>2022-06-20T09:20:08.791Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003203636?sid=103" class="nclicks(rig.secteco)" title="예순 나이에도 하늘 나는 톰 크루즈…“탑건2 보며 울어도 돼”">예순 나이에도 하늘 나는 톰 크루즈…“탑건2 보며 울어도 돼”</a>]]></content>
     </entry>
 </feed>
