@@ -2,43 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-23T05:20:56.533Z</updated>
+    <updated>2022-06-23T06:19:37.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[경찰 기선제압? 尹 '치안감 인사 번복 논란'에 "중대한 국기문란"]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002278797?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002278797?sid=100"/>
-        <updated>2022-06-23T05:20:31.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002278797?sid=100" class="nclicks(rig.secteco)" title="경찰 기선제압? 尹 '치안감 인사 번복 논란'에 &quot;중대한 국기문란&quot;">경찰 기선제압? 尹 '치안감 인사 번복 논란'에 "중대한 국기문란"</a>]]></content>
+        <title type="html"><![CDATA[尹대통령 '국기문란' 발언에 野 "누가 누구한테 국기문란? 정말 황당"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004856714?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004856714?sid=100"/>
+        <updated>2022-06-23T06:19:09.383Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004856714?sid=100" class="nclicks(rig.secteco)" title="尹대통령 '국기문란' 발언에 野 &quot;누가 누구한테 국기문란? 정말 황당&quot;">尹대통령 '국기문란' 발언에 野 "누가 누구한테 국기문란? 정말 황당"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 배현진 ‘공천 문제’ 언급에 이준석 발끈…회의 전 악수도 거부]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001535146?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001535146?sid=100"/>
-        <updated>2022-06-23T03:37:08.520Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001535146?sid=100" class="nclicks(rig.secteco)" title="[단독] 배현진 ‘공천 문제’ 언급에 이준석 발끈…회의 전 악수도 거부">[단독] 배현진 ‘공천 문제’ 언급에 이준석 발끈…회의 전 악수도 거부</a>]]></content>
+        <title type="html"><![CDATA[이준석-배현진, 악수 뿌리치고 어깨 툭…비공개회의서도 입씨름(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013265012?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013265012?sid=100"/>
+        <updated>2022-06-23T06:19:09.384Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013265012?sid=100" class="nclicks(rig.secteco)" title="이준석-배현진, 악수 뿌리치고 어깨 툭…비공개회의서도 입씨름(종합)">이준석-배현진, 악수 뿌리치고 어깨 툭…비공개회의서도 입씨름(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘北 피격 공무원’ 목록도 못보게 봉인…유족 “文 고발 검토”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003436021?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003436021?sid=100"/>
-        <updated>2022-06-23T05:20:31.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003436021?sid=100" class="nclicks(rig.secteco)" title="‘北 피격 공무원’ 목록도 못보게 봉인…유족 “文 고발 검토”">‘北 피격 공무원’ 목록도 못보게 봉인…유족 “文 고발 검토”</a>]]></content>
+        <title type="html"><![CDATA[핵실험 언제할지 논의했나…北 남측지도 걸어놓고 작계 수정]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005249811?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005249811?sid=100"/>
+        <updated>2022-06-23T06:19:09.386Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005249811?sid=100" class="nclicks(rig.secteco)" title="핵실험 언제할지 논의했나…北 남측지도 걸어놓고 작계 수정">핵실험 언제할지 논의했나…北 남측지도 걸어놓고 작계 수정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상]건물 쏟아지고, 시신들 땅에…아프간 강진 '아비규환'[이슈시개]]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003656842?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003656842?sid=104"/>
-        <updated>2022-06-23T05:20:31.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003656842?sid=104" class="nclicks(rig.secteco)" title="[영상]건물 쏟아지고, 시신들 땅에…아프간 강진 '아비규환'[이슈시개]">[영상]건물 쏟아지고, 시신들 땅에…아프간 강진 '아비규환'[이슈시개]</a>]]></content>
+        <title type="html"><![CDATA[반격하는 푸틴 “서방 제재 몰상식… 브릭스, 독자 경제권 만들자”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003282144?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003282144?sid=104"/>
+        <updated>2022-06-23T06:19:09.388Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003282144?sid=104" class="nclicks(rig.secteco)" title="반격하는 푸틴 “서방 제재 몰상식… 브릭스, 독자 경제권 만들자”">반격하는 푸틴 “서방 제재 몰상식… 브릭스, 독자 경제권 만들자”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국 주도 '브릭스' 정상회의 막올려…신냉전 기류]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005249761?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005249761?sid=104"/>
-        <updated>2022-06-23T05:20:31.582Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005249761?sid=104" class="nclicks(rig.secteco)" title="중국 주도 '브릭스' 정상회의 막올려…신냉전 기류">중국 주도 '브릭스' 정상회의 막올려…신냉전 기류</a>]]></content>
+        <title type="html"><![CDATA[바이든, 푸틴 사진 앞에서 유류세 3개월간 면제 요청]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004715305?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004715305?sid=104"/>
+        <updated>2022-06-23T06:19:09.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004715305?sid=104" class="nclicks(rig.secteco)" title="바이든, 푸틴 사진 앞에서 유류세 3개월간 면제 요청">바이든, 푸틴 사진 앞에서 유류세 3개월간 면제 요청</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국인이 아파트 45채 싹쓸이?..외국인 부동산 투기 '정조준']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005249790?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005249790?sid=101"/>
+        <updated>2022-06-23T06:19:09.392Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005249790?sid=101" class="nclicks(rig.secteco)" title="미국인이 아파트 45채 싹쓸이?..외국인 부동산 투기 '정조준'">미국인이 아파트 45채 싹쓸이?..외국인 부동산 투기 '정조준'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`폰으로 초고화질 영화를`…삼성전자, 초소형 2억 화소 이미지센서 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002740469?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002740469?sid=101"/>
+        <updated>2022-06-23T06:19:09.395Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002740469?sid=101" class="nclicks(rig.secteco)" title="`폰으로 초고화질 영화를`…삼성전자, 초소형 2억 화소 이미지센서 공개">`폰으로 초고화질 영화를`…삼성전자, 초소형 2억 화소 이미지센서 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹정부, 노동시장 개혁 나선다… 근로시간·임금체계 개편]]></title>
@@ -48,66 +62,52 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708210?sid=101" class="nclicks(rig.secteco)" title="尹정부, 노동시장 개혁 나선다… 근로시간·임금체계 개편">尹정부, 노동시장 개혁 나선다… 근로시간·임금체계 개편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환율 1천300원 돌파…수입물가 부담·수요위축 우려 기업들 비상]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013264283?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013264283?sid=101"/>
-        <updated>2022-06-23T05:20:31.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013264283?sid=101" class="nclicks(rig.secteco)" title="환율 1천300원 돌파…수입물가 부담·수요위축 우려 기업들 비상">환율 1천300원 돌파…수입물가 부담·수요위축 우려 기업들 비상</a>]]></content>
+        <title type="html"><![CDATA[이종호 과기부 장관 “기술주권 확립 출연연 역량 결집해야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002006813?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002006813?sid=105"/>
+        <updated>2022-06-23T06:19:09.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002006813?sid=105" class="nclicks(rig.secteco)" title="이종호 과기부 장관 “기술주권 확립 출연연 역량 결집해야”">이종호 과기부 장관 “기술주권 확립 출연연 역량 결집해야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼자 45채 쇼핑, 8세 집주인…외국인 부동산 투기 차단한다(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011263937?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011263937?sid=101"/>
-        <updated>2022-06-23T05:20:31.586Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011263937?sid=101" class="nclicks(rig.secteco)" title="혼자 45채 쇼핑, 8세 집주인…외국인 부동산 투기 차단한다(종합)">혼자 45채 쇼핑, 8세 집주인…외국인 부동산 투기 차단한다(종합)</a>]]></content>
+        <title type="html"><![CDATA[실물경제 메타버스 메버(mever),코엑스 메타버스 엑스포 성황리 종료]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002615061?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002615061?sid=105"/>
+        <updated>2022-06-23T06:19:09.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002615061?sid=105" class="nclicks(rig.secteco)" title="실물경제 메타버스 메버(mever),코엑스 메타버스 엑스포 성황리 종료">실물경제 메타버스 메버(mever),코엑스 메타버스 엑스포 성황리 종료</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위메이드, 신작 미르M 출시일 주가 '흔들'…이용자 "리니지 닮은 게임"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006175176?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006175176?sid=105"/>
-        <updated>2022-06-23T05:20:31.587Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006175176?sid=105" class="nclicks(rig.secteco)" title="위메이드, 신작 미르M 출시일 주가 '흔들'…이용자 &quot;리니지 닮은 게임&quot;">위메이드, 신작 미르M 출시일 주가 '흔들'…이용자 "리니지 닮은 게임"</a>]]></content>
+        <title type="html"><![CDATA[닻 올린 주52시간제 개편…연장근로 월(月) 단위로 유연하게(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005249822?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005249822?sid=102"/>
+        <updated>2022-06-23T06:19:09.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005249822?sid=102" class="nclicks(rig.secteco)" title="닻 올린 주52시간제 개편…연장근로 월(月) 단위로 유연하게(종합)">닻 올린 주52시간제 개편…연장근로 월(月) 단위로 유연하게(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오 남궁훈, 과기부 장관 만나 "메타버스와 게임은 달라" 소신 발언]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006174214?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006174214?sid=105"/>
-        <updated>2022-06-23T05:20:31.589Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006174214?sid=105" class="nclicks(rig.secteco)" title="카카오 남궁훈, 과기부 장관 만나 &quot;메타버스와 게임은 달라&quot; 소신 발언">카카오 남궁훈, 과기부 장관 만나 "메타버스와 게임은 달라" 소신 발언</a>]]></content>
+        <title type="html"><![CDATA[대통령기록관 정보공개 요구 불응에 피살 공무원 유족 "문재인 고발 검토"]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000900529?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000900529?sid=102"/>
+        <updated>2022-06-23T06:19:09.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000900529?sid=102" class="nclicks(rig.secteco)" title="대통령기록관 정보공개 요구 불응에 피살 공무원 유족 &quot;문재인 고발 검토&quot;">대통령기록관 정보공개 요구 불응에 피살 공무원 유족 "문재인 고발 검토"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연장근로 '주→월 단위' 개편…주52시간제 유연화 추진(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011263943?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011263943?sid=102"/>
-        <updated>2022-06-23T05:20:31.590Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011263943?sid=102" class="nclicks(rig.secteco)" title="연장근로 '주→월 단위' 개편…주52시간제 유연화 추진(종합)">연장근로 '주→월 단위' 개편…주52시간제 유연화 추진(종합)</a>]]></content>
+        <title type="html"><![CDATA["16년 묵은 난제 뿌리 뽑겠다"…보이스피싱 정부합수단 출범]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000303140?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000303140?sid=102"/>
+        <updated>2022-06-23T06:19:09.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000303140?sid=102" class="nclicks(rig.secteco)" title="&quot;16년 묵은 난제 뿌리 뽑겠다&quot;…보이스피싱 정부합수단 출범">"16년 묵은 난제 뿌리 뽑겠다"…보이스피싱 정부합수단 출범</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보이스피싱 정부 합수단 출범… “말단부터 총책까지 발본색원”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003708213?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003708213?sid=102"/>
-        <updated>2022-06-23T03:37:08.541Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708213?sid=102" class="nclicks(rig.secteco)" title="보이스피싱 정부 합수단 출범… “말단부터 총책까지 발본색원”">보이스피싱 정부 합수단 출범… “말단부터 총책까지 발본색원”</a>]]></content>
+        <title type="html"><![CDATA["하반기 물량 풀린다"…지프, 올해도 1만 대 클럽 자신]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000027960?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000027960?sid=103"/>
+        <updated>2022-06-23T06:19:09.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000027960?sid=103" class="nclicks(rig.secteco)" title="&quot;하반기 물량 풀린다&quot;…지프, 올해도 1만 대 클럽 자신">"하반기 물량 풀린다"…지프, 올해도 1만 대 클럽 자신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['한국 경제학 거목' 조순 서울대 명예교수 별세…향년 94세(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013264471?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013264471?sid=102"/>
-        <updated>2022-06-23T05:20:31.596Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013264471?sid=102" class="nclicks(rig.secteco)" title="'한국 경제학 거목' 조순 서울대 명예교수 별세…향년 94세(종합2보)">'한국 경제학 거목' 조순 서울대 명예교수 별세…향년 94세(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["신형 컴패스, 도심+오프로드 모두 아우른다…주문 즉시 출고 가능"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005107632?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005107632?sid=103"/>
-        <updated>2022-06-23T05:20:31.597Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005107632?sid=103" class="nclicks(rig.secteco)" title="&quot;신형 컴패스, 도심+오프로드 모두 아우른다…주문 즉시 출고 가능&quot;">"신형 컴패스, 도심+오프로드 모두 아우른다…주문 즉시 출고 가능"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내륙 올여름 첫 장마, 폭우 주의...서울 '호우주의보']]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001755218?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001755218?sid=103"/>
-        <updated>2022-06-23T05:20:31.598Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001755218?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내륙 올여름 첫 장마, 폭우 주의...서울 '호우주의보'">[날씨] 내륙 올여름 첫 장마, 폭우 주의...서울 '호우주의보'</a>]]></content>
+        <title type="html"><![CDATA[[Y초점] "동참합니다" 뮤지컬계는 단결했는데..옥주현, 새 입장 표명할까]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001755162?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001755162?sid=103"/>
+        <updated>2022-06-23T06:19:09.418Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001755162?sid=103" class="nclicks(rig.secteco)" title="[Y초점] &quot;동참합니다&quot; 뮤지컬계는 단결했는데..옥주현, 새 입장 표명할까">[Y초점] "동참합니다" 뮤지컬계는 단결했는데..옥주현, 새 입장 표명할까</a>]]></content>
     </entry>
 </feed>
