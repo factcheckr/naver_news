@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-24T11:13:53.587Z</updated>
+    <updated>2022-06-24T12:32:14.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당 워크숍 달군 '불출마론'…말 아낀 이재명 의원]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000981726?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000981726?sid=100"/>
+        <updated>2022-06-24T12:31:46.651Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000981726?sid=100" class="nclicks(rig.secteco)" title="민주당 워크숍 달군 '불출마론'…말 아낀 이재명 의원">민주당 워크숍 달군 '불출마론'…말 아낀 이재명 의원</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주 "법사위원장 與가 맡는데 동의…국힘도 약속 이행해야"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013268194?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013268194?sid=100" class="nclicks(rig.secteco)" title="민주 &quot;법사위원장 與가 맡는데 동의…국힘도 약속 이행해야&quot;(종합)">민주 "법사위원장 與가 맡는데 동의…국힘도 약속 이행해야"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이재명, 전당대회 불출마해야"…거세지는 당내 李 압박]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004069014?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004069014?sid=100"/>
-        <updated>2022-06-24T11:13:21.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004069014?sid=100" class="nclicks(rig.secteco)" title="&quot;이재명, 전당대회 불출마해야&quot;…거세지는 당내 李 압박">"이재명, 전당대회 불출마해야"…거세지는 당내 李 압박</a>]]></content>
+        <title type="html"><![CDATA[장관 직접 발표에도···대통령은 “정부 입장 아니다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003155430?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003155430?sid=100"/>
+        <updated>2022-06-24T12:31:46.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003155430?sid=100" class="nclicks(rig.secteco)" title="장관 직접 발표에도···대통령은 “정부 입장 아니다”">장관 직접 발표에도···대통령은 “정부 입장 아니다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주52시간 발표 尹 “보고 못받아”…5시간여뒤 참모 “보고받았다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003204895?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003204895?sid=100"/>
-        <updated>2022-06-24T11:13:21.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003204895?sid=100" class="nclicks(rig.secteco)" title="주52시간 발표 尹 “보고 못받아”…5시간여뒤 참모 “보고받았다”">주52시간 발표 尹 “보고 못받아”…5시간여뒤 참모 “보고받았다”</a>]]></content>
+        <title type="html"><![CDATA[미 총기규제 '1보 전진, 2보 후퇴'…상원·대법원 같은 날 다른 판단]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002248729?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002248729?sid=104"/>
+        <updated>2022-06-24T12:31:46.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002248729?sid=104" class="nclicks(rig.secteco)" title="미 총기규제 '1보 전진, 2보 후퇴'…상원·대법원 같은 날 다른 판단">미 총기규제 '1보 전진, 2보 후퇴'…상원·대법원 같은 날 다른 판단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미, 30년만에 총기규제 '진전'…학교참변 뒤 여야 극적 합의(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013268110?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013268110?sid=104"/>
-        <updated>2022-06-24T11:13:21.519Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013268110?sid=104" class="nclicks(rig.secteco)" title="미, 30년만에 총기규제 '진전'…학교참변 뒤 여야 극적 합의(종합)">미, 30년만에 총기규제 '진전'…학교참변 뒤 여야 극적 합의(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓 나토行 반대한다" 中의 경고…"참견마" 반박한 美백악관]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004762909?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004762909?sid=104"/>
-        <updated>2022-06-24T09:15:31.951Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004762909?sid=104" class="nclicks(rig.secteco)" title="&quot;韓 나토行 반대한다&quot; 中의 경고…&quot;참견마&quot; 반박한 美백악관">"韓 나토行 반대한다" 中의 경고…"참견마" 반박한 美백악관</a>]]></content>
+        <title type="html"><![CDATA[러 외무 "우크라 EU 후보국 지위 확보 러시아에 위협안돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013268375?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013268375?sid=104"/>
+        <updated>2022-06-24T12:31:46.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013268375?sid=104" class="nclicks(rig.secteco)" title="러 외무 &quot;우크라 EU 후보국 지위 확보 러시아에 위협안돼&quot;">러 외무 "우크라 EU 후보국 지위 확보 러시아에 위협안돼"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“8월 코스피로 간다” 쏘카, 유니콘 기업 첫 상장 도전]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011266793?sid=101" class="nclicks(rig.secteco)" title="'금융투자' 속속 떼는 증권사들…이유는">'금융투자' 속속 떼는 증권사들…이유는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초고속인터넷 중단시 요금배상액 6배→10배 확대]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005250775?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005250775?sid=105"/>
-        <updated>2022-06-24T11:13:21.528Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005250775?sid=105" class="nclicks(rig.secteco)" title="초고속인터넷 중단시 요금배상액  6배→10배 확대">초고속인터넷 중단시 요금배상액 6배→10배 확대</a>]]></content>
+        <title type="html"><![CDATA[통신서비스 2시간 이상 끊기면 10배 배상…실효성은]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000548125?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000548125?sid=105"/>
+        <updated>2022-06-24T12:31:46.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000548125?sid=105" class="nclicks(rig.secteco)" title="통신서비스 2시간 이상 끊기면 10배 배상…실효성은">통신서비스 2시간 이상 끊기면 10배 배상…실효성은</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["김범수 직접 나서라"…모빌리티 매각설에 카카오 노조 '발끈']]></title>
@@ -76,11 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004716123?sid=105" class="nclicks(rig.secteco)" title="&quot;김범수 직접 나서라&quot;…모빌리티 매각설에 카카오 노조 '발끈'">"김범수 직접 나서라"…모빌리티 매각설에 카카오 노조 '발끈'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["피격 공무원 책임 통감" 해경청장 등 일괄 사의 표명..."감사 중이라 반려"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001755886?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001755886?sid=102"/>
-        <updated>2022-06-24T11:13:21.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001755886?sid=102" class="nclicks(rig.secteco)" title="&quot;피격 공무원 책임 통감&quot; 해경청장 등 일괄 사의 표명...&quot;감사 중이라 반려&quot;">"피격 공무원 책임 통감" 해경청장 등 일괄 사의 표명..."감사 중이라 반려"</a>]]></content>
+        <title type="html"><![CDATA[합참 ‘월북 가능성 낮음’… 靑 회의 후 ‘월북’으로 뒤집어]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003708724?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003708724?sid=102"/>
+        <updated>2022-06-24T12:31:46.665Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708724?sid=102" class="nclicks(rig.secteco)" title="합참 ‘월북 가능성 낮음’… 靑 회의 후 ‘월북’으로 뒤집어">합참 ‘월북 가능성 낮음’… 靑 회의 후 ‘월북’으로 뒤집어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대만 원숭이두창 첫 확진자 나와, 독일 귀국 남성]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005251224?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005251224?sid=102"/>
+        <updated>2022-06-24T12:31:46.666Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005251224?sid=102" class="nclicks(rig.secteco)" title="대만 원숭이두창 첫 확진자 나와, 독일 귀국 남성">대만 원숭이두창 첫 확진자 나와, 독일 귀국 남성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내달부터 코로나19 격리자 지원 축소…유급휴가비 30인 이하 사업장에만]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003204820?sid=102" class="nclicks(rig.secteco)" title="내달부터 코로나19 격리자 지원 축소…유급휴가비 30인 이하 사업장에만">내달부터 코로나19 격리자 지원 축소…유급휴가비 30인 이하 사업장에만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[의사가 말해주는 ‘원숭이두창’ 증상부터 대처까지 [원숭이두창 Q&A]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003708706?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003708706?sid=102"/>
-        <updated>2022-06-24T10:17:59.786Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708706?sid=102" class="nclicks(rig.secteco)" title="의사가 말해주는 ‘원숭이두창’ 증상부터 대처까지 [원숭이두창 Q&amp;A]">의사가 말해주는 ‘원숭이두창’ 증상부터 대처까지 [원숭이두창 Q&amp;A]</a>]]></content>
+        <title type="html"><![CDATA[“벌써 10년, 그녀 요구에 끌려다니다 팡 터져”... 옥주현 ‘옥장판 사건’ 전말]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003699681?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003699681?sid=103"/>
+        <updated>2022-06-24T12:31:46.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003699681?sid=103" class="nclicks(rig.secteco)" title="“벌써 10년, 그녀 요구에 끌려다니다 팡 터져”... 옥주현 ‘옥장판 사건’ 전말">“벌써 10년, 그녀 요구에 끌려다니다 팡 터져”... 옥주현 ‘옥장판 사건’ 전말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['인맥 캐스팅' 논란 옥주현 "고소취하"…'엘리자벳' 제작사 "캐스팅 관여는 안해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005108328?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005108328?sid=103"/>
-        <updated>2022-06-24T11:13:21.536Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005108328?sid=103" class="nclicks(rig.secteco)" title="'인맥 캐스팅' 논란 옥주현 &quot;고소취하&quot;…'엘리자벳' 제작사 &quot;캐스팅 관여는 안해&quot;">'인맥 캐스팅' 논란 옥주현 "고소취하"…'엘리자벳' 제작사 "캐스팅 관여는 안해"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[퇴근길 날씨] 내륙 장마 소강상태…내일 충청·남부 소나기]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011290172?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011290172?sid=103"/>
-        <updated>2022-06-24T09:15:31.976Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011290172?sid=103" class="nclicks(rig.secteco)" title="[퇴근길 날씨] 내륙 장마 소강상태…내일 충청·남부 소나기">[퇴근길 날씨] 내륙 장마 소강상태…내일 충청·남부 소나기</a>]]></content>
+        <title type="html"><![CDATA[[내일 날씨] 25일 곳곳 소나기… "우산 챙기세요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003708720?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003708720?sid=103"/>
+        <updated>2022-06-24T12:31:46.670Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708720?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] 25일 곳곳 소나기… &quot;우산 챙기세요&quot;">[내일 날씨] 25일 곳곳 소나기… "우산 챙기세요"</a>]]></content>
     </entry>
 </feed>
