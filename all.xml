@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-26T04:28:37.156Z</updated>
+    <updated>2022-06-26T05:16:40.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘검수완박’ 반대 양향자, 국민의힘 제안한 반도체특위 위원장 맡는다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003436436?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003436436?sid=100"/>
+        <updated>2022-06-26T05:16:10.195Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003436436?sid=100" class="nclicks(rig.secteco)" title="‘검수완박’ 반대 양향자, 국민의힘 제안한 반도체특위 위원장 맡는다">‘검수완박’ 반대 양향자, 국민의힘 제안한 반도체특위 위원장 맡는다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주, 서해공무원 피살 TF 설치…"與 정략적 사실왜곡에 대응"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013269430?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013269430?sid=100" class="nclicks(rig.secteco)" title="민주, 서해공무원 피살 TF 설치…&quot;與 정략적 사실왜곡에 대응&quot;(종합)">민주, 서해공무원 피살 TF 설치…"與 정략적 사실왜곡에 대응"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002007532?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002007532?sid=100"/>
-        <updated>2022-06-26T03:37:09.983Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002007532?sid=100" class="nclicks(rig.secteco)" title="[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식">[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, 尹정부 저격…"드디어 '반노동본색' 드러내" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005108586?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005108586?sid=100"/>
-        <updated>2022-06-26T04:28:10.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005108586?sid=100" class="nclicks(rig.secteco)" title="박지현, 尹정부 저격…&quot;드디어 '반노동본색' 드러내&quot;">박지현, 尹정부 저격…"드디어 '반노동본색' 드러내"</a>]]></content>
+        <title type="html"><![CDATA[박지현 “尹, 반노동 본색 드러내” 국힘 “직접 돈 벌어봤나” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003699862?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003699862?sid=100"/>
+        <updated>2022-06-26T05:16:10.202Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003699862?sid=100" class="nclicks(rig.secteco)" title="박지현 “尹, 반노동 본색 드러내” 국힘 “직접 돈 벌어봤나”">박지현 “尹, 반노동 본색 드러내” 국힘 “직접 돈 벌어봤나”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“44년전 ‘두창 백신’ 맞은 사람, 원숭이두창에 면역있나요?” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,32 +33,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003282553?sid=104" class="nclicks(rig.secteco)" title="“44년전 ‘두창 백신’ 맞은 사람, 원숭이두창에 면역있나요?”">“44년전 ‘두창 백신’ 맞은 사람, 원숭이두창에 면역있나요?”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이든, 총기규제법안 최종 서명..."많은 생명 구할 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002615657?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002615657?sid=104"/>
-        <updated>2022-06-26T04:28:10.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002615657?sid=104" class="nclicks(rig.secteco)" title="바이든, 총기규제법안 최종 서명...&quot;많은 생명 구할 것&quot;">바이든, 총기규제법안 최종 서명..."많은 생명 구할 것"</a>]]></content>
+        <title type="html"><![CDATA[바이든 美 총기규제법안 최종 서명 '공화당 일부 협조로 통과' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000763896?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000763896?sid=104"/>
+        <updated>2022-06-26T05:16:10.202Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000763896?sid=104" class="nclicks(rig.secteco)" title="바이든 美 총기규제법안 최종 서명 '공화당 일부 협조로 통과'">바이든 美 총기규제법안 최종 서명 '공화당 일부 협조로 통과'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추경호 “전기요금 조만간 인상…물가 6%대 가능성” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002615656?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002615656?sid=101"/>
-        <updated>2022-06-26T04:28:10.297Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002615656?sid=101" class="nclicks(rig.secteco)" title="추경호 “전기요금 조만간 인상…물가 6%대 가능성”">추경호 “전기요금 조만간 인상…물가 6%대 가능성”</a>]]></content>
+        <title type="html"><![CDATA[블룸버그 "美 전기차 시장서 현대차가 테슬라보다 핫해" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011268111?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011268111?sid=101"/>
+        <updated>2022-06-26T05:16:10.202Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011268111?sid=101" class="nclicks(rig.secteco)" title="블룸버그 &quot;美 전기차 시장서 현대차가 테슬라보다 핫해&quot;">블룸버그 "美 전기차 시장서 현대차가 테슬라보다 핫해"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 피해 개인채무자, 원금상환 유예 재연장…9월 말까지 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013269399?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013269399?sid=101"/>
-        <updated>2022-06-26T03:37:09.995Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013269399?sid=101" class="nclicks(rig.secteco)" title="코로나 피해 개인채무자, 원금상환 유예 재연장…9월 말까지">코로나 피해 개인채무자, 원금상환 유예 재연장…9월 말까지</a>]]></content>
+        <title type="html"><![CDATA[‘빈 박스 마케팅’으로 가짜 후기 3700개 만든 ‘오아’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002596170?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002596170?sid=101"/>
+        <updated>2022-06-26T05:16:10.204Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002596170?sid=101" class="nclicks(rig.secteco)" title="‘빈 박스 마케팅’으로 가짜 후기 3700개 만든 ‘오아’">‘빈 박스 마케팅’으로 가짜 후기 3700개 만든 ‘오아’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘빈박스 댓글부대’ 동원해 구매 후기 조작한 전자기기 판매업체에 과징금 1억4000만 원 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003155541?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003155541?sid=101"/>
-        <updated>2022-06-26T04:28:10.301Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003155541?sid=101" class="nclicks(rig.secteco)" title="‘빈박스 댓글부대’ 동원해 구매 후기 조작한 전자기기 판매업체에 과징금 1억4000만 원">‘빈박스 댓글부대’ 동원해 구매 후기 조작한 전자기기 판매업체에 과징금 1억4000만 원</a>]]></content>
+        <title type="html"><![CDATA[추경호 "6∼8월 물가 6%대 가능성…전기요금 조만간 인상"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013269248?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013269248?sid=101"/>
+        <updated>2022-06-26T05:16:10.205Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013269248?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;6∼8월 물가 6%대 가능성…전기요금 조만간 인상&quot;(종합)">추경호 "6∼8월 물가 6%대 가능성…전기요금 조만간 인상"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[착한 지방세포로 살 뺀다…국내 연구진 첫 발견 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,39 +75,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004857615?sid=105" class="nclicks(rig.secteco)" title="네이버웹툰, DC와 ‘콜리전 컨퍼런스’서 차기 라인업 공개">네이버웹툰, DC와 ‘콜리전 컨퍼런스’서 차기 라인업 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘尹 특명’ 수도권大 반도체 학과 증원에 지방대 93% “반대” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001535605?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001535605?sid=102"/>
-        <updated>2022-06-26T03:37:10.008Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001535605?sid=102" class="nclicks(rig.secteco)" title="‘尹 특명’ 수도권大 반도체 학과 증원에 지방대 93% “반대”">‘尹 특명’ 수도권大 반도체 학과 증원에 지방대 93% “반대”</a>]]></content>
+        <title type="html"><![CDATA['초등생 일가족' 실종 미스터리…은색 아우디 번호판까지 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003205060?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003205060?sid=102"/>
+        <updated>2022-06-26T05:16:10.231Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003205060?sid=102" class="nclicks(rig.secteco)" title="'초등생 일가족' 실종 미스터리…은색 아우디 번호판까지 공개">'초등생 일가족' 실종 미스터리…은색 아우디 번호판까지 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘한달 살기’ 떠났다 사라진 초등생 일가족…경찰, 위치 추적 주력·완도서 나온 흔적 없어 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003708955?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003708955?sid=102"/>
-        <updated>2022-06-26T04:28:10.308Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708955?sid=102" class="nclicks(rig.secteco)" title="‘한달 살기’ 떠났다 사라진 초등생 일가족…경찰, 위치 추적 주력·완도서 나온 흔적 없어">‘한달 살기’ 떠났다 사라진 초등생 일가족…경찰, 위치 추적 주력·완도서 나온 흔적 없어</a>]]></content>
+        <title type="html"><![CDATA["수도권 대학 반도체 증원"…비수도권 총장들 93% '반대' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004716674?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004716674?sid=102"/>
+        <updated>2022-06-26T05:16:10.235Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004716674?sid=102" class="nclicks(rig.secteco)" title="&quot;수도권 대학 반도체 증원&quot;…비수도권 총장들 93% '반대'">"수도권 대학 반도체 증원"…비수도권 총장들 93% '반대'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규확진 6246명, 1주 전보다 180명 늘어…사망 6명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000291746?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000291746?sid=102"/>
-        <updated>2022-06-26T04:28:10.309Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000291746?sid=102" class="nclicks(rig.secteco)" title="신규확진 6246명, 1주 전보다 180명 늘어…사망 6명">신규확진 6246명, 1주 전보다 180명 늘어…사망 6명</a>]]></content>
+        <title type="html"><![CDATA[[단독] 서울대 인공지능 표절 논문 사건의 전말 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000981852?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000981852?sid=102"/>
+        <updated>2022-06-26T05:16:10.237Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000981852?sid=102" class="nclicks(rig.secteco)" title="[단독] 서울대 인공지능 표절 논문 사건의 전말">[단독] 서울대 인공지능 표절 논문 사건의 전말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무더위 속 요란한 소나기…내일부터 중부 '비' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000548269?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000548269?sid=103"/>
-        <updated>2022-06-26T04:28:10.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000548269?sid=103" class="nclicks(rig.secteco)" title="무더위 속 요란한 소나기…내일부터 중부 '비'">무더위 속 요란한 소나기…내일부터 중부 '비'</a>]]></content>
+        <title type="html"><![CDATA[휴일 무더운 날씨…낮부터 요란한 소나기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000548281?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000548281?sid=103"/>
+        <updated>2022-06-26T05:16:10.239Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000548281?sid=103" class="nclicks(rig.secteco)" title="휴일 무더운 날씨…낮부터 요란한 소나기">휴일 무더운 날씨…낮부터 요란한 소나기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프랭크 와일드혼 "BTS 뷔, '지킬 앤 하이드' 출연했으면" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005252275?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005252275?sid=103"/>
-        <updated>2022-06-26T04:28:10.311Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005252275?sid=103" class="nclicks(rig.secteco)" title="프랭크 와일드혼 &quot;BTS 뷔, '지킬 앤 하이드' 출연했으면&quot;">프랭크 와일드혼 "BTS 뷔, '지킬 앤 하이드' 출연했으면"</a>]]></content>
+        <title type="html"><![CDATA[서울, 25년만 가장 더운 6월 밤 보내…인천은 117년만 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000291768?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000291768?sid=103"/>
+        <updated>2022-06-26T05:16:10.240Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000291768?sid=103" class="nclicks(rig.secteco)" title="서울, 25년만 가장 더운 6월 밤 보내…인천은 117년만">서울, 25년만 가장 더운 6월 밤 보내…인천은 117년만</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
