@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-26T15:15:24.541Z</updated>
+    <updated>2022-06-26T16:20:19.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[尹, 오늘 출국...나토 회의서 '한미일 정상회담' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -12,6 +12,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001756406?sid=100" class="nclicks(rig.secteco)" title="尹, 오늘 출국...나토 회의서 '한미일 정상회담'">尹, 오늘 출국...나토 회의서 '한미일 정상회담'</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[국민의힘, '서해 피격 사건' 국정조사 요구키로…우상호 "정치공세" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003205223?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003205223?sid=100"/>
+        <updated>2022-06-26T16:19:51.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003205223?sid=100" class="nclicks(rig.secteco)" title="국민의힘, '서해 피격 사건' 국정조사 요구키로…우상호 &quot;정치공세&quot;">국민의힘, '서해 피격 사건' 국정조사 요구키로…우상호 "정치공세"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002007532?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/016/0002007532?sid=100"/>
@@ -19,39 +26,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002007532?sid=100" class="nclicks(rig.secteco)" title="[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식">[단독] 양향자, '국힘 제안' 반도체특위 위원장 수락…간사에 김영식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與, '서해 피격 사건' 국정조사 요구키로…우상호 "정치공세"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013270170?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013270170?sid=100"/>
-        <updated>2022-06-26T15:14:55.949Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013270170?sid=100" class="nclicks(rig.secteco)" title="與, '서해 피격 사건' 국정조사 요구키로…우상호 &quot;정치공세&quot;(종합)">與, '서해 피격 사건' 국정조사 요구키로…우상호 "정치공세"(종합)</a>]]></content>
+        <title type="html"><![CDATA[러시아, 'G7 개막일' 키이우 3주 만에 공격 재개…1명 사망·5명 부상(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011268449?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011268449?sid=104"/>
+        <updated>2022-06-26T16:19:51.742Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011268449?sid=104" class="nclicks(rig.secteco)" title="러시아, 'G7 개막일' 키이우 3주 만에 공격 재개…1명 사망·5명 부상(종합)">러시아, 'G7 개막일' 키이우 3주 만에 공격 재개…1명 사망·5명 부상(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 벨라루스 영공서 첫 미사일 공격…우크라 북서부 타격 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002596233?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002596233?sid=104"/>
-        <updated>2022-06-26T15:14:55.950Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002596233?sid=104" class="nclicks(rig.secteco)" title="러, 벨라루스 영공서 첫 미사일 공격…우크라 북서부 타격">러, 벨라루스 영공서 첫 미사일 공격…우크라 북서부 타격</a>]]></content>
+        <title type="html"><![CDATA[부산시, 원숭이두창 비상방역대책반 운영 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003709106?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003709106?sid=104"/>
+        <updated>2022-06-26T16:19:51.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003709106?sid=104" class="nclicks(rig.secteco)" title="부산시, 원숭이두창 비상방역대책반 운영">부산시, 원숭이두창 비상방역대책반 운영</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[G7 정상회의 개막…"G7, 다음주 러시아 금 수입금지 발표" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000682805?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000682805?sid=104"/>
-        <updated>2022-06-26T15:14:55.950Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000682805?sid=104" class="nclicks(rig.secteco)" title="G7 정상회의 개막…&quot;G7, 다음주 러시아 금 수입금지 발표&quot;">G7 정상회의 개막…"G7, 다음주 러시아 금 수입금지 발표"</a>]]></content>
+        <title type="html"><![CDATA["내달 가스·전기요금 동시인상"...'전기요금 인상안' 발표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001756355?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001756355?sid=101"/>
+        <updated>2022-06-26T16:19:51.745Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001756355?sid=101" class="nclicks(rig.secteco)" title="&quot;내달 가스·전기요금 동시인상&quot;...'전기요금 인상안' 발표">"내달 가스·전기요금 동시인상"...'전기요금 인상안' 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추경호 “6∼8월 물가 6%대 전망”… 27일 전기료 조정안 발표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003709072?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003709072?sid=101"/>
-        <updated>2022-06-26T13:23:29.417Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003709072?sid=101" class="nclicks(rig.secteco)" title="추경호 “6∼8월 물가 6%대 전망”… 27일 전기료 조정안 발표">추경호 “6∼8월 물가 6%대 전망”… 27일 전기료 조정안 발표</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추경호 “6~8월 물가 6% 상승 가능…고물가 상당 기간 진행” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003155623?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003155623?sid=101"/>
-        <updated>2022-06-26T13:23:29.417Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003155623?sid=101" class="nclicks(rig.secteco)" title="추경호 “6~8월 물가 6% 상승 가능…고물가 상당 기간 진행”">추경호 “6~8월 물가 6% 상승 가능…고물가 상당 기간 진행”</a>]]></content>
+        <title type="html"><![CDATA[추경호 "6~8월 6%대 물가 볼 수 있을 것…전기요금 인상 곧 발표"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011267812?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011267812?sid=101"/>
+        <updated>2022-06-26T16:19:51.746Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011267812?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;6~8월 6%대 물가 볼 수 있을 것…전기요금 인상 곧 발표&quot;(종합)">추경호 "6~8월 6%대 물가 볼 수 있을 것…전기요금 인상 곧 발표"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 한국증시 성적 '세계 꼴찌'…하락률 코스닥 1위·코스피 2위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001672780?sid=101" class="nclicks(rig.secteco)" title="6월 한국증시 성적 '세계 꼴찌'…하락률 코스닥 1위·코스피 2위">6월 한국증시 성적 '세계 꼴찌'…하락률 코스닥 1위·코스피 2위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안녕하지 못한 개인정보… 4년 새 침해 신고·상담 2배 이상 급증 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003708944?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003708944?sid=105"/>
-        <updated>2022-06-26T15:14:55.955Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003708944?sid=105" class="nclicks(rig.secteco)" title="안녕하지 못한 개인정보… 4년 새 침해 신고·상담 2배 이상 급증">안녕하지 못한 개인정보… 4년 새 침해 신고·상담 2배 이상 급증</a>]]></content>
+        <title type="html"><![CDATA[작년 개인정보 침해 신고·상담 21만건…4년 만에 2배 증가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005108691?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005108691?sid=105"/>
+        <updated>2022-06-26T16:19:51.748Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005108691?sid=105" class="nclicks(rig.secteco)" title="작년 개인정보 침해 신고·상담 21만건…4년 만에 2배 증가">작년 개인정보 침해 신고·상담 21만건…4년 만에 2배 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LGU+ "2050년까지 사용전력 100% 재생에너지로 대체한다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011267747?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011267747?sid=105"/>
-        <updated>2022-06-26T15:14:55.957Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011267747?sid=105" class="nclicks(rig.secteco)" title="LGU+ &quot;2050년까지 사용전력 100% 재생에너지로 대체한다&quot;">LGU+ "2050년까지 사용전력 100% 재생에너지로 대체한다"</a>]]></content>
+        <title type="html"><![CDATA[LGU+ “2050년까지 탄소중립 달성 추진”… 재생에너지 100％ 사용 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003709104?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003709104?sid=105"/>
+        <updated>2022-06-26T16:19:51.749Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003709104?sid=105" class="nclicks(rig.secteco)" title="LGU+ “2050년까지 탄소중립 달성 추진”… 재생에너지 100％ 사용">LGU+ “2050년까지 탄소중립 달성 추진”… 재생에너지 100％ 사용</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘한달살기’ 가족 실종 미스터리 셋, ‘초등생딸 폰’ 왜 3시간 먼저 꺼졌나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002007651?sid=102" class="nclicks(rig.secteco)" title="‘한달살기’ 가족 실종 미스터리 셋, ‘초등생딸 폰’ 왜 3시간 먼저 꺼졌나">‘한달살기’ 가족 실종 미스터리 셋, ‘초등생딸 폰’ 왜 3시간 먼저 꺼졌나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민족사관고등학교 설립자 최명재 전 파스퇴르유업 회장 별세, 향년 95세[뉴시스Pic] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011268428?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011268428?sid=102"/>
-        <updated>2022-06-26T12:26:10.469Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011268428?sid=102" class="nclicks(rig.secteco)" title="민족사관고등학교 설립자 최명재 전 파스퇴르유업 회장 별세, 향년 95세[뉴시스Pic]">민족사관고등학교 설립자 최명재 전 파스퇴르유업 회장 별세, 향년 95세[뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[최명재 민사고 설립자 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000900825?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000900825?sid=102"/>
+        <updated>2022-06-26T16:19:51.751Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000900825?sid=102" class="nclicks(rig.secteco)" title="최명재 민사고 설립자 별세">최명재 민사고 설립자 별세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 서울대 연구팀, 세계 최고 학회에 '표절 논문'…지도교수는 몰랐나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000981856?sid=102" class="nclicks(rig.secteco)" title="[단독] 서울대 연구팀, 세계 최고 학회에 '표절 논문'…지도교수는 몰랐나">[단독] 서울대 연구팀, 세계 최고 학회에 '표절 논문'…지도교수는 몰랐나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 중부 다시 장맛비 모레까지 최대 150mm↑‥남부는 국지적 소나기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001205100?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001205100?sid=103"/>
-        <updated>2022-06-26T13:23:29.429Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001205100?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부 다시 장맛비 모레까지 최대 150mm↑‥남부는 국지적 소나기">[날씨] 중부 다시 장맛비 모레까지 최대 150mm↑‥남부는 국지적 소나기</a>]]></content>
+        <title type="html"><![CDATA[[뉴스9 날씨] 내일, 중부 장맛비!…최고 150mm 이상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011290827?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011290827?sid=103"/>
+        <updated>2022-06-26T16:19:51.753Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011290827?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일, 중부 장맛비!…최고 150mm 이상">[뉴스9 날씨] 내일, 중부 장맛비!…최고 150mm 이상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강릉 28.9도, 서울 24.8도... 6월 열대야, 25년만에 가장 덥다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003699899?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003699899?sid=103"/>
-        <updated>2022-06-26T15:14:55.961Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003699899?sid=103" class="nclicks(rig.secteco)" title="강릉 28.9도, 서울 24.8도... 6월 열대야, 25년만에 가장 덥다">강릉 28.9도, 서울 24.8도... 6월 열대야, 25년만에 가장 덥다</a>]]></content>
+        <title type="html"><![CDATA[“밉기도 했던 김지하, 그릇이 크니 소리도 컸겠지요” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003205176?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003205176?sid=103"/>
+        <updated>2022-06-26T16:19:51.753Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003205176?sid=103" class="nclicks(rig.secteco)" title="“밉기도 했던 김지하, 그릇이 크니 소리도 컸겠지요”">“밉기도 했던 김지하, 그릇이 크니 소리도 컸겠지요”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
