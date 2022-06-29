@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T07:15:40.428Z</updated>
+    <updated>2022-06-29T08:22:44.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[단독] 민주당 50대 기수 4명, 이인영 주재로 당대표 출마 '도원결의' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000683408?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000683408?sid=100"/>
+        <updated>2022-06-29T08:22:14.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000683408?sid=100" class="nclicks(rig.secteco)" title="[단독] 민주당 50대 기수 4명, 이인영 주재로 당대표 출마 '도원결의'">[단독] 민주당 50대 기수 4명, 이인영 주재로 당대표 출마 '도원결의'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당 "해경 번복에 안보실 관여" vs 대통령실 "관여한 바 없다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004764609?sid=100</id>
@@ -19,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013277407?sid=100" class="nclicks(rig.secteco)" title="제2연평해전 '승전' 20주년…&quot;여섯 용사 목소리 들리는 듯&quot;(종합)">제2연평해전 '승전' 20주년…"여섯 용사 목소리 들리는 듯"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] `97주자` 박용진, 당권 도전 굳혔다…30일 출마 관련 기자간담회 열기로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002741426?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002741426?sid=100"/>
-        <updated>2022-06-29T07:15:06.702Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002741426?sid=100" class="nclicks(rig.secteco)" title="[단독] `97주자` 박용진, 당권 도전 굳혔다…30일 출마 관련 기자간담회 열기로">[단독] `97주자` 박용진, 당권 도전 굳혔다…30일 출마 관련 기자간담회 열기로</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[핀란드·스웨덴, 나토가입 9부능선 넘었다…러 "핵무기" 위협 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003206062?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003206062?sid=104"/>
@@ -33,53 +33,53 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206062?sid=104" class="nclicks(rig.secteco)" title="핀란드·스웨덴, 나토가입 9부능선 넘었다…러 &quot;핵무기&quot; 위협">핀란드·스웨덴, 나토가입 9부능선 넘었다…러 "핵무기" 위협</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美상무 ″한국, 반도체·전기차 등 강자..협력 강화" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004859492?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004859492?sid=104"/>
-        <updated>2022-06-29T07:15:06.703Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004859492?sid=104" class="nclicks(rig.secteco)" title="美상무 ″한국, 반도체·전기차 등 강자..협력 강화&quot;">美상무 ″한국, 반도체·전기차 등 강자..협력 강화"</a>]]></content>
+        <title type="html"><![CDATA[美 써브웨이 손님 "마요네즈 너무 많다" 총격…20대 종업원 2명 사상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000764482?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000764482?sid=104"/>
+        <updated>2022-06-29T08:22:14.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000764482?sid=104" class="nclicks(rig.secteco)" title="美 써브웨이 손님 &quot;마요네즈 너무 많다&quot; 총격…20대 종업원 2명 사상">美 써브웨이 손님 "마요네즈 너무 많다" 총격…20대 종업원 2명 사상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK바사 '국산1호 코로나백신' 허가…"효과성 충분"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013277472?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013277472?sid=101"/>
-        <updated>2022-06-29T07:15:06.704Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013277472?sid=101" class="nclicks(rig.secteco)" title="SK바사 '국산1호 코로나백신' 허가…&quot;효과성 충분&quot;(종합)">SK바사 '국산1호 코로나백신' 허가…"효과성 충분"(종합)</a>]]></content>
+        <title type="html"><![CDATA[‘스카이코비원’ 국산 1호 코로나 백신 탄생…백신 주권 실현(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011275052?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011275052?sid=101"/>
+        <updated>2022-06-29T08:22:14.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011275052?sid=101" class="nclicks(rig.secteco)" title="‘스카이코비원’ 국산 1호 코로나 백신 탄생…백신 주권 실현(종합)">‘스카이코비원’ 국산 1호 코로나 백신 탄생…백신 주권 실현(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포] 김포-하네다로 日방문 아이돌 "첫 비행기 타서 기쁘다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013277187?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013277187?sid=101"/>
-        <updated>2022-06-29T06:20:04.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013277187?sid=101" class="nclicks(rig.secteco)" title="[르포] 김포-하네다로 日방문 아이돌 &quot;첫 비행기 타서 기쁘다&quot;">[르포] 김포-하네다로 日방문 아이돌 "첫 비행기 타서 기쁘다"</a>]]></content>
+        <title type="html"><![CDATA[(영상)2년여 만에 열린 한-일 하늘길..."김포발 국제선 확장해야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005255006?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005255006?sid=101"/>
+        <updated>2022-06-29T08:22:14.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005255006?sid=101" class="nclicks(rig.secteco)" title="(영상)2년여 만에 열린 한-일 하늘길...&quot;김포발 국제선 확장해야&quot;">(영상)2년여 만에 열린 한-일 하늘길..."김포발 국제선 확장해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이영 장관 "전기요금 올라 시름커진 중소기업 전용 요금제, 산업부와 협의할 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000683428?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000683428?sid=101"/>
-        <updated>2022-06-29T07:15:06.708Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000683428?sid=101" class="nclicks(rig.secteco)" title="이영 장관 &quot;전기요금 올라 시름커진 중소기업 전용 요금제, 산업부와 협의할 것&quot;">이영 장관 "전기요금 올라 시름커진 중소기업 전용 요금제, 산업부와 협의할 것"</a>]]></content>
+        <title type="html"><![CDATA[롯데홀딩스 주주총회서 신동빈 해임 안건 부결 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000824144?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000824144?sid=101"/>
+        <updated>2022-06-29T08:22:14.601Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000824144?sid=101" class="nclicks(rig.secteco)" title="롯데홀딩스 주주총회서 신동빈 해임 안건 부결">롯데홀딩스 주주총회서 신동빈 해임 안건 부결</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, `이음5G` 생태계 구축 나선다…서비스 발굴에 480억원 투입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002741429?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002741429?sid=105"/>
-        <updated>2022-06-29T07:15:06.708Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002741429?sid=105" class="nclicks(rig.secteco)" title="정부, `이음5G` 생태계 구축 나선다…서비스 발굴에 480억원 투입">정부, `이음5G` 생태계 구축 나선다…서비스 발굴에 480억원 투입</a>]]></content>
+        <title type="html"><![CDATA["GPS 오차, cm단위까지 줄인다"…KT, 초정밀 측위 사업 본격화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000157928?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000157928?sid=105"/>
+        <updated>2022-06-29T08:22:14.604Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000157928?sid=105" class="nclicks(rig.secteco)" title="&quot;GPS 오차, cm단위까지 줄인다&quot;…KT, 초정밀 측위 사업 본격화">"GPS 오차, cm단위까지 줄인다"…KT, 초정밀 측위 사업 본격화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백두산 폭발 감시한다…누리호서 우주로 나갈 60㎠ 큐브위성 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003206070?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003206070?sid=105"/>
-        <updated>2022-06-29T07:15:06.709Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206070?sid=105" class="nclicks(rig.secteco)" title="백두산 폭발 감시한다…누리호서 우주로 나갈 60㎠ 큐브위성">백두산 폭발 감시한다…누리호서 우주로 나갈 60㎠ 큐브위성</a>]]></content>
+        <title type="html"><![CDATA[큐브위성 오늘 오후 사출, 내일 새벽 첫 교신 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003658975?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003658975?sid=105"/>
+        <updated>2022-06-29T08:22:14.605Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003658975?sid=105" class="nclicks(rig.secteco)" title="큐브위성 오늘 오후 사출, 내일 새벽 첫 교신">큐브위성 오늘 오후 사출, 내일 새벽 첫 교신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년 최저임금 2차 수정안…노동계 1만90원 vs 경영계 9천310원 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013277473?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013277473?sid=102"/>
-        <updated>2022-06-29T07:15:06.714Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013277473?sid=102" class="nclicks(rig.secteco)" title="내년 최저임금 2차 수정안…노동계 1만90원 vs 경영계 9천310원">내년 최저임금 2차 수정안…노동계 1만90원 vs 경영계 9천310원</a>]]></content>
+        <title type="html"><![CDATA[노·사, 최저임금 3차 수정안 제출…1만80원 vs 9330원 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003156419?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003156419?sid=102"/>
+        <updated>2022-06-29T08:22:14.606Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003156419?sid=102" class="nclicks(rig.secteco)" title="노·사, 최저임금 3차 수정안 제출…1만80원 vs 9330원">노·사, 최저임금 3차 수정안 제출…1만80원 vs 9330원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["살아있길 바랐는데" 조유나양 가족, 결국 주검으로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,25 +89,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013277555?sid=102" class="nclicks(rig.secteco)" title="&quot;살아있길 바랐는데&quot; 조유나양 가족, 결국 주검으로">"살아있길 바랐는데" 조유나양 가족, 결국 주검으로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['부캐' 직장인 등 112만명 건보료 오른다는데...나도?[Q&A] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004764650?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004764650?sid=102"/>
-        <updated>2022-06-29T07:15:06.720Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004764650?sid=102" class="nclicks(rig.secteco)" title="'부캐' 직장인 등 112만명 건보료 오른다는데...나도?[Q&amp;A]">'부캐' 직장인 등 112만명 건보료 오른다는데...나도?[Q&amp;A]</a>]]></content>
+        <title type="html"><![CDATA[건강보험 부과체계 9월부터 바뀐다는데…내 건강보험료는? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003156434?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003156434?sid=102"/>
+        <updated>2022-06-29T08:22:14.609Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003156434?sid=102" class="nclicks(rig.secteco)" title="건강보험 부과체계 9월부터 바뀐다는데…내 건강보험료는?">건강보험 부과체계 9월부터 바뀐다는데…내 건강보험료는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제네시스, 美 품질 조사서 렉서스 넘고 '프리미엄 자동차' 1위 되찾아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000683410?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000683410?sid=103"/>
-        <updated>2022-06-29T07:15:06.723Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000683410?sid=103" class="nclicks(rig.secteco)" title="제네시스, 美 품질 조사서 렉서스 넘고 '프리미엄 자동차' 1위 되찾아">제네시스, 美 품질 조사서 렉서스 넘고 '프리미엄 자동차' 1위 되찾아</a>]]></content>
+        <title type="html"><![CDATA[조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011275526?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011275526?sid=103"/>
+        <updated>2022-06-29T08:22:14.610Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011275526?sid=103" class="nclicks(rig.secteco)" title="조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까?">조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤츠, ‘더 뉴 EQB AMG’ 출시…1회 충전에 313㎞ 주행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004070613?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004070613?sid=103"/>
-        <updated>2022-06-29T07:15:06.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004070613?sid=103" class="nclicks(rig.secteco)" title="벤츠, ‘더 뉴 EQB AMG’ 출시…1회 충전에 313㎞ 주행">벤츠, ‘더 뉴 EQB AMG’ 출시…1회 충전에 313㎞ 주행</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 중부 중심 강한 비...밤부터 시간당 50mm 호우 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000548795?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000548795?sid=103"/>
+        <updated>2022-06-29T08:22:14.611Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000548795?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부 중심 강한 비...밤부터 시간당 50mm 호우">[날씨] 중부 중심 강한 비...밤부터 시간당 50mm 호우</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
