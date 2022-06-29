@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T03:47:26.668Z</updated>
+    <updated>2022-06-29T04:45:59.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[민주당 "해경 '월북 번복' 회견, 윤 대통령실 깊게 관여" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002358164?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002358164?sid=100"/>
+        <updated>2022-06-29T04:45:30.304Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002358164?sid=100" class="nclicks(rig.secteco)" title="민주당 &quot;해경 '월북 번복' 회견, 윤 대통령실 깊게 관여&quot;">민주당 "해경 '월북 번복' 회견, 윤 대통령실 깊게 관여"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제2연평해전 20년만에 ‘승전’ 공식화…기념식 거행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000824058?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000824058?sid=100"/>
+        <updated>2022-06-29T04:45:30.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000824058?sid=100" class="nclicks(rig.secteco)" title="제2연평해전 20년만에 ‘승전’ 공식화…기념식 거행">제2연평해전 20년만에 ‘승전’ 공식화…기념식 거행</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 총리 만난 윤 대통령 "선거 끝난 뒤 현안을..." (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002358156?sid=100</id>
@@ -12,25 +26,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002358156?sid=100" class="nclicks(rig.secteco)" title="일본 총리 만난 윤 대통령 &quot;선거 끝난 뒤 현안을...&quot;">일본 총리 만난 윤 대통령 "선거 끝난 뒤 현안을..."</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["영원히 기억하겠습니다"…제2연평해전 '승전' 기념식 거행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013276569?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013276569?sid=100"/>
-        <updated>2022-06-29T03:46:57.153Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013276569?sid=100" class="nclicks(rig.secteco)" title="&quot;영원히 기억하겠습니다&quot;…제2연평해전 '승전' 기념식 거행">"영원히 기억하겠습니다"…제2연평해전 '승전' 기념식 거행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 "해경, 입장번복 과정서 안보실과 토의…3주간 회견문 작성" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013276689?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013276689?sid=100"/>
-        <updated>2022-06-29T03:46:57.154Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013276689?sid=100" class="nclicks(rig.secteco)" title="野 &quot;해경, 입장번복 과정서 안보실과 토의…3주간 회견문 작성&quot;">野 "해경, 입장번복 과정서 안보실과 토의…3주간 회견문 작성"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓도 참석 '나토 정상회의' 오늘 개막…中 겨냥하고, 세력 키운다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004764543?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004764543?sid=104"/>
-        <updated>2022-06-29T03:46:57.155Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004764543?sid=104" class="nclicks(rig.secteco)" title="韓도 참석 '나토 정상회의' 오늘 개막…中 겨냥하고, 세력 키운다">韓도 참석 '나토 정상회의' 오늘 개막…中 겨냥하고, 세력 키운다</a>]]></content>
+        <title type="html"><![CDATA[스웨덴·핀란드 나토 가입 '성큼'…러시아에 타격 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011274576?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011274576?sid=104"/>
+        <updated>2022-06-29T04:45:30.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011274576?sid=104" class="nclicks(rig.secteco)" title="스웨덴·핀란드 나토 가입 '성큼'…러시아에 타격">스웨덴·핀란드 나토 가입 '성큼'…러시아에 타격</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독일 검찰 압수 수색 소식에 현대차·기아 동반 급락 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,13 +47,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013276038?sid=101" class="nclicks(rig.secteco)" title="김포∼하네다 운항 재개 첫날 공항 북적…&quot;하늘길 열려 기뻐요&quot;">김포∼하네다 운항 재개 첫날 공항 북적…"하늘길 열려 기뻐요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG 구광모號 4년…“친환경 클린테크에 5년간 2조원 투자” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002519922?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002519922?sid=101"/>
-        <updated>2022-06-29T03:46:57.159Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002519922?sid=101" class="nclicks(rig.secteco)" title="LG 구광모號 4년…“친환경 클린테크에 5년간 2조원 투자”">LG 구광모號 4년…“친환경 클린테크에 5년간 2조원 투자”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[물가 정점은 멀고 소비심리는 '비관적'…경기침체 우려 커진다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013275966?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013275966?sid=101"/>
@@ -61,25 +54,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013275966?sid=101" class="nclicks(rig.secteco)" title="물가 정점은 멀고 소비심리는 '비관적'…경기침체 우려 커진다">물가 정점은 멀고 소비심리는 '비관적'…경기침체 우려 커진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPS오차, cm단위까지 줄인다…KT, 초정밀 측위 사업 본격화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002009068?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002009068?sid=105"/>
-        <updated>2022-06-29T03:46:57.161Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002009068?sid=105" class="nclicks(rig.secteco)" title="GPS오차, cm단위까지 줄인다…KT, 초정밀 측위 사업 본격화">GPS오차, cm단위까지 줄인다…KT, 초정밀 측위 사업 본격화</a>]]></content>
+        <title type="html"><![CDATA[[단독] 신한·국민, 주담대 총가산금리 올렸다…서민 부담 가중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004718074?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004718074?sid=101"/>
+        <updated>2022-06-29T04:45:30.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004718074?sid=101" class="nclicks(rig.secteco)" title="[단독] 신한·국민, 주담대 총가산금리 올렸다…서민 부담 가중">[단독] 신한·국민, 주담대 총가산금리 올렸다…서민 부담 가중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아로와나는 누구 것인가?… 김상철 한컴 회장의 수상한 행적 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000827138?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000827138?sid=105"/>
-        <updated>2022-06-29T03:46:57.163Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000827138?sid=105" class="nclicks(rig.secteco)" title="아로와나는 누구 것인가?… 김상철 한컴 회장의 수상한 행적">아로와나는 누구 것인가?… 김상철 한컴 회장의 수상한 행적</a>]]></content>
+        <title type="html"><![CDATA[KT "답답한 GPS 오차는 그만"…'cm급' 측위기술 온다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000039606?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000039606?sid=105"/>
+        <updated>2022-06-29T04:45:30.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039606?sid=105" class="nclicks(rig.secteco)" title="KT &quot;답답한 GPS 오차는 그만&quot;…'cm급' 측위기술 온다">KT "답답한 GPS 오차는 그만"…'cm급' 측위기술 온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 유나네車 아우디 건졌다…앞유리 깨진 채 한 달 만에 모습 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003206026?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003206026?sid=102"/>
-        <updated>2022-06-29T03:46:57.164Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206026?sid=102" class="nclicks(rig.secteco)" title="[속보] 유나네車 아우디 건졌다…앞유리 깨진 채 한 달 만에 모습">[속보] 유나네車 아우디 건졌다…앞유리 깨진 채 한 달 만에 모습</a>]]></content>
+        <title type="html"><![CDATA[누리호 '꼬마위성' 오늘부터 이틀 간격으로 쏘아 보낸다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005254620?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005254620?sid=105"/>
+        <updated>2022-06-29T04:45:30.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005254620?sid=105" class="nclicks(rig.secteco)" title="누리호 '꼬마위성' 오늘부터 이틀 간격으로 쏘아 보낸다">누리호 '꼬마위성' 오늘부터 이틀 간격으로 쏘아 보낸다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 바다서 건진 아우디에 3명 있었다…"유나양 일가족 추정" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003206029?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003206029?sid=102"/>
+        <updated>2022-06-29T04:45:30.320Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206029?sid=102" class="nclicks(rig.secteco)" title="[속보] 바다서 건진 아우디에 3명 있었다…&quot;유나양 일가족 추정&quot;">[속보] 바다서 건진 아우디에 3명 있었다…"유나양 일가족 추정"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[561만 지역가입자 건보료 줄고…소득많은 27만명 피부양자 탈락(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,25 +89,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006186031?sid=102" class="nclicks(rig.secteco)" title="561만 지역가입자 건보료 줄고…소득많은 27만명 피부양자 탈락(종합)">561만 지역가입자 건보료 줄고…소득많은 27만명 피부양자 탈락(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하루 확진자 수 20일 만에 1만명 넘어…"유행 증가세로 전환" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013275725?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013275725?sid=102"/>
-        <updated>2022-06-29T03:46:57.171Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013275725?sid=102" class="nclicks(rig.secteco)" title="하루 확진자 수 20일 만에 1만명 넘어…&quot;유행 증가세로 전환&quot;">하루 확진자 수 20일 만에 1만명 넘어…"유행 증가세로 전환"</a>]]></content>
+        <title type="html"><![CDATA[20년 악연 끝날까…마무리 접어든 정부-론스타 분쟁 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013276724?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013276724?sid=102"/>
+        <updated>2022-06-29T04:45:30.322Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013276724?sid=102" class="nclicks(rig.secteco)" title="20년 악연 끝날까…마무리 접어든 정부-론스타 분쟁">20년 악연 끝날까…마무리 접어든 정부-론스타 분쟁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유선형 전기 세단으로 대변신... 현대차 ‘아이오닉6′ 첫 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003700540?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003700540?sid=103"/>
-        <updated>2022-06-29T03:46:57.172Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003700540?sid=103" class="nclicks(rig.secteco)" title="유선형 전기 세단으로 대변신... 현대차 ‘아이오닉6′ 첫 공개">유선형 전기 세단으로 대변신... 현대차 ‘아이오닉6′ 첫 공개</a>]]></content>
+        <title type="html"><![CDATA["제네시스 최고"… 美 제이디파워 신차품질조사 프리미엄 브랜드 1위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000827338?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000827338?sid=103"/>
+        <updated>2022-06-29T04:45:30.323Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000827338?sid=103" class="nclicks(rig.secteco)" title="&quot;제네시스 최고&quot;… 美 제이디파워 신차품질조사 프리미엄 브랜드 1위">"제네시스 최고"… 美 제이디파워 신차품질조사 프리미엄 브랜드 1위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제네시스, 렉서스 다시 제쳤다…美 프리미엄 車 브랜드 품질 1위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004764384?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004764384?sid=103"/>
-        <updated>2022-06-29T03:46:57.173Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004764384?sid=103" class="nclicks(rig.secteco)" title="제네시스, 렉서스 다시 제쳤다…美 프리미엄 車 브랜드 품질 1위">제네시스, 렉서스 다시 제쳤다…美 프리미엄 車 브랜드 품질 1위</a>]]></content>
+        <title type="html"><![CDATA["풍성한 볼륨과 곡선미"...'아이오닉6' 부산모터쇼 첫 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000013396?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000013396?sid=103"/>
+        <updated>2022-06-29T04:45:30.328Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000013396?sid=103" class="nclicks(rig.secteco)" title="&quot;풍성한 볼륨과 곡선미&quot;...'아이오닉6' 부산모터쇼 첫 공개">"풍성한 볼륨과 곡선미"...'아이오닉6' 부산모터쇼 첫 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
