@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T12:31:47.327Z</updated>
+    <updated>2022-06-29T13:36:50.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[속보] 尹 “北, 국제정세 위협... 韓美日 협력, 세계평화 안정 중심축” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003700624?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003700624?sid=100"/>
+        <updated>2022-06-29T13:36:21.713Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003700624?sid=100" class="nclicks(rig.secteco)" title="[속보] 尹 “北, 국제정세 위협... 韓美日 협력, 세계평화 안정 중심축”">[속보] 尹 “北, 국제정세 위협... 韓美日 협력, 세계평화 안정 중심축”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시끌시끌 '머뭇거린 김건희 여사' 영상, 그 이후 상황은? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002358232?sid=100</id>
@@ -12,39 +19,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002358232?sid=100" class="nclicks(rig.secteco)" title="시끌시끌 '머뭇거린 김건희 여사' 영상, 그 이후 상황은?">시끌시끌 '머뭇거린 김건희 여사' 영상, 그 이후 상황은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선관위 '렌터카 매입' 김승희 "정자법 위반"…대검 수사의뢰 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003659052?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003659052?sid=100"/>
-        <updated>2022-06-29T12:31:19.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003659052?sid=100" class="nclicks(rig.secteco)" title="선관위 '렌터카 매입' 김승희 &quot;정자법 위반&quot;…대검 수사의뢰">선관위 '렌터카 매입' 김승희 "정자법 위반"…대검 수사의뢰</a>]]></content>
+        <title type="html"><![CDATA[정호영 이어 김승희도 날아가나… 선관위 “대검에 수사 의뢰” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003710257?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003710257?sid=100"/>
+        <updated>2022-06-29T13:36:21.714Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710257?sid=100" class="nclicks(rig.secteco)" title="정호영 이어 김승희도 날아가나… 선관위 “대검에 수사 의뢰”">정호영 이어 김승희도 날아가나… 선관위 “대검에 수사 의뢰”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미일 정상회담‥"북핵 도발에 강력 대응" 한일 정상 첫 대화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001205850?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001205850?sid=100"/>
-        <updated>2022-06-29T12:31:19.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001205850?sid=100" class="nclicks(rig.secteco)" title="한미일 정상회담‥&quot;북핵 도발에 강력 대응&quot; 한일 정상 첫 대화">한미일 정상회담‥"북핵 도발에 강력 대응" 한일 정상 첫 대화</a>]]></content>
+        <title type="html"><![CDATA[나토, 핀란드·스웨덴 가입 절차 개시…"회원국 모두 찬성" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013278395?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013278395?sid=104"/>
+        <updated>2022-06-29T13:36:21.716Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013278395?sid=104" class="nclicks(rig.secteco)" title="나토, 핀란드·스웨덴 가입 절차 개시…&quot;회원국 모두 찬성&quot;">나토, 핀란드·스웨덴 가입 절차 개시…"회원국 모두 찬성"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[튀르키예 막판 ‘찬성’ 선회…핀란드·스웨덴, 나토 일원으로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003156468?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003156468?sid=104"/>
-        <updated>2022-06-29T12:31:19.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003156468?sid=104" class="nclicks(rig.secteco)" title="튀르키예 막판 ‘찬성’ 선회…핀란드·스웨덴, 나토 일원으로">튀르키예 막판 ‘찬성’ 선회…핀란드·스웨덴, 나토 일원으로</a>]]></content>
+        <title type="html"><![CDATA[美 바이든 "나토 주둔 군사력 증강…러시아에 대응태세 강화" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005255189?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005255189?sid=104"/>
+        <updated>2022-06-29T13:36:21.717Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005255189?sid=104" class="nclicks(rig.secteco)" title="美 바이든 &quot;나토 주둔 군사력 증강…러시아에 대응태세 강화&quot;">美 바이든 "나토 주둔 군사력 증강…러시아에 대응태세 강화"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[獨 검찰, ‘배기가스 조작 혐의’ 현대차·기아 압수수색 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003710220?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003710220?sid=104"/>
-        <updated>2022-06-29T12:31:19.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710220?sid=104" class="nclicks(rig.secteco)" title="獨 검찰, ‘배기가스 조작 혐의’ 현대차·기아 압수수색">獨 검찰, ‘배기가스 조작 혐의’ 현대차·기아 압수수색</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국산 1호 코로나 백신 허가…부스터샷은 `미정` (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001040016?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001040016?sid=101"/>
-        <updated>2022-06-29T12:31:19.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001040016?sid=101" class="nclicks(rig.secteco)" title="국산 1호 코로나 백신 허가…부스터샷은 `미정`">국산 1호 코로나 백신 허가…부스터샷은 `미정`</a>]]></content>
+        <title type="html"><![CDATA[‘국산 1호’ 코로나 백신 탄생…식약처, SK바이오 백신 최종 허가 결정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003206039?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003206039?sid=101"/>
+        <updated>2022-06-29T13:36:21.718Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206039?sid=101" class="nclicks(rig.secteco)" title="‘국산 1호’ 코로나 백신 탄생…식약처, SK바이오 백신 최종 허가 결정">‘국산 1호’ 코로나 백신 탄생…식약처, SK바이오 백신 최종 허가 결정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“공항 이동 시간 짧아… 편하게 서울 왔어요” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,39 +54,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710248?sid=101" class="nclicks(rig.secteco)" title="“공항 이동 시간 짧아… 편하게 서울 왔어요”">“공항 이동 시간 짧아… 편하게 서울 왔어요”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신동빈 '뉴 롯데' 속도낸다…무위에 그친 신동주 '롯데 흔들기'(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006187357?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006187357?sid=101"/>
-        <updated>2022-06-29T12:31:19.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006187357?sid=101" class="nclicks(rig.secteco)" title="신동빈 '뉴 롯데' 속도낸다…무위에 그친 신동주 '롯데 흔들기'(종합)">신동빈 '뉴 롯데' 속도낸다…무위에 그친 신동주 '롯데 흔들기'(종합)</a>]]></content>
+        <title type="html"><![CDATA[[뉴스'까'페] 신동주의 '어깃장'…이거 '전략' 인가? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000292411?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000292411?sid=101"/>
+        <updated>2022-06-29T13:36:21.721Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000292411?sid=101" class="nclicks(rig.secteco)" title="[뉴스'까'페] 신동주의 '어깃장'…이거 '전략' 인가?">[뉴스'까'페] 신동주의 '어깃장'…이거 '전략' 인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누리호 '꼬마 위성' 사출…"백두산 천지, 미세먼지 등 모니터" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000303836?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000303836?sid=105"/>
-        <updated>2022-06-29T12:31:19.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000303836?sid=105" class="nclicks(rig.secteco)" title="누리호 '꼬마 위성' 사출…&quot;백두산 천지, 미세먼지 등 모니터&quot;">누리호 '꼬마 위성' 사출…"백두산 천지, 미세먼지 등 모니터"</a>]]></content>
+        <title type="html"><![CDATA[누리호 실린 초소형 위성 사출 시작…내일 새벽 첫 교신 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011293136?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011293136?sid=105"/>
+        <updated>2022-06-29T13:36:21.722Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011293136?sid=105" class="nclicks(rig.secteco)" title="누리호 실린 초소형 위성 사출 시작…내일 새벽 첫 교신">누리호 실린 초소형 위성 사출 시작…내일 새벽 첫 교신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[업스테이지, ‘미주투자공사 지속가능성 주간 2022’ 참석 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005254666?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005254666?sid=105"/>
-        <updated>2022-06-29T12:31:19.783Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005254666?sid=105" class="nclicks(rig.secteco)" title="업스테이지, ‘미주투자공사 지속가능성 주간 2022’ 참석">업스테이지, ‘미주투자공사 지속가능성 주간 2022’ 참석</a>]]></content>
+        <title type="html"><![CDATA[KT, GPS ‘초정밀 측위’ 사업 나서 기존 m 단위 오차를 ㎝ 수준으로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003156533?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003156533?sid=105"/>
+        <updated>2022-06-29T13:36:21.724Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003156533?sid=105" class="nclicks(rig.secteco)" title="KT, GPS ‘초정밀 측위’ 사업 나서 기존 m 단위 오차를 ㎝ 수준으로">KT, GPS ‘초정밀 측위’ 사업 나서 기존 m 단위 오차를 ㎝ 수준으로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“내년 최저임금 9410~9860원” 공익위원들 제시···최소 2.73% 인상안 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003156444?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003156444?sid=102"/>
-        <updated>2022-06-29T12:31:19.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003156444?sid=102" class="nclicks(rig.secteco)" title="“내년 최저임금 9410~9860원” 공익위원들 제시···최소 2.73% 인상안">“내년 최저임금 9410~9860원” 공익위원들 제시···최소 2.73% 인상안</a>]]></content>
+        <title type="html"><![CDATA[[속보] 공익위원, 내년 최저임금안 9620원 제시…의결될 듯 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003283537?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003283537?sid=102"/>
+        <updated>2022-06-29T13:36:21.726Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003283537?sid=102" class="nclicks(rig.secteco)" title="[속보] 공익위원, 내년 최저임금안 9620원 제시…의결될 듯">[속보] 공익위원, 내년 최저임금안 9620원 제시…의결될 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바뀌는 건보료 부과 방식…'무임승차' 27만명도 내야 한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000303834?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000303834?sid=102"/>
-        <updated>2022-06-29T12:31:19.786Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000303834?sid=102" class="nclicks(rig.secteco)" title="바뀌는 건보료 부과 방식…'무임승차' 27만명도 내야 한다">바뀌는 건보료 부과 방식…'무임승차' 27만명도 내야 한다</a>]]></content>
+        <title type="html"><![CDATA[지역가입자 561만세대, 월 건보료 3만6000원 덜 낸다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000827411?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000827411?sid=102"/>
+        <updated>2022-06-29T13:36:21.727Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000827411?sid=102" class="nclicks(rig.secteco)" title="지역가입자 561만세대, 월 건보료 3만6000원 덜 낸다">지역가입자 561만세대, 월 건보료 3만6000원 덜 낸다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 인양된 차량 속 시신, 조유나양 어머니 지문 확인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003283531?sid=102" class="nclicks(rig.secteco)" title="[속보] 인양된 차량 속 시신, 조유나양 어머니 지문 확인">[속보] 인양된 차량 속 시신, 조유나양 어머니 지문 확인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수도권·강원영서 많은 비…밤부터 시간당 30~50㎜ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011275657?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011275657?sid=103"/>
-        <updated>2022-06-29T12:31:19.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011275657?sid=103" class="nclicks(rig.secteco)" title="수도권·강원영서 많은 비…밤부터 시간당 30~50㎜">수도권·강원영서 많은 비…밤부터 시간당 30~50㎜</a>]]></content>
+        <title type="html"><![CDATA[30일 수도권·강원에 250㎜ ‘물폭탄’… 돌풍·천둥 동반 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000824194?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000824194?sid=103"/>
+        <updated>2022-06-29T13:36:21.730Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000824194?sid=103" class="nclicks(rig.secteco)" title="30일 수도권·강원에 250㎜ ‘물폭탄’… 돌풍·천둥 동반">30일 수도권·강원에 250㎜ ‘물폭탄’… 돌풍·천둥 동반</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011275526?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011275526?sid=103"/>
-        <updated>2022-06-29T12:31:19.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011275526?sid=103" class="nclicks(rig.secteco)" title="조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까?">조선 왕실 용머리 기와 유물, 왜 태안 갯벌서 나왔을까?</a>]]></content>
+        <title type="html"><![CDATA[태안 갯벌서 나온 조선 '용머리 기와'…완전체 첫 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000548860?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000548860?sid=103"/>
+        <updated>2022-06-29T13:36:21.732Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000548860?sid=103" class="nclicks(rig.secteco)" title="태안 갯벌서 나온 조선 '용머리 기와'…완전체 첫 공개">태안 갯벌서 나온 조선 '용머리 기와'…완전체 첫 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
