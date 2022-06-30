@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-06-30T21:15:46.571Z</updated>
+    <updated>2022-06-30T22:16:05.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003283820?sid=100" class="nclicks(rig.secteco)" title="한국 야영객 7명 수장시켰던 北, 사전 통보 없이 황강댐 수문 개방">한국 야영객 7명 수장시켰던 北, 사전 통보 없이 황강댐 수문 개방</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, '中의 홍콩정책' 비판…"민주주의 해체·야당 말살"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013281780?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013281780?sid=104"/>
-        <updated>2022-06-30T21:15:15.667Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013281780?sid=104" class="nclicks(rig.secteco)" title="美, '中의 홍콩정책' 비판…&quot;민주주의 해체·야당 말살&quot;">美, '中의 홍콩정책' 비판…"민주주의 해체·야당 말살"</a>]]></content>
+        <title type="html"><![CDATA[美, 홍콩 반환 25주년 맞아 中 강력 비판…"홍콩인과 연대"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011278938?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011278938?sid=104"/>
+        <updated>2022-06-30T22:15:37.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011278938?sid=104" class="nclicks(rig.secteco)" title="美, 홍콩 반환 25주년 맞아 中 강력 비판…&quot;홍콩인과 연대&quot;(종합)">美, 홍콩 반환 25주년 맞아 中 강력 비판…"홍콩인과 연대"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴 “핀란드·스웨덴에 군 배치하면 맞대응”]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001536912?sid=104" class="nclicks(rig.secteco)" title="푸틴 “핀란드·스웨덴에 군 배치하면 맞대응”">푸틴 “핀란드·스웨덴에 군 배치하면 맞대응”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 정부, '부동산 규제' 대구·대전은 풀고 서울·수도권은 유지]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000683796?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000683796?sid=101"/>
-        <updated>2022-06-30T20:17:41.828Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000683796?sid=101" class="nclicks(rig.secteco)" title="윤 정부, '부동산 규제' 대구·대전은 풀고 서울·수도권은 유지">윤 정부, '부동산 규제' 대구·대전은 풀고 서울·수도권은 유지</a>]]></content>
+        <title type="html"><![CDATA['고삐 완전히 풀긴 이르다'…규제지역, 지방만 풀었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000008852?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000008852?sid=101"/>
+        <updated>2022-06-30T22:15:37.022Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000008852?sid=101" class="nclicks(rig.secteco)" title="'고삐 완전히 풀긴 이르다'…규제지역, 지방만 풀었다">'고삐 완전히 풀긴 이르다'…규제지역, 지방만 풀었다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 3나노 반도체 첫 양산… 파운드리 1위 TSMC 잡는다 [뉴스 투데이]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003710766?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003710766?sid=101"/>
+        <updated>2022-06-30T22:15:37.023Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710766?sid=101" class="nclicks(rig.secteco)" title="삼성전자 3나노 반도체 첫 양산… 파운드리 1위 TSMC 잡는다 [뉴스 투데이]">삼성전자 3나노 반도체 첫 양산… 파운드리 1위 TSMC 잡는다 [뉴스 투데이]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최저임금 5% 인상 후폭풍… 민노총 “2일 집회” 강경투쟁 예고 [뉴스 투데이]]]></title>
@@ -53,13 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003710750?sid=101"/>
         <updated>2022-06-30T21:15:15.670Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710750?sid=101" class="nclicks(rig.secteco)" title="최저임금 5% 인상 후폭풍… 민노총 “2일 집회” 강경투쟁 예고 [뉴스 투데이]">최저임금 5% 인상 후폭풍… 민노총 “2일 집회” 강경투쟁 예고 [뉴스 투데이]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기술, 기술, 기술" 삼성전자, 메모리 이어 파운드리 '초격차' 시동]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003659643?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003659643?sid=101"/>
-        <updated>2022-06-30T21:15:15.672Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003659643?sid=101" class="nclicks(rig.secteco)" title="&quot;기술, 기술, 기술&quot; 삼성전자, 메모리 이어 파운드리 '초격차' 시동">"기술, 기술, 기술" 삼성전자, 메모리 이어 파운드리 '초격차' 시동</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누리호 타고 꼬마위성 ‘우주로’…‘일부 교신’으로 시작한 학생들의 ‘꿈’?]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005256286?sid=105" class="nclicks(rig.secteco)" title="애플, 제3자 결제 허용…구글보다 낫지만 수수료 26%는 그대로">애플, 제3자 결제 허용…구글보다 낫지만 수수료 26%는 그대로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['성상납 의혹' 기업 대표 측 "이준석이 박근혜 만나게 해주겠다 말해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/310/0000097963?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/310/0000097963?sid=102"/>
-        <updated>2022-06-30T21:15:15.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000097963?sid=102" class="nclicks(rig.secteco)" title="'성상납 의혹' 기업 대표 측 &quot;이준석이 박근혜 만나게 해주겠다 말해&quot;">'성상납 의혹' 기업 대표 측 "이준석이 박근혜 만나게 해주겠다 말해"</a>]]></content>
+        <title type="html"><![CDATA[김성진측 "박근혜키즈 이준석, 사람 둘 소개…與윤리위에 수사 진술 제출할 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002741790?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002741790?sid=102"/>
+        <updated>2022-06-30T22:15:37.029Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002741790?sid=102" class="nclicks(rig.secteco)" title="김성진측 &quot;박근혜키즈 이준석, 사람 둘 소개…與윤리위에 수사 진술 제출할 것&quot;">김성진측 "박근혜키즈 이준석, 사람 둘 소개…與윤리위에 수사 진술 제출할 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헌재 결정 무시한 대법 판결, 취소할 수 있다? 법조계 논란 확산]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710764?sid=102" class="nclicks(rig.secteco)" title="경찰, GH본사 첫 압수수색… 이재명 비선 캠프 의혹 조준">경찰, GH본사 첫 압수수색… 이재명 비선 캠프 의혹 조준</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“우승했다고 실력 늘진 않아… 더 연습할 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003710770?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003710770?sid=103"/>
-        <updated>2022-06-30T21:15:15.685Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003710770?sid=103" class="nclicks(rig.secteco)" title="“우승했다고 실력 늘진 않아… 더 연습할 것”">“우승했다고 실력 늘진 않아… 더 연습할 것”</a>]]></content>
+        <title type="html"><![CDATA["달라진 건 없어"‥18살 임윤찬의 굳은 심지]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001206237?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001206237?sid=103"/>
+        <updated>2022-06-30T22:15:37.037Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001206237?sid=103" class="nclicks(rig.secteco)" title="&quot;달라진 건 없어&quot;‥18살 임윤찬의 굳은 심지">"달라진 건 없어"‥18살 임윤찬의 굳은 심지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중부 강타한 폭우, 다음주 남부로 확대]]></title>
