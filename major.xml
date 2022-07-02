@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-02T09:14:44.532Z</updated>
+    <updated>2022-07-02T10:16:59.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[권성동 "주말 사이 박홍근과 만나겠다"...'원 구성' 접점 찾나?]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001759055?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001759055?sid=100"/>
-        <updated>2022-07-02T09:14:17.297Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001759055?sid=100" class="nclicks(rig.secteco)" title="권성동 &quot;주말 사이 박홍근과 만나겠다&quot;...'원 구성' 접점 찾나?">권성동 "주말 사이 박홍근과 만나겠다"...'원 구성' 접점 찾나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['南 전단발 코로나' 꺼낸 北...남남 갈등 유발, 故 이대준씨 사건 되치기?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003206711?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003206711?sid=100"/>
-        <updated>2022-07-02T08:18:45.180Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206711?sid=100" class="nclicks(rig.secteco)" title="'南 전단발 코로나' 꺼낸 北...남남 갈등 유발, 故 이대준씨 사건 되치기?">'南 전단발 코로나' 꺼낸 北...남남 갈등 유발, 故 이대준씨 사건 되치기?</a>]]></content>
+        <title type="html"><![CDATA[귀국한 권성동 "박홍근과 주말 비공개 회동, 원구성 타결 모색"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004765999?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004765999?sid=100"/>
+        <updated>2022-07-02T10:16:32.103Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004765999?sid=100" class="nclicks(rig.secteco)" title="귀국한 권성동 &quot;박홍근과 주말 비공개 회동, 원구성 타결 모색&quot;">귀국한 권성동 "박홍근과 주말 비공개 회동, 원구성 타결 모색"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명이 영입한 박지현 "李 전대 불출마하라, 나오면 민생실종"]]></title>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206746?sid=100" class="nclicks(rig.secteco)" title="이재명이 영입한 박지현 &quot;李 전대 불출마하라, 나오면 민생실종&quot;">이재명이 영입한 박지현 "李 전대 불출마하라, 나오면 민생실종"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽서 원숭이두창 감염 2주새 3배로…WHO "긴급조처 필요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000549319?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000549319?sid=104"/>
-        <updated>2022-07-02T07:14:17.747Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000549319?sid=104" class="nclicks(rig.secteco)" title="유럽서 원숭이두창 감염 2주새 3배로…WHO &quot;긴급조처 필요&quot;">유럽서 원숭이두창 감염 2주새 3배로…WHO "긴급조처 필요"</a>]]></content>
+        <title type="html"><![CDATA[김건희 '우크라 지지 행보' 주목..尹대통령 행보에 힘실어]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004861085?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004861085?sid=100"/>
+        <updated>2022-07-02T10:16:32.106Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004861085?sid=100" class="nclicks(rig.secteco)" title="김건희 '우크라 지지 행보' 주목..尹대통령 행보에 힘실어">김건희 '우크라 지지 행보' 주목..尹대통령 행보에 힘실어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英 연구진 “원숭이두창 성기주변 병변 많고 열 덜 나…예전과 다른 증상”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002010576?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002010576?sid=104"/>
+        <updated>2022-07-02T10:16:32.107Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002010576?sid=104" class="nclicks(rig.secteco)" title="英 연구진 “원숭이두창 성기주변 병변 많고 열 덜 나…예전과 다른 증상”">英 연구진 “원숭이두창 성기주변 병변 많고 열 덜 나…예전과 다른 증상”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스브스레터 이브닝(7/1) : 홍콩 간 시진핑, '일국양제'는 죽었나?]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004985831?sid=101" class="nclicks(rig.secteco)" title="[단독] 믿었던 중국마저…28년 이어온 對中 무역흑자 멈췄다">[단독] 믿었던 중국마저…28년 이어온 對中 무역흑자 멈췄다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이게 카이스트 학생 기술력?…누리호에 실린 ‘꿈’ 지상국 도착]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000039647?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000039647?sid=105"/>
-        <updated>2022-07-02T06:18:15.181Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039647?sid=105" class="nclicks(rig.secteco)" title="이게 카이스트 학생 기술력?…누리호에 실린 ‘꿈’ 지상국 도착">이게 카이스트 학생 기술력?…누리호에 실린 ‘꿈’ 지상국 도착</a>]]></content>
+        <title type="html"><![CDATA['누리호 탑재' 카이스트 큐브위성 사출…첫 신호수신 성공]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000304156?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000304156?sid=105"/>
+        <updated>2022-07-02T10:16:32.113Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000304156?sid=105" class="nclicks(rig.secteco)" title="'누리호 탑재' 카이스트 큐브위성 사출…첫 신호수신 성공">'누리호 탑재' 카이스트 큐브위성 사출…첫 신호수신 성공</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 최초 달탐사선 ‘다누리호’ 8월 3일 쏜다]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/037/0000031113?sid=105" class="nclicks(rig.secteco)" title="한국 최초 달탐사선 ‘다누리호’ 8월 3일 쏜다">한국 최초 달탐사선 ‘다누리호’ 8월 3일 쏜다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["민생 파탄인데 나몰라라"…민주노총 5만명 '대규모 집회' 집결]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005257735?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005257735?sid=102"/>
-        <updated>2022-07-02T08:18:45.183Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005257735?sid=102" class="nclicks(rig.secteco)" title="&quot;민생 파탄인데 나몰라라&quot;…민주노총 5만명 '대규모 집회' 집결">"민생 파탄인데 나몰라라"…민주노총 5만명 '대규모 집회' 집결</a>]]></content>
+        <title type="html"><![CDATA["尹정부에 경고한다" 민주노총 6만명, 용산 대통령실 행진]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003206822?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003206822?sid=102"/>
+        <updated>2022-07-02T10:16:32.116Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206822?sid=102" class="nclicks(rig.secteco)" title="&quot;尹정부에 경고한다&quot; 민주노총 6만명, 용산 대통령실 행진">"尹정부에 경고한다" 민주노총 6만명, 용산 대통령실 행진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SRT 탈선에 아비규환…오늘 9시 KTX·SRT 정상화(종합)]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005257539?sid=102" class="nclicks(rig.secteco)" title="SRT 탈선에 아비규환…오늘 9시 KTX·SRT 정상화(종합)">SRT 탈선에 아비규환…오늘 9시 KTX·SRT 정상화(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 ‘찜통 더위’ 절정…폭염 경보 ‘경계’ 발령]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011294872?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011294872?sid=102"/>
-        <updated>2022-07-02T09:14:17.309Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011294872?sid=102" class="nclicks(rig.secteco)" title="전국 ‘찜통 더위’ 절정…폭염 경보 ‘경계’ 발령">전국 ‘찜통 더위’ 절정…폭염 경보 ‘경계’ 발령</a>]]></content>
+        <title type="html"><![CDATA[18일 빨랐던 폭염 경보…서울 · 수원 · 인천 올해 최고 더위]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000983368?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000983368?sid=102"/>
+        <updated>2022-07-02T10:16:32.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000983368?sid=102" class="nclicks(rig.secteco)" title="18일 빨랐던 폭염 경보…서울 · 수원 · 인천 올해 최고 더위">18일 빨랐던 폭염 경보…서울 · 수원 · 인천 올해 최고 더위</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 폭염 위기경보 경계 발령…4호 태풍 '에어리' 북상]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000549330?sid=103" class="nclicks(rig.secteco)" title="[날씨] 폭염 위기경보 경계 발령…4호 태풍 '에어리' 북상">[날씨] 폭염 위기경보 경계 발령…4호 태풍 '에어리' 북상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 무더위 기승, 강한 소나기...다음 주 초 태풍 '에어리' 북상]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001759036?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001759036?sid=103"/>
-        <updated>2022-07-02T08:18:45.187Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001759036?sid=103" class="nclicks(rig.secteco)" title="[날씨] 무더위 기승, 강한 소나기...다음 주 초 태풍 '에어리' 북상">[날씨] 무더위 기승, 강한 소나기...다음 주 초 태풍 '에어리' 북상</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 휴일 전국 무더위…내륙 소나기·남해안 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000549340?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000549340?sid=103"/>
+        <updated>2022-07-02T10:16:32.121Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000549340?sid=103" class="nclicks(rig.secteco)" title="[날씨] 휴일 전국 무더위…내륙 소나기·남해안 비">[날씨] 휴일 전국 무더위…내륙 소나기·남해안 비</a>]]></content>
     </entry>
 </feed>
