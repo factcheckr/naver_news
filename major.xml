@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-01T23:16:44.864Z</updated>
+    <updated>2022-07-02T01:20:37.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[박지현 “이재명 출마하면 여권 정치보복 방어하기 바쁠 것…민생 실종 우려”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003711064?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003711064?sid=100"/>
-        <updated>2022-07-01T22:15:07.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003711064?sid=100" class="nclicks(rig.secteco)" title="박지현 “이재명 출마하면 여권 정치보복 방어하기 바쁠 것…민생 실종 우려”">박지현 “이재명 출마하면 여권 정치보복 방어하기 바쁠 것…민생 실종 우려”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北, '코로나 진원지' 대북전단 경계령…"고도의 경각심 견지"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013284383?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013284383?sid=100"/>
-        <updated>2022-07-01T23:16:05.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013284383?sid=100" class="nclicks(rig.secteco)" title="北, '코로나 진원지' 대북전단 경계령…&quot;고도의 경각심 견지&quot;">北, '코로나 진원지' 대북전단 경계령…"고도의 경각심 견지"</a>]]></content>
+        <title type="html"><![CDATA[박지현 "당 대표 출마 고심 중..이재명 출마 안 돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/660/0000011524?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/660/0000011524?sid=100"/>
+        <updated>2022-07-02T01:20:09.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000011524?sid=100" class="nclicks(rig.secteco)" title="박지현 &quot;당 대표 출마 고심 중..이재명 출마 안 돼&quot;">박지현 "당 대표 출마 고심 중..이재명 출마 안 돼"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "한·일, 과거사-미래 한 테이블에 올려 놓고 풀어야" [일문일답]]]></title>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004719302?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;한·일, 과거사-미래 한 테이블에 올려 놓고 풀어야&quot; [일문일답]">윤 대통령 "한·일, 과거사-미래 한 테이블에 올려 놓고 풀어야" [일문일답]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[북한, ‘코로나 진원지’ 대북전단 경계령…“고도의 경각심 견지”]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011294840?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011294840?sid=100"/>
+        <updated>2022-07-02T01:20:09.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011294840?sid=100" class="nclicks(rig.secteco)" title="북한, ‘코로나 진원지’ 대북전단 경계령…“고도의 경각심 견지”">북한, ‘코로나 진원지’ 대북전단 경계령…“고도의 경각심 견지”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스브스레터 이브닝(7/1) : 홍콩 간 시진핑, '일국양제'는 죽었나?]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0000983221?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/055/0000983221?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000983221?sid=104" class="nclicks(rig.secteco)" title="스브스레터 이브닝(7/1) : 홍콩 간 시진핑, '일국양제'는 죽었나?">스브스레터 이브닝(7/1) : 홍콩 간 시진핑, '일국양제'는 죽었나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“원숭이두창 감염자 99%는 21~40세 사이의 남성”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003284126?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003284126?sid=104"/>
-        <updated>2022-07-01T23:16:05.924Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003284126?sid=104" class="nclicks(rig.secteco)" title="“원숭이두창 감염자 99%는 21~40세 사이의 남성”">“원숭이두창 감염자 99%는 21~40세 사이의 남성”</a>]]></content>
+        <title type="html"><![CDATA[WHO "원숭이두창 2주새 3배↑" ... 팬데믹 선언은 안 해 '늑장대응'?]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005257593?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005257593?sid=104"/>
+        <updated>2022-07-02T01:20:09.413Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005257593?sid=104" class="nclicks(rig.secteco)" title="WHO &quot;원숭이두창 2주새 3배↑&quot; ... 팬데믹 선언은 안 해 '늑장대응'?">WHO "원숭이두창 2주새 3배↑" ... 팬데믹 선언은 안 해 '늑장대응'?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 믿었던 중국마저…28년 이어온 對中 무역흑자 멈췄다]]></title>
@@ -48,39 +48,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004985831?sid=101" class="nclicks(rig.secteco)" title="[단독] 믿었던 중국마저…28년 이어온 對中 무역흑자 멈췄다">[단독] 믿었던 중국마저…28년 이어온 對中 무역흑자 멈췄다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차 노조, 파업 찬반투표 가결…71.80% 찬성]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005111844?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005111844?sid=101"/>
-        <updated>2022-07-01T23:16:05.926Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005111844?sid=101" class="nclicks(rig.secteco)" title="현대차 노조, 파업 찬반투표 가결…71.80% 찬성">현대차 노조, 파업 찬반투표 가결…71.80% 찬성</a>]]></content>
+        <title type="html"><![CDATA[현대차 노조, 71.8% 쟁의행위 찬성…4년 만에 파업 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000292822?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000292822?sid=101"/>
+        <updated>2022-07-02T01:20:09.415Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000292822?sid=101" class="nclicks(rig.secteco)" title="현대차 노조, 71.8% 쟁의행위 찬성…4년 만에 파업 가능성">현대차 노조, 71.8% 쟁의행위 찬성…4년 만에 파업 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유류세 추가 인하에 일단 꺾인 기름값…휘발유 16원·경유 10원 내려]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006192872?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006192872?sid=101"/>
-        <updated>2022-07-01T22:15:07.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006192872?sid=101" class="nclicks(rig.secteco)" title="유류세 추가 인하에 일단 꺾인 기름값…휘발유 16원·경유 10원 내려">유류세 추가 인하에 일단 꺾인 기름값…휘발유 16원·경유 10원 내려</a>]]></content>
+        <title type="html"><![CDATA[유류세 '최대' 인하에 두 달 만에 주유소 기름값 내려]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001759006?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001759006?sid=101"/>
+        <updated>2022-07-02T01:20:09.416Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001759006?sid=101" class="nclicks(rig.secteco)" title="유류세 '최대' 인하에 두 달 만에 주유소 기름값 내려">유류세 '최대' 인하에 두 달 만에 주유소 기름값 내려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, K-게임 제대로 키운다… "중국 판호 발급 확대"]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000828425?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000828425?sid=105"/>
-        <updated>2022-07-01T21:14:20.095Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000828425?sid=105" class="nclicks(rig.secteco)" title="정부, K-게임 제대로 키운다… &quot;중국 판호 발급 확대&quot;">정부, K-게임 제대로 키운다… "중국 판호 발급 확대"</a>]]></content>
+        <title type="html"><![CDATA[게임업계 만난 박보균 장관 "규제 혁신"…업계 "P2E 허용해달라"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006192595?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006192595?sid=105"/>
+        <updated>2022-07-02T01:20:09.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006192595?sid=105" class="nclicks(rig.secteco)" title="게임업계 만난 박보균 장관 &quot;규제 혁신&quot;…업계 &quot;P2E 허용해달라&quot;(종합)">게임업계 만난 박보균 장관 "규제 혁신"…업계 "P2E 허용해달라"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 넷플릭스 CEO, 한국 깜짝 방문…SKT 미팅 안하고 출국]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005256752?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005256752?sid=105"/>
-        <updated>2022-07-01T23:16:05.932Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005256752?sid=105" class="nclicks(rig.secteco)" title="[단독] 넷플릭스 CEO, 한국 깜짝 방문…SKT 미팅 안하고 출국">[단독] 넷플릭스 CEO, 한국 깜짝 방문…SKT 미팅 안하고 출국</a>]]></content>
+        <title type="html"><![CDATA[KAIST '꼬마위성' 사출 성공..양방향 교신은 아직]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005257594?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005257594?sid=105"/>
+        <updated>2022-07-02T01:20:09.419Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005257594?sid=105" class="nclicks(rig.secteco)" title="KAIST '꼬마위성' 사출 성공..양방향 교신은 아직">KAIST '꼬마위성' 사출 성공..양방향 교신은 아직</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탈선사고 SRT 복구 완료…경부고속선 열차 운행 재개]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013284387?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013284387?sid=102"/>
-        <updated>2022-07-01T23:16:05.933Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013284387?sid=102" class="nclicks(rig.secteco)" title="탈선사고 SRT 복구 완료…경부고속선 열차 운행 재개">탈선사고 SRT 복구 완료…경부고속선 열차 운행 재개</a>]]></content>
+        <title type="html"><![CDATA[경부선 SRT 탈선사고 복구 마무리…정상운행]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011294833?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011294833?sid=102"/>
+        <updated>2022-07-02T01:20:09.433Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011294833?sid=102" class="nclicks(rig.secteco)" title="경부선 SRT 탈선사고 복구 마무리…정상운행">경부선 SRT 탈선사고 복구 마무리…정상운행</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 도심서 민주노총 대규모집회…교통 혼잡 우려]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003437765?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003437765?sid=102"/>
+        <updated>2022-07-02T01:20:09.441Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003437765?sid=102" class="nclicks(rig.secteco)" title="서울 도심서 민주노총 대규모집회…교통 혼잡 우려">서울 도심서 민주노총 대규모집회…교통 혼잡 우려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[양파 썰다 도망쳤다…대낮 서울 한복판 빌딩 '흔들' 무슨 일]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003206744?sid=102" class="nclicks(rig.secteco)" title="양파 썰다 도망쳤다…대낮 서울 한복판 빌딩 '흔들' 무슨 일">양파 썰다 도망쳤다…대낮 서울 한복판 빌딩 '흔들' 무슨 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일선 경찰관 의견 듣겠다던 이상민 “이해 부족”…일선에선 “압박인가” 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003284129?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003284129?sid=102"/>
-        <updated>2022-07-01T23:16:05.936Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003284129?sid=102" class="nclicks(rig.secteco)" title="일선 경찰관 의견 듣겠다던 이상민 “이해 부족”…일선에선 “압박인가” 반발">일선 경찰관 의견 듣겠다던 이상민 “이해 부족”…일선에선 “압박인가” 반발</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 장마 소강, 무더위 기승...폭염 특보 속 강한 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001758994?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001758994?sid=103"/>
+        <updated>2022-07-02T01:20:09.442Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001758994?sid=103" class="nclicks(rig.secteco)" title="[날씨] 장마 소강, 무더위 기승...폭염 특보 속 강한 소나기">[날씨] 장마 소강, 무더위 기승...폭염 특보 속 강한 소나기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말 전국 불볕더위‥모레부터 태풍 영향권]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001206446?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001206446?sid=103"/>
-        <updated>2022-07-01T22:15:07.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001206446?sid=103" class="nclicks(rig.secteco)" title="주말 전국 불볕더위‥모레부터 태풍 영향권">주말 전국 불볕더위‥모레부터 태풍 영향권</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르노코리아, 6월 1만2011대 판매…전년比 15.2% 감소]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011280915?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011280915?sid=103"/>
-        <updated>2022-07-01T21:14:20.110Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011280915?sid=103" class="nclicks(rig.secteco)" title="르노코리아, 6월 1만2011대 판매…전년比 15.2% 감소">르노코리아, 6월 1만2011대 판매…전년比 15.2% 감소</a>]]></content>
+        <title type="html"><![CDATA["안전한 근무환경 조성"…현대차, 경총과 안전경영체계 진단 협약]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003660011?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003660011?sid=103"/>
+        <updated>2022-07-02T01:20:09.444Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003660011?sid=103" class="nclicks(rig.secteco)" title="&quot;안전한 근무환경 조성&quot;…현대차, 경총과 안전경영체계 진단 협약">"안전한 근무환경 조성"…현대차, 경총과 안전경영체계 진단 협약</a>]]></content>
     </entry>
 </feed>
