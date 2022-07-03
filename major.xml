@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-03T09:15:27.442Z</updated>
+    <updated>2022-07-03T10:17:25.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[野 '단독 개원' 최후통첩에도 원 구성 합의 또 불발…최악의 '정국 경색' 오나]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000041117?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000041117?sid=100"/>
+        <updated>2022-07-03T10:16:56.269Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000041117?sid=100" class="nclicks(rig.secteco)" title="野 '단독 개원' 최후통첩에도 원 구성 합의 또 불발…최악의 '정국 경색' 오나">野 '단독 개원' 최후통첩에도 원 구성 합의 또 불발…최악의 '정국 경색' 오나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 첫 순방 소감 "국제정치 현실 실감"]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002358598?sid=100</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002358598?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 첫 순방 소감 &quot;국제정치 현실 실감&quot;">윤 대통령 첫 순방 소감 "국제정치 현실 실감"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박지현, 전대 출마 ‘자격 논란’…“추하다” “제발 겸손”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001537234?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001537234?sid=100"/>
-        <updated>2022-07-03T08:18:19.232Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001537234?sid=100" class="nclicks(rig.secteco)" title="박지현, 전대 출마 ‘자격 논란’…“추하다” “제발 겸손”">박지현, 전대 출마 ‘자격 논란’…“추하다” “제발 겸손”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야 담판서 원구성 합의 불발… 권성동 “논의는 계속하기로”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003701375?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003701375?sid=100"/>
-        <updated>2022-07-03T09:15:00.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003701375?sid=100" class="nclicks(rig.secteco)" title="여야 담판서 원구성 합의 불발… 권성동 “논의는 계속하기로”">여야 담판서 원구성 합의 불발… 권성동 “논의는 계속하기로”</a>]]></content>
+        <title type="html"><![CDATA[박지현의 '출마할 결심'이 부른 파장, 민주당의 결론은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002358601?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002358601?sid=100"/>
+        <updated>2022-07-03T10:16:56.273Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002358601?sid=100" class="nclicks(rig.secteco)" title="박지현의 '출마할 결심'이 부른 파장, 민주당의 결론은?">박지현의 '출마할 결심'이 부른 파장, 민주당의 결론은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["지식을 두려움으로, 특정 집단 혐오로 모는 나쁜 언론"]]></title>
@@ -48,32 +48,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011282267?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;하반기 수출 어려워…무역금융 40조 확대·근로시간 개선&quot;(종합)">추경호 "하반기 수출 어려워…무역금융 40조 확대·근로시간 개선"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이자 장사 경고에 은행 ‘화들짝’… 앞다퉈 대출금리↓·예금 금리↑]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003711254?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003711254?sid=101"/>
-        <updated>2022-07-03T09:15:00.449Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003711254?sid=101" class="nclicks(rig.secteco)" title="이자 장사 경고에 은행 ‘화들짝’… 앞다퉈 대출금리↓·예금 금리↑">이자 장사 경고에 은행 ‘화들짝’… 앞다퉈 대출금리↓·예금 금리↑</a>]]></content>
+        <title type="html"><![CDATA[경제 초비상에도… 노동계 대규모 집회로 강성 투쟁 돌입]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003711321?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003711321?sid=101"/>
+        <updated>2022-07-03T10:16:56.278Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003711321?sid=101" class="nclicks(rig.secteco)" title="경제 초비상에도… 노동계 대규모 집회로 강성 투쟁 돌입">경제 초비상에도… 노동계 대규모 집회로 강성 투쟁 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["10여년 흘린 뜨거운 땀방울이 떠올라…" 김승연, 누리호 참여 임직원에 편지]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004719650?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004719650?sid=101"/>
-        <updated>2022-07-03T09:15:00.450Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004719650?sid=101" class="nclicks(rig.secteco)" title="&quot;10여년 흘린 뜨거운 땀방울이 떠올라…&quot; 김승연, 누리호 참여 임직원에 편지">"10여년 흘린 뜨거운 땀방울이 떠올라…" 김승연, 누리호 참여 임직원에 편지</a>]]></content>
+        <title type="html"><![CDATA["이자장사 그만" 칼잡이 경고에…은행들, 앞다퉈 금리 인하]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004986145?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004986145?sid=101"/>
+        <updated>2022-07-03T10:16:56.279Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004986145?sid=101" class="nclicks(rig.secteco)" title="&quot;이자장사 그만&quot; 칼잡이 경고에…은행들, 앞다퉈 금리 인하">"이자장사 그만" 칼잡이 경고에…은행들, 앞다퉈 금리 인하</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG U+ '스마트 실버케어' 실증 …보완 거쳐 내년 서비스 상용화]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004071961?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004071961?sid=105"/>
-        <updated>2022-07-03T09:15:00.453Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004071961?sid=105" class="nclicks(rig.secteco)" title="LG U+ '스마트 실버케어' 실증 …보완 거쳐 내년 서비스 상용화">LG U+ '스마트 실버케어' 실증 …보완 거쳐 내년 서비스 상용화</a>]]></content>
+        <title type="html"><![CDATA[`큐브위성 4기` 지상국과 양방향 교신 언제쯤?]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002741997?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002741997?sid=105"/>
+        <updated>2022-07-03T10:16:56.281Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002741997?sid=105" class="nclicks(rig.secteco)" title="`큐브위성 4기` 지상국과 양방향 교신 언제쯤?">`큐브위성 4기` 지상국과 양방향 교신 언제쯤?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누리호 2번째 큐브위성 ‘랑데브’도 지상교신 성공]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004861286?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004861286?sid=105"/>
-        <updated>2022-07-03T09:15:00.454Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004861286?sid=105" class="nclicks(rig.secteco)" title="누리호 2번째 큐브위성 ‘랑데브’도 지상교신 성공">누리호 2번째 큐브위성 ‘랑데브’도 지상교신 성공</a>]]></content>
+        <title type="html"><![CDATA[LGU+, 실시간 건강 관리 서비스 ‘스마트 실버케어’ 실증…내년 상용화 목표]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002617689?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002617689?sid=105"/>
+        <updated>2022-07-03T10:16:56.282Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002617689?sid=105" class="nclicks(rig.secteco)" title="LGU+, 실시간 건강 관리 서비스 ‘스마트 실버케어’ 실증…내년 상용화 목표">LGU+, 실시간 건강 관리 서비스 ‘스마트 실버케어’ 실증…내년 상용화 목표</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈선 직전 ‘철로 이상’ 신고에도 감속 지시조차 안해]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004986130?sid=102" class="nclicks(rig.secteco)" title="[단독] 상병수당 시범사업 개시…年4조 재원 마련은 '깜깜'">[단독] 상병수당 시범사업 개시…年4조 재원 마련은 '깜깜'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 제주 향하던 태풍 에어리 日로 ‘급선회’]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003284272?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003284272?sid=102"/>
-        <updated>2022-07-03T09:15:00.458Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003284272?sid=102" class="nclicks(rig.secteco)" title="[속보] 제주 향하던 태풍 에어리 日로 ‘급선회’">[속보] 제주 향하던 태풍 에어리 日로 ‘급선회’</a>]]></content>
+        <title type="html"><![CDATA[전국경찰직협 "경찰국 철회 요구, 4일 경찰청·행안부 앞 삭발식, 단식"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000764961?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000764961?sid=102"/>
+        <updated>2022-07-03T10:16:56.288Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000764961?sid=102" class="nclicks(rig.secteco)" title="전국경찰직협 &quot;경찰국 철회 요구, 4일 경찰청·행안부 앞 삭발식, 단식&quot;">전국경찰직협 "경찰국 철회 요구, 4일 경찰청·행안부 앞 삭발식, 단식"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전여옥 "이효리·이상순, 꼭 카페 해야하나…이 시대 왕족은 연예인"]]></title>
