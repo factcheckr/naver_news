@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-05T16:27:37.994Z</updated>
+    <updated>2022-07-05T17:23:03.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002279865?sid=100" class="nclicks(rig.secteco)" title="나토 순방에 불거진 김건희 여사 비선 논란…민간인 동행 대통령 전용기로 귀국">나토 순방에 불거진 김건희 여사 비선 논란…민간인 동행 대통령 전용기로 귀국</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['인사 논란' 묻자 "전 정권 장관 중 훌륭한 사람 봤나"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000984035?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000984035?sid=100"/>
+        <updated>2022-07-05T17:22:35.288Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984035?sid=100" class="nclicks(rig.secteco)" title="'인사 논란' 묻자 &quot;전 정권 장관 중 훌륭한 사람 봤나&quot;">'인사 논란' 묻자 "전 정권 장관 중 훌륭한 사람 봤나"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박지현, 당대표 출마 강행 뜻 '마이웨이'…당내 반응은 '싸늘']]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002618469?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/119/0002618469?sid=100"/>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002618469?sid=100" class="nclicks(rig.secteco)" title="박지현, 당대표 출마 강행 뜻 '마이웨이'…당내 반응은 '싸늘'">박지현, 당대표 출마 강행 뜻 '마이웨이'…당내 반응은 '싸늘'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]'은하계곡 작전' 수색소대장 인터뷰 "김승겸 중대장님, 합참의장 되실 줄 알았습니다“]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004862131?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004862131?sid=100"/>
-        <updated>2022-07-05T11:15:01.636Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004862131?sid=100" class="nclicks(rig.secteco)" title="[단독]'은하계곡 작전' 수색소대장 인터뷰 &quot;김승겸 중대장님, 합참의장 되실 줄 알았습니다“">[단독]'은하계곡 작전' 수색소대장 인터뷰 "김승겸 중대장님, 합참의장 되실 줄 알았습니다“</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무차별 총기난사 사건에 피로 물든 美독립기념일 [특파원+]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003711897?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003711897?sid=104"/>
-        <updated>2022-07-05T16:27:05.655Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003711897?sid=104" class="nclicks(rig.secteco)" title="무차별 총기난사 사건에 피로 물든 美독립기념일 [특파원+]">무차별 총기난사 사건에 피로 물든 美독립기념일 [특파원+]</a>]]></content>
+        <title type="html"><![CDATA[美독립기념일 연휴, 잇따른 총격 사건으로 얼룩…20여명 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006199599?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006199599?sid=104"/>
+        <updated>2022-07-05T17:22:35.296Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006199599?sid=104" class="nclicks(rig.secteco)" title="美독립기념일 연휴, 잇따른 총격 사건으로 얼룩…20여명 사망">美독립기념일 연휴, 잇따른 총격 사건으로 얼룩…20여명 사망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 등 40여개국 "투명하고 민주적으로 우크라 재건" 약속]]></title>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013291354?sid=104" class="nclicks(rig.secteco)" title="한국 등 40여개국 &quot;투명하고 민주적으로 우크라 재건&quot; 약속">한국 등 40여개국 "투명하고 민주적으로 우크라 재건" 약속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지난달 물가 상승률, 24년 만에 첫 6%대]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003157769?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003157769?sid=101"/>
-        <updated>2022-07-05T16:27:05.656Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003157769?sid=101" class="nclicks(rig.secteco)" title="지난달 물가 상승률, 24년 만에 첫 6%대">지난달 물가 상승률, 24년 만에 첫 6%대</a>]]></content>
+        <title type="html"><![CDATA['6%' 물가 상승 현실로…외환위기 이후 처음]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000984033?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000984033?sid=101"/>
+        <updated>2022-07-05T17:22:35.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984033?sid=101" class="nclicks(rig.secteco)" title="'6%' 물가 상승 현실로…외환위기 이후 처음">'6%' 물가 상승 현실로…외환위기 이후 처음</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹정부, 신한울 3·4호기 건설 재개 공식 선언…“2030년 원전 비중 30% 이상”]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013290849?sid=101" class="nclicks(rig.secteco)" title="[일문일답] 원희룡 &quot;범위 벗어난 공공기관 업무, 민간에 개방…카르텔 근절&quot;(종합)">[일문일답] 원희룡 "범위 벗어난 공공기관 업무, 민간에 개방…카르텔 근절"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 3학년 때 수학 본격 시작…세계 수학난제 11개 풀었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003207582?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003207582?sid=105"/>
-        <updated>2022-07-05T15:21:18.183Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003207582?sid=105" class="nclicks(rig.secteco)" title="대학 3학년 때 수학 본격 시작…세계 수학난제 11개 풀었다">대학 3학년 때 수학 본격 시작…세계 수학난제 11개 풀었다</a>]]></content>
+        <title type="html"><![CDATA[허준이 교수, 한국계 첫 '수학계 노벨상' 필즈상 수상]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000984032?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000984032?sid=105"/>
+        <updated>2022-07-05T17:22:35.305Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984032?sid=105" class="nclicks(rig.secteco)" title="허준이 교수, 한국계 첫 '수학계 노벨상' 필즈상 수상">허준이 교수, 한국계 첫 '수학계 노벨상' 필즈상 수상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인앱결제 거부 카카오에 나가라는 구글…韓美 플랫폼간 갈등 고조]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004767144?sid=105" class="nclicks(rig.secteco)" title="인앱결제 거부 카카오에 나가라는 구글…韓美 플랫폼간 갈등 고조">인앱결제 거부 카카오에 나가라는 구글…韓美 플랫폼간 갈등 고조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 정부 초대 경찰청장 거머쥔 윤희근… 독배냐, 성배냐]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000684607?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000684607?sid=102"/>
-        <updated>2022-07-05T16:27:05.659Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000684607?sid=102" class="nclicks(rig.secteco)" title="尹 정부 초대 경찰청장 거머쥔 윤희근… 독배냐, 성배냐">尹 정부 초대 경찰청장 거머쥔 윤희근… 독배냐, 성배냐</a>]]></content>
+        <title type="html"><![CDATA[尹 정부 첫 경찰청장에 ‘초고속’ 승진 윤희근…“엄중한 상황 속 책임감”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003207495?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003207495?sid=102"/>
+        <updated>2022-07-05T17:22:35.307Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003207495?sid=102" class="nclicks(rig.secteco)" title="尹 정부 첫 경찰청장에 ‘초고속’ 승진 윤희근…“엄중한 상황 속 책임감”">尹 정부 첫 경찰청장에 ‘초고속’ 승진 윤희근…“엄중한 상황 속 책임감”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['이준석 성 상납 의혹' 기업 대표 2차 조사..."박근혜 시계 보관, 사진 제출"]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001760384?sid=102" class="nclicks(rig.secteco)" title="'이준석 성 상납 의혹' 기업 대표 2차 조사...&quot;박근혜 시계 보관, 사진 제출&quot;">'이준석 성 상납 의혹' 기업 대표 2차 조사..."박근혜 시계 보관, 사진 제출"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘2500억원대 환매 중단 사태’ 디스커버리 장하원 구속 기소]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003701859?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003701859?sid=102"/>
-        <updated>2022-07-05T13:51:40.262Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003701859?sid=102" class="nclicks(rig.secteco)" title="‘2500억원대 환매 중단 사태’ 디스커버리 장하원 구속 기소">‘2500억원대 환매 중단 사태’ 디스커버리 장하원 구속 기소</a>]]></content>
+        <title type="html"><![CDATA[검찰 '디스커버리 사태' 장하원, 구속기소…관계자 2명도 재판행]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011287324?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011287324?sid=102"/>
+        <updated>2022-07-05T17:22:35.310Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011287324?sid=102" class="nclicks(rig.secteco)" title="검찰 '디스커버리 사태' 장하원, 구속기소…관계자 2명도 재판행">검찰 '디스커버리 사태' 장하원, 구속기소…관계자 2명도 재판행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨]폭염 계속..내일도 광주·전남북부 강한 소나기]]></title>
-        <id>https://n.news.naver.com/mnews/article/660/0000011721?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/660/0000011721?sid=103"/>
-        <updated>2022-07-05T16:27:05.661Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000011721?sid=103" class="nclicks(rig.secteco)" title="[날씨]폭염 계속..내일도 광주·전남북부 강한 소나기">[날씨]폭염 계속..내일도 광주·전남북부 강한 소나기</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 33도 안팎 '찜통더위' 계속…전국 대부분 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000984042?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000984042?sid=103"/>
+        <updated>2022-07-05T17:22:35.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984042?sid=103" class="nclicks(rig.secteco)" title="[날씨] 33도 안팎 '찜통더위' 계속…전국 대부분 소나기">[날씨] 33도 안팎 '찜통더위' 계속…전국 대부분 소나기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“이효리, 오픈 축하하러 왔다 일 커졌다”…남편 이상순의 해명]]></title>
