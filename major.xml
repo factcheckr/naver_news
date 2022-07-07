@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-07T15:17:44.184Z</updated>
+    <updated>2022-07-07T16:26:51.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당당한 이준석은 없었다…징계위 앞서 결국 '울먹']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005262262?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005262262?sid=100"/>
+        <updated>2022-07-07T16:26:22.498Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005262262?sid=100" class="nclicks(rig.secteco)" title="당당한 이준석은 없었다…징계위 앞서 결국 '울먹'">당당한 이준석은 없었다…징계위 앞서 결국 '울먹'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤리위 출석하며 울먹인 이준석 “지난 1년간 설움 북받친다”]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003713009?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003713009?sid=100"/>
         <updated>2022-07-07T15:17:12.369Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003713009?sid=100" class="nclicks(rig.secteco)" title="윤리위 출석하며 울먹인 이준석 “지난 1년간 설움 북받친다”">윤리위 출석하며 울먹인 이준석 “지난 1년간 설움 북받친다”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈시울 붉힌 이준석 "마음 무겁고 허탈…의혹 성실히 소명할 것"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013296836?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013296836?sid=100"/>
-        <updated>2022-07-07T15:17:12.370Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013296836?sid=100" class="nclicks(rig.secteco)" title="눈시울 붉힌 이준석 &quot;마음 무겁고 허탈…의혹 성실히 소명할 것&quot;(종합)">눈시울 붉힌 이준석 "마음 무겁고 허탈…의혹 성실히 소명할 것"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진, 中 왕이 외교장관 첫 만남... ‘인권·자유’ 강조]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000826153?sid=100" class="nclicks(rig.secteco)" title="박진, 中 왕이 외교장관 첫 만남... ‘인권·자유’ 강조">박진, 中 왕이 외교장관 첫 만남... ‘인권·자유’ 강조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["세계 최고 자리서 물러나 슬퍼"…존슨 英총리, 결국 불명예 사퇴]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004988604?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004988604?sid=104"/>
-        <updated>2022-07-07T15:17:12.373Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004988604?sid=104" class="nclicks(rig.secteco)" title="&quot;세계 최고 자리서 물러나 슬퍼&quot;…존슨 英총리, 결국 불명예 사퇴">"세계 최고 자리서 물러나 슬퍼"…존슨 英총리, 결국 불명예 사퇴</a>]]></content>
+        <title type="html"><![CDATA[파티게이트에 거짓말까지… 존슨 英총리, 결국 ‘불명예 퇴진’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003712993?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003712993?sid=104"/>
+        <updated>2022-07-07T16:26:22.505Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003712993?sid=104" class="nclicks(rig.secteco)" title="파티게이트에 거짓말까지… 존슨 英총리, 결국 ‘불명예 퇴진’">파티게이트에 거짓말까지… 존슨 英총리, 결국 ‘불명예 퇴진’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU '친환경기준' 녹색분류체계에 원전 포함…한국도 이달말 초안]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208180?sid=101" class="nclicks(rig.secteco)" title="나라살림 적자 GDP 3% 이내로…내년 예산부터 긴축">나라살림 적자 GDP 3% 이내로…내년 예산부터 긴축</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고환율 덕에 삼성전자 2분기 선방…하반기가 시험대]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003208162?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003208162?sid=101"/>
-        <updated>2022-07-07T15:17:12.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208162?sid=101" class="nclicks(rig.secteco)" title="고환율 덕에 삼성전자 2분기 선방…하반기가 시험대">고환율 덕에 삼성전자 2분기 선방…하반기가 시험대</a>]]></content>
+        <title type="html"><![CDATA[[종합] "악재 뚫고 하이킥"…삼성·LG, 역대급 실적에도 웃음기 사라졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000683868?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000683868?sid=101"/>
+        <updated>2022-07-07T16:26:22.512Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000683868?sid=101" class="nclicks(rig.secteco)" title="[종합] &quot;악재 뚫고 하이킥&quot;…삼성·LG, 역대급 실적에도 웃음기 사라졌다">[종합] "악재 뚫고 하이킥"…삼성·LG, 역대급 실적에도 웃음기 사라졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이른 무더위에 전력수요 역대 최고 "2018년 여름도 넘어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004864100?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004864100?sid=101"/>
-        <updated>2022-07-07T15:17:12.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004864100?sid=101" class="nclicks(rig.secteco)" title="이른 무더위에 전력수요 역대 최고 &quot;2018년 여름도 넘어&quot;">이른 무더위에 전력수요 역대 최고 "2018년 여름도 넘어"</a>]]></content>
+        <title type="html"><![CDATA[전력 수요 역대 최고치 기록...블랙아웃 그림자 가까워졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000685001?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000685001?sid=101"/>
+        <updated>2022-07-07T16:26:22.518Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000685001?sid=101" class="nclicks(rig.secteco)" title="전력 수요 역대 최고치 기록...블랙아웃 그림자 가까워졌다">전력 수요 역대 최고치 기록...블랙아웃 그림자 가까워졌다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]‘구글과 대치’ 카카오, 한 발 물러서…아웃링크 결제 방식 포기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006204613?sid=105" class="nclicks(rig.secteco)" title="'IT 인력난'에 기업들 허덕…&quot;대학정원 확대 등 범정부 대책 나온다&quot;(종합)">'IT 인력난'에 기업들 허덕…"대학정원 확대 등 범정부 대책 나온다"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“펑 폭발음” 제주서 또 어선 화재…2명 실종·3명 중상]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011298147?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011298147?sid=102"/>
-        <updated>2022-07-07T14:26:04.756Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011298147?sid=102" class="nclicks(rig.secteco)" title="“펑 폭발음” 제주서 또 어선 화재…2명 실종·3명 중상">“펑 폭발음” 제주서 또 어선 화재…2명 실종·3명 중상</a>]]></content>
+        <title type="html"><![CDATA[제주 항구서 또 어선 화재…3명 중상 · 2명 실종]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000984543?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000984543?sid=102"/>
+        <updated>2022-07-07T16:26:22.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984543?sid=102" class="nclicks(rig.secteco)" title="제주 항구서 또 어선 화재…3명 중상 · 2명 실종">제주 항구서 또 어선 화재…3명 중상 · 2명 실종</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["초·중·고교 파이 줄여 대학 활용" 교육계 교부금 개편 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000014430?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000014430?sid=102"/>
-        <updated>2022-07-07T15:17:12.388Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000014430?sid=102" class="nclicks(rig.secteco)" title="&quot;초·중·고교 파이 줄여 대학 활용&quot; 교육계 교부금 개편 반발">"초·중·고교 파이 줄여 대학 활용" 교육계 교부금 개편 반발</a>]]></content>
+        <title type="html"><![CDATA[교육교부금 손보고, 공공기관 자산 팔고…"임금 인상은 최소화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011291522?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011291522?sid=102"/>
+        <updated>2022-07-07T16:26:22.522Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011291522?sid=102" class="nclicks(rig.secteco)" title="교육교부금 손보고, 공공기관 자산 팔고…&quot;임금 인상은 최소화&quot;">교육교부금 손보고, 공공기관 자산 팔고…"임금 인상은 최소화"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['대기업 월급의 3배' 의사 평균연봉 2.3억, 흉부외과는 5억 육박]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004988608?sid=102" class="nclicks(rig.secteco)" title="'대기업 월급의 3배' 의사 평균연봉 2.3억, 흉부외과는 5억 육박">'대기업 월급의 3배' 의사 평균연봉 2.3억, 흉부외과는 5억 육박</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 남부지방 강한 비…그치면 또 무더위]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000159653?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000159653?sid=103"/>
-        <updated>2022-07-07T15:17:12.392Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000159653?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 남부지방 강한 비…그치면 또 무더위">[오늘의 날씨] 남부지방 강한 비…그치면 또 무더위</a>]]></content>
+        <title type="html"><![CDATA[8일 대부분 지역 비오다 그쳐…찜통 더위 계속]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004988593?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004988593?sid=103"/>
+        <updated>2022-07-07T16:26:22.525Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004988593?sid=103" class="nclicks(rig.secteco)" title="8일 대부분 지역 비오다 그쳐…찜통 더위 계속">8일 대부분 지역 비오다 그쳐…찜통 더위 계속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 내일 오후까지 장맛비...무더위 계속]]></title>
