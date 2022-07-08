@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-08T15:17:10.678Z</updated>
+    <updated>2022-07-08T16:26:03.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[새벽 징계 후 “쿠데타”…한밤 권성동 “단합” 호소…대혼돈]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003158598?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003158598?sid=100"/>
-        <updated>2022-07-08T13:44:38.045Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003158598?sid=100" class="nclicks(rig.secteco)" title="새벽 징계 후 “쿠데타”…한밤 권성동 “단합” 호소…대혼돈">새벽 징계 후 “쿠데타”…한밤 권성동 “단합” 호소…대혼돈</a>]]></content>
+        <title type="html"><![CDATA[재정비 돌입한 국민의힘…주목받는 권성동 체제]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002619455?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002619455?sid=100"/>
+        <updated>2022-07-08T16:25:24.623Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002619455?sid=100" class="nclicks(rig.secteco)" title="재정비 돌입한 국민의힘…주목받는 권성동 체제">재정비 돌입한 국민의힘…주목받는 권성동 체제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 "日 국민에 애도와 위로"…아키에 여사에게 '조전']]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004989091?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004989091?sid=100"/>
-        <updated>2022-07-08T15:16:40.088Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004989091?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;日 국민에 애도와 위로&quot;…아키에 여사에게 '조전'">尹대통령 "日 국민에 애도와 위로"…아키에 여사에게 '조전'</a>]]></content>
+        <title type="html"><![CDATA[세계 지도자들, 아베 전 총리 사망 애도…푸틴 "걸출한 정치인" 마크롱 "훌륭한 총리 잃어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003662447?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003662447?sid=100"/>
+        <updated>2022-07-08T16:25:24.624Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003662447?sid=100" class="nclicks(rig.secteco)" title="세계 지도자들, 아베 전 총리 사망 애도…푸틴 &quot;걸출한 정치인&quot; 마크롱 &quot;훌륭한 총리 잃어&quot;">세계 지도자들, 아베 전 총리 사망 애도…푸틴 "걸출한 정치인" 마크롱 "훌륭한 총리 잃어"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한미일 외교장관 "北 대화복귀 위해 유연하고 열린 접근"(종합3보)]]></title>
@@ -27,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013299235?sid=100" class="nclicks(rig.secteco)" title="한미일 외교장관 &quot;北 대화복귀 위해 유연하고 열린 접근&quot;(종합3보)">한미일 외교장관 "北 대화복귀 위해 유연하고 열린 접근"(종합3보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日우익 상징 아베, 유세중 총격 사망…용의자는 전직 자위대원(종합4보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013299113?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013299113?sid=104"/>
-        <updated>2022-07-08T15:16:40.094Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013299113?sid=104" class="nclicks(rig.secteco)" title="日우익 상징 아베, 유세중 총격 사망…용의자는 전직 자위대원(종합4보)">日우익 상징 아베, 유세중 총격 사망…용의자는 전직 자위대원(종합4보)</a>]]></content>
+        <title type="html"><![CDATA[아베 전 일본 총리, 유세 도중 총 맞고 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000042644?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000042644?sid=104"/>
+        <updated>2022-07-08T16:25:24.635Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000042644?sid=104" class="nclicks(rig.secteco)" title="아베 전 일본 총리, 유세 도중 총 맞고 사망">아베 전 일본 총리, 유세 도중 총 맞고 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트럼프 "아베 같은 사람 다신 없다"...푸틴도 유족에 애도 서한 [아베 피격 사망]]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003208382?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003208382?sid=104"/>
-        <updated>2022-07-08T14:26:29.997Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208382?sid=104" class="nclicks(rig.secteco)" title="트럼프 &quot;아베 같은 사람 다신 없다&quot;...푸틴도 유족에 애도 서한 [아베 피격 사망]">트럼프 "아베 같은 사람 다신 없다"...푸틴도 유족에 애도 서한 [아베 피격 사망]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한덕수·최태원 투 톱' 엑스포유치위의 맞춤형 득표 전략은]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000685169?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000685169?sid=101"/>
-        <updated>2022-07-08T13:44:38.053Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000685169?sid=101" class="nclicks(rig.secteco)" title="'한덕수·최태원 투 톱' 엑스포유치위의 맞춤형 득표 전략은">'한덕수·최태원 투 톱' 엑스포유치위의 맞춤형 득표 전략은</a>]]></content>
+        <title type="html"><![CDATA[역대 최장수 총리, 강경 우익 아이콘…주변국과는 마찰음]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000042690?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000042690?sid=104"/>
+        <updated>2022-07-08T16:25:24.637Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000042690?sid=104" class="nclicks(rig.secteco)" title="역대 최장수 총리, 강경 우익 아이콘…주변국과는 마찰음">역대 최장수 총리, 강경 우익 아이콘…주변국과는 마찰음</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교보생명, 코스피 입성 또 실패...'신창재 리스크' 발목]]></title>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000684171?sid=101" class="nclicks(rig.secteco)" title="교보생명, 코스피 입성 또 실패...'신창재 리스크' 발목">교보생명, 코스피 입성 또 실패...'신창재 리스크' 발목</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["밥상 물가 잡는다" 사상 첫 쇠고기 '관세 0%']]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000984789?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000984789?sid=101"/>
-        <updated>2022-07-08T12:30:26.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000984789?sid=101" class="nclicks(rig.secteco)" title="&quot;밥상 물가 잡는다&quot; 사상 첫 쇠고기 '관세 0%'">"밥상 물가 잡는다" 사상 첫 쇠고기 '관세 0%'</a>]]></content>
+        <title type="html"><![CDATA["두드리면 열린다"…최태원, 부산엑스포 총력 지원 다짐(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011294619?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011294619?sid=101"/>
+        <updated>2022-07-08T16:25:24.641Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011294619?sid=101" class="nclicks(rig.secteco)" title="&quot;두드리면 열린다&quot;…최태원, 부산엑스포 총력 지원 다짐(종합)">"두드리면 열린다"…최태원, 부산엑스포 총력 지원 다짐(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이달부터 소·닭고기·분유 등 7개 품목에 0% 관세…가격 낮춘다(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013298019?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013298019?sid=101"/>
+        <updated>2022-07-08T16:25:24.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013298019?sid=101" class="nclicks(rig.secteco)" title="이달부터 소·닭고기·분유 등 7개 품목에 0% 관세…가격 낮춘다(종합)">이달부터 소·닭고기·분유 등 7개 품목에 0% 관세…가격 낮춘다(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아!이뉴스] '문체부 vs KT·LG' OTT 저작권 소송…中 역대급 개인정보 유출?]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005114662?sid=105" class="nclicks(rig.secteco)" title="[단독]IPTV 3사, 3000억 조성해 자체 드라마 제작">[단독]IPTV 3사, 3000억 조성해 자체 드라마 제작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원 "'왕릉뷰 아파트' 공사중지 부당"…건설사 승소]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000550298?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000550298?sid=102"/>
-        <updated>2022-07-08T15:16:40.109Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000550298?sid=102" class="nclicks(rig.secteco)" title="법원 &quot;'왕릉뷰 아파트' 공사중지 부당&quot;…건설사 승소">법원 "'왕릉뷰 아파트' 공사중지 부당"…건설사 승소</a>]]></content>
+        <title type="html"><![CDATA[법원, 검단신도시 ‘왕릉뷰아파트’ 공사중지명령 처분 취소…"허가 대상 아냐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005115156?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005115156?sid=102"/>
+        <updated>2022-07-08T16:25:24.647Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005115156?sid=102" class="nclicks(rig.secteco)" title="법원, 검단신도시 ‘왕릉뷰아파트’ 공사중지명령 처분 취소…&quot;허가 대상 아냐&quot;">법원, 검단신도시 ‘왕릉뷰아파트’ 공사중지명령 처분 취소…"허가 대상 아냐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원 “타다 드라이버, 근로기준법상 근로자 아니다”…중노위 결정 뒤집어]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003438973?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003438973?sid=102"/>
-        <updated>2022-07-08T12:30:26.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003438973?sid=102" class="nclicks(rig.secteco)" title="법원 “타다 드라이버, 근로기준법상 근로자 아니다”…중노위 결정 뒤집어">법원 “타다 드라이버, 근로기준법상 근로자 아니다”…중노위 결정 뒤집어</a>]]></content>
+        <title type="html"><![CDATA[[단독]'李 변호사비 대납’ 檢, 쌍방울·변호사사무실 동시 압색]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003208281?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003208281?sid=102"/>
+        <updated>2022-07-08T16:25:24.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208281?sid=102" class="nclicks(rig.secteco)" title="[단독]'李 변호사비 대납’ 檢, 쌍방울·변호사사무실 동시 압색">[단독]'李 변호사비 대납’ 檢, 쌍방울·변호사사무실 동시 압색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 쌍방울 임원, 강제수사 전 휴대전화 교체 정황]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000365678?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000365678?sid=102"/>
-        <updated>2022-07-08T13:44:38.063Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000365678?sid=102" class="nclicks(rig.secteco)" title="[단독] 쌍방울 임원, 강제수사 전 휴대전화 교체 정황">[단독] 쌍방울 임원, 강제수사 전 휴대전화 교체 정황</a>]]></content>
+        <title type="html"><![CDATA[중노위 판정 취소한 법원 "타다 운전기사, 근로자 아니다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000685178?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000685178?sid=102"/>
+        <updated>2022-07-08T16:25:24.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000685178?sid=102" class="nclicks(rig.secteco)" title="중노위 판정 취소한 법원 &quot;타다 운전기사, 근로자 아니다&quot;">중노위 판정 취소한 법원 "타다 운전기사, 근로자 아니다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[시승기] 쌍용차 '토레스', 상남자 외모에 섬세한 주행 '반전 매력']]></title>
