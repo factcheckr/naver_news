@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-09T20:15:44.049Z</updated>
+    <updated>2022-07-09T21:14:45.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000765845?sid=100" class="nclicks(rig.secteco)" title="박지현 &quot;민주당 지금이라도 박원순 성폭력 피해자에게 사과해야&quot;">박지현 "민주당 지금이라도 박원순 성폭력 피해자에게 사과해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유승민 "의혹만으로 이준석 중징계…윤핵관 보면 조폭 같다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003208457?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003208457?sid=100"/>
-        <updated>2022-07-09T19:12:46.817Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208457?sid=100" class="nclicks(rig.secteco)" title="유승민 &quot;의혹만으로 이준석 중징계…윤핵관 보면 조폭 같다&quot;">유승민 "의혹만으로 이준석 중징계…윤핵관 보면 조폭 같다"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["얼마나 클지 나무 베면 알 수 없죠" 이준석이 공유한 노래 가사]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005263229?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005263229?sid=100"/>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005263229?sid=100" class="nclicks(rig.secteco)" title="&quot;얼마나 클지 나무 베면 알 수 없죠&quot; 이준석이 공유한 노래 가사">"얼마나 클지 나무 베면 알 수 없죠" 이준석이 공유한 노래 가사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12일 도쿄 절에서 아베 가족장…피격 현장 시민 추모행렬(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013299581?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013299581?sid=104"/>
-        <updated>2022-07-09T15:16:35.274Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013299581?sid=104" class="nclicks(rig.secteco)" title="12일 도쿄 절에서 아베 가족장…피격 현장 시민 추모행렬(종합2보)">12일 도쿄 절에서 아베 가족장…피격 현장 시민 추모행렬(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[[단독] 윗선 이어 '7억원 각서' 언급…"대선 때 야권단일화 카드로 활용"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000304961?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000304961?sid=100"/>
+        <updated>2022-07-09T21:14:14.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000304961?sid=100" class="nclicks(rig.secteco)" title="[단독] 윗선 이어 '7억원 각서' 언급…&quot;대선 때 야권단일화 카드로 활용&quot;">[단독] 윗선 이어 '7억원 각서' 언급…"대선 때 야권단일화 카드로 활용"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['국가 부도' 스리랑카, 대통령 사임으로 정치권도 격랑 속으로]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013299777?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013299777?sid=104"/>
-        <updated>2022-07-09T20:15:15.162Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013299777?sid=104" class="nclicks(rig.secteco)" title="'국가 부도' 스리랑카, 대통령 사임으로 정치권도 격랑 속으로">'국가 부도' 스리랑카, 대통령 사임으로 정치권도 격랑 속으로</a>]]></content>
+        <title type="html"><![CDATA[스리랑카 대통령 사퇴]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004864671?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004864671?sid=104"/>
+        <updated>2022-07-09T21:14:14.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004864671?sid=104" class="nclicks(rig.secteco)" title="스리랑카 대통령 사퇴">스리랑카 대통령 사퇴</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아베 전 日 총리 12일 장례식… 도쿄 절에서 가족장으로]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000830849?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000830849?sid=104"/>
+        <updated>2022-07-09T21:14:14.021Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000830849?sid=104" class="nclicks(rig.secteco)" title="아베 전 日 총리 12일 장례식… 도쿄 절에서 가족장으로">아베 전 日 총리 12일 장례식… 도쿄 절에서 가족장으로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곡물가 껑충…식량위기 탈출구를 찾아라]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013299636?sid=101" class="nclicks(rig.secteco)" title="경제단체, 아베 前총리 피격 사망 애도…&quot;비극적 사건&quot;">경제단체, 아베 前총리 피격 사망 애도…"비극적 사건"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[TF비즈토크<하>] 카카오모빌리티 매각 놓고 '내홍'…노사 갈등에 인력 이탈 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000159923?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000159923?sid=105"/>
-        <updated>2022-07-09T15:16:35.285Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000159923?sid=105" class="nclicks(rig.secteco)" title="[TF비즈토크] 카카오모빌리티 매각 놓고 '내홍'…노사 갈등에 인력 이탈 우려">[TF비즈토크&lt;하&gt;] 카카오모빌리티 매각 놓고 '내홍'…노사 갈등에 인력 이탈 우려</a>]]></content>
+        <title type="html"><![CDATA[웹에선 1만원, 앱 1만2000원…앱 결제하면 호구?]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003702804?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003702804?sid=105"/>
+        <updated>2022-07-09T21:14:14.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003702804?sid=105" class="nclicks(rig.secteco)" title="웹에선 1만원, 앱 1만2000원…앱 결제하면 호구?">웹에선 1만원, 앱 1만2000원…앱 결제하면 호구?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["하늘나라에서 행복하길"…평택 굴착기 사고 초등생 추모 발길]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013298902?sid=102" class="nclicks(rig.secteco)" title="&quot;하늘나라에서 행복하길&quot;…평택 굴착기 사고 초등생 추모 발길">"하늘나라에서 행복하길"…평택 굴착기 사고 초등생 추모 발길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002359302?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002359302?sid=102"/>
-        <updated>2022-07-09T19:12:46.824Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002359302?sid=102" class="nclicks(rig.secteco)" title="&quot;창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출&quot;">"창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로또 1023회 당첨번호 조회…'1등 최대 경기, 2등은 왜 이래']]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000159924?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/629/0000159924?sid=102"/>
         <updated>2022-07-09T20:15:15.173Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000159924?sid=102" class="nclicks(rig.secteco)" title="로또 1023회 당첨번호 조회…'1등 최대 경기, 2등은 왜 이래'">로또 1023회 당첨번호 조회…'1등 최대 경기, 2등은 왜 이래'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002359302?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002359302?sid=102"/>
+        <updated>2022-07-09T19:12:46.824Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002359302?sid=102" class="nclicks(rig.secteco)" title="&quot;창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출&quot;">"창원시 늦장 대응에 깔따구 오염 수돗물 무방비 노출"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 내일은 더 덥다...다음 주 다시 장맛비]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001761971?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일은 더 덥다...다음 주 다시 장맛비">[날씨] 내일은 더 덥다...다음 주 다시 장맛비</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“넷플릭스, 드라마 속 욱일기 노출...한국인 상처에 무관심한 행태”]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004989147?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004989147?sid=103"/>
-        <updated>2022-07-09T15:16:35.298Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004989147?sid=103" class="nclicks(rig.secteco)" title="“넷플릭스, 드라마 속 욱일기 노출...한국인 상처에 무관심한 행태”">“넷플릭스, 드라마 속 욱일기 노출...한국인 상처에 무관심한 행태”</a>]]></content>
+        <title type="html"><![CDATA[[단독] 현대차 '아이오닉6' 실물 부산 해운대서 포착…"아우디TT 닮아"]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004989065?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004989065?sid=103"/>
+        <updated>2022-07-09T21:14:14.034Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004989065?sid=103" class="nclicks(rig.secteco)" title="[단독] 현대차 '아이오닉6' 실물 부산 해운대서 포착…&quot;아우디TT 닮아&quot;">[단독] 현대차 '아이오닉6' 실물 부산 해운대서 포착…"아우디TT 닮아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 군정기에 살해된 교수와 새 여인[책과 삶]]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003158577?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003158577?sid=103"/>
-        <updated>2022-07-09T20:15:15.177Z</updated>
-        <content type="html"><![CDATA[<em class="keyword"><span>연재</span></em> <a href="https://n.news.naver.com/mnews/article/032/0003158577?sid=103" class="nclicks(rig.secteco)" title="미 군정기에 살해된 교수와 새 여인[책과 삶]">미 군정기에 살해된 교수와 새 여인[책과 삶]</a>]]></content>
+        <title type="html"><![CDATA[인도, 밀에 이어 밀가루도 수출 규제 [원자재포커스]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004721932?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004721932?sid=104"/>
+        <updated>2022-07-09T21:14:14.036Z</updated>
+        <content type="html"><![CDATA[<em class="keyword"><span>연재</span></em> <a href="https://n.news.naver.com/mnews/article/015/0004721932?sid=104" class="nclicks(rig.secteco)" title="인도, 밀에 이어 밀가루도 수출 규제 [원자재포커스]">인도, 밀에 이어 밀가루도 수출 규제 [원자재포커스]</a>]]></content>
     </entry>
 </feed>
