@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-11T05:23:41.405Z</updated>
+    <updated>2022-07-11T06:21:15.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[與 초선·중진들 ‘권성동 직무대행’ 연이어 추인]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003703038?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003703038?sid=100"/>
-        <updated>2022-07-11T05:23:06.340Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703038?sid=100" class="nclicks(rig.secteco)" title="與 초선·중진들 ‘권성동 직무대행’ 연이어 추인">與 초선·중진들 ‘권성동 직무대행’ 연이어 추인</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹, 김주현 금융위원장에 임명장… 청문회 없이 4번째 재가]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003703035?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003703035?sid=100"/>
-        <updated>2022-07-11T05:23:06.348Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703035?sid=100" class="nclicks(rig.secteco)" title="尹, 김주현 금융위원장에 임명장… 청문회 없이 4번째 재가">尹, 김주현 금융위원장에 임명장… 청문회 없이 4번째 재가</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[코로나로 출근길 질의응답 멈춘 尹…'메시지리스크 관리' 시선도]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013302193?sid=100</id>
@@ -27,25 +13,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013302193?sid=100" class="nclicks(rig.secteco)" title="코로나로 출근길 질의응답 멈춘 尹…'메시지리스크 관리' 시선도">코로나로 출근길 질의응답 멈춘 尹…'메시지리스크 관리' 시선도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아베 총격범, 하루 전 무슨 일이…"원한 품은 종교단체 건물에 사격"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000305140?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000305140?sid=104"/>
-        <updated>2022-07-11T04:35:25.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000305140?sid=104" class="nclicks(rig.secteco)" title="아베 총격범, 하루 전 무슨 일이…&quot;원한 품은 종교단체 건물에 사격&quot;">아베 총격범, 하루 전 무슨 일이…"원한 품은 종교단체 건물에 사격"</a>]]></content>
+        <title type="html"><![CDATA[與 "권성동 대행체제로 환골탈태해야"…한목소리 낸 초선·중진]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006209496?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006209496?sid=100"/>
+        <updated>2022-07-11T06:20:48.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006209496?sid=100" class="nclicks(rig.secteco)" title="與 &quot;권성동 대행체제로 환골탈태해야&quot;…한목소리 낸 초선·중진">與 "권성동 대행체제로 환골탈태해야"…한목소리 낸 초선·중진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미미했던 '아베 효과'... 윤석열 정부의 착각]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002359399?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002359399?sid=104"/>
-        <updated>2022-07-11T05:23:06.355Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002359399?sid=104" class="nclicks(rig.secteco)" title="미미했던 '아베 효과'... 윤석열 정부의 착각">미미했던 '아베 효과'... 윤석열 정부의 착각</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령, 김주현 금융위원장 임명안 재가…청문회 없이 네 번째]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000305143?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000305143?sid=100"/>
+        <updated>2022-07-11T06:20:48.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000305143?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 김주현 금융위원장 임명안 재가…청문회 없이 네 번째">윤 대통령, 김주현 금융위원장 임명안 재가…청문회 없이 네 번째</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김주현 금융위원장 "금융시장 안정 우선…필요시 정책 마련할것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013302305?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013302305?sid=101"/>
-        <updated>2022-07-11T05:23:06.357Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013302305?sid=101" class="nclicks(rig.secteco)" title="김주현 금융위원장 &quot;금융시장 안정 우선…필요시 정책 마련할것&quot;">김주현 금융위원장 "금융시장 안정 우선…필요시 정책 마련할것"</a>]]></content>
+        <title type="html"><![CDATA[[단독]“아베 살해범 어머니가 빠진 종교는 ‘옛 통일교회’”...日 언론 주장]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002521361?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002521361?sid=104"/>
+        <updated>2022-07-11T06:20:48.350Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002521361?sid=104" class="nclicks(rig.secteco)" title="[단독]“아베 살해범 어머니가 빠진 종교는 ‘옛 통일교회’”...日 언론 주장">[단독]“아베 살해범 어머니가 빠진 종교는 ‘옛 통일교회’”...日 언론 주장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, 머스크에 "합의대로 인수해라"…실익은 '글쎄']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005264538?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005264538?sid=104"/>
+        <updated>2022-07-11T06:20:48.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005264538?sid=104" class="nclicks(rig.secteco)" title="트위터, 머스크에 &quot;합의대로 인수해라&quot;…실익은 '글쎄'">트위터, 머스크에 "합의대로 인수해라"…실익은 '글쎄'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김주현 금융위원장 "공매도 금지, 필요시 활용… 가상화폐 건전하게 육성"]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000014632?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000014632?sid=101"/>
+        <updated>2022-07-11T06:20:48.352Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000014632?sid=101" class="nclicks(rig.secteco)" title="김주현 금융위원장 &quot;공매도 금지, 필요시 활용… 가상화폐 건전하게 육성&quot;">김주현 금융위원장 "공매도 금지, 필요시 활용… 가상화폐 건전하게 육성"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“대출 받게 해줄게” 가짜 취업 시키고 대출금 절반 뜯는 그들의 정체 [사모당]]]></title>
@@ -55,46 +55,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703008?sid=101" class="nclicks(rig.secteco)" title="“대출 받게 해줄게” 가짜 취업 시키고 대출금 절반 뜯는 그들의 정체 [사모당]">“대출 받게 해줄게” 가짜 취업 시키고 대출금 절반 뜯는 그들의 정체 [사모당]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환경산업기술원 “중미시장 환경기업 진출 지원 확대”]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003029508?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003029508?sid=101"/>
-        <updated>2022-07-11T05:23:06.361Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003029508?sid=101" class="nclicks(rig.secteco)" title="환경산업기술원 “중미시장 환경기업 진출 지원 확대”">환경산업기술원 “중미시장 환경기업 진출 지원 확대”</a>]]></content>
+        <title type="html"><![CDATA[정부 “중미지역 공공기관 진출·인프라 채권 발행 검토”]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002619837?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002619837?sid=101"/>
+        <updated>2022-07-11T06:20:48.358Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002619837?sid=101" class="nclicks(rig.secteco)" title="정부 “중미지역 공공기관 진출·인프라 채권 발행 검토”">정부 “중미지역 공공기관 진출·인프라 채권 발행 검토”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“통신은 국민과 나아갈 산업”…이종호, 통신3사 CEO 첫 간담회]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005264520?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005264520?sid=105"/>
-        <updated>2022-07-11T05:23:06.363Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005264520?sid=105" class="nclicks(rig.secteco)" title="“통신은 국민과 나아갈 산업”…이종호, 통신3사 CEO 첫 간담회">“통신은 국민과 나아갈 산업”…이종호, 통신3사 CEO 첫 간담회</a>]]></content>
+        <title type="html"><![CDATA[이종호 장관 “디지털 패권 경쟁 앞서려면 5G 인프라 생산적 활용 필요”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005264571?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005264571?sid=105"/>
+        <updated>2022-07-11T06:20:48.359Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005264571?sid=105" class="nclicks(rig.secteco)" title="이종호 장관 “디지털 패권 경쟁 앞서려면 5G 인프라 생산적 활용 필요”">이종호 장관 “디지털 패권 경쟁 앞서려면 5G 인프라 생산적 활용 필요”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오 노조 "'투기자본' MBK에 모빌리티 매각 중단해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003662839?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003662839?sid=105"/>
-        <updated>2022-07-11T05:23:06.365Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003662839?sid=105" class="nclicks(rig.secteco)" title="카카오 노조 &quot;'투기자본' MBK에 모빌리티 매각 중단해야&quot;">카카오 노조 "'투기자본' MBK에 모빌리티 매각 중단해야"</a>]]></content>
+        <title type="html"><![CDATA[[단독]‘모빌리티 매각 내홍’ 잦아들까…카카오, 전 직원 목소리 듣는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004074844?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004074844?sid=105"/>
+        <updated>2022-07-11T06:20:48.360Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004074844?sid=105" class="nclicks(rig.secteco)" title="[단독]‘모빌리티 매각 내홍’ 잦아들까…카카오, 전 직원 목소리 듣는다">[단독]‘모빌리티 매각 내홍’ 잦아들까…카카오, 전 직원 목소리 듣는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹정부 첫 검찰총장 추천위 구성…19일까지 후보 국민 천거(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013301721?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013301721?sid=102"/>
-        <updated>2022-07-11T03:36:44.586Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013301721?sid=102" class="nclicks(rig.secteco)" title="尹정부 첫 검찰총장 추천위 구성…19일까지 후보 국민 천거(종합)">尹정부 첫 검찰총장 추천위 구성…19일까지 후보 국민 천거(종합)</a>]]></content>
+        <title type="html"><![CDATA['가도 되나 헷갈린다'…새 도로교통법 '우회전 방법' 두고 혼란]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005116008?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005116008?sid=102"/>
+        <updated>2022-07-11T06:20:48.361Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005116008?sid=102" class="nclicks(rig.secteco)" title="'가도 되나 헷갈린다'…새 도로교통법 '우회전 방법' 두고 혼란">'가도 되나 헷갈린다'…새 도로교통법 '우회전 방법' 두고 혼란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[친절한 뉴스K] 우회전 때 사람 보이면 ‘일단정지’…내일 시행]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011299779?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011299779?sid=102"/>
-        <updated>2022-07-11T04:35:25.414Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011299779?sid=102" class="nclicks(rig.secteco)" title="[친절한 뉴스K] 우회전 때 사람 보이면 ‘일단정지’…내일 시행">[친절한 뉴스K] 우회전 때 사람 보이면 ‘일단정지’…내일 시행</a>]]></content>
+        <title type="html"><![CDATA[수백억원대 2030 보증금 떼 먹은 ‘세 모녀 전세 사기’ 일당 기소]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003703045?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003703045?sid=102"/>
+        <updated>2022-07-11T06:20:48.362Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703045?sid=102" class="nclicks(rig.secteco)" title="수백억원대 2030 보증금 떼 먹은 ‘세 모녀 전세 사기’ 일당 기소">수백억원대 2030 보증금 떼 먹은 ‘세 모녀 전세 사기’ 일당 기소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부모가 SNS에 올린 사진, 아동이 직접 삭제 요청할 수 있게 된다]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013302201?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013302201?sid=102"/>
-        <updated>2022-07-11T05:23:06.373Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013302201?sid=102" class="nclicks(rig.secteco)" title="부모가 SNS에 올린 사진, 아동이 직접 삭제 요청할 수 있게 된다">부모가 SNS에 올린 사진, 아동이 직접 삭제 요청할 수 있게 된다</a>]]></content>
+        <title type="html"><![CDATA[“부모님이 SNS에 올린 제 사진 지워주세요”… 아동-청소년도 ‘잊힐 권리’]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003439265?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003439265?sid=102"/>
+        <updated>2022-07-11T06:20:48.363Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003439265?sid=102" class="nclicks(rig.secteco)" title="“부모님이 SNS에 올린 제 사진 지워주세요”… 아동-청소년도 ‘잊힐 권리’">“부모님이 SNS에 올린 제 사진 지워주세요”… 아동-청소년도 ‘잊힐 권리’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['토레스' 대박 쌍용차, 생산물량 증가로 1년만에 2교대 시행]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005264464?sid=103" class="nclicks(rig.secteco)" title="'토레스' 대박 쌍용차, 생산물량 증가로 1년만에 2교대 시행">'토레스' 대박 쌍용차, 생산물량 증가로 1년만에 2교대 시행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘제네시스’ 첫 골프 대회 성공적 마무리… 12년 만에 최다 관객 동원]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000826710?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000826710?sid=103"/>
-        <updated>2022-07-11T05:23:06.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000826710?sid=103" class="nclicks(rig.secteco)" title="‘제네시스’ 첫 골프 대회 성공적 마무리… 12년 만에 최다 관객 동원">‘제네시스’ 첫 골프 대회 성공적 마무리… 12년 만에 최다 관객 동원</a>]]></content>
+        <title type="html"><![CDATA[내일까지 남부지방 비…전국 33도 무더위 이어진다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003208768?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003208768?sid=103"/>
+        <updated>2022-07-11T06:20:48.365Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003208768?sid=103" class="nclicks(rig.secteco)" title="내일까지 남부지방 비…전국 33도 무더위 이어진다">내일까지 남부지방 비…전국 33도 무더위 이어진다</a>]]></content>
     </entry>
 </feed>
