@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T20:19:20.215Z</updated>
+    <updated>2022-07-14T21:16:47.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[여야, 사개특위 구성 합의… 과방위는 쟁탈전 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287372?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287372?sid=100"/>
-        <updated>2022-07-14T20:18:53.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287372?sid=100" class="nclicks(rig.secteco)" title="여야, 사개특위 구성 합의… 과방위는 쟁탈전">여야, 사개특위 구성 합의… 과방위는 쟁탈전</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권성동 "한번 동생은 영원한 동생" 장제원 "뿌리는 하나"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013312226?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013312226?sid=100"/>
-        <updated>2022-07-14T20:18:53.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013312226?sid=100" class="nclicks(rig.secteco)" title="권성동 &quot;한번 동생은 영원한 동생&quot; 장제원 &quot;뿌리는 하나&quot;(종합)">권성동 "한번 동생은 영원한 동생" 장제원 "뿌리는 하나"(종합)</a>]]></content>
+        <title type="html"><![CDATA[野, 원구성 협상 중단 선언… “합의 정신 무시하고 말 바꿔” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003715424?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003715424?sid=100"/>
+        <updated>2022-07-14T21:16:12.299Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003715424?sid=100" class="nclicks(rig.secteco)" title="野, 원구성 협상 중단 선언… “합의 정신 무시하고 말 바꿔”">野, 원구성 협상 중단 선언… “합의 정신 무시하고 말 바꿔”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 피해 소상공인 대출원금 최대 90% 감면 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440086?sid=100" class="nclicks(rig.secteco)" title="코로나 피해 소상공인 대출원금 최대 90% 감면">코로나 피해 소상공인 대출원금 최대 90% 감면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령 결국 ‘이메일 사임’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287358?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287358?sid=104"/>
-        <updated>2022-07-14T15:18:41.805Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287358?sid=104" class="nclicks(rig.secteco)" title="[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령 결국 ‘이메일 사임’">[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령 결국 ‘이메일 사임’</a>]]></content>
+        <title type="html"><![CDATA[고개 드는 ‘윤핵관’ 불화설… 당권 두고 패권 다툼 심화하나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003715403?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003715403?sid=100"/>
+        <updated>2022-07-14T21:16:12.305Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003715403?sid=100" class="nclicks(rig.secteco)" title="고개 드는 ‘윤핵관’ 불화설… 당권 두고 패권 다툼 심화하나">고개 드는 ‘윤핵관’ 불화설… 당권 두고 패권 다툼 심화하나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스리랑카 반정부 시위 4개월만에, 대통령 항복…거리에는 환호성(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006218880?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006218880?sid=104"/>
+        <updated>2022-07-14T21:16:12.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006218880?sid=104" class="nclicks(rig.secteco)" title="스리랑카 반정부 시위 4개월만에, 대통령 항복…거리에는 환호성(종합)">스리랑카 반정부 시위 4개월만에, 대통령 항복…거리에는 환호성(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빈 살만 만남 앞둔 바이든 “이란 핵개발 막는 최후 수단은 무력” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,11 +47,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000827509?sid=101" class="nclicks(rig.secteco)" title="[단독] 신동빈, 박형준 부산시장에 “67층 롯데타워 건립·사직야구장 재건축 차질없이 진행”">[단독] 신동빈, 박형준 부산시장에 “67층 롯데타워 건립·사직야구장 재건축 차질없이 진행”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 최강 전비 현대차 아이오닉6, 충전 한 번에 524㎞ 달린다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287420?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287420?sid=101"/>
-        <updated>2022-07-14T20:18:53.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287420?sid=101" class="nclicks(rig.secteco)" title="세계 최강 전비 현대차 아이오닉6, 충전 한 번에 524㎞ 달린다">세계 최강 전비 현대차 아이오닉6, 충전 한 번에 524㎞ 달린다</a>]]></content>
+        <title type="html"><![CDATA[현대차의 전기차 승부수…2조짜리 공장 짓고, 年 판매 180만대까지 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004771174?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004771174?sid=101"/>
+        <updated>2022-07-14T21:16:12.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004771174?sid=101" class="nclicks(rig.secteco)" title="현대차의 전기차 승부수…2조짜리 공장 짓고, 年 판매 180만대까지">현대차의 전기차 승부수…2조짜리 공장 짓고, 年 판매 180만대까지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김경배 HMM 사장, ‘15조’ 통큰 투자 나선다(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,11 +61,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005267436?sid=101" class="nclicks(rig.secteco)" title="김경배 HMM 사장, ‘15조’ 통큰 투자 나선다(종합)">김경배 HMM 사장, ‘15조’ 통큰 투자 나선다(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002128578?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002128578?sid=105"/>
-        <updated>2022-07-14T20:18:53.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002128578?sid=105" class="nclicks(rig.secteco)" title="[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다">[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다</a>]]></content>
+        <title type="html"><![CDATA[[티빙·시즌 합병]독자생존→연합전선…OTT 시장판세 바뀐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011306048?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011306048?sid=105"/>
+        <updated>2022-07-14T21:16:12.314Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011306048?sid=105" class="nclicks(rig.secteco)" title="[티빙·시즌 합병]독자생존→연합전선…OTT 시장판세 바뀐다">[티빙·시즌 합병]독자생존→연합전선…OTT 시장판세 바뀐다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 과기정통부, 통신사 요금제 심사 31년간 반려 단 1건 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,25 +75,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000827605?sid=105" class="nclicks(rig.secteco)" title="[단독] 과기정통부, 통신사 요금제 심사 31년간 반려 단 1건">[단독] 과기정통부, 통신사 요금제 심사 31년간 반려 단 1건</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BA.5 급확산에 '켄타우로스'까지…쌍끌이 유행 현실화되나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003664463?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003664463?sid=102"/>
-        <updated>2022-07-14T20:18:53.001Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003664463?sid=102" class="nclicks(rig.secteco)" title="BA.5 급확산에 '켄타우로스'까지…쌍끌이 유행 현실화되나">BA.5 급확산에 '켄타우로스'까지…쌍끌이 유행 현실화되나</a>]]></content>
+        <title type="html"><![CDATA[전파력 가장 세지만 대부분 경증… ‘켄타우루스’ 치명률이 관건 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003715395?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003715395?sid=102"/>
+        <updated>2022-07-14T21:16:12.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003715395?sid=102" class="nclicks(rig.secteco)" title="전파력 가장 세지만 대부분 경증… ‘켄타우루스’ 치명률이 관건">전파력 가장 세지만 대부분 경증… ‘켄타우루스’ 치명률이 관건</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 “대우조선 하청 노조 불법 점거”… 파업 중단·대화 복귀 촉구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287376?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287376?sid=102"/>
-        <updated>2022-07-14T20:18:53.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287376?sid=102" class="nclicks(rig.secteco)" title="정부 “대우조선 하청 노조 불법 점거”… 파업 중단·대화 복귀 촉구">정부 “대우조선 하청 노조 불법 점거”… 파업 중단·대화 복귀 촉구</a>]]></content>
+        <title type="html"><![CDATA[산업은행 역할 지적한 정부…대우조선 파업 출구 찾을까[노동:판] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003664465?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003664465?sid=102"/>
+        <updated>2022-07-14T21:16:12.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003664465?sid=102" class="nclicks(rig.secteco)" title="산업은행 역할 지적한 정부…대우조선 파업 출구 찾을까[노동:판]">산업은행 역할 지적한 정부…대우조선 파업 출구 찾을까[노동:판]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹정부 첫 대법관 후보는 모두 ‘서·오·남’… 다양성도 파격도 없었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287382?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287382?sid=102"/>
-        <updated>2022-07-14T20:18:53.003Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287382?sid=102" class="nclicks(rig.secteco)" title="尹정부 첫 대법관 후보는 모두 ‘서·오·남’… 다양성도 파격도 없었다">尹정부 첫 대법관 후보는 모두 ‘서·오·남’… 다양성도 파격도 없었다</a>]]></content>
+        <title type="html"><![CDATA[다시 시험대 선 사형제..."야만적 복수" Vs "죄와 형벌 비례해야" [法ON] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003209878?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003209878?sid=102"/>
+        <updated>2022-07-14T21:16:12.336Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003209878?sid=102" class="nclicks(rig.secteco)" title="다시 시험대 선 사형제...&quot;야만적 복수&quot; Vs &quot;죄와 형벌 비례해야&quot; [法ON]">다시 시험대 선 사형제..."야만적 복수" Vs "죄와 형벌 비례해야" [法ON]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨]다시 폭염 확대..내일 동부내륙 소나기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000012373?sid=103" class="nclicks(rig.secteco)" title="[날씨]다시 폭염 확대..내일 동부내륙 소나기">[날씨]다시 폭염 확대..내일 동부내륙 소나기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000028763?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000028763?sid=103"/>
-        <updated>2022-07-14T17:26:31.354Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000028763?sid=103" class="nclicks(rig.secteco)" title="수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼">수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼</a>]]></content>
+        <title type="html"><![CDATA[부산모터쇼, 오늘부터 일반에 공개…아이오닉 6 구경부터 e스포츠 체험까지 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011306047?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011306047?sid=103"/>
+        <updated>2022-07-14T21:16:12.340Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011306047?sid=103" class="nclicks(rig.secteco)" title="부산모터쇼, 오늘부터 일반에 공개…아이오닉 6 구경부터 e스포츠 체험까지">부산모터쇼, 오늘부터 일반에 공개…아이오닉 6 구경부터 e스포츠 체험까지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
