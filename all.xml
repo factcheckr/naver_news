@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T14:15:31.343Z</updated>
+    <updated>2022-07-14T15:19:21.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[권성동 “한번 동생은 영원한 동생”… 불화설 장제원과 오늘 회동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287354?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287354?sid=100"/>
-        <updated>2022-07-14T14:15:01.914Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287354?sid=100" class="nclicks(rig.secteco)" title="권성동 “한번 동생은 영원한 동생”… 불화설 장제원과 오늘 회동">권성동 “한번 동생은 영원한 동생”… 불화설 장제원과 오늘 회동</a>]]></content>
+        <title type="html"><![CDATA[윤핵관 갈등 봉합...권성동·장제원 "우린 형제, 자주 밥 먹는 사이" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002621105?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002621105?sid=100"/>
+        <updated>2022-07-14T15:18:41.799Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002621105?sid=100" class="nclicks(rig.secteco)" title="윤핵관 갈등 봉합...권성동·장제원 &quot;우린 형제, 자주 밥 먹는 사이&quot;">윤핵관 갈등 봉합...권성동·장제원 "우린 형제, 자주 밥 먹는 사이"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여야, 院구성 합의 또 불발…9부 능선서 '과방위' 뇌관(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013312460?sid=100" class="nclicks(rig.secteco)" title="여야, 院구성 합의 또 불발…9부 능선서 '과방위' 뇌관(종합2보)">여야, 院구성 합의 또 불발…9부 능선서 '과방위' 뇌관(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[취약층 살리기, 부채는 상환 유예에서 경감으로 변경 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000766703?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000766703?sid=100"/>
-        <updated>2022-07-14T14:15:01.914Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000766703?sid=100" class="nclicks(rig.secteco)" title="취약층 살리기, 부채는 상환 유예에서 경감으로 변경">취약층 살리기, 부채는 상환 유예에서 경감으로 변경</a>]]></content>
+        <title type="html"><![CDATA[자영업 제2금융권 빚…은행권 금리로 전환 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003209802?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003209802?sid=100"/>
+        <updated>2022-07-14T15:18:41.801Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003209802?sid=100" class="nclicks(rig.secteco)" title="자영업 제2금융권 빚…은행권 금리로 전환">자영업 제2금융권 빚…은행권 금리로 전환</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령, 결국 사임 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003287358?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003287358?sid=104"/>
+        <updated>2022-07-14T15:18:41.805Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287358?sid=104" class="nclicks(rig.secteco)" title="[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령, 결국 사임">[속보] ‘국가 부도’ 도망간 스리랑카 고타바야 대통령, 결국 사임</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아베 장례식, 올가을 국장으로 거행…“일본 부흥 주도했기 때문” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,13 +40,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001540071?sid=104" class="nclicks(rig.secteco)" title="아베 장례식, 올가을 국장으로 거행…“일본 부흥 주도했기 때문”">아베 장례식, 올가을 국장으로 거행…“일본 부흥 주도했기 때문”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[스리랑카 르포] 점거 푼 시위대…"우리도 평범한 직장인일 뿐" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013312452?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013312452?sid=104"/>
-        <updated>2022-07-14T14:15:01.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013312452?sid=104" class="nclicks(rig.secteco)" title="[스리랑카 르포] 점거 푼 시위대…&quot;우리도 평범한 직장인일 뿐&quot;">[스리랑카 르포] 점거 푼 시위대…"우리도 평범한 직장인일 뿐"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 신동빈, 박형준 부산시장에 “67층 롯데타워 건립·사직야구장 재건축 차질없이 진행” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000827509?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/366/0000827509?sid=101"/>
@@ -47,11 +47,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000827509?sid=101" class="nclicks(rig.secteco)" title="[단독] 신동빈, 박형준 부산시장에 “67층 롯데타워 건립·사직야구장 재건축 차질없이 진행”">[단독] 신동빈, 박형준 부산시장에 “67층 롯데타워 건립·사직야구장 재건축 차질없이 진행”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베일 벗은 ‘아이오닉6’…미래를 싣고 왔다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003159935?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003159935?sid=101"/>
-        <updated>2022-07-14T13:39:57.684Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003159935?sid=101" class="nclicks(rig.secteco)" title="베일 벗은 ‘아이오닉6’…미래를 싣고 왔다">베일 벗은 ‘아이오닉6’…미래를 싣고 왔다</a>]]></content>
+        <title type="html"><![CDATA[현대차, 2022 부산 국제모터쇼서 ‘아이오닉 6’ 최초 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002128670?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002128670?sid=101"/>
+        <updated>2022-07-14T15:18:41.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002128670?sid=101" class="nclicks(rig.secteco)" title="현대차, 2022 부산 국제모터쇼서 ‘아이오닉 6’ 최초 공개">현대차, 2022 부산 국제모터쇼서 ‘아이오닉 6’ 최초 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물적분할 자회사 상장시 모회사 주주 '신주 우선배정' 찬반 맞서 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,11 +61,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006218736?sid=101" class="nclicks(rig.secteco)" title="물적분할 자회사 상장시 모회사 주주 '신주 우선배정' 찬반 맞서">물적분할 자회사 상장시 모회사 주주 '신주 우선배정' 찬반 맞서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[티빙·시즌 합병]①알고보면 알짜배기? '콘텐츠 인프라'가 강점 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000039778?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000039778?sid=105"/>
-        <updated>2022-07-14T14:15:01.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039778?sid=105" class="nclicks(rig.secteco)" title="[티빙·시즌 합병]①알고보면 알짜배기? '콘텐츠 인프라'가 강점">[티빙·시즌 합병]①알고보면 알짜배기? '콘텐츠 인프라'가 강점</a>]]></content>
+        <title type="html"><![CDATA[[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002128578?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002128578?sid=105"/>
+        <updated>2022-07-14T15:18:41.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002128578?sid=105" class="nclicks(rig.secteco)" title="[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다">[단독] 박보균 문체부 장관, 8월초 OTT업계 만난다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개인정보 유출한 공무원, 1번만 걸려도 파면·해임 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003159912?sid=105" class="nclicks(rig.secteco)" title="개인정보 유출한 공무원, 1번만 걸려도 파면·해임">개인정보 유출한 공무원, 1번만 걸려도 파면·해임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘켄타우로스’ 지역 감염 시작된 듯... 해외 안 나갔던 60대 첫 확진 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003703831?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003703831?sid=102"/>
-        <updated>2022-07-14T13:39:57.704Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703831?sid=102" class="nclicks(rig.secteco)" title="‘켄타우로스’ 지역 감염 시작된 듯... 해외 안 나갔던 60대 첫 확진">‘켄타우로스’ 지역 감염 시작된 듯... 해외 안 나갔던 60대 첫 확진</a>]]></content>
+        <title type="html"><![CDATA[더 센 ‘켄타우로스’ 상륙, 해외 간 적 없는 60대 첫 감염 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003209801?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003209801?sid=102"/>
+        <updated>2022-07-14T15:18:41.827Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003209801?sid=102" class="nclicks(rig.secteco)" title="더 센 ‘켄타우로스’ 상륙, 해외 간 적 없는 60대 첫 감염">더 센 ‘켄타우로스’ 상륙, 해외 간 적 없는 60대 첫 감염</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["소화기 얼굴에 쏘고 에어컨도 끊어".. 단식 돌입한 대우조선 하청노동자들 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000551223?sid=103" class="nclicks(rig.secteco)" title="[생활날씨] 내일 무더위·내륙 소나기…경남 남해안 폭풍해일주의보">[생활날씨] 내일 무더위·내륙 소나기…경남 남해안 폭풍해일주의보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000028763?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000028763?sid=103"/>
-        <updated>2022-07-14T09:16:44.244Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000028763?sid=103" class="nclicks(rig.secteco)" title="수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼">수십억 쓰는 가치 있다 vs 없다…바짝 쪼그라든 부산모터쇼</a>]]></content>
+        <title type="html"><![CDATA[범종교계 '사형제 폐지' 공동 의견서 제출 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006218827?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006218827?sid=103"/>
+        <updated>2022-07-14T15:18:41.836Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006218827?sid=103" class="nclicks(rig.secteco)" title="범종교계 '사형제 폐지' 공동 의견서 제출">범종교계 '사형제 폐지' 공동 의견서 제출</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
