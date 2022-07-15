@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-15T18:21:32.725Z</updated>
+    <updated>2022-07-15T19:13:18.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002360006?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;불공정 사적 채용 없다, 대선 승리 공헌자들&quot;">대통령실 "불공정 사적 채용 없다, 대선 승리 공헌자들"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK] "계산은? 당연히 형이" 권성동·장제원… '윤핵관 불화설 진화']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006220166?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006220166?sid=100"/>
-        <updated>2022-07-15T17:25:02.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006220166?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK] &quot;계산은? 당연히 형이&quot; 권성동·장제원… '윤핵관 불화설 진화'">[뉴스1 PICK] "계산은? 당연히 형이" 권성동·장제원… '윤핵관 불화설 진화'</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]尹의 경제고문 변양균 "새 정부 정책, 기본에 충실… 판단하기 이르다"]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005118185?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/277/0005118185?sid=100"/>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005118185?sid=100" class="nclicks(rig.secteco)" title="[단독]尹의 경제고문 변양균 &quot;새 정부 정책, 기본에 충실… 판단하기 이르다&quot;">[단독]尹의 경제고문 변양균 "새 정부 정책, 기본에 충실… 판단하기 이르다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[G2 경제 동반침체 경보]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003440315?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003440315?sid=104"/>
-        <updated>2022-07-15T18:21:02.527Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440315?sid=104" class="nclicks(rig.secteco)" title="G2 경제 동반침체 경보">G2 경제 동반침체 경보</a>]]></content>
+        <title type="html"><![CDATA[권성동·장제원 “尹정부가 성공해야 당도 살아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704141?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704141?sid=100"/>
+        <updated>2022-07-15T19:12:49.439Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704141?sid=100" class="nclicks(rig.secteco)" title="권성동·장제원 “尹정부가 성공해야 당도 살아”">권성동·장제원 “尹정부가 성공해야 당도 살아”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러군, 빈니차 민간인 공격 대규모 살상…우크라, 헤르손 44개 마을 탈환(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011306794?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011306794?sid=104"/>
-        <updated>2022-07-15T15:18:16.844Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011306794?sid=104" class="nclicks(rig.secteco)" title="러군, 빈니차 민간인 공격 대규모 살상…우크라, 헤르손 44개 마을 탈환(종합)">러군, 빈니차 민간인 공격 대규모 살상…우크라, 헤르손 44개 마을 탈환(종합)</a>]]></content>
+        <title type="html"><![CDATA[中성장률 석달새 4.8%→0.4%… 韓 대중무역 석달 연속 적자 위기]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704135?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704135?sid=104"/>
+        <updated>2022-07-15T19:12:49.440Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704135?sid=104" class="nclicks(rig.secteco)" title="中성장률 석달새 4.8%→0.4%… 韓 대중무역 석달 연속 적자 위기">中성장률 석달새 4.8%→0.4%… 韓 대중무역 석달 연속 적자 위기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든, 사우디 도착…빈살만과 '주먹 인사']]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013314788?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013314788?sid=104"/>
+        <updated>2022-07-15T19:12:49.442Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013314788?sid=104" class="nclicks(rig.secteco)" title="바이든, 사우디 도착…빈살만과 '주먹 인사'">바이든, 사우디 도착…빈살만과 '주먹 인사'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 빅스텝에도… 환율 급등 1326원]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005268680?sid=101" class="nclicks(rig.secteco)" title="“주담대 연이자 240만원 더”…2.38% 충격의 코픽스(종합)">“주담대 연이자 240만원 더”…2.38% 충격의 코픽스(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 집값 2년10개월만에 하락 전환…아파트값 낙폭 2배로 확대]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013313605?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013313605?sid=101"/>
-        <updated>2022-07-15T18:21:02.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013313605?sid=101" class="nclicks(rig.secteco)" title="전국 집값 2년10개월만에 하락 전환…아파트값 낙폭 2배로 확대">전국 집값 2년10개월만에 하락 전환…아파트값 낙폭 2배로 확대</a>]]></content>
+        <title type="html"><![CDATA[대우조선 파업저지, 청년 사원들이 앞장섰다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704124?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704124?sid=101"/>
+        <updated>2022-07-15T19:12:49.446Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704124?sid=101" class="nclicks(rig.secteco)" title="대우조선 파업저지, 청년 사원들이 앞장섰다">대우조선 파업저지, 청년 사원들이 앞장섰다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[과기부, 韓 기업들 글로벌 기술패권 선점 위해 밀착 지원사격(종합)]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/050/0000061424?sid=105" class="nclicks(rig.secteco)" title="[FuturePlay's SIGNAL] 로블록스가 ‘메타버스’가 될 수 없는 이유">[FuturePlay's SIGNAL] 로블록스가 ‘메타버스’가 될 수 없는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여대생 캠퍼스서 추락사… ‘성폭행 혐의’ 동급생 체포]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003440351?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003440351?sid=102"/>
-        <updated>2022-07-15T18:21:02.537Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440351?sid=102" class="nclicks(rig.secteco)" title="여대생 캠퍼스서 추락사… ‘성폭행 혐의’ 동급생 체포">여대생 캠퍼스서 추락사… ‘성폭행 혐의’ 동급생 체포</a>]]></content>
+        <title type="html"><![CDATA[행안부 경찰국 31년 만에 부활… 총경 이상 인사업무 맡아]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704125?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704125?sid=102"/>
+        <updated>2022-07-15T19:12:49.451Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704125?sid=102" class="nclicks(rig.secteco)" title="행안부 경찰국 31년 만에 부활… 총경 이상 인사업무 맡아">행안부 경찰국 31년 만에 부활… 총경 이상 인사업무 맡아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰국 내달2일 출범… 이상민 “수사관여 없다” 경찰 “통제 부활”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003440355?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003440355?sid=102"/>
-        <updated>2022-07-15T18:21:02.541Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440355?sid=102" class="nclicks(rig.secteco)" title="경찰국 내달2일 출범… 이상민 “수사관여 없다” 경찰 “통제 부활”">경찰국 내달2일 출범… 이상민 “수사관여 없다” 경찰 “통제 부활”</a>]]></content>
+        <title type="html"><![CDATA[인하대생 교내서 사망…같은 학교 1학년생 피의자 조사(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013314227?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013314227?sid=102"/>
+        <updated>2022-07-15T19:12:49.453Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013314227?sid=102" class="nclicks(rig.secteco)" title="인하대생 교내서 사망…같은 학교 1학년생 피의자 조사(종합)">인하대생 교내서 사망…같은 학교 1학년생 피의자 조사(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]국정원, 서훈-김영철 ‘남북 핫라인’ 집중조사… 檢, 박지원 출금]]></title>
