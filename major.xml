@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-15T01:47:46.003Z</updated>
+    <updated>2022-07-15T03:55:49.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['출마 강행' 박지현 "후보등록 막을 명분 없다, 내로남불 깰 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002359967?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002359967?sid=100"/>
+        <updated>2022-07-15T03:55:21.668Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002359967?sid=100" class="nclicks(rig.secteco)" title="'출마 강행' 박지현 &quot;후보등록 막을 명분 없다, 내로남불 깰 것&quot;">'출마 강행' 박지현 "후보등록 막을 명분 없다, 내로남불 깰 것"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]尹의 경제고문 변양균 "새 정부 정책, 기본에 충실… 판단하기 이르다"]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005118185?sid=100</id>
@@ -13,53 +20,53 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005118185?sid=100" class="nclicks(rig.secteco)" title="[단독]尹의 경제고문 변양균 &quot;새 정부 정책, 기본에 충실… 판단하기 이르다&quot;">[단독]尹의 경제고문 변양균 "새 정부 정책, 기본에 충실… 판단하기 이르다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 "금융리스크 확산속도 빨라…선제적 조치 필요"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006219235?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006219235?sid=100"/>
-        <updated>2022-07-15T01:47:17.625Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006219235?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;금융리스크 확산속도 빨라…선제적 조치 필요&quot;(종합)">尹대통령 "금융리스크 확산속도 빨라…선제적 조치 필요"(종합)</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 국정지지율 32%, 박근혜보다 10배 빠른 하락속도]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002359958?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002359958?sid=100"/>
+        <updated>2022-07-15T03:55:21.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002359958?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 국정지지율 32%, 박근혜보다 10배 빠른 하락속도">윤 대통령 국정지지율 32%, 박근혜보다 10배 빠른 하락속도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박지현, 당대표 출마 선언 “반드시 조국의 강 건널 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003703971?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003703971?sid=100"/>
-        <updated>2022-07-15T01:47:17.627Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003703971?sid=100" class="nclicks(rig.secteco)" title="박지현, 당대표 출마 선언 “반드시 조국의 강 건널 것”">박지현, 당대표 출마 선언 “반드시 조국의 강 건널 것”</a>]]></content>
+        <title type="html"><![CDATA[中 2분기 성장률 0.4%…상하이봉쇄 직격에 우한사태 후 최저(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013313434?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013313434?sid=104"/>
+        <updated>2022-07-15T03:55:21.677Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013313434?sid=104" class="nclicks(rig.secteco)" title="中 2분기 성장률 0.4%…상하이봉쇄 직격에 우한사태 후 최저(종합2보)">中 2분기 성장률 0.4%…상하이봉쇄 직격에 우한사태 후 최저(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트럼프 첫 부인 '이바나' 숨진 채 발견…"생모 잃은 이방카 충격"]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004991830?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004991830?sid=104"/>
-        <updated>2022-07-15T01:47:17.629Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004991830?sid=104" class="nclicks(rig.secteco)" title="트럼프 첫 부인 '이바나' 숨진 채 발견…&quot;생모 잃은 이방카 충격&quot;">트럼프 첫 부인 '이바나' 숨진 채 발견…"생모 잃은 이방카 충격"</a>]]></content>
+        <title type="html"><![CDATA[[영상] 우크라 서부 도심에 러 미사일 공격…민간인 최소 23명 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013313419?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013313419?sid=104"/>
+        <updated>2022-07-15T03:55:21.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013313419?sid=104" class="nclicks(rig.secteco)" title="[영상] 우크라 서부 도심에 러 미사일 공격…민간인 최소 23명 사망">[영상] 우크라 서부 도심에 러 미사일 공격…민간인 최소 23명 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연정 ‘내홍’에 伊 총리 결국 사의… 대통령은 즉각 ‘반려’ ?]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004076596?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004076596?sid=104"/>
-        <updated>2022-07-15T01:47:17.630Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004076596?sid=104" class="nclicks(rig.secteco)" title="연정 ‘내홍’에 伊 총리 결국 사의… 대통령은 즉각 ‘반려’ ?">연정 ‘내홍’에 伊 총리 결국 사의… 대통령은 즉각 ‘반려’ ?</a>]]></content>
+        <title type="html"><![CDATA[원-달러 환율, 13년 2개월 만에 장중 1,320원 돌파]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001764468?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001764468?sid=101"/>
+        <updated>2022-07-15T03:55:21.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001764468?sid=101" class="nclicks(rig.secteco)" title="원-달러 환율, 13년 2개월 만에 장중 1,320원 돌파">원-달러 환율, 13년 2개월 만에 장중 1,320원 돌파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["불법파업 중단하라"…대우조선 정상화 위해 임직원·시민 5천명 뭉쳤다]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011306413?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011306413?sid=101"/>
-        <updated>2022-07-15T01:47:17.632Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011306413?sid=101" class="nclicks(rig.secteco)" title="&quot;불법파업 중단하라&quot;…대우조선 정상화 위해 임직원·시민 5천명 뭉쳤다">"불법파업 중단하라"…대우조선 정상화 위해 임직원·시민 5천명 뭉쳤다</a>]]></content>
+        <title type="html"><![CDATA[금감원장 '관치금융 논란'에 "시장활력이 가장 우선적 가치"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006219906?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006219906?sid=101"/>
+        <updated>2022-07-15T03:55:21.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006219906?sid=101" class="nclicks(rig.secteco)" title="금감원장 '관치금융 논란'에 &quot;시장활력이 가장 우선적 가치&quot;(종합)">금감원장 '관치금융 논란'에 "시장활력이 가장 우선적 가치"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원/달러 환율 1320원 뚫었다… 물가쇼크에 1350원 가나]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000832811?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000832811?sid=101"/>
-        <updated>2022-07-15T01:47:17.633Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000832811?sid=101" class="nclicks(rig.secteco)" title="원/달러 환율 1320원 뚫었다… 물가쇼크에 1350원 가나">원/달러 환율 1320원 뚫었다… 물가쇼크에 1350원 가나</a>]]></content>
+        <title type="html"><![CDATA[이창양 장관, 文정부 작심 비판…"전략적 지원 부족했다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004724546?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004724546?sid=101"/>
+        <updated>2022-07-15T03:55:21.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004724546?sid=101" class="nclicks(rig.secteco)" title="이창양 장관, 文정부 작심 비판…&quot;전략적 지원 부족했다&quot;">이창양 장관, 文정부 작심 비판…"전략적 지원 부족했다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고유가에 6월 수입물가지수 0.5%↑…2개월 연속 올라(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005118236?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005118236?sid=101"/>
-        <updated>2022-07-15T01:47:17.634Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005118236?sid=101" class="nclicks(rig.secteco)" title="고유가에 6월 수입물가지수 0.5%↑…2개월 연속 올라(종합)">고유가에 6월 수입물가지수 0.5%↑…2개월 연속 올라(종합)</a>]]></content>
+        <title type="html"><![CDATA[5G 주파수 열세 만회한 LGU+…투자 속도전 나서나(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011306693?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011306693?sid=105"/>
+        <updated>2022-07-15T03:55:21.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011306693?sid=105" class="nclicks(rig.secteco)" title="5G 주파수 열세 만회한 LGU+…투자 속도전 나서나(종합)">5G 주파수 열세 만회한 LGU+…투자 속도전 나서나(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 박은빈 덕에 날았다…하락장서도 잘나가는 종목]]></title>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004724510?sid=105" class="nclicks(rig.secteco)" title="'우영우' 박은빈 덕에 날았다…하락장서도 잘나가는 종목">'우영우' 박은빈 덕에 날았다…하락장서도 잘나가는 종목</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LGU+ 3.40∼3.42㎓ 주파수 1천521억원에 할당(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013312990?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013312990?sid=105"/>
-        <updated>2022-07-15T01:47:17.637Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013312990?sid=105" class="nclicks(rig.secteco)" title="LGU+ 3.40∼3.42㎓ 주파수 1천521억원에 할당(종합)">LGU+ 3.40∼3.42㎓ 주파수 1천521억원에 할당(종합)</a>]]></content>
+        <title type="html"><![CDATA[행안부 '경찰국' 8월 2일 출범…사실상 장관 직속(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013313474?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013313474?sid=102"/>
+        <updated>2022-07-15T03:55:21.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013313474?sid=102" class="nclicks(rig.secteco)" title="행안부 '경찰국' 8월 2일 출범…사실상 장관 직속(종합)">행안부 '경찰국' 8월 2일 출범…사실상 장관 직속(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['코로나 최악 변이' 켄타우로스 전파력 얼마나 세길래]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000686257?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000686257?sid=102"/>
-        <updated>2022-07-15T01:47:17.638Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000686257?sid=102" class="nclicks(rig.secteco)" title="'코로나 최악 변이' 켄타우로스 전파력 얼마나 세길래">'코로나 최악 변이' 켄타우로스 전파력 얼마나 세길래</a>]]></content>
+        <title type="html"><![CDATA[‘켄타우로스 변이’ 국내 첫 확인…BA.5 보다 세다]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000230418?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000230418?sid=102"/>
+        <updated>2022-07-15T03:55:21.682Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000230418?sid=102" class="nclicks(rig.secteco)" title="‘켄타우로스 변이’ 국내 첫 확인…BA.5 보다 세다">‘켄타우로스 변이’ 국내 첫 확인…BA.5 보다 세다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3만8882명 확진, 12일째 더블링…공항 검역·관광지 방역 강화(종합)]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006219259?sid=102" class="nclicks(rig.secteco)" title="3만8882명 확진, 12일째 더블링…공항 검역·관광지 방역 강화(종합)">3만8882명 확진, 12일째 더블링…공항 검역·관광지 방역 강화(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“사형제 위헌 나면 미집행자들 풀려나나요?” 재판정 정적]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011302579?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011302579?sid=102"/>
-        <updated>2022-07-15T01:47:17.641Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011302579?sid=102" class="nclicks(rig.secteco)" title="“사형제 위헌 나면 미집행자들 풀려나나요?” 재판정 정적">“사형제 위헌 나면 미집행자들 풀려나나요?” 재판정 정적</a>]]></content>
+        <title type="html"><![CDATA[아이오닉5 살까 6 살까…현대차, 연식변경 아이오닉5 출시]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004724544?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004724544?sid=103"/>
+        <updated>2022-07-15T03:55:21.685Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004724544?sid=103" class="nclicks(rig.secteco)" title="아이오닉5 살까 6 살까…현대차, 연식변경 아이오닉5 출시">아이오닉5 살까 6 살까…현대차, 연식변경 아이오닉5 출시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년형 아이오닉5 출시…롱레인지 배터리 '72.6→77.4kWh']]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000161052?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000161052?sid=103"/>
-        <updated>2022-07-15T01:47:17.643Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000161052?sid=103" class="nclicks(rig.secteco)" title="2023년형 아이오닉5 출시…롱레인지 배터리 '72.6→77.4kWh'">2023년형 아이오닉5 출시…롱레인지 배터리 '72.6→77.4kWh'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내일날씨] 전국 소나기 속 무더위는 계속…최대 60㎜]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006219107?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006219107?sid=103"/>
-        <updated>2022-07-15T01:47:17.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006219107?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 전국 소나기 속 무더위는 계속…최대 60㎜">[내일날씨] 전국 소나기 속 무더위는 계속…최대 60㎜</a>]]></content>
+        <title type="html"><![CDATA["토레스야 고맙다!" 쌍용차 부활 '신호탄', 하반기 생산 2배↑·1호차 전달]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004867798?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004867798?sid=103"/>
+        <updated>2022-07-15T03:55:21.686Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004867798?sid=103" class="nclicks(rig.secteco)" title="&quot;토레스야 고맙다!&quot; 쌍용차 부활 '신호탄', 하반기 생산 2배↑·1호차 전달">"토레스야 고맙다!" 쌍용차 부활 '신호탄', 하반기 생산 2배↑·1호차 전달</a>]]></content>
     </entry>
 </feed>
