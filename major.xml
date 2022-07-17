@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-17T19:14:49.845Z</updated>
+    <updated>2022-07-17T20:16:49.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대통령실, ‘북송어민 희대 살인마’ 정의용 겨냥 “궤변, 조사 응하라”(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003287775?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003287775?sid=100"/>
-        <updated>2022-07-17T19:14:15.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287775?sid=100" class="nclicks(rig.secteco)" title="대통령실, ‘북송어민 희대 살인마’ 정의용 겨냥 “궤변, 조사 응하라”(종합)">대통령실, ‘북송어민 희대 살인마’ 정의용 겨냥 “궤변, 조사 응하라”(종합)</a>]]></content>
+        <title type="html"><![CDATA['탈북어민 북송'에 강대강 대치…'신구권력' 또 정면충돌]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003665095?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003665095?sid=100"/>
+        <updated>2022-07-17T20:16:21.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003665095?sid=100" class="nclicks(rig.secteco)" title="'탈북어민 북송'에 강대강 대치…'신구권력' 또 정면충돌">'탈북어민 북송'에 강대강 대치…'신구권력' 또 정면충돌</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘4억 미만’ 주택대출 변동→고정 시행…통화스와프, 미·일과 추진(종합)]]></title>
@@ -20,32 +20,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000828068?sid=100" class="nclicks(rig.secteco)" title="‘4억 미만’ 주택대출 변동→고정 시행…통화스와프, 미·일과 추진(종합)">‘4억 미만’ 주택대출 변동→고정 시행…통화스와프, 미·일과 추진(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李, 출마하며 “고발당하면 사법리스크냐”… 97그룹과 당권경쟁]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003440462?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003440462?sid=100"/>
-        <updated>2022-07-17T18:17:55.704Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440462?sid=100" class="nclicks(rig.secteco)" title="李, 출마하며 “고발당하면 사법리스크냐”… 97그룹과 당권경쟁">李, 출마하며 “고발당하면 사법리스크냐”… 97그룹과 당권경쟁</a>]]></content>
+        <title type="html"><![CDATA['文 모델' 택한 이재명, 당권 출사표 "차기 총선 승리…공천 학살 없다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002621680?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002621680?sid=100"/>
+        <updated>2022-07-17T20:16:21.688Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002621680?sid=100" class="nclicks(rig.secteco)" title="'文 모델' 택한 이재명, 당권 출사표 &quot;차기 총선 승리…공천 학살 없다&quot;">'文 모델' 택한 이재명, 당권 출사표 "차기 총선 승리…공천 학살 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“석유 증산 약속 실패”… 바이든, 빈손으로 끝난 첫 중동 순방]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001540557?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001540557?sid=104"/>
-        <updated>2022-07-17T19:14:15.899Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001540557?sid=104" class="nclicks(rig.secteco)" title="“석유 증산 약속 실패”… 바이든, 빈손으로 끝난 첫 중동 순방">“석유 증산 약속 실패”… 바이든, 빈손으로 끝난 첫 중동 순방</a>]]></content>
+        <title type="html"><![CDATA[사우디 간 바이든 ‘주먹 인사’… 원유 문제 해결 못하고 빈주먹 귀국]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003287846?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003287846?sid=104"/>
+        <updated>2022-07-17T20:16:21.689Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287846?sid=104" class="nclicks(rig.secteco)" title="사우디 간 바이든 ‘주먹 인사’… 원유 문제 해결 못하고 빈주먹 귀국">사우디 간 바이든 ‘주먹 인사’… 원유 문제 해결 못하고 빈주먹 귀국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최고 45.7도 살인 더위에 도미노 산불… ‘용광로’ 같은 유럽]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001540560?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001540560?sid=104"/>
-        <updated>2022-07-17T19:14:15.911Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001540560?sid=104" class="nclicks(rig.secteco)" title="최고 45.7도 살인 더위에 도미노 산불… ‘용광로’ 같은 유럽">최고 45.7도 살인 더위에 도미노 산불… ‘용광로’ 같은 유럽</a>]]></content>
+        <title type="html"><![CDATA["대중교통 이용 자제하라"…45.7도 '상상초월 폭염'에 불타는 유럽]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004077113?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004077113?sid=104"/>
+        <updated>2022-07-17T20:16:21.689Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004077113?sid=104" class="nclicks(rig.secteco)" title="&quot;대중교통 이용 자제하라&quot;…45.7도 '상상초월 폭염'에 불타는 유럽">"대중교통 이용 자제하라"…45.7도 '상상초월 폭염'에 불타는 유럽</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여행자 휴대품 면세한도 800달러로 올린다]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001540558?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001540558?sid=101"/>
-        <updated>2022-07-17T19:14:15.911Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001540558?sid=101" class="nclicks(rig.secteco)" title="여행자 휴대품 면세한도 800달러로 올린다">여행자 휴대품 면세한도 800달러로 올린다</a>]]></content>
+        <title type="html"><![CDATA[여행자 면세 한도 600→800달러 상향… 관광업 살리기 나선 정부]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003287829?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003287829?sid=101"/>
+        <updated>2022-07-17T20:16:21.691Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003287829?sid=101" class="nclicks(rig.secteco)" title="여행자 면세 한도 600→800달러 상향… 관광업 살리기 나선 정부">여행자 면세 한도 600→800달러 상향… 관광업 살리기 나선 정부</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대우조선 협력업체 ‘눈물의 줄폐업’]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704348?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704348?sid=101"/>
+        <updated>2022-07-17T20:16:21.691Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704348?sid=101" class="nclicks(rig.secteco)" title="대우조선 협력업체 ‘눈물의 줄폐업’">대우조선 협력업체 ‘눈물의 줄폐업’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행권 '알아서 90% 이상 금융지원 연장' 정부 지침에 '대 혼돈']]></title>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013315647?sid=101" class="nclicks(rig.secteco)" title="은행권 '알아서 90% 이상 금융지원 연장' 정부 지침에 '대 혼돈'">은행권 '알아서 90% 이상 금융지원 연장' 정부 지침에 '대 혼돈'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]둔촌주공 재건축 조합장 갑작스런 사퇴…이유는?(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005270155?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005270155?sid=101"/>
-        <updated>2022-07-17T16:20:11.976Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005270155?sid=101" class="nclicks(rig.secteco)" title="[단독]둔촌주공 재건축 조합장 갑작스런 사퇴…이유는?(종합)">[단독]둔촌주공 재건축 조합장 갑작스런 사퇴…이유는?(종합)</a>]]></content>
+        <title type="html"><![CDATA[한국대표단, 제63회 국제수학올림피아드에서 국가 종합 2위 차지]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005269559?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005269559?sid=105"/>
+        <updated>2022-07-17T20:16:21.696Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005269559?sid=105" class="nclicks(rig.secteco)" title="한국대표단, 제63회 국제수학올림피아드에서 국가 종합 2위 차지">한국대표단, 제63회 국제수학올림피아드에서 국가 종합 2위 차지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오 '깜짝' 대표 된 홍은택 "난 김범수 창업자 복심 아니다...ESG만 책임진다"]]></title>
@@ -69,25 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000686492?sid=105" class="nclicks(rig.secteco)" title="카카오 '깜짝' 대표 된 홍은택 &quot;난 김범수 창업자 복심 아니다...ESG만 책임진다&quot;">카카오 '깜짝' 대표 된 홍은택 "난 김범수 창업자 복심 아니다...ESG만 책임진다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘미래의 허준이’ 수학영재들, 수학올림피아드 2위]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003704362?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003704362?sid=105"/>
-        <updated>2022-07-17T19:14:15.913Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704362?sid=105" class="nclicks(rig.secteco)" title="‘미래의 허준이’ 수학영재들, 수학올림피아드 2위">‘미래의 허준이’ 수학영재들, 수학올림피아드 2위</a>]]></content>
+        <title type="html"><![CDATA[“이런 비극 더이상 없는 세상 됐으면”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003704365?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003704365?sid=102"/>
+        <updated>2022-07-17T20:16:21.700Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003704365?sid=102" class="nclicks(rig.secteco)" title="“이런 비극 더이상 없는 세상 됐으면”">“이런 비극 더이상 없는 세상 됐으면”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘인하대생 사망’ 20대 가해자 구속]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001540538?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001540538?sid=102"/>
-        <updated>2022-07-17T19:14:15.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001540538?sid=102" class="nclicks(rig.secteco)" title="‘인하대생 사망’ 20대 가해자 구속">‘인하대생 사망’ 20대 가해자 구속</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18일부터 50대 이상 4차 접종…백신 골라서 맞는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002621678?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002621678?sid=102"/>
-        <updated>2022-07-17T19:14:15.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002621678?sid=102" class="nclicks(rig.secteco)" title="18일부터 50대 이상 4차 접종…백신 골라서 맞는다">18일부터 50대 이상 4차 접종…백신 골라서 맞는다</a>]]></content>
+        <title type="html"><![CDATA[오늘부터 50대도 4차접종…당일접종·사전예약 가능]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013316926?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013316926?sid=102"/>
+        <updated>2022-07-17T20:16:21.701Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013316926?sid=102" class="nclicks(rig.secteco)" title="오늘부터 50대도 4차접종…당일접종·사전예약 가능">오늘부터 50대도 4차접종…당일접종·사전예약 가능</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[욕설 막은 지지집회…文 손흔들고 김정숙 여사 ‘손하트’]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003715904?sid=103" class="nclicks(rig.secteco)" title="19일 오전까지 장맛비…제주·남해안에 최고 150mm 국지성 호우 예상">19일 오전까지 장맛비…제주·남해안에 최고 150mm 국지성 호우 예상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 현대차가 달라졌어요[김성모 기자의 신비월드]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003440399?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003440399?sid=103"/>
-        <updated>2022-07-17T19:14:15.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003440399?sid=103" class="nclicks(rig.secteco)" title="우리 현대차가 달라졌어요[김성모 기자의 신비월드]">우리 현대차가 달라졌어요[김성모 기자의 신비월드]</a>]]></content>
+        <title type="html"><![CDATA[[CBS논평] 다음 세대 교육, 다시 생각하기 - 조주희 목사]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003665092?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003665092?sid=103"/>
+        <updated>2022-07-17T20:16:21.705Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003665092?sid=103" class="nclicks(rig.secteco)" title="[CBS논평] 다음 세대 교육, 다시 생각하기 - 조주희 목사">[CBS논평] 다음 세대 교육, 다시 생각하기 - 조주희 목사</a>]]></content>
     </entry>
 </feed>
