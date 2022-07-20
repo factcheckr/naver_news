@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-20T03:44:10.483Z</updated>
+    <updated>2022-07-20T04:39:23.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003717064?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003717064?sid=100"/>
-        <updated>2022-07-20T03:43:42.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003717064?sid=100" class="nclicks(rig.secteco)" title="“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과">“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[박홍근 "대통령 권력 사유화 반드시 대가…朴은 탄핵돼"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006229275?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006229275?sid=100"/>
         <updated>2022-07-20T03:43:42.005Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006229275?sid=100" class="nclicks(rig.secteco)" title="박홍근 &quot;대통령 권력 사유화 반드시 대가…朴은 탄핵돼&quot;(종합)">박홍근 "대통령 권력 사유화 반드시 대가…朴은 탄핵돼"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003717064?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003717064?sid=100"/>
+        <updated>2022-07-20T03:43:42.002Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003717064?sid=100" class="nclicks(rig.secteco)" title="“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과">“내가 추천” “7급 아닌 9급”… 권성동, 결국 “제 불찰” 사과</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사면에 말 아낀 윤 대통령 "일절 언급 않는 것이 원칙"…사면 대상에 이재용, 이명박 유력]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000306353?sid=100" class="nclicks(rig.secteco)" title="사면에 말 아낀 윤 대통령 &quot;일절 언급 않는 것이 원칙&quot;…사면 대상에 이재용, 이명박 유력">사면에 말 아낀 윤 대통령 "일절 언급 않는 것이 원칙"…사면 대상에 이재용, 이명박 유력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상] 한국, 미 인신매매 보고서에서 20년 만에 1→2등급 하락]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013322796?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013322796?sid=104"/>
-        <updated>2022-07-20T03:43:42.009Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013322796?sid=104" class="nclicks(rig.secteco)" title="[영상] 한국, 미 인신매매 보고서에서 20년 만에 1→2등급 하락">[영상] 한국, 미 인신매매 보고서에서 20년 만에 1→2등급 하락</a>]]></content>
+        <title type="html"><![CDATA[한국 인신매매방지 20년만에 2등급으로 하락…미 "노력 부족"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000551971?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000551971?sid=104"/>
+        <updated>2022-07-20T04:38:52.383Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000551971?sid=104" class="nclicks(rig.secteco)" title="한국 인신매매방지 20년만에 2등급으로 하락…미 &quot;노력 부족&quot;">한국 인신매매방지 20년만에 2등급으로 하락…미 "노력 부족"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[포착] 오른팔 딱 붙인 채 절뚝…푸틴의 이상한 걸음걸이 또 나와(영상)]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000834310?sid=101" class="nclicks(rig.secteco)" title="코로나19 재확산에 여름휴가 비상… 국토부, '방역강화·특별교통대책' 시행">코로나19 재확산에 여름휴가 비상… 국토부, '방역강화·특별교통대책' 시행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['토레스에 강판 제공' 포스코, 강남 사옥에 '쌍용차 토레스' 전시]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004993916?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004993916?sid=101"/>
-        <updated>2022-07-20T03:43:42.015Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004993916?sid=101" class="nclicks(rig.secteco)" title="'토레스에 강판 제공' 포스코, 강남 사옥에 '쌍용차 토레스' 전시">'토레스에 강판 제공' 포스코, 강남 사옥에 '쌍용차 토레스' 전시</a>]]></content>
+        <title type="html"><![CDATA[강남 한복판에 ‘토레스’ 떴다..시민들 눈길 확 사로잡은 외관]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005272638?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005272638?sid=101"/>
+        <updated>2022-07-20T04:38:52.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005272638?sid=101" class="nclicks(rig.secteco)" title="강남 한복판에 ‘토레스’ 떴다..시민들 눈길 확 사로잡은 외관">강남 한복판에 ‘토레스’ 떴다..시민들 눈길 확 사로잡은 외관</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["갤럭시Z4 8월 10일 공개" 삼성전자, 아이폰14 맞서 흥행 총력전 펼친다]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000687120?sid=105" class="nclicks(rig.secteco)" title="&quot;갤럭시Z4 8월 10일 공개&quot; 삼성전자, 아이폰14 맞서 흥행 총력전 펼친다">"갤럭시Z4 8월 10일 공개" 삼성전자, 아이폰14 맞서 흥행 총력전 펼친다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코웨이, 2022 MSCI ESG 평가서 'AA등급' 획득]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001043782?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001043782?sid=105"/>
-        <updated>2022-07-20T03:43:42.018Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001043782?sid=105" class="nclicks(rig.secteco)" title="코웨이, 2022 MSCI ESG 평가서 'AA등급' 획득">코웨이, 2022 MSCI ESG 평가서 'AA등급' 획득</a>]]></content>
+        <title type="html"><![CDATA[[DD탐방] 대기업도 반한 슈퍼루키 ‘PLAY4’, 메타버스에서 제대로 놀게 해줄게!]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002128965?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002128965?sid=105"/>
+        <updated>2022-07-20T04:38:52.393Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002128965?sid=105" class="nclicks(rig.secteco)" title="[DD탐방] 대기업도 반한 슈퍼루키 ‘PLAY4’, 메타버스에서 제대로 놀게 해줄게!">[DD탐방] 대기업도 반한 슈퍼루키 ‘PLAY4’, 메타버스에서 제대로 놀게 해줄게!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30만명 확진 대비…4천병상 추가확보·요양병원 접촉면회 중단(종합)]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013322841?sid=102" class="nclicks(rig.secteco)" title="30만명 확진 대비…4천병상 추가확보·요양병원 접촉면회 중단(종합)">30만명 확진 대비…4천병상 추가확보·요양병원 접촉면회 중단(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 채우면 끊기 반복… 30년 성범죄, 전자발찌는 ‘장식물’]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001541104?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001541104?sid=102"/>
-        <updated>2022-07-20T03:43:42.020Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001541104?sid=102" class="nclicks(rig.secteco)" title="[단독] 채우면 끊기 반복… 30년 성범죄, 전자발찌는 ‘장식물’">[단독] 채우면 끊기 반복… 30년 성범죄, 전자발찌는 ‘장식물’</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[신규확진 7만6402명, 이틀연속 7만명대…해외유입 역대 최다(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013322184?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013322184?sid=102"/>
         <updated>2022-07-20T03:43:42.021Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013322184?sid=102" class="nclicks(rig.secteco)" title="신규확진 7만6402명, 이틀연속 7만명대…해외유입 역대 최다(종합)">신규확진 7만6402명, 이틀연속 7만명대…해외유입 역대 최다(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주 해안도로서 렌터카 전복, 3명 사망…쏘나타엔 7명 탔다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003210940?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003210940?sid=102"/>
+        <updated>2022-07-20T04:38:52.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003210940?sid=102" class="nclicks(rig.secteco)" title="제주 해안도로서 렌터카 전복, 3명 사망…쏘나타엔 7명 탔다">제주 해안도로서 렌터카 전복, 3명 사망…쏘나타엔 7명 탔다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['우영우' 중국서 공짜로 불법 유통…"한국 최고의 드라마" 호평일색]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001678068?sid=103" class="nclicks(rig.secteco)" title="'우영우' 중국서 공짜로 불법 유통…&quot;한국 최고의 드라마&quot; 호평일색">'우영우' 중국서 공짜로 불법 유통…"한국 최고의 드라마" 호평일색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기생충·헤어질결심…'27년 韓영화 지원' 이미경 CJ부회장 에미상 수상]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004772922?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004772922?sid=103"/>
-        <updated>2022-07-20T01:24:26.183Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004772922?sid=103" class="nclicks(rig.secteco)" title="기생충·헤어질결심…'27년 韓영화 지원' 이미경 CJ부회장 에미상 수상">기생충·헤어질결심…'27년 韓영화 지원' 이미경 CJ부회장 에미상 수상</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 낮 동안 남부 중심 무더위…밤부터 전국 장맛비]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000551973?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000551973?sid=103"/>
+        <updated>2022-07-20T04:38:52.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000551973?sid=103" class="nclicks(rig.secteco)" title="[날씨] 낮 동안 남부 중심 무더위…밤부터 전국 장맛비">[날씨] 낮 동안 남부 중심 무더위…밤부터 전국 장맛비</a>]]></content>
     </entry>
 </feed>
