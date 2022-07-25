@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-25T08:22:58.426Z</updated>
+    <updated>2022-07-25T09:17:03.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003705965?sid=100" class="nclicks(rig.secteco)" title="박범계 “법무부 인사검증 법치농단” 한동훈 “그러면 文민정실도 위법”">박범계 “법무부 인사검증 법치농단” 한동훈 “그러면 文민정실도 위법”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹대통령, '여가부 폐지 로드맵' 조속마련 지시]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013333253?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013333253?sid=100"/>
+        <updated>2022-07-25T09:16:30.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013333253?sid=100" class="nclicks(rig.secteco)" title="尹대통령, '여가부 폐지 로드맵' 조속마련 지시">尹대통령, '여가부 폐지 로드맵' 조속마련 지시</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[尹 “공무원들 모두 휴가 가라”…다음 주 여름 휴가(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003289829?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003289829?sid=100"/>
@@ -20,32 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003289829?sid=100" class="nclicks(rig.secteco)" title="尹 “공무원들 모두 휴가 가라”…다음 주 여름 휴가(종합)">尹 “공무원들 모두 휴가 가라”…다음 주 여름 휴가(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한-인니 정상회담…尹 정부, '아세안 외교' 신호탄]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003668051?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003668051?sid=100"/>
-        <updated>2022-07-25T08:22:31.143Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003668051?sid=100" class="nclicks(rig.secteco)" title="한-인니 정상회담…尹 정부, '아세안 외교' 신호탄">한-인니 정상회담…尹 정부, '아세안 외교' 신호탄</a>]]></content>
+        <title type="html"><![CDATA[원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004775035?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004775035?sid=104"/>
+        <updated>2022-07-25T09:16:30.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004775035?sid=104" class="nclicks(rig.secteco)" title="원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상'">원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[못 말리는 머스크, 구글 창업자 아내와 '금사'(?)…외신 "무릎꿇고 사과" [월가월부]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004995988?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004995988?sid=104"/>
-        <updated>2022-07-25T08:22:31.145Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004995988?sid=104" class="nclicks(rig.secteco)" title="못 말리는 머스크, 구글 창업자 아내와 '금사'(?)…외신 &quot;무릎꿇고 사과&quot; [월가월부]">못 말리는 머스크, 구글 창업자 아내와 '금사'(?)…외신 "무릎꿇고 사과" [월가월부]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역당국 "코로나19 개량 백신 접종계획 다음달 말 발표"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013333120?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013333120?sid=104"/>
-        <updated>2022-07-25T08:22:31.147Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013333120?sid=104" class="nclicks(rig.secteco)" title="방역당국 &quot;코로나19 개량 백신 접종계획 다음달 말 발표&quot;">방역당국 "코로나19 개량 백신 접종계획 다음달 말 발표"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신보·기은, 코로나19 피해 소상공인에 2년간 41조원 공급]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000768081?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000768081?sid=101"/>
-        <updated>2022-07-25T08:22:31.148Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000768081?sid=101" class="nclicks(rig.secteco)" title="신보·기은, 코로나19 피해 소상공인에 2년간 41조원 공급">신보·기은, 코로나19 피해 소상공인에 2년간 41조원 공급</a>]]></content>
+        <title type="html"><![CDATA[구글과 이혼, 테슬라와는 외도설…갑부들 뒤흔든 33세 그녀]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003212092?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003212092?sid=104"/>
+        <updated>2022-07-25T09:16:30.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212092?sid=104" class="nclicks(rig.secteco)" title="구글과 이혼, 테슬라와는 외도설…갑부들 뒤흔든 33세 그녀">구글과 이혼, 테슬라와는 외도설…갑부들 뒤흔든 33세 그녀</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성, '세계최초' 3나노 반도체 출하…첨단기술로 TSMC 추격(종합)]]></title>
@@ -55,18 +48,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005123007?sid=101" class="nclicks(rig.secteco)" title="삼성, '세계최초' 3나노 반도체 출하…첨단기술로 TSMC 추격(종합)">삼성, '세계최초' 3나노 반도체 출하…첨단기술로 TSMC 추격(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['무증 테마' 경고장 날린 금감원…신진에스엠·양지사 조사 대상 오를까]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004080041?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004080041?sid=101"/>
-        <updated>2022-07-25T08:22:31.150Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004080041?sid=101" class="nclicks(rig.secteco)" title="'무증 테마' 경고장 날린 금감원…신진에스엠·양지사 조사 대상 오를까">'무증 테마' 경고장 날린 금감원…신진에스엠·양지사 조사 대상 오를까</a>]]></content>
+        <title type="html"><![CDATA[정부, ‘소상공인’ 재기 지원 나선다…41.2조 정책자금 투입]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000829565?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000829565?sid=101"/>
+        <updated>2022-07-25T09:16:30.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000829565?sid=101" class="nclicks(rig.secteco)" title="정부, ‘소상공인’ 재기 지원 나선다…41.2조 정책자금 투입">정부, ‘소상공인’ 재기 지원 나선다…41.2조 정책자금 투입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노조 "카카오모빌리티 매각 철회 때까지 싸울 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002263445?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002263445?sid=105"/>
-        <updated>2022-07-25T08:22:31.151Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002263445?sid=105" class="nclicks(rig.secteco)" title="노조 &quot;카카오모빌리티 매각 철회 때까지 싸울 것&quot;">노조 "카카오모빌리티 매각 철회 때까지 싸울 것"</a>]]></content>
+        <title type="html"><![CDATA['부자감세' 지적에…추경호 "저소득층 혜택 더 커" 반박(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011325255?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011325255?sid=101"/>
+        <updated>2022-07-25T09:16:30.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011325255?sid=101" class="nclicks(rig.secteco)" title="'부자감세' 지적에…추경호 &quot;저소득층 혜택 더 커&quot; 반박(종합)">'부자감세' 지적에…추경호 "저소득층 혜택 더 커" 반박(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류긍선 카카오모빌리티 대표 "매각 미뤄달라, 사회적 책임 방안 8월 중 제시"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005276770?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005276770?sid=105"/>
+        <updated>2022-07-25T09:16:30.171Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005276770?sid=105" class="nclicks(rig.secteco)" title="류긍선 카카오모빌리티 대표 &quot;매각 미뤄달라, 사회적 책임 방안 8월 중 제시&quot;">류긍선 카카오모빌리티 대표 "매각 미뤄달라, 사회적 책임 방안 8월 중 제시"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오, 국내 최초 ‘기술윤리위원회’ 출범…“알고리즘 투명성 강화”]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002599927?sid=105" class="nclicks(rig.secteco)" title="카카오, 국내 최초 ‘기술윤리위원회’ 출범…“알고리즘 투명성 강화”">카카오, 국내 최초 ‘기술윤리위원회’ 출범…“알고리즘 투명성 강화”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쓰레기통에 버린 쪽지, 4과목 답안 똑같네…광주 고교생 주거지 압수수색(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003289849?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003289849?sid=102"/>
-        <updated>2022-07-25T08:22:31.154Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003289849?sid=102" class="nclicks(rig.secteco)" title="쓰레기통에 버린 쪽지, 4과목 답안 똑같네…광주 고교생 주거지 압수수색(종합)">쓰레기통에 버린 쪽지, 4과목 답안 똑같네…광주 고교생 주거지 압수수색(종합)</a>]]></content>
+        <title type="html"><![CDATA[광주 고교서 기말고사 답안지 유출 의혹…경찰 압수수색까지(종합 2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006239391?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006239391?sid=102"/>
+        <updated>2022-07-25T09:16:30.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006239391?sid=102" class="nclicks(rig.secteco)" title="광주 고교서 기말고사 답안지 유출 의혹…경찰 압수수색까지(종합 2보)">광주 고교서 기말고사 답안지 유출 의혹…경찰 압수수색까지(종합 2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 20대 3차 접종자 ‘켄타우로스’ 감염 확인]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003289826?sid=102" class="nclicks(rig.secteco)" title="[속보] 20대 3차 접종자 ‘켄타우로스’ 감염 확인">[속보] 20대 3차 접종자 ‘켄타우로스’ 감염 확인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["회의하면 쿠데타냐"…경찰청 앞 근조화환에 1인 시위]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000836010?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000836010?sid=102"/>
-        <updated>2022-07-25T08:22:31.160Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000836010?sid=102" class="nclicks(rig.secteco)" title="&quot;회의하면 쿠데타냐&quot;…경찰청 앞 근조화환에 1인 시위">"회의하면 쿠데타냐"…경찰청 앞 근조화환에 1인 시위</a>]]></content>
+        <title type="html"><![CDATA[스브스레터 이브닝(7/25) : "경찰은 죽었다"…유례 없는 집단 반발]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000988294?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000988294?sid=102"/>
+        <updated>2022-07-25T09:16:30.181Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000988294?sid=102" class="nclicks(rig.secteco)" title="스브스레터 이브닝(7/25) : &quot;경찰은 죽었다&quot;…유례 없는 집단 반발">스브스레터 이브닝(7/25) : "경찰은 죽었다"…유례 없는 집단 반발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김연아-고우림 결혼, 팬들은 알고 있었다?…반려견 이름이 ‘연우’]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003442006?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003442006?sid=103"/>
-        <updated>2022-07-25T08:22:31.160Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003442006?sid=103" class="nclicks(rig.secteco)" title="김연아-고우림 결혼, 팬들은 알고 있었다?…반려견 이름이 ‘연우’">김연아-고우림 결혼, 팬들은 알고 있었다?…반려견 이름이 ‘연우’</a>]]></content>
+        <title type="html"><![CDATA[김연아 결혼에 日반응 “아사다마오 라이벌 행복하길”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003289870?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003289870?sid=103"/>
+        <updated>2022-07-25T09:16:30.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003289870?sid=103" class="nclicks(rig.secteco)" title="김연아 결혼에 日반응 “아사다마오 라이벌 행복하길”">김연아 결혼에 日반응 “아사다마오 라이벌 행복하길”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우영우가 반한 소덕동 '500살 팽나무'…진짜 천연기념물로?]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004775005?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004775005?sid=103"/>
-        <updated>2022-07-25T08:22:31.162Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004775005?sid=103" class="nclicks(rig.secteco)" title="우영우가 반한 소덕동 '500살 팽나무'…진짜 천연기념물로?">우영우가 반한 소덕동 '500살 팽나무'…진짜 천연기념물로?</a>]]></content>
+        <title type="html"><![CDATA[발레리나 박세은 "10년 동안 한국 팬에게 보여주고 싶은 춤 다 가져 왔죠"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004728680?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004728680?sid=103"/>
+        <updated>2022-07-25T09:16:30.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004728680?sid=103" class="nclicks(rig.secteco)" title="발레리나 박세은 &quot;10년 동안 한국 팬에게 보여주고 싶은 춤 다 가져 왔죠&quot;">발레리나 박세은 "10년 동안 한국 팬에게 보여주고 싶은 춤 다 가져 왔죠"</a>]]></content>
     </entry>
 </feed>
