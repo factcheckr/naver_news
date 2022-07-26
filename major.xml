@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-26T17:20:21.877Z</updated>
+    <updated>2022-07-26T18:20:48.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[권성동, 尹과의 오전 텔레그램 오후 4시에 왜? 강기훈은 누구]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004729529?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004729529?sid=100"/>
-        <updated>2022-07-26T17:19:55.129Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004729529?sid=100" class="nclicks(rig.secteco)" title="권성동, 尹과의 오전 텔레그램 오후 4시에 왜? 강기훈은 누구">권성동, 尹과의 오전 텔레그램 오후 4시에 왜? 강기훈은 누구</a>]]></content>
+        <title type="html"><![CDATA[[단독]尹 “내부 총질하던 당 대표 바뀌니 달라져”…문자 공개 파장]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003442253?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003442253?sid=100"/>
+        <updated>2022-07-26T18:20:18.187Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003442253?sid=100" class="nclicks(rig.secteco)" title="[단독]尹 “내부 총질하던 당 대표 바뀌니 달라져”…문자 공개 파장">[단독]尹 “내부 총질하던 당 대표 바뀌니 달라져”…문자 공개 파장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["탈북 어민 판문점 통과, 유엔사가 승인...북송 성격은 몰라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001769009?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001769009?sid=100"/>
+        <updated>2022-07-26T18:20:18.188Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001769009?sid=100" class="nclicks(rig.secteco)" title="&quot;탈북 어민 판문점 통과, 유엔사가 승인...북송 성격은 몰라&quot;">"탈북 어민 판문점 통과, 유엔사가 승인...북송 성격은 몰라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컷오프 D-3, '비명계' 단일화 띄우기…이재명은 '기지개']]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000307043?sid=100" class="nclicks(rig.secteco)" title="컷오프 D-3, '비명계' 단일화 띄우기…이재명은 '기지개'">컷오프 D-3, '비명계' 단일화 띄우기…이재명은 '기지개'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "경찰국, 인사·제도 개선 기대"…행안장관에 警소통 당부(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013336044?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013336044?sid=100"/>
-        <updated>2022-07-26T15:18:20.612Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013336044?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;경찰국, 인사·제도 개선 기대&quot;…행안장관에 警소통 당부(종합)">尹 "경찰국, 인사·제도 개선 기대"…행안장관에 警소통 당부(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유럽의 겨울'만 기다리는 러시아…천연가스 공급 대폭 감축]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004729156?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004729156?sid=104"/>
-        <updated>2022-07-26T17:19:55.137Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004729156?sid=104" class="nclicks(rig.secteco)" title="'유럽의 겨울'만 기다리는 러시아…천연가스 공급 대폭 감축">'유럽의 겨울'만 기다리는 러시아…천연가스 공급 대폭 감축</a>]]></content>
+        <title type="html"><![CDATA[EU, '러산 가스 소비량 15%' 감축 합의…헝가리만 '반대']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006242304?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006242304?sid=104"/>
+        <updated>2022-07-26T18:20:18.191Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006242304?sid=104" class="nclicks(rig.secteco)" title="EU, '러산 가스 소비량 15%' 감축 합의…헝가리만 '반대'">EU, '러산 가스 소비량 15%' 감축 합의…헝가리만 '반대'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상']]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004775035?sid=104" class="nclicks(rig.secteco)" title="원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상'">원숭이두창 비상사태…바이오株 투자자들도 주가 롤코에 '비상'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IMF, 한국 올 성장률 전망 2.3%로 하향…내년은 더 암울]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003212501?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003212501?sid=101"/>
-        <updated>2022-07-26T17:19:55.138Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212501?sid=101" class="nclicks(rig.secteco)" title="IMF, 한국 올 성장률 전망 2.3%로 하향…내년은 더 암울">IMF, 한국 올 성장률 전망 2.3%로 하향…내년은 더 암울</a>]]></content>
+        <title type="html"><![CDATA[IMF 세계성장률 전망 3.6→3.2%로 하향]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004873592?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004873592?sid=101"/>
+        <updated>2022-07-26T18:20:18.194Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004873592?sid=101" class="nclicks(rig.secteco)" title="IMF 세계성장률 전망 3.6→3.2%로 하향">IMF 세계성장률 전망 3.6→3.2%로 하향</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데타워보다 더 높이… 용산 ‘빌딩숲’ 들어선다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003706251?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003706251?sid=101"/>
+        <updated>2022-07-26T18:20:18.195Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003706251?sid=101" class="nclicks(rig.secteco)" title="롯데타워보다 더 높이…    용산 ‘빌딩숲’ 들어선다">롯데타워보다 더 높이… 용산 ‘빌딩숲’ 들어선다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리은행 직원 횡령 700억원 육박…금감원 "내부통제 미흡"(종합)]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013335431?sid=101" class="nclicks(rig.secteco)" title="우리은행 직원 횡령 700억원 육박…금감원 &quot;내부통제 미흡&quot;(종합)">우리은행 직원 횡령 700억원 육박…금감원 "내부통제 미흡"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[롯데타워보다 높은 빌딩…용산정비창 국제도시 만든다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003212494?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003212494?sid=101"/>
-        <updated>2022-07-26T15:18:20.615Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212494?sid=101" class="nclicks(rig.secteco)" title="롯데타워보다 높은 빌딩…용산정비창 국제도시 만든다">롯데타워보다 높은 빌딩…용산정비창 국제도시 만든다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["파업 시 서비스 불통"…네이버 계열사 노사 갈등 격화(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011326719?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011326719?sid=105"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011326719?sid=105" class="nclicks(rig.secteco)" title="&quot;파업 시 서비스 불통&quot;…네이버 계열사 노사 갈등 격화(종합)">"파업 시 서비스 불통"…네이버 계열사 노사 갈등 격화(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오~컬쳐]'우마무스메'는 어떻게 매출 1위를 찍었나]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000039956?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000039956?sid=105"/>
-        <updated>2022-07-26T15:18:20.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000039956?sid=105" class="nclicks(rig.secteco)" title="[오~컬쳐]'우마무스메'는 어떻게 매출 1위를 찍었나">[오~컬쳐]'우마무스메'는 어떻게 매출 1위를 찍었나</a>]]></content>
+        <title type="html"><![CDATA[“개인정보 제공 안 하면 차단” 페북 공지에 이용자 화났다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003212176?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003212176?sid=105"/>
+        <updated>2022-07-26T18:20:18.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212176?sid=105" class="nclicks(rig.secteco)" title="“개인정보 제공 안 하면 차단” 페북 공지에 이용자 화났다">“개인정보 제공 안 하면 차단” 페북 공지에 이용자 화났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰국 띄운 윤 정부…다음은 경찰대 개혁]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003212493?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003212493?sid=102"/>
-        <updated>2022-07-26T15:18:20.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212493?sid=102" class="nclicks(rig.secteco)" title="경찰국 띄운 윤 정부…다음은 경찰대 개혁">경찰국 띄운 윤 정부…다음은 경찰대 개혁</a>]]></content>
+        <title type="html"><![CDATA[이상민 “경찰대 나왔다고 자동 7급, 불공정”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003442268?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003442268?sid=102"/>
+        <updated>2022-07-26T18:20:18.204Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003442268?sid=102" class="nclicks(rig.secteco)" title="이상민 “경찰대 나왔다고 자동 7급, 불공정”">이상민 “경찰대 나왔다고 자동 7급, 불공정”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심야에 외벽 타고 노트북까지 해킹, 기말시험지 빼돌린 고교생들(종합2보)]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013335873?sid=102" class="nclicks(rig.secteco)" title="심야에 외벽 타고 노트북까지 해킹, 기말시험지 빼돌린 고교생들(종합2보)">심야에 외벽 타고 노트북까지 해킹, 기말시험지 빼돌린 고교생들(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[류삼영 총경 "정권의 경찰 장악, 역사가 기록 바로 잡힐 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003668593?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003668593?sid=102"/>
-        <updated>2022-07-26T16:21:52.247Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003668593?sid=102" class="nclicks(rig.secteco)" title="류삼영 총경 &quot;정권의 경찰 장악, 역사가 기록 바로 잡힐 것&quot;">류삼영 총경 "정권의 경찰 장악, 역사가 기록 바로 잡힐 것"</a>]]></content>
+        <title type="html"><![CDATA[“기업활동 위축시키는 과도한 형벌 개선”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003706250?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003706250?sid=102"/>
+        <updated>2022-07-26T18:20:18.205Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003706250?sid=102" class="nclicks(rig.secteco)" title="“기업활동 위축시키는 과도한 형벌 개선”">“기업활동 위축시키는 과도한 형벌 개선”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“영화 ‘증인’ 소녀가 커서 ‘우영우’가 되었습니다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003706230?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003706230?sid=103"/>
-        <updated>2022-07-26T14:14:49.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003706230?sid=103" class="nclicks(rig.secteco)" title="“영화 ‘증인’ 소녀가 커서 ‘우영우’가 되었습니다”">“영화 ‘증인’ 소녀가 커서 ‘우영우’가 되었습니다”</a>]]></content>
+        <title type="html"><![CDATA[“우영우의 ‘이상함’, 더 나은 사회로 만드는 힘 있죠”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003442290?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003442290?sid=103"/>
+        <updated>2022-07-26T18:20:18.206Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003442290?sid=103" class="nclicks(rig.secteco)" title="“우영우의 ‘이상함’, 더 나은 사회로 만드는 힘 있죠”">“우영우의 ‘이상함’, 더 나은 사회로 만드는 힘 있죠”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소나기 오지만 내일도 폭염…수도권 열대야]]></title>
