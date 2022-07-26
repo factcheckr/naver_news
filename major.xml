@@ -2,78 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-26T04:04:40.988Z</updated>
+    <updated>2022-07-26T05:39:18.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["쿠데타" "국기문란"…초강경 대응에 경찰국 갈등 최고조]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013334692?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013334692?sid=100"/>
-        <updated>2022-07-26T04:04:10.974Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013334692?sid=100" class="nclicks(rig.secteco)" title="&quot;쿠데타&quot; &quot;국기문란&quot;…초강경 대응에 경찰국 갈등 최고조">"쿠데타" "국기문란"…초강경 대응에 경찰국 갈등 최고조</a>]]></content>
+        <title type="html"><![CDATA[경찰 반발 속 '행안부 경찰국' 국무회의 통과…8월 2일 출범]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003668448?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003668448?sid=100"/>
+        <updated>2022-07-26T05:38:49.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003668448?sid=100" class="nclicks(rig.secteco)" title="경찰 반발 속 '행안부 경찰국' 국무회의 통과…8월 2일 출범">경찰 반발 속 '행안부 경찰국' 국무회의 통과…8월 2일 출범</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 "치안 관서장 집단행동 깊은 우려…중대 국가기강문란"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013333850?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013333850?sid=100"/>
-        <updated>2022-07-26T01:28:15.655Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013333850?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;치안 관서장 집단행동 깊은 우려…중대 국가기강문란&quot;(종합)">尹대통령 "치안 관서장 집단행동 깊은 우려…중대 국가기강문란"(종합)</a>]]></content>
+        <title type="html"><![CDATA[대체 누구 말을 들어야 해?…북 어민 송환, 계속 말 바뀌는 尹정부와 국민의힘]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002252797?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002252797?sid=100"/>
+        <updated>2022-07-26T05:38:49.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002252797?sid=100" class="nclicks(rig.secteco)" title="대체 누구 말을 들어야 해?…북 어민 송환, 계속 말 바뀌는 尹정부와 국민의힘">대체 누구 말을 들어야 해?…북 어민 송환, 계속 말 바뀌는 尹정부와 국민의힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 집무실 앞 찾아간 野 "`행정 쿠데타` 철회하고 대국민 사과하라"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005277270?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005277270?sid=100"/>
-        <updated>2022-07-26T04:04:10.981Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005277270?sid=100" class="nclicks(rig.secteco)" title="尹 집무실 앞 찾아간 野 &quot;`행정 쿠데타` 철회하고 대국민 사과하라&quot;(종합)">尹 집무실 앞 찾아간 野 "`행정 쿠데타` 철회하고 대국민 사과하라"(종합)</a>]]></content>
+        <title type="html"><![CDATA[[영상] 집단행동 경찰 비난에 이정희 전 통합진보당 대표까지 소환한 권성동]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000114067?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000114067?sid=100"/>
+        <updated>2022-07-26T05:38:49.117Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000114067?sid=100" class="nclicks(rig.secteco)" title="[영상] 집단행동 경찰 비난에 이정희 전 통합진보당 대표까지 소환한 권성동">[영상] 집단행동 경찰 비난에 이정희 전 통합진보당 대표까지 소환한 권성동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미얀마 군부, 민주화 활동가 4명 전격 처형…국제사회 ‘충격’]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002600003?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002600003?sid=104"/>
-        <updated>2022-07-26T01:28:15.666Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002600003?sid=104" class="nclicks(rig.secteco)" title="미얀마 군부, 민주화 활동가 4명 전격 처형…국제사회 ‘충격’">미얀마 군부, 민주화 활동가 4명 전격 처형…국제사회 ‘충격’</a>]]></content>
+        <title type="html"><![CDATA[국제사회, 미얀마 반군부 인사 사형 집행 일제히 규탄…“잔혹·비인권적 탄압”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003162409?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003162409?sid=104"/>
+        <updated>2022-07-26T05:38:49.117Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003162409?sid=104" class="nclicks(rig.secteco)" title="국제사회, 미얀마 반군부 인사 사형 집행 일제히 규탄…“잔혹·비인권적 탄압”">국제사회, 미얀마 반군부 인사 사형 집행 일제히 규탄…“잔혹·비인권적 탄압”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 어린이 2명도 원숭이두창…"이르면 금주내 비상사태 선포"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003212338?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003212338?sid=104"/>
-        <updated>2022-07-26T04:04:10.987Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212338?sid=104" class="nclicks(rig.secteco)" title="美 어린이 2명도 원숭이두창…&quot;이르면 금주내 비상사태 선포&quot;">美 어린이 2명도 원숭이두창…"이르면 금주내 비상사태 선포"</a>]]></content>
+        <title type="html"><![CDATA[WHO '원숭이두창' 비상사태 선언 일파만파, 美도 비상사태 검토]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004873173?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004873173?sid=104"/>
+        <updated>2022-07-26T05:38:49.119Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004873173?sid=104" class="nclicks(rig.secteco)" title="WHO '원숭이두창' 비상사태 선언 일파만파, 美도 비상사태 검토">WHO '원숭이두창' 비상사태 선언 일파만파, 美도 비상사태 검토</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[용산정비창, 초고층 업무지구로 재탄생…주택 6000가구 공급(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006240666?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006240666?sid=101"/>
-        <updated>2022-07-26T04:04:10.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006240666?sid=101" class="nclicks(rig.secteco)" title="용산정비창, 초고층 업무지구로 재탄생…주택 6000가구 공급(종합)">용산정비창, 초고층 업무지구로 재탄생…주택 6000가구 공급(종합)</a>]]></content>
+        <title type="html"><![CDATA[오세훈표 용산정비창 개발 시동…"주택 줄이고 초고층빌딩 올린다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004775385?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004775385?sid=101"/>
+        <updated>2022-07-26T05:38:49.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004775385?sid=101" class="nclicks(rig.secteco)" title="오세훈표 용산정비창 개발 시동…&quot;주택 줄이고 초고층빌딩 올린다&quot;">오세훈표 용산정비창 개발 시동…"주택 줄이고 초고층빌딩 올린다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소비증가에 2분기 경제 0.7% 성장…수출감소 등 하반기 하방위험(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013334026?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013334026?sid=101"/>
-        <updated>2022-07-26T04:04:10.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013334026?sid=101" class="nclicks(rig.secteco)" title="소비증가에 2분기 경제 0.7% 성장…수출감소 등 하반기 하방위험(종합)">소비증가에 2분기 경제 0.7% 성장…수출감소 등 하반기 하방위험(종합)</a>]]></content>
+        <title type="html"><![CDATA[예상 웃돈 2분기 GDP 0.7%…"하반기 수출·소비 동반 부진 가능성"]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000042159?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000042159?sid=101"/>
+        <updated>2022-07-26T05:38:49.122Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000042159?sid=101" class="nclicks(rig.secteco)" title="예상 웃돈 2분기 GDP 0.7%…&quot;하반기 수출·소비 동반 부진 가능성&quot;">예상 웃돈 2분기 GDP 0.7%…"하반기 수출·소비 동반 부진 가능성"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충격 오면 美·日처럼 금융사에 자본 수혈…'금융안정계정' 도입]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004729059?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004729059?sid=101"/>
-        <updated>2022-07-26T04:04:10.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004729059?sid=101" class="nclicks(rig.secteco)" title="충격 오면 美·日처럼 금융사에 자본 수혈…'금융안정계정' 도입">충격 오면 美·日처럼 금융사에 자본 수혈…'금융안정계정' 도입</a>]]></content>
+        <title type="html"><![CDATA[금융위 '금융안정계정' 도입..."금융사 유동성 선제 지원"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011326835?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011326835?sid=101"/>
+        <updated>2022-07-26T05:38:49.126Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011326835?sid=101" class="nclicks(rig.secteco)" title="금융위 '금융안정계정' 도입...&quot;금융사 유동성 선제 지원&quot;(종합)">금융위 '금융안정계정' 도입..."금융사 유동성 선제 지원"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상반기 통신분쟁조정 신청 477건…“유·무선 모두 KT 가장 많아”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011309031?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011309031?sid=105"/>
-        <updated>2022-07-26T04:04:10.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011309031?sid=105" class="nclicks(rig.secteco)" title="상반기 통신분쟁조정 신청 477건…“유·무선 모두 KT 가장 많아”">상반기 통신분쟁조정 신청 477건…“유·무선 모두 KT 가장 많아”</a>]]></content>
+        <title type="html"><![CDATA[네이버 노조“계열사 차별화 반대”…단체행동 돌입 공식화]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003290074?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003290074?sid=105"/>
+        <updated>2022-07-26T05:38:49.127Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003290074?sid=105" class="nclicks(rig.secteco)" title="네이버 노조“계열사 차별화 반대”…단체행동 돌입 공식화">네이버 노조“계열사 차별화 반대”…단체행동 돌입 공식화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버노조, 5개 계열사와 연대 투쟁…"그림자 노동 외면 안돼"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013334656?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013334656?sid=105"/>
-        <updated>2022-07-26T04:04:10.990Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013334656?sid=105" class="nclicks(rig.secteco)" title="네이버노조, 5개 계열사와 연대 투쟁…&quot;그림자 노동 외면 안돼&quot;(종합)">네이버노조, 5개 계열사와 연대 투쟁…"그림자 노동 외면 안돼"(종합)</a>]]></content>
+        <title type="html"><![CDATA[5G 통신분쟁 해결률, 44.7%→84.7% 대폭 상승]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005277318?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005277318?sid=105"/>
+        <updated>2022-07-26T05:38:49.140Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005277318?sid=105" class="nclicks(rig.secteco)" title="5G 통신분쟁 해결률,  44.7%→84.7% 대폭 상승">5G 통신분쟁 해결률, 44.7%→84.7% 대폭 상승</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한동훈 법무부, 공수처 '칼' 들이댄다... "우선적 수사권 폐지"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002361050?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002361050?sid=102"/>
+        <updated>2022-07-26T05:38:49.140Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002361050?sid=102" class="nclicks(rig.secteco)" title="한동훈 법무부, 공수처 '칼' 들이댄다... &quot;우선적 수사권 폐지&quot;">한동훈 법무부, 공수처 '칼' 들이댄다... "우선적 수사권 폐지"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교무실 침입해 교사들 컴퓨터 해킹, 문제·답안 빼돌린 고교생들(종합)]]></title>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013334357?sid=102" class="nclicks(rig.secteco)" title="교무실 침입해 교사들 컴퓨터 해킹, 문제·답안 빼돌린 고교생들(종합)">교무실 침입해 교사들 컴퓨터 해킹, 문제·답안 빼돌린 고교생들(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["국기문란" 尹대통령 보란 듯…경찰, 14만 전체회의로 '맞불']]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000042139?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000042139?sid=102"/>
-        <updated>2022-07-26T04:04:10.996Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000042139?sid=102" class="nclicks(rig.secteco)" title="&quot;국기문란&quot; 尹대통령 보란 듯…경찰, 14만 전체회의로 '맞불'">"국기문란" 尹대통령 보란 듯…경찰, 14만 전체회의로 '맞불'</a>]]></content>
+        <title type="html"><![CDATA[이번에는 14만 전체 경찰회의…거세지는 경찰 일선 반발(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013334496?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013334496?sid=102"/>
+        <updated>2022-07-26T05:38:49.142Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013334496?sid=102" class="nclicks(rig.secteco)" title="이번에는 14만 전체 경찰회의…거세지는 경찰 일선 반발(종합)">이번에는 14만 전체 경찰회의…거세지는 경찰 일선 반발(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈, 윤석열 독대로 업무보고... “檢 직접수사 강화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000829993?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000829993?sid=102"/>
-        <updated>2022-07-26T04:04:10.997Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000829993?sid=102" class="nclicks(rig.secteco)" title="한동훈, 윤석열 독대로 업무보고... “檢 직접수사 강화”">한동훈, 윤석열 독대로 업무보고... “檢 직접수사 강화”</a>]]></content>
+        <title type="html"><![CDATA[[날씨] '중복' 찜통더위 기승, 서울 33℃…내륙 곳곳 소나기]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000552825?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000552825?sid=103"/>
+        <updated>2022-07-26T05:38:49.143Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000552825?sid=103" class="nclicks(rig.secteco)" title="[날씨] '중복' 찜통더위 기승, 서울 33℃…내륙 곳곳 소나기">[날씨] '중복' 찜통더위 기승, 서울 33℃…내륙 곳곳 소나기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 중복인 오늘 무더위 기승‥전국 대부분 지방 폭염주의보]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001211522?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001211522?sid=103"/>
-        <updated>2022-07-26T04:04:10.997Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001211522?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중복인 오늘 무더위 기승‥전국 대부분 지방 폭염주의보">[날씨] 중복인 오늘 무더위 기승‥전국 대부분 지방 폭염주의보</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 암, 2040년 한국인 위협할 주요 암 된다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003718995?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003718995?sid=103"/>
-        <updated>2022-07-26T04:04:10.997Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003718995?sid=103" class="nclicks(rig.secteco)" title="이 암, 2040년 한국인 위협할 주요 암 된다">이 암, 2040년 한국인 위협할 주요 암 된다</a>]]></content>
+        <title type="html"><![CDATA["쓰레기 소굴 됐다"…우영우로 뜬 팽나무의 비참한 근황]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003212350?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003212350?sid=103"/>
+        <updated>2022-07-26T05:38:49.145Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003212350?sid=103" class="nclicks(rig.secteco)" title="&quot;쓰레기 소굴 됐다&quot;…우영우로 뜬 팽나무의 비참한 근황">"쓰레기 소굴 됐다"…우영우로 뜬 팽나무의 비참한 근황</a>]]></content>
     </entry>
 </feed>
