@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-30T18:19:35.864Z</updated>
+    <updated>2022-07-30T19:13:44.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000307725?sid=100" class="nclicks(rig.secteco)" title="민주 당대표 선거 3파전…'97그룹 단일화' 변수 되나">민주 당대표 선거 3파전…'97그룹 단일화' 변수 되나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 원숭이 두창 백신 절벽…10월까지 추가 공급 어려워]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013345181?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013345181?sid=104"/>
-        <updated>2022-07-30T16:20:19.075Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013345181?sid=104" class="nclicks(rig.secteco)" title="美, 원숭이 두창 백신 절벽…10월까지 추가 공급 어려워">美, 원숭이 두창 백신 절벽…10월까지 추가 공급 어려워</a>]]></content>
+        <title type="html"><![CDATA[원숭이 두창 백신센터 '북적'...전세계 확산]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001770719?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001770719?sid=104"/>
+        <updated>2022-07-30T19:13:11.790Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001770719?sid=104" class="nclicks(rig.secteco)" title="원숭이 두창 백신센터 '북적'...전세계 확산">원숭이 두창 백신센터 '북적'...전세계 확산</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아, 루블화로 결제 안 한 라트비아에 가스 공급 중단]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011311933?sid=103" class="nclicks(rig.secteco)" title="제5호 태풍 ‘송다’ 북상…열대야 기승">제5호 태풍 ‘송다’ 북상…열대야 기승</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 태풍 '송다' 영향으로 전국 대부분 비...제주 강한 비바람]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000164067?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000164067?sid=103"/>
-        <updated>2022-07-30T15:15:35.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000164067?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 태풍 '송다' 영향으로 전국 대부분 비...제주 강한 비바람">[오늘의 날씨] 태풍 '송다' 영향으로 전국 대부분 비...제주 강한 비바람</a>]]></content>
+        <title type="html"><![CDATA[내일 태풍 '송다' 영향 제주·남해안 많은 비…무더위 지속]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011336171?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011336171?sid=103"/>
+        <updated>2022-07-30T19:13:11.812Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011336171?sid=103" class="nclicks(rig.secteco)" title="내일 태풍 '송다' 영향 제주·남해안 많은 비…무더위 지속">내일 태풍 '송다' 영향 제주·남해안 많은 비…무더위 지속</a>]]></content>
     </entry>
 </feed>
