@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-07-31T21:13:58.604Z</updated>
+    <updated>2022-07-31T22:16:34.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권성동 "직무대행 내려놓겠다"… 국힘, 비대위 전환 급물살]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004875823?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004875823?sid=100"/>
+        <updated>2022-07-31T22:16:04.126Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004875823?sid=100" class="nclicks(rig.secteco)" title="권성동 &quot;직무대행 내려놓겠다&quot;… 국힘, 비대위 전환 급물살">권성동 "직무대행 내려놓겠다"… 국힘, 비대위 전환 급물살</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비대위 체제 급물살 타는 與… 尹정부 최대 리스크 되나]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003720801?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003720801?sid=100" class="nclicks(rig.secteco)" title="비대위 체제 급물살 타는 與… 尹정부 최대 리스크 되나">비대위 체제 급물살 타는 與… 尹정부 최대 리스크 되나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與 비대위 전환 가시화…성격과 기간·이준석 반대 '관건']]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011337038?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011337038?sid=100"/>
-        <updated>2022-07-31T20:17:06.422Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011337038?sid=100" class="nclicks(rig.secteco)" title="與 비대위 전환 가시화…성격과 기간·이준석 반대 '관건'">與 비대위 전환 가시화…성격과 기간·이준석 반대 '관건'</a>]]></content>
+        <title type="html"><![CDATA["5일까지 청문보고서 재송부"‥청문회 무력화?]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001212592?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001212592?sid=100"/>
+        <updated>2022-07-31T22:16:04.128Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001212592?sid=100" class="nclicks(rig.secteco)" title="&quot;5일까지 청문보고서 재송부&quot;‥청문회 무력화?">"5일까지 청문보고서 재송부"‥청문회 무력화?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 윤 대통령 "경찰청장 청문보고서 5일까지"‥민주 "청문회 무력화 시도"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001212557?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001212557?sid=100"/>
-        <updated>2022-07-31T20:17:06.427Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001212557?sid=100" class="nclicks(rig.secteco)" title="[단독] 윤 대통령 &quot;경찰청장 청문보고서 5일까지&quot;‥민주 &quot;청문회 무력화 시도&quot;">[단독] 윤 대통령 "경찰청장 청문보고서 5일까지"‥민주 "청문회 무력화 시도"</a>]]></content>
+        <title type="html"><![CDATA['코로나 재확진' 바이든 이틀째 양성…주치의 "상태 좋아"]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0004998629?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0004998629?sid=104"/>
+        <updated>2022-07-31T22:16:04.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0004998629?sid=104" class="nclicks(rig.secteco)" title="'코로나 재확진' 바이든 이틀째 양성…주치의 &quot;상태 좋아&quot;">'코로나 재확진' 바이든 이틀째 양성…주치의 "상태 좋아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘코로나19 재감염’ 바이든 괜찮나…“치료후 재발 10%, 추가치료 불필요”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002022619?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002022619?sid=104"/>
-        <updated>2022-07-31T21:13:30.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002022619?sid=104" class="nclicks(rig.secteco)" title="‘코로나19 재감염’ 바이든 괜찮나…“치료후 재발 10%, 추가치료 불필요”">‘코로나19 재감염’ 바이든 괜찮나…“치료후 재발 10%, 추가치료 불필요”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재파일] '타 죽는다' 발언 뒤 숨은 '펠로시와 중국의 악연']]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000989616?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000989616?sid=104"/>
-        <updated>2022-07-31T21:13:30.722Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000989616?sid=104" class="nclicks(rig.secteco)" title="[취재파일] '타 죽는다' 발언 뒤 숨은 '펠로시와 중국의 악연'">[취재파일] '타 죽는다' 발언 뒤 숨은 '펠로시와 중국의 악연'</a>]]></content>
+        <title type="html"><![CDATA[대만 방문 '촉각'‥중국, 고강도 '무력시위']]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001212593?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001212593?sid=104"/>
+        <updated>2022-07-31T22:16:04.131Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001212593?sid=104" class="nclicks(rig.secteco)" title="대만 방문 '촉각'‥중국, 고강도 '무력시위'">대만 방문 '촉각'‥중국, 고강도 '무력시위'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유 1800원대 진입…유류세 최대폭 인하 한달만]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005125939?sid=101" class="nclicks(rig.secteco)" title="휘발유 1800원대 진입…유류세 최대폭 인하 한달만">휘발유 1800원대 진입…유류세 최대폭 인하 한달만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성물산, 9년 연속 시공능력평가 1위…DL이앤씨는 3위 '복귀']]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013345447?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013345447?sid=101"/>
-        <updated>2022-07-31T21:13:30.723Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013345447?sid=101" class="nclicks(rig.secteco)" title="삼성물산, 9년 연속 시공능력평가 1위…DL이앤씨는 3위 '복귀'">삼성물산, 9년 연속 시공능력평가 1위…DL이앤씨는 3위 '복귀'</a>]]></content>
+        <title type="html"><![CDATA["커피전문점 만족도 스타벅스-커피빈-할리스커피 순으로 높아"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013346291?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013346291?sid=101"/>
+        <updated>2022-07-31T22:16:04.135Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013346291?sid=101" class="nclicks(rig.secteco)" title="&quot;커피전문점 만족도 스타벅스-커피빈-할리스커피 순으로 높아&quot;">"커피전문점 만족도 스타벅스-커피빈-할리스커피 순으로 높아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["'연 6% 신용대출' 이자 못 버틴다" 빚갚는 영끌족]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004777430?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004777430?sid=101"/>
-        <updated>2022-07-31T20:17:06.434Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004777430?sid=101" class="nclicks(rig.secteco)" title="&quot;'연 6% 신용대출' 이자 못 버틴다&quot; 빚갚는 영끌족">"'연 6% 신용대출' 이자 못 버틴다" 빚갚는 영끌족</a>]]></content>
+        <title type="html"><![CDATA[30대 이하 다중채무액 150조 원‥"5년 새 33% 증가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001212595?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001212595?sid=101"/>
+        <updated>2022-07-31T22:16:04.139Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001212595?sid=101" class="nclicks(rig.secteco)" title="30대 이하 다중채무액 150조 원‥&quot;5년 새 33% 증가&quot;">30대 이하 다중채무액 150조 원‥"5년 새 33% 증가"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[韓 첫 달 탐사선]①지난한 개발 견딘 다누리, 드디어 ‘우주로’…참여 기업 역할은?]]></title>
@@ -76,20 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002129767?sid=105" class="nclicks(rig.secteco)" title="‘라그나로크’ 새 시대 여는 그라비티…트릴로지로 하반기 사냥">‘라그나로크’ 새 시대 여는 그라비티…트릴로지로 하반기 사냥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘술잔 투척 논란’ 김용진 경기부지사 임명 사흘 만에 사임]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003720804?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003720804?sid=102"/>
-        <updated>2022-07-31T21:13:30.731Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003720804?sid=102" class="nclicks(rig.secteco)" title="‘술잔 투척 논란’ 김용진 경기부지사 임명 사흘 만에 사임">‘술잔 투척 논란’ 김용진 경기부지사 임명 사흘 만에 사임</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공론화-의견수렴 없이 만 5세 초등입학 추진”… 학부모-교육단체 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003443152?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003443152?sid=102"/>
-        <updated>2022-07-31T18:18:20.271Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003443152?sid=102" class="nclicks(rig.secteco)" title="“공론화-의견수렴 없이 만 5세 초등입학 추진”… 학부모-교육단체 반발">“공론화-의견수렴 없이 만 5세 초등입학 추진”… 학부모-교육단체 반발</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중증화 방지에 집중한다더니… 재택치료 고위험군 모니터링 폐지]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003720796?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003720796?sid=102"/>
@@ -97,17 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003720796?sid=102" class="nclicks(rig.secteco)" title="중증화 방지에 집중한다더니… 재택치료 고위험군 모니터링 폐지">중증화 방지에 집중한다더니… 재택치료 고위험군 모니터링 폐지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨] 태풍 ‘송다’ 영향으로 모레까지 전국 많은 비]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003720669?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003720669?sid=103"/>
-        <updated>2022-07-31T17:15:23.611Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003720669?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 태풍 ‘송다’ 영향으로 모레까지 전국 많은 비">[내일날씨] 태풍 ‘송다’ 영향으로 모레까지 전국 많은 비</a>]]></content>
+        <title type="html"><![CDATA["형들이 친구 되고, 친구가 동생 되게 생겼다"… 예비 학부모 '멘붕' [뉴스+]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003720835?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003720835?sid=102"/>
+        <updated>2022-07-31T22:16:04.149Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003720835?sid=102" class="nclicks(rig.secteco)" title="&quot;형들이 친구 되고, 친구가 동생 되게 생겼다&quot;… 예비 학부모 '멘붕' [뉴스+]">"형들이 친구 되고, 친구가 동생 되게 생겼다"… 예비 학부모 '멘붕' [뉴스+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태풍 '송다' 북상에 중·남부지방 호우주의보...정부, 중대본 가동]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000689169?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000689169?sid=103"/>
-        <updated>2022-07-31T21:13:30.735Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000689169?sid=103" class="nclicks(rig.secteco)" title="태풍 '송다' 북상에 중·남부지방 호우주의보...정부, 중대본 가동">태풍 '송다' 북상에 중·남부지방 호우주의보...정부, 중대본 가동</a>]]></content>
+        <title type="html"><![CDATA[물낭비·확진 논란 '흠뻑쇼' 이번엔 외주 스태프 '추락사'…싸이 "비통할 따름"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004777448?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004777448?sid=102"/>
+        <updated>2022-07-31T22:16:04.151Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004777448?sid=102" class="nclicks(rig.secteco)" title="물낭비·확진 논란 '흠뻑쇼' 이번엔 외주 스태프 '추락사'…싸이 &quot;비통할 따름&quot;">물낭비·확진 논란 '흠뻑쇼' 이번엔 외주 스태프 '추락사'…싸이 "비통할 따름"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태풍 '송다 · 트라세' 영향…내일까지 중부 · 제주 최대 100mm]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000989749?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000989749?sid=103"/>
+        <updated>2022-07-31T22:16:04.152Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000989749?sid=103" class="nclicks(rig.secteco)" title="태풍 '송다 · 트라세' 영향…내일까지 중부 · 제주 최대 100mm">태풍 '송다 · 트라세' 영향…내일까지 중부 · 제주 최대 100mm</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이상한 변호사 우병우?”…뉴스 생방송 중 ‘자막 실수’ 해프닝]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002022621?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002022621?sid=103"/>
+        <updated>2022-07-31T22:16:04.154Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002022621?sid=103" class="nclicks(rig.secteco)" title="“이상한 변호사 우병우?”…뉴스 생방송 중 ‘자막 실수’ 해프닝">“이상한 변호사 우병우?”…뉴스 생방송 중 ‘자막 실수’ 해프닝</a>]]></content>
     </entry>
 </feed>
