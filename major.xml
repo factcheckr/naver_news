@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-02T18:20:08.414Z</updated>
+    <updated>2022-08-02T19:13:37.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003443514?sid=101" class="nclicks(rig.secteco)" title="두달 연속 6%대 물가… 외환위기 이후 최악">두달 연속 6%대 물가… 외환위기 이후 최악</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PB업체서 200억 부당이익 GS리테일에 과징금 244억]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003443526?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003443526?sid=101"/>
-        <updated>2022-08-02T18:19:39.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003443526?sid=101" class="nclicks(rig.secteco)" title="PB업체서 200억 부당이익 GS리테일에 과징금 244억">PB업체서 200억 부당이익 GS리테일에 과징금 244억</a>]]></content>
+        <title type="html"><![CDATA["PB업체에 판촉비 요구"…과징금 폭탄 맞은 GS리테일]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004732031?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004732031?sid=101"/>
+        <updated>2022-08-02T19:13:04.196Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004732031?sid=101" class="nclicks(rig.secteco)" title="&quot;PB업체에 판촉비 요구&quot;…과징금 폭탄 맞은 GS리테일">"PB업체에 판촉비 요구"…과징금 폭탄 맞은 GS리테일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신원근 카카오페이 대표 “하반기 빠르게 수익 개선”[일문일답]]]></title>
