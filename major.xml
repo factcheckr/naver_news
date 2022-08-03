@@ -2,50 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-03T03:53:12.648Z</updated>
+    <updated>2022-08-03T05:02:20.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[尹, 펠로시 안 만난다…대통령실 “휴가와 겹쳐, 예방 일정 없다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003443621?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003443621?sid=100"/>
-        <updated>2022-08-03T03:52:42.733Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003443621?sid=100" class="nclicks(rig.secteco)" title="尹, 펠로시 안 만난다…대통령실 “휴가와 겹쳐, 예방 일정 없다”">尹, 펠로시 안 만난다…대통령실 “휴가와 겹쳐, 예방 일정 없다”</a>]]></content>
+        <title type="html"><![CDATA[아시아 순방서 기시다·차이잉원 만나는 펠로시, ‘휴가’ 尹 안 만난다]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000831809?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000831809?sid=100"/>
+        <updated>2022-08-03T05:01:52.792Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000831809?sid=100" class="nclicks(rig.secteco)" title="아시아 순방서 기시다·차이잉원 만나는 펠로시, ‘휴가’ 尹 안 만난다">아시아 순방서 기시다·차이잉원 만나는 펠로시, ‘휴가’ 尹 안 만난다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 "尹대통령이 박지원·서훈 고발 승인.. '文정부 보복수사' 최초 기획자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004877354?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004877354?sid=100"/>
-        <updated>2022-08-03T03:52:42.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004877354?sid=100" class="nclicks(rig.secteco)" title="野 &quot;尹대통령이 박지원·서훈 고발 승인.. '文정부 보복수사' 최초 기획자&quot;">野 "尹대통령이 박지원·서훈 고발 승인.. '文정부 보복수사' 최초 기획자"</a>]]></content>
+        <title type="html"><![CDATA[이재명 "사법리스크, 국힘·검경이 쓰는 언어…당서 듣는 것 안타까워"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011342726?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011342726?sid=100"/>
+        <updated>2022-08-03T05:01:52.798Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011342726?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;사법리스크, 국힘·검경이 쓰는 언어…당서 듣는 것 안타까워&quot;">이재명 "사법리스크, 국힘·검경이 쓰는 언어…당서 듣는 것 안타까워"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "8월 중순까지 수사 끝낸다? 대놓고 정치개입…국기문란"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013351580?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013351580?sid=100"/>
-        <updated>2022-08-03T03:52:42.738Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013351580?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;8월 중순까지 수사 끝낸다? 대놓고 정치개입…국기문란&quot;">이재명 "8월 중순까지 수사 끝낸다? 대놓고 정치개입…국기문란"</a>]]></content>
+        <title type="html"><![CDATA[박지원 "국정원 고발, 대통령실 기획 지시…윤 대통령 또 거짓말"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000990392?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000990392?sid=100"/>
+        <updated>2022-08-03T05:01:52.800Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000990392?sid=100" class="nclicks(rig.secteco)" title="박지원 &quot;국정원 고발, 대통령실 기획 지시…윤 대통령 또 거짓말&quot;">박지원 "국정원 고발, 대통령실 기획 지시…윤 대통령 또 거짓말"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펠로시 환영한 대만… 한쪽에선 “나가라” 반대 시위]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001544119?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001544119?sid=104"/>
-        <updated>2022-08-03T03:52:42.739Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001544119?sid=104" class="nclicks(rig.secteco)" title="펠로시 환영한 대만… 한쪽에선 “나가라” 반대 시위">펠로시 환영한 대만… 한쪽에선 “나가라” 반대 시위</a>]]></content>
+        <title type="html"><![CDATA[“사랑해요” “양키는 집으로”···펠로시 방문에 엇갈리는 대만]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003164208?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003164208?sid=104"/>
+        <updated>2022-08-03T05:01:52.802Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003164208?sid=104" class="nclicks(rig.secteco)" title="“사랑해요” “양키는 집으로”···펠로시 방문에 엇갈리는 대만">“사랑해요” “양키는 집으로”···펠로시 방문에 엇갈리는 대만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴의 '비밀애인', 왜 서방정부 제재 타깃이 됐나]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004877316?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004877316?sid=104"/>
-        <updated>2022-08-03T03:52:42.741Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004877316?sid=104" class="nclicks(rig.secteco)" title="푸틴의 '비밀애인', 왜 서방정부 제재 타깃이 됐나">푸틴의 '비밀애인', 왜 서방정부 제재 타깃이 됐나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['낸드 1위' 삼성 위협하는 SK하이닉스·마이크론…'초격차' 기술 전쟁 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000689445?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000689445?sid=101"/>
-        <updated>2022-08-03T03:52:42.741Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000689445?sid=101" class="nclicks(rig.secteco)" title="'낸드 1위' 삼성 위협하는 SK하이닉스·마이크론…'초격차' 기술 전쟁 본격화">'낸드 1위' 삼성 위협하는 SK하이닉스·마이크론…'초격차' 기술 전쟁 본격화</a>]]></content>
+        <title type="html"><![CDATA["中 화풀이 시작됐다"…대만 상대 '무역 제재' 줄줄이 쏟아내]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004778632?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004778632?sid=104"/>
+        <updated>2022-08-03T05:01:52.803Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004778632?sid=104" class="nclicks(rig.secteco)" title="&quot;中 화풀이 시작됐다&quot;…대만 상대 '무역 제재' 줄줄이 쏟아내">"中 화풀이 시작됐다"…대만 상대 '무역 제재' 줄줄이 쏟아내</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금융위, 사업재편 추진 기업에 1조원 지원]]></title>
@@ -55,46 +48,53 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005127396?sid=101" class="nclicks(rig.secteco)" title="금융위, 사업재편 추진 기업에 1조원 지원">금융위, 사업재편 추진 기업에 1조원 지원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["韓 탄소, 말레이에 옮긴다" 삼성·롯데·SK·GS ‘탄소 드림팀’]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003214238?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003214238?sid=101"/>
-        <updated>2022-08-03T03:52:42.743Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214238?sid=101" class="nclicks(rig.secteco)" title="&quot;韓 탄소, 말레이에 옮긴다&quot; 삼성·롯데·SK·GS ‘탄소 드림팀’">"韓 탄소, 말레이에 옮긴다" 삼성·롯데·SK·GS ‘탄소 드림팀’</a>]]></content>
+        <title type="html"><![CDATA[카카오뱅크, '역대 최대' 상반기 순익 1238억(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011342720?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011342720?sid=101"/>
+        <updated>2022-08-03T05:01:52.808Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011342720?sid=101" class="nclicks(rig.secteco)" title="카카오뱅크, '역대 최대' 상반기 순익 1238억(종합)">카카오뱅크, '역대 최대' 상반기 순익 1238억(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2Q 사상최대실적 카카오게임즈, 3Q 또 '역대급' 예고]]></title>
+        <title type="html"><![CDATA[기준금리 1%p 올리면 2년 뒤 집값 2.8%↓…한은 "'세종'이 가장 위험해"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005283068?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005283068?sid=101"/>
+        <updated>2022-08-03T05:01:52.809Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005283068?sid=101" class="nclicks(rig.secteco)" title="기준금리 1%p 올리면 2년 뒤 집값 2.8%↓…한은 &quot;'세종'이 가장 위험해&quot;">기준금리 1%p 올리면 2년 뒤 집값 2.8%↓…한은 "'세종'이 가장 위험해"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영업익 900%' 급증은 예고편?…카카오게임즈 본게임은 3Q부터]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004778633?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004778633?sid=105"/>
         <updated>2022-08-03T03:52:42.745Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004778633?sid=105" class="nclicks(rig.secteco)" title="2Q 사상최대실적 카카오게임즈, 3Q 또 '역대급' 예고">2Q 사상최대실적 카카오게임즈, 3Q 또 '역대급' 예고</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004778633?sid=105" class="nclicks(rig.secteco)" title="'영업익 900%' 급증은 예고편?…카카오게임즈 본게임은 3Q부터">'영업익 900%' 급증은 예고편?…카카오게임즈 본게임은 3Q부터</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모핑아이, 한국조폐공사와 '금 NFT 서비스' 국내 첫 선]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011342506?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011342506?sid=105"/>
-        <updated>2022-08-03T03:52:42.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011342506?sid=105" class="nclicks(rig.secteco)" title="모핑아이, 한국조폐공사와 '금 NFT 서비스' 국내 첫 선">모핑아이, 한국조폐공사와 '금 NFT 서비스' 국내 첫 선</a>]]></content>
+        <title type="html"><![CDATA[SKT, NFT 마켓 ‘탑포트’ 오픈… “NFT 발행, 구매 손쉽게”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000831812?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000831812?sid=105"/>
+        <updated>2022-08-03T05:01:52.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000831812?sid=105" class="nclicks(rig.secteco)" title="SKT, NFT 마켓 ‘탑포트’ 오픈… “NFT 발행, 구매 손쉽게”">SKT, NFT 마켓 ‘탑포트’ 오픈… “NFT 발행, 구매 손쉽게”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규확진 11만9922명…코로나 사태 926일만에 누적 2천만 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003671241?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003671241?sid=102"/>
-        <updated>2022-08-03T03:52:42.747Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003671241?sid=102" class="nclicks(rig.secteco)" title="신규확진 11만9922명…코로나 사태 926일만에 누적 2천만 돌파">신규확진 11만9922명…코로나 사태 926일만에 누적 2천만 돌파</a>]]></content>
+        <title type="html"><![CDATA["'쿵' 소리 후 편의점이 두 동강"…낙산해수욕장 인근서 '싱크홀'(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003671321?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003671321?sid=102"/>
+        <updated>2022-08-03T05:01:52.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003671321?sid=102" class="nclicks(rig.secteco)" title="&quot;'쿵' 소리 후 편의점이 두 동강&quot;…낙산해수욕장 인근서 '싱크홀'(종합)">"'쿵' 소리 후 편의점이 두 동강"…낙산해수욕장 인근서 '싱크홀'(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["장관님 위로 받으려는 거 아니다" 박순애, 학부모 뿌리친 손길에 '머쓱']]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002024032?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002024032?sid=102"/>
-        <updated>2022-08-03T03:52:42.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002024032?sid=102" class="nclicks(rig.secteco)" title="&quot;장관님 위로 받으려는 거 아니다&quot; 박순애, 학부모 뿌리친 손길에 '머쓱'">"장관님 위로 받으려는 거 아니다" 박순애, 학부모 뿌리친 손길에 '머쓱'</a>]]></content>
+        <title type="html"><![CDATA[故 이예람 중사 부대서 또 성폭력…"공군, 엉망진창 해명 진실 호도해"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005283127?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005283127?sid=102"/>
+        <updated>2022-08-03T05:01:52.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005283127?sid=102" class="nclicks(rig.secteco)" title="故 이예람 중사 부대서 또 성폭력…&quot;공군, 엉망진창 해명 진실 호도해&quot;">故 이예람 중사 부대서 또 성폭력…"공군, 엉망진창 해명 진실 호도해"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 "꼭 필요한 데 집중하는 표적방역 추진"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013351643?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013351643?sid=102"/>
-        <updated>2022-08-03T03:52:42.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013351643?sid=102" class="nclicks(rig.secteco)" title="정부 &quot;꼭 필요한 데 집중하는 표적방역 추진&quot;(종합)">정부 "꼭 필요한 데 집중하는 표적방역 추진"(종합)</a>]]></content>
+        <title type="html"><![CDATA[확진 12만명 육박, 110일새 가장 많아…해외유입 600명 역대최다(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013351172?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013351172?sid=102"/>
+        <updated>2022-08-03T05:01:52.817Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013351172?sid=102" class="nclicks(rig.secteco)" title="확진 12만명 육박, 110일새 가장 많아…해외유입 600명 역대최다(종합)">확진 12만명 육박, 110일새 가장 많아…해외유입 600명 역대최다(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["벤츠·아우디 다 제쳤다"…1위 차지한 수입차]]></title>
