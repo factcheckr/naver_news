@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-03T15:18:38.533Z</updated>
+    <updated>2022-08-03T16:22:50.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[펠로시 美 의장, 한국 도착… 4일 김진표 국회의장과 회담]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004877808?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004877808?sid=100"/>
-        <updated>2022-08-03T15:18:10.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004877808?sid=100" class="nclicks(rig.secteco)" title="펠로시 美 의장, 한국 도착… 4일 김진표 국회의장과 회담">펠로시 美 의장, 한국 도착… 4일 김진표 국회의장과 회담</a>]]></content>
+        <title type="html"><![CDATA[펠로시, 대만 방문 마치고 한국 도착… 국회의장 회담·JSA 방문 예정]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003721882?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003721882?sid=100"/>
+        <updated>2022-08-03T16:22:22.011Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003721882?sid=100" class="nclicks(rig.secteco)" title="펠로시, 대만 방문 마치고 한국 도착… 국회의장 회담·JSA 방문 예정">펠로시, 대만 방문 마치고 한국 도착… 국회의장 회담·JSA 방문 예정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 與 “비대위 전환 후 새 당대표는 임기 2년”]]></title>
@@ -41,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214418?sid=104" class="nclicks(rig.secteco)" title="펠로시 떠난 뒤…중국, 대만 6방향 포위훈련">펠로시 떠난 뒤…중국, 대만 6방향 포위훈련</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쏘카 IPO “시장 어렵지만 한 단계 진화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003214408?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003214408?sid=101"/>
-        <updated>2022-08-03T15:18:10.923Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214408?sid=101" class="nclicks(rig.secteco)" title="쏘카 IPO “시장 어렵지만 한 단계 진화”">쏘카 IPO “시장 어렵지만 한 단계 진화”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고층 낸드, 페타급 스토리지…‘K반도체’ 또 한발 앞서나간다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003214409?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003214409?sid=101"/>
-        <updated>2022-08-03T15:18:10.924Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214409?sid=101" class="nclicks(rig.secteco)" title="최고층 낸드, 페타급 스토리지…‘K반도체’ 또 한발 앞서나간다">최고층 낸드, 페타급 스토리지…‘K반도체’ 또 한발 앞서나간다</a>]]></content>
+        <title type="html"><![CDATA[쏘카 “IPO 적기는 지금… 상장철회 생각하지 않아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003721923?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003721923?sid=101"/>
+        <updated>2022-08-03T16:22:22.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003721923?sid=101" class="nclicks(rig.secteco)" title="쏘카 “IPO 적기는 지금… 상장철회 생각하지 않아”">쏘카 “IPO 적기는 지금… 상장철회 생각하지 않아”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금리 오른 3년간 4대은행 임원들은 1083억 성과급]]></title>
@@ -62,6 +55,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214382?sid=101" class="nclicks(rig.secteco)" title="금리 오른 3년간 4대은행 임원들은 1083억 성과급">금리 오른 3년간 4대은행 임원들은 1083억 성과급</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["세계서 가장 높게 쌓고 가장 작다"…SK하이닉스 '238단 낸드' 첫 개발]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004778429?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004778429?sid=101"/>
+        <updated>2022-08-03T16:22:22.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004778429?sid=101" class="nclicks(rig.secteco)" title="&quot;세계서 가장 높게 쌓고 가장 작다&quot;…SK하이닉스 '238단 낸드' 첫 개발">"세계서 가장 높게 쌓고 가장 작다"…SK하이닉스 '238단 낸드' 첫 개발</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기획부터 발사까지 15년..열려라, Moon]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005283400?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005283400?sid=105"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005283400?sid=105" class="nclicks(rig.secteco)" title="기획부터 발사까지 15년..열려라, Moon">기획부터 발사까지 15년..열려라, Moon</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장현국 대표 "위믹스 3.0 테스트넷 완성도 높아...9월 오픈 가능한 수준"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002264378?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002264378?sid=105"/>
-        <updated>2022-08-03T15:18:10.927Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002264378?sid=105" class="nclicks(rig.secteco)" title="장현국 대표 &quot;위믹스 3.0 테스트넷 완성도 높아...9월 오픈 가능한 수준&quot;">장현국 대표 "위믹스 3.0 테스트넷 완성도 높아...9월 오픈 가능한 수준"</a>]]></content>
+        <title type="html"><![CDATA[카카오게임즈 2분기 영업익 810억 ‘역대 최대’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003721888?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003721888?sid=105"/>
+        <updated>2022-08-03T16:22:22.033Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003721888?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈 2분기 영업익 810억 ‘역대 최대’">카카오게임즈 2분기 영업익 810억 ‘역대 최대’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마지막 남방큰돌고래 '비봉이' 해방의 날…바다는 안녕할까]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000308311?sid=102" class="nclicks(rig.secteco)" title="마지막 남방큰돌고래 '비봉이' 해방의 날…바다는 안녕할까">마지막 남방큰돌고래 '비봉이' 해방의 날…바다는 안녕할까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "60여 차례 대리 결제"…배 모 씨 조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000990499?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000990499?sid=102"/>
-        <updated>2022-08-03T13:38:54.035Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000990499?sid=102" class="nclicks(rig.secteco)" title="[단독] &quot;60여 차례 대리 결제&quot;…배 모 씨 조사">[단독] "60여 차례 대리 결제"…배 모 씨 조사</a>]]></content>
+        <title type="html"><![CDATA[경찰, ‘법카의혹 핵심’ 김혜경 측근 배씨 소환 조사]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003707805?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003707805?sid=102"/>
+        <updated>2022-08-03T16:22:22.033Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003707805?sid=102" class="nclicks(rig.secteco)" title="경찰, ‘법카의혹 핵심’ 김혜경 측근 배씨 소환 조사">경찰, ‘법카의혹 핵심’ 김혜경 측근 배씨 소환 조사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만5세 입학 뒤늦게 공론화 나선 교육부…교육감·학부모 '성토'(종합)]]></title>
