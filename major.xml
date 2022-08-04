@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-04T21:16:16.116Z</updated>
+    <updated>2022-08-04T22:21:48.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003722305?sid=100" class="nclicks(rig.secteco)" title="한·일 외교수장, 관계 개선 물꼬 텄다지만… 넘어야 할 산 여전해">한·일 외교수장, 관계 개선 물꼬 텄다지만… 넘어야 할 산 여전해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中, 대만 상공 가로질러 미사일 날렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003443864?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003443864?sid=104"/>
-        <updated>2022-08-04T18:21:23.216Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003443864?sid=104" class="nclicks(rig.secteco)" title="中, 대만 상공 가로질러 미사일 날렸다">中, 대만 상공 가로질러 미사일 날렸다</a>]]></content>
+        <title type="html"><![CDATA[중국 미사일, 대만 상공 넘었다‥반발·경고]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001213678?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001213678?sid=104"/>
+        <updated>2022-08-04T22:21:19.925Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001213678?sid=104" class="nclicks(rig.secteco)" title="중국 미사일, 대만 상공 넘었다‥반발·경고">중국 미사일, 대만 상공 넘었다‥반발·경고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[英 중앙은행, 27년 만에 금리 ‘빅스텝’…경기침체 예고]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002024772?sid=104" class="nclicks(rig.secteco)" title="英 중앙은행, 27년 만에 금리 ‘빅스텝’…경기침체 예고">英 중앙은행, 27년 만에 금리 ‘빅스텝’…경기침체 예고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["전통시장 죽인다" 발 묶인 마트…"우린 24시간" 웃고있는 편의점]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004779389?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004779389?sid=101"/>
-        <updated>2022-08-04T21:15:46.954Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004779389?sid=101" class="nclicks(rig.secteco)" title="&quot;전통시장 죽인다&quot; 발 묶인 마트…&quot;우린 24시간&quot; 웃고있는 편의점">"전통시장 죽인다" 발 묶인 마트…"우린 24시간" 웃고있는 편의점</a>]]></content>
+        <title type="html"><![CDATA[전국 전통시장 "대형마트 의무휴업 폐지 안된다"…집단행동 예고]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013355714?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013355714?sid=101"/>
+        <updated>2022-08-04T22:21:19.928Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013355714?sid=101" class="nclicks(rig.secteco)" title="전국 전통시장 &quot;대형마트 의무휴업 폐지 안된다&quot;…집단행동 예고">전국 전통시장 "대형마트 의무휴업 폐지 안된다"…집단행동 예고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대만포위' 훈련에 여객기 운항 비상…대만 직항편 취소]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001681600?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001681600?sid=101"/>
+        <updated>2022-08-04T22:21:19.930Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001681600?sid=101" class="nclicks(rig.secteco)" title="'대만포위' 훈련에 여객기 운항 비상…대만 직항편 취소">'대만포위' 훈련에 여객기 운항 비상…대만 직항편 취소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["전기차 세워두면 무선충전"...규제자유특구 3곳 신규 지정]]></title>
@@ -53,13 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004779195?sid=101"/>
         <updated>2022-08-04T21:15:46.955Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004779195?sid=101" class="nclicks(rig.secteco)" title="&quot;전기차 세워두면 무선충전&quot;...규제자유특구 3곳 신규 지정">"전기차 세워두면 무선충전"...규제자유특구 3곳 신규 지정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 ‘대만포위’ 훈련…대만 직항편 취소·조정 잇따라]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003292340?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003292340?sid=101"/>
-        <updated>2022-08-04T21:15:46.956Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003292340?sid=101" class="nclicks(rig.secteco)" title="中 ‘대만포위’ 훈련…대만 직항편 취소·조정 잇따라">中 ‘대만포위’ 훈련…대만 직항편 취소·조정 잇따라</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 첫 달 탐사 궤도선 다누리 오늘 발사…다섯달 여정 시작]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001544575?sid=102" class="nclicks(rig.secteco)" title="‘김혜경 법카 의혹’ 수사 급물살…최초제보자 소환조사">‘김혜경 법카 의혹’ 수사 급물살…최초제보자 소환조사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하이트진로 강원공장 농성 조합원 5명 투신 구조]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003722311?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003722311?sid=102"/>
-        <updated>2022-08-04T21:15:46.966Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003722311?sid=102" class="nclicks(rig.secteco)" title="하이트진로 강원공장 농성 조합원 5명 투신 구조">하이트진로 강원공장 농성 조합원 5명 투신 구조</a>]]></content>
+        <title type="html"><![CDATA[하이트진로 강원공장 농성 사흘째…투신 소동 끝에 출고 재개(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013355226?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013355226?sid=102"/>
+        <updated>2022-08-04T22:21:19.944Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013355226?sid=102" class="nclicks(rig.secteco)" title="하이트진로 강원공장 농성 사흘째…투신 소동 끝에 출고 재개(종합2보)">하이트진로 강원공장 농성 사흘째…투신 소동 끝에 출고 재개(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'긴급체포' 수사관-쌍방울 임원, 계좌영장 유출 혐의]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003671934?sid=102" class="nclicks(rig.secteco)" title="[단독]'긴급체포' 수사관-쌍방울 임원, 계좌영장 유출 혐의">[단독]'긴급체포' 수사관-쌍방울 임원, 계좌영장 유출 혐의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨] 낮 최고 37도 '불타는 금요일'…"야외활동 가급적 자제"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006260643?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006260643?sid=103"/>
-        <updated>2022-08-04T21:15:46.967Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006260643?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 낮 최고 37도 '불타는 금요일'…&quot;야외활동 가급적 자제&quot;">[오늘날씨] 낮 최고 37도 '불타는 금요일'…"야외활동 가급적 자제"</a>]]></content>
+        <title type="html"><![CDATA[“우산 챙기세요” 전국 곳곳 소나기…폭염 속 열대야 지속]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005000659?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005000659?sid=103"/>
+        <updated>2022-08-04T22:21:19.947Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005000659?sid=103" class="nclicks(rig.secteco)" title="“우산 챙기세요” 전국 곳곳 소나기…폭염 속 열대야 지속">“우산 챙기세요” 전국 곳곳 소나기…폭염 속 열대야 지속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 제주 나흘째 폭염특보…내일 오후 산지·동부 소나기]]></title>
