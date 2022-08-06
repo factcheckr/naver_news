@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-06T15:15:52.142Z</updated>
+    <updated>2022-08-06T16:20:56.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004779818?sid=101" class="nclicks(rig.secteco)" title="또 예상 깬 '재벌가 딸'…편의점 알바→아덴만 파병→다음은 '여기'">또 예상 깬 '재벌가 딸'…편의점 알바→아덴만 파병→다음은 '여기'</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아!이뉴스] 고민 깊은 5G 중간요금제…네이버, 라인 없이도 분기 매출 2조]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000690048?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000690048?sid=105"/>
+        <updated>2022-08-06T16:20:25.468Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000690048?sid=105" class="nclicks(rig.secteco)" title="[아!이뉴스] 고민 깊은 5G 중간요금제…네이버, 라인 없이도 분기 매출 2조">[아!이뉴스] 고민 깊은 5G 중간요금제…네이버, 라인 없이도 분기 매출 2조</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['갤럭시Z4 폴드' S펜 슬롯 없다...예상 스펙 총정리]]></title>
         <id>https://n.news.naver.com/mnews/article/092/0002264641?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/092/0002264641?sid=105"/>
         <updated>2022-08-06T12:26:07.640Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002264641?sid=105" class="nclicks(rig.secteco)" title="'갤럭시Z4 폴드' S펜 슬롯 없다...예상 스펙 총정리">'갤럭시Z4 폴드' S펜 슬롯 없다...예상 스펙 총정리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['5G 중간 요금제' 처음 출시됐다…소비자 체감은 '글쎄']]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000991138?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000991138?sid=105"/>
-        <updated>2022-08-06T14:13:38.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000991138?sid=105" class="nclicks(rig.secteco)" title="'5G 중간 요금제' 처음 출시됐다…소비자 체감은 '글쎄'">'5G 중간 요금제' 처음 출시됐다…소비자 체감은 '글쎄'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광화문광장 수놓은 빛과 선율…오세훈 "서울 최고 랜드마크"]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001773516?sid=102" class="nclicks(rig.secteco)" title="이천 병원건물 화재 수사 본격화...숨진 간호사 추모 행렬">이천 병원건물 화재 수사 본격화...숨진 간호사 추모 행렬</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중계동에 멧돼지 출현…은행 ATM 부스 돌진했다 갇혔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000991137?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000991137?sid=102"/>
-        <updated>2022-08-06T15:15:24.012Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000991137?sid=102" class="nclicks(rig.secteco)" title="중계동에 멧돼지 출현…은행 ATM 부스 돌진했다 갇혔다">중계동에 멧돼지 출현…은행 ATM 부스 돌진했다 갇혔다</a>]]></content>
+        <title type="html"><![CDATA[은행 ‘ATM부스’에 들어간 멧돼지…음식점 돌진한 승용차]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011316059?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011316059?sid=102"/>
+        <updated>2022-08-06T16:20:25.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011316059?sid=102" class="nclicks(rig.secteco)" title="은행 ‘ATM부스’에 들어간 멧돼지…음식점 돌진한 승용차">은행 ‘ATM부스’에 들어간 멧돼지…음식점 돌진한 승용차</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 내일 '입추' 무더위... 곳곳 소나기]]></title>
