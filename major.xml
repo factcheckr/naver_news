@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-06T09:14:53.862Z</updated>
+    <updated>2022-08-06T10:17:11.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[野 당권주자들, 강원·대구서 첫 경선…"이기는 민주당"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013358199?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013358199?sid=100"/>
+        <updated>2022-08-06T10:16:45.444Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013358199?sid=100" class="nclicks(rig.secteco)" title="野 당권주자들, 강원·대구서 첫 경선…&quot;이기는 민주당&quot;(종합)">野 당권주자들, 강원·대구서 첫 경선…"이기는 민주당"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, 이천화재 빈소에 비서실장 보내…文은 제천화재 때 직접 조문]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003722693?sid=100</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003722693?sid=100" class="nclicks(rig.secteco)" title="尹, 이천화재 빈소에 비서실장 보내…文은 제천화재 때 직접 조문">尹, 이천화재 빈소에 비서실장 보내…文은 제천화재 때 직접 조문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李 "尹 독선 바로 잡는다" 朴 "李, 사당화" 姜 "李·朴 포용"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006262956?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006262956?sid=100"/>
-        <updated>2022-08-06T09:14:27.457Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006262956?sid=100" class="nclicks(rig.secteco)" title="李 &quot;尹 독선 바로 잡는다&quot; 朴 &quot;李, 사당화&quot; 姜 &quot;李·朴 포용&quot;(종합2보)">李 "尹 독선 바로 잡는다" 朴 "李, 사당화" 姜 "李·朴 포용"(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진 "조건없는 남북대화 필요" 언급에 北대사 "여건 조성돼야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013358098?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013358098?sid=100"/>
-        <updated>2022-08-06T06:19:32.725Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013358098?sid=100" class="nclicks(rig.secteco)" title="박진 &quot;조건없는 남북대화 필요&quot; 언급에 北대사 &quot;여건 조성돼야&quot;">박진 "조건없는 남북대화 필요" 언급에 北대사 "여건 조성돼야"</a>]]></content>
+        <title type="html"><![CDATA[이재명 웃었다… TK·강원 압승하며 “윤석열정권 퇴행 바로잡겠다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000690237?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000690237?sid=100"/>
+        <updated>2022-08-06T10:16:45.444Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000690237?sid=100" class="nclicks(rig.secteco)" title="이재명 웃었다… TK·강원 압승하며 “윤석열정권 퇴행 바로잡겠다”">이재명 웃었다… TK·강원 압승하며 “윤석열정권 퇴행 바로잡겠다”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 미국과 대화·협력 대거 '단절'... 펠로시와 가족도 제재]]></title>
@@ -41,25 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214836?sid=104" class="nclicks(rig.secteco)" title="中, 美 향해서도 칼 빼들었다…펠로시 제재, 협력 채널 대거 단절">中, 美 향해서도 칼 빼들었다…펠로시 제재, 협력 채널 대거 단절</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 곡물 수출 재개에 7월 세계 식량 가격 대폭 하락]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001213965?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001213965?sid=101"/>
-        <updated>2022-08-06T09:14:27.463Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001213965?sid=101" class="nclicks(rig.secteco)" title="우크라이나 곡물 수출 재개에 7월 세계 식량 가격 대폭 하락">우크라이나 곡물 수출 재개에 7월 세계 식량 가격 대폭 하락</a>]]></content>
+        <title type="html"><![CDATA[7월 세계식량가격 8.6% 하락하며 넉 달째↓…14년 만에 최대 폭]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011348240?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011348240?sid=101"/>
+        <updated>2022-08-06T10:16:45.446Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011348240?sid=101" class="nclicks(rig.secteco)" title="7월 세계식량가격 8.6% 하락하며 넉 달째↓…14년 만에 최대 폭">7월 세계식량가격 8.6% 하락하며 넉 달째↓…14년 만에 최대 폭</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["재벌가 맞아?"…'장교 출신' 최태원 차녀 민정 씨, SK하이닉스 휴직한 이유는]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000690074?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000690074?sid=101"/>
-        <updated>2022-08-06T09:14:27.464Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000690074?sid=101" class="nclicks(rig.secteco)" title="&quot;재벌가 맞아?&quot;…'장교 출신' 최태원 차녀 민정 씨, SK하이닉스 휴직한 이유는">"재벌가 맞아?"…'장교 출신' 최태원 차녀 민정 씨, SK하이닉스 휴직한 이유는</a>]]></content>
+        <title type="html"><![CDATA[재벌가 첫 자원입대…최태원 딸, 美서 무보수 근무 근황]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003292627?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003292627?sid=101"/>
+        <updated>2022-08-06T10:16:45.448Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003292627?sid=101" class="nclicks(rig.secteco)" title="재벌가 첫 자원입대…최태원 딸, 美서 무보수 근무 근황">재벌가 첫 자원입대…최태원 딸, 美서 무보수 근무 근황</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["주유소 기름값 1700원대 간다"?...한달새 국제유가 11%↓]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004779398?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004779398?sid=101"/>
-        <updated>2022-08-06T09:14:27.465Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004779398?sid=101" class="nclicks(rig.secteco)" title="&quot;주유소 기름값 1700원대 간다&quot;?...한달새 국제유가 11%↓">"주유소 기름값 1700원대 간다"?...한달새 국제유가 11%↓</a>]]></content>
+        <title type="html"><![CDATA[국내 기름값 5주 연속 하락‥이번 주 휘발유 56원↓ 경유 46원↓]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001213966?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001213966?sid=101"/>
+        <updated>2022-08-06T10:16:45.449Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001213966?sid=101" class="nclicks(rig.secteco)" title="국내 기름값 5주 연속 하락‥이번 주 휘발유 56원↓ 경유 46원↓">국내 기름값 5주 연속 하락‥이번 주 휘발유 56원↓ 경유 46원↓</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다누리, 전이궤도 진입 성공…달 향한 5개월 여정 시작]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000042850?sid=105" class="nclicks(rig.secteco)" title="세계 7대 우주강국 도약…‘아르테미스 프로젝트’ 첨병 역할">세계 7대 우주강국 도약…‘아르테미스 프로젝트’ 첨병 역할</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포] "매일 오고 싶어요"… 넓어진 광화문광장에 '휘둥그레']]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000840186?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000840186?sid=102"/>
-        <updated>2022-08-06T09:14:27.471Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000840186?sid=102" class="nclicks(rig.secteco)" title="[르포] &quot;매일 오고 싶어요&quot;… 넓어진 광화문광장에 '휘둥그레'">[르포] "매일 오고 싶어요"… 넓어진 광화문광장에 '휘둥그레'</a>]]></content>
+        <title type="html"><![CDATA[1년9개월 만에 돌아온 광화문광장…'집시 제한' 방침에 우려도]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003672275?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003672275?sid=102"/>
+        <updated>2022-08-06T10:16:45.457Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003672275?sid=102" class="nclicks(rig.secteco)" title="1년9개월 만에 돌아온 광화문광장…'집시 제한' 방침에 우려도">1년9개월 만에 돌아온 광화문광장…'집시 제한' 방침에 우려도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11만666명 확진, 닷새째 10만명 넘어…위중증 313명·사망 45명(종합)]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013357969?sid=102" class="nclicks(rig.secteco)" title="11만666명 확진, 닷새째 10만명 넘어…위중증 313명·사망 45명(종합)">11만666명 확진, 닷새째 10만명 넘어…위중증 313명·사망 45명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기 이천 병원건물 화재로 숨진 간호사 추모 줄이어]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000165357?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000165357?sid=102"/>
-        <updated>2022-08-06T09:14:27.471Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000165357?sid=102" class="nclicks(rig.secteco)" title="경기 이천 병원건물 화재로 숨진 간호사 추모 줄이어">경기 이천 병원건물 화재로 숨진 간호사 추모 줄이어</a>]]></content>
+        <title type="html"><![CDATA[이천 병원 화재 원인은…3층 철거 작업자들 "불꽃 작업 안 했다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000308701?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000308701?sid=102"/>
+        <updated>2022-08-06T10:16:45.460Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000308701?sid=102" class="nclicks(rig.secteco)" title="이천 병원 화재 원인은…3층 철거 작업자들 &quot;불꽃 작업 안 했다&quot;">이천 병원 화재 원인은…3층 철거 작업자들 "불꽃 작업 안 했다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 입추...낮 최고기온 36도 '폭염', 수도권 등 소나기]]></title>
