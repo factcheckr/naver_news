@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-08T16:23:24.549Z</updated>
+    <updated>2022-08-08T17:22:00.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003708676?sid=100" class="nclicks(rig.secteco)" title="칩4, 사드, 대만.. 왕이와 회담 앞둔 박진 “분명한 입장 밝힐것”">칩4, 사드, 대만.. 왕이와 회담 앞둔 박진 “분명한 입장 밝힐것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005129441?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005129441?sid=100"/>
-        <updated>2022-08-08T16:22:54.617Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005129441?sid=100" class="nclicks(rig.secteco)" title="윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속">윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 美, 한국에 '칩4 예비회동' 제안]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005001405?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005001405?sid=100"/>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005001405?sid=100" class="nclicks(rig.secteco)" title="[단독] 美, 한국에 '칩4 예비회동' 제안">[단독] 美, 한국에 '칩4 예비회동' 제안</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대만 압박' 군사훈련, 中 기한 넘긴채 지속]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004734423?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004734423?sid=104"/>
-        <updated>2022-08-08T16:22:54.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004734423?sid=104" class="nclicks(rig.secteco)" title="'대만 압박' 군사훈련, 中 기한 넘긴채 지속">'대만 압박' 군사훈련, 中 기한 넘긴채 지속</a>]]></content>
+        <title type="html"><![CDATA[윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005129441?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005129441?sid=100"/>
+        <updated>2022-08-08T16:22:54.617Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005129441?sid=100" class="nclicks(rig.secteco)" title="윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속">윤희근 후보자 인사청문회… 여야 경찰국 신설 놓고 공방 계속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러 외무 "자포리자 원전 포격한 우크라, 유럽 전체 인질 삼는다"(상보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006266417?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006266417?sid=104"/>
-        <updated>2022-08-08T16:22:54.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006266417?sid=104" class="nclicks(rig.secteco)" title="러 외무 &quot;자포리자 원전 포격한 우크라, 유럽 전체 인질 삼는다&quot;(상보)">러 외무 "자포리자 원전 포격한 우크라, 유럽 전체 인질 삼는다"(상보)</a>]]></content>
+        <title type="html"><![CDATA[[단독] 대만 하늘길, 4일만에 다시 열렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004085102?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004085102?sid=104"/>
+        <updated>2022-08-08T17:21:31.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004085102?sid=104" class="nclicks(rig.secteco)" title="[단독] 대만 하늘길, 4일만에 다시 열렸다">[단독] 대만 하늘길, 4일만에 다시 열렸다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라 원전 화재, 유럽 '핵 재앙' 위기 처했다…"후쿠시마 능가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003214991?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003214991?sid=104"/>
+        <updated>2022-08-08T17:21:31.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003214991?sid=104" class="nclicks(rig.secteco)" title="우크라 원전 화재, 유럽 '핵 재앙' 위기 처했다…&quot;후쿠시마 능가&quot;">우크라 원전 화재, 유럽 '핵 재앙' 위기 처했다…"후쿠시마 능가"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자영업자 연체빚 탕감 ‘새출발기금’ 30조 논란]]></title>
