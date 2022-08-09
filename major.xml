@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-09T21:15:40.678Z</updated>
+    <updated>2022-08-09T22:15:59.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003673324?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100"/>
-        <updated>2022-08-09T21:15:14.043Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100" class="nclicks(rig.secteco)" title="국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날">국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[팽팽했던 한중 외교장관 회담…사드·칩4 등에서 입장차 확연]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003673329?sid=100</id>
@@ -20,11 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673329?sid=100" class="nclicks(rig.secteco)" title="팽팽했던 한중 외교장관 회담…사드·칩4 등에서 입장차 확연">팽팽했던 한중 외교장관 회담…사드·칩4 등에서 입장차 확연</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야, 교육위서 '만 5세 입학' 질타... 與 "무리한 추진" vs 野 "정책 뺑소니"]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002282749?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002282749?sid=100"/>
-        <updated>2022-08-09T20:17:49.729Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002282749?sid=100" class="nclicks(rig.secteco)" title="여야, 교육위서 '만 5세 입학' 질타... 與 &quot;무리한 추진&quot; vs 野 &quot;정책 뺑소니&quot;">여야, 교육위서 '만 5세 입학' 질타... 與 "무리한 추진" vs 野 "정책 뺑소니"</a>]]></content>
+        <title type="html"><![CDATA[국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003673324?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100"/>
+        <updated>2022-08-09T21:15:14.043Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100" class="nclicks(rig.secteco)" title="국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날">국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“만 5세 입학, 추진 어려워”…대통령실 쪽지도 논란]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011317891?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011317891?sid=100"/>
+        <updated>2022-08-09T22:15:31.002Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011317891?sid=100" class="nclicks(rig.secteco)" title="“만 5세 입학, 추진 어려워”…대통령실 쪽지도 논란">“만 5세 입학, 추진 어려워”…대통령실 쪽지도 논란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트럼프 "FBI, 내 금고까지 뒤져"…美 초유의 전직 대통령 압수수색]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002254653?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002254653?sid=104"/>
+        <updated>2022-08-09T22:15:31.003Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002254653?sid=104" class="nclicks(rig.secteco)" title="트럼프 &quot;FBI, 내 금고까지 뒤져&quot;…美 초유의 전직 대통령 압수수색">트럼프 "FBI, 내 금고까지 뒤져"…美 초유의 전직 대통령 압수수색</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 '대만침공' 훈련, '주한미군 억제' 노린다..."남 일 아니다"]]></title>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000690699?sid=104" class="nclicks(rig.secteco)" title="중국 '대만침공' 훈련, '주한미군 억제' 노린다...&quot;남 일 아니다&quot;">중국 '대만침공' 훈련, '주한미군 억제' 노린다..."남 일 아니다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별장 압수수색에...반격 나선 트럼프 ‘2024 대선 출마’ 암시 영상 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709028?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709028?sid=104"/>
-        <updated>2022-08-09T21:15:14.052Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709028?sid=104" class="nclicks(rig.secteco)" title="별장 압수수색에...반격 나선 트럼프 ‘2024 대선 출마’ 암시 영상 공개">별장 압수수색에...반격 나선 트럼프 ‘2024 대선 출마’ 암시 영상 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안심전환대출 대상은…'4억원이하 주택·소득 7천만원이하' 가능]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013364795?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013364795?sid=101"/>
-        <updated>2022-08-09T21:15:14.055Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013364795?sid=101" class="nclicks(rig.secteco)" title="안심전환대출 대상은…'4억원이하 주택·소득 7천만원이하' 가능">안심전환대출 대상은…'4억원이하 주택·소득 7천만원이하' 가능</a>]]></content>
+        <title type="html"><![CDATA[변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003215678?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003215678?sid=101"/>
+        <updated>2022-08-09T22:15:31.006Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003215678?sid=101" class="nclicks(rig.secteco)" title="변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?">변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금융권, 수도권 집중호우 피해 긴급 금융지원 나서]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673327?sid=102" class="nclicks(rig.secteco)" title="윤 대통령, 8·15 '경제인 사면'에 방점…MB·김경수 사면 '신중'">윤 대통령, 8·15 '경제인 사면'에 방점…MB·김경수 사면 '신중'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강변북로·올림픽대로 일부 구간 통제‥이 시각 교통상황]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001214700?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001214700?sid=102"/>
-        <updated>2022-08-09T21:15:14.062Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001214700?sid=102" class="nclicks(rig.secteco)" title="강변북로·올림픽대로 일부 구간 통제‥이 시각 교통상황">강변북로·올림픽대로 일부 구간 통제‥이 시각 교통상황</a>]]></content>
+        <title type="html"><![CDATA[오늘 충청권 최대 300㎜ 물폭탄…서울 지하철 정상 운행 [모닝브리핑]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004735030?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004735030?sid=102"/>
+        <updated>2022-08-09T22:15:31.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004735030?sid=102" class="nclicks(rig.secteco)" title="오늘 충청권 최대 300㎜ 물폭탄…서울 지하철 정상 운행 [모닝브리핑]">오늘 충청권 최대 300㎜ 물폭탄…서울 지하철 정상 운행 [모닝브리핑]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베트남전 민간인 피해자 법정 첫 출석 “진상규명 나서 달라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001545519?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001545519?sid=102"/>
-        <updated>2022-08-09T19:16:28.917Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001545519?sid=102" class="nclicks(rig.secteco)" title="베트남전 민간인 피해자 법정 첫 출석 “진상규명 나서 달라”">베트남전 민간인 피해자 법정 첫 출석 “진상규명 나서 달라”</a>]]></content>
+        <title type="html"><![CDATA["총을 겨눈 건 한국군이 맞다"...베트남전 민간인 학살 목격자가 기억하는 그날]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000309172?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000309172?sid=102"/>
+        <updated>2022-08-09T22:15:31.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000309172?sid=102" class="nclicks(rig.secteco)" title="&quot;총을 겨눈 건 한국군이 맞다&quot;...베트남전 민간인 학살 목격자가 기억하는 그날">"총을 겨눈 건 한국군이 맞다"...베트남전 민간인 학살 목격자가 기억하는 그날</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대급 폭우에… 현대차·기아·쌍용차, '피해 차' 수리비 특별 지원]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000841239?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000841239?sid=103"/>
-        <updated>2022-08-09T21:15:14.065Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000841239?sid=103" class="nclicks(rig.secteco)" title="역대급 폭우에… 현대차·기아·쌍용차, '피해 차' 수리비 특별 지원">역대급 폭우에… 현대차·기아·쌍용차, '피해 차' 수리비 특별 지원</a>]]></content>
+        <title type="html"><![CDATA[운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005287846?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005287846?sid=103"/>
+        <updated>2022-08-09T22:15:31.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005287846?sid=103" class="nclicks(rig.secteco)" title="운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]">운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[車업계, "2027년 자율주행 '레벨4' 상용화 투자·정책 지원 시급"]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000690557?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000690557?sid=103"/>
-        <updated>2022-08-09T20:17:49.748Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000690557?sid=103" class="nclicks(rig.secteco)" title="車업계, &quot;2027년 자율주행 '레벨4' 상용화 투자·정책 지원 시급&quot;">車업계, "2027년 자율주행 '레벨4' 상용화 투자·정책 지원 시급"</a>]]></content>
+        <title type="html"><![CDATA[[중부 집중호우] 천연기념물 나무·왕릉·남한산성…문화재 곳곳 상처(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013364500?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013364500?sid=103"/>
+        <updated>2022-08-09T22:15:31.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013364500?sid=103" class="nclicks(rig.secteco)" title="[중부 집중호우] 천연기념물 나무·왕릉·남한산성…문화재 곳곳 상처(종합)">[중부 집중호우] 천연기념물 나무·왕릉·남한산성…문화재 곳곳 상처(종합)</a>]]></content>
     </entry>
 </feed>
