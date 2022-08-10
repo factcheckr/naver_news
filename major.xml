@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-09T23:17:08.985Z</updated>
+    <updated>2022-08-10T01:22:32.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004085851?sid=100" class="nclicks(rig.secteco)" title="박진, 왕이 앞에서 칩4 예비회의 참가 통보…中 “적절하게 판단 기대”">박진, 왕이 앞에서 칩4 예비회의 참가 통보…中 “적절하게 판단 기대”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003673324?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100"/>
-        <updated>2022-08-09T21:15:14.043Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673324?sid=100" class="nclicks(rig.secteco)" title="국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날">국민의힘 '혁신형 관리 비대위' 띄웠다, 이름 만큼 험난한 앞날</a>]]></content>
+        <title type="html"><![CDATA[이준석 대신 윤석열 택한 청년대변인? "쓴소리 많이 하겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002362517?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002362517?sid=100"/>
+        <updated>2022-08-10T01:22:02.641Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362517?sid=100" class="nclicks(rig.secteco)" title="이준석 대신 윤석열 택한 청년대변인? &quot;쓴소리 많이 하겠다&quot;">이준석 대신 윤석열 택한 청년대변인? "쓴소리 많이 하겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, 김혜경 출석 요구…이재명 측 "2만 6천원만 결제"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001682605?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001682605?sid=100"/>
-        <updated>2022-08-09T23:16:38.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001682605?sid=100" class="nclicks(rig.secteco)" title="경찰, 김혜경 출석 요구…이재명 측 &quot;2만 6천원만 결제&quot;">경찰, 김혜경 출석 요구…이재명 측 "2만 6천원만 결제"</a>]]></content>
+        <title type="html"><![CDATA[주호영, "빠른 시간 내 지도체제 구축...혁신 비대위 꾸린다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004880693?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004880693?sid=100"/>
+        <updated>2022-08-10T01:22:02.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004880693?sid=100" class="nclicks(rig.secteco)" title="주호영, &quot;빠른 시간 내 지도체제 구축...혁신 비대위 꾸린다&quot;">주호영, "빠른 시간 내 지도체제 구축...혁신 비대위 꾸린다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004781259?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004781259?sid=104"/>
+        <updated>2022-08-10T01:22:02.644Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004781259?sid=104" class="nclicks(rig.secteco)" title="'美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명">'美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 자택 압수수색…무슨 문서를 빼돌렸길래]]></title>
@@ -34,80 +41,73 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000369174?sid=104" class="nclicks(rig.secteco)" title="트럼프 자택 압수수색…무슨 문서를 빼돌렸길래">트럼프 자택 압수수색…무슨 문서를 빼돌렸길래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스새벽배송]바이든, 美 반도체 산업육성법 서명…관련株는 약세]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005288127?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005288127?sid=104"/>
-        <updated>2022-08-09T23:16:38.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005288127?sid=104" class="nclicks(rig.secteco)" title="[뉴스새벽배송]바이든, 美 반도체 산업육성법 서명…관련株는 약세">[뉴스새벽배송]바이든, 美 반도체 산업육성법 서명…관련株는 약세</a>]]></content>
+        <title type="html"><![CDATA[“3.7% 고정금리로 갈아타세요”… 서민용 안심전환대출 9월에 나온다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003709047?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003709047?sid=101"/>
+        <updated>2022-08-10T01:22:02.647Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709047?sid=101" class="nclicks(rig.secteco)" title="“3.7% 고정금리로 갈아타세요”… 서민용 안심전환대출 9월에 나온다">“3.7% 고정금리로 갈아타세요”… 서민용 안심전환대출 9월에 나온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003215678?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003215678?sid=101"/>
-        <updated>2022-08-09T22:15:31.006Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003215678?sid=101" class="nclicks(rig.secteco)" title="변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?">변동금리→연4% 고정금리…주담대 부담 줄인다, 집값 기준은?</a>]]></content>
+        <title type="html"><![CDATA[7월 취업자 두 달 연속 주춤…"금리 인상·코로나 확산 하방요인"(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011354549?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011354549?sid=101"/>
+        <updated>2022-08-10T01:22:02.648Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011354549?sid=101" class="nclicks(rig.secteco)" title="7월 취업자 두 달 연속 주춤…&quot;금리 인상·코로나 확산 하방요인&quot;(종합2보)">7월 취업자 두 달 연속 주춤…"금리 인상·코로나 확산 하방요인"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융권, 수도권 집중호우 피해 긴급 금융지원 나서]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000833107?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000833107?sid=101"/>
-        <updated>2022-08-09T12:34:44.410Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000833107?sid=101" class="nclicks(rig.secteco)" title="금융권, 수도권 집중호우 피해 긴급 금융지원 나서">금융권, 수도권 집중호우 피해 긴급 금융지원 나서</a>]]></content>
+        <title type="html"><![CDATA[전기차부터 제주살이 상품까지...편의점 추석선물 뭐 있나]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011354507?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011354507?sid=101"/>
+        <updated>2022-08-10T01:22:02.650Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011354507?sid=101" class="nclicks(rig.secteco)" title="전기차부터 제주살이 상품까지...편의점 추석선물 뭐 있나">전기차부터 제주살이 상품까지...편의점 추석선물 뭐 있나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 쏘카, 코스피 상장 강행…공모가 2.8만원 사실상 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005002246?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005002246?sid=101"/>
-        <updated>2022-08-09T11:13:40.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005002246?sid=101" class="nclicks(rig.secteco)" title="[단독] 쏘카, 코스피 상장 강행…공모가 2.8만원 사실상 확정">[단독] 쏘카, 코스피 상장 강행…공모가 2.8만원 사실상 확정</a>]]></content>
+        <title type="html"><![CDATA[SKT-고용노동부-산업인력공단, 디지털 인재 年100명 키운다]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004880829?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004880829?sid=105"/>
+        <updated>2022-08-10T01:22:02.651Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004880829?sid=105" class="nclicks(rig.secteco)" title="SKT-고용노동부-산업인력공단, 디지털 인재 年100명 키운다">SKT-고용노동부-산업인력공단, 디지털 인재 年100명 키운다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK텔레콤, 양호한 실적·3분기 배당 매력 부각-삼성]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005288119?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005288119?sid=105"/>
-        <updated>2022-08-09T23:16:38.505Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005288119?sid=105" class="nclicks(rig.secteco)" title="SK텔레콤, 양호한 실적·3분기 배당 매력 부각-삼성">SK텔레콤, 양호한 실적·3분기 배당 매력 부각-삼성</a>]]></content>
+        <title type="html"><![CDATA["오늘밤 새로 접어라"…미리보는 삼성 폴더블 언팩]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004880848?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004880848?sid=105"/>
+        <updated>2022-08-10T01:22:02.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004880848?sid=105" class="nclicks(rig.secteco)" title="&quot;오늘밤 새로 접어라&quot;…미리보는 삼성 폴더블 언팩">"오늘밤 새로 접어라"…미리보는 삼성 폴더블 언팩</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 잡는 방통위, 사실조사 전환…IT업계 비판·응원 동시에]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005130339?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005130339?sid=105"/>
-        <updated>2022-08-09T23:16:38.507Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005130339?sid=105" class="nclicks(rig.secteco)" title="구글 잡는 방통위, 사실조사 전환…IT업계 비판·응원 동시에">구글 잡는 방통위, 사실조사 전환…IT업계 비판·응원 동시에</a>]]></content>
+        <title type="html"><![CDATA[비 멈췄지만 출근대란… “다리 건너는데 30분, 강변북로 주차장 됐다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003709060?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003709060?sid=102"/>
+        <updated>2022-08-10T01:22:02.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709060?sid=102" class="nclicks(rig.secteco)" title="비 멈췄지만 출근대란… “다리 건너는데 30분, 강변북로 주차장 됐다”">비 멈췄지만 출근대란… “다리 건너는데 30분, 강변북로 주차장 됐다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올림픽대로·강변북로 일부 통제…지하철은 정상 운행]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003673336?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003673336?sid=102"/>
-        <updated>2022-08-09T23:16:38.507Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673336?sid=102" class="nclicks(rig.secteco)" title="올림픽대로·강변북로 일부 통제…지하철은 정상 운행">올림픽대로·강변북로 일부 통제…지하철은 정상 운행</a>]]></content>
+        <title type="html"><![CDATA[확진 15만 1792명, 넉달새 최다…위중증 402명, 사망 50명(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005288235?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005288235?sid=102"/>
+        <updated>2022-08-10T01:22:02.657Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005288235?sid=102" class="nclicks(rig.secteco)" title="확진 15만 1792명, 넉달새 최다…위중증 402명, 사망 50명(종합)">확진 15만 1792명, 넉달새 최다…위중증 402명, 사망 50명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 8·15 '경제인 사면'에 방점…MB·김경수 사면 '신중']]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003673327?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003673327?sid=102"/>
-        <updated>2022-08-09T21:15:14.061Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003673327?sid=102" class="nclicks(rig.secteco)" title="윤 대통령, 8·15 '경제인 사면'에 방점…MB·김경수 사면 '신중'">윤 대통령, 8·15 '경제인 사면'에 방점…MB·김경수 사면 '신중'</a>]]></content>
+        <title type="html"><![CDATA[[속보]10대 청소년 귀가하다 급류에 휘말려 실종…중대본 "17명 사망·실종 이재민 398세대 570명 발생"]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000916668?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000916668?sid=102"/>
+        <updated>2022-08-10T01:22:02.658Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000916668?sid=102" class="nclicks(rig.secteco)" title="[속보]10대 청소년 귀가하다 급류에 휘말려 실종…중대본 &quot;17명 사망·실종 이재민 398세대 570명 발생&quot;">[속보]10대 청소년 귀가하다 급류에 휘말려 실종…중대본 "17명 사망·실종 이재민 398세대 570명 발생"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["총을 겨눈 건 한국군이 맞다"...베트남전 민간인 학살 목격자가 기억하는 그날]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000309172?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000309172?sid=102"/>
-        <updated>2022-08-09T22:15:31.019Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000309172?sid=102" class="nclicks(rig.secteco)" title="&quot;총을 겨눈 건 한국군이 맞다&quot;...베트남전 민간인 학살 목격자가 기억하는 그날">"총을 겨눈 건 한국군이 맞다"...베트남전 민간인 학살 목격자가 기억하는 그날</a>]]></content>
+        <title type="html"><![CDATA[“네가 알던 내가 아냐”…기아, 5년 만에 확 바뀐 '신형 레이' 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005002628?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005002628?sid=103"/>
+        <updated>2022-08-10T01:22:02.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005002628?sid=103" class="nclicks(rig.secteco)" title="“네가 알던 내가 아냐”…기아, 5년 만에 확 바뀐 '신형 레이' 공개">“네가 알던 내가 아냐”…기아, 5년 만에 확 바뀐 '신형 레이' 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충청 내일까지 300mm 물벼락…수도권은 비 소강]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000555087?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000555087?sid=103"/>
-        <updated>2022-08-09T23:16:38.510Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000555087?sid=103" class="nclicks(rig.secteco)" title="충청 내일까지 300mm 물벼락…수도권은 비 소강">충청 내일까지 300mm 물벼락…수도권은 비 소강</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005287846?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005287846?sid=103"/>
-        <updated>2022-08-09T22:15:31.020Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005287846?sid=103" class="nclicks(rig.secteco)" title="운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]">운전하다 물이 차면 어떡하죠? 전기차는 더 위험한가요[궁즉답]</a>]]></content>
+        <title type="html"><![CDATA[車 업계, 수해 특별 지원 팔 걷어붙여…수리비 할인·렌트 비용 지원]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000165942?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000165942?sid=103"/>
+        <updated>2022-08-10T01:22:02.663Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000165942?sid=103" class="nclicks(rig.secteco)" title="車 업계, 수해 특별 지원 팔 걷어붙여…수리비 할인·렌트 비용 지원">車 업계, 수해 특별 지원 팔 걷어붙여…수리비 할인·렌트 비용 지원</a>]]></content>
     </entry>
 </feed>
