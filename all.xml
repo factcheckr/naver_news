@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-10T04:20:15.459Z</updated>
+    <updated>2022-08-10T05:15:14.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['尹 비판·이준석 키즈' 박민영 영입…대통령실 공보라인 변화하나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,67 +19,74 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362555?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 폭우 피해 발생 사흘 만에 &quot;죄송한 마음&quot;">윤 대통령, 폭우 피해 발생 사흘 만에 "죄송한 마음"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원, 이준석 가처분 신청 접수…비대위 효력 정지될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005288506?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005288506?sid=100"/>
-        <updated>2022-08-10T04:19:48.197Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005288506?sid=100" class="nclicks(rig.secteco)" title="법원, 이준석 가처분 신청 접수…비대위 효력 정지될까">법원, 이준석 가처분 신청 접수…비대위 효력 정지될까</a>]]></content>
+        <title type="html"><![CDATA[이준석, ‘주호영 비대위 전환’ 효력정지 가처분 신청… 전면전 선포 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003723837?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003723837?sid=100"/>
+        <updated>2022-08-10T05:14:49.418Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003723837?sid=100" class="nclicks(rig.secteco)" title="이준석, ‘주호영 비대위 전환’ 효력정지 가처분 신청… 전면전 선포">이준석, ‘주호영 비대위 전환’ 효력정지 가처분 신청… 전면전 선포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외신도 서울 물폭탄 일제 보도…기생충 'banjiha' 언급 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000298327?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000298327?sid=104"/>
-        <updated>2022-08-10T04:19:48.197Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000298327?sid=104" class="nclicks(rig.secteco)" title="외신도 서울 물폭탄 일제 보도…기생충 'banjiha' 언급">외신도 서울 물폭탄 일제 보도…기생충 'banjiha' 언급</a>]]></content>
+        <title type="html"><![CDATA["'기생충 그 반지하'서 3명 사망"…'물폭탄' 보도한 외신들 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005288508?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005288508?sid=104"/>
+        <updated>2022-08-10T05:14:49.424Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005288508?sid=104" class="nclicks(rig.secteco)" title="&quot;'기생충 그 반지하'서 3명 사망&quot;…'물폭탄' 보도한 외신들">"'기생충 그 반지하'서 3명 사망"…'물폭탄' 보도한 외신들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004781259?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004781259?sid=104"/>
-        <updated>2022-08-10T04:19:48.198Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004781259?sid=104" class="nclicks(rig.secteco)" title="'美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명">'美자금이냐? 中시장이냐?'…바이든 '반도체지원법' 최종 서명</a>]]></content>
+        <title type="html"><![CDATA['FBI 급습' 트럼프…기밀문서 반출 혐의 유죄받으면 대선 출마는? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006270100?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006270100?sid=104"/>
+        <updated>2022-08-10T05:14:49.425Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006270100?sid=104" class="nclicks(rig.secteco)" title="'FBI 급습' 트럼프…기밀문서 반출 혐의 유죄받으면 대선 출마는?">'FBI 급습' 트럼프…기밀문서 반출 혐의 유죄받으면 대선 출마는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7월 전금융권 가계대출 1조↓...금융위 '대출규제 완화' 시사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002282854?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002282854?sid=101"/>
-        <updated>2022-08-10T04:19:48.199Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002282854?sid=101" class="nclicks(rig.secteco)" title="7월 전금융권 가계대출 1조↓...금융위 '대출규제 완화' 시사">7월 전금융권 가계대출 1조↓...금융위 '대출규제 완화' 시사</a>]]></content>
+        <title type="html"><![CDATA[금리상승에 은행권 가계대출 넉달만에 뒷걸음…3천억원 감소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013365707?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013365707?sid=101"/>
+        <updated>2022-08-10T05:14:49.429Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013365707?sid=101" class="nclicks(rig.secteco)" title="금리상승에 은행권 가계대출 넉달만에 뒷걸음…3천억원 감소">금리상승에 은행권 가계대출 넉달만에 뒷걸음…3천억원 감소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7월 취업자 82.6만명↑ 두달째 둔화…내리막길 시작되나(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013365512?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013365512?sid=101"/>
-        <updated>2022-08-10T03:03:41.994Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013365512?sid=101" class="nclicks(rig.secteco)" title="7월 취업자 82.6만명↑ 두달째 둔화…내리막길 시작되나(종합2보)">7월 취업자 82.6만명↑ 두달째 둔화…내리막길 시작되나(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[코로나19로 휘청인 자영업자·소상공인, 저금리 대환 받으려면? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011318158?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011318158?sid=101"/>
+        <updated>2022-08-10T05:14:49.431Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011318158?sid=101" class="nclicks(rig.secteco)" title="코로나19로 휘청인 자영업자·소상공인, 저금리 대환 받으려면?">코로나19로 휘청인 자영업자·소상공인, 저금리 대환 받으려면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반도체 특별법에 '디스플레이' 포함될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000690840?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000690840?sid=101"/>
-        <updated>2022-08-10T04:19:48.210Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000690840?sid=101" class="nclicks(rig.secteco)" title="반도체 특별법에 '디스플레이' 포함될까">반도체 특별법에 '디스플레이' 포함될까</a>]]></content>
+        <title type="html"><![CDATA[삼성D, 갤폴드4 OLED 공개…LGD "투명하다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002264988?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002264988?sid=101"/>
+        <updated>2022-08-10T05:14:49.432Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002264988?sid=101" class="nclicks(rig.secteco)" title="삼성D, 갤폴드4 OLED 공개…LGD &quot;투명하다&quot;">삼성D, 갤폴드4 OLED 공개…LGD "투명하다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[종합] KT 올 상반기 12.5조 벌었다..연결매출 역대 최대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004880998?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004880998?sid=105"/>
-        <updated>2022-08-10T04:19:48.210Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004880998?sid=105" class="nclicks(rig.secteco)" title="[종합] KT 올 상반기 12.5조 벌었다..연결매출 역대 최대">[종합] KT 올 상반기 12.5조 벌었다..연결매출 역대 최대</a>]]></content>
+        <title type="html"><![CDATA[‘우영우’가 끌고 ‘클라우드’가 밀고 KT 상반기 매출 ‘신기록’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002026960?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002026960?sid=105"/>
+        <updated>2022-08-10T05:14:49.434Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002026960?sid=105" class="nclicks(rig.secteco)" title="‘우영우’가 끌고 ‘클라우드’가 밀고 KT 상반기 매출 ‘신기록’">‘우영우’가 끌고 ‘클라우드’가 밀고 KT 상반기 매출 ‘신기록’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[갤럭시언팩 2022] 오늘 펼치는 삼성 '갤럭시Z4'…폴더블폰 대중화 기점 될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000690828?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000690828?sid=105"/>
-        <updated>2022-08-10T04:19:48.210Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000690828?sid=105" class="nclicks(rig.secteco)" title="[갤럭시언팩 2022] 오늘 펼치는 삼성 '갤럭시Z4'…폴더블폰 대중화 기점 될까">[갤럭시언팩 2022] 오늘 펼치는 삼성 '갤럭시Z4'…폴더블폰 대중화 기점 될까</a>]]></content>
+        <title type="html"><![CDATA['폴더블폰 세상' 꿈꾸는 삼성, 갤럭시Z 폴드·플립4 오늘밤 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002264992?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002264992?sid=105"/>
+        <updated>2022-08-10T05:14:49.434Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002264992?sid=105" class="nclicks(rig.secteco)" title="'폴더블폰 세상' 꿈꾸는 삼성, 갤럭시Z 폴드·플립4 오늘밤 공개">'폴더블폰 세상' 꿈꾸는 삼성, 갤럭시Z 폴드·플립4 오늘밤 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규확진 15만명 넘었다…위중증·사망도 402명·50명으로 급증(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013365253?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013365253?sid=102"/>
-        <updated>2022-08-10T03:03:42.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013365253?sid=102" class="nclicks(rig.secteco)" title="신규확진 15만명 넘었다…위중증·사망도 402명·50명으로 급증(종합)">신규확진 15만명 넘었다…위중증·사망도 402명·50명으로 급증(종합)</a>]]></content>
+        <title type="html"><![CDATA[[단독] 검찰, '박철민 돈다발 ' 장영하 변호사 구속영장 불청구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000991950?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000991950?sid=102"/>
+        <updated>2022-08-10T05:14:49.438Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000991950?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰, '박철민 돈다발 ' 장영하 변호사 구속영장 불청구">[단독] 검찰, '박철민 돈다발 ' 장영하 변호사 구속영장 불청구</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제주4·3사건' 일반재판 피해자도 검찰이 직권재심 청구(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013365983?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013365983?sid=102"/>
+        <updated>2022-08-10T05:14:49.439Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013365983?sid=102" class="nclicks(rig.secteco)" title="'제주4·3사건' 일반재판 피해자도 검찰이 직권재심 청구(종합)">'제주4·3사건' 일반재판 피해자도 검찰이 직권재심 청구(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부 "8월 중 확진자 정점 20만명 전망"…전망치 다시 상향(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -87,13 +94,6 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013365765?sid=102"/>
         <updated>2022-08-10T04:19:48.210Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013365765?sid=102" class="nclicks(rig.secteco)" title="정부 &quot;8월 중 확진자 정점 20만명 전망&quot;…전망치 다시 상향(종합)">정부 "8월 중 확진자 정점 20만명 전망"…전망치 다시 상향(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈, ‘제주 4·3 사건’ 직권재심 청구 확대 지시…연이은 ‘탈진영’ 행보 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003165692?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003165692?sid=102"/>
-        <updated>2022-08-10T04:19:48.216Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003165692?sid=102" class="nclicks(rig.secteco)" title="한동훈, ‘제주 4·3 사건’ 직권재심 청구 확대 지시…연이은 ‘탈진영’ 행보">한동훈, ‘제주 4·3 사건’ 직권재심 청구 확대 지시…연이은 ‘탈진영’ 행보</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기아 레이, 5년 만에 얼굴 바꾼다…9월 상품성 개선형 출시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
