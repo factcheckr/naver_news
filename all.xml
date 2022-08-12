@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-12T19:13:43.318Z</updated>
+    <updated>2022-08-12T20:17:40.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[한국 온 유엔 사무총장 “북핵 CVID 지지” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709754?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709754?sid=100"/>
-        <updated>2022-08-12T19:13:13.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709754?sid=100" class="nclicks(rig.secteco)" title="한국 온 유엔 사무총장 “북핵 CVID 지지”">한국 온 유엔 사무총장 “북핵 CVID 지지”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013371761?sid=100</id>
@@ -19,18 +12,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013371761?sid=100" class="nclicks(rig.secteco)" title="F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)">F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['수해현장 실언' 김성원 "평생 반성하고 속죄하겠다" [뉴시스Pic] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011360306?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011360306?sid=100"/>
-        <updated>2022-08-12T19:13:13.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011360306?sid=100" class="nclicks(rig.secteco)" title="'수해현장 실언' 김성원 &quot;평생 반성하고 속죄하겠다&quot; [뉴시스Pic]">'수해현장 실언' 김성원 "평생 반성하고 속죄하겠다" [뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[유엔 사무총장 "북한의 불가역적인 비핵화 완전 지지" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002362817?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002362817?sid=100"/>
+        <updated>2022-08-12T20:17:08.614Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362817?sid=100" class="nclicks(rig.secteco)" title="유엔 사무총장 &quot;북한의 불가역적인 비핵화 완전 지지&quot;">유엔 사무총장 "북한의 불가역적인 비핵화 완전 지지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트럼프 지지자, 무장한채 FBI 침입하려다 사살돼 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709726?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709726?sid=104"/>
-        <updated>2022-08-12T19:13:13.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709726?sid=104" class="nclicks(rig.secteco)" title="트럼프 지지자, 무장한채 FBI 침입하려다 사살돼">트럼프 지지자, 무장한채 FBI 침입하려다 사살돼</a>]]></content>
+        <title type="html"><![CDATA[주호영 “김성원 발언, 윤리위 절차 밟을 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003709756?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003709756?sid=100"/>
+        <updated>2022-08-12T20:17:08.615Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709756?sid=100" class="nclicks(rig.secteco)" title="주호영 “김성원 발언, 윤리위 절차 밟을 것”">주호영 “김성원 발언, 윤리위 절차 밟을 것”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WP "FBI 압수수색 대상에 핵기밀문건 포함"…트럼프 "날조"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013372687?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013372687?sid=104"/>
+        <updated>2022-08-12T20:17:08.616Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013372687?sid=104" class="nclicks(rig.secteco)" title="WP &quot;FBI 압수수색 대상에 핵기밀문건 포함&quot;…트럼프 &quot;날조&quot;(종합)">WP "FBI 압수수색 대상에 핵기밀문건 포함"…트럼프 "날조"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러·우크라, '자포리자 원전 위기' 책임 공방…유엔서도 '으르렁'(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,18 +47,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003445278?sid=101" class="nclicks(rig.secteco)" title="한전 상반기 적자 14조… 올해 30조 될 듯">한전 상반기 적자 14조… 올해 30조 될 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 “반지하도 사람 사는 곳… 없애면 어디로 가야 하나” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003724791?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003724791?sid=101"/>
-        <updated>2022-08-12T18:19:47.228Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003724791?sid=101" class="nclicks(rig.secteco)" title="원희룡 “반지하도 사람 사는 곳… 없애면 어디로 가야 하나”">원희룡 “반지하도 사람 사는 곳… 없애면 어디로 가야 하나”</a>]]></content>
+        <title type="html"><![CDATA[원희룡 “반지하 없애면 그분들 어디로 가나”…오세훈과 엇박자 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002602239?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002602239?sid=101"/>
+        <updated>2022-08-12T20:17:08.628Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002602239?sid=101" class="nclicks(rig.secteco)" title="원희룡 “반지하 없애면 그분들 어디로 가나”…오세훈과 엇박자">원희룡 “반지하 없애면 그분들 어디로 가나”…오세훈과 엇박자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용 “국가경제 위해 열심히 뛰겠다”… 회장 승진 여부에 관심 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709750?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709750?sid=101"/>
-        <updated>2022-08-12T19:13:13.253Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709750?sid=101" class="nclicks(rig.secteco)" title="이재용 “국가경제 위해 열심히 뛰겠다”… 회장 승진 여부에 관심">이재용 “국가경제 위해 열심히 뛰겠다”… 회장 승진 여부에 관심</a>]]></content>
+        <title type="html"><![CDATA[SK바사, 노바백스 코로나백신 '뉴백소비드' 청소년접종 승인획득 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004782606?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004782606?sid=101"/>
+        <updated>2022-08-12T20:17:08.629Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004782606?sid=101" class="nclicks(rig.secteco)" title="SK바사, 노바백스 코로나백신 '뉴백소비드' 청소년접종 승인획득">SK바사, 노바백스 코로나백신 '뉴백소비드' 청소년접종 승인획득</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오-김범수 창업자, 집중호우 피해 복구에 20억 기부 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002028200?sid=105" class="nclicks(rig.secteco)" title="“10년차 유명 아이돌이 대기업 입사?” 난리난 이 회사 무슨일">“10년차 유명 아이돌이 대기업 입사?” 난리난 이 회사 무슨일</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003709644?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102"/>
+        <updated>2022-08-12T20:17:08.634Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102" class="nclicks(rig.secteco)" title="故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”">故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000691401?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000691401?sid=102"/>
+        <updated>2022-08-12T20:17:08.635Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000691401?sid=102" class="nclicks(rig.secteco)" title="사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수">사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000309645?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000309645?sid=102"/>
@@ -82,25 +96,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000309645?sid=102" class="nclicks(rig.secteco)" title="[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의">[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故이예람 특검, ‘수사무마’ 증거조작 혐의 변호사 체포 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003445305?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003445305?sid=102"/>
-        <updated>2022-08-12T19:13:13.255Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003445305?sid=102" class="nclicks(rig.secteco)" title="故이예람 특검, ‘수사무마’ 증거조작 혐의 변호사 체포">故이예람 특검, ‘수사무마’ 증거조작 혐의 변호사 체포</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용-신동빈 특사, MB-김경수 제외 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003445263?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003445263?sid=102"/>
-        <updated>2022-08-12T18:19:47.237Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003445263?sid=102" class="nclicks(rig.secteco)" title="이재용-신동빈 특사, MB-김경수 제외">이재용-신동빈 특사, MB-김경수 제외</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좀머씨 이야기' 삽화 그린 프랑스 화가 장 자크 상페 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003724627?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003724627?sid=103"/>
-        <updated>2022-08-12T17:22:57.018Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003724627?sid=103" class="nclicks(rig.secteco)" title="'좀머씨 이야기' 삽화 그린 프랑스 화가 장 자크 상페 별세">'좀머씨 이야기' 삽화 그린 프랑스 화가 장 자크 상페 별세</a>]]></content>
+        <title type="html"><![CDATA[불행 딛고 행복 그렸다…짱구 뺨치는 '꼬마 니콜라'의 비밀 [뉴스원샷] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003216396?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003216396?sid=103"/>
+        <updated>2022-08-12T20:17:08.638Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003216396?sid=103" class="nclicks(rig.secteco)" title="불행 딛고 행복 그렸다…짱구 뺨치는 '꼬마 니콜라'의 비밀 [뉴스원샷]">불행 딛고 행복 그렸다…짱구 뺨치는 '꼬마 니콜라'의 비밀 [뉴스원샷]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 오늘∼내일 수도권 120mm 비...내주 초엔 또 게릴라 호우 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
