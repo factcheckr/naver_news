@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-12T20:17:40.461Z</updated>
+    <updated>2022-08-12T21:14:53.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013371761?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013371761?sid=100"/>
-        <updated>2022-08-12T19:13:13.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013371761?sid=100" class="nclicks(rig.secteco)" title="F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)">F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[유엔 사무총장 "북한의 불가역적인 비핵화 완전 지지" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002362817?sid=100</id>
@@ -19,18 +12,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362817?sid=100" class="nclicks(rig.secteco)" title="유엔 사무총장 &quot;북한의 불가역적인 비핵화 완전 지지&quot;">유엔 사무총장 "북한의 불가역적인 비핵화 완전 지지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주호영 “김성원 발언, 윤리위 절차 밟을 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709756?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709756?sid=100"/>
-        <updated>2022-08-12T20:17:08.615Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709756?sid=100" class="nclicks(rig.secteco)" title="주호영 “김성원 발언, 윤리위 절차 밟을 것”">주호영 “김성원 발언, 윤리위 절차 밟을 것”</a>]]></content>
+        <title type="html"><![CDATA[F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013371761?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013371761?sid=100"/>
+        <updated>2022-08-12T19:13:13.245Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013371761?sid=100" class="nclicks(rig.secteco)" title="F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)">F-4E 전투기 1대 엔진화재로 서해상 추락…조종사 2명 무사탈출(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WP "FBI 압수수색 대상에 핵기밀문건 포함"…트럼프 "날조"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013372687?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013372687?sid=104"/>
-        <updated>2022-08-12T20:17:08.616Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013372687?sid=104" class="nclicks(rig.secteco)" title="WP &quot;FBI 압수수색 대상에 핵기밀문건 포함&quot;…트럼프 &quot;날조&quot;(종합)">WP "FBI 압수수색 대상에 핵기밀문건 포함"…트럼프 "날조"(종합)</a>]]></content>
+        <title type="html"><![CDATA['수해현장 실언' 김성원 "평생 반성하고 속죄하겠다" [뉴시스Pic] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011360306?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011360306?sid=100"/>
+        <updated>2022-08-12T21:14:25.138Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011360306?sid=100" class="nclicks(rig.secteco)" title="'수해현장 실언' 김성원 &quot;평생 반성하고 속죄하겠다&quot; [뉴시스Pic]">'수해현장 실언' 김성원 "평생 반성하고 속죄하겠다" [뉴시스Pic]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["FBI 압수수색 대상에 핵 기밀문건 포함" 보도...트럼프는 반발 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005132257?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005132257?sid=104"/>
+        <updated>2022-08-12T21:14:25.138Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005132257?sid=104" class="nclicks(rig.secteco)" title="&quot;FBI 압수수색 대상에 핵 기밀문건 포함&quot; 보도...트럼프는 반발">"FBI 압수수색 대상에 핵 기밀문건 포함" 보도...트럼프는 반발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러·우크라, '자포리자 원전 위기' 책임 공방…유엔서도 '으르렁'(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,13 +75,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002028200?sid=105" class="nclicks(rig.secteco)" title="“10년차 유명 아이돌이 대기업 입사?” 난리난 이 회사 무슨일">“10년차 유명 아이돌이 대기업 입사?” 난리난 이 회사 무슨일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003709644?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102"/>
-        <updated>2022-08-12T20:17:08.634Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102" class="nclicks(rig.secteco)" title="故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”">故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000691401?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000691401?sid=102"/>
@@ -89,11 +82,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000691401?sid=102" class="nclicks(rig.secteco)" title="사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수">사면의 경제학?… 광복절 사면 최대 수혜자는 대기업 총수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000309645?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000309645?sid=102"/>
-        <updated>2022-08-12T16:26:19.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000309645?sid=102" class="nclicks(rig.secteco)" title="[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의">[단독]검찰 '부동산 갑질' 네이버 압수수색...공정거래법 위반 혐의</a>]]></content>
+        <title type="html"><![CDATA[공정거래법 위반 혐의, 압수수색 당한 네이버 “현재로선 입장 없다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003724818?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003724818?sid=102"/>
+        <updated>2022-08-12T21:14:25.150Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003724818?sid=102" class="nclicks(rig.secteco)" title="공정거래법 위반 혐의, 압수수색 당한 네이버 “현재로선 입장 없다”">공정거래법 위반 혐의, 압수수색 당한 네이버 “현재로선 입장 없다”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003709644?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102"/>
+        <updated>2022-08-12T20:17:08.634Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003709644?sid=102" class="nclicks(rig.secteco)" title="故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”">故 이예람 중사 특검팀 “사건 은폐 의혹 담긴 녹음파일은 조작”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불행 딛고 행복 그렸다…짱구 뺨치는 '꼬마 니콜라'의 비밀 [뉴스원샷] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
