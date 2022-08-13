@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-13T07:15:31.094Z</updated>
+    <updated>2022-08-13T08:20:31.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이준석 “윤핵관, 선거 승리 위해 열세지역 출마 선언해야”[전문]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003445322?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003445322?sid=100"/>
-        <updated>2022-08-13T07:15:03.320Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003445322?sid=100" class="nclicks(rig.secteco)" title="이준석 “윤핵관, 선거 승리 위해 열세지역 출마 선언해야”[전문]">이준석 “윤핵관, 선거 승리 위해 열세지역 출마 선언해야”[전문]</a>]]></content>
+        <title type="html"><![CDATA[36일만의 공식석상…눈물 흘린 이준석 “대통령, 지도력 위기”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003294278?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003294278?sid=100"/>
+        <updated>2022-08-13T08:20:01.047Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003294278?sid=100" class="nclicks(rig.secteco)" title="36일만의 공식석상…눈물 흘린 이준석 “대통령, 지도력 위기”">36일만의 공식석상…눈물 흘린 이준석 “대통령, 지도력 위기”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전문] 이준석 "가처분 법원결단 기대…조직에 충성하는 국힘 불태워야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013373214?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013373214?sid=100"/>
+        <updated>2022-08-13T08:20:01.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013373214?sid=100" class="nclicks(rig.secteco)" title="[전문] 이준석 &quot;가처분 법원결단 기대…조직에 충성하는 국힘 불태워야&quot;">[전문] 이준석 "가처분 법원결단 기대…조직에 충성하는 국힘 불태워야"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[권성동 "성매매 증거인멸 방법 알리는 곳 국가지원?…페미니즘, 자기 돈으로 해라"]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000691637?sid=100" class="nclicks(rig.secteco)" title="권성동 &quot;성매매 증거인멸 방법 알리는 곳 국가지원?…페미니즘, 자기 돈으로 해라&quot;">권성동 "성매매 증거인멸 방법 알리는 곳 국가지원?…페미니즘, 자기 돈으로 해라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준석 “조직에 충성하는 국민의힘, 불태워야” [전문]]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001546239?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001546239?sid=100"/>
-        <updated>2022-08-13T07:15:03.320Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001546239?sid=100" class="nclicks(rig.secteco)" title="이준석 “조직에 충성하는 국민의힘, 불태워야” [전문]">이준석 “조직에 충성하는 국민의힘, 불태워야” [전문]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트럼프 간첩혐의?… FBI, 자택 압수수색서 비밀문건 11건 확보]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000834033?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000834033?sid=104"/>
-        <updated>2022-08-13T05:14:01.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000834033?sid=104" class="nclicks(rig.secteco)" title="트럼프 간첩혐의?… FBI, 자택 압수수색서 비밀문건 11건 확보">트럼프 간첩혐의?… FBI, 자택 압수수색서 비밀문건 11건 확보</a>]]></content>
+        <title type="html"><![CDATA[WP "트럼프 자택 덮친 FBI, 핵 기밀문서 찾으려했다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003216297?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003216297?sid=104"/>
+        <updated>2022-08-13T08:20:01.052Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003216297?sid=104" class="nclicks(rig.secteco)" title="WP &quot;트럼프 자택 덮친 FBI, 핵 기밀문서 찾으려했다&quot;">WP "트럼프 자택 덮친 FBI, 핵 기밀문서 찾으려했다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['악마의 시' 작가 흉기 피습…"인공호흡 중, 실명 위기"]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000842628?sid=101" class="nclicks(rig.secteco)" title="휘발유값, 리터당 1744원 주유소 등장… 5개월 만에 1700원대로">휘발유값, 리터당 1744원 주유소 등장… 5개월 만에 1700원대로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["통큰치킨 때와 확실히 다르네"…'6990원' 당당치킨 열풍, 언제까지 계속될까]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005004126?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005004126?sid=101"/>
-        <updated>2022-08-13T07:15:03.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005004126?sid=101" class="nclicks(rig.secteco)" title="&quot;통큰치킨 때와 확실히 다르네&quot;…'6990원' 당당치킨 열풍, 언제까지 계속될까">"통큰치킨 때와 확실히 다르네"…'6990원' 당당치킨 열풍, 언제까지 계속될까</a>]]></content>
+        <title type="html"><![CDATA[추경호 "폭우 복구비·재해보험금 신속 지급"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004882725?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004882725?sid=101"/>
+        <updated>2022-08-13T08:20:01.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004882725?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;폭우 복구비·재해보험금 신속 지급&quot;">추경호 "폭우 복구비·재해보험금 신속 지급"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['인플레 정점' 신호 또 나왔다…환호한 시장, 3대 지수 급등[뉴욕마감]]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004782747?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004782747?sid=101"/>
-        <updated>2022-08-13T07:15:03.326Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004782747?sid=101" class="nclicks(rig.secteco)" title="'인플레 정점' 신호 또 나왔다…환호한 시장, 3대 지수 급등[뉴욕마감]">'인플레 정점' 신호 또 나왔다…환호한 시장, 3대 지수 급등[뉴욕마감]</a>]]></content>
+        <title type="html"><![CDATA[“PPI -0.5%에도 10년 국채금리 상승”…“여전한 인플레 우려” [김영필의 3분 월스트리트]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004086889?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004086889?sid=101"/>
+        <updated>2022-08-13T08:20:01.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004086889?sid=101" class="nclicks(rig.secteco)" title="“PPI -0.5%에도 10년 국채금리 상승”…“여전한 인플레 우려” [김영필의 3분 월스트리트]">“PPI -0.5%에도 10년 국채금리 상승”…“여전한 인플레 우려” [김영필의 3분 월스트리트]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오-김범수 창업자, 집중호우 피해 복구에 20억 기부]]></title>
@@ -69,18 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011360953?sid=105" class="nclicks(rig.secteco)" title="카카오-김범수 창업자, 집중호우 피해 복구에 20억 기부">카카오-김범수 창업자, 집중호우 피해 복구에 20억 기부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나19로 떼돈 번 씨젠 실적 '와르르'…주가도 8% 급락 [한재영의 바이오 핫앤드콜드]]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004736645?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004736645?sid=105"/>
-        <updated>2022-08-13T07:15:03.333Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004736645?sid=105" class="nclicks(rig.secteco)" title="코로나19로 떼돈 번 씨젠 실적 '와르르'…주가도 8% 급락 [한재영의 바이오 핫앤드콜드]">코로나19로 떼돈 번 씨젠 실적 '와르르'…주가도 8% 급락 [한재영의 바이오 핫앤드콜드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 신규 확진자 12만4592명…사망자 증가 추세]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000691638?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000691638?sid=102"/>
-        <updated>2022-08-13T06:18:56.503Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000691638?sid=102" class="nclicks(rig.secteco)" title="코로나19 신규 확진자 12만4592명…사망자 증가 추세">코로나19 신규 확진자 12만4592명…사망자 증가 추세</a>]]></content>
+        <title type="html"><![CDATA[네이버, 집중 호우 피해 복구 성금 15억 기탁]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002265245?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002265245?sid=105"/>
+        <updated>2022-08-13T08:20:01.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002265245?sid=105" class="nclicks(rig.secteco)" title="네이버, 집중 호우 피해 복구 성금 15억 기탁">네이버, 집중 호우 피해 복구 성금 15억 기탁</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['반지하 없는 서울' 외친 오세훈, 진심이라면 이렇게 하시라]]></title>
@@ -90,11 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362880?sid=102" class="nclicks(rig.secteco)" title="'반지하 없는 서울' 외친 오세훈, 진심이라면 이렇게 하시라">'반지하 없는 서울' 외친 오세훈, 진심이라면 이렇게 하시라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 '검수완박' 불지핀 한동훈... 복합위기에 '협치' 물 건너갈 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002283171?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002283171?sid=102"/>
-        <updated>2022-08-13T07:15:03.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002283171?sid=102" class="nclicks(rig.secteco)" title="다시 '검수완박' 불지핀 한동훈... 복합위기에 '협치' 물 건너갈 듯">다시 '검수완박' 불지핀 한동훈... 복합위기에 '협치' 물 건너갈 듯</a>]]></content>
+        <title type="html"><![CDATA['18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006276025?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102"/>
+        <updated>2022-08-13T08:20:01.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102" class="nclicks(rig.secteco)" title="'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)">'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭우 실종 남매 중 남동생, 팔당호서 숨진 채 발견]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003674612?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003674612?sid=102"/>
+        <updated>2022-08-13T08:20:01.054Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003674612?sid=102" class="nclicks(rig.secteco)" title="폭우 실종 남매 중 남동생, 팔당호서 숨진 채 발견">폭우 실종 남매 중 남동생, 팔당호서 숨진 채 발견</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광복절 연휴 중부지방 또 장대비…남부는 폭염에 무더위]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013372773?sid=103" class="nclicks(rig.secteco)" title="광복절 연휴 중부지방 또 장대비…남부는 폭염에 무더위">광복절 연휴 중부지방 또 장대비…남부는 폭염에 무더위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말 전국 비...내일까지 중부 150mm↑ 호우]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001776436?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001776436?sid=103"/>
-        <updated>2022-08-13T05:14:01.256Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001776436?sid=103" class="nclicks(rig.secteco)" title="주말 전국 비...내일까지 중부 150mm↑ 호우">주말 전국 비...내일까지 중부 150mm↑ 호우</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국 비, 중부 강한 비 집중…최대 150㎜↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000555707?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000555707?sid=103"/>
+        <updated>2022-08-13T08:20:01.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000555707?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 비, 중부 강한 비 집중…최대 150㎜↑">[날씨] 전국 비, 중부 강한 비 집중…최대 150㎜↑</a>]]></content>
     </entry>
 </feed>
