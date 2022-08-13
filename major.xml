@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-13T16:20:51.916Z</updated>
+    <updated>2022-08-13T17:16:10.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013373214?sid=100" class="nclicks(rig.secteco)" title="[전문] 이준석 &quot;가처분 법원결단 기대…조직에 충성하는 국힘 불태워야&quot;">[전문] 이준석 "가처분 법원결단 기대…조직에 충성하는 국힘 불태워야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[루슈디 피습에…이란 보수매체 "악마가 지옥으로 향하다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011361975?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011361975?sid=104"/>
-        <updated>2022-08-13T16:20:19.181Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011361975?sid=104" class="nclicks(rig.secteco)" title="루슈디 피습에…이란 보수매체 &quot;악마가 지옥으로 향하다&quot;">루슈디 피습에…이란 보수매체 "악마가 지옥으로 향하다"</a>]]></content>
+        <title type="html"><![CDATA[<악마의 시> 작가 살만 루슈디, 뉴욕서 강연 중 피습]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002362860?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002362860?sid=104"/>
+        <updated>2022-08-13T17:15:40.321Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002362860?sid=104" class="nclicks(rig.secteco)" title=" 작가 살만 루슈디, 뉴욕서 강연 중 피습">&lt;악마의 시&gt; 작가 살만 루슈디, 뉴욕서 강연 중 피습</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“아베 생각” 일본 각료 야스쿠니신사 참배, 외교부 “실망”…기시다 내각서 처음]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005004177?sid=101" class="nclicks(rig.secteco)" title="고랭지 배추 현장 찾은 추경호 &quot;장차관 보수 10% 반납…내년 예산 올해보다 감축&quot;">고랭지 배추 현장 찾은 추경호 "장차관 보수 10% 반납…내년 예산 올해보다 감축"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011361191?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011361191?sid=101"/>
-        <updated>2022-08-13T15:16:36.935Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011361191?sid=101" class="nclicks(rig.secteco)" title="기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞">기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[르포]"물가 잡아야 민심 잡힌다"…추경호, 주말에 강원도 배추밭 간 이유는]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011361809?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011361809?sid=101"/>
         <updated>2022-08-13T12:27:03.519Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011361809?sid=101" class="nclicks(rig.secteco)" title="[르포]&quot;물가 잡아야 민심 잡힌다&quot;…추경호, 주말에 강원도 배추밭 간 이유는">[르포]"물가 잡아야 민심 잡힌다"…추경호, 주말에 강원도 배추밭 간 이유는</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011361191?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011361191?sid=101"/>
+        <updated>2022-08-13T15:16:36.935Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011361191?sid=101" class="nclicks(rig.secteco)" title="기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞">기름값 6주째 하락…휘발유 1700원·경유 1800원대 눈앞</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕다이어리]접혔다 폈다, Z플립을 아시나요?]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000842447?sid=105" class="nclicks(rig.secteco)" title="펄어비스, 과천 신사옥 '홈 원' 입주...본격 게임 개발 돌입">펄어비스, 과천 신사옥 '홈 원' 입주...본격 게임 개발 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006276025?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102"/>
-        <updated>2022-08-13T12:27:03.523Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102" class="nclicks(rig.secteco)" title="'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)">'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[집중호우] 경기광주 하천 인근서 실종된 남매 수색 닷새째 이어져]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013372817?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013372817?sid=102"/>
         <updated>2022-08-13T13:25:55.793Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013372817?sid=102" class="nclicks(rig.secteco)" title="[집중호우] 경기광주 하천 인근서 실종된 남매 수색 닷새째 이어져">[집중호우] 경기광주 하천 인근서 실종된 남매 수색 닷새째 이어져</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006276025?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102"/>
+        <updated>2022-08-13T12:27:03.523Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006276025?sid=102" class="nclicks(rig.secteco)" title="'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)">'18주만에 최다' 12만4592명 확진…위중증 469명·사망 67명(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[집중호우 사망 14명·실종 5명…부상자도 25명으로 늘어(종합)]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003216418?sid=103" class="nclicks(rig.secteco)" title="서울 한복판 230㎞/h 달린다...3억명 뒤흔들 '전기차의 질주'">서울 한복판 230㎞/h 달린다...3억명 뒤흔들 '전기차의 질주'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 내일도 중부·경북·전북에 비…남부엔 폭염]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011320390?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011320390?sid=103"/>
-        <updated>2022-08-13T16:20:19.222Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011320390?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일도 중부·경북·전북에 비…남부엔 폭염">[뉴스9 날씨] 내일도 중부·경북·전북에 비…남부엔 폭염</a>]]></content>
+        <title type="html"><![CDATA[[내일 날씨]수도권·충청 시간당 30㎜ 물폭탄…남부 35도 '찜통더위']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004782807?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004782807?sid=103"/>
+        <updated>2022-08-13T17:15:40.337Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004782807?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨]수도권·충청 시간당 30㎜ 물폭탄…남부 35도 '찜통더위'">[내일 날씨]수도권·충청 시간당 30㎜ 물폭탄…남부 35도 '찜통더위'</a>]]></content>
     </entry>
 </feed>
