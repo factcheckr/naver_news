@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-21T22:16:23.471Z</updated>
+    <updated>2022-08-21T23:16:25.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이재명 호남서도 압승‥누적 득표율 78.35%]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001217112?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001217112?sid=100"/>
-        <updated>2022-08-21T22:15:51.225Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001217112?sid=100" class="nclicks(rig.secteco)" title="이재명 호남서도 압승‥누적 득표율 78.35%">이재명 호남서도 압승‥누적 득표율 78.35%</a>]]></content>
+        <title type="html"><![CDATA[이재명 호남서도 압승했지만..속 들춰보니 당원 70%가 투표 안했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004886266?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004886266?sid=100"/>
+        <updated>2022-08-21T23:15:54.497Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004886266?sid=100" class="nclicks(rig.secteco)" title="이재명 호남서도 압승했지만..속 들춰보니 당원 70%가 투표 안했다">이재명 호남서도 압승했지만..속 들춰보니 당원 70%가 투표 안했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]尹, 대통령실 개편 시동..."윤핵관이 밀어넣은 인사도 검증"]]></title>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003218170?sid=100" class="nclicks(rig.secteco)" title="[단독]尹, 대통령실 개편 시동...&quot;윤핵관이 밀어넣은 인사도 검증&quot;">[단독]尹, 대통령실 개편 시동..."윤핵관이 밀어넣은 인사도 검증"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "文 사저 경호구역 확대"→ 文 반려묘와 평화로운 주말· 평산마을도 고요]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006289362?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006289362?sid=100"/>
-        <updated>2022-08-21T22:15:51.225Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006289362?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;文 사저 경호구역 확대&quot;→ 文 반려묘와 평화로운 주말· 평산마을도 고요">尹 "文 사저 경호구역 확대"→ 文 반려묘와 평화로운 주말· 평산마을도 고요</a>]]></content>
+        <title type="html"><![CDATA[[단독] 文 평산마을 사저 경호구역 어디까지…시위는 못 막는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003727002?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003727002?sid=100"/>
+        <updated>2022-08-21T23:15:54.499Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727002?sid=100" class="nclicks(rig.secteco)" title="[단독] 文 평산마을 사저 경호구역 어디까지…시위는 못 막는다">[단독] 文 평산마을 사저 경호구역 어디까지…시위는 못 막는다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['푸틴 정신적 지주' 두긴 딸, 아빠 차 몰다 폭발로 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000994307?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000994307?sid=104"/>
+        <updated>2022-08-21T23:15:54.502Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000994307?sid=104" class="nclicks(rig.secteco)" title="'푸틴 정신적 지주' 두긴 딸, 아빠 차 몰다 폭발로 사망">'푸틴 정신적 지주' 두긴 딸, 아빠 차 몰다 폭발로 사망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日 기시다 총리 코로나 확진…아프리카 등 해외 순방 일정 취소(종합)]]></title>
@@ -34,80 +41,73 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005135659?sid=104" class="nclicks(rig.secteco)" title="日 기시다 총리 코로나 확진…아프리카 등 해외 순방 일정 취소(종합)">日 기시다 총리 코로나 확진…아프리카 등 해외 순방 일정 취소(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴 '사상적 스승'의 딸, 차량 폭발 사망…러, '우크라 배후' 언급]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0000994297?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0000994297?sid=104"/>
-        <updated>2022-08-21T22:15:51.225Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000994297?sid=104" class="nclicks(rig.secteco)" title="푸틴 '사상적 스승'의 딸, 차량 폭발 사망…러, '우크라 배후' 언급">푸틴 '사상적 스승'의 딸, 차량 폭발 사망…러, '우크라 배후' 언급</a>]]></content>
+        <title type="html"><![CDATA[도넘은 '이자 장사' 줄어들까…오늘부터 은행별 예대금리차 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004785437?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004785437?sid=101"/>
+        <updated>2022-08-21T23:15:54.506Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004785437?sid=101" class="nclicks(rig.secteco)" title="도넘은 '이자 장사' 줄어들까…오늘부터 은행별 예대금리차 공개">도넘은 '이자 장사' 줄어들까…오늘부터 은행별 예대금리차 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['재건축 실망' 1기 신도시 집값 뚝…주민들 뿔났다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004886233?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004886233?sid=101"/>
-        <updated>2022-08-21T20:16:41.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004886233?sid=101" class="nclicks(rig.secteco)" title="'재건축 실망' 1기 신도시 집값 뚝…주민들 뿔났다">'재건축 실망' 1기 신도시 집값 뚝…주민들 뿔났다</a>]]></content>
+        <title type="html"><![CDATA['부글 부글 1기 신도시'…분당·일산 집값 '억 단위' 하락]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004089919?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004089919?sid=101"/>
+        <updated>2022-08-21T23:15:54.508Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004089919?sid=101" class="nclicks(rig.secteco)" title="'부글 부글 1기 신도시'…분당·일산 집값 '억 단위' 하락">'부글 부글 1기 신도시'…분당·일산 집값 '억 단위' 하락</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[커지는 이자부담③]금리인상기 대처법은]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011375058?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011375058?sid=101"/>
-        <updated>2022-08-21T21:13:57.216Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011375058?sid=101" class="nclicks(rig.secteco)" title="[커지는 이자부담③]금리인상기 대처법은">[커지는 이자부담③]금리인상기 대처법은</a>]]></content>
+        <title type="html"><![CDATA[삼성전자,'유리문 깨지는 드럼세탁기' 10만대 무상수리]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005135676?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005135676?sid=101"/>
+        <updated>2022-08-21T23:15:54.510Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005135676?sid=101" class="nclicks(rig.secteco)" title="삼성전자,'유리문 깨지는 드럼세탁기' 10만대 무상수리">삼성전자,'유리문 깨지는 드럼세탁기' 10만대 무상수리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세탁기 유리문 또 ‘와장창’…삼성 “폭발 아닌 이물질 때문”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011324750?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011324750?sid=101"/>
-        <updated>2022-08-21T22:15:51.229Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011324750?sid=101" class="nclicks(rig.secteco)" title="세탁기 유리문 또 ‘와장창’…삼성 “폭발 아닌 이물질 때문”">세탁기 유리문 또 ‘와장창’…삼성 “폭발 아닌 이물질 때문”</a>]]></content>
+        <title type="html"><![CDATA[휴대폰 한대에 전화번호 두개…내달 도입되는 'e심' 뭐길래]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003218184?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003218184?sid=105"/>
+        <updated>2022-08-21T23:15:54.513Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003218184?sid=105" class="nclicks(rig.secteco)" title="휴대폰 한대에 전화번호 두개…내달 도입되는 'e심' 뭐길래">휴대폰 한대에 전화번호 두개…내달 도입되는 'e심' 뭐길래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사용기] ‘아이폰 대항마’ 가능성 보여준 Z폴드4·Z플립4]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001547642?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001547642?sid=105"/>
-        <updated>2022-08-21T14:13:37.959Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001547642?sid=105" class="nclicks(rig.secteco)" title="[사용기] ‘아이폰 대항마’ 가능성 보여준 Z폴드4·Z플립4">[사용기] ‘아이폰 대항마’ 가능성 보여준 Z폴드4·Z플립4</a>]]></content>
+        <title type="html"><![CDATA[[보니하니]갤럭시Z플립·폴드4, 사흘간 접어보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000009918?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000009918?sid=105"/>
+        <updated>2022-08-21T23:15:54.519Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000009918?sid=105" class="nclicks(rig.secteco)" title="[보니하니]갤럭시Z플립·폴드4, 사흘간 접어보니">[보니하니]갤럭시Z플립·폴드4, 사흘간 접어보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 통한 방송 시청, 1년만에 3분의 1로 급감]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002131117?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002131117?sid=105"/>
-        <updated>2022-08-21T22:15:51.234Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002131117?sid=105" class="nclicks(rig.secteco)" title="스마트폰 통한 방송 시청, 1년만에 3분의 1로 급감">스마트폰 통한 방송 시청, 1년만에 3분의 1로 급감</a>]]></content>
+        <title type="html"><![CDATA[[핫클릭] 수원 다세대주택서 세 모녀 추정 시신 발견…경찰 수사 外]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000556867?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000556867?sid=102"/>
+        <updated>2022-08-21T23:15:54.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000556867?sid=102" class="nclicks(rig.secteco)" title="[핫클릭] 수원 다세대주택서 세 모녀 추정 시신 발견…경찰 수사 外">[핫클릭] 수원 다세대주택서 세 모녀 추정 시신 발견…경찰 수사 外</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수원 다세대주택서 세 모녀 숨진 채 발견]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003727139?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003727139?sid=102"/>
-        <updated>2022-08-21T21:13:57.224Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727139?sid=102" class="nclicks(rig.secteco)" title="수원 다세대주택서 세 모녀 숨진 채 발견">수원 다세대주택서 세 모녀 숨진 채 발견</a>]]></content>
+        <title type="html"><![CDATA["생각을 비우세요"…멍때리기 대회, 3년 만에 돌아온다]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011375055?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011375055?sid=102"/>
+        <updated>2022-08-21T23:15:54.522Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011375055?sid=102" class="nclicks(rig.secteco)" title="&quot;생각을 비우세요&quot;…멍때리기 대회, 3년 만에 돌아온다">"생각을 비우세요"…멍때리기 대회, 3년 만에 돌아온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오후 9시 10만7568명 확진…재유행 후 토요일 첫 전주대비 감소]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013387270?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013387270?sid=102"/>
-        <updated>2022-08-21T18:18:37.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013387270?sid=102" class="nclicks(rig.secteco)" title="오후 9시 10만7568명 확진…재유행 후 토요일 첫 전주대비 감소">오후 9시 10만7568명 확진…재유행 후 토요일 첫 전주대비 감소</a>]]></content>
+        <title type="html"><![CDATA[뉴질랜드 뒤집은 '가방 속 아동 시신'…"가족 추정 여성 한국 체류"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000310718?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000310718?sid=102"/>
+        <updated>2022-08-21T23:15:54.526Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000310718?sid=102" class="nclicks(rig.secteco)" title="뉴질랜드 뒤집은 '가방 속 아동 시신'…&quot;가족 추정 여성 한국 체류&quot;">뉴질랜드 뒤집은 '가방 속 아동 시신'…"가족 추정 여성 한국 체류"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멍때리기 대회, 3년만에 열린다…잠수교서 90분간 '분수멍']]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003218182?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003218182?sid=102"/>
-        <updated>2022-08-21T22:15:51.242Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003218182?sid=102" class="nclicks(rig.secteco)" title="멍때리기 대회, 3년만에 열린다…잠수교서 90분간 '분수멍'">멍때리기 대회, 3년만에 열린다…잠수교서 90분간 '분수멍'</a>]]></content>
+        <title type="html"><![CDATA[[출근길 날씨] 곳곳에 폭염특보…밤에 경기 북부부터 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011324748?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011324748?sid=103"/>
+        <updated>2022-08-21T23:15:54.528Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011324748?sid=103" class="nclicks(rig.secteco)" title="[출근길 날씨] 곳곳에 폭염특보…밤에 경기 북부부터 비">[출근길 날씨] 곳곳에 폭염특보…밤에 경기 북부부터 비</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국이 흐리고 곳곳서 약한 비...강우량 5~30mm]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005007116?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005007116?sid=103"/>
-        <updated>2022-08-21T22:15:51.247Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005007116?sid=103" class="nclicks(rig.secteco)" title="전국이 흐리고 곳곳서 약한 비...강우량 5~30mm">전국이 흐리고 곳곳서 약한 비...강우량 5~30mm</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 오늘 구름 많고 낮 더위...밤부터 차츰 비]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001779577?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001779577?sid=103"/>
-        <updated>2022-08-21T22:15:51.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001779577?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘 구름 많고 낮 더위...밤부터 차츰 비">[날씨] 오늘 구름 많고 낮 더위...밤부터 차츰 비</a>]]></content>
+        <title type="html"><![CDATA[와이지엔터, 블랙핑크 성공적 컴백…실적 가시성↑ -유안타]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005298041?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005298041?sid=103"/>
+        <updated>2022-08-21T23:15:54.530Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005298041?sid=103" class="nclicks(rig.secteco)" title="와이지엔터, 블랙핑크 성공적 컴백…실적 가시성↑ -유안타">와이지엔터, 블랙핑크 성공적 컴백…실적 가시성↑ -유안타</a>]]></content>
     </entry>
 </feed>
