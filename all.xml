@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-23T20:17:42.964Z</updated>
+    <updated>2022-08-23T21:15:25.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AI 홍수예보, 빗물터널… 환경부 홍수·침수 방지대책 ‘재탕’ 논란 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003727916?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003727916?sid=100"/>
+        <updated>2022-08-23T21:14:52.278Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727916?sid=100" class="nclicks(rig.secteco)" title="AI 홍수예보, 빗물터널… 환경부 홍수·침수 방지대책 ‘재탕’ 논란">AI 홍수예보, 빗물터널… 환경부 홍수·침수 방지대책 ‘재탕’ 논란</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러 전략폭격기 2대 카디즈 침입… 한미 을지 연합훈련 겨냥한 듯 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003296512?sid=100</id>
@@ -12,32 +19,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003296512?sid=100" class="nclicks(rig.secteco)" title="러 전략폭격기 2대 카디즈 침입… 한미 을지 연합훈련 겨냥한 듯">러 전략폭격기 2대 카디즈 침입… 한미 을지 연합훈련 겨냥한 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 강남역·광화문 일대 '대심도 빗물터널' 만든다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004786348?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004786348?sid=100"/>
-        <updated>2022-08-23T20:17:10.775Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004786348?sid=100" class="nclicks(rig.secteco)" title="서울 강남역·광화문 일대 '대심도 빗물터널' 만든다">서울 강남역·광화문 일대 '대심도 빗물터널' 만든다</a>]]></content>
+        <title type="html"><![CDATA[감사원, 하반기도 탈원전·백신수급 ‘과녁’… 文정부 향한 표적 감사일까 [뉴스+] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003727902?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003727902?sid=100"/>
+        <updated>2022-08-23T21:14:52.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727902?sid=100" class="nclicks(rig.secteco)" title="감사원, 하반기도 탈원전·백신수급 ‘과녁’… 文정부 향한 표적 감사일까 [뉴스+]">감사원, 하반기도 탈원전·백신수급 ‘과녁’… 文정부 향한 표적 감사일까 [뉴스+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권익위·방통위 ‘찍어내기’ 입길 “전 정권 지우기” 비판 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002603541?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002603541?sid=100"/>
-        <updated>2022-08-23T20:17:10.776Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002603541?sid=100" class="nclicks(rig.secteco)" title="권익위·방통위 ‘찍어내기’ 입길 “전 정권 지우기” 비판">권익위·방통위 ‘찍어내기’ 입길 “전 정권 지우기” 비판</a>]]></content>
+        <title type="html"><![CDATA[러 “푸틴측근 車 폭발, 우크라 女비밀요원 소행”… 우크라 “가짜뉴스” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003447015?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003447015?sid=104"/>
+        <updated>2022-08-23T21:14:52.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003447015?sid=104" class="nclicks(rig.secteco)" title="러 “푸틴측근 車 폭발, 우크라 女비밀요원 소행”… 우크라 “가짜뉴스”">러 “푸틴측근 車 폭발, 우크라 女비밀요원 소행”… 우크라 “가짜뉴스”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 푸틴 '정신적 지주' 사망 사건에 "자비는 없다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011379449?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011379449?sid=104"/>
-        <updated>2022-08-23T20:17:10.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011379449?sid=104" class="nclicks(rig.secteco)" title="러, 푸틴 '정신적 지주' 사망 사건에 &quot;자비는 없다&quot;">러, 푸틴 '정신적 지주' 사망 사건에 "자비는 없다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젤렌스키, 러 '보복 협박'에 맞서 '크림반도 탈환' 선언 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001780510?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001780510?sid=104"/>
-        <updated>2022-08-23T20:17:10.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001780510?sid=104" class="nclicks(rig.secteco)" title="젤렌스키, 러 '보복 협박'에 맞서 '크림반도 탈환' 선언">젤렌스키, 러 '보복 협박'에 맞서 '크림반도 탈환' 선언</a>]]></content>
+        <title type="html"><![CDATA[관저에서 친구들이 부적절 사진...30대 핀란드 총리 재차 사과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002527724?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002527724?sid=104"/>
+        <updated>2022-08-23T21:14:52.281Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002527724?sid=104" class="nclicks(rig.secteco)" title="관저에서 친구들이 부적절 사진...30대 핀란드 총리 재차 사과">관저에서 친구들이 부적절 사진...30대 핀란드 총리 재차 사과</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원희룡 "각자도생 큰 문제"…2.5만가구 신도시 리모델링 스톱? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,18 +54,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001548402?sid=101" class="nclicks(rig.secteco)" title="은행·보험사 사실상 납품처 전락… ‘빅테크’ 금융시장도 삼키나">은행·보험사 사실상 납품처 전락… ‘빅테크’ 금융시장도 삼키나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 개입에도, 환율 또 올라 1345원 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <title type="html"><![CDATA[브레이크 없는 환율… 당국 “투기요인 점검” 경고도 안먹혀 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003446946?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003446946?sid=101"/>
         <updated>2022-08-23T18:19:38.820Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003446946?sid=101" class="nclicks(rig.secteco)" title="정부 개입에도, 환율 또 올라 1345원">정부 개입에도, 환율 또 올라 1345원</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003446946?sid=101" class="nclicks(rig.secteco)" title="브레이크 없는 환율… 당국 “투기요인 점검” 경고도 안먹혀">브레이크 없는 환율… 당국 “투기요인 점검” 경고도 안먹혀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디자인은 Z플립4, 멀티태스킹은 Z폴드4…이미 폴더블 유저면 ‘글쎄’[전지적체험시점] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003296190?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003296190?sid=105"/>
-        <updated>2022-08-23T20:17:10.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003296190?sid=105" class="nclicks(rig.secteco)" title="디자인은 Z플립4, 멀티태스킹은 Z폴드4…이미 폴더블 유저면 ‘글쎄’[전지적체험시점]">디자인은 Z플립4, 멀티태스킹은 Z폴드4…이미 폴더블 유저면 ‘글쎄’[전지적체험시점]</a>]]></content>
+        <title type="html"><![CDATA[삼전 사장의 호언장담 현실로?…흥행문 연 '갤Z4' 1000만대 청신호 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004786372?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004786372?sid=105"/>
+        <updated>2022-08-23T21:14:52.286Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004786372?sid=105" class="nclicks(rig.secteco)" title="삼전 사장의 호언장담 현실로?…흥행문 연 '갤Z4' 1000만대 청신호">삼전 사장의 호언장담 현실로?…흥행문 연 '갤Z4' 1000만대 청신호</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LGU+ "KT보다 1GB 더"…폴더블 신작 출시에 5G 중간요금제 경쟁 후끈(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,11 +75,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006293007?sid=105" class="nclicks(rig.secteco)" title="LGU+ &quot;KT보다 1GB 더&quot;…폴더블 신작 출시에 5G 중간요금제 경쟁 후끈(종합)">LGU+ "KT보다 1GB 더"…폴더블 신작 출시에 5G 중간요금제 경쟁 후끈(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김혜경 ‘침묵’… 이재명 “사적 도움받아 사죄” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003296518?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003296518?sid=102"/>
-        <updated>2022-08-23T20:17:10.793Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003296518?sid=102" class="nclicks(rig.secteco)" title="김혜경 ‘침묵’… 이재명 “사적 도움받아 사죄”">김혜경 ‘침묵’… 이재명 “사적 도움받아 사죄”</a>]]></content>
+        <title type="html"><![CDATA[‘법인카드 유용 의혹’ 김혜경 경찰 출석…수사 핵심은 지시 여부? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003727937?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003727937?sid=102"/>
+        <updated>2022-08-23T21:14:52.290Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727937?sid=102" class="nclicks(rig.secteco)" title="‘법인카드 유용 의혹’ 김혜경 경찰 출석…수사 핵심은 지시 여부?">‘법인카드 유용 의혹’ 김혜경 경찰 출석…수사 핵심은 지시 여부?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[檢, '쌍방울 수사기밀 유출' 전 중수부 검사 및 전·현직 수사관 기소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003218640?sid=102" class="nclicks(rig.secteco)" title="檢, '쌍방울 수사기밀 유출' 전 중수부 검사 및 전·현직 수사관 기소">檢, '쌍방울 수사기밀 유출' 전 중수부 검사 및 전·현직 수사관 기소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쿵쿵 뛰면 안 돼요! 층간소음 기준 강화… 주야간 4㏈씩 낮춰 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003296558?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003296558?sid=102"/>
-        <updated>2022-08-23T20:17:10.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003296558?sid=102" class="nclicks(rig.secteco)" title="쿵쿵 뛰면 안 돼요! 층간소음 기준 강화… 주야간 4㏈씩 낮춰">쿵쿵 뛰면 안 돼요! 층간소음 기준 강화… 주야간 4㏈씩 낮춰</a>]]></content>
+        <title type="html"><![CDATA[‘쿵쿵’ 아파트 층간소음 기준 강화… “이웃 간 분쟁만 심화” 우려 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003727909?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003727909?sid=102"/>
+        <updated>2022-08-23T21:14:52.293Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003727909?sid=102" class="nclicks(rig.secteco)" title="‘쿵쿵’ 아파트 층간소음 기준 강화… “이웃 간 분쟁만 심화” 우려">‘쿵쿵’ 아파트 층간소음 기준 강화… “이웃 간 분쟁만 심화” 우려</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베토벤 첼로 전곡 녹음 양성원 “첼로는 인간처럼 노래하고 싶어하죠” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003218580?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003218580?sid=103"/>
+        <updated>2022-08-23T21:14:52.295Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003218580?sid=103" class="nclicks(rig.secteco)" title="베토벤 첼로 전곡 녹음 양성원 “첼로는 인간처럼 노래하고 싶어하죠”">베토벤 첼로 전곡 녹음 양성원 “첼로는 인간처럼 노래하고 싶어하죠”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일까지 전국 곳곳 비… 무더위 한풀 꺾여 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -101,13 +108,6 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003446789?sid=103"/>
         <updated>2022-08-23T17:20:06.229Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003446789?sid=103" class="nclicks(rig.secteco)" title="내일까지 전국 곳곳 비… 무더위 한풀 꺾여">내일까지 전국 곳곳 비… 무더위 한풀 꺾여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["베토벤은 연주할수록 깊어져"... 15년 만에 돌아온 양성원표 소나타 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000693128?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000693128?sid=103"/>
-        <updated>2022-08-23T20:17:10.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000693128?sid=103" class="nclicks(rig.secteco)" title="&quot;베토벤은 연주할수록 깊어져&quot;... 15년 만에 돌아온 양성원표 소나타">"베토벤은 연주할수록 깊어져"... 15년 만에 돌아온 양성원표 소나타</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 지방(고양외고-하와이 볼드윈고 학생들, 온라인 토론 벌여) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
