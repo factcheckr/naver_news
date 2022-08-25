@@ -2,57 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-25T07:21:41.642Z</updated>
+    <updated>2022-08-25T08:22:41.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보]민주당 당무위, ‘전당원투표’ 뺀 ‘李 방탄’ 당헌 재의결]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003712114?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003712114?sid=100"/>
-        <updated>2022-08-25T07:21:05.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003712114?sid=100" class="nclicks(rig.secteco)" title="[속보]민주당 당무위, ‘전당원투표’ 뺀 ‘李 방탄’ 당헌 재의결">[속보]민주당 당무위, ‘전당원투표’ 뺀 ‘李 방탄’ 당헌 재의결</a>]]></content>
+        <title type="html"><![CDATA[민주 당무위, '기소 시 당직정지' 당헌 80조 절충안 재의결]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003678695?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003678695?sid=100"/>
+        <updated>2022-08-25T08:22:16.484Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003678695?sid=100" class="nclicks(rig.secteco)" title="민주 당무위, '기소 시 당직정지' 당헌 80조 절충안 재의결">민주 당무위, '기소 시 당직정지' 당헌 80조 절충안 재의결</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 "소상공인·자영업자 단단히 챙기는 것이 정부 존재 이유"]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000772304?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000772304?sid=100"/>
-        <updated>2022-08-25T07:21:05.894Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000772304?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;소상공인·자영업자 단단히 챙기는 것이 정부 존재 이유&quot;">윤 대통령 "소상공인·자영업자 단단히 챙기는 것이 정부 존재 이유"</a>]]></content>
+        <title type="html"><![CDATA[김건희 '세 모녀 빈소' 방문…조용히 조화 놓고 3분만에 떠났다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219192?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219192?sid=100"/>
+        <updated>2022-08-25T08:22:16.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219192?sid=100" class="nclicks(rig.secteco)" title="김건희 '세 모녀 빈소' 방문…조용히 조화 놓고 3분만에 떠났다">김건희 '세 모녀 빈소' 방문…조용히 조화 놓고 3분만에 떠났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 잘한다 32%, 못한다 63%…윤핵관과 거리둬야 73%ㅣNBS 조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000311274?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000311274?sid=100"/>
-        <updated>2022-08-25T07:21:05.894Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000311274?sid=100" class="nclicks(rig.secteco)" title="尹대통령 잘한다 32%, 못한다 63%…윤핵관과 거리둬야 73%ㅣNBS 조사">尹대통령 잘한다 32%, 못한다 63%…윤핵관과 거리둬야 73%ㅣNBS 조사</a>]]></content>
+        <title type="html"><![CDATA[소상공인에 58조 원 긴급 지원…골목 상권 '산업화'에 속도]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004091745?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004091745?sid=100"/>
+        <updated>2022-08-25T08:22:16.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004091745?sid=100" class="nclicks(rig.secteco)" title="소상공인에 58조 원 긴급 지원…골목 상권 '산업화'에 속도">소상공인에 58조 원 긴급 지원…골목 상권 '산업화'에 속도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이든, 최대 규모 학자금 대출 탕감... 공화당 "사회주의"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002364077?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002364077?sid=104"/>
-        <updated>2022-08-25T07:21:05.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002364077?sid=104" class="nclicks(rig.secteco)" title="바이든, 최대 규모 학자금 대출 탕감... 공화당 &quot;사회주의&quot;">바이든, 최대 규모 학자금 대출 탕감... 공화당 "사회주의"</a>]]></content>
+        <title type="html"><![CDATA[중국, 미국·일본 이어 캐나다까지 잇단 대만 방문에 난감]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301253?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301253?sid=104"/>
+        <updated>2022-08-25T08:22:16.486Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301253?sid=104" class="nclicks(rig.secteco)" title="중국, 미국·일본 이어 캐나다까지 잇단 대만 방문에 난감">중국, 미국·일본 이어 캐나다까지 잇단 대만 방문에 난감</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“정치인도 사람이다” 울먹인 핀란드 총리에 쏟아진 기립박수]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000836519?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000836519?sid=104"/>
-        <updated>2022-08-25T07:21:05.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000836519?sid=104" class="nclicks(rig.secteco)" title="“정치인도 사람이다” 울먹인 핀란드 총리에 쏟아진 기립박수">“정치인도 사람이다” 울먹인 핀란드 총리에 쏟아진 기립박수</a>]]></content>
+        <title type="html"><![CDATA['광란 파티' 당당했던 女총리, '관저 사진'엔 고개 숙인 이유]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219076?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219076?sid=104"/>
+        <updated>2022-08-25T08:22:16.490Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219076?sid=104" class="nclicks(rig.secteco)" title="'광란 파티' 당당했던 女총리, '관저 사진'엔 고개 숙인 이유">'광란 파티' 당당했던 女총리, '관저 사진'엔 고개 숙인 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이창용 "당분간 금리 0.25%p씩 인상…빅스텝 지금은 고려안해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006297515?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006297515?sid=101"/>
-        <updated>2022-08-25T06:31:16.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006297515?sid=101" class="nclicks(rig.secteco)" title="이창용 &quot;당분간 금리 0.25%p씩 인상…빅스텝 지금은 고려안해&quot;">이창용 "당분간 금리 0.25%p씩 인상…빅스텝 지금은 고려안해"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004787261?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101"/>
-        <updated>2022-08-25T06:31:16.910Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101" class="nclicks(rig.secteco)" title="빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다">빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다</a>]]></content>
+        <title type="html"><![CDATA[이창용 "금리 인상, 환율 상승 제어에 도움…원화약세, 1997·2008년과 달라"[종합]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002033082?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002033082?sid=101"/>
+        <updated>2022-08-25T08:22:16.491Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002033082?sid=101" class="nclicks(rig.secteco)" title="이창용 &quot;금리 인상, 환율 상승 제어에 도움…원화약세, 1997·2008년과 달라&quot;[종합]">이창용 "금리 인상, 환율 상승 제어에 도움…원화약세, 1997·2008년과 달라"[종합]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[침수차 속이고 팔았다? 그런 업자 한번만 걸려도 밥줄 끊긴다]]></title>
@@ -62,39 +55,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219187?sid=101" class="nclicks(rig.secteco)" title="침수차 속이고 팔았다? 그런 업자 한번만 걸려도 밥줄 끊긴다">침수차 속이고 팔았다? 그런 업자 한번만 걸려도 밥줄 끊긴다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상공간 분양하고 유저에 시민권…컴투버스 2024년부터 상용화]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004787206?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004787206?sid=105"/>
-        <updated>2022-08-25T07:21:05.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004787206?sid=105" class="nclicks(rig.secteco)" title="가상공간 분양하고 유저에 시민권…컴투버스 2024년부터 상용화">가상공간 분양하고 유저에 시민권…컴투버스 2024년부터 상용화</a>]]></content>
+        <title type="html"><![CDATA[빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004787261?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101"/>
+        <updated>2022-08-25T06:31:16.910Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101" class="nclicks(rig.secteco)" title="빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다">빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 9월7일 신제품 발표…'아이폰14·애플워치8', 어떻게 나올까]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002131425?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002131425?sid=105"/>
-        <updated>2022-08-25T06:31:16.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002131425?sid=105" class="nclicks(rig.secteco)" title="애플, 9월7일 신제품 발표…'아이폰14·애플워치8', 어떻게 나올까">애플, 9월7일 신제품 발표…'아이폰14·애플워치8', 어떻게 나올까</a>]]></content>
+        <title type="html"><![CDATA[‘컴투스式 메타버스’ 베일 벗었다…“2024년 1분기 상용화”(영상)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301185?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301185?sid=105"/>
+        <updated>2022-08-25T08:22:16.495Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301185?sid=105" class="nclicks(rig.secteco)" title="‘컴투스式 메타버스’ 베일 벗었다…“2024년 1분기 상용화”(영상)">‘컴투스式 메타버스’ 베일 벗었다…“2024년 1분기 상용화”(영상)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘택시기사 폭행’ 이용구 전 법무차관, 징역 6개월 집행유예 2년]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000232683?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000232683?sid=102"/>
-        <updated>2022-08-25T07:21:05.914Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000232683?sid=102" class="nclicks(rig.secteco)" title="‘택시기사 폭행’ 이용구 전 법무차관, 징역 6개월 집행유예 2년">‘택시기사 폭행’ 이용구 전 법무차관, 징역 6개월 집행유예 2년</a>]]></content>
+        <title type="html"><![CDATA[애플 아이폰14 온다…들썩이는 아이폰 수혜주]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301228?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301228?sid=105"/>
+        <updated>2022-08-25T08:22:16.498Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301228?sid=105" class="nclicks(rig.secteco)" title="애플 아이폰14 온다…들썩이는 아이폰 수혜주">애플 아이폰14 온다…들썩이는 아이폰 수혜주</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 검찰, 산업부 블랙리스트 추가 압수수색…판유리협회 등]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000557436?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000557436?sid=102"/>
-        <updated>2022-08-25T07:21:05.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000557436?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰, 산업부 블랙리스트 추가 압수수색…판유리협회 등">[단독] 검찰, 산업부 블랙리스트 추가 압수수색…판유리협회 등</a>]]></content>
+        <title type="html"><![CDATA[공수처장 후보까지 거론됐는데...이용구, 폭행에 증거인멸교사까지 '유죄']]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011383970?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011383970?sid=102"/>
+        <updated>2022-08-25T08:22:16.499Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011383970?sid=102" class="nclicks(rig.secteco)" title="공수처장 후보까지 거론됐는데...이용구, 폭행에 증거인멸교사까지 '유죄'">공수처장 후보까지 거론됐는데...이용구, 폭행에 증거인멸교사까지 '유죄'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "밥 짓고 빨래하라" 새마을금고, 부당업무 지시 의혹도]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001217843?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001217843?sid=102"/>
-        <updated>2022-08-25T07:21:05.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001217843?sid=102" class="nclicks(rig.secteco)" title="[단독] &quot;밥 짓고 빨래하라&quot; 새마을금고, 부당업무 지시 의혹도">[단독] "밥 짓고 빨래하라" 새마을금고, 부당업무 지시 의혹도</a>]]></content>
+        <title type="html"><![CDATA[“다음 생엔 부잣집에서…” 수원 세 모녀 빈소, 시민들이 지켰다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219167?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219167?sid=102"/>
+        <updated>2022-08-25T08:22:16.501Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219167?sid=102" class="nclicks(rig.secteco)" title="“다음 생엔 부잣집에서…” 수원 세 모녀 빈소, 시민들이 지켰다">“다음 생엔 부잣집에서…” 수원 세 모녀 빈소, 시민들이 지켰다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강릉 새마을금고 횡령액 무려 148억원…전·현직 임직원 5명 고발]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003678721?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003678721?sid=102"/>
+        <updated>2022-08-25T08:22:16.502Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003678721?sid=102" class="nclicks(rig.secteco)" title="강릉 새마을금고 횡령액 무려 148억원…전·현직 임직원 5명 고발">강릉 새마을금고 횡령액 무려 148억원…전·현직 임직원 5명 고발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국, 중국 비난하더니…흉 보면서 닮는다? [월드리포트]]]></title>
