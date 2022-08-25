@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-25T09:16:46.285Z</updated>
+    <updated>2022-08-25T10:19:55.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[野, `이재명 방탄` 논란 당헌 재상정해 의결..비명계 "꼼수" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005301306?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005301306?sid=100"/>
-        <updated>2022-08-25T09:16:16.584Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301306?sid=100" class="nclicks(rig.secteco)" title="野, `이재명 방탄` 논란 당헌 재상정해 의결..비명계 &quot;꼼수&quot;">野, `이재명 방탄` 논란 당헌 재상정해 의결..비명계 "꼼수"</a>]]></content>
+        <title type="html"><![CDATA[野당무위, ‘李방탄 논란’ 당헌 개정안 재의결…비명 “꼼수” 반발 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003447400?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003447400?sid=100"/>
+        <updated>2022-08-25T10:19:24.657Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003447400?sid=100" class="nclicks(rig.secteco)" title="野당무위, ‘李방탄 논란’ 당헌 개정안 재의결…비명 “꼼수” 반발">野당무위, ‘李방탄 논란’ 당헌 개정안 재의결…비명 “꼼수” 반발</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지성 "배현진·김건희론 안돼…'젊은女' 아내 차유람 입당 권유" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219215?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219215?sid=100"/>
+        <updated>2022-08-25T10:19:24.659Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219215?sid=100" class="nclicks(rig.secteco)" title="이지성 &quot;배현진·김건희론 안돼…'젊은女' 아내 차유람 입당 권유&quot;">이지성 "배현진·김건희론 안돼…'젊은女' 아내 차유람 입당 권유"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 김건희 여사 '수원 세모녀' 빈소 조문 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -17,13 +24,6 @@
         <link href="https://n.news.naver.com/mnews/article/422/0000557462?sid=100"/>
         <updated>2022-08-25T09:16:16.584Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000557462?sid=100" class="nclicks(rig.secteco)" title="[단독] 김건희 여사 '수원 세모녀' 빈소 조문">[단독] 김건희 여사 '수원 세모녀' 빈소 조문</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["국민의힘 배현진·나경원·김건희론 부족…젊음, 여성 부족" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002256528?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002256528?sid=100"/>
-        <updated>2022-08-25T09:16:16.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002256528?sid=100" class="nclicks(rig.secteco)" title="&quot;국민의힘 배현진·나경원·김건희론 부족…젊음, 여성 부족&quot;">"국민의힘 배현진·나경원·김건희론 부족…젊음, 여성 부족"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 미국·일본 이어 캐나다까지 잇단 대만 방문에 난감 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,25 +40,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000371498?sid=104" class="nclicks(rig.secteco)" title="日 경찰청 장관, 아베 피격 책임지고 '사의'">日 경찰청 장관, 아베 피격 책임지고 '사의'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이창용 "당분간 0.25%p 인상기조 유지…고물가 땐 내년도 인상"(종합3보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011384125?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011384125?sid=101"/>
-        <updated>2022-08-25T09:16:16.590Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011384125?sid=101" class="nclicks(rig.secteco)" title="이창용 &quot;당분간 0.25%p 인상기조 유지…고물가 땐 내년도 인상&quot;(종합3보)">이창용 "당분간 0.25%p 인상기조 유지…고물가 땐 내년도 인상"(종합3보)</a>]]></content>
+        <title type="html"><![CDATA[대러 제재 뚫고 윤석열호 3조 규모 ‘K-원전’ 첫 성과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301548?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301548?sid=101"/>
+        <updated>2022-08-25T10:19:24.664Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301548?sid=101" class="nclicks(rig.secteco)" title="대러 제재 뚫고 윤석열호 3조 규모 ‘K-원전’ 첫 성과">대러 제재 뚫고 윤석열호 3조 규모 ‘K-원전’ 첫 성과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국토부, 침수차 매매하면 사업등록 취소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002266375?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002266375?sid=101"/>
-        <updated>2022-08-25T09:16:16.591Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002266375?sid=101" class="nclicks(rig.secteco)" title="국토부, 침수차 매매하면 사업등록 취소">국토부, 침수차 매매하면 사업등록 취소</a>]]></content>
+        <title type="html"><![CDATA[빅스텝보다 더 강한 '매의 발톱'…연말 금리 3%로 올린 후 내년에도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301521?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301521?sid=101"/>
+        <updated>2022-08-25T10:19:24.670Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301521?sid=101" class="nclicks(rig.secteco)" title="빅스텝보다 더 강한 '매의 발톱'…연말 금리 3%로 올린 후 내년에도">빅스텝보다 더 강한 '매의 발톱'…연말 금리 3%로 올린 후 내년에도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004787261?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101"/>
-        <updated>2022-08-25T06:31:16.910Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004787261?sid=101" class="nclicks(rig.secteco)" title="빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다">빌게이츠 10년간 못 만든 걸 삼성이…'글로벌 리더' 이재용 다시 뛴다</a>]]></content>
+        <title type="html"><![CDATA['침수' 사실 숨기고 중고車 팔면 바로 '사업 취소' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000300208?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000300208?sid=101"/>
+        <updated>2022-08-25T10:19:24.672Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000300208?sid=101" class="nclicks(rig.secteco)" title="'침수' 사실 숨기고 중고車 팔면 바로 '사업 취소'">'침수' 사실 숨기고 중고車 팔면 바로 '사업 취소'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘컴투스式 메타버스’ 베일 벗었다…“2024년 1분기 상용화”(영상) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,39 +75,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002603826?sid=105" class="nclicks(rig.secteco)" title="‘프리미엄폰 맞수’ 갤 폴드4-아이폰14, 불경기 길목서 정면승부">‘프리미엄폰 맞수’ 갤 폴드4-아이폰14, 불경기 길목서 정면승부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['택시기사 폭행' 이용구 증거인멸교사도 유죄…"합의금 객관적으로 과다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006298103?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006298103?sid=102"/>
-        <updated>2022-08-25T09:16:16.598Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006298103?sid=102" class="nclicks(rig.secteco)" title="'택시기사 폭행' 이용구 증거인멸교사도 유죄…&quot;합의금 객관적으로 과다&quot;">'택시기사 폭행' 이용구 증거인멸교사도 유죄…"합의금 객관적으로 과다"</a>]]></content>
+        <title type="html"><![CDATA['택시기사 폭행' 이용구 전 차관, 징역형 집행유예..."죄질 나빠" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001781388?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001781388?sid=102"/>
+        <updated>2022-08-25T10:19:24.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001781388?sid=102" class="nclicks(rig.secteco)" title="'택시기사 폭행' 이용구 전 차관, 징역형 집행유예...&quot;죄질 나빠&quot;">'택시기사 폭행' 이용구 전 차관, 징역형 집행유예..."죄질 나빠"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김혜경 '법카 유용 의혹' 핵심 배모씨 30일 구속심사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000846388?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000846388?sid=102"/>
-        <updated>2022-08-25T09:16:16.599Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000846388?sid=102" class="nclicks(rig.secteco)" title="김혜경 '법카 유용 의혹' 핵심 배모씨 30일 구속심사">김혜경 '법카 유용 의혹' 핵심 배모씨 30일 구속심사</a>]]></content>
+        <title type="html"><![CDATA[2천만원 유용 혐의…김혜경 '법카 의혹' 핵심인물, 30일 구속심사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005301506?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005301506?sid=102"/>
+        <updated>2022-08-25T10:19:24.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005301506?sid=102" class="nclicks(rig.secteco)" title="2천만원 유용 혐의…김혜경 '법카 의혹' 핵심인물, 30일 구속심사">2천만원 유용 혐의…김혜경 '법카 의혹' 핵심인물, 30일 구속심사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] '밥·빨래' 갑질 D남원새마을금고, 1300개 금고서 '엄단 1호' 불명예 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002256535?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002256535?sid=102"/>
-        <updated>2022-08-25T09:16:16.601Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002256535?sid=102" class="nclicks(rig.secteco)" title="[속보] '밥·빨래' 갑질 D남원새마을금고, 1300개 금고서 '엄단 1호' 불명예">[속보] '밥·빨래' 갑질 D남원새마을금고, 1300개 금고서 '엄단 1호' 불명예</a>]]></content>
+        <title type="html"><![CDATA["나 촉법소년" 알고보니 생일 지났다…편의점 난동 10대 최후 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219251?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219251?sid=102"/>
+        <updated>2022-08-25T10:19:24.683Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219251?sid=102" class="nclicks(rig.secteco)" title="&quot;나 촉법소년&quot; 알고보니 생일 지났다…편의점 난동 10대 최후">"나 촉법소년" 알고보니 생일 지났다…편의점 난동 10대 최후</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["미국 인플레감축법 시행하면 전기차 매년 10만 대 수출 차질" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003219214?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003219214?sid=103"/>
-        <updated>2022-08-25T09:16:16.602Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219214?sid=103" class="nclicks(rig.secteco)" title="&quot;미국 인플레감축법 시행하면 전기차 매년 10만 대 수출 차질&quot;">"미국 인플레감축법 시행하면 전기차 매년 10만 대 수출 차질"</a>]]></content>
+        <title type="html"><![CDATA[韓전기차 수출 10만대 차질… "국내도 테슬라 보조금 깎아야" [美 인플레 방지법 후폭풍] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004888692?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004888692?sid=103"/>
+        <updated>2022-08-25T10:19:24.686Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004888692?sid=103" class="nclicks(rig.secteco)" title="韓전기차 수출 10만대 차질… &quot;국내도 테슬라 보조금 깎아야&quot; [美 인플레 방지법 후폭풍]">韓전기차 수출 10만대 차질… "국내도 테슬라 보조금 깎아야" [美 인플레 방지법 후폭풍]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쌍용차 법정관리 졸업·매각 '청신호'…대형 협력사들 찬성 돌아서 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006298259?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006298259?sid=103"/>
-        <updated>2022-08-25T09:16:16.605Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006298259?sid=103" class="nclicks(rig.secteco)" title="쌍용차 법정관리 졸업·매각 '청신호'…대형 협력사들 찬성 돌아서">쌍용차 법정관리 졸업·매각 '청신호'…대형 협력사들 찬성 돌아서</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 중부·경북 북부 비 조금…내일 다시 전국 낮더위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000557446?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000557446?sid=103"/>
+        <updated>2022-08-25T10:19:24.688Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000557446?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부·경북 북부 비 조금…내일 다시 전국 낮더위">[날씨] 중부·경북 북부 비 조금…내일 다시 전국 낮더위</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 지방(고양외고-하와이 볼드윈고 학생들, 온라인 토론 벌여) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
