@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-26T23:16:56.085Z</updated>
+    <updated>2022-08-27T01:28:30.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘당헌 80조’ 개정에 “부끄럽다, 후안무치”…민주도 분열]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001549146?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001549146?sid=100"/>
-        <updated>2022-08-26T22:16:09.976Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001549146?sid=100" class="nclicks(rig.secteco)" title="‘당헌 80조’ 개정에 “부끄럽다, 후안무치”…민주도 분열">‘당헌 80조’ 개정에 “부끄럽다, 후안무치”…민주도 분열</a>]]></content>
+        <title type="html"><![CDATA[‘이재명 방탄’ 논란 당헌, 재수 끝 통과…비명계 “꼼수 재상정”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219512?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219512?sid=100"/>
+        <updated>2022-08-27T01:27:56.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219512?sid=100" class="nclicks(rig.secteco)" title="‘이재명 방탄’ 논란 당헌, 재수 끝 통과…비명계 “꼼수 재상정”">‘이재명 방탄’ 논란 당헌, 재수 끝 통과…비명계 “꼼수 재상정”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서문시장 ‘尹 사랑합니다’ 플래카드 앞에서 선 尹 “어려울 때 대구 생각하면 힘이 나”]]></title>
@@ -27,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011386487?sid=100" class="nclicks(rig.secteco)" title="與 '주호영 직무정지' 의총…권성동 거취, 당 진로에 달려">與 '주호영 직무정지' 의총…권성동 거취, 당 진로에 달려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["IAEA, 다음주 우크라 자포리자 원전 실사"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004889194?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004889194?sid=104"/>
-        <updated>2022-08-26T23:16:21.255Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004889194?sid=104" class="nclicks(rig.secteco)" title="&quot;IAEA, 다음주 우크라 자포리자 원전 실사&quot;">"IAEA, 다음주 우크라 자포리자 원전 실사"</a>]]></content>
+        <title type="html"><![CDATA[파월 “멈추거나 쉬어갈 지점 아직 아냐”…뉴욕증시 ‘검은 금요일’]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002604020?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002604020?sid=104"/>
+        <updated>2022-08-27T01:27:56.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002604020?sid=104" class="nclicks(rig.secteco)" title="파월 “멈추거나 쉬어갈 지점 아직 아냐”…뉴욕증시 ‘검은 금요일’">파월 “멈추거나 쉬어갈 지점 아직 아냐”…뉴욕증시 ‘검은 금요일’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 연준 물가지표 하락...9월 0.75%p 인상 가능성은 60.5%로 높아져]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004889171?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004889171?sid=104"/>
-        <updated>2022-08-26T22:16:09.983Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004889171?sid=104" class="nclicks(rig.secteco)" title="미 연준 물가지표 하락...9월 0.75%p 인상 가능성은 60.5%로 높아져">미 연준 물가지표 하락...9월 0.75%p 인상 가능성은 60.5%로 높아져</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“피봇(Pivot)은 없다”…매파 파월의 잭슨홀 연설 집중분석 [김영필의 3분 월스트리트]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004092336?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004092336?sid=101"/>
-        <updated>2022-08-26T21:14:13.993Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004092336?sid=101" class="nclicks(rig.secteco)" title="“피봇(Pivot)은 없다”…매파 파월의 잭슨홀 연설 집중분석 [김영필의 3분 월스트리트]">“피봇(Pivot)은 없다”…매파 파월의 잭슨홀 연설 집중분석 [김영필의 3분 월스트리트]</a>]]></content>
+        <title type="html"><![CDATA[제2 체르노빌 위험…우크라 자포리자 원전 전기공급 재개]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004092358?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004092358?sid=104"/>
+        <updated>2022-08-27T01:27:56.581Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004092358?sid=104" class="nclicks(rig.secteco)" title="제2 체르노빌 위험…우크라 자포리자 원전 전기공급 재개">제2 체르노빌 위험…우크라 자포리자 원전 전기공급 재개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KG 품에 안긴 쌍용차…‘토레스’ 앞세워 경영정상화 시동]]></title>
@@ -55,25 +48,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000018489?sid=101" class="nclicks(rig.secteco)" title="KG 품에 안긴 쌍용차…‘토레스’ 앞세워 경영정상화 시동">KG 품에 안긴 쌍용차…‘토레스’ 앞세워 경영정상화 시동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["같이 셀카 찍어요" 갤플립 꺼낸 MZ직원에, 이재용 반응 깜짝]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003219482?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003219482?sid=101"/>
-        <updated>2022-08-26T23:16:21.265Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219482?sid=101" class="nclicks(rig.secteco)" title="&quot;같이 셀카 찍어요&quot; 갤플립 꺼낸 MZ직원에, 이재용 반응 깜짝">"같이 셀카 찍어요" 갤플립 꺼낸 MZ직원에, 이재용 반응 깜짝</a>]]></content>
+        <title type="html"><![CDATA[파월 '잭슨홀' 매파 발언에 뉴욕증시 '검은 금요일'…나스닥 3.94%↓]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000169186?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000169186?sid=101"/>
+        <updated>2022-08-27T01:27:56.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000169186?sid=101" class="nclicks(rig.secteco)" title="파월 '잭슨홀' 매파 발언에 뉴욕증시 '검은 금요일'…나스닥 3.94%↓">파월 '잭슨홀' 매파 발언에 뉴욕증시 '검은 금요일'…나스닥 3.94%↓</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 공략 시동 건 '갤Z플립4·폴드4', 전작 흥행 뛰어넘을까]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000846804?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000846804?sid=105"/>
-        <updated>2022-08-26T23:16:21.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000846804?sid=105" class="nclicks(rig.secteco)" title="세계 공략 시동 건 '갤Z플립4·폴드4', 전작 흥행 뛰어넘을까">세계 공략 시동 건 '갤Z플립4·폴드4', 전작 흥행 뛰어넘을까</a>]]></content>
+        <title type="html"><![CDATA[최태원 "부산엑스포 유치전 '판 뒤집을 차별화 요소' 준비중]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002633884?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002633884?sid=101"/>
+        <updated>2022-08-27T01:27:56.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002633884?sid=101" class="nclicks(rig.secteco)" title="최태원 &quot;부산엑스포 유치전 '판 뒤집을 차별화 요소' 준비중">최태원 "부산엑스포 유치전 '판 뒤집을 차별화 요소' 준비중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이기자의 게임픽] 컴투스 그룹, 메인넷 XPLA 구축...블록체인 사업 드라이브]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002266415?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002266415?sid=105"/>
-        <updated>2022-08-26T23:16:21.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002266415?sid=105" class="nclicks(rig.secteco)" title="[이기자의 게임픽] 컴투스 그룹, 메인넷 XPLA 구축...블록체인 사업 드라이브">[이기자의 게임픽] 컴투스 그룹, 메인넷 XPLA 구축...블록체인 사업 드라이브</a>]]></content>
+        <title type="html"><![CDATA[[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002266465?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002266465?sid=105"/>
+        <updated>2022-08-27T01:27:56.593Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002266465?sid=105" class="nclicks(rig.secteco)" title="[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC">[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이다IT] 현실세계 그대로 옮겨 놓겠다는 '컴투버스', 메타버스 끝판왕 될까]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011386539?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011386539?sid=105"/>
+        <updated>2022-08-27T01:27:56.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011386539?sid=105" class="nclicks(rig.secteco)" title="[사이다IT] 현실세계 그대로 옮겨 놓겠다는 '컴투버스', 메타버스 끝판왕 될까">[사이다IT] 현실세계 그대로 옮겨 놓겠다는 '컴투버스', 메타버스 끝판왕 될까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석 손 들어준 법원… 주호영 “판사 편향 우려 현실화”]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003729046?sid=102" class="nclicks(rig.secteco)" title="이준석 손 들어준 법원… 주호영 “판사 편향 우려 현실화”">이준석 손 들어준 법원… 주호영 “판사 편향 우려 현실화”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이은해·조현수는 피해자 구할 수 있었을까…법정에 선 전문가들 의견은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002633931?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002633931?sid=102"/>
-        <updated>2022-08-26T22:16:09.995Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002633931?sid=102" class="nclicks(rig.secteco)" title="이은해·조현수는 피해자 구할 수 있었을까…법정에 선 전문가들 의견은?">이은해·조현수는 피해자 구할 수 있었을까…법정에 선 전문가들 의견은?</a>]]></content>
+        <title type="html"><![CDATA[계곡살인 법정 나온 이수정 "이은해, 자아도취적 가스라이터"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003219542?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003219542?sid=102"/>
+        <updated>2022-08-27T01:27:56.609Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003219542?sid=102" class="nclicks(rig.secteco)" title="계곡살인 법정 나온 이수정 &quot;이은해, 자아도취적 가스라이터&quot;">계곡살인 법정 나온 이수정 "이은해, 자아도취적 가스라이터"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주서 몸통에 화살 박힌 강아지 발견]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003729023?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003729023?sid=102"/>
-        <updated>2022-08-26T21:14:14.005Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003729023?sid=102" class="nclicks(rig.secteco)" title="제주서 몸통에 화살 박힌 강아지 발견">제주서 몸통에 화살 박힌 강아지 발견</a>]]></content>
+        <title type="html"><![CDATA[위중증 579명, 재유행 최다…확진 9만5604명, 전날보다 5536명↓(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013401196?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013401196?sid=102"/>
+        <updated>2022-08-27T01:27:56.611Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013401196?sid=102" class="nclicks(rig.secteco)" title="위중증 579명, 재유행 최다…확진 9만5604명, 전날보다 5536명↓(종합)">위중증 579명, 재유행 최다…확진 9만5604명, 전날보다 5536명↓(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 아침까지 서울 등 빗방울…낮 최고 24~29도]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011386259?sid=103" class="nclicks(rig.secteco)" title="내일 아침까지 서울 등 빗방울…낮 최고 24~29도">내일 아침까지 서울 등 빗방울…낮 최고 24~29도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 ‘서울대작전’ 진짜 주인공은 車車車…현대차 레트로 모델 ‘총출동’]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002033486?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002033486?sid=103"/>
-        <updated>2022-08-26T14:15:14.217Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002033486?sid=103" class="nclicks(rig.secteco)" title="넷플릭스 ‘서울대작전’ 진짜 주인공은 車車車…현대차 레트로 모델 ‘총출동’">넷플릭스 ‘서울대작전’ 진짜 주인공은 車車車…현대차 레트로 모델 ‘총출동’</a>]]></content>
+        <title type="html"><![CDATA[봉화 청암정·영주 부석사 안양루· 범종각 보물 된다]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011384956?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011384956?sid=103"/>
+        <updated>2022-08-27T01:27:56.614Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011384956?sid=103" class="nclicks(rig.secteco)" title="봉화 청암정·영주 부석사 안양루· 범종각 보물 된다">봉화 청암정·영주 부석사 안양루· 범종각 보물 된다</a>]]></content>
     </entry>
 </feed>
