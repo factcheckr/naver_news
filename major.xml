@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-08-27T19:13:39.944Z</updated>
+    <updated>2022-08-27T20:17:01.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[`이재명의 민주당` 코 앞…최고위까지 `친명` 도배하나(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005303438?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005303438?sid=100"/>
-        <updated>2022-08-27T19:13:12.431Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005303438?sid=100" class="nclicks(rig.secteco)" title="`이재명의 민주당` 코 앞…최고위까지 `친명` 도배하나(종합)">`이재명의 민주당` 코 앞…최고위까지 `친명` 도배하나(종합)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[이준석 법정 ‘승리’하자 與 당헌·당규 고쳐 새 비대위…’추가 징계’ 요구도]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000836928?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/366/0000836928?sid=100"/>
         <updated>2022-08-27T19:13:12.434Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000836928?sid=100" class="nclicks(rig.secteco)" title="이준석 법정 ‘승리’하자 與 당헌·당규 고쳐 새 비대위…’추가 징계’ 요구도">이준석 법정 ‘승리’하자 與 당헌·당규 고쳐 새 비대위…’추가 징계’ 요구도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野, 오늘 지도부 선출…'어대명'에 친명 지도부 탄생 주목]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011387096?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011387096?sid=100"/>
+        <updated>2022-08-27T20:16:30.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011387096?sid=100" class="nclicks(rig.secteco)" title="野, 오늘 지도부 선출…'어대명'에 친명 지도부 탄생 주목">野, 오늘 지도부 선출…'어대명'에 친명 지도부 탄생 주목</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[與법률대리인 "원내대표 직무대행 불가피…비대위원 지위 유지"(종합)]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000693742?sid=104" class="nclicks(rig.secteco)" title="자포리자 핵재앙 현실로?… 포격으로 전기 끊겨 방사능 유출될 뻔">자포리자 핵재앙 현실로?… 포격으로 전기 끊겨 방사능 유출될 뻔</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투자자들, 고금리 지속 전망으로 선회..."금리인상 내년까지 이어져"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004889307?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004889307?sid=104"/>
-        <updated>2022-08-27T19:13:12.434Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004889307?sid=104" class="nclicks(rig.secteco)" title="투자자들, 고금리 지속 전망으로 선회...&quot;금리인상 내년까지 이어져&quot;">투자자들, 고금리 지속 전망으로 선회..."금리인상 내년까지 이어져"</a>]]></content>
+        <title type="html"><![CDATA["기밀문서 반납 안한 트럼프, 사법 방해 혐의 가능성"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000995642?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000995642?sid=104"/>
+        <updated>2022-08-27T20:16:30.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000995642?sid=104" class="nclicks(rig.secteco)" title="&quot;기밀문서 반납 안한 트럼프, 사법 방해 혐의 가능성&quot;">"기밀문서 반납 안한 트럼프, 사법 방해 혐의 가능성"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤·시 협력강화 이어...한중경제장관 공급망 협력 합의]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000010046?sid=105" class="nclicks(rig.secteco)" title="'P의 거짓', 한국 콘솔 게임 최초 게임스컴 어워드 수상">'P의 거짓', 한국 콘솔 게임 최초 게임스컴 어워드 수상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002266465?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002266465?sid=105"/>
-        <updated>2022-08-27T18:19:40.936Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002266465?sid=105" class="nclicks(rig.secteco)" title="[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC">[ZD리뷰] 아재폰이라고요?...갤Z폴드4, 한 손에 쏙 잡히는 태블릿PC</a>]]></content>
+        <title type="html"><![CDATA[50년 만에 ‘문화예술’ 인정받는 게임…“그래서 뭐가 바뀌는데?” [보편적겜뷰]]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003297371?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003297371?sid=105"/>
+        <updated>2022-08-27T20:16:30.797Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003297371?sid=105" class="nclicks(rig.secteco)" title="50년 만에 ‘문화예술’ 인정받는 게임…“그래서 뭐가 바뀌는데?” [보편적겜뷰]">50년 만에 ‘문화예술’ 인정받는 게임…“그래서 뭐가 바뀌는데?” [보편적겜뷰]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'21년 만에' 대전 권총살인강도 용의자 2명 붙잡혔다(종합)]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005303117?sid=102" class="nclicks(rig.secteco)" title="전익수 공군 법무실장, 특검 재소환…&quot;조작 녹취록으로 군 흔들어&quot;">전익수 공군 법무실장, 특검 재소환…"조작 녹취록으로 군 흔들어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['살인 전과 2범' 40대 또 동거녀 잔혹 살해…결국 '무기징역']]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013401279?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013401279?sid=102"/>
-        <updated>2022-08-27T19:13:12.445Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013401279?sid=102" class="nclicks(rig.secteco)" title="'살인 전과 2범' 40대 또 동거녀 잔혹 살해…결국 '무기징역'">'살인 전과 2범' 40대 또 동거녀 잔혹 살해…결국 '무기징역'</a>]]></content>
+        <title type="html"><![CDATA[로또 1030회 당첨번호 1·2등 역대급, '우르르' 쏟아졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000169253?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000169253?sid=102"/>
+        <updated>2022-08-27T20:16:30.803Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000169253?sid=102" class="nclicks(rig.secteco)" title="로또 1030회 당첨번호 1·2등 역대급, '우르르' 쏟아졌다">로또 1030회 당첨번호 1·2등 역대급, '우르르' 쏟아졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유흥식 추기경 바티칸서 서임식… 한국인 네 번째]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003729146?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003729146?sid=103"/>
-        <updated>2022-08-27T19:13:12.446Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003729146?sid=103" class="nclicks(rig.secteco)" title="유흥식 추기경 바티칸서 서임식… 한국인 네 번째">유흥식 추기경 바티칸서 서임식… 한국인 네 번째</a>]]></content>
+        <title type="html"><![CDATA[유흥식 추기경 공식 서임...한국 가톨릭 역사상 네 번째]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001782115?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001782115?sid=103"/>
+        <updated>2022-08-27T20:16:30.807Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001782115?sid=103" class="nclicks(rig.secteco)" title="유흥식 추기경 공식 서임...한국 가톨릭 역사상 네 번째">유흥식 추기경 공식 서임...한국 가톨릭 역사상 네 번째</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 아침기온 '뚝' 초가을 날씨…일교차 '주의']]></title>
