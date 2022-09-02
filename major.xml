@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-02T09:16:34.979Z</updated>
+    <updated>2022-09-02T10:19:12.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실, 도이치모터스 녹취록 보도에 "유감, 법적 조치 강구"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003681688?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003681688?sid=100"/>
+        <updated>2022-09-02T10:18:44.254Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003681688?sid=100" class="nclicks(rig.secteco)" title="대통령실, 도이치모터스 녹취록 보도에 &quot;유감, 법적 조치 강구&quot;">대통령실, 도이치모터스 녹취록 보도에 "유감, 법적 조치 강구"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["가처분 또 인용때 우스운 꼴"...與상임전국위서 터진 우려]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003221217?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003221217?sid=100" class="nclicks(rig.secteco)" title="&quot;가처분 또 인용때 우스운 꼴&quot;...與상임전국위서 터진 우려">"가처분 또 인용때 우스운 꼴"...與상임전국위서 터진 우려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도이치모터스 녹취록 보도에…대통령실 "날조, 강력 법적조치"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013416537?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013416537?sid=100"/>
-        <updated>2022-09-02T09:16:05.731Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013416537?sid=100" class="nclicks(rig.secteco)" title="도이치모터스 녹취록 보도에…대통령실 &quot;날조, 강력 법적조치&quot;(종합)">도이치모터스 녹취록 보도에…대통령실 "날조, 강력 법적조치"(종합)</a>]]></content>
+        <title type="html"><![CDATA[北 7차 핵실험? 안보실장 "절대 '6+1' 아니다, 한미일 강력 대응"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004790784?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004790784?sid=100"/>
+        <updated>2022-09-02T10:18:44.257Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004790784?sid=100" class="nclicks(rig.secteco)" title="北 7차 핵실험? 안보실장 &quot;절대 '6+1' 아니다, 한미일 강력 대응&quot;">北 7차 핵실험? 안보실장 "절대 '6+1' 아니다, 한미일 강력 대응"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 "디지털플랫폼 정부, 공공서비스 획기적인 개선할 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003681595?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003681595?sid=100"/>
-        <updated>2022-09-02T07:23:08.180Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003681595?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;디지털플랫폼 정부, 공공서비스 획기적인 개선할 것&quot;">윤 대통령 "디지털플랫폼 정부, 공공서비스 획기적인 개선할 것"</a>]]></content>
+        <title type="html"><![CDATA["트럼프가 민주주의 위협"...지지율 오른 바이든 트럼프 때리기 '올인']]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000695029?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000695029?sid=104"/>
+        <updated>2022-09-02T10:18:44.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000695029?sid=104" class="nclicks(rig.secteco)" title="&quot;트럼프가 민주주의 위협&quot;...지지율 오른 바이든 트럼프 때리기 '올인'">"트럼프가 민주주의 위협"...지지율 오른 바이든 트럼프 때리기 '올인'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 지지율 뛴 바이든, 트럼프 작심 비판 "美 근본 위협"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004790654?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004790654?sid=104"/>
-        <updated>2022-09-02T09:16:05.732Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004790654?sid=104" class="nclicks(rig.secteco)" title="요즘 지지율 뛴 바이든, 트럼프 작심 비판 &quot;美 근본 위협&quot;">요즘 지지율 뛴 바이든, 트럼프 작심 비판 "美 근본 위협"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이마 앞에서 당긴 방아쇠 ‘불발’… 아르헨 부통령, 암살 위기 피했다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003713792?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003713792?sid=104"/>
-        <updated>2022-09-02T09:16:05.732Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003713792?sid=104" class="nclicks(rig.secteco)" title="이마 앞에서 당긴 방아쇠 ‘불발’… 아르헨 부통령, 암살 위기 피했다">이마 앞에서 당긴 방아쇠 ‘불발’… 아르헨 부통령, 암살 위기 피했다</a>]]></content>
+        <title type="html"><![CDATA[자포리자 원전 사찰 이틀째…우크라-러, 조사 공정성 논쟁]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013416627?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013416627?sid=104"/>
+        <updated>2022-09-02T10:18:44.261Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013416627?sid=104" class="nclicks(rig.secteco)" title="자포리자 원전 사찰 이틀째…우크라-러, 조사 공정성 논쟁">자포리자 원전 사찰 이틀째…우크라-러, 조사 공정성 논쟁</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[환율, 금융위기 후 첫 1,360원 돌파…1,400원까지 가나(종합2보)]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013416454?sid=101" class="nclicks(rig.secteco)" title="환율, 금융위기 후 첫 1,360원 돌파…1,400원까지 가나(종합2보)">환율, 금융위기 후 첫 1,360원 돌파…1,400원까지 가나(종합2보)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전문성 부족·개인사 문제…한기정, 각종 의혹 해명에 '진땀'(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011400384?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011400384?sid=101"/>
+        <updated>2022-09-02T10:18:44.264Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011400384?sid=101" class="nclicks(rig.secteco)" title="전문성 부족·개인사 문제…한기정, 각종 의혹 해명에 '진땀'(종합)">전문성 부족·개인사 문제…한기정, 각종 의혹 해명에 '진땀'(종합)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['인플레 폭주' 주춤했지만…원유감산·강달러 불씨는 여전]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005012853?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005012853?sid=101"/>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005012853?sid=101" class="nclicks(rig.secteco)" title="'인플레 폭주' 주춤했지만…원유감산·강달러 불씨는 여전">'인플레 폭주' 주춤했지만…원유감산·강달러 불씨는 여전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한기정 후보자 난타전…"자료제출 역대 최악" vs "망신주기 그만"]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002752234?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002752234?sid=101"/>
-        <updated>2022-09-02T08:21:09.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002752234?sid=101" class="nclicks(rig.secteco)" title="한기정 후보자 난타전…&quot;자료제출 역대 최악&quot; vs &quot;망신주기 그만&quot;">한기정 후보자 난타전…"자료제출 역대 최악" vs "망신주기 그만"</a>]]></content>
+        <title type="html"><![CDATA[다누리가 찍은 달 사진, 왜 흐릿한 흑백일까]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002267143?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105"/>
+        <updated>2022-09-02T10:18:44.269Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105" class="nclicks(rig.secteco)" title="다누리가 찍은 달 사진, 왜 흐릿한 흑백일까">다누리가 찍은 달 사진, 왜 흐릿한 흑백일까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[IFA 2022] 크리스티아노 아몬 퀄컴 CEO “모든 사람과 사물이 지능적으로 연결되는 세상이 온다”]]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000838424?sid=105" class="nclicks(rig.secteco)" title="[IFA 2022] 크리스티아노 아몬 퀄컴 CEO “모든 사람과 사물이 지능적으로 연결되는 세상이 온다”">[IFA 2022] 크리스티아노 아몬 퀄컴 CEO “모든 사람과 사물이 지능적으로 연결되는 세상이 온다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 '갤럭시 Z플립·폴드4' 유럽 출하량 두배 늘며 돌풍]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005012801?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005012801?sid=105"/>
-        <updated>2022-09-02T09:16:05.736Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005012801?sid=105" class="nclicks(rig.secteco)" title="삼성 '갤럭시 Z플립·폴드4' 유럽 출하량 두배 늘며 돌풍">삼성 '갤럭시 Z플립·폴드4' 유럽 출하량 두배 늘며 돌풍</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[속보]기상청 "태풍 '힌남노' 역대 가장 강한 상태서 상륙…한 번도 예상 못한 피해 발생할 수도"]]></title>
         <id>https://n.news.naver.com/mnews/article/087/0000921076?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/087/0000921076?sid=102"/>
@@ -83,25 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000921076?sid=102" class="nclicks(rig.secteco)" title="[속보]기상청 &quot;태풍 '힌남노' 역대 가장 강한 상태서 상륙…한 번도 예상 못한 피해 발생할 수도&quot;">[속보]기상청 "태풍 '힌남노' 역대 가장 강한 상태서 상륙…한 번도 예상 못한 피해 발생할 수도"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국산 1호 코로나19 백신, 5일부터 접종한다…SK바사, 초도물량 출하]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002036397?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002036397?sid=102"/>
-        <updated>2022-09-02T09:16:05.743Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002036397?sid=102" class="nclicks(rig.secteco)" title="국산 1호 코로나19 백신, 5일부터 접종한다…SK바사, 초도물량 출하">국산 1호 코로나19 백신, 5일부터 접종한다…SK바사, 초도물량 출하</a>]]></content>
+        <title type="html"><![CDATA[화이자 맞은뒤 국산 1호 백신 맞았더니…오미크론 변이에 효과]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003221204?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003221204?sid=102"/>
+        <updated>2022-09-02T10:18:44.274Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003221204?sid=102" class="nclicks(rig.secteco)" title="화이자 맞은뒤 국산 1호 백신 맞았더니…오미크론 변이에 효과">화이자 맞은뒤 국산 1호 백신 맞았더니…오미크론 변이에 효과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“2003년 현금수송차량도 훔쳐”… ‘은행 강도살인’ 이승만 추가 자백]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003448941?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003448941?sid=102"/>
-        <updated>2022-09-02T09:16:05.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003448941?sid=102" class="nclicks(rig.secteco)" title="“2003년 현금수송차량도 훔쳐”… ‘은행 강도살인’ 이승만 추가 자백">“2003년 현금수송차량도 훔쳐”… ‘은행 강도살인’ 이승만 추가 자백</a>]]></content>
+        <title type="html"><![CDATA[[속보] '대전 강도살인' 이승만 "1년 뒤 4억7천만원 실린 현금수송차도 훔쳤다" 추가자백]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000773521?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000773521?sid=102"/>
+        <updated>2022-09-02T10:18:44.276Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000773521?sid=102" class="nclicks(rig.secteco)" title="[속보] '대전 강도살인' 이승만 &quot;1년 뒤 4억7천만원 실린 현금수송차도 훔쳤다&quot; 추가자백">[속보] '대전 강도살인' 이승만 "1년 뒤 4억7천만원 실린 현금수송차도 훔쳤다" 추가자백</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011400318?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011400318?sid=103"/>
-        <updated>2022-09-02T09:16:05.747Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011400318?sid=103" class="nclicks(rig.secteco)" title="내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜">내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜</a>]]></content>
+        <title type="html"><![CDATA[[내일날씨] 태풍 ‘힌남노’ 영향…제주·남부지방에 많은 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002636098?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002636098?sid=103"/>
+        <updated>2022-09-02T10:18:44.281Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002636098?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 태풍 ‘힌남노’ 영향…제주·남부지방에 많은 비">[내일날씨] 태풍 ‘힌남노’ 영향…제주·남부지방에 많은 비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“봉은사 폭행은 우발적 행동… 불교 중흥시킬 것” 진우 스님의 포부]]></title>
