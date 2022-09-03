@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-03T07:15:44.479Z</updated>
+    <updated>2022-09-03T08:20:39.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[尹, 최고 단계 태풍 대응 지시...오늘 저녁 총리 주재 중대본 회의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001784890?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001784890?sid=100"/>
-        <updated>2022-09-03T07:15:15.751Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001784890?sid=100" class="nclicks(rig.secteco)" title="尹, 최고 단계 태풍 대응 지시...오늘 저녁 총리 주재 중대본 회의">尹, 최고 단계 태풍 대응 지시...오늘 저녁 총리 주재 중대본 회의</a>]]></content>
+        <title type="html"><![CDATA[‘매미’급 이상 태풍 ‘힌남노’ 북상… 尹 대통령, “최고 단계 대응태세 갖춰라” 지시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003731482?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003731482?sid=100"/>
+        <updated>2022-09-03T08:20:04.180Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003731482?sid=100" class="nclicks(rig.secteco)" title="‘매미’급 이상 태풍 ‘힌남노’ 북상… 尹 대통령, “최고 단계 대응태세 갖춰라” 지시">‘매미’급 이상 태풍 ‘힌남노’ 북상… 尹 대통령, “최고 단계 대응태세 갖춰라” 지시</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김기현 “까도 까도 비리” vs 이재명 “먼지 털다 안되니 꼬투리” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002036533?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002036533?sid=100"/>
+        <updated>2022-09-03T08:20:04.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002036533?sid=100" class="nclicks(rig.secteco)" title="김기현 “까도 까도 비리” vs 이재명 “먼지 털다 안되니 꼬투리”">김기현 “까도 까도 비리” vs 이재명 “먼지 털다 안되니 꼬투리”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]북한인권대사 "꼭 대북전단 아니라도 창의적 방법 있을 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -17,13 +24,6 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003681360?sid=100"/>
         <updated>2022-09-03T07:15:15.753Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003681360?sid=100" class="nclicks(rig.secteco)" title="[단독]북한인권대사 &quot;꼭 대북전단 아니라도 창의적 방법 있을 것&quot;">[단독]북한인권대사 "꼭 대북전단 아니라도 창의적 방법 있을 것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현 "까도 까도 비리 혐의…민주, 이재명 봉고파직이 순리" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000773547?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000773547?sid=100"/>
-        <updated>2022-09-03T07:15:15.754Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000773547?sid=100" class="nclicks(rig.secteco)" title="김기현 &quot;까도 까도 비리 혐의…민주, 이재명 봉고파직이 순리&quot;">김기현 "까도 까도 비리 혐의…민주, 이재명 봉고파직이 순리"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G7, 러시아 석유 가격상한제 합의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,25 +47,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001052179?sid=101" class="nclicks(rig.secteco)" title="기름값 내릴만큼 내렸나…경윳값 1800원대 반등">기름값 내릴만큼 내렸나…경윳값 1800원대 반등</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특허 248건으로 분석한 '애플카'의 모든 것 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/053/0000032514?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/053/0000032514?sid=101"/>
-        <updated>2022-09-03T07:15:15.765Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000032514?sid=101" class="nclicks(rig.secteco)" title="특허 248건으로 분석한 '애플카'의 모든 것">특허 248건으로 분석한 '애플카'의 모든 것</a>]]></content>
+        <title type="html"><![CDATA[‘한풀’ 꺾인 물가… 추석 이후에 더 내려갈까 [세종PICK] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003731478?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003731478?sid=101"/>
+        <updated>2022-09-03T08:20:04.206Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003731478?sid=101" class="nclicks(rig.secteco)" title="‘한풀’ 꺾인 물가… 추석 이후에 더 내려갈까 [세종PICK]">‘한풀’ 꺾인 물가… 추석 이후에 더 내려갈까 [세종PICK]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8월 물가 5.7%↑…상승세 둔화했지만 채솟값·외식비 '고공행진'(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013414904?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013414904?sid=101"/>
-        <updated>2022-09-03T06:20:07.989Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013414904?sid=101" class="nclicks(rig.secteco)" title="8월 물가 5.7%↑…상승세 둔화했지만 채솟값·외식비 '고공행진'(종합2보)">8월 물가 5.7%↑…상승세 둔화했지만 채솟값·외식비 '고공행진'(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리가 찍은 달 사진, 왜 흐릿한 흑백일까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002267143?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105"/>
-        <updated>2022-09-03T06:20:07.991Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105" class="nclicks(rig.secteco)" title="다누리가 찍은 달 사진, 왜 흐릿한 흑백일까">다누리가 찍은 달 사진, 왜 흐릿한 흑백일까</a>]]></content>
+        <title type="html"><![CDATA[아직 출시도 안 했는데…테슬라 밀어버린 '애플카' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001052183?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001052183?sid=101"/>
+        <updated>2022-09-03T08:20:04.206Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001052183?sid=101" class="nclicks(rig.secteco)" title="아직 출시도 안 했는데…테슬라 밀어버린 '애플카'">아직 출시도 안 했는데…테슬라 밀어버린 '애플카'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,6 +68,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000695111?sid=105" class="nclicks(rig.secteco)" title="게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소]">게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[다누리가 찍은 달 사진, 왜 흐릿한 흑백일까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002267143?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105"/>
+        <updated>2022-09-03T06:20:07.991Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002267143?sid=105" class="nclicks(rig.secteco)" title="다누리가 찍은 달 사진, 왜 흐릿한 흑백일까">다누리가 찍은 달 사진, 왜 흐릿한 흑백일까</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2번째 원숭이두창 환자, 입국 2주 지난 뒤에야 확인…방역구멍 없었나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006314654?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006314654?sid=102"/>
@@ -82,25 +82,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006314654?sid=102" class="nclicks(rig.secteco)" title="2번째 원숭이두창 환자, 입국 2주 지난 뒤에야 확인…방역구멍 없었나">2번째 원숭이두창 환자, 입국 2주 지난 뒤에야 확인…방역구멍 없었나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힌남노, 6일 오전 경남남해안 상륙 전망…"역대 가장 강한 상태"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013415522?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013415522?sid=102"/>
-        <updated>2022-09-03T04:03:32.742Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013415522?sid=102" class="nclicks(rig.secteco)" title="힌남노, 6일 오전 경남남해안 상륙 전망…&quot;역대 가장 강한 상태&quot;(종합2보)">힌남노, 6일 오전 경남남해안 상륙 전망…"역대 가장 강한 상태"(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[태풍 '힌남노' 6일 상륙 예상... "발달 방해요소 없다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002365020?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002365020?sid=102"/>
+        <updated>2022-09-03T08:20:04.207Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002365020?sid=102" class="nclicks(rig.secteco)" title="태풍 '힌남노' 6일 상륙 예상... &quot;발달 방해요소 없다&quot;">태풍 '힌남노' 6일 상륙 예상... "발달 방해요소 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Q&A]해외 입국자, 이제 코로나 검사할 필요 없나요 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003681720?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003681720?sid=102"/>
-        <updated>2022-09-03T06:20:07.999Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003681720?sid=102" class="nclicks(rig.secteco)" title="[Q&amp;A]해외 입국자, 이제 코로나 검사할 필요 없나요">[Q&amp;A]해외 입국자, 이제 코로나 검사할 필요 없나요</a>]]></content>
+        <title type="html"><![CDATA[입국 전 코로나19 검사 폐지…유행 감소세 뚜렷 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000558853?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000558853?sid=102"/>
+        <updated>2022-09-03T08:20:04.208Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000558853?sid=102" class="nclicks(rig.secteco)" title="입국 전 코로나19 검사 폐지…유행 감소세 뚜렷">입국 전 코로나19 검사 폐지…유행 감소세 뚜렷</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011400318?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011400318?sid=103"/>
-        <updated>2022-09-03T06:20:08.004Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011400318?sid=103" class="nclicks(rig.secteco)" title="내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜">내일 '힌남노 영향' 제주도·남해안 많은 비…시간당 30~50㎜</a>]]></content>
+        <title type="html"><![CDATA[[내일 날씨] 태풍 '힌남노' 영향에 전국에 비… 일부 지역 시간당 50mm (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000848966?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000848966?sid=103"/>
+        <updated>2022-09-03T08:20:04.208Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000848966?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] 태풍 '힌남노' 영향에 전국에 비… 일부 지역 시간당 50mm">[내일 날씨] 태풍 '힌남노' 영향에 전국에 비… 일부 지역 시간당 50mm</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키아프·프리즈 서울 오늘 개막…"코엑스서 수천억원대 거래될 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
