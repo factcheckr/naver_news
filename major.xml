@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-03T22:16:17.817Z</updated>
+    <updated>2022-09-03T23:16:13.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[역대급 태풍 '힌남노' 북상...한덕수 "학교 재량휴업 적극 검토"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004790895?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004790895?sid=100"/>
-        <updated>2022-09-03T21:14:28.217Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004790895?sid=100" class="nclicks(rig.secteco)" title="역대급 태풍 '힌남노' 북상...한덕수 &quot;학교 재량휴업 적극 검토&quot;">역대급 태풍 '힌남노' 북상...한덕수 "학교 재량휴업 적극 검토"</a>]]></content>
+        <title type="html"><![CDATA[“힌남노, 매미보다 강할수도”…전국 사흘간 최대 300㎜ 내린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003299091?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003299091?sid=100"/>
+        <updated>2022-09-03T23:15:45.428Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003299091?sid=100" class="nclicks(rig.secteco)" title="“힌남노, 매미보다 강할수도”…전국 사흘간 최대 300㎜ 내린다">“힌남노, 매미보다 강할수도”…전국 사흘간 최대 300㎜ 내린다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지원 “BTS 병역면제 환영. 단 한 번이라도 군 위문공연 하면?”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003731524?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003731524?sid=100"/>
+        <updated>2022-09-03T23:15:45.431Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003731524?sid=100" class="nclicks(rig.secteco)" title="박지원 “BTS 병역면제 환영. 단 한 번이라도 군 위문공연 하면?”">박지원 “BTS 병역면제 환영. 단 한 번이라도 군 위문공연 하면?”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국바세 "'진윤 감별사' '당권 쿠데타'"…김웅 "당 장악하자"]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011400988?sid=100" class="nclicks(rig.secteco)" title="국바세 &quot;'진윤 감별사' '당권 쿠데타'&quot;…김웅 &quot;당 장악하자&quot;">국바세 "'진윤 감별사' '당권 쿠데타'"…김웅 "당 장악하자"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래서 BTS는 병역 특례를 해줘야 할까요 [박수찬의 軍]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003731395?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003731395?sid=100"/>
-        <updated>2022-09-03T20:16:54.740Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003731395?sid=100" class="nclicks(rig.secteco)" title="그래서 BTS는 병역 특례를 해줘야 할까요 [박수찬의 軍]">그래서 BTS는 병역 특례를 해줘야 할까요 [박수찬의 軍]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잇따른 액체수소 누출 '미궁'… 아르테미스 첫 발사 또다시 연기에 허탈]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004095165?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004095165?sid=104"/>
-        <updated>2022-09-03T22:15:42.469Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004095165?sid=104" class="nclicks(rig.secteco)" title="잇따른 액체수소 누출 '미궁'… 아르테미스 첫 발사 또다시 연기에 허탈">잇따른 액체수소 누출 '미궁'… 아르테미스 첫 발사 또다시 연기에 허탈</a>]]></content>
+        <title type="html"><![CDATA[또 연료 누출에 발목잡힌 달 탐사의 꿈...10월로 연기 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003221354?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003221354?sid=104"/>
+        <updated>2022-09-03T23:15:45.438Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003221354?sid=104" class="nclicks(rig.secteco)" title="또 연료 누출에 발목잡힌 달 탐사의 꿈...10월로 연기 가능성">또 연료 누출에 발목잡힌 달 탐사의 꿈...10월로 연기 가능성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["냉전 끝장 영웅 vs 조국 망친 배신자" 고르바초프 운명의 세 장면]]></title>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004790843?sid=104" class="nclicks(rig.secteco)" title="&quot;냉전 끝장 영웅 vs 조국 망친 배신자&quot; 고르바초프 운명의 세 장면">"냉전 끝장 영웅 vs 조국 망친 배신자" 고르바초프 운명의 세 장면</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하나금융그룹, 취약계층에 연간 26조원 규모 금융지원]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011401246?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011401246?sid=101"/>
+        <updated>2022-09-03T23:15:45.439Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011401246?sid=101" class="nclicks(rig.secteco)" title="하나금융그룹, 취약계층에 연간 26조원 규모 금융지원">하나금융그룹, 취약계층에 연간 26조원 규모 금융지원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치솟는 환율…'달러 금고' 괜찮나]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000010217?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000010217?sid=101"/>
+        <updated>2022-09-03T23:15:45.441Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000010217?sid=101" class="nclicks(rig.secteco)" title="치솟는 환율…'달러 금고' 괜찮나">치솟는 환율…'달러 금고' 괜찮나</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]현대차, 美조지아 전기차 공장 30만대→50만대 조기 확대 검토]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006314961?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006314961?sid=101"/>
@@ -48,32 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006314961?sid=101" class="nclicks(rig.secteco)" title="[단독]현대차, 美조지아 전기차 공장 30만대→50만대 조기 확대 검토">[단독]현대차, 美조지아 전기차 공장 30만대→50만대 조기 확대 검토</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[환율비상] ③한국경제, 스태그플레이션 태풍권 들어가나]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013417595?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013417595?sid=101"/>
-        <updated>2022-09-03T22:15:42.472Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013417595?sid=101" class="nclicks(rig.secteco)" title="[환율비상] ③한국경제, 스태그플레이션 태풍권 들어가나">[환율비상] ③한국경제, 스태그플레이션 태풍권 들어가나</a>]]></content>
+        <title type="html"><![CDATA["삼성 잡고 애플 키울거냐"…'통화녹음 금지법' 불만 폭주]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004745668?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004745668?sid=105"/>
+        <updated>2022-09-03T23:15:45.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004745668?sid=105" class="nclicks(rig.secteco)" title="&quot;삼성 잡고 애플 키울거냐&quot;…'통화녹음 금지법' 불만 폭주">"삼성 잡고 애플 키울거냐"…'통화녹음 금지법' 불만 폭주</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["컨테이너 무너지고 크레인 꺾였다"… 산업부, 태풍 '힌남노' 대응반 긴급 구성]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000849015?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000849015?sid=101"/>
-        <updated>2022-09-03T22:15:42.476Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000849015?sid=101" class="nclicks(rig.secteco)" title="&quot;컨테이너 무너지고 크레인 꺾였다&quot;… 산업부, 태풍 '힌남노' 대응반 긴급 구성">"컨테이너 무너지고 크레인 꺾였다"… 산업부, 태풍 '힌남노' 대응반 긴급 구성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[접을 수 있어?… 삼성전자, 애플 아이폰14 공개 저격]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000848991?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000848991?sid=105"/>
-        <updated>2022-09-03T21:14:28.223Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000848991?sid=105" class="nclicks(rig.secteco)" title="접을 수 있어?… 삼성전자, 애플 아이폰14 공개 저격">접을 수 있어?… 삼성전자, 애플 아이폰14 공개 저격</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소]]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000695111?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000695111?sid=105"/>
-        <updated>2022-09-03T22:15:42.477Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000695111?sid=105" class="nclicks(rig.secteco)" title="게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소]">게이머들이 분노하면... 판교엔 마차와 트럭이 나타난다[게임연구소]</a>]]></content>
+        <title type="html"><![CDATA[“우리가 메타버스 적임자”…게임업계 개발 사활]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002636246?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002636246?sid=105"/>
+        <updated>2022-09-03T23:15:45.448Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002636246?sid=105" class="nclicks(rig.secteco)" title="“우리가 메타버스 적임자”…게임업계 개발 사활">“우리가 메타버스 적임자”…게임업계 개발 사활</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대책회의 연 문체부…유튜브 해킹 경위 점검·경찰 수사 의뢰]]></title>
