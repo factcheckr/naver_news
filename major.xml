@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-05T06:01:46.659Z</updated>
+    <updated>2022-09-05T06:55:25.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[與 '주호영 비대위' 해산…'새 비대위' 출범에 박차]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013420247?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013420247?sid=100"/>
-        <updated>2022-09-05T06:01:14.112Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420247?sid=100" class="nclicks(rig.secteco)" title="與 '주호영 비대위' 해산…'새 비대위' 출범에 박차">與 '주호영 비대위' 해산…'새 비대위' 출범에 박차</a>]]></content>
+        <title type="html"><![CDATA[與 '주호영 비대위' 해산…"권성동, 당 대표 권한대행 겸직"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013421019?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013421019?sid=100"/>
+        <updated>2022-09-05T06:54:53.236Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013421019?sid=100" class="nclicks(rig.secteco)" title="與 '주호영 비대위' 해산…&quot;권성동, 당 대표 권한대행 겸직&quot;(종합)">與 '주호영 비대위' 해산…"권성동, 당 대표 권한대행 겸직"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 이재명 "김건희 특검법 하자, 필요하면 나도 받겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003221576?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003221576?sid=100"/>
+        <updated>2022-09-05T06:54:53.238Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003221576?sid=100" class="nclicks(rig.secteco)" title="[단독] 이재명 &quot;김건희 특검법 하자, 필요하면 나도 받겠다&quot;">[단독] 이재명 "김건희 특검법 하자, 필요하면 나도 받겠다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주, 尹대통령 검찰 고발…"김여사 관련 허위사실 공표"(종합2보)]]></title>
@@ -20,25 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420478?sid=100" class="nclicks(rig.secteco)" title="민주, 尹대통령 검찰 고발…&quot;김여사 관련 허위사실 공표&quot;(종합2보)">민주, 尹대통령 검찰 고발…"김여사 관련 허위사실 공표"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈 “이재명 검찰 소환, ‘전쟁’ 아닌 범죄 수사”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003731895?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003731895?sid=100"/>
-        <updated>2022-09-05T06:01:14.114Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003731895?sid=100" class="nclicks(rig.secteco)" title="한동훈 “이재명 검찰 소환, ‘전쟁’ 아닌 범죄 수사”">한동훈 “이재명 검찰 소환, ‘전쟁’ 아닌 범죄 수사”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파키스탄 홍수 사망자 1280명 넘어…3분의 1은 어린이]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011403342?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011403342?sid=104"/>
-        <updated>2022-09-05T06:01:14.120Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011403342?sid=104" class="nclicks(rig.secteco)" title="파키스탄 홍수 사망자 1280명 넘어…3분의 1은 어린이">파키스탄 홍수 사망자 1280명 넘어…3분의 1은 어린이</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中 선전 전면 봉쇄…청두는 전면 봉쇄 기간 연장]]></title>
         <id>https://n.news.naver.com/mnews/article/024/0000077068?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/024/0000077068?sid=104"/>
         <updated>2022-09-05T06:01:14.123Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/024/0000077068?sid=104" class="nclicks(rig.secteco)" title="中 선전 전면 봉쇄…청두는 전면 봉쇄 기간 연장">中 선전 전면 봉쇄…청두는 전면 봉쇄 기간 연장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 '전기차 보조금'에서 트럼프의 향기가?…EU·日도 '발끈']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004791400?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004791400?sid=104"/>
+        <updated>2022-09-05T06:54:53.242Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004791400?sid=104" class="nclicks(rig.secteco)" title="美 '전기차 보조금'에서 트럼프의 향기가?…EU·日도 '발끈'">美 '전기차 보조금'에서 트럼프의 향기가?…EU·日도 '발끈'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[면세한도 800불로 상향…위스키 최대 55% 할인 나선 면세점 [오정민의 유통한입]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004745999?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004745999?sid=101"/>
+        <updated>2022-09-05T06:54:53.242Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004745999?sid=101" class="nclicks(rig.secteco)" title="면세한도 800불로 상향…위스키 최대 55% 할인 나선 면세점 [오정민의 유통한입]">면세한도 800불로 상향…위스키 최대 55% 할인 나선 면세점 [오정민의 유통한입]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신한은행, 하반기 700명 채용…신입 공채도 진행]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002752602?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002752602?sid=101"/>
+        <updated>2022-09-05T06:54:53.243Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002752602?sid=101" class="nclicks(rig.secteco)" title="신한은행, 하반기 700명 채용…신입 공채도 진행">신한은행, 하반기 700명 채용…신입 공채도 진행</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50년뒤 한국인구 절반이 65세 이상 노인…세계서 가장 늙은 국가(종합)]]></title>
@@ -48,32 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420408?sid=101" class="nclicks(rig.secteco)" title="50년뒤 한국인구 절반이 65세 이상 노인…세계서 가장 늙은 국가(종합)">50년뒤 한국인구 절반이 65세 이상 노인…세계서 가장 늙은 국가(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신한銀, 하반기 신입행원 공개채용…경력직 포함 약 700명 수준]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005143163?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005143163?sid=101"/>
-        <updated>2022-09-05T06:01:14.124Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005143163?sid=101" class="nclicks(rig.secteco)" title="신한銀, 하반기 신입행원 공개채용…경력직 포함 약 700명 수준">신한銀, 하반기 신입행원 공개채용…경력직 포함 약 700명 수준</a>]]></content>
+        <title type="html"><![CDATA[ASUS, LG 노트북 제쳤다…"국내 노트북 시장 점유율 2위"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004893933?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004893933?sid=105"/>
+        <updated>2022-09-05T06:54:53.247Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004893933?sid=105" class="nclicks(rig.secteco)" title="ASUS, LG 노트북 제쳤다…&quot;국내 노트북 시장 점유율 2위&quot;">ASUS, LG 노트북 제쳤다…"국내 노트북 시장 점유율 2위"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힌남노 상륙…손해보험업계 '비상']]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003041931?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003041931?sid=101"/>
-        <updated>2022-09-05T06:01:14.125Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003041931?sid=101" class="nclicks(rig.secteco)" title="힌남노 상륙…손해보험업계 '비상'">힌남노 상륙…손해보험업계 '비상'</a>]]></content>
+        <title type="html"><![CDATA[태풍 ‘힌남노’ 앞두고 이종호 과기정통부 장관, 점검회의 개최]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005310920?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005310920?sid=105"/>
+        <updated>2022-09-05T06:54:53.250Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005310920?sid=105" class="nclicks(rig.secteco)" title="태풍 ‘힌남노’ 앞두고 이종호 과기정통부 장관, 점검회의 개최">태풍 ‘힌남노’ 앞두고 이종호 과기정통부 장관, 점검회의 개최</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韓 제안 지능형 차량통신보안 국제표준 3건 사전 채택]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011403265?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011403265?sid=105"/>
-        <updated>2022-09-05T06:01:14.129Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011403265?sid=105" class="nclicks(rig.secteco)" title="韓 제안 지능형 차량통신보안 국제표준 3건 사전 채택">韓 제안 지능형 차량통신보안 국제표준 3건 사전 채택</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 태풍 '힌남노' 대비상황 점검회의 열어]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002132096?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002132096?sid=105"/>
-        <updated>2022-09-05T06:01:14.130Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002132096?sid=105" class="nclicks(rig.secteco)" title="과기정통부, 태풍 '힌남노' 대비상황 점검회의 열어">과기정통부, 태풍 '힌남노' 대비상황 점검회의 열어</a>]]></content>
+        <title type="html"><![CDATA[내일 서울 유·초·중 ‘등교수업’ 전면 중단...고교는 학교장 재량]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000838829?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000838829?sid=102"/>
+        <updated>2022-09-05T06:54:53.252Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000838829?sid=102" class="nclicks(rig.secteco)" title="내일 서울 유·초·중 ‘등교수업’ 전면 중단...고교는 학교장 재량">내일 서울 유·초·중 ‘등교수업’ 전면 중단...고교는 학교장 재량</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰, ‘김혜경 법인카드 유용 의혹’ 핵심 배모씨 소환…민주 비상의총]]></title>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003299361?sid=102" class="nclicks(rig.secteco)" title="검찰, ‘김혜경 법인카드 유용 의혹’ 핵심 배모씨 소환…민주 비상의총">검찰, ‘김혜경 법인카드 유용 의혹’ 핵심 배모씨 소환…민주 비상의총</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이원석 "이재명 소환, 기회 준 것…김건희 여사 사건은 파악 못해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000044377?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000044377?sid=102"/>
-        <updated>2022-09-05T06:01:14.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000044377?sid=102" class="nclicks(rig.secteco)" title="이원석 &quot;이재명 소환, 기회 준 것…김건희 여사 사건은 파악 못해&quot;">이원석 "이재명 소환, 기회 준 것…김건희 여사 사건은 파악 못해"</a>]]></content>
+        <title type="html"><![CDATA[이원석 "김건희 주가 조작 의혹, 맡겨주면... 수사 지휘하겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002365166?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002365166?sid=102"/>
+        <updated>2022-09-05T06:54:53.255Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002365166?sid=102" class="nclicks(rig.secteco)" title="이원석 &quot;김건희 주가 조작 의혹, 맡겨주면... 수사 지휘하겠다&quot;">이원석 "김건희 주가 조작 의혹, 맡겨주면... 수사 지휘하겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[태풍 힌남노] 제주·남부지방 학교 '등교 중지'…휴업·원격수업]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013420206?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013420206?sid=102"/>
-        <updated>2022-09-05T04:19:31.913Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420206?sid=102" class="nclicks(rig.secteco)" title="[태풍 힌남노] 제주·남부지방 학교 '등교 중지'…휴업·원격수업">[태풍 힌남노] 제주·남부지방 학교 '등교 중지'…휴업·원격수업</a>]]></content>
+        <title type="html"><![CDATA[성균관 “명절에 전 부칠 필요 없다…음식 9개면 족해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003299415?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003299415?sid=103"/>
+        <updated>2022-09-05T06:54:53.257Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003299415?sid=103" class="nclicks(rig.secteco)" title="성균관 “명절에 전 부칠 필요 없다…음식 9개면 족해”">성균관 “명절에 전 부칠 필요 없다…음식 9개면 족해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오징어게임' 미 에미상 게스트·시각효과 등 4개 부문 수상(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013420104?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013420104?sid=103"/>
-        <updated>2022-09-05T04:19:31.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420104?sid=103" class="nclicks(rig.secteco)" title="'오징어게임' 미 에미상 게스트·시각효과 등 4개 부문 수상(종합2보)">'오징어게임' 미 에미상 게스트·시각효과 등 4개 부문 수상(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성균관 "명절에 더는 전 부칠 필요 없다…음식은 최대 9개까지"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013420290?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013420290?sid=103"/>
-        <updated>2022-09-05T06:01:14.149Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013420290?sid=103" class="nclicks(rig.secteco)" title="성균관 &quot;명절에 더는 전 부칠 필요 없다…음식은 최대 9개까지&quot;">성균관 "명절에 더는 전 부칠 필요 없다…음식은 최대 9개까지"</a>]]></content>
+        <title type="html"><![CDATA[‘오징어게임’ 이유미, 美 에미상 게스트 여배우상 수상…한국 배우 최초]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003714204?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003714204?sid=103"/>
+        <updated>2022-09-05T06:54:53.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003714204?sid=103" class="nclicks(rig.secteco)" title="‘오징어게임’ 이유미, 美 에미상 게스트 여배우상 수상…한국 배우 최초">‘오징어게임’ 이유미, 美 에미상 게스트 여배우상 수상…한국 배우 최초</a>]]></content>
     </entry>
 </feed>
