@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-07T09:17:58.881Z</updated>
+    <updated>2022-09-07T10:21:39.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005312864?sid=100" class="nclicks(rig.secteco)" title="與비대위원장에 정진석…이준석 &quot;아, 가처분은 합니다&quot;(종합)">與비대위원장에 정진석…이준석 "아, 가처분은 합니다"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새정부 3번째 복지수장 후보자…할일 많은 복지부 진용 갖출까]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013428071?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013428071?sid=100"/>
-        <updated>2022-09-07T09:17:30.276Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013428071?sid=100" class="nclicks(rig.secteco)" title="새정부 3번째 복지수장 후보자…할일 많은 복지부 진용 갖출까">새정부 3번째 복지수장 후보자…할일 많은 복지부 진용 갖출까</a>]]></content>
+        <title type="html"><![CDATA['인력난' 속 복지부까지 꿰찬 기재부 출신…1기 내각은 '미완']]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013428205?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013428205?sid=100"/>
+        <updated>2022-09-07T10:21:03.345Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013428205?sid=100" class="nclicks(rig.secteco)" title="'인력난' 속 복지부까지 꿰찬 기재부 출신…1기 내각은 '미완'">'인력난' 속 복지부까지 꿰찬 기재부 출신…1기 내각은 '미완'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야 '추석 민심' 싸움에…전문가는 "밥상에 썩은 음식만 올린다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003222428?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003222428?sid=100"/>
-        <updated>2022-09-07T09:17:30.276Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003222428?sid=100" class="nclicks(rig.secteco)" title="여야 '추석 민심' 싸움에…전문가는 &quot;밥상에 썩은 음식만 올린다&quot;">여야 '추석 민심' 싸움에…전문가는 "밥상에 썩은 음식만 올린다"</a>]]></content>
+        <title type="html"><![CDATA[스브스레터 이브닝(9/7) : '특검 · 또 고발' 윤 대통령 부부, '소환 · 압수수색' 이재명 부부]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000998181?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000998181?sid=100"/>
+        <updated>2022-09-07T10:21:03.346Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000998181?sid=100" class="nclicks(rig.secteco)" title="스브스레터 이브닝(9/7) : '특검 · 또 고발' 윤 대통령 부부, '소환 · 압수수색' 이재명 부부">스브스레터 이브닝(9/7) : '특검 · 또 고발' 윤 대통령 부부, '소환 · 압수수색' 이재명 부부</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시진핑-푸틴 7개월여 만에 또 대면 정상회담]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003683494?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003683494?sid=104"/>
+        <updated>2022-09-07T10:21:03.347Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003683494?sid=104" class="nclicks(rig.secteco)" title="시진핑-푸틴 7개월여 만에 또 대면 정상회담">시진핑-푸틴 7개월여 만에 또 대면 정상회담</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국, 유가상한 동참시 부정적 결과"... 러, 북한무기 구매 정황도]]></title>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002365539?sid=104" class="nclicks(rig.secteco)" title="&quot;한국, 유가상한 동참시 부정적 결과&quot;... 러, 북한무기 구매 정황도">"한국, 유가상한 동참시 부정적 결과"... 러, 북한무기 구매 정황도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“시진핑·푸틴, 15일 상하이서 양자회담 예정”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000839485?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000839485?sid=104"/>
-        <updated>2022-09-07T09:17:30.282Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000839485?sid=104" class="nclicks(rig.secteco)" title="“시진핑·푸틴, 15일 상하이서 양자회담 예정”">“시진핑·푸틴, 15일 상하이서 양자회담 예정”</a>]]></content>
+        <title type="html"><![CDATA[49년 만에 멈춘 ‘포항제철’…車·조선·건설 연쇄 피해 빚어지나]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005312911?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005312911?sid=101"/>
+        <updated>2022-09-07T10:21:03.350Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005312911?sid=101" class="nclicks(rig.secteco)" title="49년 만에 멈춘 ‘포항제철’…車·조선·건설 연쇄 피해 빚어지나">49년 만에 멈춘 ‘포항제철’…車·조선·건설 연쇄 피해 빚어지나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[르포] 천장엔 그랜저 한 대값 로봇이 1850개... 삼성 평택캠퍼스 가보니]]></title>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003714750?sid=101" class="nclicks(rig.secteco)" title="[르포] 천장엔 그랜저 한 대값 로봇이 1850개... 삼성 평택캠퍼스 가보니">[르포] 천장엔 그랜저 한 대값 로봇이 1850개... 삼성 평택캠퍼스 가보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이런 참담한 모습 30년 만에 처음"…포항제철소 초유의 상황]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004747380?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004747380?sid=101"/>
-        <updated>2022-09-07T08:23:38.826Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004747380?sid=101" class="nclicks(rig.secteco)" title="&quot;이런 참담한 모습 30년 만에 처음&quot;…포항제철소 초유의 상황">"이런 참담한 모습 30년 만에 처음"…포항제철소 초유의 상황</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["LH 사태 두번은 없다"… 국토부, 공공기관 고강도 혁신안 중간발표]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000850293?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000850293?sid=101"/>
-        <updated>2022-09-07T09:17:30.288Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000850293?sid=101" class="nclicks(rig.secteco)" title="&quot;LH 사태 두번은 없다&quot;… 국토부, 공공기관 고강도 혁신안 중간발표">"LH 사태 두번은 없다"… 국토부, 공공기관 고강도 혁신안 중간발표</a>]]></content>
+        <title type="html"><![CDATA[금융위, 음악 조각투자 플랫폼 '뮤직카우' 혁신금융서비스 인정]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000696322?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000696322?sid=101"/>
+        <updated>2022-09-07T10:21:03.352Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000696322?sid=101" class="nclicks(rig.secteco)" title="금융위, 음악 조각투자 플랫폼 '뮤직카우' 혁신금융서비스 인정">금융위, 음악 조각투자 플랫폼 '뮤직카우' 혁신금융서비스 인정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 현대차-KT 지분 맞교환... 자율주행 협력 급가속]]></title>
@@ -69,39 +69,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000695905?sid=105" class="nclicks(rig.secteco)" title="[단독] 현대차-KT 지분 맞교환... 자율주행 협력 급가속">[단독] 현대차-KT 지분 맞교환... 자율주행 협력 급가속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국회, 종부세 개정안 등 의결…국내OTT, 자체 등급분류도 가능해져]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001173419?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001173419?sid=105"/>
-        <updated>2022-09-07T08:23:38.835Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001173419?sid=105" class="nclicks(rig.secteco)" title="국회, 종부세 개정안 등 의결…국내OTT, 자체 등급분류도 가능해져">국회, 종부세 개정안 등 의결…국내OTT, 자체 등급분류도 가능해져</a>]]></content>
+        <title type="html"><![CDATA[자율등급제 기다린 OTT 업계 "경쟁력 강화…적극 환영"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003683476?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003683476?sid=105"/>
+        <updated>2022-09-07T10:21:03.359Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003683476?sid=105" class="nclicks(rig.secteco)" title="자율등급제 기다린 OTT 업계 &quot;경쟁력 강화…적극 환영&quot;">자율등급제 기다린 OTT 업계 "경쟁력 강화…적극 환영"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['법인카드 유용 의혹' 김혜경, 3시간 검찰 조사 마치고 귀가]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001786774?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001786774?sid=102"/>
-        <updated>2022-09-07T09:17:30.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001786774?sid=102" class="nclicks(rig.secteco)" title="'법인카드 유용 의혹' 김혜경, 3시간 검찰 조사 마치고 귀가">'법인카드 유용 의혹' 김혜경, 3시간 검찰 조사 마치고 귀가</a>]]></content>
+        <title type="html"><![CDATA['법인카드 유용 의혹' 김혜경, 2시간 40분 검찰 조사받고 귀가]]></title>
+        <id>https://n.news.naver.com/mnews/article/082/0001173486?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/082/0001173486?sid=102"/>
+        <updated>2022-09-07T10:21:03.362Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001173486?sid=102" class="nclicks(rig.secteco)" title="'법인카드 유용 의혹' 김혜경, 2시간 40분 검찰 조사받고 귀가">'법인카드 유용 의혹' 김혜경, 2시간 40분 검찰 조사받고 귀가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]보이스톡 통화하고 주차장서 접선…‘쌍방울 영장’ 치밀한 유출]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000233569?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000233569?sid=102"/>
-        <updated>2022-09-07T09:17:30.293Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000233569?sid=102" class="nclicks(rig.secteco)" title="[단독]보이스톡 통화하고 주차장서 접선…‘쌍방울 영장’ 치밀한 유출">[단독]보이스톡 통화하고 주차장서 접선…‘쌍방울 영장’ 치밀한 유출</a>]]></content>
+        <title type="html"><![CDATA[[단독] 검찰, ‘이재명 측근’ 이화영 수사… 쌍방울서 억대 금품 받은 혐의]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003714759?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003714759?sid=102"/>
+        <updated>2022-09-07T10:21:03.368Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003714759?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰, ‘이재명 측근’ 이화영 수사… 쌍방울서 억대 금품 받은 혐의">[단독] 검찰, ‘이재명 측근’ 이화영 수사… 쌍방울서 억대 금품 받은 혐의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컴퓨터 기반 첫 고교 학업성취도평가, 접속 장애로 전면 취소]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003222412?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003222412?sid=102"/>
-        <updated>2022-09-07T09:17:30.295Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003222412?sid=102" class="nclicks(rig.secteco)" title="컴퓨터 기반 첫 고교 학업성취도평가, 접속 장애로 전면 취소">컴퓨터 기반 첫 고교 학업성취도평가, 접속 장애로 전면 취소</a>]]></content>
+        <title type="html"><![CDATA[[단독] 고교 학업성취도평가 컴퓨터 먹통, '전면 취소' 사태]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002365483?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002365483?sid=102"/>
+        <updated>2022-09-07T10:21:03.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002365483?sid=102" class="nclicks(rig.secteco)" title="[단독] 고교 학업성취도평가 컴퓨터 먹통, '전면 취소' 사태">[단독] 고교 학업성취도평가 컴퓨터 먹통, '전면 취소' 사태</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임단협 고비 넘은 한국GM, 반도체亂 넘고 흑자전환 총력]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002637543?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002637543?sid=103"/>
-        <updated>2022-09-07T09:17:30.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002637543?sid=103" class="nclicks(rig.secteco)" title="임단협 고비 넘은 한국GM, 반도체亂 넘고 흑자전환 총력">임단협 고비 넘은 한국GM, 반도체亂 넘고 흑자전환 총력</a>]]></content>
+        <title type="html"><![CDATA[3년 만에 활짝 열린다… 개막작, 이란 영화 ‘바람의 향기’]]></title>
+        <id>https://n.news.naver.com/mnews/article/082/0001173447?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/082/0001173447?sid=103"/>
+        <updated>2022-09-07T10:21:03.371Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001173447?sid=103" class="nclicks(rig.secteco)" title="3년 만에 활짝 열린다… 개막작, 이란 영화 ‘바람의 향기’">3년 만에 활짝 열린다… 개막작, 이란 영화 ‘바람의 향기’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호원대, 현대자동차그룹 대학 연극·뮤지컬 페스티벌 '우수상']]></title>
