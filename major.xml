@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-09T07:23:53.707Z</updated>
+    <updated>2022-09-09T08:25:38.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹대통령, 추석 민생 행보…무료급식소서 배식 봉사]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000313279?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000313279?sid=100"/>
+        <updated>2022-09-09T08:25:06.865Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000313279?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 추석 민생 행보…무료급식소서 배식 봉사">尹대통령, 추석 민생 행보…무료급식소서 배식 봉사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, 김건희 여사와 추석인사…"일상 근심 잠시 내려놓길"]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003683988?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003683988?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 김건희 여사와 추석인사…&quot;일상 근심 잠시 내려놓길&quot;">윤 대통령, 김건희 여사와 추석인사…"일상 근심 잠시 내려놓길"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, 北핵무력법제화에 "비핵화 흔들림 없이 추진"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013431571?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013431571?sid=100"/>
-        <updated>2022-09-09T07:23:25.667Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013431571?sid=100" class="nclicks(rig.secteco)" title="정부, 北핵무력법제화에 &quot;비핵화 흔들림 없이 추진&quot;">정부, 北핵무력법제화에 "비핵화 흔들림 없이 추진"</a>]]></content>
+        <title type="html"><![CDATA[北 김정은 "핵 포기 절대 없다"...'핵 법제화'까지]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001787542?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001787542?sid=100"/>
+        <updated>2022-09-09T08:25:06.870Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001787542?sid=100" class="nclicks(rig.secteco)" title="北 김정은 &quot;핵 포기 절대 없다&quot;...'핵 법제화'까지">北 김정은 "핵 포기 절대 없다"...'핵 법제화'까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 열린 '석열이형네 밥집'…尹, 추석연휴 첫 일정 '무료 급식소' 봉사]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005145480?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005145480?sid=100"/>
-        <updated>2022-09-09T07:23:25.670Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005145480?sid=100" class="nclicks(rig.secteco)" title="다시 열린 '석열이형네 밥집'…尹, 추석연휴 첫 일정 '무료 급식소' 봉사">다시 열린 '석열이형네 밥집'…尹, 추석연휴 첫 일정 '무료 급식소' 봉사</a>]]></content>
+        <title type="html"><![CDATA["국제사회의 손실"…엘리자베스 2세 영국 여왕 서거, 세계가 애도]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002638022?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002638022?sid=104"/>
+        <updated>2022-09-09T08:25:06.871Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002638022?sid=104" class="nclicks(rig.secteco)" title="&quot;국제사회의 손실&quot;…엘리자베스 2세 영국 여왕 서거, 세계가 애도">"국제사회의 손실"…엘리자베스 2세 영국 여왕 서거, 세계가 애도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영국여왕 서거] 사진으로 보는 96년 일생·재임 70년 일대기]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006327138?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006327138?sid=104"/>
-        <updated>2022-09-09T06:34:27.495Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006327138?sid=104" class="nclicks(rig.secteco)" title="[영국여왕 서거] 사진으로 보는 96년 일생·재임 70년 일대기">[영국여왕 서거] 사진으로 보는 96년 일생·재임 70년 일대기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[74세 즉위까지 64년 걸렸다…'다이애나의 남자' 찰스 3세는]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003222854?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003222854?sid=104"/>
-        <updated>2022-09-09T07:23:25.678Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003222854?sid=104" class="nclicks(rig.secteco)" title="74세 즉위까지 64년 걸렸다…'다이애나의 남자' 찰스 3세는">74세 즉위까지 64년 걸렸다…'다이애나의 남자' 찰스 3세는</a>]]></content>
+        <title type="html"><![CDATA[[英여왕 서거] 찰스3세, 내일 국왕으로 공식선포…대관식은 몇달 뒤]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013431656?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013431656?sid=104"/>
+        <updated>2022-09-09T08:25:06.885Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013431656?sid=104" class="nclicks(rig.secteco)" title="[英여왕 서거] 찰스3세, 내일 국왕으로 공식선포…대관식은 몇달 뒤">[英여왕 서거] 찰스3세, 내일 국왕으로 공식선포…대관식은 몇달 뒤</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]포스코, 포항제철소 선강공정 15일까지 모두 복구]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005015687?sid=101" class="nclicks(rig.secteco)" title="&quot;'4.5억 급급매' 연락했더니, 안 산대요&quot;…강남권 아파트도 '시큰둥'">"'4.5억 급급매' 연락했더니, 안 산대요"…강남권 아파트도 '시큰둥'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아이들은 아이폰만 찾는다” 신작 250만원, 허리 휜 부모들 화났다?]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002039161?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002039161?sid=105"/>
-        <updated>2022-09-09T05:53:52.144Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002039161?sid=105" class="nclicks(rig.secteco)" title="“아이들은 아이폰만 찾는다” 신작 250만원, 허리 휜 부모들 화났다?">“아이들은 아이폰만 찾는다” 신작 250만원, 허리 휜 부모들 화났다?</a>]]></content>
+        <title type="html"><![CDATA[아이폰14, 한국 16만원 가격 인상…美·中가격 동결]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005145489?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005145489?sid=105"/>
+        <updated>2022-09-09T08:25:06.886Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005145489?sid=105" class="nclicks(rig.secteco)" title="아이폰14, 한국 16만원 가격 인상…美·中가격 동결">아이폰14, 한국 16만원 가격 인상…美·中가격 동결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["추석 선물로 상품권 보내드려요"…문자 확인만 했는데 '날벼락' [최예린의 사기꾼 피하기]]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004748133?sid=105" class="nclicks(rig.secteco)" title="&quot;추석 선물로 상품권 보내드려요&quot;…문자 확인만 했는데 '날벼락' [최예린의 사기꾼 피하기]">"추석 선물로 상품권 보내드려요"…문자 확인만 했는데 '날벼락' [최예린의 사기꾼 피하기]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고속도로 정체 8시쯤 해소…3시 현재 서울→부산 5시간30분, 서울→대구 3시간30분]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000774557?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000774557?sid=102"/>
-        <updated>2022-09-09T07:23:25.687Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000774557?sid=102" class="nclicks(rig.secteco)" title="고속도로 정체 8시쯤 해소…3시 현재 서울→부산 5시간30분, 서울→대구 3시간30분">고속도로 정체 8시쯤 해소…3시 현재 서울→부산 5시간30분, 서울→대구 3시간30분</a>]]></content>
+        <title type="html"><![CDATA[추석연휴 첫날 오후 귀성길 곳곳 정체…서울→부산 5시간 30분]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013431629?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013431629?sid=102"/>
+        <updated>2022-09-09T08:25:06.892Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013431629?sid=102" class="nclicks(rig.secteco)" title="추석연휴 첫날 오후 귀성길 곳곳 정체…서울→부산 5시간 30분">추석연휴 첫날 오후 귀성길 곳곳 정체…서울→부산 5시간 30분</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]경찰, 이준석 '무고' 수사 속도…김철근 압색은 '기각']]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003683914?sid=102" class="nclicks(rig.secteco)" title="[단독]경찰, 이준석 '무고' 수사 속도…김철근 압색은 '기각'">[단독]경찰, 이준석 '무고' 수사 속도…김철근 압색은 '기각'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 유동규 "김문기가 이재명에게 '대장동' 보고"]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000373243?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000373243?sid=102"/>
-        <updated>2022-09-09T06:34:27.520Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000373243?sid=102" class="nclicks(rig.secteco)" title="[단독] 유동규 &quot;김문기가 이재명에게 '대장동' 보고&quot;">[단독] 유동규 "김문기가 이재명에게 '대장동' 보고"</a>]]></content>
+        <title type="html"><![CDATA[민주, '이재명 조폭 연루설 제기' 장영하 불기소 처분에 재정신청]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001221442?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001221442?sid=102"/>
+        <updated>2022-09-09T08:25:06.895Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001221442?sid=102" class="nclicks(rig.secteco)" title="민주, '이재명 조폭 연루설 제기' 장영하 불기소 처분에 재정신청">민주, '이재명 조폭 연루설 제기' 장영하 불기소 처분에 재정신청</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]이정재 '스타워즈' 시리즈 주인공 된다]]></title>
