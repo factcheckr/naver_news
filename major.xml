@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-12T21:16:46.983Z</updated>
+    <updated>2022-09-12T22:18:32.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004897247?sid=100" class="nclicks(rig.secteco)" title="'英·美·加 순방' 尹대통령, 경제외교 행보 넓힌다">'英·美·加 순방' 尹대통령, 경제외교 행보 넓힌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與 당 재건 재시동… 정진석, 당내 갈등 봉합 리더십 보일까]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003733913?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003733913?sid=100"/>
-        <updated>2022-09-12T21:16:20.234Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003733913?sid=100" class="nclicks(rig.secteco)" title="與 당 재건 재시동… 정진석, 당내 갈등 봉합 리더십 보일까">與 당 재건 재시동… 정진석, 당내 갈등 봉합 리더십 보일까</a>]]></content>
+        <title type="html"><![CDATA[與, 오늘 새 비대위 발표..이준석 “뭘 생각해도 그 이하” 비아냥]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002530518?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002530518?sid=100"/>
+        <updated>2022-09-12T22:18:03.328Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002530518?sid=100" class="nclicks(rig.secteco)" title="與, 오늘 새 비대위 발표..이준석 “뭘 생각해도 그 이하” 비아냥">與, 오늘 새 비대위 발표..이준석 “뭘 생각해도 그 이하” 비아냥</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상찮은 한반도…北 비핵화 물건너 가나]]></title>
@@ -27,25 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004897235?sid=100" class="nclicks(rig.secteco)" title="심상찮은 한반도…北 비핵화 물건너 가나">심상찮은 한반도…北 비핵화 물건너 가나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상] 英 에든버러서 추도 예배 후 여왕 관 일반에 첫 공개 [나우,어스]]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002039612?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002039612?sid=104"/>
-        <updated>2022-09-12T21:16:20.238Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002039612?sid=104" class="nclicks(rig.secteco)" title="[영상] 英 에든버러서 추도 예배 후 여왕 관 일반에 첫 공개 [나우,어스]">[영상] 英 에든버러서 추도 예배 후 여왕 관 일반에 첫 공개 [나우,어스]</a>]]></content>
+        <title type="html"><![CDATA[스코틀랜드서 첫 공개된 여왕의 관…수만명 작별인사]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002753561?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002753561?sid=104"/>
+        <updated>2022-09-12T22:18:03.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002753561?sid=104" class="nclicks(rig.secteco)" title="스코틀랜드서 첫 공개된 여왕의 관…수만명 작별인사">스코틀랜드서 첫 공개된 여왕의 관…수만명 작별인사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찰스 3세 시대 영국 왕실과 영연방의 미래는?]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003172401?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003172401?sid=104"/>
-        <updated>2022-09-12T21:16:20.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003172401?sid=104" class="nclicks(rig.secteco)" title="찰스 3세 시대 영국 왕실과 영연방의 미래는?">찰스 3세 시대 영국 왕실과 영연방의 미래는?</a>]]></content>
+        <title type="html"><![CDATA["바이오 산업도 미국으로" 바이든, 행정명령 서명]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001221751?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001221751?sid=104"/>
+        <updated>2022-09-12T22:18:03.334Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001221751?sid=104" class="nclicks(rig.secteco)" title="&quot;바이오 산업도 미국으로&quot; 바이든, 행정명령 서명">"바이오 산업도 미국으로" 바이든, 행정명령 서명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금리는 계속 오르는데 줄지 않는 변동금리 비중… 8년여 만에 최대]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003733907?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003733907?sid=101"/>
-        <updated>2022-09-12T21:16:20.241Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003733907?sid=101" class="nclicks(rig.secteco)" title="금리는 계속 오르는데 줄지 않는 변동금리 비중… 8년여 만에 최대">금리는 계속 오르는데 줄지 않는 변동금리 비중… 8년여 만에 최대</a>]]></content>
+        <title type="html"><![CDATA[최저 3.7% 고정금리‥15일부터 접수]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001221760?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001221760?sid=101"/>
+        <updated>2022-09-12T22:18:03.335Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001221760?sid=101" class="nclicks(rig.secteco)" title="최저 3.7% 고정금리‥15일부터 접수">최저 3.7% 고정금리‥15일부터 접수</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8월 CPI, 전월대비 마이너스 돌아설까…기대감에 나스닥 1.27%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004098014?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004098014?sid=101"/>
+        <updated>2022-09-12T22:18:03.336Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004098014?sid=101" class="nclicks(rig.secteco)" title="8월 CPI, 전월대비 마이너스 돌아설까…기대감에 나스닥 1.27%↑">8월 CPI, 전월대비 마이너스 돌아설까…기대감에 나스닥 1.27%↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“추석 내내 쓰레기만 치웠는데도”… 끝나지 않은 ‘힌남노 악몽’]]></title>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003733933?sid=101" class="nclicks(rig.secteco)" title="“추석 내내 쓰레기만 치웠는데도”… 끝나지 않은 ‘힌남노 악몽’">“추석 내내 쓰레기만 치웠는데도”… 끝나지 않은 ‘힌남노 악몽’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엑스포 유치 나선 '대통령 특사' 이재용…멕시코 공장·협력사도 챙겼다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005314492?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005314492?sid=101"/>
-        <updated>2022-09-12T21:16:20.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005314492?sid=101" class="nclicks(rig.secteco)" title="엑스포 유치 나선 '대통령 특사' 이재용…멕시코 공장·협력사도 챙겼다">엑스포 유치 나선 '대통령 특사' 이재용…멕시코 공장·협력사도 챙겼다</a>]]></content>
+        <title type="html"><![CDATA[한미약품 백혈구장애 신약, FDA 벽 넘었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005016143?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005016143?sid=105"/>
+        <updated>2022-09-12T21:16:20.249Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005016143?sid=105" class="nclicks(rig.secteco)" title="한미약품 백혈구장애 신약, FDA 벽 넘었다">한미약품 백혈구장애 신약, FDA 벽 넘었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["연휴 끝, 은행 자소서 써볼까"…하반기 은행권 채용문 '활짝']]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006328665?sid=105" class="nclicks(rig.secteco)" title="&quot;연휴 끝, 은행 자소서 써볼까&quot;…하반기 은행권 채용문 '활짝'">"연휴 끝, 은행 자소서 써볼까"…하반기 은행권 채용문 '활짝'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미약품 백혈구장애 신약, FDA 벽 넘었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005016143?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005016143?sid=105"/>
-        <updated>2022-09-12T21:16:20.249Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005016143?sid=105" class="nclicks(rig.secteco)" title="한미약품 백혈구장애 신약, FDA 벽 넘었다">한미약품 백혈구장애 신약, FDA 벽 넘었다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중국으로 가는 태풍 '무이파'…이번엔 '난마돌' 한반도 덮치나]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004098009?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/011/0004098009?sid=102"/>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004098009?sid=102" class="nclicks(rig.secteco)" title="중국으로 가는 태풍 '무이파'…이번엔 '난마돌' 한반도 덮치나">중국으로 가는 태풍 '무이파'…이번엔 '난마돌' 한반도 덮치나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘서울 빗물터널’ 강남역·광화문·도림천 우선 설치]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003733916?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003733916?sid=102"/>
-        <updated>2022-09-12T21:16:20.254Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003733916?sid=102" class="nclicks(rig.secteco)" title="‘서울 빗물터널’ 강남역·광화문·도림천 우선 설치">‘서울 빗물터널’ 강남역·광화문·도림천 우선 설치</a>]]></content>
+        <title type="html"><![CDATA[강남역·광화문·도림천에 ‘빗물 터널’…“시간당 100mm 이상 대비”]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011337147?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011337147?sid=102"/>
+        <updated>2022-09-12T22:18:03.344Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011337147?sid=102" class="nclicks(rig.secteco)" title="강남역·광화문·도림천에 ‘빗물 터널’…“시간당 100mm 이상 대비”">강남역·광화문·도림천에 ‘빗물 터널’…“시간당 100mm 이상 대비”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["지하에 빗물 조금이라도 차오르면 즉시 대피…차량이동 금지"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013433422?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013433422?sid=102"/>
-        <updated>2022-09-12T20:19:44.153Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013433422?sid=102" class="nclicks(rig.secteco)" title="&quot;지하에 빗물 조금이라도 차오르면 즉시 대피…차량이동 금지&quot;(종합)">"지하에 빗물 조금이라도 차오르면 즉시 대피…차량이동 금지"(종합)</a>]]></content>
+        <title type="html"><![CDATA[에버랜드 롤러코스터 20m 높이서 10분간 멈춰…30여명 대피]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000560198?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000560198?sid=102"/>
+        <updated>2022-09-12T22:18:03.346Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000560198?sid=102" class="nclicks(rig.secteco)" title="에버랜드 롤러코스터 20m 높이서 10분간 멈춰…30여명 대피">에버랜드 롤러코스터 20m 높이서 10분간 멈춰…30여명 대피</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잠시 뒤 에미상 시상식‥오징어게임, 6개 부문 출격]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001221744?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001221744?sid=103"/>
-        <updated>2022-09-12T21:16:20.256Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001221744?sid=103" class="nclicks(rig.secteco)" title="잠시 뒤 에미상 시상식‥오징어게임, 6개 부문 출격">잠시 뒤 에미상 시상식‥오징어게임, 6개 부문 출격</a>]]></content>
+        <title type="html"><![CDATA['오징어게임', 에미상 새 역사 쓰나…오늘 오전 9시 시상식]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000998991?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000998991?sid=103"/>
+        <updated>2022-09-12T22:18:03.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000998991?sid=103" class="nclicks(rig.secteco)" title="'오징어게임', 에미상 새 역사 쓰나…오늘 오전 9시 시상식">'오징어게임', 에미상 새 역사 쓰나…오늘 오전 9시 시상식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 대체로 흐리고 곳곳 비 소식…낮 최고 28도]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013434022?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013434022?sid=103"/>
-        <updated>2022-09-12T21:16:20.259Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013434022?sid=103" class="nclicks(rig.secteco)" title="전국 대체로 흐리고 곳곳 비 소식…낮 최고 28도">전국 대체로 흐리고 곳곳 비 소식…낮 최고 28도</a>]]></content>
+        <title type="html"><![CDATA['무이파' 간접 영향 제주 최대 120㎜ 비…중국 상하이 향해 북상]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006329643?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006329643?sid=103"/>
+        <updated>2022-09-12T22:18:03.349Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006329643?sid=103" class="nclicks(rig.secteco)" title="'무이파' 간접 영향 제주 최대 120㎜ 비…중국 상하이 향해 북상">'무이파' 간접 영향 제주 최대 120㎜ 비…중국 상하이 향해 북상</a>]]></content>
     </entry>
 </feed>
