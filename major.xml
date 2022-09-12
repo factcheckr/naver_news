@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-12T06:14:44.067Z</updated>
+    <updated>2022-09-12T07:39:00.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹대통령, 19일 英여왕 장례·20일 유엔총회 연설…5박7일 순방]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013433858?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013433858?sid=100"/>
+        <updated>2022-09-12T07:38:32.082Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013433858?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 19일 英여왕 장례·20일 유엔총회 연설…5박7일 순방">尹대통령, 19일 英여왕 장례·20일 유엔총회 연설…5박7일 순방</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, 첫 추석 뒤 복귀…앞에 펼쳐진 세 가지 숙제]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003172372?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003172372?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 첫 추석 뒤 복귀…앞에 펼쳐진 세 가지 숙제">윤 대통령, 첫 추석 뒤 복귀…앞에 펼쳐진 세 가지 숙제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당 "김건희 특검법이 민심"…이재명 수사 민심 묻자 침묵]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003223090?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003223090?sid=100"/>
-        <updated>2022-09-12T06:14:14.368Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223090?sid=100" class="nclicks(rig.secteco)" title="민주당 &quot;김건희 특검법이 민심&quot;…이재명 수사 민심 묻자 침묵">민주당 "김건희 특검법이 민심"…이재명 수사 민심 묻자 침묵</a>]]></content>
+        <title type="html"><![CDATA[與, 새 비대위원 이르면 13일 발표…"6~7명 원내외 인사 포함"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011414820?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011414820?sid=100"/>
+        <updated>2022-09-12T07:38:32.084Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011414820?sid=100" class="nclicks(rig.secteco)" title="與, 새 비대위원 이르면 13일 발표…&quot;6~7명 원내외 인사 포함&quot;(종합)">與, 새 비대위원 이르면 13일 발표…"6~7명 원내외 인사 포함"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 국정수행 긍정 32.6%, 전주 대비 소폭 올라]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003684278?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003684278?sid=100"/>
-        <updated>2022-09-12T06:14:14.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003684278?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 국정수행 긍정 32.6%, 전주 대비 소폭 올라">윤 대통령 국정수행 긍정 32.6%, 전주 대비 소폭 올라</a>]]></content>
+        <title type="html"><![CDATA[여왕의 관, 마지막 여정 시작…19일 남편 필립공 곁에서 영면]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003223103?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003223103?sid=104"/>
+        <updated>2022-09-12T07:38:32.084Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223103?sid=104" class="nclicks(rig.secteco)" title="여왕의 관, 마지막 여정 시작…19일 남편 필립공 곁에서 영면">여왕의 관, 마지막 여정 시작…19일 남편 필립공 곁에서 영면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘리자베스 2세 여왕, 19일 '국장'…英 전역 애도 물결]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005314652?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005314652?sid=104"/>
-        <updated>2022-09-12T06:14:14.384Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005314652?sid=104" class="nclicks(rig.secteco)" title="엘리자베스 2세 여왕, 19일 '국장'…英 전역 애도 물결">엘리자베스 2세 여왕, 19일 '국장'…英 전역 애도 물결</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日, 외국 관광객 비자 면제·개인 여행 허용 검토]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004097903?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004097903?sid=104"/>
-        <updated>2022-09-12T06:14:14.384Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004097903?sid=104" class="nclicks(rig.secteco)" title="日, 외국 관광객 비자 면제·개인 여행 허용 검토">日, 외국 관광객 비자 면제·개인 여행 허용 검토</a>]]></content>
+        <title type="html"><![CDATA[엘리자베스 2세 조문객 75만명 예상…"대기 20시간 걸릴 수도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005146023?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005146023?sid=104"/>
+        <updated>2022-09-12T07:38:32.086Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005146023?sid=104" class="nclicks(rig.secteco)" title="엘리자베스 2세 조문객 75만명 예상…&quot;대기 20시간 걸릴 수도&quot;">엘리자베스 2세 조문객 75만명 예상…"대기 20시간 걸릴 수도"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3만명 구슬땀…"포항제철소 모든 고로, 13일 전면 정상화"]]></title>
@@ -48,25 +48,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005314653?sid=101" class="nclicks(rig.secteco)" title="3만명 구슬땀…&quot;포항제철소 모든 고로, 13일 전면 정상화&quot;">3만명 구슬땀…"포항제철소 모든 고로, 13일 전면 정상화"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지분 '먹튀' 못하도록…내부자 주식거래 '사전'공시한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006328988?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006328988?sid=101"/>
-        <updated>2022-09-12T04:27:39.560Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006328988?sid=101" class="nclicks(rig.secteco)" title="지분 '먹튀' 못하도록…내부자 주식거래 '사전'공시한다">지분 '먹튀' 못하도록…내부자 주식거래 '사전'공시한다</a>]]></content>
+        <title type="html"><![CDATA['먹튀 금지法' 나온다…상장사 내부자거래에 사전공시 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003684252?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003684252?sid=101"/>
+        <updated>2022-09-12T07:38:32.087Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003684252?sid=101" class="nclicks(rig.secteco)" title="'먹튀 금지法' 나온다…상장사 내부자거래에 사전공시 추진">'먹튀 금지法' 나온다…상장사 내부자거래에 사전공시 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용, 멕시코 대통령 만나 부산엑스포 유치 활동]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002605856?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002605856?sid=101"/>
-        <updated>2022-09-12T06:14:14.387Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002605856?sid=101" class="nclicks(rig.secteco)" title="이재용, 멕시코 대통령 만나 부산엑스포 유치 활동">이재용, 멕시코 대통령 만나 부산엑스포 유치 활동</a>]]></content>
+        <title type="html"><![CDATA[맥시코에서도 구내식당 찾은 이재용…연휴 반납한 광폭행보]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000373580?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000373580?sid=101"/>
+        <updated>2022-09-12T07:38:32.088Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000373580?sid=101" class="nclicks(rig.secteco)" title="맥시코에서도 구내식당 찾은 이재용…연휴 반납한 광폭행보">맥시코에서도 구내식당 찾은 이재용…연휴 반납한 광폭행보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT, 신입 채용전환형 인턴 채용 14일 접수 시작]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000696709?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000696709?sid=105"/>
-        <updated>2022-09-12T06:14:14.387Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000696709?sid=105" class="nclicks(rig.secteco)" title="KT, 신입 채용전환형 인턴 채용 14일 접수 시작">KT, 신입 채용전환형 인턴 채용 14일 접수 시작</a>]]></content>
+        <title type="html"><![CDATA[은행권 하반기 공채 1000명 넘을 듯...올해는 '문송합니다' 예외]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004897058?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004897058?sid=105"/>
+        <updated>2022-09-12T07:38:32.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004897058?sid=105" class="nclicks(rig.secteco)" title="은행권 하반기 공채 1000명 넘을 듯...올해는 '문송합니다' 예외">은행권 하반기 공채 1000명 넘을 듯...올해는 '문송합니다' 예외</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차세대 전지 소재 실리콘 음극재, 추우면 잘 깨진다]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002267817?sid=105" class="nclicks(rig.secteco)" title="차세대 전지 소재 실리콘 음극재, 추우면 잘 깨진다">차세대 전지 소재 실리콘 음극재, 추우면 잘 깨진다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]정경심, 연휴 직전 형집행정지 재신청]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003450241?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003450241?sid=102"/>
+        <updated>2022-09-12T07:38:32.094Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450241?sid=102" class="nclicks(rig.secteco)" title="[단독]정경심, 연휴 직전 형집행정지 재신청">[단독]정경심, 연휴 직전 형집행정지 재신청</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[태풍 ‘무이파’, 한국 안 오고 중국 간다…제주엔 최고 100㎜ 비]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003300876?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003300876?sid=102"/>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003300876?sid=102" class="nclicks(rig.secteco)" title="태풍 ‘무이파’, 한국 안 오고 중국 간다…제주엔 최고 100㎜ 비">태풍 ‘무이파’, 한국 안 오고 중국 간다…제주엔 최고 100㎜ 비</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, 추석 종합치안활동…교통사고 전년比 28.6% 감소]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003684277?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003684277?sid=102"/>
-        <updated>2022-09-12T06:14:14.390Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003684277?sid=102" class="nclicks(rig.secteco)" title="경찰, 추석 종합치안활동…교통사고 전년比 28.6% 감소">경찰, 추석 종합치안활동…교통사고 전년比 28.6% 감소</a>]]></content>
+        <title type="html"><![CDATA[막바지 추석 귀경길 정체…오후 9시쯤 풀릴 전망]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003300910?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003300910?sid=102"/>
+        <updated>2022-09-12T07:38:32.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003300910?sid=102" class="nclicks(rig.secteco)" title="막바지 추석 귀경길 정체…오후 9시쯤 풀릴 전망">막바지 추석 귀경길 정체…오후 9시쯤 풀릴 전망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 검찰, 이재명·최재형 포함 20대 대선 선거사범 609명 기소]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000019648?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000019648?sid=102"/>
-        <updated>2022-09-12T06:14:14.392Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000019648?sid=102" class="nclicks(rig.secteco)" title="[속보] 검찰, 이재명·최재형 포함 20대 대선 선거사범 609명 기소">[속보] 검찰, 이재명·최재형 포함 20대 대선 선거사범 609명 기소</a>]]></content>
+        <title type="html"><![CDATA[LA시의회, 9월17일 ‘오징어 게임의 날’ 선포…K콘텐츠 최초]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002605878?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002605878?sid=103"/>
+        <updated>2022-09-12T07:38:32.098Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002605878?sid=103" class="nclicks(rig.secteco)" title="LA시의회, 9월17일 ‘오징어 게임의 날’ 선포…K콘텐츠 최초">LA시의회, 9월17일 ‘오징어 게임의 날’ 선포…K콘텐츠 최초</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오징어 게임' 내일 드라마 역사 새로 쓴다…에미상 정조준]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005145981?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005145981?sid=103"/>
-        <updated>2022-09-12T06:14:14.394Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005145981?sid=103" class="nclicks(rig.secteco)" title="'오징어 게임' 내일 드라마 역사 새로 쓴다…에미상 정조준">'오징어 게임' 내일 드라마 역사 새로 쓴다…에미상 정조준</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배철수·구창모 눈시울 붉혔다…38년만에 한무대 오른 송골매]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003223074?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003223074?sid=103"/>
-        <updated>2022-09-12T06:14:14.394Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223074?sid=103" class="nclicks(rig.secteco)" title="배철수·구창모 눈시울 붉혔다…38년만에 한무대 오른 송골매">배철수·구창모 눈시울 붉혔다…38년만에 한무대 오른 송골매</a>]]></content>
+        <title type="html"><![CDATA[현대차 월드랠리팀, WRC 그리스 랠리 석권 쾌거]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005314439?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005314439?sid=103"/>
+        <updated>2022-09-12T07:38:32.099Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005314439?sid=103" class="nclicks(rig.secteco)" title="현대차 월드랠리팀, WRC 그리스 랠리 석권 쾌거">현대차 월드랠리팀, WRC 그리스 랠리 석권 쾌거</a>]]></content>
     </entry>
 </feed>
