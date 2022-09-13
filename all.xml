@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-13T18:22:41.067Z</updated>
+    <updated>2022-09-13T19:14:51.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003734053?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003734053?sid=100"/>
-        <updated>2022-09-13T17:26:27.790Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003734053?sid=100" class="nclicks(rig.secteco)" title="국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+]">국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+]</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[“文정부 태양광 부실 사업 전력기금 2616억 줄줄 새” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003450510?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003450510?sid=100"/>
         <updated>2022-09-13T18:22:09.386Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450510?sid=100" class="nclicks(rig.secteco)" title="“文정부 태양광 부실 사업 전력기금 2616억 줄줄 새”">“文정부 태양광 부실 사업 전력기금 2616억 줄줄 새”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003734053?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003734053?sid=100"/>
+        <updated>2022-09-13T17:26:27.790Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003734053?sid=100" class="nclicks(rig.secteco)" title="국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+]">국힘 ‘비대위 시즌2’ 시작… 법원 가처분 결정에 존망 달려 [뉴스+]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,32 +26,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223373?sid=100" class="nclicks(rig.secteco)" title="베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란">베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 바이오 분야도 빗장…전기차 피해 재연될라 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000019958?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000019958?sid=104"/>
-        <updated>2022-09-13T18:22:09.388Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000019958?sid=104" class="nclicks(rig.secteco)" title="미국 바이오 분야도 빗장…전기차 피해 재연될라">미국 바이오 분야도 빗장…전기차 피해 재연될라</a>]]></content>
+        <title type="html"><![CDATA[바이오도 ‘메이드 인 아메리카’ 압박… 한국에 약될까 독될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001552644?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001552644?sid=104"/>
+        <updated>2022-09-13T19:14:19.329Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552644?sid=104" class="nclicks(rig.secteco)" title="바이오도 ‘메이드 인 아메리카’ 압박… 한국에 약될까 독될까">바이오도 ‘메이드 인 아메리카’ 압박… 한국에 약될까 독될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 8월 소비자물가, 예상넘은 8.3%↑…3연속 ‘자이언트스텝’ 확실시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003715676?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003715676?sid=104"/>
-        <updated>2022-09-13T17:26:27.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003715676?sid=104" class="nclicks(rig.secteco)" title="美 8월 소비자물가, 예상넘은 8.3%↑…3연속 ‘자이언트스텝’ 확실시">美 8월 소비자물가, 예상넘은 8.3%↑…3연속 ‘자이언트스텝’ 확실시</a>]]></content>
+        <title type="html"><![CDATA[美 8월 소비자물가 8.3% ↑… “연준, 자이언트 스텝 밟을 듯” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001552629?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001552629?sid=104"/>
+        <updated>2022-09-13T19:14:19.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552629?sid=104" class="nclicks(rig.secteco)" title="美 8월 소비자물가 8.3% ↑… “연준, 자이언트 스텝 밟을 듯”">美 8월 소비자물가 8.3% ↑… “연준, 자이언트 스텝 밟을 듯”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오리온, 9년 만에 가격인상… 초코파이 1박스에 5400원으로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003734203?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003734203?sid=101"/>
-        <updated>2022-09-13T17:26:27.800Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003734203?sid=101" class="nclicks(rig.secteco)" title="오리온, 9년 만에 가격인상… 초코파이 1박스에 5400원으로">오리온, 9년 만에 가격인상… 초코파이 1박스에 5400원으로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[·‘-3% 룰’ 못 박는다…재정준칙 법제화 후 즉시 시행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003223273?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003223273?sid=101"/>
-        <updated>2022-09-13T16:24:57.801Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223273?sid=101" class="nclicks(rig.secteco)" title="·‘-3% 룰’ 못 박는다…재정준칙 법제화 후 즉시 시행">·‘-3% 룰’ 못 박는다…재정준칙 법제화 후 즉시 시행</a>]]></content>
+        <title type="html"><![CDATA[재정 씀씀이 줄인다… 예타 문턱 높이고, 재정준칙 연내 법제화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001552608?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001552608?sid=101"/>
+        <updated>2022-09-13T19:14:19.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552608?sid=101" class="nclicks(rig.secteco)" title="재정 씀씀이 줄인다… 예타 문턱 높이고, 재정준칙 연내 법제화">재정 씀씀이 줄인다… 예타 문턱 높이고, 재정준칙 연내 법제화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘예타 면제’ 깐깐하게 나랏빚 급증 막는다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -59,6 +52,13 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003450509?sid=101"/>
         <updated>2022-09-13T18:22:09.404Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450509?sid=101" class="nclicks(rig.secteco)" title="‘예타 면제’ 깐깐하게 나랏빚 급증 막는다">‘예타 면제’ 깐깐하게 나랏빚 급증 막는다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초코파이도 9년 만에 올랐다…고물가 '공포'가 '현실'로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005315306?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005315306?sid=101"/>
+        <updated>2022-09-13T19:14:19.335Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005315306?sid=101" class="nclicks(rig.secteco)" title="초코파이도 9년 만에 올랐다…고물가 '공포'가 '현실'로">초코파이도 9년 만에 올랐다…고물가 '공포'가 '현실'로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제43회 전국학생과학발명품경진대회, 영예의 수상자들 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005315179?sid=105" class="nclicks(rig.secteco)" title="스마트폰으로 전시물 투시…새로운 증강현실 경험 제공한다">스마트폰으로 전시물 투시…새로운 증강현실 경험 제공한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013435744?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013435744?sid=102"/>
-        <updated>2022-09-13T18:22:09.408Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013435744?sid=102" class="nclicks(rig.secteco)" title="이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합)">이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합)</a>]]></content>
+        <title type="html"><![CDATA[“별거 아닌데 고소”… 전투비행단 직속상관 모두 2차 가해 관여 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001552621?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001552621?sid=102"/>
+        <updated>2022-09-13T19:14:19.341Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552621?sid=102" class="nclicks(rig.secteco)" title="“별거 아닌데 고소”… 전투비행단 직속상관 모두 2차 가해 관여">“별거 아닌데 고소”… 전투비행단 직속상관 모두 2차 가해 관여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰 “두산건설 성남FC 후원금은 뇌물” 이재명 기소의견 檢통보 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003450568?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003450568?sid=102"/>
-        <updated>2022-09-13T18:22:09.410Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450568?sid=102" class="nclicks(rig.secteco)" title="경찰 “두산건설 성남FC 후원금은 뇌물” 이재명 기소의견 檢통보">경찰 “두산건설 성남FC 후원금은 뇌물” 이재명 기소의견 檢통보</a>]]></content>
+        <title type="html"><![CDATA[‘성남FC 후원금 의혹’ 이재명 제3자 뇌물공여 혐의 檢 송치 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001552652?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001552652?sid=102"/>
+        <updated>2022-09-13T19:14:19.346Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552652?sid=102" class="nclicks(rig.secteco)" title="‘성남FC 후원금 의혹’ 이재명 제3자 뇌물공여 혐의 檢 송치">‘성남FC 후원금 의혹’ 이재명 제3자 뇌물공여 혐의 檢 송치</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박수홍 친형, 결국 구속됐다(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450514?sid=103" class="nclicks(rig.secteco)" title="에미상 장벽 깬 K드라마">에미상 장벽 깬 K드라마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 오늘 흐리고 충청 이남 비...내일 출근길 서쪽 비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001788516?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001788516?sid=103"/>
-        <updated>2022-09-13T16:24:57.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001788516?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘 흐리고 충청 이남 비...내일 출근길 서쪽 비">[날씨] 오늘 흐리고 충청 이남 비...내일 출근길 서쪽 비</a>]]></content>
+        <title type="html"><![CDATA[태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011415102?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011415102?sid=103"/>
+        <updated>2022-09-13T19:14:19.352Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011415102?sid=103" class="nclicks(rig.secteco)" title="태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의">태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 지방(고양외고-하와이 볼드윈고 학생들, 온라인 토론 벌여) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
