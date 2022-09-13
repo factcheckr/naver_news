@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-13T11:16:20.676Z</updated>
+    <updated>2022-09-13T12:36:51.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이준석 4차 가처분 연기됐지만…내일 심문 결과가 운명 가른다]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006331328?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006331328?sid=100"/>
-        <updated>2022-09-13T09:18:56.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006331328?sid=100" class="nclicks(rig.secteco)" title="이준석 4차 가처분 연기됐지만…내일 심문 결과가 운명 가른다">이준석 4차 가처분 연기됐지만…내일 심문 결과가 운명 가른다</a>]]></content>
+        <title type="html"><![CDATA[법원, '정진석 비대위 효력정지' 가처분 심문 연기]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000313616?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000313616?sid=100"/>
+        <updated>2022-09-13T12:36:23.582Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000313616?sid=100" class="nclicks(rig.secteco)" title="법원, '정진석 비대위 효력정지' 가처분 심문 연기">법원, '정진석 비대위 효력정지' 가처분 심문 연기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文정부 '태양광 사업' 5%표본조사…국조실 "2600억 부당 지원"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003684727?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003684727?sid=100"/>
+        <updated>2022-09-13T12:36:23.582Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003684727?sid=100" class="nclicks(rig.secteco)" title="文정부 '태양광 사업' 5%표본조사…국조실 &quot;2600억 부당 지원&quot;">文정부 '태양광 사업' 5%표본조사…국조실 "2600억 부당 지원"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223373?sid=100" class="nclicks(rig.secteco)" title="베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란">베일 벗은 정진석 비대위…통합 강조했지만 또 ‘윤심’ 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "경제 어려워도… 자립청년에 쓸돈 쓴다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002753751?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002753751?sid=100"/>
-        <updated>2022-09-13T11:15:48.482Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002753751?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;경제 어려워도… 자립청년에 쓸돈 쓴다&quot;">尹 "경제 어려워도… 자립청년에 쓸돈 쓴다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바이오도 美서 생산"...바이든 행정명령에 우려반 기대반[GO WEST]]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001053786?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001053786?sid=104"/>
-        <updated>2022-09-13T11:15:48.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001053786?sid=104" class="nclicks(rig.secteco)" title="&quot;바이오도 美서 생산&quot;...바이든 행정명령에 우려반 기대반[GO WEST]">"바이오도 美서 생산"...바이든 행정명령에 우려반 기대반[GO WEST]</a>]]></content>
+        <title type="html"><![CDATA[미국, 전기차 이어 ‘바이오’도 차별…국내 관련 업계 긴장]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003172689?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003172689?sid=104"/>
+        <updated>2022-09-13T12:36:23.583Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003172689?sid=104" class="nclicks(rig.secteco)" title="미국, 전기차 이어 ‘바이오’도 차별…국내 관련 업계 긴장">미국, 전기차 이어 ‘바이오’도 차별…국내 관련 업계 긴장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]한국사 연표서 고구려 쏙 뺐다…中박물관 동북공정 꼼수]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223213?sid=104" class="nclicks(rig.secteco)" title="[단독]한국사 연표서 고구려 쏙 뺐다…中박물관 동북공정 꼼수">[단독]한국사 연표서 고구려 쏙 뺐다…中박물관 동북공정 꼼수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[용광로는 꺼지고 `최정우 퇴진론`은 재점화…人災인가 天災인가]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002753716?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002753716?sid=101"/>
-        <updated>2022-09-13T11:15:48.492Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002753716?sid=101" class="nclicks(rig.secteco)" title="용광로는 꺼지고 `최정우 퇴진론`은 재점화…人災인가 天災인가">용광로는 꺼지고 `최정우 퇴진론`은 재점화…人災인가 天災인가</a>]]></content>
+        <title type="html"><![CDATA[포스코, 일주일 만에 고로 정상화...완전 복구는 '난항']]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001788676?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001788676?sid=101"/>
+        <updated>2022-09-13T12:36:23.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001788676?sid=101" class="nclicks(rig.secteco)" title="포스코, 일주일 만에 고로 정상화...완전 복구는 '난항'">포스코, 일주일 만에 고로 정상화...완전 복구는 '난항'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[복합위기 속 `경제안전판` 마련…추경 땐 `종이호랑이`]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001053787?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001053787?sid=101"/>
-        <updated>2022-09-13T11:15:48.492Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001053787?sid=101" class="nclicks(rig.secteco)" title="복합위기 속 `경제안전판` 마련…추경 땐 `종이호랑이`">복합위기 속 `경제안전판` 마련…추경 땐 `종이호랑이`</a>]]></content>
+        <title type="html"><![CDATA[‘예타 면제’ 요건 깐깐해진다…“방만운영 심각” 관리 강화]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003450495?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003450495?sid=101"/>
+        <updated>2022-09-13T12:36:23.587Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450495?sid=101" class="nclicks(rig.secteco)" title="‘예타 면제’ 요건 깐깐해진다…“방만운영 심각” 관리 강화">‘예타 면제’ 요건 깐깐해진다…“방만운영 심각” 관리 강화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추석 연휴 끝나자…신라면·왕뚜껑 이어 초코파이도 몸값 뛴다]]></title>
@@ -62,25 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004748982?sid=101" class="nclicks(rig.secteco)" title="추석 연휴 끝나자…신라면·왕뚜껑 이어 초코파이도 몸값 뛴다">추석 연휴 끝나자…신라면·왕뚜껑 이어 초코파이도 몸값 뛴다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘신호등 옆 필수품’ 배출한 학생발명대회, 1만3880명 제친 올해 작품은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000040638?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000040638?sid=105"/>
-        <updated>2022-09-13T10:19:30.223Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000040638?sid=105" class="nclicks(rig.secteco)" title="‘신호등 옆 필수품’ 배출한 학생발명대회, 1만3880명 제친 올해 작품은?">‘신호등 옆 필수품’ 배출한 학생발명대회, 1만3880명 제친 올해 작품은?</a>]]></content>
+        <title type="html"><![CDATA[스마트폰으로 전시물 투시…새로운 증강현실 경험 제공한다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005315179?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005315179?sid=105"/>
+        <updated>2022-09-13T12:36:23.589Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005315179?sid=105" class="nclicks(rig.secteco)" title="스마트폰으로 전시물 투시…새로운 증강현실 경험 제공한다">스마트폰으로 전시물 투시…새로운 증강현실 경험 제공한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오게임즈, '2차 마차시위' 전 이미 간담회 요구안 승낙했다]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005016520?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005016520?sid=105"/>
-        <updated>2022-09-13T09:18:56.453Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005016520?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈, '2차 마차시위' 전 이미 간담회 요구안 승낙했다">카카오게임즈, '2차 마차시위' 전 이미 간담회 요구안 승낙했다</a>]]></content>
+        <title type="html"><![CDATA[[DD 퇴근길] 시청자 16억 시간 뺏은 오징어게임, 에미상 들다]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002132499?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002132499?sid=105"/>
+        <updated>2022-09-13T12:36:23.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002132499?sid=105" class="nclicks(rig.secteco)" title="[DD 퇴근길] 시청자 16억 시간 뺏은 오징어게임, 에미상 들다">[DD 퇴근길] 시청자 16억 시간 뺏은 오징어게임, 에미상 들다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013435744?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013435744?sid=102"/>
-        <updated>2022-09-13T09:18:56.454Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013435744?sid=102" class="nclicks(rig.secteco)" title="이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합)">이 중사보다 가해자 걱정한 군…절망감에 극단 선택(종합)</a>]]></content>
+        <title type="html"><![CDATA[“빨간 줄 그으면 (가해자) 취업 못해” 이 중사 벼랑 끝으로 내몬 군인들]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003172667?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003172667?sid=102"/>
+        <updated>2022-09-13T12:36:23.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003172667?sid=102" class="nclicks(rig.secteco)" title="“빨간 줄 그으면 (가해자) 취업 못해” 이 중사 벼랑 끝으로 내몬 군인들">“빨간 줄 그으면 (가해자) 취업 못해” 이 중사 벼랑 끝으로 내몬 군인들</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['후원'→'뇌물'…두달만에 바뀐 성남FC 후원금 성격, 경찰 뭘 찾았나]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223379?sid=102" class="nclicks(rig.secteco)" title="'후원'→'뇌물'…두달만에 바뀐 성남FC 후원금 성격, 경찰 뭘 찾았나">'후원'→'뇌물'…두달만에 바뀐 성남FC 후원금 성격, 경찰 뭘 찾았나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방송인 박수홍 출연료 빼돌린 친형 구속…“증거인멸·도주 우려”]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002638691?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002638691?sid=102"/>
-        <updated>2022-09-13T11:15:48.500Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002638691?sid=102" class="nclicks(rig.secteco)" title="방송인 박수홍 출연료 빼돌린 친형 구속…“증거인멸·도주 우려”">방송인 박수홍 출연료 빼돌린 친형 구속…“증거인멸·도주 우려”</a>]]></content>
+        <title type="html"><![CDATA[박수홍 친형, 결국 구속됐다(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003301223?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003301223?sid=102"/>
+        <updated>2022-09-13T12:36:23.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003301223?sid=102" class="nclicks(rig.secteco)" title="박수홍 친형, 결국 구속됐다(종합)">박수홍 친형, 결국 구속됐다(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["우리 모두 역사를 함께 만들었습니다" 황동혁 감독상·이정재 남우주연상]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223408?sid=103" class="nclicks(rig.secteco)" title="&quot;우리 모두 역사를 함께 만들었습니다&quot; 황동혁 감독상·이정재 남우주연상">"우리 모두 역사를 함께 만들었습니다" 황동혁 감독상·이정재 남우주연상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['누벨바그 거장' 고다르 감독 타계… 마크롱 "국보 잃었다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004748986?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004748986?sid=103"/>
-        <updated>2022-09-13T11:15:48.503Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004748986?sid=103" class="nclicks(rig.secteco)" title="'누벨바그 거장' 고다르 감독 타계… 마크롱 &quot;국보 잃었다&quot;">'누벨바그 거장' 고다르 감독 타계… 마크롱 "국보 잃었다"</a>]]></content>
+        <title type="html"><![CDATA[태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011415102?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011415102?sid=103"/>
+        <updated>2022-09-13T12:36:23.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011415102?sid=103" class="nclicks(rig.secteco)" title="태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의">태풍 '무이파' 간접 영향 전국 흐려…남부 비·돌풍 주의</a>]]></content>
     </entry>
 </feed>
