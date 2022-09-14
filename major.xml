@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-14T21:15:53.062Z</updated>
+    <updated>2022-09-14T22:18:29.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003685283?sid=100" class="nclicks(rig.secteco)" title="'이준석 VS 국힘' 가처분 2라운드…'비상상황' 이번엔 인정될까">'이준석 VS 국힘' 가처분 2라운드…'비상상황' 이번엔 인정될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["반도체에 생사 걸렸다"…尹대통령 '반도체 외교' 총대 멘다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004898584?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004898584?sid=100"/>
-        <updated>2022-09-14T21:15:24.193Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004898584?sid=100" class="nclicks(rig.secteco)" title="&quot;반도체에 생사 걸렸다&quot;…尹대통령 '반도체 외교' 총대 멘다">"반도체에 생사 걸렸다"…尹대통령 '반도체 외교' 총대 멘다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[北 '선제 핵타격'할 수 있다는데… 美 확장억제 어떻게 담보하나]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006334116?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006334116?sid=100"/>
@@ -27,25 +20,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006334116?sid=100" class="nclicks(rig.secteco)" title="北 '선제 핵타격'할 수 있다는데… 美 확장억제 어떻게 담보하나">北 '선제 핵타격'할 수 있다는데… 美 확장억제 어떻게 담보하나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“넷플 ‘수리남’에 교민들 곤혹”…안전공지 띄운 외교부]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001552923?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001552923?sid=104"/>
-        <updated>2022-09-14T21:15:24.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001552923?sid=104" class="nclicks(rig.secteco)" title="“넷플 ‘수리남’에 교민들 곤혹”…안전공지 띄운 외교부">“넷플 ‘수리남’에 교민들 곤혹”…안전공지 띄운 외교부</a>]]></content>
+        <title type="html"><![CDATA["반도체에 생사 걸렸다"…尹대통령 '반도체 외교' 총대 멘다]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004898584?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004898584?sid=100"/>
+        <updated>2022-09-14T21:15:24.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004898584?sid=100" class="nclicks(rig.secteco)" title="&quot;반도체에 생사 걸렸다&quot;…尹대통령 '반도체 외교' 총대 멘다">"반도체에 생사 걸렸다"…尹대통령 '반도체 외교' 총대 멘다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英 여왕 일반 시민 추모 첫날…인산인해 속 대기줄 4km]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006334114?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006334114?sid=104"/>
-        <updated>2022-09-14T21:15:24.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006334114?sid=104" class="nclicks(rig.secteco)" title="英 여왕 일반 시민 추모 첫날…인산인해 속 대기줄 4km">英 여왕 일반 시민 추모 첫날…인산인해 속 대기줄 4km</a>]]></content>
+        <title type="html"><![CDATA['수리남' 제2의 '오징어게임' 될까…승부수 띄운 넷플의 전략]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011419456?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011419456?sid=104"/>
+        <updated>2022-09-14T22:18:00.708Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011419456?sid=104" class="nclicks(rig.secteco)" title="'수리남' 제2의 '오징어게임' 될까…승부수 띄운 넷플의 전략">'수리남' 제2의 '오징어게임' 될까…승부수 띄운 넷플의 전략</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 등촌동·영등포1가 전세가율 100%↑… ‘깡통전세’ 주의보 [뉴스 투데이]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003734679?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003734679?sid=101"/>
-        <updated>2022-09-14T21:15:24.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003734679?sid=101" class="nclicks(rig.secteco)" title="서울 등촌동·영등포1가 전세가율 100%↑… ‘깡통전세’ 주의보 [뉴스 투데이]">서울 등촌동·영등포1가 전세가율 100%↑… ‘깡통전세’ 주의보 [뉴스 투데이]</a>]]></content>
+        <title type="html"><![CDATA[대기 30시간, 최대 8km 장사진 예상...英여왕에 작별인사 ‘구름인파’]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002530940?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002530940?sid=104"/>
+        <updated>2022-09-14T22:18:00.709Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002530940?sid=104" class="nclicks(rig.secteco)" title="대기 30시간, 최대 8km 장사진 예상...英여왕에 작별인사 ‘구름인파’">대기 30시간, 최대 8km 장사진 예상...英여왕에 작별인사 ‘구름인파’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[등촌동 빌라 전세 매매가보다 높다… 국토부, 깡통전세 위험지역 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000851797?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000851797?sid=101"/>
+        <updated>2022-09-14T22:18:00.711Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000851797?sid=101" class="nclicks(rig.secteco)" title="등촌동 빌라 전세 매매가보다 높다… 국토부, 깡통전세 위험지역 공개">등촌동 빌라 전세 매매가보다 높다… 국토부, 깡통전세 위험지역 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강석훈 회장 "산은 부산 이전, 거부할 수 없어… 대우조선 빨리 매각해야"]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000851789?sid=101" class="nclicks(rig.secteco)" title="강석훈 회장 &quot;산은 부산 이전, 거부할 수 없어… 대우조선 빨리 매각해야&quot;">강석훈 회장 "산은 부산 이전, 거부할 수 없어… 대우조선 빨리 매각해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“기존 입국장 면세점은 어쩌라고?”...입국장 인도장 추진하는 관세청에 인천공항 ‘난색’]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000840565?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000840565?sid=101"/>
-        <updated>2022-09-14T21:15:24.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000840565?sid=101" class="nclicks(rig.secteco)" title="“기존 입국장 면세점은 어쩌라고?”...입국장 인도장 추진하는 관세청에 인천공항 ‘난색’">“기존 입국장 면세점은 어쩌라고?”...입국장 인도장 추진하는 관세청에 인천공항 ‘난색’</a>]]></content>
+        <title type="html"><![CDATA['최저 연 3%대 고정금리' 안심전환대출, 오늘부터 신청]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000999502?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000999502?sid=101"/>
+        <updated>2022-09-14T22:18:00.714Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0000999502?sid=101" class="nclicks(rig.secteco)" title="'최저 연 3%대 고정금리' 안심전환대출, 오늘부터 신청">'최저 연 3%대 고정금리' 안심전환대출, 오늘부터 신청</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글·메타 '맞춤형 광고' 칼빼든 韓정부…토종기업들도 '초긴장']]></title>
@@ -76,11 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005147167?sid=105" class="nclicks(rig.secteco)" title="'국가데이터정책위' 출범…민·관 시너지로 신산업 성장 이끈다">'국가데이터정책위' 출범…민·관 시너지로 신산업 성장 이끈다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['힌남노' 상처도 남았는데…가을태풍 3개 한반도 에워쌌다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003223567?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003223567?sid=102"/>
-        <updated>2022-09-14T21:15:24.198Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223567?sid=102" class="nclicks(rig.secteco)" title="'힌남노' 상처도 남았는데…가을태풍 3개 한반도 에워쌌다">'힌남노' 상처도 남았는데…가을태풍 3개 한반도 에워쌌다</a>]]></content>
+        <title type="html"><![CDATA[한반도 에워 싼 '가을 태풍' 3개 ..기차 탈선할 수준 태풍 북상 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004898596?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004898596?sid=102"/>
+        <updated>2022-09-14T22:18:00.719Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004898596?sid=102" class="nclicks(rig.secteco)" title="한반도 에워 싼 '가을 태풍' 3개 ..기차 탈선할 수준 태풍 북상 중">한반도 에워 싼 '가을 태풍' 3개 ..기차 탈선할 수준 태풍 북상 중</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[7NEWS] 가상화폐도 자본시장법 적용받나...’루나 사태’ 권도형 대표 체포영장 발부]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003715983?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003715983?sid=102"/>
+        <updated>2022-09-14T22:18:00.720Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003715983?sid=102" class="nclicks(rig.secteco)" title="[7NEWS] 가상화폐도 자본시장법 적용받나...’루나 사태’ 권도형 대표 체포영장 발부">[7NEWS] 가상화폐도 자본시장법 적용받나...’루나 사태’ 권도형 대표 체포영장 발부</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[학생 감소로 임용절벽…서울 초등교사 선발인원 100명대로 급감(종합)]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013438599?sid=102" class="nclicks(rig.secteco)" title="학생 감소로 임용절벽…서울 초등교사 선발인원 100명대로 급감(종합)">학생 감소로 임용절벽…서울 초등교사 선발인원 100명대로 급감(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '테라' 권도형 체포영장...미국 '하위(Howey) 판례' 토대로 자본시장법 적용]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000313752?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000313752?sid=102"/>
-        <updated>2022-09-14T21:15:24.203Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000313752?sid=102" class="nclicks(rig.secteco)" title="[단독] '테라' 권도형 체포영장...미국 '하위(Howey) 판례' 토대로 자본시장법 적용">[단독] '테라' 권도형 체포영장...미국 '하위(Howey) 판례' 토대로 자본시장법 적용</a>]]></content>
+        <title type="html"><![CDATA[‘깐부’ 오영수 꺾기 춤에 쏟아진 환호… 에미상 뒤풀이 찢었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003715772?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003715772?sid=103"/>
+        <updated>2022-09-14T22:18:00.723Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003715772?sid=103" class="nclicks(rig.secteco)" title="‘깐부’ 오영수 꺾기 춤에 쏟아진 환호… 에미상 뒤풀이 찢었다">‘깐부’ 오영수 꺾기 춤에 쏟아진 환호… 에미상 뒤풀이 찢었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[78세 오영수 ‘꺾기 춤’… 에미상 뒤풀이선 ‘주연’]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003450754?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003450754?sid=103"/>
-        <updated>2022-09-14T21:15:24.204Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450754?sid=103" class="nclicks(rig.secteco)" title="78세 오영수 ‘꺾기 춤’… 에미상 뒤풀이선 ‘주연’">78세 오영수 ‘꺾기 춤’… 에미상 뒤풀이선 ‘주연’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]제14호 태풍 '난마돌' 한반도 향해 북상…내일까지 전국에 강풍]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000923170?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000923170?sid=103"/>
-        <updated>2022-09-14T20:20:25.786Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000923170?sid=103" class="nclicks(rig.secteco)" title="[속보]제14호 태풍 '난마돌' 한반도 향해 북상…내일까지 전국에 강풍">[속보]제14호 태풍 '난마돌' 한반도 향해 북상…내일까지 전국에 강풍</a>]]></content>
+        <title type="html"><![CDATA[낮 최고 32도 늦더위...태풍 '난마돌'은 오키나와 먼바다에]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011419387?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011419387?sid=103"/>
+        <updated>2022-09-14T22:18:00.725Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011419387?sid=103" class="nclicks(rig.secteco)" title="낮 최고 32도 늦더위...태풍 '난마돌'은 오키나와 먼바다에">낮 최고 32도 늦더위...태풍 '난마돌'은 오키나와 먼바다에</a>]]></content>
     </entry>
 </feed>
