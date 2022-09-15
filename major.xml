@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-15T06:01:37.339Z</updated>
+    <updated>2022-09-15T06:50:59.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정의당, 노란봉투법 발의... "비극을 끝내자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002366166?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002366166?sid=100"/>
+        <updated>2022-09-15T06:50:30.739Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002366166?sid=100" class="nclicks(rig.secteco)" title="정의당, 노란봉투법 발의... &quot;비극을 끝내자&quot;">정의당, 노란봉투법 발의... "비극을 끝내자"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일정상회담 2년10개월 만에 유엔서 열린다… “흔쾌히 합의”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003716068?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003716068?sid=100"/>
+        <updated>2022-09-15T06:50:30.740Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003716068?sid=100" class="nclicks(rig.secteco)" title="한일정상회담 2년10개월 만에 유엔서 열린다… “흔쾌히 합의”">한일정상회담 2년10개월 만에 유엔서 열린다… “흔쾌히 합의”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이용호, 與원내대표 출마... "국민의힘, 점잖지만 위기에 둔감해"]]></title>
         <id>https://n.news.naver.com/mnews/article/123/0002285824?sid=100</id>
@@ -13,60 +27,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002285824?sid=100" class="nclicks(rig.secteco)" title="이용호, 與원내대표 출마... &quot;국민의힘, 점잖지만 위기에 둔감해&quot;">이용호, 與원내대표 출마... "국민의힘, 점잖지만 위기에 둔감해"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이젠 '감사완박'…野 '감사원 정치개입 방지법'에 與 "文 비리 감추기법"]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002639339?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002639339?sid=100"/>
-        <updated>2022-09-15T06:01:07.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002639339?sid=100" class="nclicks(rig.secteco)" title="이젠 '감사완박'…野 '감사원 정치개입 방지법'에 與 &quot;文 비리 감추기법&quot;">이젠 '감사완박'…野 '감사원 정치개입 방지법'에 與 "文 비리 감추기법"</a>]]></content>
+        <title type="html"><![CDATA[“불쾌하다”…넷플릭스 도둑 시청한 중국 네티즌, ‘수리남’에 악평]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003301755?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003301755?sid=104"/>
+        <updated>2022-09-15T06:50:30.742Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003301755?sid=104" class="nclicks(rig.secteco)" title="“불쾌하다”…넷플릭스 도둑 시청한 중국 네티즌, ‘수리남’에 악평">“불쾌하다”…넷플릭스 도둑 시청한 중국 네티즌, ‘수리남’에 악평</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['고구려·발해' 지운 중국, 시정 요구에도 '묵묵부답']]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001689913?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001689913?sid=100"/>
-        <updated>2022-09-15T06:01:07.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001689913?sid=100" class="nclicks(rig.secteco)" title="'고구려·발해' 지운 중국, 시정 요구에도 '묵묵부답'">'고구려·발해' 지운 중국, 시정 요구에도 '묵묵부답'</a>]]></content>
+        <title type="html"><![CDATA[32개월만 해외 나선 시진핑, 우군 만들기 총력]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004899062?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004899062?sid=104"/>
+        <updated>2022-09-15T06:50:30.746Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004899062?sid=104" class="nclicks(rig.secteco)" title="32개월만 해외 나선 시진핑, 우군 만들기 총력">32개월만 해외 나선 시진핑, 우군 만들기 총력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 관광 많이 갈까?…"내달 무비자 개인여행 허용 검토"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005147686?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005147686?sid=104"/>
-        <updated>2022-09-15T06:01:07.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005147686?sid=104" class="nclicks(rig.secteco)" title="日 관광 많이 갈까?…&quot;내달 무비자 개인여행 허용 검토&quot;">日 관광 많이 갈까?…"내달 무비자 개인여행 허용 검토"</a>]]></content>
+        <title type="html"><![CDATA["한국 재생에너지 공급량, OECD 평균 4분의 1 수준" [정지은의 산업노트]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004749892?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004749892?sid=101"/>
+        <updated>2022-09-15T06:50:30.747Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004749892?sid=101" class="nclicks(rig.secteco)" title="&quot;한국 재생에너지 공급량, OECD 평균 4분의 1 수준&quot; [정지은의 산업노트]">"한국 재생에너지 공급량, OECD 평균 4분의 1 수준" [정지은의 산업노트]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라 침공 지켜본 중앙아 대통령, 공항나가 시진핑 '파격영접']]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013439673?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013439673?sid=104"/>
-        <updated>2022-09-15T06:01:07.535Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013439673?sid=104" class="nclicks(rig.secteco)" title="우크라 침공 지켜본 중앙아 대통령, 공항나가 시진핑 '파격영접'">우크라 침공 지켜본 중앙아 대통령, 공항나가 시진핑 '파격영접'</a>]]></content>
+        <title type="html"><![CDATA[포스코 “포항제철소 침수는 냉천 범람 때문…연말 복구 완료 목표”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005316958?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005316958?sid=101"/>
+        <updated>2022-09-15T06:50:30.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005316958?sid=101" class="nclicks(rig.secteco)" title="포스코 “포항제철소 침수는 냉천 범람 때문…연말 복구 완료 목표”">포스코 “포항제철소 침수는 냉천 범람 때문…연말 복구 완료 목표”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 최대 ICT 제조기업 삼성전자, RE100 가입…'2050 탄소중립' 도전]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003685448?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003685448?sid=101"/>
-        <updated>2022-09-15T04:22:27.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003685448?sid=101" class="nclicks(rig.secteco)" title="세계 최대 ICT 제조기업 삼성전자, RE100 가입…'2050 탄소중립' 도전">세계 최대 ICT 제조기업 삼성전자, RE100 가입…'2050 탄소중립' 도전</a>]]></content>
+        <title type="html"><![CDATA[추경호 "10월 물가 정점…전기가스요금, 적정한 시점 입장 정리"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013440480?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013440480?sid=101"/>
+        <updated>2022-09-15T06:50:30.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013440480?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;10월 물가 정점…전기가스요금, 적정한 시점 입장 정리&quot;(종합)">추경호 "10월 물가 정점…전기가스요금, 적정한 시점 입장 정리"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정의당, 노란봉투법 발의... "비극을 끝내자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002366166?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002366166?sid=101"/>
-        <updated>2022-09-15T04:22:27.648Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002366166?sid=101" class="nclicks(rig.secteco)" title="정의당, 노란봉투법 발의... &quot;비극을 끝내자&quot;">정의당, 노란봉투법 발의... "비극을 끝내자"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환율 1400원 근접하자 외환당국 구두개입…"과도하게 불안할 필요 없어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001689915?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001689915?sid=101"/>
-        <updated>2022-09-15T06:01:07.541Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001689915?sid=101" class="nclicks(rig.secteco)" title="환율 1400원 근접하자 외환당국 구두개입…&quot;과도하게 불안할 필요 없어&quot;">환율 1400원 근접하자 외환당국 구두개입…"과도하게 불안할 필요 없어"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황현식 "5년 뒤 LG유플러스 기업가치 12조원…'플랫폼'으로 고객 시간 점유"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005147689?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005147689?sid=105"/>
-        <updated>2022-09-15T06:01:07.551Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005147689?sid=105" class="nclicks(rig.secteco)" title="황현식 &quot;5년 뒤 LG유플러스 기업가치 12조원…'플랫폼'으로 고객 시간 점유&quot;(종합)">황현식 "5년 뒤 LG유플러스 기업가치 12조원…'플랫폼'으로 고객 시간 점유"(종합)</a>]]></content>
+        <title type="html"><![CDATA[[일문일답] 황현식 LG유플러스 사장 "분사 1호는 '아이들나라'…구체적 계획은 미정"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005147729?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005147729?sid=105"/>
+        <updated>2022-09-15T06:50:30.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005147729?sid=105" class="nclicks(rig.secteco)" title="[일문일답] 황현식 LG유플러스 사장 &quot;분사 1호는 '아이들나라'…구체적 계획은 미정&quot;">[일문일답] 황현식 LG유플러스 사장 "분사 1호는 '아이들나라'…구체적 계획은 미정"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘갤럭시 찐팬’ 2000명, 내달 8일 에버랜드서 모인다]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005316721?sid=105" class="nclicks(rig.secteco)" title="‘갤럭시 찐팬’ 2000명, 내달 8일 에버랜드서 모인다">‘갤럭시 찐팬’ 2000명, 내달 8일 에버랜드서 모인다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK]뉴질랜드 '가방 속 아동 시신 사건' 피의자 울산서 검거]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006335458?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006335458?sid=102"/>
-        <updated>2022-09-15T06:01:07.553Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006335458?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]뉴질랜드 '가방 속 아동 시신 사건' 피의자  울산서 검거">[뉴스1 PICK]뉴질랜드 '가방 속 아동 시신 사건' 피의자 울산서 검거</a>]]></content>
+        <title type="html"><![CDATA[[단독]"도피 4년 만에"...경찰, 뉴질랜드 '가방 속 아이들 시신' 피의자 울산서 검거]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001789366?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001789366?sid=102"/>
+        <updated>2022-09-15T06:50:30.754Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001789366?sid=102" class="nclicks(rig.secteco)" title="[단독]&quot;도피 4년 만에&quot;...경찰, 뉴질랜드 '가방 속 아이들 시신' 피의자 울산서 검거">[단독]"도피 4년 만에"...경찰, 뉴질랜드 '가방 속 아이들 시신' 피의자 울산서 검거</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신당역 화장실서 20대 女역무원 잔혹 살해범 신상공개 검토]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223841?sid=102" class="nclicks(rig.secteco)" title="[단독] 경찰, 이재명 아들 소환했다…불법도박·성매매 의혹 조사">[단독] 경찰, 이재명 아들 소환했다…불법도박·성매매 의혹 조사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폭스바겐 전기차 'ID.4' 사전 예약만 3500대…"국산차와 정면 승부"]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003043714?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003043714?sid=103"/>
-        <updated>2022-09-15T06:01:07.556Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003043714?sid=103" class="nclicks(rig.secteco)" title="폭스바겐 전기차 'ID.4' 사전 예약만 3500대…&quot;국산차와 정면 승부&quot;">폭스바겐 전기차 'ID.4' 사전 예약만 3500대…"국산차와 정면 승부"</a>]]></content>
+        <title type="html"><![CDATA["아이오닉5 한판 붙자"…폭스바겐 전기SUV 첫 한국 상륙]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004749894?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004749894?sid=103"/>
+        <updated>2022-09-15T06:50:30.759Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004749894?sid=103" class="nclicks(rig.secteco)" title="&quot;아이오닉5 한판 붙자&quot;…폭스바겐 전기SUV 첫 한국 상륙">"아이오닉5 한판 붙자"…폭스바겐 전기SUV 첫 한국 상륙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['9월의 남자' BTS RM, 문화재 보존에 또 1억 기부 '선한 영향력']]></title>
