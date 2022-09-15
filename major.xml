@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-15T10:20:16.873Z</updated>
+    <updated>2022-09-15T11:15:54.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003734901?sid=100" class="nclicks(rig.secteco)" title="‘불법파업 면죄부’ 재계 반발에도…‘노란봉투법’ 밀어붙이는 민주·정의당">‘불법파업 면죄부’ 재계 반발에도…‘노란봉투법’ 밀어붙이는 민주·정의당</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]'윤심은 주호영?' 권성동, 비례의원 오찬에서도 추대론]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003685678?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003685678?sid=100"/>
-        <updated>2022-09-15T10:19:48.549Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003685678?sid=100" class="nclicks(rig.secteco)" title="[단독]'윤심은 주호영?' 권성동, 비례의원 오찬에서도 추대론">[단독]'윤심은 주호영?' 권성동, 비례의원 오찬에서도 추대론</a>]]></content>
+        <title type="html"><![CDATA[[단독]中 '연표 왜곡' 강경대응? 삼국시대 유물 출품조차 안했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003223975?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003223975?sid=100"/>
+        <updated>2022-09-15T11:15:24.850Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223975?sid=100" class="nclicks(rig.secteco)" title="[단독]中 '연표 왜곡' 강경대응? 삼국시대 유물 출품조차 안했다">[단독]中 '연표 왜곡' 강경대응? 삼국시대 유물 출품조차 안했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '수리남' 영문제목 바뀐 배경에 韓외교부 있었다]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004750146?sid=101" class="nclicks(rig.secteco)" title="삼성전자의 7조 新환경경영…&quot;車 800만대 운행중단 효과&quot;">삼성전자의 7조 新환경경영…"車 800만대 운행중단 효과"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005317469?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101"/>
-        <updated>2022-09-15T10:19:48.550Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101" class="nclicks(rig.secteco)" title="“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부">“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[주담대 금리가 너무해…1년만에 연이자 540만원 불었다]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005317319?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005317319?sid=101"/>
@@ -62,18 +55,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005317319?sid=101" class="nclicks(rig.secteco)" title="주담대 금리가 너무해…1년만에 연이자 540만원 불었다">주담대 금리가 너무해…1년만에 연이자 540만원 불었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황현식 LGU+ "'플랫폼'으로 고객 시간 잡겠다…5년뒤 기업가치 12조"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011421120?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011421120?sid=105"/>
-        <updated>2022-09-15T10:19:48.553Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011421120?sid=105" class="nclicks(rig.secteco)" title="황현식 LGU+ &quot;'플랫폼'으로 고객 시간 잡겠다…5년뒤 기업가치 12조&quot;(종합)">황현식 LGU+ "'플랫폼'으로 고객 시간 잡겠다…5년뒤 기업가치 12조"(종합)</a>]]></content>
+        <title type="html"><![CDATA[“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005317469?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101"/>
+        <updated>2022-09-15T10:19:48.550Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101" class="nclicks(rig.secteco)" title="“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부">“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['더머지'로 진화한 이더리움, 부테린의 빅피처 실현될까[올똑투]]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003223969?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003223969?sid=105"/>
-        <updated>2022-09-15T10:19:48.556Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003223969?sid=105" class="nclicks(rig.secteco)" title="'더머지'로 진화한 이더리움, 부테린의 빅피처 실현될까[올똑투]">'더머지'로 진화한 이더리움, 부테린의 빅피처 실현될까[올똑투]</a>]]></content>
+        <title type="html"><![CDATA[LG유플러스는 왜 플랫폼 사업체 변신에 공을 들이는 걸까]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000697085?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000697085?sid=105"/>
+        <updated>2022-09-15T11:15:24.874Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000697085?sid=105" class="nclicks(rig.secteco)" title="LG유플러스는 왜 플랫폼 사업체 변신에 공을 들이는 걸까">LG유플러스는 왜 플랫폼 사업체 변신에 공을 들이는 걸까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20년만에 날아오르는 ‘웹툰’…그 뒤엔 ‘플랫폼’ 있었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005317384?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005317384?sid=105"/>
+        <updated>2022-09-15T11:15:24.875Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005317384?sid=105" class="nclicks(rig.secteco)" title="20년만에 날아오르는 ‘웹툰’…그 뒤엔 ‘플랫폼’ 있었다">20년만에 날아오르는 ‘웹툰’…그 뒤엔 ‘플랫폼’ 있었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 서울교통공사, 신당역 역무원 피살 다음날 ‘특이사항 없음’ 보고]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003450949?sid=102" class="nclicks(rig.secteco)" title="한동훈 “김근식·조두순도 치료감호 가능”…치료감호법 개정 추진">한동훈 “김근식·조두순도 치료감호 가능”…치료감호법 개정 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원 “휘문고 자사고 취소 적법”…사학비리로 지위 박탈 첫 사례]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002606380?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002606380?sid=102"/>
-        <updated>2022-09-15T10:19:48.561Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002606380?sid=102" class="nclicks(rig.secteco)" title="법원 “휘문고 자사고 취소 적법”…사학비리로 지위 박탈 첫 사례">법원 “휘문고 자사고 취소 적법”…사학비리로 지위 박탈 첫 사례</a>]]></content>
+        <title type="html"><![CDATA[[단독] 도피 4년 만에 잡힌 뉴질랜드 '가방 속 아이들 시신' 피의자..."내가 안했어요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001789589?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001789589?sid=102"/>
+        <updated>2022-09-15T11:15:24.888Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001789589?sid=102" class="nclicks(rig.secteco)" title="[단독] 도피 4년 만에 잡힌 뉴질랜드 '가방 속 아이들 시신' 피의자...&quot;내가 안했어요&quot;">[단독] 도피 4년 만에 잡힌 뉴질랜드 '가방 속 아이들 시신' 피의자..."내가 안했어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["아이오닉5 한판 붙자 "…4000만원대 폭스바겐 전기차 ‘ID.4’ 韓상륙]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004099231?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004099231?sid=103"/>
-        <updated>2022-09-15T10:19:48.561Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004099231?sid=103" class="nclicks(rig.secteco)" title="&quot;아이오닉5 한판 붙자 &quot;…4000만원대 폭스바겐 전기차 ‘ID.4’ 韓상륙">"아이오닉5 한판 붙자 "…4000만원대 폭스바겐 전기차 ‘ID.4’ 韓상륙</a>]]></content>
+        <title type="html"><![CDATA["또또또 찢었다"…'가격깡패' 4000만원대 독일차, 보조금만 1441만원 [카슐랭]]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005017747?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005017747?sid=103"/>
+        <updated>2022-09-15T11:15:24.889Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005017747?sid=103" class="nclicks(rig.secteco)" title="&quot;또또또 찢었다&quot;…'가격깡패' 4000만원대 독일차, 보조금만 1441만원 [카슐랭]">"또또또 찢었다"…'가격깡패' 4000만원대 독일차, 보조금만 1441만원 [카슐랭]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백남준 대표작 '다다익선' 다시 불켰다]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004750173?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004750173?sid=103"/>
-        <updated>2022-09-15T10:19:48.561Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004750173?sid=103" class="nclicks(rig.secteco)" title="백남준 대표작 '다다익선' 다시 불켰다">백남준 대표작 '다다익선' 다시 불켰다</a>]]></content>
+        <title type="html"><![CDATA[3년 만에 재가동 된 백남준의 '다다익선' [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011421741?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011421741?sid=103"/>
+        <updated>2022-09-15T11:15:24.889Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011421741?sid=103" class="nclicks(rig.secteco)" title="3년 만에 재가동 된 백남준의 '다다익선' [뉴시스Pic]">3년 만에 재가동 된 백남준의 '다다익선' [뉴시스Pic]</a>]]></content>
     </entry>
 </feed>
