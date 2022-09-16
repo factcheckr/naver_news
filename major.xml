@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-16T21:16:30.424Z</updated>
+    <updated>2022-09-16T22:20:09.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영빈관 강행에서 철회까지...“불통이 또 화 불렀다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000020277?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000020277?sid=100"/>
+        <updated>2022-09-16T22:19:40.428Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000020277?sid=100" class="nclicks(rig.secteco)" title="영빈관 강행에서 철회까지...“불통이 또 화 불렀다”">영빈관 강행에서 철회까지...“불통이 또 화 불렀다”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 中서열 3위 리잔수 "사드 배치 반대, 한국 겨냥하는 게 아니야"]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005018103?sid=100</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005018103?sid=100" class="nclicks(rig.secteco)" title="[단독] 中서열 3위 리잔수 &quot;사드 배치 반대, 한국 겨냥하는 게 아니야&quot;">[단독] 中서열 3위 리잔수 "사드 배치 반대, 한국 겨냥하는 게 아니야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘영빈관 신축’ 번복한 대통령실…되레 김건희 ‘무속 논란’ 환기 [이슈+]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003735423?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003735423?sid=100"/>
-        <updated>2022-09-16T21:15:59.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003735423?sid=100" class="nclicks(rig.secteco)" title="‘영빈관 신축’ 번복한 대통령실…되레 김건희 ‘무속 논란’ 환기 [이슈+]">‘영빈관 신축’ 번복한 대통령실…되레 김건희 ‘무속 논란’ 환기 [이슈+]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與, 9월에도 당내 혼란 계속…가처분 심문·윤리위 열리는 28일이 ‘운명의 날’]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000841120?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000841120?sid=100"/>
-        <updated>2022-09-16T21:15:59.754Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000841120?sid=100" class="nclicks(rig.secteco)" title="與, 9월에도 당내 혼란 계속…가처분 심문·윤리위 열리는 28일이 ‘운명의 날’">與, 9월에도 당내 혼란 계속…가처분 심문·윤리위 열리는 28일이 ‘운명의 날’</a>]]></content>
+        <title type="html"><![CDATA[한미, 4년 8개월 만 '확장억제 협의'…"핵 포함 모든 능력 동원"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001000007?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001000007?sid=100"/>
+        <updated>2022-09-16T22:19:40.430Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001000007?sid=100" class="nclicks(rig.secteco)" title="한미, 4년 8개월 만 '확장억제 협의'…&quot;핵 포함 모든 능력 동원&quot;">한미, 4년 8개월 만 '확장억제 협의'…"핵 포함 모든 능력 동원"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우크라전 205일, 우크라 집단매장 시신 학대·고문 정황 파장]]></title>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011423846?sid=104" class="nclicks(rig.secteco)" title="우크라전 205일, 우크라 집단매장 시신 학대·고문 정황 파장">우크라전 205일, 우크라 집단매장 시신 학대·고문 정황 파장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[42층 빌딩 통째로 삼킨 시커먼 불…中 차이나텔레콤 무슨일]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003224276?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003224276?sid=104"/>
-        <updated>2022-09-16T20:19:01.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003224276?sid=104" class="nclicks(rig.secteco)" title="42층 빌딩 통째로 삼킨 시커먼 불…中 차이나텔레콤 무슨일">42층 빌딩 통째로 삼킨 시커먼 불…中 차이나텔레콤 무슨일</a>]]></content>
+        <title type="html"><![CDATA[“다 탔네” 42층 빌딩 뒤덮은 불…中차이나텔레콤 화재]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001553349?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001553349?sid=104"/>
+        <updated>2022-09-16T22:19:40.435Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001553349?sid=104" class="nclicks(rig.secteco)" title="“다 탔네” 42층 빌딩 뒤덮은 불…中차이나텔레콤 화재">“다 탔네” 42층 빌딩 뒤덮은 불…中차이나텔레콤 화재</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005317469?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101"/>
-        <updated>2022-09-16T17:33:36.370Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005317469?sid=101" class="nclicks(rig.secteco)" title="“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부">“한창 복구 중인데”…포스코에 ‘침수 책임’ 묻겠다는 정부</a>]]></content>
+        <title type="html"><![CDATA['일당 125만원' 포스코 승부수…'하루 손실 500억' 고비 넘겼다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003224111?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003224111?sid=101"/>
+        <updated>2022-09-16T22:19:40.436Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003224111?sid=101" class="nclicks(rig.secteco)" title="'일당 125만원' 포스코 승부수…'하루 손실 500억' 고비 넘겼다">'일당 125만원' 포스코 승부수…'하루 손실 500억' 고비 넘겼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['반쪽 파업'에 그친 금융노조 총파업…금융대란 없었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004899825?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004899825?sid=101"/>
-        <updated>2022-09-16T20:19:01.797Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004899825?sid=101" class="nclicks(rig.secteco)" title="'반쪽 파업'에 그친 금융노조 총파업…금융대란 없었다">'반쪽 파업'에 그친 금융노조 총파업…금융대란 없었다</a>]]></content>
+        <title type="html"><![CDATA[미풍에 그친 금융노조 총파업… '평균 연봉 1억원' 여론 싸늘]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000852585?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000852585?sid=101"/>
+        <updated>2022-09-16T22:19:40.437Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000852585?sid=101" class="nclicks(rig.secteco)" title="미풍에 그친 금융노조 총파업… '평균 연봉 1억원' 여론 싸늘">미풍에 그친 금융노조 총파업… '평균 연봉 1억원' 여론 싸늘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우윳값, 1ℓ에 3천 원 넘나...'차등 가격제' 명암]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001790195?sid=101" class="nclicks(rig.secteco)" title="우윳값, 1ℓ에 3천 원 넘나...'차등 가격제' 명암">우윳값, 1ℓ에 3천 원 넘나...'차등 가격제' 명암</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘우영우’ 효과?…최저치 찍은 넷플릭스, 가장 많이 보는 OTT 등극]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003735156?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003735156?sid=105"/>
-        <updated>2022-09-16T11:15:59.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003735156?sid=105" class="nclicks(rig.secteco)" title="‘우영우’ 효과?…최저치 찍은 넷플릭스, 가장 많이 보는 OTT 등극">‘우영우’ 효과?…최저치 찍은 넷플릭스, 가장 많이 보는 OTT 등극</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[맨디언트 날개 단 구글클라우드…토종기업, 보안 강화 잰걸음]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011423661?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011423661?sid=105"/>
         <updated>2022-09-16T21:15:59.764Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011423661?sid=105" class="nclicks(rig.secteco)" title="맨디언트 날개 단 구글클라우드…토종기업, 보안 강화 잰걸음">맨디언트 날개 단 구글클라우드…토종기업, 보안 강화 잰걸음</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]남궁훈의 카카오 오픈채팅 광고 실험…두마리 토끼 잡는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006336735?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006336735?sid=105"/>
+        <updated>2022-09-16T22:19:40.440Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006336735?sid=105" class="nclicks(rig.secteco)" title="[단독]남궁훈의 카카오 오픈채팅 광고 실험…두마리 토끼 잡는다">[단독]남궁훈의 카카오 오픈채팅 광고 실험…두마리 토끼 잡는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 신당역 살인범, 저녁 6시 피해자 위치 확인 뒤 출발 “취약 시간 노렸다”]]></title>
@@ -83,18 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001553247?sid=102" class="nclicks(rig.secteco)" title="[단독] 신당역 살인범, 저녁 6시 피해자 위치 확인 뒤 출발 “취약 시간 노렸다”">[단독] 신당역 살인범, 저녁 6시 피해자 위치 확인 뒤 출발 “취약 시간 노렸다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['뇌물'로 2년형 받은 은수미…구속 전 "진실 좀 봐라" 목메었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003224231?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003224231?sid=102"/>
-        <updated>2022-09-16T20:19:01.813Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003224231?sid=102" class="nclicks(rig.secteco)" title="'뇌물'로 2년형 받은 은수미…구속 전 &quot;진실 좀 봐라&quot; 목메었다">'뇌물'로 2년형 받은 은수미…구속 전 "진실 좀 봐라" 목메었다</a>]]></content>
+        <title type="html"><![CDATA[“좋아하는데 안 받아주니 폭력”… 민주당 서울시의원의 실언]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003735431?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003735431?sid=102"/>
+        <updated>2022-09-16T22:19:40.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003735431?sid=102" class="nclicks(rig.secteco)" title="“좋아하는데 안 받아주니 폭력”… 민주당 서울시의원의 실언">“좋아하는데 안 받아주니 폭력”… 민주당 서울시의원의 실언</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“좋아하는데 안 받아주니”…서울시의원, ‘신당역 스토킹 살인’ 망언 논란]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003173471?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003173471?sid=102"/>
-        <updated>2022-09-16T19:16:44.314Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003173471?sid=102" class="nclicks(rig.secteco)" title="“좋아하는데 안 받아주니”…서울시의원, ‘신당역 스토킹 살인’ 망언 논란">“좋아하는데 안 받아주니”…서울시의원, ‘신당역 스토킹 살인’ 망언 논란</a>]]></content>
+        <title type="html"><![CDATA[전여옥 폭발, ‘징역2년 법정구속’ 은수미 직격…“‘아수라’ 은실장보다 더 나빠”]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002754328?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002754328?sid=102"/>
+        <updated>2022-09-16T22:19:40.444Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002754328?sid=102" class="nclicks(rig.secteco)" title="전여옥 폭발, ‘징역2년 법정구속’ 은수미 직격…“‘아수라’ 은실장보다 더 나빠”">전여옥 폭발, ‘징역2년 법정구속’ 은수미 직격…“‘아수라’ 은실장보다 더 나빠”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 흐리고 곳곳에 비…수도권 한낮 기온 30도 이상]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000841131?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000841131?sid=103"/>
+        <updated>2022-09-16T22:19:40.446Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000841131?sid=103" class="nclicks(rig.secteco)" title="전국 흐리고 곳곳에 비…수도권 한낮 기온 30도 이상">전국 흐리고 곳곳에 비…수도권 한낮 기온 30도 이상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[현장EN:]금의환향 '오징어 게임'팀 "전 세계 팬 응원이 이룬 영광"]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003686078?sid=103"/>
         <updated>2022-09-16T15:18:02.450Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003686078?sid=103" class="nclicks(rig.secteco)" title="[현장EN:]금의환향 '오징어 게임'팀 &quot;전 세계 팬 응원이 이룬 영광&quot;">[현장EN:]금의환향 '오징어 게임'팀 "전 세계 팬 응원이 이룬 영광"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘날씨]새벽부터 수도권 등 최대 60㎜ 이상 비…낮 30도 이상]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006338851?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006338851?sid=103"/>
-        <updated>2022-09-16T21:15:59.772Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006338851?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨]새벽부터 수도권 등 최대 60㎜ 이상 비…낮 30도 이상">[오늘날씨]새벽부터 수도권 등 최대 60㎜ 이상 비…낮 30도 이상</a>]]></content>
     </entry>
 </feed>
