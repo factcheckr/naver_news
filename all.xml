@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-17T17:22:59.893Z</updated>
+    <updated>2022-09-17T18:21:36.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사실상 `주호영 추대형` 경선…'호남' 이용호와 양자대결(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004099903?sid=100" class="nclicks(rig.secteco)" title="정의당 2023년까지 당명 개정…“재창당 결의안” 채택">정의당 2023년까지 당명 개정…“재창당 결의안” 채택</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미 "北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006338988?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006338988?sid=104"/>
-        <updated>2022-09-17T14:15:43.923Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006338988?sid=104" class="nclicks(rig.secteco)" title="한미 &quot;北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용&quot;(종합)">한미 "北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용"(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["매장된 민간인에 재미로 총질" 젤렌스키 밝힌 러군 충격 만행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003224343?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003224343?sid=104"/>
@@ -40,11 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003224343?sid=104" class="nclicks(rig.secteco)" title="&quot;매장된 민간인에 재미로 총질&quot; 젤렌스키 밝힌 러군 충격 만행">"매장된 민간인에 재미로 총질" 젤렌스키 밝힌 러군 충격 만행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["반값에 마트 오픈런" 美언론도 주목한 韓치킨값 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004099907?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004099907?sid=101"/>
-        <updated>2022-09-17T13:32:27.241Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004099907?sid=101" class="nclicks(rig.secteco)" title="&quot;반값에 마트 오픈런&quot; 美언론도 주목한 韓치킨값">"반값에 마트 오픈런" 美언론도 주목한 韓치킨값</a>]]></content>
+        <title type="html"><![CDATA[한미 "北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006338988?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006338988?sid=104"/>
+        <updated>2022-09-17T14:15:43.923Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006338988?sid=104" class="nclicks(rig.secteco)" title="한미 &quot;北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용&quot;(종합)">한미 "北 핵공격시 압도·결정적 대응…핵 억제 위해 모든 요소 사용"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 치킨가격 폭등은 아시아 식량위기 전조(?) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004899926?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004899926?sid=101"/>
+        <updated>2022-09-17T18:21:05.892Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004899926?sid=101" class="nclicks(rig.secteco)" title="한국 치킨가격 폭등은 아시아 식량위기 전조(?)">한국 치킨가격 폭등은 아시아 식량위기 전조(?)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한달새 배춧값 2배 폭등, 수급 이달 말 돼야 안정될 듯 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003686234?sid=101" class="nclicks(rig.secteco)" title="한달새 배춧값 2배 폭등, 수급 이달 말 돼야 안정될 듯">한달새 배춧값 2배 폭등, 수급 이달 말 돼야 안정될 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 기름값 보합세…이번주 휘발유 0.8원↓·경유 5.6원↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013444196?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013444196?sid=101"/>
-        <updated>2022-09-17T17:22:30.422Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013444196?sid=101" class="nclicks(rig.secteco)" title="국내 기름값 보합세…이번주 휘발유 0.8원↓·경유 5.6원↑">국내 기름값 보합세…이번주 휘발유 0.8원↓·경유 5.6원↑</a>]]></content>
+        <title type="html"><![CDATA[마트 진열대에서 사라진 포장김치...자사몰에서도 '품절'대란 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002286011?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002286011?sid=101"/>
+        <updated>2022-09-17T18:21:05.904Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002286011?sid=101" class="nclicks(rig.secteco)" title="마트 진열대에서 사라진 포장김치...자사몰에서도 '품절'대란">마트 진열대에서 사라진 포장김치...자사몰에서도 '품절'대란</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우마무스메 이용자 만난 카카오게임즈 "소통 강화하고 구제책 마련" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001790308?sid=102" class="nclicks(rig.secteco)" title="[단독] 범행 전 현금 전액 인출 시도...경찰, 신당역 살해범 자택 압수수색">[단독] 범행 전 현금 전액 인출 시도...경찰, 신당역 살해범 자택 압수수색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['윤리위 앞두고 경찰 조사' 이준석 "오전에 출석, 조사응해" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013444811?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013444811?sid=102"/>
-        <updated>2022-09-17T17:22:30.426Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013444811?sid=102" class="nclicks(rig.secteco)" title="'윤리위 앞두고 경찰 조사' 이준석 &quot;오전에 출석, 조사응해&quot;">'윤리위 앞두고 경찰 조사' 이준석 "오전에 출석, 조사응해"</a>]]></content>
+        <title type="html"><![CDATA['성 상납 의혹' 국민의힘 이준석, 12시간 경찰 조사 후 귀가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003686286?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003686286?sid=102"/>
+        <updated>2022-09-17T18:21:05.904Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003686286?sid=102" class="nclicks(rig.secteco)" title="'성 상납 의혹' 국민의힘 이준석, 12시간 경찰 조사 후 귀가">'성 상납 의혹' 국민의힘 이준석, 12시간 경찰 조사 후 귀가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태풍 '난마돌' 곧 '초강력'…19일 오전 최근접, 제주·경상권해안에 폭우 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
