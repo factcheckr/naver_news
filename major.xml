@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-18T20:19:04.550Z</updated>
+    <updated>2022-09-18T21:16:04.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013446166?sid=100" class="nclicks(rig.secteco)" title="한총리, 하루 세차례 난마돌 점검회의…&quot;지하주차장 등 철저점검&quot;(종합2보)">한총리, 하루 세차례 난마돌 점검회의…"지하주차장 등 철저점검"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[심상찮은 ‘불의 고리’… 대만·일본 연쇄 강진]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003302382?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003302382?sid=104"/>
-        <updated>2022-09-18T20:18:34.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003302382?sid=104" class="nclicks(rig.secteco)" title="심상찮은 ‘불의 고리’… 대만·일본 연쇄 강진">심상찮은 ‘불의 고리’… 대만·일본 연쇄 강진</a>]]></content>
+        <title type="html"><![CDATA[[영상] 바이든, 여왕 관 찾아 조문 “70년 간 함께한 건 행운” [나우,어스]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002041868?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002041868?sid=104"/>
+        <updated>2022-09-18T21:15:34.964Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002041868?sid=104" class="nclicks(rig.secteco)" title="[영상] 바이든, 여왕 관 찾아 조문 “70년 간 함께한 건 행운” [나우,어스]">[영상] 바이든, 여왕 관 찾아 조문 “70년 간 함께한 건 행운” [나우,어스]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가을추위속 여왕 참배 마지막날…바이든, 여왕 관 찾아 조의(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013446181?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013446181?sid=104"/>
-        <updated>2022-09-18T19:13:57.006Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013446181?sid=104" class="nclicks(rig.secteco)" title="가을추위속 여왕 참배 마지막날…바이든, 여왕 관 찾아 조의(종합)">가을추위속 여왕 참배 마지막날…바이든, 여왕 관 찾아 조의(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외환당국 “달러 주문 실시간 체크”… 환율 1400원 위협에 고강도 개입]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003302346?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003302346?sid=101"/>
-        <updated>2022-09-18T20:18:34.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003302346?sid=101" class="nclicks(rig.secteco)" title="외환당국 “달러 주문 실시간 체크”… 환율 1400원 위협에 고강도 개입">외환당국 “달러 주문 실시간 체크”… 환율 1400원 위협에 고강도 개입</a>]]></content>
+        <title type="html"><![CDATA['불의 고리' 대만 규모 6.8 강진으로 사상자 발생…日도 연쇄 강진(종합3보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006340616?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006340616?sid=104"/>
+        <updated>2022-09-18T21:15:34.965Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006340616?sid=104" class="nclicks(rig.secteco)" title="'불의 고리' 대만 규모 6.8  강진으로 사상자 발생…日도 연쇄 강진(종합3보)">'불의 고리' 대만 규모 6.8 강진으로 사상자 발생…日도 연쇄 강진(종합3보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“12월 초 정상화”… 포스코, 회장까지 나선 복구 총력전]]></title>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003302386?sid=101" class="nclicks(rig.secteco)" title="“12월 초 정상화”… 포스코, 회장까지 나선 복구 총력전">“12월 초 정상화”… 포스코, 회장까지 나선 복구 총력전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["미래車 기준을 제시하다"…현대차그룹, 미래 'UX' 기술 첫 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003686304?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003686304?sid=101"/>
-        <updated>2022-09-18T19:13:57.009Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003686304?sid=101" class="nclicks(rig.secteco)" title="&quot;미래車 기준을 제시하다&quot;…현대차그룹, 미래 'UX' 기술 첫 공개">"미래車 기준을 제시하다"…현대차그룹, 미래 'UX' 기술 첫 공개</a>]]></content>
+        <title type="html"><![CDATA[서민 대상 '새희망홀씨 대출' 한도, 내달 최대 3500만원으로 상향]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005319856?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005319856?sid=101"/>
+        <updated>2022-09-18T21:15:34.969Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005319856?sid=101" class="nclicks(rig.secteco)" title="서민 대상 '새희망홀씨 대출' 한도, 내달 최대 3500만원으로 상향">서민 대상 '새희망홀씨 대출' 한도, 내달 최대 3500만원으로 상향</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[손엄지의 주식살롱] 환율 오르자 '도시락 폭탄' 의혹은 왜 나오나?]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006340720?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006340720?sid=101"/>
+        <updated>2022-09-18T21:15:34.970Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006340720?sid=101" class="nclicks(rig.secteco)" title="[손엄지의 주식살롱] 환율 오르자 '도시락 폭탄' 의혹은 왜 나오나?">[손엄지의 주식살롱] 환율 오르자 '도시락 폭탄' 의혹은 왜 나오나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유연하게 바뀐 국가 R&D 예타 제도, 핵심은…“기술패권 경쟁에 대응”]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002268306?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈 &quot;우마무스메, 운영 업무 개선 약속...감사하고 죄송&quot;">카카오게임즈 "우마무스메, 운영 업무 개선 약속...감사하고 죄송"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신당역 살해범, 이달 3일도 피해자 근무지 조회… 경찰 “계획범죄”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003451403?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003451403?sid=102"/>
-        <updated>2022-09-18T18:21:03.574Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003451403?sid=102" class="nclicks(rig.secteco)" title="신당역 살해범, 이달 3일도 피해자 근무지 조회… 경찰 “계획범죄”">신당역 살해범, 이달 3일도 피해자 근무지 조회… 경찰 “계획범죄”</a>]]></content>
+        <title type="html"><![CDATA['신당역 보복살인' 30대 얼굴 공개하나…오늘 신상공개위]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011425293?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011425293?sid=102"/>
+        <updated>2022-09-18T21:15:34.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011425293?sid=102" class="nclicks(rig.secteco)" title="'신당역 보복살인' 30대 얼굴 공개하나…오늘 신상공개위">'신당역 보복살인' 30대 얼굴 공개하나…오늘 신상공개위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ITS 세계총회 강릉유치 성공 '교통 한류' 전기 연다]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000020208?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000020208?sid=102"/>
-        <updated>2022-09-18T20:18:34.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000020208?sid=102" class="nclicks(rig.secteco)" title="ITS 세계총회 강릉유치 성공 '교통 한류' 전기 연다">ITS 세계총회 강릉유치 성공 '교통 한류' 전기 연다</a>]]></content>
+        <title type="html"><![CDATA[교통올림픽 유치한 강릉시, 첨단 스마트관광도시 도약]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013444894?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013444894?sid=102"/>
+        <updated>2022-09-18T21:15:34.977Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013444894?sid=102" class="nclicks(rig.secteco)" title="교통올림픽 유치한 강릉시, 첨단 스마트관광도시 도약">교통올림픽 유치한 강릉시, 첨단 스마트관광도시 도약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태풍 난마돌 스치는 제주 초속 24ｍ 강풍…바다에선 인명피해]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013446169?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013446169?sid=102"/>
-        <updated>2022-09-18T20:18:34.585Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013446169?sid=102" class="nclicks(rig.secteco)" title="태풍 난마돌 스치는 제주 초속 24ｍ 강풍…바다에선 인명피해">태풍 난마돌 스치는 제주 초속 24ｍ 강풍…바다에선 인명피해</a>]]></content>
+        <title type="html"><![CDATA[남부 지방 태풍 '난마돌' 본격 영향…경상권 해안 20∼80㎜ 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013446192?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013446192?sid=102"/>
+        <updated>2022-09-18T21:15:34.980Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013446192?sid=102" class="nclicks(rig.secteco)" title="남부 지방 태풍 '난마돌' 본격 영향…경상권 해안 20∼80㎜ 비">남부 지방 태풍 '난마돌' 본격 영향…경상권 해안 20∼80㎜ 비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이정재, 에미상 트로피 들고 금의환향...“‘오겜2’ 노화 걱정마세요”]]></title>
