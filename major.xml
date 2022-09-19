@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-09-19T10:21:28.704Z</updated>
+    <updated>2022-09-19T11:16:03.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['문자 사태' 커질라…'이준석 제명' 노출 5시간만에 윤리위원 사퇴까지(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006342814?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006342814?sid=100"/>
-        <updated>2022-09-19T10:20:56.351Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006342814?sid=100" class="nclicks(rig.secteco)" title="'문자 사태' 커질라…'이준석 제명' 노출 5시간만에 윤리위원 사퇴까지(종합)">'문자 사태' 커질라…'이준석 제명' 노출 5시간만에 윤리위원 사퇴까지(종합)</a>]]></content>
+        <title type="html"><![CDATA['이준석 제명' 정진석 문자노출 논란…유상범, 윤리위원 사퇴(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013448382?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013448382?sid=100"/>
+        <updated>2022-09-19T11:15:30.349Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013448382?sid=100" class="nclicks(rig.secteco)" title="'이준석 제명' 정진석 문자노출 논란…유상범, 윤리위원 사퇴(종합2보)">'이준석 제명' 정진석 문자노출 논란…유상범, 윤리위원 사퇴(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘주호영 추대론’ 무색하게 한 이용호… 친윤에 경고 메시지]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003736003?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003736003?sid=100"/>
-        <updated>2022-09-19T10:20:56.360Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003736003?sid=100" class="nclicks(rig.secteco)" title="‘주호영 추대론’ 무색하게 한 이용호… 친윤에 경고 메시지">‘주호영 추대론’ 무색하게 한 이용호… 친윤에 경고 메시지</a>]]></content>
+        <title type="html"><![CDATA[또 주호영?...이준석 위기 수습할 '마무리 투수' 등판]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000314344?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000314344?sid=100"/>
+        <updated>2022-09-19T11:15:30.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000314344?sid=100" class="nclicks(rig.secteco)" title="또 주호영?...이준석 위기 수습할 '마무리 투수' 등판">또 주호영?...이준석 위기 수습할 '마무리 투수' 등판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 영국까지 가서 여왕 ‘참배’ 무산 논란…야당 ‘외교 참사’]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002606815?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002606815?sid=100"/>
-        <updated>2022-09-19T10:20:56.366Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002606815?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 영국까지 가서 여왕 ‘참배’ 무산 논란…야당 ‘외교 참사’">윤 대통령, 영국까지 가서 여왕 ‘참배’ 무산 논란…야당 ‘외교 참사’</a>]]></content>
+        <title type="html"><![CDATA[尹부부, 영국 여왕 장례식 참석...'외교 홀대' 논란도]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001791134?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001791134?sid=100"/>
+        <updated>2022-09-19T11:15:30.356Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001791134?sid=100" class="nclicks(rig.secteco)" title="尹부부, 영국 여왕 장례식 참석...'외교 홀대' 논란도">尹부부, 영국 여왕 장례식 참석...'외교 홀대' 논란도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 여왕 '세기의 장례식' 엄수…정상급 외빈 500명 참석]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013448383?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013448383?sid=104"/>
+        <updated>2022-09-19T11:15:30.357Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013448383?sid=104" class="nclicks(rig.secteco)" title="영국 여왕 '세기의 장례식' 엄수…정상급 외빈 500명 참석">영국 여왕 '세기의 장례식' 엄수…정상급 외빈 500명 참석</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든 “中, 대만 침공땐 미군 직접 군사 개입”]]></title>
@@ -34,32 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003735987?sid=104" class="nclicks(rig.secteco)" title="바이든 “中, 대만 침공땐 미군 직접 군사 개입”">바이든 “中, 대만 침공땐 미군 직접 군사 개입”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걸어간 마크롱…英여왕과 마지막 인사나선 정상들 [포착]]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001553733?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001553733?sid=104"/>
-        <updated>2022-09-19T08:27:13.791Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001553733?sid=104" class="nclicks(rig.secteco)" title="걸어간 마크롱…英여왕과 마지막 인사나선 정상들 [포착]">걸어간 마크롱…英여왕과 마지막 인사나선 정상들 [포착]</a>]]></content>
+        <title type="html"><![CDATA[OECD “2022년 한국 성장률 2.8%” 전망치 0.1%P 상향했지만…]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003736023?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003736023?sid=101"/>
+        <updated>2022-09-19T11:15:30.359Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003736023?sid=101" class="nclicks(rig.secteco)" title="OECD “2022년 한국 성장률 2.8%” 전망치 0.1%P 상향했지만…">OECD “2022년 한국 성장률 2.8%” 전망치 0.1%P 상향했지만…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부산 시내 달리는 버스 1000대, 수소버스로 교체…현대차·SK E&S와 협약]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000841542?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000841542?sid=101"/>
-        <updated>2022-09-19T10:20:56.374Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000841542?sid=101" class="nclicks(rig.secteco)" title="부산 시내 달리는 버스 1000대, 수소버스로 교체…현대차·SK E&amp;S와 협약">부산 시내 달리는 버스 1000대, 수소버스로 교체…현대차·SK E&amp;S와 협약</a>]]></content>
+        <title type="html"><![CDATA[이베코 손잡은 현대차…7톤급 ‘e데일리 수소전기차’ 세계 첫 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002754721?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002754721?sid=101"/>
+        <updated>2022-09-19T11:15:30.361Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002754721?sid=101" class="nclicks(rig.secteco)" title="이베코 손잡은 현대차…7톤급 ‘e데일리 수소전기차’ 세계 첫 공개">이베코 손잡은 현대차…7톤급 ‘e데일리 수소전기차’ 세계 첫 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OECD, 올해 韓성장률 0.1%p↑ 2.8%…물가전망 5.2%로 상향(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006342729?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006342729?sid=101"/>
-        <updated>2022-09-19T10:20:56.376Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006342729?sid=101" class="nclicks(rig.secteco)" title="OECD, 올해 韓성장률 0.1%p↑ 2.8%…물가전망 5.2%로 상향(종합)">OECD, 올해 韓성장률 0.1%p↑ 2.8%…물가전망 5.2%로 상향(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차·이베코그룹, 밴 수소전기차 ‘이데일리’ 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002606810?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002606810?sid=101"/>
-        <updated>2022-09-19T10:20:56.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002606810?sid=101" class="nclicks(rig.secteco)" title="현대차·이베코그룹, 밴 수소전기차 ‘이데일리’ 공개">현대차·이베코그룹, 밴 수소전기차 ‘이데일리’ 공개</a>]]></content>
+        <title type="html"><![CDATA[완전자율주행 버스·드론택시 2025년 상용화]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003736036?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003736036?sid=101"/>
+        <updated>2022-09-19T11:15:30.362Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003736036?sid=101" class="nclicks(rig.secteco)" title="완전자율주행 버스·드론택시 2025년 상용화">완전자율주행 버스·드론택시 2025년 상용화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화웨이, 美 제재 넘길 새 무기는 클라우드…“일대일로 세계 시장 공략”]]></title>
