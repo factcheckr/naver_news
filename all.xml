@@ -2,6 +2,216 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-25T05:37:43.127Z</updated>
+    <updated>2022-09-25T06:24:56.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유성기업 노동자 죽음…“검찰의 기업 비호 탓” (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/152/0001959099</id>
+        <link href="https://n.news.naver.com/mnews/article/152/0001959099"/>
+        <updated>2022-09-25T06:24:48.288Z</updated>
+        <content type="html"><![CDATA[참세상]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모님 투표 막자는 與김한규, 어제는 사과, 오늘은 부인 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003523598</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003523598"/>
+        <updated>2022-09-25T06:24:48.290Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[총선 D-1] 박형준 "고민정 당선 시 재난지원금?…국모하사금이냐" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0011546710</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0011546710"/>
+        <updated>2022-09-25T06:24:48.300Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통합당, ‘통합당 투표 않게 설득’ 민주 김한규 후보 고발 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0010819416</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0010819416"/>
+        <updated>2022-09-25T06:24:48.300Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총선 막판 네거티브 기승…막말·폭로·고발전에 폭력까지(종합) (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0009816213</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0009816213"/>
+        <updated>2022-09-25T06:24:48.300Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김한규 캠프가 카톡 지령? 누가 '흑색선전' 퍼트리나 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003349178</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003349178"/>
+        <updated>2022-09-25T06:24:48.300Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래통합당, '노인투표 방해 논란' 김한규 검찰 고발 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0004661332</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0004661332"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[총선2020] '논란의 후보'를 대하는 與의 자세…"너무 사소한 것까지 다… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002395929</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002395929"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형준 "고민정 당선 시 재난지원금, 국모 하사금인가" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0003724413</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0003724413"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남국, 작년 팟캐스트 출연 성적 비하 호응···‘속속 터지는 막말 리… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003003539</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003003539"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 박형준 "18억 재산 모은 태구민, 그것이 남과 북 차이" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003348926</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003348926"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[총선2020] "부모님 투표소 못 가게 하라"…제2의 '노인 폄하' 사태 될… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002395826</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002395826"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박형준 "'노인 투표 못하게 소문' 이번에 확인된 것" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003348912</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003348912"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2번 찍으려는 부모님 투표장 못가게 하자" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003523412</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003523412"/>
+        <updated>2022-09-25T06:24:48.303Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[총선 D-2] "2번찍을 어르신 투표않도록" 카톡강령…김한규 "공식입장 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0011545272</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0011545272"/>
+        <updated>2022-09-25T06:24:48.313Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]"2번 지지 부모님 투표장 못가게" 與 김한규 캠프 카톡강령 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003523196</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003523196"/>
+        <updated>2022-09-25T06:24:48.314Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남국과 김한규 캠프 막말 논란…8년 전 '김용민 악몽'에 떤다 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0002992499</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0002992499"/>
+        <updated>2022-09-25T06:24:48.315Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與, 총선 코앞 후보들 둘러싼 논란에 촉각…악재 차단 고심 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0009813847</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0009813847"/>
+        <updated>2022-09-25T06:24:48.316Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[총선 D-2] 막판 네거티브 캠페인 '기승'…여야 격전지 상대 '흠집내기' (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0011545933</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0011545933"/>
+        <updated>2022-09-25T06:24:48.317Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['부모님 투표 못 하게'...김한규 측 카톡방 논란 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001427713</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001427713"/>
+        <updated>2022-09-25T06:24:48.318Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["노인 투표 포기 논란 김한규 제명하라"…김 "공식 의견 아냐" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004393946</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004393946"/>
+        <updated>2022-09-25T06:24:48.321Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주 김한규 측 “‘통합당 투표 않게 설득’, 공식입장 아냐” 통합 “당장 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0010818785</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0010818785"/>
+        <updated>2022-09-25T06:24:48.333Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["2번 찍을 부모님 코로나로 못 나가게···" 김한규측 카톡 논란 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0002992445</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0002992445"/>
+        <updated>2022-09-25T06:24:48.336Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김한규 측, '오픈 채팅방' 논란에 "공식의견 아냐" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0009813506</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0009813506"/>
+        <updated>2022-09-25T06:24:48.337Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['딸 인턴비서로 채용' 서영교 의원 고발당해 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0008496707</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0008496707"/>
+        <updated>2022-09-25T06:24:48.346Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빼돌리고 남은 기름 재탕삼탕…충암고 급식비리 백태 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0007893495</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0007893495"/>
+        <updated>2022-09-25T06:24:48.349Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[히든트랙] '욕설 난무' 축구장, 팬이 팬을 쫓아낸다 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/436/0000016458</id>
+        <link href="https://n.news.naver.com/mnews/article/436/0000016458"/>
+        <updated>2022-09-25T06:24:48.361Z</updated>
+        <content type="html"><![CDATA[풋볼리스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지속된 왕따에 주먹 날린 중학생…처벌은 '쌍방 징계'? (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000059543</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000059543"/>
+        <updated>2022-09-25T06:24:48.362Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰 "유병언 휴대전화 위치 추적... 금수원 내에 있는 것 확인" (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000005014</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000005014"/>
+        <updated>2022-09-25T06:24:48.365Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰, 신계륜·김재윤 의원 뇌물혐의 포착(종합) (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0007050963</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0007050963"/>
+        <updated>2022-09-25T06:24:48.365Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
 </feed>
