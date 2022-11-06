@@ -2,216 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-06T04:26:29.202Z</updated>
+    <updated>2022-11-06T05:15:11.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[데일리안 여론조사] 서울시교육감 조희연 선두…'보수후보 3명 합산' 보다는 낮아 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002607008?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002607008?sid=100"/>
-        <updated>2022-11-06T04:26:28.464Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
+        <title type="html"><![CDATA[[속보] 尹·김건희 부부 법회·예배 이어 명동성당 추모 미사 참석 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000782804?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000782804?sid=100"/>
+        <updated>2022-11-06T05:14:49.527Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000782804?sid=100" class="nclicks(rig.secteco)" title="[속보] 尹·김건희 부부 법회·예배 이어 명동성당 추모 미사 참석">[속보] 尹·김건희 부부 법회·예배 이어 명동성당 추모 미사 참석</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[데일리안 여론조사] 조전혁이 조희연에 앞서…서울시교육감 가상 양자대결 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002607009?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002607009?sid=100"/>
-        <updated>2022-11-06T04:26:28.467Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
+        <title type="html"><![CDATA[박홍근 "윤석열 정부, 왜 그토록 사과에 인색하고 주저하는지…지금 필요한것은 석고대죄" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000932953?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000932953?sid=100"/>
+        <updated>2022-11-06T05:14:49.530Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000932953?sid=100" class="nclicks(rig.secteco)" title="박홍근 &quot;윤석열 정부, 왜 그토록 사과에 인색하고 주저하는지…지금 필요한것은 석고대죄&quot;">박홍근 "윤석열 정부, 왜 그토록 사과에 인색하고 주저하는지…지금 필요한것은 석고대죄"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '변호사비 대납 의혹' S사 실소유주, 김동연 출마하자 고액 후원 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000360889?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000360889?sid=100"/>
-        <updated>2022-11-06T04:26:28.467Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
+        <title type="html"><![CDATA[[단독] 尹퇴진 촛불집회, 민주당 조직도 전국서 참가자 동원했다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003726620?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003726620?sid=100"/>
+        <updated>2022-11-06T05:14:49.534Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003726620?sid=100" class="nclicks(rig.secteco)" title="[단독] 尹퇴진 촛불집회, 민주당 조직도 전국서 참가자 동원했다">[단독] 尹퇴진 촛불집회, 민주당 조직도 전국서 참가자 동원했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우승희 ‘현금 동원’ 권리당원 불법 모집 의혹 불거져 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000151066?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000151066?sid=100"/>
-        <updated>2022-11-06T04:26:28.467Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[[단독] 머스크 감원 칼춤...트위터 코리아 직원도 50% 잘랐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005040607?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005040607?sid=104"/>
+        <updated>2022-11-06T05:14:49.550Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005040607?sid=104" class="nclicks(rig.secteco)" title="[단독] 머스크 감원 칼춤...트위터 코리아 직원도 50% 잘랐다">[단독] 머스크 감원 칼춤...트위터 코리아 직원도 50% 잘랐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[현장에서] 삭발·정당색깔 점퍼…‘교육’ 실종된 교육감 유세 현장 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003196225?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003196225?sid=100"/>
-        <updated>2022-11-06T04:26:28.467Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[조용한 COP27?… 기후시위 통제하는 이집트 [COP27 '기후정의'를 외치다] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003751351?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003751351?sid=104"/>
+        <updated>2022-11-06T05:14:49.552Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003751351?sid=104" class="nclicks(rig.secteco)" title="조용한 COP27?… 기후시위 통제하는 이집트 [COP27 '기후정의'를 외치다]">조용한 COP27?… 기후시위 통제하는 이집트 [COP27 '기후정의'를 외치다]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 서울 원정 건강검진비 할인 특혜 의혹 이춘희 세종시장 수사 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000037760?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000037760?sid=100"/>
-        <updated>2022-11-06T04:26:28.467Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
+        <title type="html"><![CDATA[이재현 CJ 회장 모친 손복남 고문 별세...“CJ 탄생의 숨은 주역” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003236228?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003236228?sid=101"/>
+        <updated>2022-11-06T05:14:49.553Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003236228?sid=101" class="nclicks(rig.secteco)" title="이재현 CJ 회장 모친 손복남 고문 별세...“CJ 탄생의 숨은 주역”">이재현 CJ 회장 모친 손복남 고문 별세...“CJ 탄생의 숨은 주역”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[경기교육감 적합도] ‘보수 단일’ 임태희 선두... 진보 단일화 ‘변수’ (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002349956?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002349956?sid=100"/>
-        <updated>2022-11-06T04:26:28.471Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
+        <title type="html"><![CDATA["이자 줄이자" 덜컥 받았다 낭패… '금리상한형 주담대' 주의점은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004814505?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004814505?sid=101"/>
+        <updated>2022-11-06T05:14:49.555Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004814505?sid=101" class="nclicks(rig.secteco)" title="&quot;이자 줄이자&quot; 덜컥 받았다 낭패… '금리상한형 주담대' 주의점은">"이자 줄이자" 덜컥 받았다 낭패… '금리상한형 주담대' 주의점은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기지사 통틀어 김은혜 1위…국힘 내는 유승민 [KSOI] (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004043259?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004043259?sid=100"/>
-        <updated>2022-11-06T04:26:28.491Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
+        <title type="html"><![CDATA[포스코케미칼, 협력사 임원 임기·연봉 정하고 낙하산 파견 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013556386?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013556386?sid=101"/>
+        <updated>2022-11-06T05:14:49.556Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013556386?sid=101" class="nclicks(rig.secteco)" title="포스코케미칼, 협력사 임원 임기·연봉 정하고 낙하산 파견">포스코케미칼, 협력사 임원 임기·연봉 정하고 낙하산 파견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이춘희 세종시장 아파트 특공 ‘시장 찬스’ 논란…”반납해야“ 비난엔 ‘침묵’ (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000037582?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000037582?sid=100"/>
-        <updated>2022-11-06T04:26:28.491Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
+        <title type="html"><![CDATA[디지코 KT, WCA2022서 '올해의 통신사상' 등 3개 부문 수상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002655067?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002655067?sid=105"/>
+        <updated>2022-11-06T05:14:49.568Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002655067?sid=105" class="nclicks(rig.secteco)" title="디지코 KT, WCA2022서 '올해의 통신사상' 등 3개 부문 수상">디지코 KT, WCA2022서 '올해의 통신사상' 등 3개 부문 수상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 이춘희 세종시장 재산 신고 ‘특공’ 아파트 취득 논란일 듯 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000037378?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000037378?sid=100"/>
-        <updated>2022-11-06T04:26:28.491Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
+        <title type="html"><![CDATA[과기정통부 "OTT·메타버스·크리에이터 미디어 성장 엔진으로 육성" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005172923?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005172923?sid=105"/>
+        <updated>2022-11-06T05:14:49.574Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005172923?sid=105" class="nclicks(rig.secteco)" title="과기정통부 &quot;OTT·메타버스·크리에이터 미디어 성장 엔진으로 육성&quot;">과기정통부 "OTT·메타버스·크리에이터 미디어 성장 엔진으로 육성"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당 기장군수 후보 적합도 조사서 우성빈 군의원 우세 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002238506?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002238506?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
+        <title type="html"><![CDATA[11시20분 첫 보고 받은 이상민 장관, 이전 행적은 오리무중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005172912?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005172912?sid=102"/>
+        <updated>2022-11-06T05:14:49.576Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005172912?sid=102" class="nclicks(rig.secteco)" title="11시20분 첫 보고 받은 이상민 장관, 이전 행적은 오리무중">11시20분 첫 보고 받은 이상민 장관, 이전 행적은 오리무중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안동시장 예비후보 학술논문 표절 '논란' (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011096738?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011096738?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
+        <title type="html"><![CDATA[경찰 기동대, 이태원 사고 85분 지나 첫 현장 도착 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000852751?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000852751?sid=102"/>
+        <updated>2022-11-06T05:14:49.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000852751?sid=102" class="nclicks(rig.secteco)" title="경찰 기동대, 이태원 사고 85분 지나 첫 현장 도착">경찰 기동대, 이태원 사고 85분 지나 첫 현장 도착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘 공천 앞두고 안동시장 예비후보들 도덕성 자질 의혹 '무성' (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000139950?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000139950?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
+        <title type="html"><![CDATA[기관차에 부딪힌 철도노동자 또 숨져…중대재해법 시행 뒤 4번째 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002613508?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002613508?sid=102"/>
+        <updated>2022-11-06T05:14:49.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002613508?sid=102" class="nclicks(rig.secteco)" title="기관차에 부딪힌 철도노동자 또 숨져…중대재해법 시행 뒤 4번째">기관차에 부딪힌 철도노동자 또 숨져…중대재해법 시행 뒤 4번째</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주 “美 타임지, 이재명 유력 당선인으로 보고 있다” (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0001959716?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0001959716?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
+        <title type="html"><![CDATA[현대차·국립현대미술관, 실험적 아이디어 ‘프로젝트 해시태그’ 작품 선정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004118708?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004118708?sid=103"/>
+        <updated>2022-11-06T05:14:49.579Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004118708?sid=103" class="nclicks(rig.secteco)" title="현대차·국립현대미술관, 실험적 아이디어 ‘프로젝트 해시태그’ 작품 선정">현대차·국립현대미술관, 실험적 아이디어 ‘프로젝트 해시태그’ 작품 선정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대 당선 후보 족집게 인터뷰 美 타임지, 이번엔 이재명 기사 게재 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000004468?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000004468?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[대전일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노컷체크]윤석열, 우크라전쟁 똑바로 알고 있나 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003614480?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003614480?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 침공에 李 “우크라 초보정치인 책임” 발언 부적절 논란 계속 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003675451?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003675451?sid=100"/>
-        <updated>2022-11-06T04:26:28.498Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우크라 사태 본질 모르는 윤석열, 이런 사람이 대선후보라니..." (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002343890?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002343890?sid=100"/>
-        <updated>2022-11-06T04:26:28.507Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아, 우크라 침공에…이재명 “우리와 관계없지만, 주가는 하락” (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000795844?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000795844?sid=100"/>
-        <updated>2022-11-06T04:26:28.508Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“엽기 굿판에 윤석열 부부 연등 사진”…국민의힘 “마타도어” (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002579356?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002579356?sid=100"/>
-        <updated>2022-11-06T04:26:28.508Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외신 "제2의 한국전쟁 가능성"…푸틴-윤석열 어떤 관계길래 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003607202?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003607202?sid=100"/>
-        <updated>2022-11-06T04:26:28.510Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[횡령궁' 김혜경 스캔들, 대장동과 조국이 울고 간다 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002573044?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002573044?sid=100"/>
-        <updated>2022-11-06T04:26:28.511Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야권 단일화시 윤석열·안철수, 모두 이재명 추월[대선 한달 前] (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0010982928?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0010982928?sid=100"/>
-        <updated>2022-11-06T04:26:28.512Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인권변호사 이재명? ①] 살인범·조폭·음주운전 변호도 '인권'인가요? (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002571845?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002571845?sid=100"/>
-        <updated>2022-11-06T04:26:28.512Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 후보의 ‘개 사과’보다 李 후보의 ‘욕 사과’에 더 화가 난 이유 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003669512?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003669512?sid=100"/>
-        <updated>2022-11-06T04:26:28.516Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지지율 상승세 윤석열, 당선가능성도 5주만에 이재명에 역전 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002717344?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002717344?sid=100"/>
-        <updated>2022-11-06T04:26:28.516Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 42.0% vs 이재명 36.8%...당선가능성도 尹 앞서 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002569663?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002569663?sid=100"/>
-        <updated>2022-11-06T04:26:28.517Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4주만에 뒤집힌 ‘통합지지율’...윤석열 36.1% vs 이재명 35.7% (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004699672?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004699672?sid=100"/>
-        <updated>2022-11-06T04:26:28.517Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대선 뒷담화] 무속 논란 윤석열, 성경 끼고 교회 가려나 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/308/0000030117?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/308/0000030117?sid=100"/>
-        <updated>2022-11-06T04:26:28.518Z</updated>
-        <content type="html"><![CDATA[시사IN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석 이재명, 준비 안 해놓고 ‘환경 탓…거짓말쟁이 (네이버 뉴스 ─ 정정보도모음 ─ 불공정 선거보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000349615?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000349615?sid=100"/>
-        <updated>2022-11-06T04:26:28.518Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
+        <title type="html"><![CDATA['정훈이 만화' 작가 정훈, 백혈병 투병 중 별세…향년 50세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003751346?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003751346?sid=103"/>
+        <updated>2022-11-06T05:14:49.580Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003751346?sid=103" class="nclicks(rig.secteco)" title="'정훈이 만화' 작가 정훈, 백혈병 투병 중 별세…향년 50세">'정훈이 만화' 작가 정훈, 백혈병 투병 중 별세…향년 50세</a>]]></content>
     </entry>
 </feed>
