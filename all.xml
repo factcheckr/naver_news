@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-18T20:18:40.599Z</updated>
+    <updated>2022-11-18T21:15:04.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[금투세 2년 유예] 도입 시기 놓고 '갈팡질팡'… 여야 접점 도출할까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000870699?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000870699?sid=100"/>
+        <updated>2022-11-18T21:14:31.795Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000870699?sid=100" class="nclicks(rig.secteco)" title="[금투세 2년 유예] 도입 시기 놓고 '갈팡질팡'… 여야 접점 도출할까">[금투세 2년 유예] 도입 시기 놓고 '갈팡질팡'… 여야 접점 도출할까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 “MBC, 가짜뉴스로 동맹 이간질”… 野 “비뚤어진 언론관” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003463179?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463179?sid=100" class="nclicks(rig.secteco)" title="尹 “MBC, 가짜뉴스로 동맹 이간질”… 野 “비뚤어진 언론관”">尹 “MBC, 가짜뉴스로 동맹 이간질”… 野 “비뚤어진 언론관”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 "금투세 '조건부' 유예" vs 與 "사실상 증권거래세 '폐지'" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002290858?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002290858?sid=100"/>
-        <updated>2022-11-18T20:18:10.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002290858?sid=100" class="nclicks(rig.secteco)" title="野 &quot;금투세 '조건부' 유예&quot; vs 與 &quot;사실상 증권거래세 '폐지'&quot;">野 "금투세 '조건부' 유예" vs 與 "사실상 증권거래세 '폐지'"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]“전투기 모는 빈 살만 동생 고리로 방산수출 논의” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463182?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463182?sid=100"/>
-        <updated>2022-11-18T18:21:45.617Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463182?sid=100" class="nclicks(rig.secteco)" title="[단독]“전투기 모는 빈 살만 동생 고리로 방산수출 논의”">[단독]“전투기 모는 빈 살만 동생 고리로 방산수출 논의”</a>]]></content>
+        <title type="html"><![CDATA[[뉴스큐] 북한, '화성 17형' 추정 ICBM 발사...발사 성공? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001815433?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001815433?sid=100"/>
+        <updated>2022-11-18T21:14:31.808Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001815433?sid=100" class="nclicks(rig.secteco)" title="[뉴스큐] 북한, '화성 17형' 추정 ICBM 발사...발사 성공?">[뉴스큐] 북한, '화성 17형' 추정 ICBM 발사...발사 성공?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프 연설문 찢고 위안부 결의문 앞장… 美 정치판 바꾼 ‘센 언니’ 퇴장 [뉴스+] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,18 +89,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239477?sid=102" class="nclicks(rig.secteco)" title="[단독] 노웅래 자택 돈다발은 3억대…文정부 고위직으로 수사 확대되나">[단독] 노웅래 자택 돈다발은 3억대…文정부 고위직으로 수사 확대되나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["어제 서서 탔는데, 내리라니"…광역버스 입석금지 첫날 출근길 표정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003239585?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003239585?sid=102"/>
-        <updated>2022-11-18T19:13:15.690Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239585?sid=102" class="nclicks(rig.secteco)" title="&quot;어제 서서 탔는데, 내리라니&quot;…광역버스 입석금지 첫날 출근길 표정">"어제 서서 탔는데, 내리라니"…광역버스 입석금지 첫날 출근길 표정</a>]]></content>
+        <title type="html"><![CDATA[특수본, '이태원 참사' 박희영 용산구청장 14시간 고강도 조사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005179737?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005179737?sid=102"/>
+        <updated>2022-11-18T21:14:31.848Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005179737?sid=102" class="nclicks(rig.secteco)" title="특수본, '이태원 참사' 박희영 용산구청장 14시간 고강도 조사">특수본, '이태원 참사' 박희영 용산구청장 14시간 고강도 조사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 전국 구름 많고 '쌀쌀'… 제주·강원·경북 비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000870696?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000870696?sid=103"/>
-        <updated>2022-11-18T20:18:10.367Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000870696?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 전국 구름 많고 '쌀쌀'… 제주·강원·경북 비">[오늘 날씨] 전국 구름 많고 '쌀쌀'… 제주·강원·경북 비</a>]]></content>
+        <title type="html"><![CDATA[[오늘 날씨] 전국 구름 많고 일교차 최대 15도…일부 지역 빗방울 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006468147?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006468147?sid=103"/>
+        <updated>2022-11-18T21:14:31.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006468147?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 전국 구름 많고 일교차 최대 15도…일부 지역 빗방울">[오늘 날씨] 전국 구름 많고 일교차 최대 15도…일부 지역 빗방울</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GM, 전기차 앞세워 실적 전망 상향… “2025년 EV 연간 100만대 생산” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
