@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-19T19:13:03.574Z</updated>
+    <updated>2022-11-19T20:16:31.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[‘첫 등장’ 김정은 딸, 손 잡고 ICBM 참관···김정은 “핵에는 핵으로” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003187290?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003187290?sid=100"/>
-        <updated>2022-11-19T13:24:55.035Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003187290?sid=100" class="nclicks(rig.secteco)" title="‘첫 등장’ 김정은 딸, 손 잡고 ICBM 참관···김정은 “핵에는 핵으로”">‘첫 등장’ 김정은 딸, 손 잡고 ICBM 참관···김정은 “핵에는 핵으로”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[한반도 긴장 고조…北 ICBM 발사 도발에 美전략폭격기 B-1B 재전개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004819902?sid=100</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004819902?sid=100" class="nclicks(rig.secteco)" title="한반도 긴장 고조…北 ICBM 발사 도발에 美전략폭격기 B-1B 재전개">한반도 긴장 고조…北 ICBM 발사 도발에 美전략폭격기 B-1B 재전개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정진상 구속에 이재명 "유검무죄 무검유죄"…與 "사필귀정" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000034085?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000034085?sid=100"/>
-        <updated>2022-11-19T14:13:48.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000034085?sid=100" class="nclicks(rig.secteco)" title="정진상 구속에 이재명 &quot;유검무죄 무검유죄&quot;…與 &quot;사필귀정&quot;">정진상 구속에 이재명 "유검무죄 무검유죄"…與 "사필귀정"</a>]]></content>
+        <title type="html"><![CDATA[유승민, 尹 대통령 겨냥 "말 실수 깨끗이 사과하고 지나가면 됐을 일" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000784977?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000784977?sid=100"/>
+        <updated>2022-11-19T20:15:56.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000784977?sid=100" class="nclicks(rig.secteco)" title="유승민, 尹 대통령 겨냥 &quot;말 실수 깨끗이 사과하고 지나가면 됐을 일&quot;">유승민, 尹 대통령 겨냥 "말 실수 깨끗이 사과하고 지나가면 됐을 일"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아빠 손 꼭 잡고…전략핵 시험발사에 '김정은 백두혈통' 총출동 까닭은? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003708841?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003708841?sid=100"/>
+        <updated>2022-11-19T20:15:56.686Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003708841?sid=100" class="nclicks(rig.secteco)" title="아빠 손 꼭 잡고…전략핵 시험발사에 '김정은 백두혈통' 총출동 까닭은?">아빠 손 꼭 잡고…전략핵 시험발사에 '김정은 백두혈통' 총출동 까닭은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[APEC, '러 침공 비판' 성명 채택…"비공개 회의 때 北미사일도 우려 표명" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,11 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011545617?sid=104" class="nclicks(rig.secteco)" title="APEC, '러 침공 비판' 성명 채택…&quot;비공개 회의 때 北미사일도 우려 표명&quot;">APEC, '러 침공 비판' 성명 채택…"비공개 회의 때 北미사일도 우려 표명"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 펜스 “文, 나와 김여정 만남 주선에 열렬… 고의로 지각하고 거리 유지했다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003729475?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003729475?sid=104"/>
-        <updated>2022-11-19T15:15:31.947Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003729475?sid=104" class="nclicks(rig.secteco)" title="[단독] 펜스 “文, 나와 김여정 만남 주선에 열렬… 고의로 지각하고 거리 유지했다”">[단독] 펜스 “文, 나와 김여정 만남 주선에 열렬… 고의로 지각하고 거리 유지했다”</a>]]></content>
+        <title type="html"><![CDATA[펜스 美 前부통령 "경호국 반대에도 무장 북한군 코앞까지 갔다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013587465?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013587465?sid=104"/>
+        <updated>2022-11-19T20:15:56.690Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013587465?sid=104" class="nclicks(rig.secteco)" title="펜스 美 前부통령 &quot;경호국 반대에도 무장 북한군 코앞까지 갔다&quot;">펜스 美 前부통령 "경호국 반대에도 무장 북한군 코앞까지 갔다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이병철 창업회장 제사상, 12년 만에 장충동 고택서 차려져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000185457?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000185457?sid=101"/>
+        <updated>2022-11-19T20:15:56.695Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000185457?sid=101" class="nclicks(rig.secteco)" title="이병철 창업회장 제사상, 12년 만에 장충동 고택서 차려져">이병철 창업회장 제사상, 12년 만에 장충동 고택서 차려져</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스속 용어]휘발유·경유·등유…특징과 차이점은? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -45,13 +52,6 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005179772?sid=101"/>
         <updated>2022-11-19T16:20:21.489Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005179772?sid=101" class="nclicks(rig.secteco)" title="[뉴스속 용어]휘발유·경유·등유…특징과 차이점은?">[뉴스속 용어]휘발유·경유·등유…특징과 차이점은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재계-in] 사우디 왕세자 방한에 재계 들썩…尹대통령 체면 세워준 정의선 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002659366?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002659366?sid=101"/>
-        <updated>2022-11-19T19:12:31.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002659366?sid=101" class="nclicks(rig.secteco)" title="[재계-in] 사우디 왕세자 방한에 재계 들썩…尹대통령 체면 세워준 정의선">[재계-in] 사우디 왕세자 방한에 재계 들썩…尹대통령 체면 세워준 정의선</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘네옴시티’라는 사막의 꿈…와, 이게 정말 현실이 된다고?[딥다이브] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002274142?sid=105" class="nclicks(rig.secteco)" title="하이브-하이브IM, '별이되어라2' 퍼블리싱 발표...게임사업 의지 밝혀">하이브-하이브IM, '별이되어라2' 퍼블리싱 발표...게임사업 의지 밝혀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수능·팬데믹 끝나 물오른 지스타…"그래도 안전이 최우선" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004123972?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004123972?sid=105"/>
-        <updated>2022-11-19T19:12:31.702Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004123972?sid=105" class="nclicks(rig.secteco)" title="수능·팬데믹 끝나 물오른 지스타…&quot;그래도 안전이 최우선&quot;">수능·팬데믹 끝나 물오른 지스타…"그래도 안전이 최우선"</a>]]></content>
+        <title type="html"><![CDATA[[아!이뉴스] 과기부, 28㎓ 신규 사업자 적극 추진…'칼리스토 프로토콜' 인기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000711484?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000711484?sid=105"/>
+        <updated>2022-11-19T20:15:56.704Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000711484?sid=105" class="nclicks(rig.secteco)" title="[아!이뉴스] 과기부, 28㎓ 신규 사업자 적극 추진…'칼리스토 프로토콜' 인기">[아!이뉴스] 과기부, 28㎓ 신규 사업자 적극 추진…'칼리스토 프로토콜' 인기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 도심 "尹 퇴진" 촛불집회...보수단체도 맞불 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001815820?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001815820?sid=102"/>
-        <updated>2022-11-19T19:12:31.704Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001815820?sid=102" class="nclicks(rig.secteco)" title="서울 도심 &quot;尹 퇴진&quot; 촛불집회...보수단체도 맞불">서울 도심 "尹 퇴진" 촛불집회...보수단체도 맞불</a>]]></content>
+        <title type="html"><![CDATA[세종대로 가득 메운 촛불... "반성 안하는 윤 대통령 내려와라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002373380?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002373380?sid=102"/>
+        <updated>2022-11-19T20:15:56.707Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002373380?sid=102" class="nclicks(rig.secteco)" title="세종대로 가득 메운 촛불... &quot;반성 안하는 윤 대통령 내려와라&quot;">세종대로 가득 메운 촛불... "반성 안하는 윤 대통령 내려와라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]'45억 사기 혐의' 박상완 체포…공개수배 하루만 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
