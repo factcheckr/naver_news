@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-20T11:13:18.386Z</updated>
+    <updated>2022-11-20T12:28:10.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370886?sid=100" class="nclicks(rig.secteco)" title="딸 꼭 껴안은 '아빠' 김정은…北, 미공개 사진 추가 공개">딸 꼭 껴안은 '아빠' 김정은…北, 미공개 사진 추가 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령실 "김여사 프놈펜 심장병 아동 방문 때 조명? 사실무근"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013588285?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013588285?sid=100"/>
-        <updated>2022-11-20T09:14:45.944Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013588285?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;김여사 프놈펜 심장병 아동 방문 때 조명? 사실무근&quot;(종합)">대통령실 "김여사 프놈펜 심장병 아동 방문 때 조명? 사실무근"(종합)</a>]]></content>
+        <title type="html"><![CDATA[‘김건희 조명’ 주장한 장경태, 근거로 댄 건 커뮤니티 추정 글뿐]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003729556?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003729556?sid=100"/>
+        <updated>2022-11-20T12:27:42.304Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003729556?sid=100" class="nclicks(rig.secteco)" title="‘김건희 조명’ 주장한 장경태, 근거로 댄 건 커뮤니티 추정 글뿐">‘김건희 조명’ 주장한 장경태, 근거로 댄 건 커뮤니티 추정 글뿐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기후재앙 '손실·피해' 보상, 역사적 첫발 뗐지만...구체성 결여 비판도]]></title>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000708534?sid=104" class="nclicks(rig.secteco)" title="기후재앙 '손실·피해' 보상, 역사적 첫발 뗐지만...구체성 결여 비판도">기후재앙 '손실·피해' 보상, 역사적 첫발 뗐지만...구체성 결여 비판도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463257?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104"/>
-        <updated>2022-11-20T11:12:45.430Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104" class="nclicks(rig.secteco)" title="머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]">머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003756137?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003756137?sid=101"/>
-        <updated>2022-11-20T11:12:45.433Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756137?sid=101" class="nclicks(rig.secteco)" title="정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고">정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고</a>]]></content>
+        <title type="html"><![CDATA["트럼프 계정 퇴출, 옳지 않아" 트럼프 트위터 복구한 머스크]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002373419?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002373419?sid=104"/>
+        <updated>2022-11-20T12:27:42.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002373419?sid=104" class="nclicks(rig.secteco)" title="&quot;트럼프 계정 퇴출, 옳지 않아&quot; 트럼프 트위터 복구한 머스크">"트럼프 계정 퇴출, 옳지 않아" 트럼프 트위터 복구한 머스크</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자금 경색 우려감 여전… 한은, 이번엔 ‘베이비스텝’ 밟을 듯]]></title>
@@ -55,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756126?sid=101" class="nclicks(rig.secteco)" title="자금 경색 우려감 여전… 한은, 이번엔 ‘베이비스텝’ 밟을 듯">자금 경색 우려감 여전… 한은, 이번엔 ‘베이비스텝’ 밟을 듯</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003756137?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003756137?sid=101"/>
+        <updated>2022-11-20T11:12:45.433Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756137?sid=101" class="nclicks(rig.secteco)" title="정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고">정부, ‘野 금투세 조건부 유예안’ 거부… 예산정국 격랑 예고</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[빗장 풀리는 보험업…생보사도 '펫보험 자회사' 가능]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004777054?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/015/0004777054?sid=101"/>
@@ -62,39 +62,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004777054?sid=101" class="nclicks(rig.secteco)" title="빗장 풀리는 보험업…생보사도 '펫보험 자회사' 가능">빗장 풀리는 보험업…생보사도 '펫보험 자회사' 가능</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년 만에 완전체 '지스타 2022' 폐막…18만4000명 다녀갔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006469596?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006469596?sid=105"/>
-        <updated>2022-11-20T11:12:45.438Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006469596?sid=105" class="nclicks(rig.secteco)" title="3년 만에 완전체 '지스타 2022' 폐막…18만4000명 다녀갔다">3년 만에 완전체 '지스타 2022' 폐막…18만4000명 다녀갔다</a>]]></content>
+        <title type="html"><![CDATA[[지스타 2022]코로나 이전 규모 회복…'볼거리·안전 잡았다']]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000011848?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000011848?sid=105"/>
+        <updated>2022-11-20T12:27:42.316Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000011848?sid=105" class="nclicks(rig.secteco)" title="[지스타 2022]코로나 이전 규모 회복…'볼거리·안전 잡았다'">[지스타 2022]코로나 이전 규모 회복…'볼거리·안전 잡았다'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초유의 5G 주파수 할당 취소…3가지 후폭풍[김현아의 IT세상읽기]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005370840?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005370840?sid=105"/>
-        <updated>2022-11-20T11:12:45.441Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370840?sid=105" class="nclicks(rig.secteco)" title="초유의 5G 주파수 할당 취소…3가지 후폭풍[김현아의 IT세상읽기]">초유의 5G 주파수 할당 취소…3가지 후폭풍[김현아의 IT세상읽기]</a>]]></content>
+        <title type="html"><![CDATA[네이버·한전, 28㎓ 할당 받아 B2B 통신사업 뛰어들듯]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002767489?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002767489?sid=105"/>
+        <updated>2022-11-20T12:27:42.320Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002767489?sid=105" class="nclicks(rig.secteco)" title="네이버·한전, 28㎓ 할당 받아 B2B 통신사업 뛰어들듯">네이버·한전, 28㎓ 할당 받아 B2B 통신사업 뛰어들듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정진상 영장 발부한 법원..."증거인멸·도망 우려" 4가지 증거]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003239778?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003239778?sid=102"/>
-        <updated>2022-11-20T10:16:31.388Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239778?sid=102" class="nclicks(rig.secteco)" title="정진상 영장 발부한 법원...&quot;증거인멸·도망 우려&quot; 4가지 증거">정진상 영장 발부한 법원..."증거인멸·도망 우려" 4가지 증거</a>]]></content>
+        <title type="html"><![CDATA[결국 구속된 '최측근'… ‘檢 앞에 촛불’ 이재명]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003756106?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003756106?sid=102"/>
+        <updated>2022-11-20T12:27:42.326Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756106?sid=102" class="nclicks(rig.secteco)" title="결국 구속된 '최측근'… ‘檢 앞에 촛불’ 이재명">결국 구속된 '최측근'… ‘檢 앞에 촛불’ 이재명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특수본, 내일 용산경찰서장·소방서장 소환…피의자 확대 관측(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011547024?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011547024?sid=102"/>
-        <updated>2022-11-20T11:12:45.445Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011547024?sid=102" class="nclicks(rig.secteco)" title="특수본, 내일 용산경찰서장·소방서장 소환…피의자 확대 관측(종합)">특수본, 내일 용산경찰서장·소방서장 소환…피의자 확대 관측(종합)</a>]]></content>
+        <title type="html"><![CDATA[특수본, 이임재·최성범 내일 피의자 조사…어떤 혐의 받나(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013588312?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013588312?sid=102"/>
+        <updated>2022-11-20T12:27:42.327Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013588312?sid=102" class="nclicks(rig.secteco)" title="특수본, 이임재·최성범 내일 피의자 조사…어떤 혐의 받나(종합)">특수본, 이임재·최성범 내일 피의자 조사…어떤 혐의 받나(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규확진 주춤… 위중증은 461명, 두달새 최다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003756136?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003756136?sid=102"/>
-        <updated>2022-11-20T11:12:45.449Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756136?sid=102" class="nclicks(rig.secteco)" title="신규확진 주춤… 위중증은 461명, 두달새 최다">신규확진 주춤… 위중증은 461명, 두달새 최다</a>]]></content>
+        <title type="html"><![CDATA[신천지 신도 10만명 대구 모였다, 홍준표 허용해준 이유 보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002067871?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002067871?sid=102"/>
+        <updated>2022-11-20T12:27:42.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002067871?sid=102" class="nclicks(rig.secteco)" title="신천지 신도 10만명 대구 모였다, 홍준표 허용해준 이유 보니">신천지 신도 10만명 대구 모였다, 홍준표 허용해준 이유 보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[내일 날씨] 낮 최고 21도…큰 일교차 주의]]></title>
