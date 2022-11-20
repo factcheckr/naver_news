@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-20T19:13:13.920Z</updated>
+    <updated>2022-11-20T20:16:07.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[공군 KF-16 엔진 이상 추락…주민들 "굉음에 전쟁난 줄 알았다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006469799?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006469799?sid=100"/>
-        <updated>2022-11-20T16:20:29.681Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006469799?sid=100" class="nclicks(rig.secteco)" title="공군 KF-16 엔진 이상 추락…주민들 &quot;굉음에 전쟁난 줄 알았다&quot;">공군 KF-16 엔진 이상 추락…주민들 "굉음에 전쟁난 줄 알았다"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 로비에 가림벽 설치… 도어스테핑 잠정중단 가능성]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003463335?sid=100</id>
@@ -20,25 +13,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463335?sid=100" class="nclicks(rig.secteco)" title="대통령실 로비에 가림벽 설치… 도어스테핑 잠정중단 가능성">대통령실 로비에 가림벽 설치… 도어스테핑 잠정중단 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정은, ICBM 발사장서 딸 공개… ‘핵 물려주겠다’ 천명]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003729623?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003729623?sid=100"/>
-        <updated>2022-11-20T19:12:39.610Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003729623?sid=100" class="nclicks(rig.secteco)" title="김정은, ICBM 발사장서 딸 공개… ‘핵 물려주겠다’ 천명">김정은, ICBM 발사장서 딸 공개… ‘핵 물려주겠다’ 천명</a>]]></content>
+        <title type="html"><![CDATA[[속보]미사일 장착한 공군 KF-16 전투기 양평에 추락…조종사 비상 탈출]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000935935?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000935935?sid=100"/>
+        <updated>2022-11-20T20:15:38.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000935935?sid=100" class="nclicks(rig.secteco)" title="[속보]미사일 장착한 공군 KF-16 전투기 양평에 추락…조종사 비상 탈출">[속보]미사일 장착한 공군 KF-16 전투기 양평에 추락…조종사 비상 탈출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개도국 ‘기후피해’ 돕는다…COP27(유엔기후변화협약 당사국총회), 기금조성 극적 합의]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000025735?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000025735?sid=104"/>
-        <updated>2022-11-20T19:12:39.612Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000025735?sid=104" class="nclicks(rig.secteco)" title="개도국 ‘기후피해’ 돕는다…COP27(유엔기후변화협약 당사국총회), 기금조성 극적 합의">개도국 ‘기후피해’ 돕는다…COP27(유엔기후변화협약 당사국총회), 기금조성 극적 합의</a>]]></content>
+        <title type="html"><![CDATA[ICBM 앞에 딸-김여정-이설주…"김정은 핵 대물림 드러낸 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003239908?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003239908?sid=100"/>
+        <updated>2022-11-20T20:15:38.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239908?sid=100" class="nclicks(rig.secteco)" title="ICBM 앞에 딸-김여정-이설주…&quot;김정은 핵 대물림 드러낸 것&quot;">ICBM 앞에 딸-김여정-이설주…"김정은 핵 대물림 드러낸 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美트럼프, 트위터 계정 복구됐지만…"돌아갈 이유 없어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011547102?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011547102?sid=104"/>
-        <updated>2022-11-20T19:12:39.614Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011547102?sid=104" class="nclicks(rig.secteco)" title="美트럼프, 트위터 계정 복구됐지만…&quot;돌아갈 이유 없어&quot;">美트럼프, 트위터 계정 복구됐지만…"돌아갈 이유 없어"</a>]]></content>
+        <title type="html"><![CDATA[COP27, '개도국 기후 재앙' 보상 기금 조성 합의했지만…]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003708966?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003708966?sid=104"/>
+        <updated>2022-11-20T20:15:38.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003708966?sid=104" class="nclicks(rig.secteco)" title="COP27, '개도국 기후 재앙' 보상 기금 조성 합의했지만…">COP27, '개도국 기후 재앙' 보상 기금 조성 합의했지만…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003463257?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104"/>
+        <updated>2022-11-20T20:15:38.029Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104" class="nclicks(rig.secteco)" title="머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]">머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘금투세 유예’에 2대 조건 붙인 野… 정부 “수용못할 요구”]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003729616?sid=101" class="nclicks(rig.secteco)" title="‘금투세 유예’에 2대 조건 붙인 野… 정부 “수용못할 요구”">‘금투세 유예’에 2대 조건 붙인 野… 정부 “수용못할 요구”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“T우주 구독자에 금리 우대”… ‘ICT+금융’ 새 서비스 선보여]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463412?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463412?sid=101"/>
-        <updated>2022-11-20T18:18:06.009Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463412?sid=101" class="nclicks(rig.secteco)" title="“T우주 구독자에 금리 우대”… ‘ICT+금융’ 새 서비스 선보여">“T우주 구독자에 금리 우대”… ‘ICT+금융’ 새 서비스 선보여</a>]]></content>
+        <title type="html"><![CDATA[생보사도 '펫·여행자보험' 자회사 설립…보험사 '빗장' 풀린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011546719?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011546719?sid=101"/>
+        <updated>2022-11-20T20:15:38.032Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546719?sid=101" class="nclicks(rig.secteco)" title="생보사도 '펫·여행자보험' 자회사 설립…보험사 '빗장' 풀린다">생보사도 '펫·여행자보험' 자회사 설립…보험사 '빗장' 풀린다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반려동물-여행자… 특화상품 전문보험사 나온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463416?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463416?sid=101"/>
-        <updated>2022-11-20T18:18:06.010Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463416?sid=101" class="nclicks(rig.secteco)" title="반려동물-여행자… 특화상품 전문보험사 나온다">반려동물-여행자… 특화상품 전문보험사 나온다</a>]]></content>
+        <title type="html"><![CDATA[SK텔레콤-SK스퀘어-하나금융그룹, 웹3 등 ‘미래 공동 대응’ 맞손]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005370599?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005370599?sid=101"/>
+        <updated>2022-11-20T20:15:38.034Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370599?sid=101" class="nclicks(rig.secteco)" title="SK텔레콤-SK스퀘어-하나금융그룹, 웹3 등 ‘미래 공동 대응’ 맞손">SK텔레콤-SK스퀘어-하나금융그룹, 웹3 등 ‘미래 공동 대응’ 맞손</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[지스타 2022] 내년 게임 트렌드 '콘솔·PC'…'덕후 게임'의 반란]]></title>
@@ -69,32 +69,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546910?sid=105" class="nclicks(rig.secteco)" title="[지스타 2022] 내년 게임 트렌드 '콘솔·PC'…'덕후 게임'의 반란">[지스타 2022] 내년 게임 트렌드 '콘솔·PC'…'덕후 게임'의 반란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 중이온가속기 ‘라온’… 세상에 없는 원소 만들어 우주기원 밝힌다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463389?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463389?sid=105"/>
-        <updated>2022-11-20T19:12:39.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463389?sid=105" class="nclicks(rig.secteco)" title="국내 중이온가속기 ‘라온’… 세상에 없는 원소 만들어 우주기원 밝힌다">국내 중이온가속기 ‘라온’… 세상에 없는 원소 만들어 우주기원 밝힌다</a>]]></content>
+        <title type="html"><![CDATA['단군 이래 최대 과학 프로젝트'...거대과학시설 중이온가속기 현장을 가다]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002274160?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002274160?sid=105"/>
+        <updated>2022-11-20T20:15:38.041Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002274160?sid=105" class="nclicks(rig.secteco)" title="'단군 이래 최대 과학 프로젝트'...거대과학시설 중이온가속기 현장을 가다">'단군 이래 최대 과학 프로젝트'...거대과학시설 중이온가속기 현장을 가다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정진상 구속시킨 檢, 이재명 연내 조사 검토]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463310?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463310?sid=102"/>
-        <updated>2022-11-20T18:18:06.014Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463310?sid=102" class="nclicks(rig.secteco)" title="정진상 구속시킨 檢, 이재명 연내 조사 검토">정진상 구속시킨 檢, 이재명 연내 조사 검토</a>]]></content>
+        <title type="html"><![CDATA[두 팔 잃은 이재명…'대장동 3인방' 입에 쏠린 눈]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003708964?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003708964?sid=102"/>
+        <updated>2022-11-20T20:15:38.041Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003708964?sid=102" class="nclicks(rig.secteco)" title="두 팔 잃은 이재명…'대장동 3인방' 입에 쏠린 눈">두 팔 잃은 이재명…'대장동 3인방' 입에 쏠린 눈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유동규 이어 남욱 나왔다…김만배 24일, 대장동 키맨 모두 석방]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003239883?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003239883?sid=102"/>
-        <updated>2022-11-20T17:14:15.718Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239883?sid=102" class="nclicks(rig.secteco)" title="유동규 이어 남욱 나왔다…김만배 24일, 대장동 키맨 모두 석방">유동규 이어 남욱 나왔다…김만배 24일, 대장동 키맨 모두 석방</a>]]></content>
+        <title type="html"><![CDATA[풀려난 남욱 “죄송”… ‘李 경선자금’엔 “...” [포착]]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001567960?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001567960?sid=102"/>
+        <updated>2022-11-20T20:15:38.041Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001567960?sid=102" class="nclicks(rig.secteco)" title="풀려난 남욱 “죄송”… ‘李 경선자금’엔 “...” [포착]">풀려난 남욱 “죄송”… ‘李 경선자금’엔 “...” [포착]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신천지 주말 10만명 행사 강행 도마에]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001567872?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001567872?sid=102"/>
-        <updated>2022-11-20T19:12:39.627Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001567872?sid=102" class="nclicks(rig.secteco)" title="신천지 주말 10만명 행사 강행 도마에">신천지 주말 10만명 행사 강행 도마에</a>]]></content>
+        <title type="html"><![CDATA[[단독] 해밀톤호텔 앞 안전근무조…소방도 '정위치' 안했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000570790?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000570790?sid=102"/>
+        <updated>2022-11-20T20:15:38.042Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000570790?sid=102" class="nclicks(rig.secteco)" title="[단독] 해밀톤호텔 앞 안전근무조…소방도 '정위치' 안했다">[단독] 해밀톤호텔 앞 안전근무조…소방도 '정위치' 안했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTS 정국과 함께 카타르 월드컵 시작됐다…K팝 최초 공식 주제가 불러]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002067887?sid=103" class="nclicks(rig.secteco)" title="BTS 정국과 함께 카타르 월드컵 시작됐다…K팝 최초 공식 주제가 불러">BTS 정국과 함께 카타르 월드컵 시작됐다…K팝 최초 공식 주제가 불러</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차, 중국 CSR 최고 기업…자동차 부문 7년 연속 1위]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011546504?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011546504?sid=103"/>
-        <updated>2022-11-20T17:14:15.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546504?sid=103" class="nclicks(rig.secteco)" title="현대차, 중국 CSR 최고 기업…자동차 부문 7년 연속 1위">현대차, 중국 CSR 최고 기업…자동차 부문 7년 연속 1위</a>]]></content>
+        <title type="html"><![CDATA[쌀밥 한그릇 뚝딱 ‘갓김치’…사포닌 성분 풍부한 ‘고들빼기김치’]]></title>
+        <id>https://n.news.naver.com/mnews/article/662/0000010107?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/662/0000010107?sid=103"/>
+        <updated>2022-11-20T20:15:38.044Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/662/0000010107?sid=103" class="nclicks(rig.secteco)" title="쌀밥 한그릇 뚝딱 ‘갓김치’…사포닌 성분 풍부한 ‘고들빼기김치’">쌀밥 한그릇 뚝딱 ‘갓김치’…사포닌 성분 풍부한 ‘고들빼기김치’</a>]]></content>
     </entry>
 </feed>
