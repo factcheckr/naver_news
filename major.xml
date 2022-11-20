@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-20T04:30:10.661Z</updated>
+    <updated>2022-11-20T05:14:45.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장경태 “김건희 여사, 환아 방문 때 조명 사용”...대통령실 “없는 사실 지어내. 국격·국익 훼손”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003756055?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003756055?sid=100"/>
+        <updated>2022-11-20T05:14:17.075Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003756055?sid=100" class="nclicks(rig.secteco)" title="장경태 “김건희 여사, 환아 방문 때 조명 사용”...대통령실 “없는 사실 지어내. 국격·국익 훼손”">장경태 “김건희 여사, 환아 방문 때 조명 사용”...대통령실 “없는 사실 지어내. 국격·국익 훼손”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정진석 “윤석열 대통령이 도대체 무슨 잘못을 했나”]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001567763?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001567763?sid=100" class="nclicks(rig.secteco)" title="정진석 “윤석열 대통령이 도대체 무슨 잘못을 했나”">정진석 “윤석열 대통령이 도대체 무슨 잘못을 했나”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北 "이 행성 최강의 ICBM 보유…핵병기들 질량적으로 강화"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003239721?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003239721?sid=100"/>
-        <updated>2022-11-20T04:29:41.638Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239721?sid=100" class="nclicks(rig.secteco)" title="北 &quot;이 행성 최강의 ICBM 보유…핵병기들 질량적으로 강화&quot;">北 "이 행성 최강의 ICBM 보유…핵병기들 질량적으로 강화"</a>]]></content>
+        <title type="html"><![CDATA[이재명 "尹정부, 공공임대주택 예산 5.6조 삭감…납득할 수 없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011546759?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011546759?sid=100"/>
+        <updated>2022-11-20T05:14:17.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546759?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;尹정부, 공공임대주택 예산 5.6조 삭감…납득할 수 없어&quot;">이재명 "尹정부, 공공임대주택 예산 5.6조 삭감…납득할 수 없어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장경태 “김건희, 환아 방문 때 조명 설치”… 대통령실 “사실무근”?]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463265?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463265?sid=100"/>
-        <updated>2022-11-20T04:29:41.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463265?sid=100" class="nclicks(rig.secteco)" title="장경태 “김건희, 환아 방문 때 조명 설치”… 대통령실 “사실무근”?">장경태 “김건희, 환아 방문 때 조명 설치”… 대통령실 “사실무근”?</a>]]></content>
+        <title type="html"><![CDATA["기후피해 보상 길 열려"…COP27, ‘손실과 보상’ 기금 조성 합의]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005370787?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005370787?sid=104"/>
+        <updated>2022-11-20T05:14:17.081Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370787?sid=104" class="nclicks(rig.secteco)" title="&quot;기후피해 보상 길 열려&quot;…COP27, ‘손실과 보상’ 기금 조성 합의">"기후피해 보상 길 열려"…COP27, ‘손실과 보상’ 기금 조성 합의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003463257?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104"/>
-        <updated>2022-11-20T03:17:09.023Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003463257?sid=104" class="nclicks(rig.secteco)" title="머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]">머스크의 트위터 인수, 왜들 난리일까[김성모 기자의 신비월드]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3보] "유엔 기후변화총회, '손실과 피해' 보상기금 조성 극적 합의"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013587875?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013587875?sid=104"/>
-        <updated>2022-11-20T04:29:41.645Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013587875?sid=104" class="nclicks(rig.secteco)" title="[3보] &quot;유엔 기후변화총회, '손실과 피해' 보상기금 조성 극적 합의&quot;">[3보] "유엔 기후변화총회, '손실과 피해' 보상기금 조성 극적 합의"</a>]]></content>
+        <title type="html"><![CDATA[머스크 "트럼프 트위터 복원"→20여분 후 팔로워 100만]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000784991?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000784991?sid=104"/>
+        <updated>2022-11-20T05:14:17.084Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000784991?sid=104" class="nclicks(rig.secteco)" title="머스크 &quot;트럼프 트위터 복원&quot;→20여분 후 팔로워 100만">머스크 "트럼프 트위터 복원"→20여분 후 팔로워 100만</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['중도 해지시 무일푼, 유지땐 높은 연금' 보험 나온다]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370717?sid=101" class="nclicks(rig.secteco)" title="'중도 해지시 무일푼, 유지땐 높은 연금' 보험 나온다">'중도 해지시 무일푼, 유지땐 높은 연금' 보험 나온다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[골프 접대 리베이트 경동제약에 과징금 2억4000만원]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003239742?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003239742?sid=101"/>
+        <updated>2022-11-20T05:14:17.086Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003239742?sid=101" class="nclicks(rig.secteco)" title="골프 접대 리베이트 경동제약에 과징금 2억4000만원">골프 접대 리베이트 경동제약에 과징금 2억4000만원</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["나도 혹시 땅 부자?"…몰랐던 조상땅 온라인으로 찾는다]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006469118?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006469118?sid=101"/>
@@ -55,25 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006469118?sid=101" class="nclicks(rig.secteco)" title="&quot;나도 혹시 땅 부자?&quot;…몰랐던 조상땅 온라인으로 찾는다">"나도 혹시 땅 부자?"…몰랐던 조상땅 온라인으로 찾는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK루브리컨츠, 'SK엔무브'로 사명 변경…에너지효율화 기업 변신]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005370621?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005370621?sid=101"/>
-        <updated>2022-11-20T03:17:09.025Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005370621?sid=101" class="nclicks(rig.secteco)" title="SK루브리컨츠, 'SK엔무브'로 사명 변경…에너지효율화 기업 변신">SK루브리컨츠, 'SK엔무브'로 사명 변경…에너지효율화 기업 변신</a>]]></content>
+        <title type="html"><![CDATA["우주생성 비밀 찾는다"…중이온가속기 빔인출 현장 가보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004820024?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004820024?sid=105"/>
+        <updated>2022-11-20T05:14:17.090Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820024?sid=105" class="nclicks(rig.secteco)" title="&quot;우주생성 비밀 찾는다&quot;…중이온가속기 빔인출 현장 가보니">"우주생성 비밀 찾는다"…중이온가속기 빔인출 현장 가보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포]신물질 '코리아늄' 탄생할까…韓 중이온가속기 '라온' 가보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011546717?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011546717?sid=105"/>
-        <updated>2022-11-20T03:17:09.028Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546717?sid=105" class="nclicks(rig.secteco)" title="[르포]신물질 '코리아늄' 탄생할까…韓 중이온가속기 '라온' 가보니">[르포]신물질 '코리아늄' 탄생할까…韓 중이온가속기 '라온' 가보니</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국과학기술한림원 정회원 28명 신규 선출]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002274163?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002274163?sid=105"/>
-        <updated>2022-11-20T04:29:41.649Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002274163?sid=105" class="nclicks(rig.secteco)" title="한국과학기술한림원 정회원 28명 신규 선출">한국과학기술한림원 정회원 28명 신규 선출</a>]]></content>
+        <title type="html"><![CDATA[김소영 카이스트 교수 등 28人, 과기한림원 정회원 선출]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004124154?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004124154?sid=105"/>
+        <updated>2022-11-20T05:14:17.091Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004124154?sid=105" class="nclicks(rig.secteco)" title="김소영 카이스트 교수 등 28人, 과기한림원 정회원 선출">김소영 카이스트 교수 등 28人, 과기한림원 정회원 선출</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 누적 사망자 3만명 넘었다…세계에서 35번째로 많아(종합)]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013587732?sid=102" class="nclicks(rig.secteco)" title="코로나19 누적 사망자 3만명 넘었다…세계에서 35번째로 많아(종합)">코로나19 누적 사망자 3만명 넘었다…세계에서 35번째로 많아(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 누적 사망자 3만명 넘었다…위중증은 2달새 최다, 4만6011명 확진세 주춤]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002542247?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002542247?sid=102"/>
-        <updated>2022-11-20T04:29:41.652Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002542247?sid=102" class="nclicks(rig.secteco)" title="코로나 누적 사망자 3만명 넘었다…위중증은 2달새 최다,  4만6011명 확진세 주춤">코로나 누적 사망자 3만명 넘었다…위중증은 2달새 최다, 4만6011명 확진세 주춤</a>]]></content>
+        <title type="html"><![CDATA[코로나 사망 누적 3만명 넘어…위중증 두 달새 최다(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011546580?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011546580?sid=102"/>
+        <updated>2022-11-20T05:14:17.095Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011546580?sid=102" class="nclicks(rig.secteco)" title="코로나 사망 누적 3만명 넘어…위중증 두 달새 최다(종합)">코로나 사망 누적 3만명 넘어…위중증 두 달새 최다(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단 하루가 부족해 9년 전 임용 취소된 국회의원 보좌관, 무슨 일]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003729508?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003729508?sid=102"/>
-        <updated>2022-11-20T04:29:41.654Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003729508?sid=102" class="nclicks(rig.secteco)" title="단 하루가 부족해 9년 전 임용 취소된 국회의원 보좌관, 무슨 일">단 하루가 부족해 9년 전 임용 취소된 국회의원 보좌관, 무슨 일</a>]]></content>
+        <title type="html"><![CDATA[전부 오르는 판에...14년째 등록금 동결, 사립대 적자규모가 무려]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005047854?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005047854?sid=102"/>
+        <updated>2022-11-20T05:14:17.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005047854?sid=102" class="nclicks(rig.secteco)" title="전부 오르는 판에...14년째 등록금 동결, 사립대 적자규모가 무려">전부 오르는 판에...14년째 등록금 동결, 사립대 적자규모가 무려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기아 'EV6·니로·스포티지' 삼총사… 해외서 호평 잇따라]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000870841?sid=103" class="nclicks(rig.secteco)" title="기아 'EV6·니로·스포티지' 삼총사… 해외서 호평 잇따라">기아 'EV6·니로·스포티지' 삼총사… 해외서 호평 잇따라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[창극 '트로이의 여인들' 첫 美 공연 전석 매진]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000570830?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000570830?sid=103"/>
-        <updated>2022-11-20T04:29:41.658Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000570830?sid=103" class="nclicks(rig.secteco)" title="창극 '트로이의 여인들' 첫 美 공연 전석 매진">창극 '트로이의 여인들' 첫 美 공연 전석 매진</a>]]></content>
+        <title type="html"><![CDATA[모델솔루션-홍대, 올해 산학협력 프로젝트 결과물 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000870846?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000870846?sid=103"/>
+        <updated>2022-11-20T05:14:17.100Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000870846?sid=103" class="nclicks(rig.secteco)" title="모델솔루션-홍대, 올해 산학협력 프로젝트 결과물 발표">모델솔루션-홍대, 올해 산학협력 프로젝트 결과물 발표</a>]]></content>
     </entry>
 </feed>
