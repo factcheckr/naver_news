@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-21T14:14:47.339Z</updated>
+    <updated>2022-11-21T15:20:05.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[야 3당 ‘이태원 참사 국조’ 일단 추진…여당 참여 가능성도]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003187700?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003187700?sid=100"/>
-        <updated>2022-11-21T14:14:17.357Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003187700?sid=100" class="nclicks(rig.secteco)" title="야 3당 ‘이태원 참사 국조’ 일단 추진…여당 참여 가능성도">야 3당 ‘이태원 참사 국조’ 일단 추진…여당 참여 가능성도</a>]]></content>
+        <title type="html"><![CDATA[與野, 이태원 국정조사 이견만 재확인…시기 조정 가능성은 남아]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004820476?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004820476?sid=100"/>
+        <updated>2022-11-21T15:19:34.794Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820476?sid=100" class="nclicks(rig.secteco)" title="與野, 이태원 국정조사 이견만 재확인…시기 조정 가능성은 남아">與野, 이태원 국정조사 이견만 재확인…시기 조정 가능성은 남아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['용산시대 상징' 尹 도어스테핑 잠정중단…지속 여부 중대 기로]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004820284?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004820284?sid=100"/>
-        <updated>2022-11-21T14:14:17.359Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820284?sid=100" class="nclicks(rig.secteco)" title="'용산시대 상징' 尹 도어스테핑 잠정중단…지속 여부 중대 기로">'용산시대 상징' 尹 도어스테핑 잠정중단…지속 여부 중대 기로</a>]]></content>
+        <title type="html"><![CDATA[[취재석] 尹대통령표 '자유·공정·상식'은 어디로 가고 있나]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000185790?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000185790?sid=100"/>
+        <updated>2022-11-21T15:19:34.795Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000185790?sid=100" class="nclicks(rig.secteco)" title="[취재석] 尹대통령표 '자유·공정·상식'은 어디로 가고 있나">[취재석] 尹대통령표 '자유·공정·상식'은 어디로 가고 있나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['담대한 구상' 공론화 나선 정부...北 호응할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001816482?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001816482?sid=100"/>
-        <updated>2022-11-21T13:39:34.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001816482?sid=100" class="nclicks(rig.secteco)" title="'담대한 구상' 공론화 나선 정부...北 호응할까">'담대한 구상' 공론화 나선 정부...北 호응할까</a>]]></content>
+        <title type="html"><![CDATA[‘북·미’아닌 ‘미·북’표기한 통일부…북한 인권까지 거론했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003240117?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003240117?sid=100"/>
+        <updated>2022-11-21T15:19:34.795Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240117?sid=100" class="nclicks(rig.secteco)" title="‘북·미’아닌 ‘미·북’표기한 통일부…북한 인권까지 거론했다">‘북·미’아닌 ‘미·북’표기한 통일부…북한 인권까지 거론했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인니 서자바서 규모 5.6 지진…재난당국 "사망자 46명 이상"(종합2보)]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013591027?sid=104" class="nclicks(rig.secteco)" title="인니 서자바서 규모 5.6 지진…재난당국 &quot;사망자 46명 이상&quot;(종합2보)">인니 서자바서 규모 5.6 지진…재난당국 "사망자 46명 이상"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 콜로라도 성소수자 클럽서 총기 난사로 5명 사망...이어지는 추모 물결 [뉴시스Pic]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011548788?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011548788?sid=104"/>
-        <updated>2022-11-21T14:14:17.364Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011548788?sid=104" class="nclicks(rig.secteco)" title="美 콜로라도 성소수자 클럽서 총기 난사로 5명 사망...이어지는 추모 물결 [뉴시스Pic]">美 콜로라도 성소수자 클럽서 총기 난사로 5명 사망...이어지는 추모 물결 [뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[콜로라도 법무장관, 성소수자 클럽 총격 "증오범죄" 무게]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011549223?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011549223?sid=104"/>
+        <updated>2022-11-21T15:19:34.802Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011549223?sid=104" class="nclicks(rig.secteco)" title="콜로라도 법무장관, 성소수자 클럽 총격 &quot;증오범죄&quot; 무게">콜로라도 법무장관, 성소수자 클럽 총격 "증오범죄" 무게</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1세대 1주택 종부세 납세자 6배↑..."더 이상 부자 세금 아냐"]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001816487?sid=101" class="nclicks(rig.secteco)" title="1세대 1주택 종부세 납세자 6배↑...&quot;더 이상 부자 세금 아냐&quot;">1세대 1주택 종부세 납세자 6배↑..."더 이상 부자 세금 아냐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메리츠지주 "순익 50% 주주환원"… 화재·증권 상장폐지]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005048674?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005048674?sid=101"/>
-        <updated>2022-11-21T12:31:15.149Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005048674?sid=101" class="nclicks(rig.secteco)" title="메리츠지주 &quot;순익 50% 주주환원&quot;… 화재·증권 상장폐지">메리츠지주 "순익 50% 주주환원"… 화재·증권 상장폐지</a>]]></content>
+        <title type="html"><![CDATA[메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006472139?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006472139?sid=101"/>
+        <updated>2022-11-21T15:19:34.803Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006472139?sid=101" class="nclicks(rig.secteco)" title="메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)">메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 용인 반도체 난제 해결해놓고...김동연, 돌연 ‘불참 통보’ 왜]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005048270?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005048270?sid=101"/>
-        <updated>2022-11-21T12:31:15.151Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005048270?sid=101" class="nclicks(rig.secteco)" title="[단독] 용인 반도체 난제 해결해놓고...김동연, 돌연 ‘불참 통보’ 왜">[단독] 용인 반도체 난제 해결해놓고...김동연, 돌연 ‘불참 통보’ 왜</a>]]></content>
+        <title type="html"><![CDATA[‘120조 투입’ 용인 반도체 클러스터, 공업용수 갈등 풀렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003240115?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003240115?sid=101"/>
+        <updated>2022-11-21T15:19:34.805Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240115?sid=101" class="nclicks(rig.secteco)" title="‘120조 투입’ 용인 반도체 클러스터, 공업용수 갈등 풀렸다">‘120조 투입’ 용인 반도체 클러스터, 공업용수 갈등 풀렸다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SKT, NTT도코모와 메타버스-6G-미디어..'ICT 동맹']]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013591077?sid=102" class="nclicks(rig.secteco)" title="'이재명 최측근' 정진상 구속적부심 청구…23일 심문(종합2보)">'이재명 최측근' 정진상 구속적부심 청구…23일 심문(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 개량백신 집중접종… 예약없이 당일 접종 가능]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005371906?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005371906?sid=102"/>
-        <updated>2022-11-21T14:14:17.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005371906?sid=102" class="nclicks(rig.secteco)" title="오늘부터 개량백신 집중접종… 예약없이 당일 접종 가능">오늘부터 개량백신 집중접종… 예약없이 당일 접종 가능</a>]]></content>
+        <title type="html"><![CDATA[‘이태원 현장 지휘’ 용산 경찰·소방서장 소환]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011378538?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011378538?sid=102"/>
+        <updated>2022-11-21T15:19:34.810Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011378538?sid=102" class="nclicks(rig.secteco)" title="‘이태원 현장 지휘’ 용산 경찰·소방서장 소환">‘이태원 현장 지휘’ 용산 경찰·소방서장 소환</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스9 날씨] 내일 차츰 전국 비…동해안에 최대 100mm 이상]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011378515?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일 차츰 전국 비…동해안에 최대 100mm 이상">[뉴스9 날씨] 내일 차츰 전국 비…동해안에 최대 100mm 이상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003240016?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003240016?sid=103"/>
-        <updated>2022-11-21T14:14:17.381Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240016?sid=103" class="nclicks(rig.secteco)" title="BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대">BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대</a>]]></content>
+        <title type="html"><![CDATA['아시아 최초' BTS, 美AMA 수상…1년만에 월드컵도 '접수'[그해 오늘]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005371925?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005371925?sid=103"/>
+        <updated>2022-11-21T15:19:34.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005371925?sid=103" class="nclicks(rig.secteco)" title="'아시아 최초' BTS, 美AMA 수상…1년만에 월드컵도 '접수'[그해 오늘]">'아시아 최초' BTS, 美AMA 수상…1년만에 월드컵도 '접수'[그해 오늘]</a>]]></content>
     </entry>
 </feed>
