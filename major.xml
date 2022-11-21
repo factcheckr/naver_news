@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-21T10:18:18.878Z</updated>
+    <updated>2022-11-21T11:14:22.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['이태원 국조' 실마리 찾나…與 "예산국회 후 논의" 野에 역제안]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005371736?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005371736?sid=100"/>
-        <updated>2022-11-21T09:16:58.242Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005371736?sid=100" class="nclicks(rig.secteco)" title="'이태원 국조' 실마리 찾나…與 &quot;예산국회 후 논의&quot; 野에 역제안">'이태원 국조' 실마리 찾나…與 "예산국회 후 논의" 野에 역제안</a>]]></content>
+        <title type="html"><![CDATA[주호영 "이태원 참사 수사 결과 미흡하면 국정조사 응할 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000785276?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000785276?sid=100"/>
+        <updated>2022-11-21T11:13:52.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000785276?sid=100" class="nclicks(rig.secteco)" title="주호영 &quot;이태원 참사 수사 결과 미흡하면 국정조사 응할 것&quot;">주호영 "이태원 참사 수사 결과 미흡하면 국정조사 응할 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령, 출근길문답 중단…"MBC에 '상응조치' 검토"(종합2보)]]></title>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013590913?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 출근길문답 중단…&quot;MBC에 '상응조치' 검토&quot;(종합2보)">尹대통령, 출근길문답 중단…"MBC에 '상응조치' 검토"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICBM 발사 성공한 北, 그 앞에 꺼낸 '담대한 구상'이란]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005180552?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005180552?sid=100"/>
-        <updated>2022-11-21T07:15:05.473Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005180552?sid=100" class="nclicks(rig.secteco)" title="ICBM 발사 성공한 北, 그 앞에 꺼낸 '담대한 구상'이란">ICBM 발사 성공한 北, 그 앞에 꺼낸 '담대한 구상'이란</a>]]></content>
+        <title type="html"><![CDATA[김태효 "北 핵이 있어도 쓰지 못하도록 만드는 억제 추진"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013590891?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013590891?sid=100"/>
+        <updated>2022-11-21T11:13:52.393Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013590891?sid=100" class="nclicks(rig.secteco)" title="김태효 &quot;北 핵이 있어도 쓰지 못하도록 만드는 억제 추진&quot;(종합)">김태효 "北 핵이 있어도 쓰지 못하도록 만드는 억제 추진"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도네시아서 5.6 강진…46명 사망, 700명 부상]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003187660?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003187660?sid=104"/>
+        <updated>2022-11-21T10:17:48.336Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003187660?sid=104" class="nclicks(rig.secteco)" title="인도네시아서 5.6 강진…46명 사망, 700명 부상">인도네시아서 5.6 강진…46명 사망, 700명 부상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["기시다 총리, 빨리 사임했으면"…완전히 등 돌린 日 국민들]]></title>
@@ -34,39 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820433?sid=104" class="nclicks(rig.secteco)" title="&quot;기시다 총리, 빨리 사임했으면&quot;…완전히 등 돌린 日 국민들">"기시다 총리, 빨리 사임했으면"…완전히 등 돌린 日 국민들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 인도네시아서 5.6 강진…46명 사망, 700명 부상]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003187660?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003187660?sid=104"/>
-        <updated>2022-11-21T10:17:48.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003187660?sid=104" class="nclicks(rig.secteco)" title="[속보] 인도네시아서 5.6 강진…46명 사망, 700명 부상">[속보] 인도네시아서 5.6 강진…46명 사망, 700명 부상</a>]]></content>
+        <title type="html"><![CDATA[종부세 고지서 130만7000명에 발송…주택분 5년새 4배 늘었다(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011548810?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011548810?sid=101"/>
+        <updated>2022-11-21T11:13:52.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011548810?sid=101" class="nclicks(rig.secteco)" title="종부세 고지서 130만7000명에 발송…주택분 5년새 4배 늘었다(종합)">종부세 고지서 130만7000명에 발송…주택분 5년새 4배 늘었다(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1세대 1주택 종부세 납세자 6배↑..."더 이상 부자 세금 아냐"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001816426?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001816426?sid=101"/>
-        <updated>2022-11-21T10:17:48.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001816426?sid=101" class="nclicks(rig.secteco)" title="1세대 1주택 종부세 납세자 6배↑...&quot;더 이상 부자 세금 아냐&quot;">1세대 1주택 종부세 납세자 6배↑..."더 이상 부자 세금 아냐"</a>]]></content>
+        <title type="html"><![CDATA[메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006472139?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006472139?sid=101"/>
+        <updated>2022-11-21T11:13:52.413Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006472139?sid=101" class="nclicks(rig.secteco)" title="메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)">메리츠금융, 화재·증권 완전자회사 편입…순익 50% 주주환원(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메리츠증권·화재 상폐…"지주, 순익 50% 주주환원"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005180658?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005180658?sid=101"/>
-        <updated>2022-11-21T10:17:48.338Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005180658?sid=101" class="nclicks(rig.secteco)" title="메리츠증권·화재 상폐…&quot;지주, 순익 50% 주주환원&quot;(종합)">메리츠증권·화재 상폐…"지주, 순익 50% 주주환원"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`용인 반도체 클러스터` 갈등 해결됐지만 반도체산업 부흥 갈 길 멀다]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002767768?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002767768?sid=101"/>
-        <updated>2022-11-21T10:17:48.340Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002767768?sid=101" class="nclicks(rig.secteco)" title="`용인 반도체 클러스터` 갈등 해결됐지만 반도체산업 부흥 갈 길 멀다">`용인 반도체 클러스터` 갈등 해결됐지만 반도체산업 부흥 갈 길 멀다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005371525?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005371525?sid=105"/>
-        <updated>2022-11-21T10:17:48.341Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005371525?sid=105" class="nclicks(rig.secteco)" title="&quot;우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야&quot;">"우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야"</a>]]></content>
+        <title type="html"><![CDATA["반도체 초강대국" 尹 끌고, 당정 밀고...용인클러스터 물 문제 풀렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004820418?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004820418?sid=101"/>
+        <updated>2022-11-21T11:13:52.414Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820418?sid=101" class="nclicks(rig.secteco)" title="&quot;반도체 초강대국&quot; 尹 끌고, 당정 밀고...용인클러스터 물 문제 풀렸다">"반도체 초강대국" 尹 끌고, 당정 밀고...용인클러스터 물 문제 풀렸다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT와 헤어지고 SKT 택한 NTT도코모…"한·일 메타버스 연결하겠다"]]></title>
@@ -76,11 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004777393?sid=105" class="nclicks(rig.secteco)" title="KT와 헤어지고 SKT 택한 NTT도코모…&quot;한·일 메타버스 연결하겠다&quot;">KT와 헤어지고 SKT 택한 NTT도코모…"한·일 메타버스 연결하겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남욱 석방 당일 폭탄 발언 "천화동인 1호 이재명 시장실 지분"]]></title>
+        <title type="html"><![CDATA["우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005371525?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005371525?sid=105"/>
+        <updated>2022-11-21T10:17:48.341Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005371525?sid=105" class="nclicks(rig.secteco)" title="&quot;우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야&quot;">"우리나라 과학 수준 올라가, '네옴시티' 건설 기회로 활용해야"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남욱의 ‘李저수지’ 폭로 "화천대유에서 매달 1500만원씩 줬다"]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003240073?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003240073?sid=102"/>
         <updated>2022-11-21T10:17:48.346Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240073?sid=102" class="nclicks(rig.secteco)" title="남욱 석방 당일 폭탄 발언 &quot;천화동인 1호 이재명 시장실 지분&quot;">남욱 석방 당일 폭탄 발언 "천화동인 1호 이재명 시장실 지분"</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240073?sid=102" class="nclicks(rig.secteco)" title="남욱의 ‘李저수지’ 폭로 &quot;화천대유에서 매달 1500만원씩 줬다&quot;">남욱의 ‘李저수지’ 폭로 "화천대유에서 매달 1500만원씩 줬다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이재명 최측근’ 정진상, 구속적부심 청구…23일 구속 다시 판단]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003187647?sid=102" class="nclicks(rig.secteco)" title="‘이재명 최측근’ 정진상, 구속적부심 청구…23일 구속 다시 판단">‘이재명 최측근’ 정진상, 구속적부심 청구…23일 구속 다시 판단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포]"개량백신 문의도 없어요"…집중 추가접종 첫날, 병원 가보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004820439?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004820439?sid=102"/>
-        <updated>2022-11-21T10:17:48.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004820439?sid=102" class="nclicks(rig.secteco)" title="[르포]&quot;개량백신 문의도 없어요&quot;…집중 추가접종 첫날, 병원 가보니">[르포]"개량백신 문의도 없어요"…집중 추가접종 첫날, 병원 가보니</a>]]></content>
+        <title type="html"><![CDATA['당근과 채찍' 꺼내든 대전시… 백신 인센티브 돌입]]></title>
+        <id>https://n.news.naver.com/mnews/article/656/0000034392?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/656/0000034392?sid=102"/>
+        <updated>2022-11-21T11:13:52.425Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000034392?sid=102" class="nclicks(rig.secteco)" title="'당근과 채찍' 꺼내든 대전시… 백신 인센티브 돌입">'당근과 채찍' 꺼내든 대전시… 백신 인센티브 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003240016?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003240016?sid=103"/>
-        <updated>2022-11-21T07:15:05.490Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240016?sid=103" class="nclicks(rig.secteco)" title="BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대">BTS 아메리칸 뮤직 어워드 5년 연속 수상…팝 다양성 확대</a>]]></content>
+        <title type="html"><![CDATA[내일 첫눈 온다는 '소설'…전국에 눈 대신 비 소식]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001066983?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001066983?sid=103"/>
+        <updated>2022-11-21T11:13:52.428Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001066983?sid=103" class="nclicks(rig.secteco)" title="내일 첫눈 온다는 '소설'…전국에 눈 대신 비 소식">내일 첫눈 온다는 '소설'…전국에 눈 대신 비 소식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일 날씨] 최대 60㎜ 비… 저기압 영향으로 기온 '뚝']]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000871186?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000871186?sid=103"/>
-        <updated>2022-11-21T10:17:48.353Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000871186?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] 최대 60㎜ 비… 저기압 영향으로 기온 '뚝'">[내일 날씨] 최대 60㎜ 비… 저기압 영향으로 기온 '뚝'</a>]]></content>
+        <title type="html"><![CDATA[[D리포트] BTS, AMA 5년 연속 수상]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001014691?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001014691?sid=103"/>
+        <updated>2022-11-21T11:13:52.430Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001014691?sid=103" class="nclicks(rig.secteco)" title="[D리포트] BTS, AMA 5년 연속 수상">[D리포트] BTS, AMA 5년 연속 수상</a>]]></content>
     </entry>
 </feed>
