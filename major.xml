@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-24T14:13:57.783Z</updated>
+    <updated>2022-11-24T15:15:48.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['바이든 선글라스' 쓴 尹 방산 현장에..."방산수출, 경제이자 안보"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001817883?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001817883?sid=100"/>
-        <updated>2022-11-24T14:13:29.273Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001817883?sid=100" class="nclicks(rig.secteco)" title="'바이든 선글라스' 쓴 尹 방산 현장에...&quot;방산수출, 경제이자 안보&quot;">'바이든 선글라스' 쓴 尹 방산 현장에..."방산수출, 경제이자 안보"</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 “게임 체인저급 무기 기술 개발해야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003241131?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003241131?sid=100"/>
+        <updated>2022-11-24T15:15:19.645Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003241131?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 “게임 체인저급 무기 기술 개발해야”">윤 대통령 “게임 체인저급 무기 기술 개발해야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원 국조 통과, 조사대상에 대검 마약부서 포함]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003730609?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003730609?sid=100"/>
-        <updated>2022-11-24T14:13:29.274Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003730609?sid=100" class="nclicks(rig.secteco)" title="이태원 국조 통과, 조사대상에 대검 마약부서 포함">이태원 국조 통과, 조사대상에 대검 마약부서 포함</a>]]></content>
+        <title type="html"><![CDATA[‘이태원 국조 계획서’ 본회의 통과…대검은 마약전담부서만]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011380872?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011380872?sid=100"/>
+        <updated>2022-11-24T15:15:19.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011380872?sid=100" class="nclicks(rig.secteco)" title="‘이태원 국조 계획서’ 본회의 통과…대검은 마약전담부서만">‘이태원 국조 계획서’ 본회의 통과…대검은 마약전담부서만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 성토한 한동훈 "저질음모론 이재명 등 대 국민 사과해야…김의겸은 `책임`질 차례"]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002768718?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002768718?sid=100"/>
-        <updated>2022-11-24T14:13:29.275Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002768718?sid=100" class="nclicks(rig.secteco)" title="野 성토한 한동훈 &quot;저질음모론 이재명 등 대 국민 사과해야…김의겸은 `책임`질 차례&quot;">野 성토한 한동훈 "저질음모론 이재명 등 대 국민 사과해야…김의겸은 `책임`질 차례"</a>]]></content>
+        <title type="html"><![CDATA[2년전 "주호영 배은망덕"이라던 洪 "국조합의, 주호영 중후한 경륜 덕" 찬사]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006478599?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006478599?sid=100"/>
+        <updated>2022-11-24T15:15:19.648Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006478599?sid=100" class="nclicks(rig.secteco)" title="2년전 &quot;주호영 배은망덕&quot;이라던 洪 &quot;국조합의, 주호영 중후한 경륜 덕&quot; 찬사">2년전 "주호영 배은망덕"이라던 洪 "국조합의, 주호영 중후한 경륜 덕" 찬사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['동성애 혐의'로 수감·석방 반복…안와르, 우여곡절 끝 말레이 총리됐다]]></title>
@@ -41,25 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240957?sid=104" class="nclicks(rig.secteco)" title="애플 中공장 '레미제라블' 시위…폭스콘 “퇴사하면 190만원”">애플 中공장 '레미제라블' 시위…폭스콘 “퇴사하면 190만원”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['구광모의 LG' 女임원 29→64명 됐다...첫 여성 CEO 2명 누구?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003241029?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003241029?sid=101"/>
-        <updated>2022-11-24T11:12:38.268Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003241029?sid=101" class="nclicks(rig.secteco)" title="'구광모의 LG' 女임원 29→64명 됐다...첫 여성 CEO 2명 누구?">'구광모의 LG' 女임원 29→64명 됐다...첫 여성 CEO 2명 누구?</a>]]></content>
+        <title type="html"><![CDATA[LG그룹, 여성 CEO 2명 첫 탄생]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003188598?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003188598?sid=101"/>
+        <updated>2022-11-24T15:15:19.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003188598?sid=101" class="nclicks(rig.secteco)" title="LG그룹, 여성 CEO 2명 첫 탄생">LG그룹, 여성 CEO 2명 첫 탄생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 "물류파업 불법행위 끝까지 추적"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005374457?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005374457?sid=101"/>
-        <updated>2022-11-24T14:13:29.283Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005374457?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;물류파업 불법행위 끝까지 추적&quot;">원희룡 "물류파업 불법행위 끝까지 추적"</a>]]></content>
+        <title type="html"><![CDATA[화물연대 파업 강행… 정부 “업무개시명령 착수” 초강경]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001568994?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001568994?sid=101"/>
+        <updated>2022-11-24T15:15:19.654Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001568994?sid=101" class="nclicks(rig.secteco)" title="화물연대 파업 강행… 정부 “업무개시명령 착수” 초강경">화물연대 파업 강행… 정부 “업무개시명령 착수” 초강경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한은 금리인상, 내년 초 끝난다”…최종금리 3.5~3.75% 유력]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000857534?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000857534?sid=101"/>
-        <updated>2022-11-24T13:26:13.609Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000857534?sid=101" class="nclicks(rig.secteco)" title="“한은 금리인상, 내년 초 끝난다”…최종금리 3.5~3.75% 유력">“한은 금리인상, 내년 초 끝난다”…최종금리 3.5~3.75% 유력</a>]]></content>
+        <title type="html"><![CDATA[기업 50%, 조업방해·불법시위 경험…"공권력 필요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011554695?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011554695?sid=101"/>
+        <updated>2022-11-24T15:15:19.664Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011554695?sid=101" class="nclicks(rig.secteco)" title="기업 50%, 조업방해·불법시위 경험…&quot;공권력 필요&quot;">기업 50%, 조업방해·불법시위 경험…"공권력 필요"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['위믹스 상장폐지' 결정 파장…위메이드 존폐 위기(종합)]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011556356?sid=105" class="nclicks(rig.secteco)" title="황현식號 LGU+ 2023년 임원인사…'신사업' 강화에 무게">황현식號 LGU+ 2023년 임원인사…'신사업' 강화에 무게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5개월 만에 또 화물차 봉쇄… 철강·시멘트 운송 차질 시작 [화물연대 파업 돌입]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003757783?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003757783?sid=102"/>
-        <updated>2022-11-24T14:13:29.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003757783?sid=102" class="nclicks(rig.secteco)" title="5개월 만에 또 화물차 봉쇄… 철강·시멘트 운송 차질 시작 [화물연대 파업 돌입]">5개월 만에 또 화물차 봉쇄… 철강·시멘트 운송 차질 시작 [화물연대 파업 돌입]</a>]]></content>
+        <title type="html"><![CDATA[화물연대 총파업 "3년짜리 안전 그만"... 윤석열 정부는 "불법엄단"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002373905?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002373905?sid=102"/>
+        <updated>2022-11-24T15:15:19.673Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002373905?sid=102" class="nclicks(rig.secteco)" title="화물연대 총파업 &quot;3년짜리 안전 그만&quot;... 윤석열 정부는 &quot;불법엄단&quot;">화물연대 총파업 "3년짜리 안전 그만"... 윤석열 정부는 "불법엄단"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원 참사 국조 계획서·오석준 대법관 임명안 본회의 통과(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011556370?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011556370?sid=102"/>
-        <updated>2022-11-24T14:13:29.296Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011556370?sid=102" class="nclicks(rig.secteco)" title="이태원 참사 국조 계획서·오석준 대법관 임명안 본회의 통과(종합)">이태원 참사 국조 계획서·오석준 대법관 임명안 본회의 통과(종합)</a>]]></content>
+        <title type="html"><![CDATA[26일 양구 '희망의 트리' 불 밝힌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000025885?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000025885?sid=102"/>
+        <updated>2022-11-24T15:15:19.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000025885?sid=102" class="nclicks(rig.secteco)" title="26일 양구 '희망의 트리' 불 밝힌다">26일 양구 '희망의 트리' 불 밝힌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원 때와는 달랐다…붉은악마 수만명이 메운 광화문 모습]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003241047?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003241047?sid=102"/>
-        <updated>2022-11-24T14:13:29.297Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003241047?sid=102" class="nclicks(rig.secteco)" title="이태원 때와는 달랐다…붉은악마 수만명이 메운 광화문 모습">이태원 때와는 달랐다…붉은악마 수만명이 메운 광화문 모습</a>]]></content>
+        <title type="html"><![CDATA[잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000001292?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000001292?sid=102"/>
+        <updated>2022-11-24T15:15:19.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/607/0000001292?sid=102" class="nclicks(rig.secteco)" title="잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망">잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본서 돌아온 류성룡의 달력…이순신 '최후 순간' 담아(종합)]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013598621?sid=103" class="nclicks(rig.secteco)" title="일본서 돌아온 류성룡의 달력…이순신 '최후 순간' 담아(종합)">일본서 돌아온 류성룡의 달력…이순신 '최후 순간' 담아(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역사 속으로 사라진 '포니 쿠페'…디자인 거장 손에서 재탄생한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005373789?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005373789?sid=103"/>
-        <updated>2022-11-24T13:26:13.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005373789?sid=103" class="nclicks(rig.secteco)" title="역사 속으로 사라진 '포니 쿠페'…디자인 거장 손에서 재탄생한다">역사 속으로 사라진 '포니 쿠페'…디자인 거장 손에서 재탄생한다</a>]]></content>
+        <title type="html"><![CDATA[[생활날씨] 내일 오후 중부·전북 비…중서부 미세먼지↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000571589?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000571589?sid=103"/>
+        <updated>2022-11-24T15:15:19.680Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000571589?sid=103" class="nclicks(rig.secteco)" title="[생활날씨] 내일 오후 중부·전북 비…중서부 미세먼지↑">[생활날씨] 내일 오후 중부·전북 비…중서부 미세먼지↑</a>]]></content>
     </entry>
 </feed>
