@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-25T21:13:53.462Z</updated>
+    <updated>2022-11-25T22:14:31.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령-與비대위 첫 상견례…불협화음 잠재우나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003711265?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003711265?sid=100"/>
+        <updated>2022-11-25T22:14:01.271Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003711265?sid=100" class="nclicks(rig.secteco)" title="윤 대통령-與비대위 첫 상견례…불협화음 잠재우나">윤 대통령-與비대위 첫 상견례…불협화음 잠재우나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 윤리위, '이태원 참사' 논란 박희영 용산구청장 징계 개시(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011558749?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011558749?sid=100" class="nclicks(rig.secteco)" title="與 윤리위, '이태원 참사' 논란 박희영 용산구청장 징계 개시(종합)">與 윤리위, '이태원 참사' 논란 박희영 용산구청장 징계 개시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹, 與지도부와 3시간20분 '관저 만찬'…김건희 여사, 곳곳 소개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004126758?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004126758?sid=100"/>
-        <updated>2022-11-25T21:13:21.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004126758?sid=100" class="nclicks(rig.secteco)" title="尹, 與지도부와 3시간20분 '관저 만찬'…김건희 여사, 곳곳 소개">尹, 與지도부와 3시간20분 '관저 만찬'…김건희 여사, 곳곳 소개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실, 화물연대 총파업에 "업무개시명령 준비 착수…불법 행동 엄정 대응" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011558527?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011558527?sid=100"/>
-        <updated>2022-11-25T18:18:33.366Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011558527?sid=100" class="nclicks(rig.secteco)" title="대통령실, 화물연대 총파업에 &quot;업무개시명령 준비 착수…불법 행동 엄정 대응&quot;">대통령실, 화물연대 총파업에 "업무개시명령 준비 착수…불법 행동 엄정 대응"</a>]]></content>
+        <title type="html"><![CDATA[尹 “업무개시명령 검토”…野 “약속 어긴 정부 책임” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011381641?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011381641?sid=100"/>
+        <updated>2022-11-25T22:14:01.276Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011381641?sid=100" class="nclicks(rig.secteco)" title="尹 “업무개시명령 검토”…野 “약속 어긴 정부 책임”">尹 “업무개시명령 검토”…野 “약속 어긴 정부 책임”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,18 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013602777?sid=104" class="nclicks(rig.secteco)" title="중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합)">중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탈출에 폭동까지…세계 최대 中 아이폰 공장서 또 2만명 이탈 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003711048?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003711048?sid=104"/>
-        <updated>2022-11-25T19:11:56.200Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003711048?sid=104" class="nclicks(rig.secteco)" title="탈출에 폭동까지…세계 최대 中 아이폰 공장서 또 2만명 이탈">탈출에 폭동까지…세계 최대 中 아이폰 공장서 또 2만명 이탈</a>]]></content>
+        <title type="html"><![CDATA[정저우 아이폰 공장 노동자 2만 이탈, 애플 2% 급락(상보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006483187?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006483187?sid=104"/>
+        <updated>2022-11-25T22:14:01.278Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006483187?sid=104" class="nclicks(rig.secteco)" title="정저우 아이폰 공장 노동자 2만 이탈, 애플 2% 급락(상보)">정저우 아이폰 공장 노동자 2만 이탈, 애플 2% 급락(상보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['김치코인' 위믹스 상폐에 게임주까지 '휘청'…투자자들 "살 맛 안나" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003711262?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003711262?sid=101"/>
-        <updated>2022-11-25T21:13:21.295Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003711262?sid=101" class="nclicks(rig.secteco)" title="'김치코인' 위믹스 상폐에 게임주까지 '휘청'…투자자들 &quot;살 맛 안나&quot;">'김치코인' 위믹스 상폐에 게임주까지 '휘청'…투자자들 "살 맛 안나"</a>]]></content>
+        <title type="html"><![CDATA['위믹스 상장폐지' 결정… '적자 늪' 위메이드, 불확실성 우려↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000872559?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000872559?sid=101"/>
+        <updated>2022-11-25T22:14:01.278Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000872559?sid=101" class="nclicks(rig.secteco)" title="'위믹스 상장폐지' 결정… '적자 늪' 위메이드, 불확실성 우려↑">'위믹스 상장폐지' 결정… '적자 늪' 위메이드, 불확실성 우려↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['위헌' 논란에도…정부, 화물연대에 업무개시명령 강행? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004822341?sid=102" class="nclicks(rig.secteco)" title="'밥 대신 빵·라면' 급식파업 첫날…학부모 &quot;올해도 반복&quot; 한숨">'밥 대신 빵·라면' 급식파업 첫날…학부모 "올해도 반복" 한숨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위기가구 지정됐는데도 ‘복지 사각’ 모녀 또 비극 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003464530?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003464530?sid=102"/>
-        <updated>2022-11-25T18:18:33.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003464530?sid=102" class="nclicks(rig.secteco)" title="위기가구 지정됐는데도 ‘복지 사각’ 모녀 또 비극">위기가구 지정됐는데도 ‘복지 사각’ 모녀 또 비극</a>]]></content>
+        <title type="html"><![CDATA[‘복지 사각’ 위기가구서 또 비극…모녀 숨진 채 발견 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011381649?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011381649?sid=102"/>
+        <updated>2022-11-25T22:14:01.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011381649?sid=102" class="nclicks(rig.secteco)" title="‘복지 사각’ 위기가구서 또 비극…모녀 숨진 채 발견">‘복지 사각’ 위기가구서 또 비극…모녀 숨진 채 발견</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남욱 "총 4번 이재명 선거자금"...檢·방패 '물증싸움' 시작됐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
