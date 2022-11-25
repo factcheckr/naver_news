@@ -2,43 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-25T15:15:39.586Z</updated>
+    <updated>2022-11-25T16:20:19.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실 “물류 볼모 파업, 국민이 용납 안 해” 초강경 대응]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000043671?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000043671?sid=100"/>
+        <updated>2022-11-25T16:19:49.262Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000043671?sid=100" class="nclicks(rig.secteco)" title="대통령실 “물류 볼모 파업, 국민이 용납 안 해” 초강경 대응">대통령실 “물류 볼모 파업, 국민이 용납 안 해” 초강경 대응</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 윤리위 “이준석 추가 징계 논의는 전혀 없다”...박희영 용산구청장 징계 절차 개시]]></title>
         <id>https://n.news.naver.com/mnews/article/021/0002543401?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/021/0002543401?sid=100"/>
-        <updated>2022-11-25T15:15:13.183Z</updated>
+        <updated>2022-11-25T16:19:49.266Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002543401?sid=100" class="nclicks(rig.secteco)" title="與 윤리위 “이준석 추가 징계 논의는 전혀 없다”...박희영 용산구청장 징계 절차 개시">與 윤리위 “이준석 추가 징계 논의는 전혀 없다”...박희영 용산구청장 징계 절차 개시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유가앙등 때문?…피랍선박 기름만 빼앗고 선원은 풀어준 해적들]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013602967?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013602967?sid=100"/>
-        <updated>2022-11-25T15:15:13.184Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013602967?sid=100" class="nclicks(rig.secteco)" title="유가앙등 때문?…피랍선박 기름만 빼앗고 선원은 풀어준 해적들">유가앙등 때문?…피랍선박 기름만 빼앗고 선원은 풀어준 해적들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, 대화 문 닫고 “법대로”…타협의 정치가 안 보인다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003188773?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003188773?sid=100"/>
-        <updated>2022-11-25T12:29:28.193Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003188773?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 대화 문 닫고 “법대로”…타협의 정치가 안 보인다">윤 대통령, 대화 문 닫고 “법대로”…타협의 정치가 안 보인다</a>]]></content>
+        <title type="html"><![CDATA['무장 경비' 동승했지만…'해적의 바다' 기니만서 급유선 또 억류]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003241321?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003241321?sid=100"/>
+        <updated>2022-11-25T14:13:24.617Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003241321?sid=100" class="nclicks(rig.secteco)" title="'무장 경비' 동승했지만…'해적의 바다' 기니만서 급유선 또 억류">'무장 경비' 동승했지만…'해적의 바다' 기니만서 급유선 또 억류</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 中공장 '레미제라블' 시위…폭스콘 “퇴사하면 190만원”]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003240957?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003240957?sid=104"/>
-        <updated>2022-11-25T15:15:13.186Z</updated>
+        <updated>2022-11-25T16:19:49.269Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003240957?sid=104" class="nclicks(rig.secteco)" title="애플 中공장 '레미제라블' 시위…폭스콘 “퇴사하면 190만원”">애플 中공장 '레미제라블' 시위…폭스콘 “퇴사하면 190만원”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中, 코로나 확산 속 은행 지급준비율 0.25%포인트 인하…92조원 푼다]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000857848?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000857848?sid=104"/>
-        <updated>2022-11-25T12:29:28.198Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000857848?sid=104" class="nclicks(rig.secteco)" title="中, 코로나 확산 속 은행 지급준비율 0.25%포인트 인하…92조원 푼다">中, 코로나 확산 속 은행 지급준비율 0.25%포인트 인하…92조원 푼다</a>]]></content>
+        <title type="html"><![CDATA[中. 은행 지급준비율 0.25%P 인하… “93조원 유동성 공급”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003758226?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003758226?sid=104"/>
+        <updated>2022-11-25T16:19:49.270Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003758226?sid=104" class="nclicks(rig.secteco)" title="中. 은행 지급준비율 0.25%P 인하… “93조원 유동성 공급”">中. 은행 지급준비율 0.25%P 인하… “93조원 유동성 공급”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[코인뉴스] ‘위믹스’ 투자자들은 수천억 날렸는데...업비트 대표는 인스타 자랑질?]]></title>
@@ -72,7 +72,7 @@
         <title type="html"><![CDATA[위믹스에 '코인판 다트' 합류…허위공시 논란 '정면돌파']]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004822407?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004822407?sid=105"/>
-        <updated>2022-11-25T15:15:13.201Z</updated>
+        <updated>2022-11-25T16:19:49.280Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004822407?sid=105" class="nclicks(rig.secteco)" title="위믹스에 '코인판 다트' 합류…허위공시 논란 '정면돌파'">위믹스에 '코인판 다트' 합류…허위공시 논란 '정면돌파'</a>]]></content>
     </entry>
     <entry>
@@ -83,24 +83,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003758219?sid=102" class="nclicks(rig.secteco)" title="학교 비정규직 파업에 분노한 학부모들 “아이들 볼모로 국민 공감 얻나“ 일갈">학교 비정규직 파업에 분노한 학부모들 “아이들 볼모로 국민 공감 얻나“ 일갈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘복지 사각’ 모녀 또 비극…집 앞엔 다섯 달 밀린 가스비 고지서]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003464523?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003464523?sid=102"/>
-        <updated>2022-11-25T13:24:24.536Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003464523?sid=102" class="nclicks(rig.secteco)" title="‘복지 사각’ 모녀 또 비극…집 앞엔 다섯 달 밀린 가스비 고지서">‘복지 사각’ 모녀 또 비극…집 앞엔 다섯 달 밀린 가스비 고지서</a>]]></content>
+        <title type="html"><![CDATA['생활고 비극' 서대문구 모녀 사망…野 "정치가 가져온 죽음"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005375213?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005375213?sid=102"/>
+        <updated>2022-11-25T16:19:49.283Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005375213?sid=102" class="nclicks(rig.secteco)" title="'생활고 비극' 서대문구 모녀 사망…野 &quot;정치가 가져온 죽음&quot;">'생활고 비극' 서대문구 모녀 사망…野 "정치가 가져온 죽음"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '오징어게임' 오영수 강제추행 혐의로 기소...오씨 "혐의 부인"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000322839?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000322839?sid=102"/>
-        <updated>2022-11-25T15:15:13.217Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000322839?sid=102" class="nclicks(rig.secteco)" title="[단독] '오징어게임' 오영수 강제추행 혐의로 기소...오씨 &quot;혐의 부인&quot;">[단독] '오징어게임' 오영수 강제추행 혐의로 기소...오씨 "혐의 부인"</a>]]></content>
+        <title type="html"><![CDATA['깐부' 오영수, 규제혁신 광고·연극 출연 줄줄이 취소]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004126756?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004126756?sid=102"/>
+        <updated>2022-11-25T16:19:49.284Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004126756?sid=102" class="nclicks(rig.secteco)" title="'깐부' 오영수, 규제혁신 광고·연극 출연 줄줄이 취소">'깐부' 오영수, 규제혁신 광고·연극 출연 줄줄이 취소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스9 날씨] 밤사이 중부·전북에 비…비 그친 뒤 기온 ‘뚝’]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011381539?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011381539?sid=103"/>
-        <updated>2022-11-25T15:15:13.217Z</updated>
+        <updated>2022-11-25T16:19:49.285Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011381539?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 밤사이 중부·전북에 비…비 그친 뒤 기온 ‘뚝’">[뉴스9 날씨] 밤사이 중부·전북에 비…비 그친 뒤 기온 ‘뚝’</a>]]></content>
     </entry>
     <entry>
