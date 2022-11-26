@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-26T19:11:57.707Z</updated>
+    <updated>2022-11-26T20:15:38.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당 “협치 포기, 한가한 비밀만찬 한심해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003758420?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003758420?sid=100"/>
+        <updated>2022-11-26T20:15:06.769Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003758420?sid=100" class="nclicks(rig.secteco)" title="민주당 “협치 포기, 한가한 비밀만찬 한심해”">민주당 “협치 포기, 한가한 비밀만찬 한심해”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이예람 사건 연루' 전익수 공군 법무실장, 준장에서 대령으로 강등]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003711291?sid=100</id>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011559359?sid=100" class="nclicks(rig.secteco)" title="4년만의 한일 의원 축구, 5대3 승[뉴시스Pic]">4년만의 한일 의원 축구, 5대3 승[뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 "사진 한 장 없는 尹-與 만찬..한심하고 기막혀”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005375356?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005375356?sid=100"/>
-        <updated>2022-11-26T19:11:28.586Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005375356?sid=100" class="nclicks(rig.secteco)" title="野 &quot;사진 한 장 없는 尹-與 만찬..한심하고 기막혀”">野 "사진 한 장 없는 尹-與 만찬..한심하고 기막혀”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 지방선거, 집권 민진당 참패·국민당 승리(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013603852?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013603852?sid=104"/>
-        <updated>2022-11-26T19:11:28.587Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013603852?sid=104" class="nclicks(rig.secteco)" title="대만 지방선거, 집권 민진당 참패·국민당 승리(종합)">대만 지방선거, 집권 민진당 참패·국민당 승리(종합)</a>]]></content>
+        <title type="html"><![CDATA[차이잉원, 지방선거 참패로 타격…차기 대만 대선 주목]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013603964?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013603964?sid=104"/>
+        <updated>2022-11-26T20:15:06.774Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013603964?sid=104" class="nclicks(rig.secteco)" title="차이잉원, 지방선거 참패로 타격…차기 대만 대선 주목">차이잉원, 지방선거 참패로 타격…차기 대만 대선 주목</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[날개 단 디샌티스, 2024년 트럼프 넘어설까?]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000048557?sid=104" class="nclicks(rig.secteco)" title="날개 단 디샌티스, 2024년 트럼프 넘어설까?">날개 단 디샌티스, 2024년 트럼프 넘어설까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001569231?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001569231?sid=101"/>
-        <updated>2022-11-26T07:14:17.024Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001569231?sid=101" class="nclicks(rig.secteco)" title="“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들">“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원희룡 국토부 장관·화물연대와 대화..."모레 화물연대와 교섭 진행...업무개시명령은 준비"]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001818577?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/052/0001818577?sid=101"/>
@@ -55,18 +48,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001818577?sid=101" class="nclicks(rig.secteco)" title="원희룡 국토부 장관·화물연대와 대화...&quot;모레 화물연대와 교섭 진행...업무개시명령은 준비&quot;">원희룡 국토부 장관·화물연대와 대화..."모레 화물연대와 교섭 진행...업무개시명령은 준비"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전력도매가 상한제 규개위 통과…내달 도입 사실상 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005375202?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005375202?sid=101"/>
-        <updated>2022-11-26T18:17:14.783Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005375202?sid=101" class="nclicks(rig.secteco)" title="전력도매가 상한제 규개위 통과…내달 도입 사실상 확정">전력도매가 상한제 규개위 통과…내달 도입 사실상 확정</a>]]></content>
+        <title type="html"><![CDATA[“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001569231?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001569231?sid=101"/>
+        <updated>2022-11-26T07:14:17.024Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001569231?sid=101" class="nclicks(rig.secteco)" title="“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들">“사장님, 경유값이 왜 이래요?”… 경유차 버리는 운전자들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[생생경제] 위믹스 상장 폐지, 코인 시장 영항은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001818171?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001818171?sid=105"/>
-        <updated>2022-11-26T18:17:14.787Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001818171?sid=105" class="nclicks(rig.secteco)" title="[생생경제] 위믹스 상장 폐지, 코인 시장 영항은?">[생생경제] 위믹스 상장 폐지, 코인 시장 영항은?</a>]]></content>
+        <title type="html"><![CDATA[둔촌주공 내달 5일 청약 … 전매제한 8년·이자 부담이 흥행변수]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005050971?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005050971?sid=101"/>
+        <updated>2022-11-26T20:15:06.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005050971?sid=101" class="nclicks(rig.secteco)" title="둔촌주공 내달 5일 청약 … 전매제한 8년·이자 부담이 흥행변수">둔촌주공 내달 5일 청약 … 전매제한 8년·이자 부담이 흥행변수</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위믹스 상폐' 결정이 드러낸 뇌관…"닥사는 누구입니까"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006483871?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006483871?sid=105"/>
+        <updated>2022-11-26T20:15:06.783Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006483871?sid=105" class="nclicks(rig.secteco)" title="'위믹스 상폐' 결정이 드러낸 뇌관…&quot;닥사는 누구입니까&quot;">'위믹스 상폐' 결정이 드러낸 뇌관…"닥사는 누구입니까"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥슨표 메타버스 ‘메이플스토리 월드’, 내년 글로벌 확장]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011559392?sid=102" class="nclicks(rig.secteco)" title="주말 또 진보·보수 맞불집회…도심 곳곳 혼잡[뉴시스Pic]">주말 또 진보·보수 맞불집회…도심 곳곳 혼잡[뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특수본 '대응단계 늑장발령 의혹' 용산소방서장 재소환(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013603668?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013603668?sid=102"/>
-        <updated>2022-11-26T19:11:28.606Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013603668?sid=102" class="nclicks(rig.secteco)" title="특수본 '대응단계 늑장발령 의혹' 용산소방서장 재소환(종합)">특수본 '대응단계 늑장발령 의혹' 용산소방서장 재소환(종합)</a>]]></content>
+        <title type="html"><![CDATA[인천 빌라서 10대 형제 사망·부모는 뇌사…유서 발견(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013603489?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013603489?sid=102"/>
+        <updated>2022-11-26T20:15:06.793Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013603489?sid=102" class="nclicks(rig.secteco)" title="인천 빌라서 10대 형제 사망·부모는 뇌사…유서 발견(종합2보)">인천 빌라서 10대 형제 사망·부모는 뇌사…유서 발견(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['내방가사' 등 3건 유네스코 세계기록유산 아시아·태평양 지역 목록 등재]]></title>
