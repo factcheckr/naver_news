@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-26T02:49:17.368Z</updated>
+    <updated>2022-11-26T03:22:04.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 주호영과 포옹하며 "고생 많다" 격려]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000709664?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000709664?sid=100"/>
-        <updated>2022-11-26T02:48:48.485Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000709664?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 주호영과 포옹하며 &quot;고생 많다&quot; 격려">윤 대통령, 주호영과 포옹하며 "고생 많다" 격려</a>]]></content>
+        <title type="html"><![CDATA[尹, 與지도부와 3시간20분 '관저 만찬'…"책임과 역할 다하자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005183225?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005183225?sid=100"/>
+        <updated>2022-11-26T03:21:35.909Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005183225?sid=100" class="nclicks(rig.secteco)" title="尹, 與지도부와 3시간20분 '관저 만찬'…&quot;책임과 역할 다하자&quot;">尹, 與지도부와 3시간20분 '관저 만찬'…"책임과 역할 다하자"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與윤리위, '이태원 참사 설화' 박희영 용산구청장 징계 개시]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002661594?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002661594?sid=100"/>
+        <updated>2022-11-26T03:21:35.914Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002661594?sid=100" class="nclicks(rig.secteco)" title="與윤리위, '이태원 참사 설화' 박희영 용산구청장 징계 개시">與윤리위, '이태원 참사 설화' 박희영 용산구청장 징계 개시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 총파업 불법 프레임 압박 높이는 대통령실]]></title>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000115719?sid=100" class="nclicks(rig.secteco)" title="화물연대 총파업 불법 프레임 압박 높이는 대통령실">화물연대 총파업 불법 프레임 압박 높이는 대통령실</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의힘 윤리위, 박희영 용산구청장 징계 절차 개시]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000571759?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000571759?sid=100"/>
-        <updated>2022-11-26T02:48:48.488Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000571759?sid=100" class="nclicks(rig.secteco)" title="국민의힘 윤리위, 박희영 용산구청장 징계 절차 개시">국민의힘 윤리위, 박희영 용산구청장 징계 절차 개시</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013602777?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013602777?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013602777?sid=104" class="nclicks(rig.secteco)" title="중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합)">중국 지급준비율 0.25%P 인하…시장에 93조원 공급(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘푸틴의 보복’ 헤르손 뺏기자 무차별 포격…15명 숨져]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001569256?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001569256?sid=104"/>
-        <updated>2022-11-26T02:48:48.491Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001569256?sid=104" class="nclicks(rig.secteco)" title="‘푸틴의 보복’ 헤르손 뺏기자 무차별 포격…15명 숨져">‘푸틴의 보복’ 헤르손 뺏기자 무차별 포격…15명 숨져</a>]]></content>
+        <title type="html"><![CDATA[우크라가 탈환한?헤르손에?러 무차별 포격···젤렌스키 “보복 행위”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003188832?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003188832?sid=104"/>
+        <updated>2022-11-26T03:21:35.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003188832?sid=104" class="nclicks(rig.secteco)" title="우크라가 탈환한?헤르손에?러 무차별 포격···젤렌스키 “보복 행위”">우크라가 탈환한?헤르손에?러 무차별 포격···젤렌스키 “보복 행위”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['8000억' 위믹스 상폐에 업비트 '갑질' 논란… 법정공방 예고]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000872583?sid=101" class="nclicks(rig.secteco)" title="'8000억' 위믹스 상폐에 업비트 '갑질' 논란…  법정공방 예고">'8000억' 위믹스 상폐에 업비트 '갑질' 논란… 법정공방 예고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추수감사절 앞둔 뉴욕증시, '블프' 소비 주시하며 혼조]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004822481?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004822481?sid=101"/>
-        <updated>2022-11-26T02:48:48.495Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004822481?sid=101" class="nclicks(rig.secteco)" title="추수감사절 앞둔 뉴욕증시, '블프' 소비 주시하며 혼조">추수감사절 앞둔 뉴욕증시, '블프' 소비 주시하며 혼조</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전국 휘발유값 11주 연속 하락…오르던 경유도 떨어져]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000322914?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000322914?sid=101"/>
         <updated>2022-11-26T02:48:48.497Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000322914?sid=101" class="nclicks(rig.secteco)" title="전국 휘발유값 11주 연속 하락…오르던 경유도 떨어져">전국 휘발유값 11주 연속 하락…오르던 경유도 떨어져</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시 블프 앞두고 혼조 마감...다우 0.45%↑ 나스닥 0.52 %↓]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000186778?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000186778?sid=101"/>
+        <updated>2022-11-26T03:21:35.922Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000186778?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시 블프 앞두고 혼조 마감...다우 0.45%↑ 나스닥 0.52 %↓">뉴욕증시 블프 앞두고 혼조 마감...다우 0.45%↑ 나스닥 0.52 %↓</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일론 머스크의 '스타링크', 韓 제4이통 진입할까]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003241304?sid=102" class="nclicks(rig.secteco)" title="&quot;이재명 노후자금까지 염두&quot; 남욱 또 '천화동인 1호' 폭탄발언  [法ON]">"이재명 노후자금까지 염두" 남욱 또 '천화동인 1호' 폭탄발언 [法ON]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학교비정규직도 전국서 파업… 학부모들 “애들 먹는거로 볼모” 분통]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003758327?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003758327?sid=102"/>
-        <updated>2022-11-26T02:48:48.503Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003758327?sid=102" class="nclicks(rig.secteco)" title="학교비정규직도 전국서 파업… 학부모들 “애들 먹는거로 볼모” 분통">학교비정규직도 전국서 파업… 학부모들 “애들 먹는거로 볼모” 분통</a>]]></content>
+        <title type="html"><![CDATA[[단독] 신촌서 모녀 극단적 선택…"전기료 5개월 밀려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000571666?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000571666?sid=102"/>
+        <updated>2022-11-26T03:21:35.928Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000571666?sid=102" class="nclicks(rig.secteco)" title="[단독] 신촌서 모녀 극단적 선택…&quot;전기료 5개월 밀려&quot;">[단독] 신촌서 모녀 극단적 선택…"전기료 5개월 밀려"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생활고에 되풀이되는 비극… 신촌서 모녀 숨진 채 발견]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003758322?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003758322?sid=102"/>
-        <updated>2022-11-26T01:08:02.697Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003758322?sid=102" class="nclicks(rig.secteco)" title="생활고에 되풀이되는 비극… 신촌서 모녀 숨진 채 발견">생활고에 되풀이되는 비극… 신촌서 모녀 숨진 채 발견</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK]학교 비정규직 파업에 차질 빚은 급식…빵으로 점심 때운 3000개 학교]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006483239?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006483239?sid=102"/>
+        <updated>2022-11-26T03:21:35.929Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006483239?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]학교 비정규직 파업에 차질 빚은 급식…빵으로 점심 때운 3000개 학교">[뉴스1 PICK]학교 비정규직 파업에 차질 빚은 급식…빵으로 점심 때운 3000개 학교</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밤사이 중부·전북 비…내일 그치고 기온 '뚝', 모레 아침 영하]]></title>
