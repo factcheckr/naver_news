@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-29T03:25:32.951Z</updated>
+    <updated>2022-11-29T04:18:58.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["악순환 끊겠다"…盧때 만든 '화물차 업무개시 명령' 첫 발동]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003242056?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003242056?sid=100"/>
-        <updated>2022-11-29T03:25:01.343Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242056?sid=100" class="nclicks(rig.secteco)" title="&quot;악순환 끊겠다&quot;…盧때 만든 '화물차 업무개시 명령' 첫 발동">"악순환 끊겠다"…盧때 만든 '화물차 업무개시 명령' 첫 발동</a>]]></content>
+        <title type="html"><![CDATA[정부, 첫 업무개시명령 발동…尹 "불법행위 책임 물을 것"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006488730?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006488730?sid=100"/>
+        <updated>2022-11-29T04:18:26.170Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006488730?sid=100" class="nclicks(rig.secteco)" title="정부, 첫 업무개시명령 발동…尹 &quot;불법행위 책임 물을 것&quot;(종합)">정부, 첫 업무개시명령 발동…尹 "불법행위 책임 물을 것"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 "이상민 해임건의 무시하면 탄핵소추"…對與 파상공세]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013609959?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013609959?sid=100"/>
-        <updated>2022-11-29T03:25:01.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013609959?sid=100" class="nclicks(rig.secteco)" title="野 &quot;이상민 해임건의 무시하면 탄핵소추&quot;…對與 파상공세">野 "이상민 해임건의 무시하면 탄핵소추"…對與 파상공세</a>]]></content>
+        <title type="html"><![CDATA[박홍근 "尹 민심과 맞서...이상민 해임건의안 30일 제출, 무시하면 탄핵 추진"]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002291569?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002291569?sid=100"/>
+        <updated>2022-11-29T04:18:26.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002291569?sid=100" class="nclicks(rig.secteco)" title="박홍근 &quot;尹 민심과 맞서...이상민 해임건의안 30일 제출, 무시하면 탄핵 추진&quot;">박홍근 "尹 민심과 맞서...이상민 해임건의안 30일 제출, 무시하면 탄핵 추진"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 "북한 7차 핵실험? 굉장히 어리석은 결정될 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002374422?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002374422?sid=100"/>
-        <updated>2022-11-29T03:25:01.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374422?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;북한 7차 핵실험? 굉장히 어리석은 결정될 것&quot;">윤 대통령 "북한 7차 핵실험? 굉장히 어리석은 결정될 것"</a>]]></content>
+        <title type="html"><![CDATA[尹대통령 "中, 北 무기개발 중단 영향력 행사 능력·책임 있어"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013609333?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013609333?sid=100"/>
+        <updated>2022-11-29T04:18:26.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013609333?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;中, 北 무기개발 중단 영향력 행사 능력·책임 있어&quot;(종합)">尹대통령 "中, 北 무기개발 중단 영향력 행사 능력·책임 있어"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크, 트위터 광고 중단한 애플에 반발···앱스토어 퇴출 위기에 갈등 격화]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003189423?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003189423?sid=104"/>
+        <updated>2022-11-29T04:18:26.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003189423?sid=104" class="nclicks(rig.secteco)" title="머스크, 트위터 광고 중단한 애플에 반발···앱스토어 퇴출 위기에 갈등 격화">머스크, 트위터 광고 중단한 애플에 반발···앱스토어 퇴출 위기에 갈등 격화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든 방문하는 SK실트론CSS 공장은…"양국 경제협력 상징"]]></title>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013609893?sid=104" class="nclicks(rig.secteco)" title="바이든 방문하는 SK실트론CSS 공장은…&quot;양국 경제협력 상징&quot;">바이든 방문하는 SK실트론CSS 공장은…"양국 경제협력 상징"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크, 애플 상대로 전쟁 선포…15분간 트윗 공격 연발]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011563870?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011563870?sid=104"/>
-        <updated>2022-11-29T02:51:39.979Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011563870?sid=104" class="nclicks(rig.secteco)" title="머스크, 애플 상대로 전쟁 선포…15분간 트윗 공격 연발">머스크, 애플 상대로 전쟁 선포…15분간 트윗 공격 연발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀 가계대출 금리 5.34%, 10년 4개월래 최고…신용대출 7% 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005376923?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005376923?sid=101"/>
-        <updated>2022-11-29T03:25:01.352Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005376923?sid=101" class="nclicks(rig.secteco)" title="銀 가계대출 금리 5.34%, 10년 4개월래 최고…신용대출 7% 돌파">銀 가계대출 금리 5.34%, 10년 4개월래 최고…신용대출 7% 돌파</a>]]></content>
+        <title type="html"><![CDATA[은행 예금 평균 금리 4.01%, 13년 9개월 만에 최대]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000713574?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000713574?sid=101"/>
+        <updated>2022-11-29T04:18:26.180Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000713574?sid=101" class="nclicks(rig.secteco)" title="은행 예금 평균 금리 4.01%, 13년 9개월 만에 최대">은행 예금 평균 금리 4.01%, 13년 9개월 만에 최대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정보통신기술 망라 스마트선박, 울산에 뜬다…이름은 '태화호'(종합)]]></title>
@@ -62,52 +62,52 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004823217?sid=101" class="nclicks(rig.secteco)" title="[단독]신한금융 차기회장 압축후보군에 조용병 회장 등 5명(종합)">[단독]신한금융 차기회장 압축후보군에 조용병 회장 등 5명(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT, 전국 대리점서 모바일 전자증명 시작]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002137709?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002137709?sid=105"/>
-        <updated>2022-11-29T02:51:39.999Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002137709?sid=105" class="nclicks(rig.secteco)" title="KT, 전국 대리점서 모바일 전자증명 시작">KT, 전국 대리점서 모바일 전자증명 시작</a>]]></content>
+        <title type="html"><![CDATA["종이서류 안녕"…SKT, 전국 대리점서 모바일 전자증명 시작]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011563592?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011563592?sid=105"/>
+        <updated>2022-11-29T04:18:26.185Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011563592?sid=105" class="nclicks(rig.secteco)" title="&quot;종이서류 안녕&quot;…SKT, 전국 대리점서 모바일 전자증명 시작">"종이서류 안녕"…SKT, 전국 대리점서 모바일 전자증명 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LGU+, 경남 중소·중견기업 5G 기반 스마트팩토리 고도화]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011560917?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011560917?sid=105"/>
-        <updated>2022-11-29T02:51:40.000Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011560917?sid=105" class="nclicks(rig.secteco)" title="LGU+, 경남 중소·중견기업 5G 기반 스마트팩토리 고도화">LGU+, 경남 중소·중견기업 5G 기반 스마트팩토리 고도화</a>]]></content>
+        <title type="html"><![CDATA[LGU+, 공작기계 세계 1위 '화낙'과 스마트팩토리 개발]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004127675?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004127675?sid=105"/>
+        <updated>2022-11-29T04:18:26.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004127675?sid=105" class="nclicks(rig.secteco)" title="LGU+, 공작기계 세계 1위 '화낙'과 스마트팩토리 개발">LGU+, 공작기계 세계 1위 '화낙'과 스마트팩토리 개발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특수본, 박희영 용산구청장 세 번째 소환…구속영장 검토]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000048686?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000048686?sid=102"/>
-        <updated>2022-11-29T03:25:01.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000048686?sid=102" class="nclicks(rig.secteco)" title="특수본, 박희영 용산구청장 세 번째 소환…구속영장 검토">특수본, 박희영 용산구청장 세 번째 소환…구속영장 검토</a>]]></content>
+        <title type="html"><![CDATA[특수본, 박희영 용산구청장 세번째 불러 고강도 조사…구속영장 저울질]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000937723?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000937723?sid=102"/>
+        <updated>2022-11-29T04:18:26.196Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000937723?sid=102" class="nclicks(rig.secteco)" title="특수본, 박희영 용산구청장 세번째 불러 고강도 조사…구속영장 저울질">특수본, 박희영 용산구청장 세번째 불러 고강도 조사…구속영장 저울질</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다른차 붙은 '공유 사진' 보행자로 인식…자율주행셔틀 청계천 달리는 이유 [현장+]]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004781069?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004781069?sid=102"/>
-        <updated>2022-11-29T02:51:40.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004781069?sid=102" class="nclicks(rig.secteco)" title="다른차 붙은 '공유 사진' 보행자로 인식…자율주행셔틀 청계천 달리는 이유 [현장+]">다른차 붙은 '공유 사진' 보행자로 인식…자율주행셔틀 청계천 달리는 이유 [현장+]</a>]]></content>
+        <title type="html"><![CDATA[[단독]검찰, ‘서해 피격’ 문 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003189413?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003189413?sid=102"/>
+        <updated>2022-11-29T04:18:26.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003189413?sid=102" class="nclicks(rig.secteco)" title="[단독]검찰, ‘서해 피격’ 문 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성">[단독]검찰, ‘서해 피격’ 문 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴질랜드 '가방 속 시신 사건' 한인 여성, 내일 법원 출두]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013609979?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013609979?sid=102"/>
-        <updated>2022-11-29T03:25:01.358Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013609979?sid=102" class="nclicks(rig.secteco)" title="뉴질랜드 '가방 속 시신 사건' 한인 여성, 내일 법원 출두">뉴질랜드 '가방 속 시신 사건' 한인 여성, 내일 법원 출두</a>]]></content>
+        <title type="html"><![CDATA[민주당·정의당 "반헌법적 폭거, 윤 대통령은 명령 철회하라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002374435?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002374435?sid=102"/>
+        <updated>2022-11-29T04:18:26.200Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374435?sid=102" class="nclicks(rig.secteco)" title="민주당·정의당 &quot;반헌법적 폭거, 윤 대통령은 명령 철회하라&quot;">민주당·정의당 "반헌법적 폭거, 윤 대통령은 명령 철회하라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비 오전에 그치고 날씨 급반전…오늘 낮에도 아침기온 그대로]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013609095?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013609095?sid=103"/>
-        <updated>2022-11-29T01:12:10.952Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013609095?sid=103" class="nclicks(rig.secteco)" title="비 오전에 그치고 날씨 급반전…오늘 낮에도 아침기온 그대로">비 오전에 그치고 날씨 급반전…오늘 낮에도 아침기온 그대로</a>]]></content>
+        <title type="html"><![CDATA[[단독] 극작가 겸 연출가 오태석 별세]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003731407?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003731407?sid=103"/>
+        <updated>2022-11-29T04:18:26.202Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003731407?sid=103" class="nclicks(rig.secteco)" title="[단독] 극작가 겸 연출가 오태석 별세">[단독] 극작가 겸 연출가 오태석 별세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[극단 ‘목화’ 창단 극작가 겸 연출가 오태석 별세]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003189415?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003189415?sid=103"/>
-        <updated>2022-11-29T02:51:40.006Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003189415?sid=103" class="nclicks(rig.secteco)" title="극단 ‘목화’ 창단 극작가 겸 연출가 오태석 별세">극단 ‘목화’ 창단 극작가 겸 연출가 오태석 별세</a>]]></content>
+        <title type="html"><![CDATA[전국에 시간당 20~30㎜ 비 예상…내일 낮부터 찬바람, 모레 한파]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013607624?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013607624?sid=103"/>
+        <updated>2022-11-29T04:18:26.205Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013607624?sid=103" class="nclicks(rig.secteco)" title="전국에 시간당 20~30㎜ 비 예상…내일 낮부터 찬바람, 모레 한파">전국에 시간당 20~30㎜ 비 예상…내일 낮부터 찬바람, 모레 한파</a>]]></content>
     </entry>
 </feed>
