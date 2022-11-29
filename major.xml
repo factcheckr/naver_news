@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-11-29T19:12:38.663Z</updated>
+    <updated>2022-11-29T20:16:09.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[野 “해임안 거부땐 이상민 탄핵”… 대통령실 “해임안 내면 국조 거부”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465173?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465173?sid=100"/>
-        <updated>2022-11-29T18:17:52.812Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465173?sid=100" class="nclicks(rig.secteco)" title="野 “해임안 거부땐 이상민 탄핵”… 대통령실 “해임안 내면 국조 거부”">野 “해임안 거부땐 이상민 탄핵”… 대통령실 “해임안 내면 국조 거부”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465172?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465172?sid=100"/>
-        <updated>2022-11-29T18:17:52.812Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465172?sid=100" class="nclicks(rig.secteco)" title="野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”">野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”</a>]]></content>
+        <title type="html"><![CDATA[민주당, 예정대로 30일 이상민 해임건의안 제출한다]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000710322?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000710322?sid=100"/>
+        <updated>2022-11-29T20:15:38.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000710322?sid=100" class="nclicks(rig.secteco)" title="민주당, 예정대로 30일 이상민 해임건의안 제출한다">민주당, 예정대로 30일 이상민 해임건의안 제출한다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘민노총에 밀리면 파업 악순환’ 판단… 尹 “노사 법치주의 세울것”]]></title>
@@ -25,6 +18,13 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003731629?sid=100"/>
         <updated>2022-11-29T18:17:52.812Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003731629?sid=100" class="nclicks(rig.secteco)" title="‘민노총에 밀리면 파업 악순환’ 판단… 尹 “노사 법치주의 세울것”">‘민노총에 밀리면 파업 악순환’ 판단… 尹 “노사 법치주의 세울것”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003465172?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003465172?sid=100"/>
+        <updated>2022-11-29T18:17:52.812Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465172?sid=100" class="nclicks(rig.secteco)" title="野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”">野 “공영방송 이사 늘리고 시민단체 등서 추천”… 방송법 개정안 단독처리에 與 “영구장악 폭거”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 '백지 시위'에 전 세계 연대 시위 확산…트위터가 갑자기 이상해졌다]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465156?sid=102" class="nclicks(rig.secteco)" title="화물연대, 업무명령 거부… 지하철도 오늘 파업">화물연대, 업무명령 거부… 지하철도 오늘 파업</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울지하철, 30일 아침 파업 돌입…2016년 이후 6년만(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013611526?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013611526?sid=102"/>
-        <updated>2022-11-29T16:21:18.995Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013611526?sid=102" class="nclicks(rig.secteco)" title="서울지하철, 30일 아침 파업 돌입…2016년 이후 6년만(종합2보)">서울지하철, 30일 아침 파업 돌입…2016년 이후 6년만(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK]서울 지하철 6년 만에 총파업…'출근길 비상']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006490372?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006490372?sid=102"/>
+        <updated>2022-11-29T20:15:38.463Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006490372?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]서울 지하철 6년 만에 총파업…'출근길 비상'">[뉴스1 PICK]서울 지하철 6년 만에 총파업…'출근길 비상'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서훈 文정부 靑안보실장, ‘서해피살’ 관련 구속영장]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465157?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465157?sid=102"/>
-        <updated>2022-11-29T18:17:52.843Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465157?sid=102" class="nclicks(rig.secteco)" title="서훈 文정부 靑안보실장, ‘서해피살’ 관련 구속영장">서훈 文정부 靑안보실장, ‘서해피살’ 관련 구속영장</a>]]></content>
+        <title type="html"><![CDATA[[단독]검찰, ‘서해 피격’ 문 전 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003189413?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003189413?sid=102"/>
+        <updated>2022-11-29T20:15:38.466Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003189413?sid=102" class="nclicks(rig.secteco)" title="[단독]검찰, ‘서해 피격’ 문 전 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성">[단독]검찰, ‘서해 피격’ 문 전 대통령 보고·지시 내용도 조사···서훈 선에서 수사 마무리할 가능성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 극작가 겸 연출가 오태석 별세]]></title>
