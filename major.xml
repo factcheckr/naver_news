@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-01T05:15:02.652Z</updated>
+    <updated>2022-12-01T06:22:28.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[野 "이상민 해임안 반드시 가결"…김의장에 '본회의 개의' 압박]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013615830?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013615830?sid=100"/>
-        <updated>2022-12-01T03:08:18.787Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013615830?sid=100" class="nclicks(rig.secteco)" title="野 &quot;이상민 해임안 반드시 가결&quot;…김의장에 '본회의 개의' 압박">野 "이상민 해임안 반드시 가결"…김의장에 '본회의 개의' 압박</a>]]></content>
+        <title type="html"><![CDATA['이상민 해임·예산안' 꽉 막힌 정국…본회의 개의 여부 촉각]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000572598?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000572598?sid=100"/>
+        <updated>2022-12-01T06:21:59.477Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000572598?sid=100" class="nclicks(rig.secteco)" title="'이상민 해임·예산안' 꽉 막힌 정국…본회의 개의 여부 촉각">'이상민 해임·예산안' 꽉 막힌 정국…본회의 개의 여부 촉각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야 '본회의 오늘 개의' 대치…"열면 파행" "안 열면 직무유기"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013616000?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013616000?sid=100"/>
-        <updated>2022-12-01T04:19:10.111Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013616000?sid=100" class="nclicks(rig.secteco)" title="여야 '본회의 오늘 개의' 대치…&quot;열면 파행&quot; &quot;안 열면 직무유기&quot;">여야 '본회의 오늘 개의' 대치…"열면 파행" "안 열면 직무유기"</a>]]></content>
+        <title type="html"><![CDATA[[속보]'성전환후 강제 전역' 변희수 하사 순직 불인정…육군, '일반사망' 분류]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000938329?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000938329?sid=100"/>
+        <updated>2022-12-01T06:21:59.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000938329?sid=100" class="nclicks(rig.secteco)" title="[속보]'성전환후 강제 전역' 변희수 하사 순직 불인정…육군, '일반사망' 분류">[속보]'성전환후 강제 전역' 변희수 하사 순직 불인정…육군, '일반사망' 분류</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정은, 전원회의 소집…새해 전략 짠다]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000239066?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000239066?sid=100"/>
-        <updated>2022-12-01T05:14:31.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239066?sid=100" class="nclicks(rig.secteco)" title="김정은, 전원회의 소집…새해 전략 짠다">김정은, 전원회의 소집…새해 전략 짠다</a>]]></content>
+        <title type="html"><![CDATA[도어스테핑 중단 ‘尹 대통령 언론관’ 탓 57%…MBC 책임은 31%]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760009?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760009?sid=100"/>
+        <updated>2022-12-01T06:21:59.484Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760009?sid=100" class="nclicks(rig.secteco)" title="도어스테핑 중단 ‘尹 대통령 언론관’ 탓 57%…MBC 책임은 31%">도어스테핑 중단 ‘尹 대통령 언론관’ 탓 57%…MBC 책임은 31%</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스·메타 CEO, 일론 머스크 트위터 경영 극찬…실리콘밸리 머스크 행보 '따라가기']]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001068995?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001068995?sid=104"/>
+        <updated>2022-12-01T06:21:59.484Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001068995?sid=104" class="nclicks(rig.secteco)" title="넷플릭스·메타 CEO, 일론 머스크 트위터 경영 극찬…실리콘밸리 머스크 행보 '따라가기'">넷플릭스·메타 CEO, 일론 머스크 트위터 경영 극찬…실리콘밸리 머스크 행보 '따라가기'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 누리꾼 장쩌민 애도 물결…"현 체제에 대한 불만 반영"(종합)]]></title>
@@ -34,46 +41,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013616119?sid=104" class="nclicks(rig.secteco)" title="중국 누리꾼 장쩌민 애도 물결…&quot;현 체제에 대한 불만 반영&quot;(종합)">중국 누리꾼 장쩌민 애도 물결…"현 체제에 대한 불만 반영"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팀 쿡 찾아간 머스크, 애플과 휴전 선언…"트위터 오해 풀었다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003242792?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003242792?sid=104"/>
-        <updated>2022-12-01T05:14:31.230Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242792?sid=104" class="nclicks(rig.secteco)" title="팀 쿡 찾아간 머스크, 애플과 휴전 선언…&quot;트위터 오해 풀었다&quot;">팀 쿡 찾아간 머스크, 애플과 휴전 선언…"트위터 오해 풀었다"</a>]]></content>
+        <title type="html"><![CDATA[[단독] 박성하-SK스퀘어, 윤풍영-SK C&C, 이동훈-SK바이오팜 이끈다]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005053144?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005053144?sid=101"/>
+        <updated>2022-12-01T06:21:59.484Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005053144?sid=101" class="nclicks(rig.secteco)" title="[단독] 박성하-SK스퀘어, 윤풍영-SK C&amp;C, 이동훈-SK바이오팜 이끈다">[단독] 박성하-SK스퀘어, 윤풍영-SK C&amp;C, 이동훈-SK바이오팜 이끈다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011569027?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011569027?sid=101"/>
-        <updated>2022-12-01T03:08:18.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011569027?sid=101" class="nclicks(rig.secteco)" title="수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)">수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)</a>]]></content>
+        <title type="html"><![CDATA[30% 감소한 반도체 수출…대(對)중 무역적자는 지속]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000859218?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000859218?sid=101"/>
+        <updated>2022-12-01T06:21:59.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859218?sid=101" class="nclicks(rig.secteco)" title="30% 감소한 반도체 수출…대(對)중 무역적자는 지속">30% 감소한 반도체 수출…대(對)중 무역적자는 지속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK이노, 임원인사 단행…SK엔무브 사장 박상규·SK IET 사장 김철중]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005185840?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005185840?sid=101"/>
-        <updated>2022-12-01T05:14:31.237Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005185840?sid=101" class="nclicks(rig.secteco)" title="SK이노, 임원인사 단행…SK엔무브 사장 박상규·SK IET 사장 김철중">SK이노, 임원인사 단행…SK엔무브 사장 박상규·SK IET 사장 김철중</a>]]></content>
+        <title type="html"><![CDATA[정부, 정유 업무개시명령 준비 착수…품절 주유소는 전국 33곳]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003242824?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003242824?sid=101"/>
+        <updated>2022-12-01T06:21:59.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242824?sid=101" class="nclicks(rig.secteco)" title="정부, 정유 업무개시명령 준비 착수…품절 주유소는 전국 33곳">정부, 정유 업무개시명령 준비 착수…품절 주유소는 전국 33곳</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년 가구 평균소득 6천400만원…40·50대 4분의 1은 1억원 이상]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013615894?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013615894?sid=101"/>
-        <updated>2022-12-01T05:14:31.238Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013615894?sid=101" class="nclicks(rig.secteco)" title="작년 가구 평균소득 6천400만원…40·50대 4분의 1은 1억원 이상">작년 가구 평균소득 6천400만원…40·50대 4분의 1은 1억원 이상</a>]]></content>
+        <title type="html"><![CDATA[SKT 유영상, SKB 대표 겸직…조직개편 'AI 컴퍼니' 체제 집중(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011569702?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011569702?sid=105"/>
+        <updated>2022-12-01T06:21:59.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011569702?sid=105" class="nclicks(rig.secteco)" title="SKT 유영상, SKB 대표 겸직…조직개편 'AI 컴퍼니' 체제 집중(종합)">SKT 유영상, SKB 대표 겸직…조직개편 'AI 컴퍼니' 체제 집중(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["케이블에 OTT 더한다"...CMB, 레인보우TV 출시]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002275317?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002275317?sid=105"/>
-        <updated>2022-12-01T05:14:31.238Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002275317?sid=105" class="nclicks(rig.secteco)" title="&quot;케이블에 OTT 더한다&quot;...CMB, 레인보우TV 출시">"케이블에 OTT 더한다"...CMB, 레인보우TV 출시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000859151?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000859151?sid=105"/>
-        <updated>2022-12-01T04:19:10.127Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859151?sid=105" class="nclicks(rig.secteco)" title="[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다">[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다</a>]]></content>
+        <title type="html"><![CDATA[CMB, '레인보우쇼핑'으로 지역 상생…"대전 지역 제휴 중"]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000714182?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000714182?sid=105"/>
+        <updated>2022-12-01T06:21:59.487Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000714182?sid=105" class="nclicks(rig.secteco)" title="CMB, '레인보우쇼핑'으로 지역 상생…&quot;대전 지역 제휴 중&quot;">CMB, '레인보우쇼핑'으로 지역 상생…"대전 지역 제휴 중"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재용에 계란 던진 사람, 방송인 이매리였다… 이유 들어보니]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003731982?sid=102" class="nclicks(rig.secteco)" title="이재용에 계란 던진 사람, 방송인 이매리였다… 이유 들어보니">이재용에 계란 던진 사람, 방송인 이매리였다… 이유 들어보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인천공항·스카이72 골프장 논란 끝…대법 "공항에 부지 인도하라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005378626?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005378626?sid=102"/>
-        <updated>2022-12-01T03:08:18.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005378626?sid=102" class="nclicks(rig.secteco)" title="인천공항·스카이72 골프장 논란 끝…대법 &quot;공항에 부지 인도하라&quot;">인천공항·스카이72 골프장 논란 끝…대법 "공항에 부지 인도하라"</a>]]></content>
+        <title type="html"><![CDATA["6개월간 새벽 방송 금지"… 대법, 롯데홈쇼핑 업무 정지 확정]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760007?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760007?sid=102"/>
+        <updated>2022-12-01T06:21:59.492Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760007?sid=102" class="nclicks(rig.secteco)" title="&quot;6개월간 새벽 방송 금지&quot;… 대법, 롯데홈쇼핑 업무 정지 확정">"6개월간 새벽 방송 금지"… 대법, 롯데홈쇼핑 업무 정지 확정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['롯데홈쇼핑 재승인 로비' 유죄 확정… 6개월간 새벽 방송 금지]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000710616?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000710616?sid=102"/>
-        <updated>2022-12-01T05:14:31.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000710616?sid=102" class="nclicks(rig.secteco)" title="'롯데홈쇼핑 재승인 로비' 유죄 확정… 6개월간 새벽 방송 금지">'롯데홈쇼핑 재승인 로비' 유죄 확정… 6개월간 새벽 방송 금지</a>]]></content>
+        <title type="html"><![CDATA[사랑의 온도탑 떴다…100도는 4040억, 단숨에 ‘16.3도’]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002072826?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002072826?sid=102"/>
+        <updated>2022-12-01T06:21:59.493Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002072826?sid=102" class="nclicks(rig.secteco)" title="사랑의 온도탑 떴다…100도는 4040억, 단숨에 ‘16.3도’">사랑의 온도탑 떴다…100도는 4040억, 단숨에 ‘16.3도’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차그룹, ‘2022 탑기어 어워즈’ 2개 부문 수상]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005378414?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005378414?sid=103"/>
-        <updated>2022-12-01T05:14:31.247Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005378414?sid=103" class="nclicks(rig.secteco)" title="현대차그룹, ‘2022 탑기어 어워즈’ 2개 부문 수상">현대차그룹, ‘2022 탑기어 어워즈’ 2개 부문 수상</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국 강추위…내일까지 서해안 중심 '눈']]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000572579?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000572579?sid=103"/>
+        <updated>2022-12-01T06:21:59.494Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000572579?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 강추위…내일까지 서해안 중심 '눈'">[날씨] 전국 강추위…내일까지 서해안 중심 '눈'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000035772?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000035772?sid=103"/>
-        <updated>2022-12-01T05:14:31.247Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000035772?sid=103" class="nclicks(rig.secteco)" title="'풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다">'풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다</a>]]></content>
+        <title type="html"><![CDATA['하회별신굿탈놀이' 인류무형문화유산으로 최종 등재]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002268174?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002268174?sid=103"/>
+        <updated>2022-12-01T06:21:59.496Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002268174?sid=103" class="nclicks(rig.secteco)" title="'하회별신굿탈놀이' 인류무형문화유산으로 최종 등재">'하회별신굿탈놀이' 인류무형문화유산으로 최종 등재</a>]]></content>
     </entry>
 </feed>
