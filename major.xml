@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-01T21:13:06.803Z</updated>
+    <updated>2022-12-01T22:14:11.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[문 전 대통령 “서해 피격 수사는 분별없는 처사… 도 넘지 말라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001570661?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001570661?sid=100"/>
-        <updated>2022-12-01T20:14:20.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001570661?sid=100" class="nclicks(rig.secteco)" title="문 전 대통령 “서해 피격 수사는 분별없는 처사… 도 넘지 말라”">문 전 대통령 “서해 피격 수사는 분별없는 처사… 도 넘지 말라”</a>]]></content>
+        <title type="html"><![CDATA[文, 서해피격 수사 번복 비판에...대통령실 “수사 중인 사안 언급 부적절”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760311?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760311?sid=100"/>
+        <updated>2022-12-01T22:13:42.620Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760311?sid=100" class="nclicks(rig.secteco)" title="文, 서해피격 수사 번복 비판에...대통령실 “수사 중인 사안 언급 부적절”">文, 서해피격 수사 번복 비판에...대통령실 “수사 중인 사안 언급 부적절”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['이상민 해임안'에 예산안 법정기한 처리 불발…여야 책임 공방 가열]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011570774?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011570774?sid=100"/>
-        <updated>2022-12-01T21:12:32.560Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011570774?sid=100" class="nclicks(rig.secteco)" title="'이상민 해임안'에 예산안 법정기한 처리 불발…여야 책임 공방 가열">'이상민 해임안'에 예산안 법정기한 처리 불발…여야 책임 공방 가열</a>]]></content>
+        <title type="html"><![CDATA[‘이상민 해임안’ 본회의 불발… 野 “2일 다시 개최 시도”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760292?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760292?sid=100"/>
+        <updated>2022-12-01T22:13:42.627Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760292?sid=100" class="nclicks(rig.secteco)" title="‘이상민 해임안’ 본회의 불발… 野 “2일 다시 개최 시도”">‘이상민 해임안’ 본회의 불발… 野 “2일 다시 개최 시도”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야, 전방위 입법 대치... 방송법·노란봉투법·종부세법 등으로 확산]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000710769?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000710769?sid=100"/>
-        <updated>2022-12-01T20:14:20.091Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000710769?sid=100" class="nclicks(rig.secteco)" title="여야, 전방위 입법 대치... 방송법·노란봉투법·종부세법 등으로 확산">여야, 전방위 입법 대치... 방송법·노란봉투법·종부세법 등으로 확산</a>]]></content>
+        <title type="html"><![CDATA[권성동 “독재냐” 정청래 “尹에게나 전해라”..방송법 개정안 놓고 거친 설전]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004936741?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004936741?sid=100"/>
+        <updated>2022-12-01T22:13:42.630Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004936741?sid=100" class="nclicks(rig.secteco)" title="권성동 “독재냐” 정청래 “尹에게나 전해라”..방송법 개정안 놓고 거친 설전">권성동 “독재냐” 정청래 “尹에게나 전해라”..방송법 개정안 놓고 거친 설전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“美, 인플레법 전화 한 통 없었다”… 마크롱도 꺼낸 ‘뒤통수론’]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003321836?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003321836?sid=104"/>
-        <updated>2022-12-01T21:12:32.567Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003321836?sid=104" class="nclicks(rig.secteco)" title="“美, 인플레법 전화 한 통 없었다”… 마크롱도 꺼낸 ‘뒤통수론’">“美, 인플레법 전화 한 통 없었다”… 마크롱도 꺼낸 ‘뒤통수론’</a>]]></content>
+        <title type="html"><![CDATA[바이든, IRA 비판에 "동맹 제외 의도없어…결함, 조정방안 있어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013617936?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013617936?sid=104"/>
+        <updated>2022-12-01T22:13:42.631Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013617936?sid=104" class="nclicks(rig.secteco)" title="바이든, IRA 비판에 &quot;동맹 제외 의도없어…결함, 조정방안 있어&quot;">바이든, IRA 비판에 "동맹 제외 의도없어…결함, 조정방안 있어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크롱 만난 바이든 "인플레 감축법에 결함 있어…조정할 것"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005186108?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005186108?sid=104"/>
-        <updated>2022-12-01T21:12:32.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005186108?sid=104" class="nclicks(rig.secteco)" title="마크롱 만난 바이든 &quot;인플레 감축법에 결함 있어…조정할 것&quot;(종합)">마크롱 만난 바이든 "인플레 감축법에 결함 있어…조정할 것"(종합)</a>]]></content>
+        <title type="html"><![CDATA[바이든·마크롱 "北미사일 규탄"…'프랑스 불만' IRA 논의(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011570879?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011570879?sid=104"/>
+        <updated>2022-12-01T22:13:42.632Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011570879?sid=104" class="nclicks(rig.secteco)" title="바이든·마크롱 &quot;北미사일 규탄&quot;…'프랑스 불만' IRA 논의(종합2보)">바이든·마크롱 "北미사일 규탄"…'프랑스 불만' IRA 논의(종합2보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘경제 버팀목’ 수출 두달째 감소… ‘효자’ 반도체 29.8% 감소에 휘청]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760289?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760289?sid=101"/>
+        <updated>2022-12-01T22:13:42.633Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760289?sid=101" class="nclicks(rig.secteco)" title="‘경제 버팀목’ 수출 두달째 감소… ‘효자’ 반도체 29.8% 감소에 휘청">‘경제 버팀목’ 수출 두달째 감소… ‘효자’ 반도체 29.8% 감소에 휘청</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경제위기 속 '재무통' 택한 SK 최태원...주요 계열사 전진배치]]></title>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002275361?sid=101" class="nclicks(rig.secteco)" title="경제위기 속 '재무통' 택한 SK 최태원...주요 계열사 전진배치">경제위기 속 '재무통' 택한 SK 최태원...주요 계열사 전진배치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11월 수출 ―14% 곤두박질… 4분기 마이너스 성장 위기]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465656?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465656?sid=101"/>
-        <updated>2022-12-01T20:14:20.098Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465656?sid=101" class="nclicks(rig.secteco)" title="11월 수출 ―14% 곤두박질… 4분기 마이너스 성장 위기">11월 수출 ―14% 곤두박질… 4분기 마이너스 성장 위기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]철도노조 파업예고 철회… 새벽 극적 타결]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465766?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465766?sid=101"/>
-        <updated>2022-12-01T21:12:32.593Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465766?sid=101" class="nclicks(rig.secteco)" title="[속보]철도노조 파업예고 철회… 새벽 극적 타결">[속보]철도노조 파업예고 철회… 새벽 극적 타결</a>]]></content>
+        <title type="html"><![CDATA["땡큐 파월" 환율 내리고 코스피 오르고… 내년 전망은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000874233?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000874233?sid=101"/>
+        <updated>2022-12-01T22:13:42.635Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874233?sid=101" class="nclicks(rig.secteco)" title="&quot;땡큐 파월&quot; 환율 내리고 코스피 오르고… 내년 전망은?">"땡큐 파월" 환율 내리고 코스피 오르고… 내년 전망은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유영상·박성하·윤풍영…블리자드·델 출신까지 영입한 SK ICT(종합)]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005379020?sid=105" class="nclicks(rig.secteco)" title="유영상·박성하·윤풍영…블리자드·델 출신까지 영입한 SK ICT(종합)">유영상·박성하·윤풍영…블리자드·델 출신까지 영입한 SK ICT(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['카카오 먹통 방지법' 과방위 통과…이번엔 국회문턱 넘을까(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011570154?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011570154?sid=105"/>
-        <updated>2022-12-01T16:27:32.083Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011570154?sid=105" class="nclicks(rig.secteco)" title="'카카오 먹통 방지법' 과방위 통과…이번엔 국회문턱 넘을까(종합)">'카카오 먹통 방지법' 과방위 통과…이번엔 국회문턱 넘을까(종합)</a>]]></content>
+        <title type="html"><![CDATA[웹툰·웹소설 성공 노하우 그대로...북미에 韓모델 심는 네카오]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005186114?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005186114?sid=105"/>
+        <updated>2022-12-01T22:13:42.637Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005186114?sid=105" class="nclicks(rig.secteco)" title="웹툰·웹소설 성공 노하우 그대로...북미에 韓모델 심는 네카오">웹툰·웹소설 성공 노하우 그대로...북미에 韓모델 심는 네카오</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 특수본, 이태원 참사 당일 “용산구청장은 행적 거짓말, 안전과장은 낮술, 안전국장은 증거인멸 정황”]]></title>
+        <title type="html"><![CDATA[철도 노사협상 타결로 노조 파업예고 철회…열차 정상운행(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013617929?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013617929?sid=102"/>
+        <updated>2022-12-01T22:13:42.638Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013617929?sid=102" class="nclicks(rig.secteco)" title="철도 노사협상 타결로 노조 파업예고 철회…열차 정상운행(종합2보)">철도 노사협상 타결로 노조 파업예고 철회…열차 정상운행(종합2보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스하이킥] '김건희 파일' 연루자, 자진 귀국 후 체포? 도이치모터스 수사 영향은]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001238906?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001238906?sid=102"/>
+        <updated>2022-12-01T22:13:42.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001238906?sid=102" class="nclicks(rig.secteco)" title="[뉴스하이킥] '김건희 파일' 연루자, 자진 귀국 후 체포? 도이치모터스 수사 영향은">[뉴스하이킥] '김건희 파일' 연루자, 자진 귀국 후 체포? 도이치모터스 수사 영향은</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] “이태원 참사 당일 용산구청장은 행적 거짓말, 안전과장은 낮술”]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003732175?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003732175?sid=102"/>
         <updated>2022-12-01T21:12:32.604Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003732175?sid=102" class="nclicks(rig.secteco)" title="[단독] 특수본, 이태원 참사 당일  “용산구청장은 행적 거짓말, 안전과장은 낮술, 안전국장은 증거인멸 정황”">[단독] 특수본, 이태원 참사 당일 “용산구청장은 행적 거짓말, 안전과장은 낮술, 안전국장은 증거인멸 정황”</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003732175?sid=102" class="nclicks(rig.secteco)" title="[단독] “이태원 참사 당일 용산구청장은 행적 거짓말, 안전과장은 낮술”">[단독] “이태원 참사 당일 용산구청장은 행적 거짓말, 안전과장은 낮술”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '출근길 시위' 전장연 11명 檢송치…박경석 대표 빠졌다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003242843?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003242843?sid=102"/>
-        <updated>2022-12-01T12:30:55.109Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242843?sid=102" class="nclicks(rig.secteco)" title="[단독] '출근길 시위' 전장연 11명 檢송치…박경석 대표 빠졌다">[단독] '출근길 시위' 전장연 11명 檢송치…박경석 대표 빠졌다</a>]]></content>
+        <title type="html"><![CDATA["11월에도 반도체 난 뚫었다"… 완성차 5사, 얼마나 팔았나]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000874239?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000874239?sid=103"/>
+        <updated>2022-12-01T22:13:42.647Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874239?sid=103" class="nclicks(rig.secteco)" title="&quot;11월에도 반도체 난 뚫었다&quot;… 완성차 5사, 얼마나 팔았나">"11월에도 반도체 난 뚫었다"… 완성차 5사, 얼마나 팔았나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '김건희 파일' 핵심 인물 "기억나지 않는다" 진술]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001017214?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001017214?sid=102"/>
-        <updated>2022-12-01T21:12:32.611Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001017214?sid=102" class="nclicks(rig.secteco)" title="[단독] '김건희 파일' 핵심 인물 &quot;기억나지 않는다&quot; 진술">[단독] '김건희 파일' 핵심 인물 "기억나지 않는다" 진술</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체난 회복세 '뚜렷'… 완성차, 11월 내수판매 전월比 5.9% 증가]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002663419?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002663419?sid=103"/>
-        <updated>2022-12-01T18:26:01.852Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002663419?sid=103" class="nclicks(rig.secteco)" title="반도체난 회복세 '뚜렷'… 완성차, 11월 내수판매 전월比 5.9% 증가">반도체난 회복세 '뚜렷'… 완성차, 11월 내수판매 전월比 5.9% 증가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 탈춤, 유네스코 인류무형문화유산이 됐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003189860?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003189860?sid=103"/>
-        <updated>2022-12-01T21:12:32.618Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003189860?sid=103" class="nclicks(rig.secteco)" title="한국의 탈춤, 유네스코 인류무형문화유산이 됐다">한국의 탈춤, 유네스코 인류무형문화유산이 됐다</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 오늘 아침까지 강추위 계속...수도권·동해안 대기 건조]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001820862?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001820862?sid=103"/>
+        <updated>2022-12-01T22:13:42.648Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001820862?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘 아침까지 강추위 계속...수도권·동해안 대기 건조">[날씨] 오늘 아침까지 강추위 계속...수도권·동해안 대기 건조</a>]]></content>
     </entry>
 </feed>
