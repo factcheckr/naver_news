@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-01T03:08:47.348Z</updated>
+    <updated>2022-12-01T04:19:42.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,25 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013615830?sid=100" class="nclicks(rig.secteco)" title="野 &quot;이상민 해임안 반드시 가결&quot;…김의장에 '본회의 개의' 압박">野 "이상민 해임안 반드시 가결"…김의장에 '본회의 개의' 압박</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여야 '본회의 오늘 개의' 대치…"열면 파행" "안 열면 직무유기"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013616000?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013616000?sid=100"/>
+        <updated>2022-12-01T04:19:10.111Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013616000?sid=100" class="nclicks(rig.secteco)" title="여야 '본회의 오늘 개의' 대치…&quot;열면 파행&quot; &quot;안 열면 직무유기&quot;">여야 '본회의 오늘 개의' 대치…"열면 파행" "안 열면 직무유기"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박영선 “이재명, 고양이 탈 쓴 호랑이”…민주당 ‘분당’ 또 경고]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005053759?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005053759?sid=100"/>
         <updated>2022-12-01T03:08:18.788Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005053759?sid=100" class="nclicks(rig.secteco)" title="박영선 “이재명, 고양이 탈 쓴 호랑이”…민주당 ‘분당’ 또 경고">박영선 “이재명, 고양이 탈 쓴 호랑이”…민주당 ‘분당’ 또 경고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정은, 전원회의 소집…새해 전략 짠다]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000239066?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000239066?sid=100"/>
-        <updated>2022-12-01T03:08:18.795Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239066?sid=100" class="nclicks(rig.secteco)" title="김정은, 전원회의 소집…새해 전략 짠다">김정은, 전원회의 소집…새해 전략 짠다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 고속성장 이끈 장쩌민 전 주석 별세…수장 잃은 상하이방]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005185768?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005185768?sid=104"/>
-        <updated>2022-12-01T03:08:18.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005185768?sid=104" class="nclicks(rig.secteco)" title="中 고속성장 이끈 장쩌민 전 주석 별세…수장 잃은 상하이방">中 고속성장 이끈 장쩌민 전 주석 별세…수장 잃은 상하이방</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머스크 이어 저커버그도 애플 저격…'反애플 동맹' 구축되나(종합)]]></title>
@@ -41,18 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013615166?sid=104" class="nclicks(rig.secteco)" title="머스크 이어 저커버그도 애플 저격…'反애플 동맹' 구축되나(종합)">머스크 이어 저커버그도 애플 저격…'反애플 동맹' 구축되나(종합)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[영상] 장쩌민 별세에 푸틴, 기시다 등 애도...尹은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002072565?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002072565?sid=104"/>
+        <updated>2022-12-01T04:19:10.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002072565?sid=104" class="nclicks(rig.secteco)" title="[영상] 장쩌민 별세에 푸틴, 기시다 등 애도...尹은?">[영상] 장쩌민 별세에 푸틴, 기시다 등 애도...尹은?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011569027?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011569027?sid=101"/>
         <updated>2022-12-01T03:08:18.799Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011569027?sid=101" class="nclicks(rig.secteco)" title="수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)">수출 두 달 연속 내리막길…무역적자 IMF 이후 최장 8개월째(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["금리인상 속도조절" 12월 못박은 파월…인상 기조는 유지]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003242770?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003242770?sid=101"/>
-        <updated>2022-12-01T03:08:18.801Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242770?sid=101" class="nclicks(rig.secteco)" title="&quot;금리인상 속도조절&quot; 12월 못박은 파월…인상 기조는 유지">"금리인상 속도조절" 12월 못박은 파월…인상 기조는 유지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꺼지는 수출엔진·가라앉는 한국경제…4분기 역성장 가능성]]></title>
@@ -62,11 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013615621?sid=101" class="nclicks(rig.secteco)" title="꺼지는 수출엔진·가라앉는 한국경제…4분기 역성장 가능성">꺼지는 수출엔진·가라앉는 한국경제…4분기 역성장 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["우주, 미래 전장의 핵심"... 공군, 우주작전대대 창설]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002374660?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002374660?sid=105"/>
-        <updated>2022-12-01T03:08:18.804Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374660?sid=105" class="nclicks(rig.secteco)" title="&quot;우주, 미래 전장의 핵심&quot;... 공군, 우주작전대대 창설">"우주, 미래 전장의 핵심"... 공군, 우주작전대대 창설</a>]]></content>
+        <title type="html"><![CDATA["금리인상 속도조절" 12월 못박은 파월…인상 기조는 유지]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003242770?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003242770?sid=101"/>
+        <updated>2022-12-01T03:08:18.801Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242770?sid=101" class="nclicks(rig.secteco)" title="&quot;금리인상 속도조절&quot; 12월 못박은 파월…인상 기조는 유지">"금리인상 속도조절" 12월 못박은 파월…인상 기조는 유지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000859151?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000859151?sid=105"/>
+        <updated>2022-12-01T04:19:10.127Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859151?sid=105" class="nclicks(rig.secteco)" title="[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다">[단독] 과기정통부, 우주 스타트업 투자 펀드 두 배로 키운다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘공공정보’ 정책·시정소식·통계, 네이버 검색으로 찾는다]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001820460?sid=102" class="nclicks(rig.secteco)" title="롯데홈쇼핑 6개월간 새벽 방송 중지...대법원, 업무정지 확정">롯데홈쇼핑 6개월간 새벽 방송 중지...대법원, 업무정지 확정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법무부 “과오 명백”… ‘이춘재 누명’ 피해자 배상판결 항소 포기]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003321603?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003321603?sid=102"/>
-        <updated>2022-12-01T03:08:18.819Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003321603?sid=102" class="nclicks(rig.secteco)" title="법무부 “과오 명백”… ‘이춘재 누명’ 피해자 배상판결 항소 포기">법무부 “과오 명백”… ‘이춘재 누명’ 피해자 배상판결 항소 포기</a>]]></content>
+        <title type="html"><![CDATA[계란 맞을 뻔한 이재용 회장 놀라서 주춤…범인은 이매리, 왜]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003242802?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003242802?sid=102"/>
+        <updated>2022-12-01T04:19:10.136Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003242802?sid=102" class="nclicks(rig.secteco)" title="계란 맞을 뻔한 이재용 회장 놀라서 주춤…범인은 이매리, 왜">계란 맞을 뻔한 이재용 회장 놀라서 주춤…범인은 이매리, 왜</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000035772?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000035772?sid=103"/>
-        <updated>2022-12-01T03:08:18.820Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000035772?sid=103" class="nclicks(rig.secteco)" title="'풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다">'풍자와 해학' 한국 탈춤, 인류무형문화유산 됐다</a>]]></content>
+        <title type="html"><![CDATA[英 탑기어, 현대차그룹 극찬 "韓 브랜드 자신감 보여줘…상승세 놀라워"]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004128620?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004128620?sid=103"/>
+        <updated>2022-12-01T04:19:10.137Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004128620?sid=103" class="nclicks(rig.secteco)" title="英 탑기어, 현대차그룹 극찬 &quot;韓 브랜드 자신감 보여줘…상승세 놀라워&quot;">英 탑기어, 현대차그룹 극찬 "韓 브랜드 자신감 보여줘…상승세 놀라워"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수소차로 환생한 포니 쿠페…'N비전74'에 푹 빠진 英 탑기어]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004824195?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004824195?sid=103"/>
-        <updated>2022-12-01T03:08:18.821Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004824195?sid=103" class="nclicks(rig.secteco)" title="수소차로 환생한 포니 쿠페…'N비전74'에 푹 빠진 英 탑기어">수소차로 환생한 포니 쿠페…'N비전74'에 푹 빠진 英 탑기어</a>]]></content>
+        <title type="html"><![CDATA[탈춤, 세계의 문화유산 됐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002544345?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002544345?sid=103"/>
+        <updated>2022-12-01T04:19:10.139Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002544345?sid=103" class="nclicks(rig.secteco)" title="탈춤, 세계의 문화유산 됐다">탈춤, 세계의 문화유산 됐다</a>]]></content>
     </entry>
 </feed>
