@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-03T22:13:24.992Z</updated>
+    <updated>2022-12-03T23:14:19.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['서훈 구속'…與 "文 수사 촉구" vs 野 "무차별적 정치보복"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006498770?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006498770?sid=100"/>
-        <updated>2022-12-03T14:11:51.359Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006498770?sid=100" class="nclicks(rig.secteco)" title="'서훈 구속'…與 &quot;文 수사 촉구&quot; vs 野 &quot;무차별적 정치보복&quot;(종합2보)">'서훈 구속'…與 "文 수사 촉구" vs 野 "무차별적 정치보복"(종합2보)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "이런 큰 선물을…", 벤투 감독 "국민 위해 최선 노력"]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004825114?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004825114?sid=100"/>
         <updated>2022-12-03T20:14:11.361Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004825114?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;이런 큰 선물을…&quot;, 벤투 감독 &quot;국민 위해 최선 노력&quot;">尹대통령 "이런 큰 선물을…", 벤투 감독 "국민 위해 최선 노력"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서훈 구속'…與 "文 수사 촉구" vs 野 "무차별적 정치보복"(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006498770?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006498770?sid=100"/>
+        <updated>2022-12-03T14:11:51.359Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006498770?sid=100" class="nclicks(rig.secteco)" title="'서훈 구속'…與 &quot;文 수사 촉구&quot; vs 野 &quot;무차별적 정치보복&quot;(종합2보)">'서훈 구속'…與 "文 수사 촉구" vs 野 "무차별적 정치보복"(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안에선 ‘국조 보이콧’·밖에선 ‘이상민 해임’...주호영, 돌파구 찾을까[정치쫌!]]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005186819?sid=104" class="nclicks(rig.secteco)" title="러 원유 상한액 합의에…러 &quot;받아들일 수 없다&quot;·우크라 &quot;심각하지 않아&quot;">러 원유 상한액 합의에…러 "받아들일 수 없다"·우크라 "심각하지 않아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PCR 완화·시설격리 축소…위드코로나로 가는 中 '연착륙' 할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013621523?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013621523?sid=104"/>
-        <updated>2022-12-03T22:12:57.640Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621523?sid=104" class="nclicks(rig.secteco)" title="PCR 완화·시설격리 축소…위드코로나로 가는 中 '연착륙' 할까">PCR 완화·시설격리 축소…위드코로나로 가는 中 '연착륙' 할까</a>]]></content>
+        <title type="html"><![CDATA[WHO "세계인 90%, 코로나19에 일정수준 면역"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621367?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621367?sid=104"/>
+        <updated>2022-12-03T23:13:49.393Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621367?sid=104" class="nclicks(rig.secteco)" title="WHO &quot;세계인 90%, 코로나19에 일정수준 면역&quot;">WHO "세계인 90%, 코로나19에 일정수준 면역"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, 5일부터 화물차주 제재 착수…압박 수위 높인다(종합2보)]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013619869?sid=101" class="nclicks(rig.secteco)" title="정부, 5일부터 화물차주 제재 착수…압박 수위 높인다(종합2보)">정부, 5일부터 화물차주 제재 착수…압박 수위 높인다(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, 주유소에 ‘화물연대 파업으로 품절’ 명시 요청…52개 주유소 동나]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003322058?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003322058?sid=101"/>
-        <updated>2022-12-03T21:12:07.342Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322058?sid=101" class="nclicks(rig.secteco)" title="정부, 주유소에 ‘화물연대 파업으로 품절’ 명시 요청…52개 주유소 동나">정부, 주유소에 ‘화물연대 파업으로 품절’ 명시 요청…52개 주유소 동나</a>]]></content>
+        <title type="html"><![CDATA[[증시 풍향계] 외국인 관망세 속 박스권…FOMC·환율 촉각]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621564?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621564?sid=101"/>
+        <updated>2022-12-03T23:13:49.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621564?sid=101" class="nclicks(rig.secteco)" title="[증시 풍향계] 외국인 관망세 속 박스권…FOMC·환율 촉각">[증시 풍향계] 외국인 관망세 속 박스권…FOMC·환율 촉각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W컨셉 상위 1%만 모았다…2천명 몰린 '그라데이션']]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003713912?sid=101" class="nclicks(rig.secteco)" title="W컨셉 상위 1%만 모았다…2천명 몰린 '그라데이션'">W컨셉 상위 1%만 모았다…2천명 몰린 '그라데이션'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["허위 유통량, 위메이드 잘못" 지적에도…업비트로 화살 돌린 투자자들]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004783040?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004783040?sid=105"/>
-        <updated>2022-12-03T21:12:07.346Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004783040?sid=105" class="nclicks(rig.secteco)" title="&quot;허위 유통량, 위메이드 잘못&quot; 지적에도…업비트로 화살 돌린 투자자들">"허위 유통량, 위메이드 잘못" 지적에도…업비트로 화살 돌린 투자자들</a>]]></content>
+        <title type="html"><![CDATA[[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000874631?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000874631?sid=105"/>
+        <updated>2022-12-03T23:13:49.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874631?sid=105" class="nclicks(rig.secteco)" title="[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경">[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 불경기·수요 감소에 갤럭시탭 가격 기습인상]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000188141?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000188141?sid=105"/>
-        <updated>2022-12-03T19:10:58.564Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000188141?sid=105" class="nclicks(rig.secteco)" title="삼성전자, 불경기·수요 감소에 갤럭시탭 가격 기습인상">삼성전자, 불경기·수요 감소에 갤럭시탭 가격 기습인상</a>]]></content>
+        <title type="html"><![CDATA[4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011573001?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011573001?sid=105"/>
+        <updated>2022-12-03T23:13:49.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011573001?sid=105" class="nclicks(rig.secteco)" title="4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온">4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 "죽이려면 죽여라, 어차피 이렇게는 못산다"]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374937?sid=102" class="nclicks(rig.secteco)" title="화물연대 &quot;죽이려면 죽여라, 어차피 이렇게는 못산다&quot;">화물연대 "죽이려면 죽여라, 어차피 이렇게는 못산다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서훈 전 靑 안보실장 구속…막바지 향하는 檢 ‘서해 피격’ 수사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003243272?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003243272?sid=102"/>
-        <updated>2022-12-03T19:10:58.567Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243272?sid=102" class="nclicks(rig.secteco)" title="서훈 전 靑 안보실장 구속…막바지 향하는 檢 ‘서해 피격’ 수사">서훈 전 靑 안보실장 구속…막바지 향하는 檢 ‘서해 피격’ 수사</a>]]></content>
+        <title type="html"><![CDATA[‘서해 피격’ 서훈 구속…文 정부 대북·안보 라인 향하는 檢[안현덕기자의 LawStory]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004129584?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004129584?sid=102"/>
+        <updated>2022-12-03T23:13:49.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004129584?sid=102" class="nclicks(rig.secteco)" title="‘서해 피격’ 서훈 구속…文 정부 대북·안보 라인 향하는 檢[안현덕기자의 LawStory]">‘서해 피격’ 서훈 구속…文 정부 대북·안보 라인 향하는 檢[안현덕기자의 LawStory]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로또 1044회 당첨번호 1등 8명, '압도적 경기는 아예 없다']]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000188265?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000188265?sid=102"/>
-        <updated>2022-12-03T22:12:57.652Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000188265?sid=102" class="nclicks(rig.secteco)" title="로또 1044회 당첨번호 1등 8명, '압도적 경기는 아예 없다'">로또 1044회 당첨번호 1등 8명, '압도적 경기는 아예 없다'</a>]]></content>
+        <title type="html"><![CDATA[다시 '뜨거운 감자' 된 실내마스크…의무 해제 논의 당겨질까]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621522?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621522?sid=102"/>
+        <updated>2022-12-03T23:13:49.417Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621522?sid=102" class="nclicks(rig.secteco)" title="다시 '뜨거운 감자' 된 실내마스크…의무 해제 논의 당겨질까">다시 '뜨거운 감자' 된 실내마스크…의무 해제 논의 당겨질까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘날씨]전국 흐리고 중부 비 또는 눈…추위는 주춤]]></title>
