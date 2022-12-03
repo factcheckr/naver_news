@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-03T02:35:35.452Z</updated>
+    <updated>2022-12-03T03:15:31.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘네 탓’ 공방하며 샅바 싸움만…경제 위기에도 무책임한 정치권]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003760686?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003760686?sid=100"/>
-        <updated>2022-12-03T01:04:30.604Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760686?sid=100" class="nclicks(rig.secteco)" title="‘네 탓’ 공방하며 샅바 싸움만…경제 위기에도 무책임한 정치권">‘네 탓’ 공방하며 샅바 싸움만…경제 위기에도 무책임한 정치권</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방송법, 고성 속 과방위 통과... 권성동 "개판"-정청래 "계속 떠드시든가"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002374845?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002374845?sid=100"/>
-        <updated>2022-12-03T01:04:30.611Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374845?sid=100" class="nclicks(rig.secteco)" title="방송법, 고성 속 과방위 통과... 권성동 &quot;개판&quot;-정청래 &quot;계속 떠드시든가&quot;">방송법, 고성 속 과방위 통과... 권성동 "개판"-정청래 "계속 떠드시든가"</a>]]></content>
+        <title type="html"><![CDATA[기한 넘긴 예산안 처리, 책임 미룬 여야…"9일 목표로 협상"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005379844?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005379844?sid=100"/>
+        <updated>2022-12-03T03:15:02.768Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005379844?sid=100" class="nclicks(rig.secteco)" title="기한 넘긴 예산안 처리, 책임 미룬 여야…&quot;9일 목표로 협상&quot;">기한 넘긴 예산안 처리, 책임 미룬 여야…"9일 목표로 협상"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령, 월드컵 16강 진출에 축전…“투지·열정, 국민에 큰 감동”]]></title>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002073519?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 월드컵 16강 진출에 축전…“투지·열정, 국민에 큰 감동”">尹대통령, 월드컵 16강 진출에 축전…“투지·열정, 국민에 큰 감동”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 '교섭 제안'에 응답한 러 "우크라 점령지 인정하면 종전 논의할 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002291899?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002291899?sid=104"/>
-        <updated>2022-12-03T02:35:06.816Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002291899?sid=104" class="nclicks(rig.secteco)" title="美 '교섭 제안'에 응답한 러 &quot;우크라 점령지 인정하면 종전 논의할 것&quot;">美 '교섭 제안'에 응답한 러 "우크라 점령지 인정하면 종전 논의할 것"</a>]]></content>
+        <title type="html"><![CDATA[방송법, 고성 속 과방위 통과... 권성동 "개판"-정청래 "계속 떠드시든가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002374845?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002374845?sid=100"/>
+        <updated>2022-12-03T01:04:30.611Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374845?sid=100" class="nclicks(rig.secteco)" title="방송법, 고성 속 과방위 통과... 권성동 &quot;개판&quot;-정청래 &quot;계속 떠드시든가&quot;">방송법, 고성 속 과방위 통과... 권성동 "개판"-정청래 "계속 떠드시든가"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크롱 "美와 IRA 전기차보조금 분쟁, 내년 1분기내 해결 원해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013621059?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013621059?sid=104"/>
-        <updated>2022-12-03T02:35:06.818Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621059?sid=104" class="nclicks(rig.secteco)" title="마크롱 &quot;美와 IRA 전기차보조금 분쟁, 내년 1분기내 해결 원해&quot;">마크롱 "美와 IRA 전기차보조금 분쟁, 내년 1분기내 해결 원해"</a>]]></content>
+        <title type="html"><![CDATA[바이든 "푸틴, 전쟁 끝낼 생각 있다면 대화할 준비돼 있다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243117?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243117?sid=104"/>
+        <updated>2022-12-03T03:15:02.773Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243117?sid=104" class="nclicks(rig.secteco)" title="바이든 &quot;푸틴, 전쟁 끝낼 생각 있다면 대화할 준비돼 있다&quot;">바이든 "푸틴, 전쟁 끝낼 생각 있다면 대화할 준비돼 있다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서방, 러 원유 상한액 배럴당 60달러로 합의…"러 돈줄 옥죈다"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621099?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621099?sid=104"/>
+        <updated>2022-12-03T03:15:02.774Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621099?sid=104" class="nclicks(rig.secteco)" title="서방, 러 원유 상한액 배럴당 60달러로 합의…&quot;러 돈줄 옥죈다&quot;(종합)">서방, 러 원유 상한액 배럴당 60달러로 합의…"러 돈줄 옥죈다"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[칼 빼든 공정위원장 “화물연대 조사 방해 심각, 계속되면 고발 대응”]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322054?sid=101" class="nclicks(rig.secteco)" title="칼 빼든 공정위원장 “화물연대 조사 방해 심각, 계속되면 고발 대응”">칼 빼든 공정위원장 “화물연대 조사 방해 심각, 계속되면 고발 대응”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기름값 뚝 떨어져…휘발유 18원 · 경유 16원↓]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001017635?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001017635?sid=101"/>
-        <updated>2022-12-03T02:35:06.821Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001017635?sid=101" class="nclicks(rig.secteco)" title="기름값 뚝 떨어져…휘발유 18원 · 경유 16원↓">기름값 뚝 떨어져…휘발유 18원 · 경유 16원↓</a>]]></content>
+        <title type="html"><![CDATA[화물연대 파업으로 품절이라더니…기름값 내려간 이유는]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004129533?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004129533?sid=101"/>
+        <updated>2022-12-03T03:15:02.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004129533?sid=101" class="nclicks(rig.secteco)" title="화물연대 파업으로 품절이라더니…기름값 내려간 이유는">화물연대 파업으로 품절이라더니…기름값 내려간 이유는</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꺾여도 5%, 그래도 ‘고물가’..내년 나아질까]]></title>
@@ -69,32 +69,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011571903?sid=105" class="nclicks(rig.secteco)" title="&quot;자의적·담합&quot;vs&quot;투자자 보호&quot;…위믹스 상폐 가처분 공방 팽팽(종합)">"자의적·담합"vs"투자자 보호"…위믹스 상폐 가처분 공방 팽팽(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[게임위드인] 크래프톤의 콘솔 출사표 '칼리스토 프로토콜' 뜯어보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013621080?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013621080?sid=105"/>
-        <updated>2022-12-03T02:35:06.824Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621080?sid=105" class="nclicks(rig.secteco)" title="[게임위드인] 크래프톤의 콘솔 출사표 '칼리스토 프로토콜' 뜯어보니">[게임위드인] 크래프톤의 콘솔 출사표 '칼리스토 프로토콜' 뜯어보니</a>]]></content>
+        <title type="html"><![CDATA[4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011573001?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011573001?sid=105"/>
+        <updated>2022-12-03T03:15:02.782Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011573001?sid=105" class="nclicks(rig.secteco)" title="4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온">4개월째 달 여정 중인 韓 다누리…16일 만에 지구 돌아오는 美오리온</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서훈 결국 구속됐다…文 전 대통령도 수사받나]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000385082?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000385082?sid=102"/>
-        <updated>2022-12-03T02:35:06.825Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000385082?sid=102" class="nclicks(rig.secteco)" title="서훈 결국 구속됐다…文 전 대통령도 수사받나">서훈 결국 구속됐다…文 전 대통령도 수사받나</a>]]></content>
+        <title type="html"><![CDATA[‘서해 피격’ 서훈 구속… 文청와대 고위인사 첫 사례]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003322117?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003322117?sid=102"/>
+        <updated>2022-12-03T03:15:02.784Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322117?sid=102" class="nclicks(rig.secteco)" title="‘서해 피격’ 서훈 구속… 文청와대 고위인사 첫 사례">‘서해 피격’ 서훈 구속… 文청와대 고위인사 첫 사례</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조국 “檢·언론 무차별 공격에 하루하루가 생지옥” 최후진술]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003760673?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003760673?sid=102"/>
-        <updated>2022-12-02T23:13:55.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760673?sid=102" class="nclicks(rig.secteco)" title="조국 “檢·언론 무차별 공격에 하루하루가 생지옥” 최후진술">조국 “檢·언론 무차별 공격에 하루하루가 생지옥” 최후진술</a>]]></content>
+        <title type="html"><![CDATA[檢, 조국에 '징역 5년'구형…조국 "검찰개혁 때문에 표적수사"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243195?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243195?sid=102"/>
+        <updated>2022-12-03T03:15:02.786Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243195?sid=102" class="nclicks(rig.secteco)" title="檢, 조국에 '징역 5년'구형…조국 &quot;검찰개혁 때문에 표적수사&quot;">檢, 조국에 '징역 5년'구형…조국 "검찰개혁 때문에 표적수사"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[57조 증발 피해자 20만명, ‘테라·루나’ 신현성 전 차이대표 구속영장 기각]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002544639?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002544639?sid=102"/>
-        <updated>2022-12-03T02:35:06.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002544639?sid=102" class="nclicks(rig.secteco)" title="57조 증발 피해자 20만명, ‘테라·루나’ 신현성 전 차이대표 구속영장 기각">57조 증발 피해자 20만명, ‘테라·루나’ 신현성 전 차이대표 구속영장 기각</a>]]></content>
+        <title type="html"><![CDATA[‘테라·루나 사태’ 관계자 8명, 전원 구속영장 기각]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000239212?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000239212?sid=102"/>
+        <updated>2022-12-03T03:15:02.787Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239212?sid=102" class="nclicks(rig.secteco)" title="‘테라·루나 사태’ 관계자 8명, 전원 구속영장 기각">‘테라·루나 사태’ 관계자 8명, 전원 구속영장 기각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수도권 ‘첫눈’ 추위는 주춤…내일은 다시 강추위]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002617634?sid=103" class="nclicks(rig.secteco)" title="수도권 ‘첫눈’ 추위는 주춤…내일은 다시 강추위">수도권 ‘첫눈’ 추위는 주춤…내일은 다시 강추위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유흥식 추기경 "이태원 참사, 일어나선 안 됐다…자신 돌아봐야"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011572331?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011572331?sid=103"/>
-        <updated>2022-12-03T02:35:06.828Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011572331?sid=103" class="nclicks(rig.secteco)" title="유흥식 추기경 &quot;이태원 참사, 일어나선 안 됐다…자신 돌아봐야&quot;(종합)">유흥식 추기경 "이태원 참사, 일어나선 안 됐다…자신 돌아봐야"(종합)</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 중부 낮까지 비·눈, 밤부터 전남·경남·제주 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001821327?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001821327?sid=103"/>
+        <updated>2022-12-03T03:15:02.791Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001821327?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부 낮까지 비·눈, 밤부터 전남·경남·제주 비">[날씨] 중부 낮까지 비·눈, 밤부터 전남·경남·제주 비</a>]]></content>
     </entry>
 </feed>
