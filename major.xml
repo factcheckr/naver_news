@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-03T11:11:39.133Z</updated>
+    <updated>2022-12-03T12:24:50.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003713897?sid=100" class="nclicks(rig.secteco)" title="서훈 구속에 &quot;최종 책임자는 문재인 대통령&quot; vs &quot;정권 입맛 맞춘 보복수사&quot;">서훈 구속에 "최종 책임자는 문재인 대통령" vs "정권 입맛 맞춘 보복수사"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹대통령 "이런 큰 선물을…", 벤투 감독 "국민 위해 최선 노력"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004825114?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004825114?sid=100"/>
+        <updated>2022-12-03T12:24:20.504Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004825114?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;이런 큰 선물을…&quot;, 벤투 감독 &quot;국민 위해 최선 노력&quot;">尹대통령 "이런 큰 선물을…", 벤투 감독 "국민 위해 최선 노력"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤 대통령, 월드컵 16강에 "준비한 잠재력 마음껏 발휘하라"]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002374901?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002374901?sid=100"/>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002374901?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 월드컵 16강에 &quot;준비한 잠재력 마음껏 발휘하라&quot;">윤 대통령, 월드컵 16강에 "준비한 잠재력 마음껏 발휘하라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기한 넘긴 예산안 처리, 책임 미룬 여야…"9일 목표로 협상"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005379844?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005379844?sid=100"/>
-        <updated>2022-12-03T03:15:02.768Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005379844?sid=100" class="nclicks(rig.secteco)" title="기한 넘긴 예산안 처리, 책임 미룬 여야…&quot;9일 목표로 협상&quot;">기한 넘긴 예산안 처리, 책임 미룬 여야…"9일 목표로 협상"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라 대통령 비서실장 "러 원유 상한선 30달러로 낮춰야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005380079?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005380079?sid=104"/>
-        <updated>2022-12-03T09:14:34.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380079?sid=104" class="nclicks(rig.secteco)" title="우크라 대통령 비서실장 &quot;러 원유 상한선 30달러로 낮춰야&quot;">우크라 대통령 비서실장 "러 원유 상한선 30달러로 낮춰야"</a>]]></content>
+        <title type="html"><![CDATA[러 원유상한액 합의에 우크라 "더 낮춰야" 러 "유가상승 유발"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621384?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621384?sid=104"/>
+        <updated>2022-12-03T12:24:20.510Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621384?sid=104" class="nclicks(rig.secteco)" title="러 원유상한액 합의에 우크라 &quot;더 낮춰야&quot; 러 &quot;유가상승 유발&quot;">러 원유상한액 합의에 우크라 "더 낮춰야" 러 "유가상승 유발"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["中, '제로코로나' 완전폐기 땐 200만명까지 숨질 수도"]]></title>
@@ -39,6 +39,13 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013621298?sid=104"/>
         <updated>2022-12-03T11:11:11.293Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621298?sid=104" class="nclicks(rig.secteco)" title="&quot;中, '제로코로나' 완전폐기 땐 200만명까지 숨질 수도&quot;">"中, '제로코로나' 완전폐기 땐 200만명까지 숨질 수도"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항만 물동량 평시 63%…민주노총, 업무개시명령 철회 촉구(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013621364?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013621364?sid=101"/>
+        <updated>2022-12-03T12:24:20.514Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621364?sid=101" class="nclicks(rig.secteco)" title="항만 물동량 평시 63%…민주노총, 업무개시명령 철회 촉구(종합)">항만 물동량 평시 63%…민주노총, 업무개시명령 철회 촉구(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['품절 주유소' 60곳↑…박일준 산업부 차관, 천안저유소 점검]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000787059?sid=101" class="nclicks(rig.secteco)" title="화물연대 파업 10일째…'품절 주유소' 60곳으로 늘어도 기름값 하락세">화물연대 파업 10일째…'품절 주유소' 60곳으로 늘어도 기름값 하락세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파업 열흘째…부산항 물동량 평시 97% 등 회복세]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000711002?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000711002?sid=101"/>
-        <updated>2022-12-03T11:11:11.303Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000711002?sid=101" class="nclicks(rig.secteco)" title="파업 열흘째…부산항 물동량 평시 97% 등 회복세">파업 열흘째…부산항 물동량 평시 97% 등 회복세</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위메이드 "업비트 입장에 논평 없다...재판 소명 다할 것"]]></title>
         <id>https://n.news.naver.com/mnews/article/092/0002275488?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/092/0002275488?sid=105"/>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004783117?sid=105" class="nclicks(rig.secteco)" title="&quot;가뜩이나 안 팔리는데&quot;…갤럭시탭 가격 '이례적 인상' 이유 [배성수의 다다IT선]">"가뜩이나 안 팔리는데"…갤럭시탭 가격 '이례적 인상' 이유 [배성수의 다다IT선]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 “도 넘지 말라” 했지만…‘서해 피격’ 서훈 구속]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000239227?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000239227?sid=102"/>
-        <updated>2022-12-03T11:11:11.307Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239227?sid=102" class="nclicks(rig.secteco)" title="文 “도 넘지 말라” 했지만…‘서해 피격’ 서훈 구속">文 “도 넘지 말라” 했지만…‘서해 피격’ 서훈 구속</a>]]></content>
+        <title type="html"><![CDATA[[단독] ‘서훈 공개 기자회견’이 증거인멸?…검찰, 구속영장서 주장]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002617557?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002617557?sid=102"/>
+        <updated>2022-12-03T12:24:20.523Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002617557?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘서훈 공개 기자회견’이 증거인멸?…검찰, 구속영장서 주장">[단독] ‘서훈 공개 기자회견’이 증거인멸?…검찰, 구속영장서 주장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 "죽이려면 죽여라, 어차피 이렇게는 못산다"]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243126?sid=103" class="nclicks(rig.secteco)" title="토요일 내릴 눈, 일요일 얼음 된다...모레 최저기온 -11도로 '뚝'">토요일 내릴 눈, 일요일 얼음 된다...모레 최저기온 -11도로 '뚝'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨]추위 잠시 주춤…전국 흐리고 중부지방 비 또는 눈]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011572251?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011572251?sid=103"/>
-        <updated>2022-12-03T11:11:11.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011572251?sid=103" class="nclicks(rig.secteco)" title="[내일날씨]추위 잠시 주춤…전국 흐리고 중부지방 비 또는 눈">[내일날씨]추위 잠시 주춤…전국 흐리고 중부지방 비 또는 눈</a>]]></content>
+        <title type="html"><![CDATA[[날씨플러스] 오늘 밤 눈·비…내일은 낮에도 '0도' 강추위]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000323793?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000323793?sid=103"/>
+        <updated>2022-12-03T12:24:20.528Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000323793?sid=103" class="nclicks(rig.secteco)" title="[날씨플러스] 오늘 밤 눈·비…내일은 낮에도 '0도' 강추위">[날씨플러스] 오늘 밤 눈·비…내일은 낮에도 '0도' 강추위</a>]]></content>
     </entry>
 </feed>
