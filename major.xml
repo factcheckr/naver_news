@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-04T19:11:33.422Z</updated>
+    <updated>2022-12-04T20:14:53.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주 “文 입장, 한반도 먹구름이 불길해 나온 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003761013?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003761013?sid=100"/>
+        <updated>2022-12-04T20:14:22.159Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003761013?sid=100" class="nclicks(rig.secteco)" title="민주 “文 입장, 한반도 먹구름이 불길해 나온 것”">민주 “文 입장, 한반도 먹구름이 불길해 나온 것”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2+2 예산협의체’ 꾸렸지만… 이상민 해임 맞물려 9일까지 험로 예고]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003322280?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003322280?sid=100"/>
+        <updated>2022-12-04T20:14:22.162Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322280?sid=100" class="nclicks(rig.secteco)" title="‘2+2 예산협의체’ 꾸렸지만… 이상민 해임 맞물려 9일까지 험로 예고">‘2+2 예산협의체’ 꾸렸지만… 이상민 해임 맞물려 9일까지 험로 예고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 “민노총 정치파업… 정유-철강 업무개시명령 준비”]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003466028?sid=100</id>
@@ -13,46 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466028?sid=100" class="nclicks(rig.secteco)" title="尹 “민노총 정치파업… 정유-철강 업무개시명령 준비”">尹 “민노총 정치파업… 정유-철강 업무개시명령 준비”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김연주, ‘서훈 두둔’ 文 직격 “‘잊히고 싶다’던 소망에 조금이라도 다가가려면…”]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002770574?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002770574?sid=100"/>
-        <updated>2022-12-04T19:11:05.475Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002770574?sid=100" class="nclicks(rig.secteco)" title="김연주, ‘서훈 두둔’ 文 직격 “‘잊히고 싶다’던 소망에 조금이라도 다가가려면…”">김연주, ‘서훈 두둔’ 文 직격 “‘잊히고 싶다’던 소망에 조금이라도 다가가려면…”</a>]]></content>
+        <title type="html"><![CDATA[배럴당 60弗 ‘상한제’ 임박하자… 러 “유럽은 석유 없이 살 것” 공급 중단 위협]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003322309?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003322309?sid=104"/>
+        <updated>2022-12-04T20:14:22.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322309?sid=104" class="nclicks(rig.secteco)" title="배럴당 60弗 ‘상한제’ 임박하자… 러 “유럽은 석유 없이 살 것” 공급 중단 위협">배럴당 60弗 ‘상한제’ 임박하자… 러 “유럽은 석유 없이 살 것” 공급 중단 위협</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야 예산안 ‘2+2 협의체’ 담판…이상민 거취 최대 뇌관]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000026965?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000026965?sid=100"/>
-        <updated>2022-12-04T19:11:05.475Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000026965?sid=100" class="nclicks(rig.secteco)" title="여야 예산안 ‘2+2 협의체’ 담판…이상민 거취 최대 뇌관">여야 예산안 ‘2+2 협의체’ 담판…이상민 거취 최대 뇌관</a>]]></content>
+        <title type="html"><![CDATA[美 압박에도…OPEC+, 하루 200만배럴 감산 유지]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005187014?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005187014?sid=104"/>
+        <updated>2022-12-04T20:14:22.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005187014?sid=104" class="nclicks(rig.secteco)" title="美 압박에도…OPEC+, 하루 200만배럴 감산 유지">美 압박에도…OPEC+, 하루 200만배럴 감산 유지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서방, 러産 원유 상한액 60달러 합의… 러 “참여國에 수출 중단”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003466100?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003466100?sid=104"/>
-        <updated>2022-12-04T18:16:18.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466100?sid=104" class="nclicks(rig.secteco)" title="서방, 러産 원유 상한액 60달러 합의… 러 “참여國에 수출 중단”">서방, 러産 원유 상한액 60달러 합의… 러 “참여國에 수출 중단”</a>]]></content>
+        <title type="html"><![CDATA['민주노총과의 전쟁' 尹, 강경대응 초강수…"끝까지 추적해 처벌"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003714015?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003714015?sid=101"/>
+        <updated>2022-12-04T20:14:22.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003714015?sid=101" class="nclicks(rig.secteco)" title="'민주노총과의 전쟁' 尹, 강경대응 초강수…&quot;끝까지 추적해 처벌&quot;">'민주노총과의 전쟁' 尹, 강경대응 초강수…"끝까지 추적해 처벌"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미·유럽 비판에도…OPEC+, 하루 200만 배럴 감산방침 유지(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013622612?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013622612?sid=104"/>
-        <updated>2022-12-04T19:11:05.476Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013622612?sid=104" class="nclicks(rig.secteco)" title="미·유럽 비판에도…OPEC+, 하루 200만 배럴 감산방침 유지(종합)">미·유럽 비판에도…OPEC+, 하루 200만 배럴 감산방침 유지(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“운송 거부 차주에 유가보조금 1년간 제한”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003761005?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003761005?sid=101"/>
-        <updated>2022-12-04T19:11:05.478Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003761005?sid=101" class="nclicks(rig.secteco)" title="“운송 거부 차주에 유가보조금 1년간 제한”">“운송 거부 차주에 유가보조금 1년간 제한”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 부자 42만명… 부동산 줄이고 예·적금 늘렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003466126?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003466126?sid=101"/>
-        <updated>2022-12-04T18:16:18.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466126?sid=101" class="nclicks(rig.secteco)" title="한국 부자 42만명… 부동산 줄이고 예·적금 늘렸다">한국 부자 42만명… 부동산 줄이고 예·적금 늘렸다</a>]]></content>
+        <title type="html"><![CDATA["돈 당분간 통장에 묻겠다"…한국 부자 42만명이 노리는 것]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243364?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243364?sid=101"/>
+        <updated>2022-12-04T20:14:22.177Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243364?sid=101" class="nclicks(rig.secteco)" title="&quot;돈 당분간 통장에 묻겠다&quot;…한국 부자 42만명이 노리는 것">"돈 당분간 통장에 묻겠다"…한국 부자 42만명이 노리는 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 이재용, 회장 취임후 첫 중동行..1년만에 UAE 재방문]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874631?sid=105" class="nclicks(rig.secteco)" title="[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경">[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇠구슬 쏘고 라이터·마이크 던진 화물연대…경찰, 7명 검거·구속영장 청구]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002664018?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002664018?sid=102"/>
-        <updated>2022-12-04T19:11:05.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002664018?sid=102" class="nclicks(rig.secteco)" title="쇠구슬 쏘고 라이터·마이크 던진 화물연대…경찰, 7명 검거·구속영장 청구">쇠구슬 쏘고 라이터·마이크 던진 화물연대…경찰, 7명 검거·구속영장 청구</a>]]></content>
+        <title type="html"><![CDATA[파업 불참 차량에 쇠구슬 쏜 40대 조합원 구속]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003466048?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003466048?sid=102"/>
+        <updated>2022-12-04T20:14:22.192Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466048?sid=102" class="nclicks(rig.secteco)" title="파업 불참 차량에 쇠구슬 쏜 40대 조합원 구속">파업 불참 차량에 쇠구슬 쏜 40대 조합원 구속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대전 “실내 마스크 해제” 방침에… 전문가들 “시기상조”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003466084?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003466084?sid=102"/>
-        <updated>2022-12-04T19:11:05.488Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466084?sid=102" class="nclicks(rig.secteco)" title="대전 “실내 마스크 해제” 방침에… 전문가들 “시기상조”">대전 “실내 마스크 해제” 방침에… 전문가들 “시기상조”</a>]]></content>
+        <title type="html"><![CDATA["마스크 벗겠다"는 대전시의 통보…전문가 "방역정책 혼선 우려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003714017?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003714017?sid=102"/>
+        <updated>2022-12-04T20:14:22.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003714017?sid=102" class="nclicks(rig.secteco)" title="&quot;마스크 벗겠다&quot;는 대전시의 통보…전문가 &quot;방역정책 혼선 우려&quot;">"마스크 벗겠다"는 대전시의 통보…전문가 "방역정책 혼선 우려"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배달식당 간판 달고… 강남 주택가서 ‘성매매 알선’]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003466073?sid=102" class="nclicks(rig.secteco)" title="배달식당 간판 달고… 강남 주택가서 ‘성매매 알선’">배달식당 간판 달고… 강남 주택가서 ‘성매매 알선’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨] -10도 내외 강추위… 바람 강해 체감온도 더 낮아]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003760885?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003760885?sid=103"/>
-        <updated>2022-12-04T17:13:11.613Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760885?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] -10도 내외 강추위… 바람 강해 체감온도 더 낮아">[내일날씨] -10도 내외 강추위… 바람 강해 체감온도 더 낮아</a>]]></content>
+        <title type="html"><![CDATA[[오늘날씨]'최저 -12도' 출근길 강추위…바람에 체감온도↓]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011574402?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011574402?sid=103"/>
+        <updated>2022-12-04T20:14:22.196Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011574402?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨]'최저 -12도' 출근길 강추위…바람에 체감온도↓">[오늘날씨]'최저 -12도' 출근길 강추위…바람에 체감온도↓</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 출근길 더 춥다‥메마른 대기, 불조심!]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001239359?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001239359?sid=103"/>
-        <updated>2022-12-04T18:16:18.959Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001239359?sid=103" class="nclicks(rig.secteco)" title="[날씨] 출근길 더 춥다‥메마른 대기, 불조심!">[날씨] 출근길 더 춥다‥메마른 대기, 불조심!</a>]]></content>
+        <title type="html"><![CDATA[오늘도 추위 계속…전국 곳곳에 건조특보]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011386383?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011386383?sid=103"/>
+        <updated>2022-12-04T20:14:22.197Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011386383?sid=103" class="nclicks(rig.secteco)" title="오늘도 추위 계속…전국 곳곳에 건조특보">오늘도 추위 계속…전국 곳곳에 건조특보</a>]]></content>
     </entry>
 </feed>
