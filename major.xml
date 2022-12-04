@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-04T05:13:07.383Z</updated>
+    <updated>2022-12-04T06:18:34.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文, 서훈 구속에 "최고의 北전문가…꺾어버리다니 안타깝다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243401?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243401?sid=100"/>
+        <updated>2022-12-04T06:18:04.074Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243401?sid=100" class="nclicks(rig.secteco)" title="文, 서훈 구속에 &quot;최고의 北전문가…꺾어버리다니 안타깝다&quot;">文, 서훈 구속에 "최고의 北전문가…꺾어버리다니 안타깝다"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일요진단 라이브] 주호영 “이상민 탄핵소추안 내면 예산안 타협 어려워”]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011386217?sid=100</id>
@@ -13,39 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011386217?sid=100" class="nclicks(rig.secteco)" title="[일요진단 라이브] 주호영 “이상민 탄핵소추안 내면 예산안 타협 어려워”">[일요진단 라이브] 주호영 “이상민 탄핵소추안 내면 예산안 타협 어려워”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탁현민 “윤석열 정부, 지난 정부 그림자에 대고 헛발질만”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005380188?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005380188?sid=100"/>
-        <updated>2022-12-04T05:12:39.699Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380188?sid=100" class="nclicks(rig.secteco)" title="탁현민 “윤석열 정부, 지난 정부 그림자에 대고 헛발질만”">탁현민 “윤석열 정부, 지난 정부 그림자에 대고 헛발질만”</a>]]></content>
+        <title type="html"><![CDATA[정진석 "민노총 불법파업, MZ세대 공감 못 하는 불공정파업"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013622017?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013622017?sid=100"/>
+        <updated>2022-12-04T06:18:04.075Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013622017?sid=100" class="nclicks(rig.secteco)" title="정진석 &quot;민노총 불법파업, MZ세대 공감 못 하는 불공정파업&quot;">정진석 "민노총 불법파업, MZ세대 공감 못 하는 불공정파업"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北, 주북 중국대사관서 장쩌민 추모 계속…김정은 화환도]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013620816?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013620816?sid=100"/>
-        <updated>2022-12-04T05:12:39.715Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013620816?sid=100" class="nclicks(rig.secteco)" title="北, 주북 중국대사관서 장쩌민 추모 계속…김정은 화환도">北, 주북 중국대사관서 장쩌민 추모 계속…김정은 화환도</a>]]></content>
+        <title type="html"><![CDATA[한국서 히잡 안쓴 이란 클라이밍 선수 “집 강제 철거”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001570936?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001570936?sid=104"/>
+        <updated>2022-12-04T06:18:04.080Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001570936?sid=104" class="nclicks(rig.secteco)" title="한국서 히잡 안쓴 이란 클라이밍 선수 “집 강제 철거”">한국서 히잡 안쓴 이란 클라이밍 선수 “집 강제 철거”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선수몸값 1조5600억원 vs 2260억원…골리앗과 맞서는 벤투호]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000035994?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000035994?sid=104"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000035994?sid=104" class="nclicks(rig.secteco)" title="선수몸값 1조5600억원 vs 2260억원…골리앗과 맞서는 벤투호">선수몸값 1조5600억원 vs 2260억원…골리앗과 맞서는 벤투호</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이든 “IRA에 결함” 수정 가능성 첫 언급]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003465918?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003465918?sid=104"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003465918?sid=104" class="nclicks(rig.secteco)" title="바이든 “IRA에 결함” 수정 가능성 첫 언급">바이든 “IRA에 결함” 수정 가능성 첫 언급</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005380271?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005380271?sid=101"/>
-        <updated>2022-12-04T04:16:44.342Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380271?sid=101" class="nclicks(rig.secteco)" title="LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑">LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑</a>]]></content>
+        <title type="html"><![CDATA[“낙상 후 ‘변실금’ 속옷에 용변”…푸틴 건강이상설 난무 (영상)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003322195?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003322195?sid=104"/>
+        <updated>2022-12-04T06:18:04.080Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322195?sid=104" class="nclicks(rig.secteco)" title="“낙상 후 ‘변실금’ 속옷에 용변”…푸틴 건강이상설 난무 (영상)">“낙상 후 ‘변실금’ 속옷에 용변”…푸틴 건강이상설 난무 (영상)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한은 "내년 미국·유럽·중국·신흥국 동반 경기 위축"]]></title>
@@ -55,32 +48,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013621902?sid=101" class="nclicks(rig.secteco)" title="한은 &quot;내년 미국·유럽·중국·신흥국 동반 경기 위축&quot;">한은 "내년 미국·유럽·중국·신흥국 동반 경기 위축"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['월드컵 16강' 1152만 태극전사, 네이버 생중계로 응원]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011573621?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011573621?sid=101"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011573621?sid=101" class="nclicks(rig.secteco)" title="'월드컵 16강' 1152만 태극전사, 네이버 생중계로 응원">'월드컵 16강' 1152만 태극전사, 네이버 생중계로 응원</a>]]></content>
+        <title type="html"><![CDATA[LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005380271?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005380271?sid=101"/>
+        <updated>2022-12-04T04:16:44.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380271?sid=101" class="nclicks(rig.secteco)" title="LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑">LG와 함께 만든 中企 스마트공장…불량률 86%↓생산성 305%↑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주파수 할당 취소된 5G, 앞으로 어떻게]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000874543?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000874543?sid=105"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874543?sid=105" class="nclicks(rig.secteco)" title="주파수 할당 취소된 5G, 앞으로 어떻게">주파수 할당 취소된 5G, 앞으로 어떻게</a>]]></content>
+        <title type="html"><![CDATA[가맹점 10곳 중 6곳 “본사에서 필요없는 물품까지 사게 해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000859733?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000859733?sid=101"/>
+        <updated>2022-12-04T06:18:04.084Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859733?sid=101" class="nclicks(rig.secteco)" title="가맹점 10곳 중 6곳 “본사에서 필요없는 물품까지 사게 해”">가맹점 10곳 중 6곳 “본사에서 필요없는 물품까지 사게 해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MOON을 열다] 이상률 “추격형 우주개발 성공…정답 없는 미래 준비할 때”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011386185?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011386185?sid=105"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011386185?sid=105" class="nclicks(rig.secteco)" title="[MOON을 열다] 이상률 “추격형 우주개발 성공…정답 없는 미래 준비할 때”">[MOON을 열다] 이상률 “추격형 우주개발 성공…정답 없는 미래 준비할 때”</a>]]></content>
+        <title type="html"><![CDATA[커피 내린 후 99.8% 버려지는 찌꺼기, 반도체 폐수 정화 필터로 부활]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002275512?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002275512?sid=105"/>
+        <updated>2022-12-04T06:18:04.086Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002275512?sid=105" class="nclicks(rig.secteco)" title="커피 내린 후 99.8% 버려지는 찌꺼기, 반도체 폐수 정화 필터로 부활">커피 내린 후 99.8% 버려지는 찌꺼기, 반도체 폐수 정화 필터로 부활</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["새총 쏘는 연습한 듯"…‘쇠구슬 테러’ 화물연대 조합원 영장심사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003243392?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003243392?sid=102"/>
-        <updated>2022-12-04T04:16:44.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243392?sid=102" class="nclicks(rig.secteco)" title="&quot;새총 쏘는 연습한 듯&quot;…‘쇠구슬 테러’ 화물연대 조합원 영장심사">"새총 쏘는 연습한 듯"…‘쇠구슬 테러’ 화물연대 조합원 영장심사</a>]]></content>
+        <title type="html"><![CDATA[위메이드, 위믹스 투명성 강화…“완전한 유통 시스템 확립”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000859749?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000859749?sid=105"/>
+        <updated>2022-12-04T06:18:04.088Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859749?sid=105" class="nclicks(rig.secteco)" title="위메이드, 위믹스 투명성 강화…“완전한 유통 시스템 확립”">위메이드, 위믹스 투명성 강화…“완전한 유통 시스템 확립”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["실내 마스크 벗겠다"는 대전, 정부는 "No" 현실성은?(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005380326?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005380326?sid=102"/>
+        <updated>2022-12-04T06:18:04.090Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380326?sid=102" class="nclicks(rig.secteco)" title="&quot;실내 마스크 벗겠다&quot;는 대전, 정부는 &quot;No&quot; 현실성은?(종합)">"실내 마스크 벗겠다"는 대전, 정부는 "No" 현실성은?(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나주 오리농장 2곳 고병원성AI 확진…무안·함평 정밀검사(종합)]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011573747?sid=102" class="nclicks(rig.secteco)" title="나주 오리농장 2곳 고병원성AI 확진…무안·함평 정밀검사(종합)">나주 오리농장 2곳 고병원성AI 확진…무안·함평 정밀검사(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주도, 4일부터 전북산 가금육·생산물 반입 금지]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011573119?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011573119?sid=102"/>
-        <updated>2022-12-04T05:12:39.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011573119?sid=102" class="nclicks(rig.secteco)" title="제주도, 4일부터 전북산 가금육·생산물 반입 금지">제주도, 4일부터 전북산 가금육·생산물 반입 금지</a>]]></content>
+        <title type="html"><![CDATA["새총 쏘는 연습한 듯"…‘쇠구슬 테러’ 화물연대 조합원 영장심사]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243392?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243392?sid=102"/>
+        <updated>2022-12-04T04:16:44.347Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243392?sid=102" class="nclicks(rig.secteco)" title="&quot;새총 쏘는 연습한 듯&quot;…‘쇠구슬 테러’ 화물연대 조합원 영장심사">"새총 쏘는 연습한 듯"…‘쇠구슬 테러’ 화물연대 조합원 영장심사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 흐리고 가끔 비…낮 최고 6∼13도]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013620782?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013620782?sid=103"/>
-        <updated>2022-12-04T05:12:39.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013620782?sid=103" class="nclicks(rig.secteco)" title="전국 흐리고 가끔 비…낮 최고 6∼13도">전국 흐리고 가끔 비…낮 최고 6∼13도</a>]]></content>
+        <title type="html"><![CDATA[후크 이승기 매니저 갑질 개선될까…연예매니지먼트 권익보호 나선다]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002073678?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002073678?sid=103"/>
+        <updated>2022-12-04T06:18:04.095Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002073678?sid=103" class="nclicks(rig.secteco)" title="후크 이승기 매니저 갑질 개선될까…연예매니지먼트 권익보호 나선다">후크 이승기 매니저 갑질 개선될까…연예매니지먼트 권익보호 나선다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“470만원 중고차, 2880만원에”…사람죽인 ‘허위매물’, 헐값 유혹 [세상만車]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005054852?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005054852?sid=103"/>
-        <updated>2022-12-04T05:12:39.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005054852?sid=103" class="nclicks(rig.secteco)" title="“470만원 중고차, 2880만원에”…사람죽인 ‘허위매물’, 헐값 유혹 [세상만車]">“470만원 중고차, 2880만원에”…사람죽인 ‘허위매물’, 헐값 유혹 [세상만車]</a>]]></content>
+        <title type="html"><![CDATA[북 “평양냉면, 유네스코 무형문화유산 됐다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002617707?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002617707?sid=103"/>
+        <updated>2022-12-04T06:18:04.098Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002617707?sid=103" class="nclicks(rig.secteco)" title="북 “평양냉면, 유네스코 무형문화유산 됐다”">북 “평양냉면, 유네스코 무형문화유산 됐다”</a>]]></content>
     </entry>
 </feed>
