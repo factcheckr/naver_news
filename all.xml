@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-04T15:15:28.345Z</updated>
+    <updated>2022-12-04T16:18:53.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[尹 “불법·폭력과 타협 없다”… ‘파업 강요·불참자 보복’ 수사 나선다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003322259?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003322259?sid=100"/>
-        <updated>2022-12-04T15:15:00.020Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003322259?sid=100" class="nclicks(rig.secteco)" title="尹 “불법·폭력과 타협 없다”… ‘파업 강요·불참자 보복’ 수사 나선다">尹 “불법·폭력과 타협 없다”… ‘파업 강요·불참자 보복’ 수사 나선다</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[문 전 대통령 “서훈 구속 안타깝다” 여당 “책임 회피 의도” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003243465?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003243465?sid=100"/>
         <updated>2022-12-04T15:15:00.021Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243465?sid=100" class="nclicks(rig.secteco)" title="문 전 대통령 “서훈 구속 안타깝다” 여당 “책임 회피 의도”">문 전 대통령 “서훈 구속 안타깝다” 여당 “책임 회피 의도”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['타협 없는' 尹대통령의 승부수, 화물연대로 본보기 보인다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004825261?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004825261?sid=100"/>
+        <updated>2022-12-04T16:18:22.387Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004825261?sid=100" class="nclicks(rig.secteco)" title="'타협 없는' 尹대통령의 승부수, 화물연대로 본보기 보인다">'타협 없는' 尹대통령의 승부수, 화물연대로 본보기 보인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여야, 예산안 2+2 협상 돌입…"협조 부탁" vs "쓸개까진 못내놔"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013622597?sid=100" class="nclicks(rig.secteco)" title="여야, 예산안 2+2 협상 돌입…&quot;협조 부탁&quot; vs &quot;쓸개까진 못내놔&quot;(종합)">여야, 예산안 2+2 협상 돌입…"협조 부탁" vs "쓸개까진 못내놔"(종합)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[러 "생산량 줄더라도 가격상한 적용국엔 석유 안 팔아" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013622613?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013622613?sid=104"/>
+        <updated>2022-12-04T16:18:22.394Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013622613?sid=104" class="nclicks(rig.secteco)" title="러 &quot;생산량 줄더라도 가격상한 적용국엔 석유 안 팔아&quot;">러 "생산량 줄더라도 가격상한 적용국엔 석유 안 팔아"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[히잡 벗고 출전했다고… 이란 선수, 집 강제 철거됐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000711136?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000711136?sid=104"/>
@@ -33,18 +40,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000711136?sid=104" class="nclicks(rig.secteco)" title="히잡 벗고 출전했다고… 이란 선수, 집 강제 철거됐다">히잡 벗고 출전했다고… 이란 선수, 집 강제 철거됐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 스텔스폭격기 B-21 공개…북한 떨게 할 차세대 무기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003243464?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003243464?sid=104"/>
-        <updated>2022-12-04T15:15:00.027Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243464?sid=104" class="nclicks(rig.secteco)" title="미국 스텔스폭격기 B-21 공개…북한 떨게 할 차세대 무기">미국 스텔스폭격기 B-21 공개…북한 떨게 할 차세대 무기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물연대 파업 장기화… 정부, 연일 초강경책 ‘맞불’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001571008?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001571008?sid=101"/>
-        <updated>2022-12-04T15:15:00.027Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001571008?sid=101" class="nclicks(rig.secteco)" title="화물연대 파업 장기화… 정부, 연일 초강경책 ‘맞불’">화물연대 파업 장기화… 정부, 연일 초강경책 ‘맞불’</a>]]></content>
+        <title type="html"><![CDATA[정부 “타협은 없다…정유·철강 업무개시명령 준비 완료” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243439?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243439?sid=101"/>
+        <updated>2022-12-04T16:18:22.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243439?sid=101" class="nclicks(rig.secteco)" title="정부 “타협은 없다…정유·철강 업무개시명령 준비 완료”">정부 “타협은 없다…정유·철강 업무개시명령 준비 완료”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 부자들, 예금에 돈 묻고 부동산 곁눈질 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,11 +68,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000874631?sid=105" class="nclicks(rig.secteco)" title="[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경">[위믹스 미스터리]'소액' 수수료 대신 자산 지키기... 위믹스 손절 배경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT 운명의 한 주…구현모 대표 연임여부, 8일 이사회서 결론날까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005380344?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005380344?sid=105"/>
-        <updated>2022-12-04T09:12:49.954Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380344?sid=105" class="nclicks(rig.secteco)" title="KT 운명의 한 주…구현모 대표 연임여부, 8일 이사회서 결론날까">KT 운명의 한 주…구현모 대표 연임여부, 8일 이사회서 결론날까</a>]]></content>
+        <title type="html"><![CDATA[5G 서비스·기술 경쟁력 입증한 SKT (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003760971?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003760971?sid=105"/>
+        <updated>2022-12-04T16:18:22.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003760971?sid=105" class="nclicks(rig.secteco)" title="5G 서비스·기술 경쟁력 입증한 SKT">5G 서비스·기술 경쟁력 입증한 SKT</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CCTV에 찍힌 쇠구슬 발사 연습…화물연대 조합원 1명 구속 [영상] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243467?sid=102" class="nclicks(rig.secteco)" title="대전시 “실내마스크 풀겠다” 당국 “안된다”…논란 재점화">대전시 “실내마스크 풀겠다” 당국 “안된다”…논란 재점화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“식당 운영하며 윗층에서 성매매 알선”…경찰, 61명 검거 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011386304?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011386304?sid=102"/>
-        <updated>2022-12-04T15:15:00.038Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011386304?sid=102" class="nclicks(rig.secteco)" title="“식당 운영하며 윗층에서 성매매 알선”…경찰, 61명 검거">“식당 운영하며 윗층에서 성매매 알선”…경찰, 61명 검거</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 "화물연대 끝까지 책임묻겠다" 파업원인 해법은 없어 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000115828?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000115828?sid=102"/>
+        <updated>2022-12-04T16:18:22.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000115828?sid=102" class="nclicks(rig.secteco)" title="윤 대통령 &quot;화물연대 끝까지 책임묻겠다&quot; 파업원인 해법은 없어">윤 대통령 "화물연대 끝까지 책임묻겠다" 파업원인 해법은 없어</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 날씨] 영하 12도 강추위…제주도 강풍 주의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
