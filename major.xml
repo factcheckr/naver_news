@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-05T08:19:28.492Z</updated>
+    <updated>2022-12-05T09:15:01.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK]여야 2+2 예산안 막판 협상…"한치 양보없다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006501604?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006501604?sid=100"/>
-        <updated>2022-12-05T08:18:56.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006501604?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK]여야 2+2 예산안 막판 협상…&quot;한치 양보없다&quot;">[뉴스1 PICK]여야 2+2 예산안 막판 협상…"한치 양보없다"</a>]]></content>
+        <title type="html"><![CDATA[북, 동서해상 완충구역에 130발 포병사격…"9·19합의 위반"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013624611?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013624611?sid=100"/>
+        <updated>2022-12-05T09:14:32.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013624611?sid=100" class="nclicks(rig.secteco)" title="북, 동서해상 완충구역에 130발 포병사격…&quot;9·19합의 위반&quot;(종합)">북, 동서해상 완충구역에 130발 포병사격…"9·19합의 위반"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한-베트남 정상회담... 윤 대통령 "새 세대 여는 출발점"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002375085?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002375085?sid=100"/>
-        <updated>2022-12-05T08:18:56.311Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002375085?sid=100" class="nclicks(rig.secteco)" title="한-베트남 정상회담... 윤 대통령 &quot;새 세대 여는 출발점&quot;">한-베트남 정상회담... 윤 대통령 "새 세대 여는 출발점"</a>]]></content>
+        <title type="html"><![CDATA[[전문] 韓-베트남 ‘포괄적 전략 동반자 관계’ 격상 공동 선언문]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000860005?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000860005?sid=100"/>
+        <updated>2022-12-05T09:14:32.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000860005?sid=100" class="nclicks(rig.secteco)" title="[전문] 韓-베트남 ‘포괄적 전략 동반자 관계’ 격상 공동 선언문">[전문] 韓-베트남 ‘포괄적 전략 동반자 관계’ 격상 공동 선언문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 만남 직후 주호영 “당권주자, 성에 안 차”…또 한동훈 차출론?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003243674?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003243674?sid=100"/>
-        <updated>2022-12-05T08:18:56.317Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243674?sid=100" class="nclicks(rig.secteco)" title="尹 만남 직후 주호영 “당권주자, 성에 안 차”…또 한동훈 차출론?">尹 만남 직후 주호영 “당권주자, 성에 안 차”…또 한동훈 차출론?</a>]]></content>
+        <title type="html"><![CDATA[2+2 협의체도 '삐걱', 예산안 역대 최장 지각 처리 우려]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011576309?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011576309?sid=100"/>
+        <updated>2022-12-05T09:14:32.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011576309?sid=100" class="nclicks(rig.secteco)" title="2+2 협의체도 '삐걱', 예산안 역대 최장 지각 처리 우려">2+2 협의체도 '삐걱', 예산안 역대 최장 지각 처리 우려</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도덕경찰 없애고 히잡법 푼다는 이란…시위대 "눈속임 말라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003243668?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003243668?sid=104"/>
+        <updated>2022-12-05T09:14:32.374Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243668?sid=104" class="nclicks(rig.secteco)" title="도덕경찰 없애고 히잡법 푼다는 이란…시위대 &quot;눈속임 말라&quot;">도덕경찰 없애고 히잡법 푼다는 이란…시위대 "눈속임 말라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美IRA에 맞불…EU도 막았던 '산업 보조금 살포' 시사]]></title>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005381058?sid=104" class="nclicks(rig.secteco)" title="美IRA에 맞불…EU도 막았던 '산업 보조금 살포' 시사">美IRA에 맞불…EU도 막았던 '산업 보조금 살포' 시사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 한숨 돌리나…"폭스콘 中공장 이달 말 정상화"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004825609?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004825609?sid=104"/>
-        <updated>2022-12-05T08:18:56.322Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004825609?sid=104" class="nclicks(rig.secteco)" title="애플 한숨 돌리나…&quot;폭스콘 中공장 이달 말 정상화&quot;">애플 한숨 돌리나…"폭스콘 中공장 이달 말 정상화"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여성 사장도 나와야" 11년전 화제된 이건희 말, 현실이 됐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003243660?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003243660?sid=101"/>
-        <updated>2022-12-05T08:18:56.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003243660?sid=101" class="nclicks(rig.secteco)" title="&quot;여성 사장도 나와야&quot; 11년전 화제된 이건희 말, 현실이 됐다">"여성 사장도 나와야" 11년전 화제된 이건희 말, 현실이 됐다</a>]]></content>
+        <title type="html"><![CDATA[이재용 회장 '첫 인사'… 삼성전자, 여성 사장 첫 탄생·반도체 CTO 교체 [종합]]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002138157?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002138157?sid=101"/>
+        <updated>2022-12-05T09:14:32.376Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002138157?sid=101" class="nclicks(rig.secteco)" title="이재용 회장 '첫 인사'… 삼성전자, 여성 사장 첫 탄생·반도체 CTO 교체 [종합]">이재용 회장 '첫 인사'… 삼성전자, 여성 사장 첫 탄생·반도체 CTO 교체 [종합]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, 파업 화물차 기사 455명 현장조사…미복귀자는 행정처분(종합)]]></title>
@@ -55,11 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013624394?sid=101" class="nclicks(rig.secteco)" title="정부, 파업 화물차 기사 455명 현장조사…미복귀자는 행정처분(종합)">정부, 파업 화물차 기사 455명 현장조사…미복귀자는 행정처분(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 수출 879조원·글로벌 6위 기록…'무역의 날' 기념식]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003714277?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003714277?sid=101"/>
-        <updated>2022-12-05T08:18:56.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003714277?sid=101" class="nclicks(rig.secteco)" title="올해 수출 879조원·글로벌 6위 기록…'무역의 날' 기념식">올해 수출 879조원·글로벌 6위 기록…'무역의 날' 기념식</a>]]></content>
+        <title type="html"><![CDATA[[화물연대 파업] 정신 못차린 화물연대, 재시도 공정위 '현장조사' 또 방해]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000714808?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000714808?sid=101"/>
+        <updated>2022-12-05T09:14:32.378Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000714808?sid=101" class="nclicks(rig.secteco)" title="[화물연대 파업] 정신 못차린 화물연대, 재시도 공정위 '현장조사' 또 방해">[화물연대 파업] 정신 못차린 화물연대, 재시도 공정위 '현장조사' 또 방해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“위기의 위믹스, 오히려 오르네?”…‘커스터디’가 뭐길래]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000035618?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000035618?sid=105"/>
+        <updated>2022-12-05T09:14:32.378Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000035618?sid=105" class="nclicks(rig.secteco)" title="“위기의 위믹스, 오히려 오르네?”…‘커스터디’가 뭐길래">“위기의 위믹스, 오히려 오르네?”…‘커스터디’가 뭐길래</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통신 4사, 업무차량 3500대로 '대국민 안전의식 향상' 캠페인]]></title>
@@ -69,18 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003063719?sid=105" class="nclicks(rig.secteco)" title="통신 4사, 업무차량 3500대로 '대국민 안전의식 향상' 캠페인">통신 4사, 업무차량 3500대로 '대국민 안전의식 향상' 캠페인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버웹툰, 시각장애인 웹툰 감상 돕는 기술 첫 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002664214?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002664214?sid=105"/>
-        <updated>2022-12-05T04:18:02.483Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002664214?sid=105" class="nclicks(rig.secteco)" title="네이버웹툰, 시각장애인 웹툰 감상 돕는 기술 첫 공개">네이버웹툰, 시각장애인 웹툰 감상 돕는 기술 첫 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전·충남에서 여의도까지 올라온 ‘실내 마스크 해제’…권성동 “韓도 즉시 준비하자”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000859972?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000859972?sid=102"/>
-        <updated>2022-12-05T08:18:56.334Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000859972?sid=102" class="nclicks(rig.secteco)" title="대전·충남에서 여의도까지 올라온 ‘실내 마스크 해제’…권성동 “韓도 즉시 준비하자”">대전·충남에서 여의도까지 올라온 ‘실내 마스크 해제’…권성동 “韓도 즉시 준비하자”</a>]]></content>
+        <title type="html"><![CDATA[마스크 벗겠다는 지자체에 제동 건 정부…일찍 벗은 나라 봤더니]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000049016?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000049016?sid=102"/>
+        <updated>2022-12-05T09:14:32.379Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000049016?sid=102" class="nclicks(rig.secteco)" title="마스크 벗겠다는 지자체에 제동 건 정부…일찍 벗은 나라 봤더니">마스크 벗겠다는 지자체에 제동 건 정부…일찍 벗은 나라 봤더니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]‘교원평가’서 성희롱 피해 당한 교사들, 어디에도 말할 곳이 없다]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003190840?sid=102" class="nclicks(rig.secteco)" title="[단독]‘교원평가’서 성희롱 피해 당한 교사들, 어디에도 말할 곳이 없다">[단독]‘교원평가’서 성희롱 피해 당한 교사들, 어디에도 말할 곳이 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰 간부 4명 구속 갈림길...향후 수사방향 판가름]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001822042?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001822042?sid=102"/>
-        <updated>2022-12-05T08:18:56.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001822042?sid=102" class="nclicks(rig.secteco)" title="경찰 간부 4명 구속 갈림길...향후 수사방향 판가름">경찰 간부 4명 구속 갈림길...향후 수사방향 판가름</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK]'이태원 참사' 이임재 전 용산서장 등 4명 구속 갈림길…수사 '분수령']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006501576?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006501576?sid=102"/>
+        <updated>2022-12-05T09:14:32.385Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006501576?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]'이태원 참사' 이임재 전 용산서장 등 4명 구속 갈림길…수사 '분수령'">[뉴스1 PICK]'이태원 참사' 이임재 전 용산서장 등 4명 구속 갈림길…수사 '분수령'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["車, 개별소비세 감면 연장 필요하다" 강남훈 회장]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004937886?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004937886?sid=103"/>
-        <updated>2022-12-05T08:18:56.339Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004937886?sid=103" class="nclicks(rig.secteco)" title="&quot;車, 개별소비세 감면 연장 필요하다&quot; 강남훈 회장">"車, 개별소비세 감면 연장 필요하다" 강남훈 회장</a>]]></content>
+        <title type="html"><![CDATA[올해 車 수출 530억달러 '역대 최대'…현대차그룹 글로벌 판매 3위]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006501727?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006501727?sid=103"/>
+        <updated>2022-12-05T09:14:32.385Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006501727?sid=103" class="nclicks(rig.secteco)" title="올해 車 수출 530억달러 '역대 최대'…현대차그룹 글로벌 판매 3위">올해 車 수출 530억달러 '역대 최대'…현대차그룹 글로벌 판매 3위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공급난 딛고 막판 뒤집기 성공 수입車…BMW, 1위 수성]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005380938?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005380938?sid=103"/>
-        <updated>2022-12-05T07:14:04.718Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005380938?sid=103" class="nclicks(rig.secteco)" title="공급난 딛고 막판 뒤집기 성공 수입車…BMW, 1위 수성">공급난 딛고 막판 뒤집기 성공 수입車…BMW, 1위 수성</a>]]></content>
+        <title type="html"><![CDATA[박보균 장관 "K컬처 동력은 젊은세대…'드리머스' 돼 달라"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011576101?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011576101?sid=103"/>
+        <updated>2022-12-05T09:14:32.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011576101?sid=103" class="nclicks(rig.secteco)" title="박보균 장관 &quot;K컬처 동력은 젊은세대…'드리머스' 돼 달라&quot;(종합)">박보균 장관 "K컬처 동력은 젊은세대…'드리머스' 돼 달라"(종합)</a>]]></content>
     </entry>
 </feed>
