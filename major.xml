@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-08T21:13:50.986Z</updated>
+    <updated>2022-12-08T22:14:23.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001572218?sid=100" class="nclicks(rig.secteco)" title="“여러분은 우승팀” 尹 울컥 순간…공 트래핑까지 [영상]">“여러분은 우승팀” 尹 울컥 순간…공 트래핑까지 [영상]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주, '이상민 해임건의안' 본회의 보고… 9일 표결]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003762614?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003762614?sid=100"/>
+        <updated>2022-12-08T22:13:53.471Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003762614?sid=100" class="nclicks(rig.secteco)" title="민주, '이상민 해임건의안' 본회의 보고… 9일 표결">민주, '이상민 해임건의안' 본회의 보고… 9일 표결</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한전채 발행한도 확대 법안 부결…전기요금 조기 인상 뒤따르나]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003715748?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003715748?sid=100"/>
@@ -20,39 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003715748?sid=100" class="nclicks(rig.secteco)" title="한전채 발행한도 확대 법안 부결…전기요금 조기 인상 뒤따르나">한전채 발행한도 확대 법안 부결…전기요금 조기 인상 뒤따르나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 ‘이상민 해임안’ 오늘 표결 추진… 尹대통령 ‘거부’ 의사 확고]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001572196?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001572196?sid=100"/>
-        <updated>2022-12-08T21:13:22.268Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001572196?sid=100" class="nclicks(rig.secteco)" title="野 ‘이상민 해임안’ 오늘 표결 추진… 尹대통령 ‘거부’ 의사 확고">野 ‘이상민 해임안’ 오늘 표결 추진… 尹대통령 ‘거부’ 의사 확고</a>]]></content>
+        <title type="html"><![CDATA[사우디, 중국과 동반자 협정‥시진핑 특별 의전]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001240358?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001240358?sid=104"/>
+        <updated>2022-12-08T22:13:53.475Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001240358?sid=104" class="nclicks(rig.secteco)" title="사우디, 중국과 동반자 협정‥시진핑 특별 의전">사우디, 중국과 동반자 협정‥시진핑 특별 의전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中·사우디, 포괄적 전략 동반자 협정 체결…"양국 소통 강화"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011583370?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011583370?sid=104"/>
-        <updated>2022-12-08T21:13:22.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011583370?sid=104" class="nclicks(rig.secteco)" title="中·사우디, 포괄적 전략 동반자 협정 체결…&quot;양국 소통 강화&quot;(종합)">中·사우디, 포괄적 전략 동반자 협정 체결…"양국 소통 강화"(종합)</a>]]></content>
+        <title type="html"><![CDATA[러 수감됐던 WNBA 스타 그라이너, 미국 돌아왔다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005383700?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005383700?sid=104"/>
+        <updated>2022-12-08T22:13:53.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005383700?sid=104" class="nclicks(rig.secteco)" title="러 수감됐던 WNBA 스타 그라이너, 미국 돌아왔다">러 수감됐던 WNBA 스타 그라이너, 미국 돌아왔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013630646?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013630646?sid=104"/>
-        <updated>2022-12-08T20:13:47.773Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630646?sid=104" class="nclicks(rig.secteco)" title="푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선">푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선</a>]]></content>
+        <title type="html"><![CDATA[재건축 안전진단 문턱 낮춰… 목동·상계동 등 아파트 수혜 [뉴스 투데이]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003762599?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003762599?sid=101"/>
+        <updated>2022-12-08T22:13:53.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003762599?sid=101" class="nclicks(rig.secteco)" title="재건축 안전진단 문턱 낮춰… 목동·상계동 등 아파트 수혜 [뉴스 투데이]">재건축 안전진단 문턱 낮춰… 목동·상계동 등 아파트 수혜 [뉴스 투데이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재건축 안전진단 규제 완화…"대못 뽑혔지만 시장 영향 '제한적'"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003715749?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003715749?sid=101"/>
-        <updated>2022-12-08T21:13:22.273Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003715749?sid=101" class="nclicks(rig.secteco)" title="재건축 안전진단 규제 완화…&quot;대못 뽑혔지만 시장 영향 '제한적'&quot;">재건축 안전진단 규제 완화…"대못 뽑혔지만 시장 영향 '제한적'"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위믹스 상폐에… 위메이드 그룹주도 20% 급락]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003323594?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003323594?sid=101"/>
-        <updated>2022-12-08T21:13:22.274Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003323594?sid=101" class="nclicks(rig.secteco)" title="위믹스 상폐에… 위메이드 그룹주도 20% 급락">위믹스 상폐에… 위메이드 그룹주도 20% 급락</a>]]></content>
+        <title type="html"><![CDATA[위믹스 퇴출 후폭풍…韓 코인 시장 혼돈 속으로]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005383694?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005383694?sid=101"/>
+        <updated>2022-12-08T22:13:53.487Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005383694?sid=101" class="nclicks(rig.secteco)" title="위믹스 퇴출 후폭풍…韓 코인 시장 혼돈 속으로">위믹스 퇴출 후폭풍…韓 코인 시장 혼돈 속으로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신한금융 새 사령탑 오른 진옥동은 누구… '상고 출신' 행원서 회장까지]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011582097?sid=105" class="nclicks(rig.secteco)" title="&quot;이 번호, 국제전화입니다&quot;…보이스피싱 '번호 둔갑' 뿌리뽑는다">"이 번호, 국제전화입니다"…보이스피싱 '번호 둔갑' 뿌리뽑는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화물연대, 파업 철회 여부 오늘 전 조합원 투표로 결정]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001572207?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001572207?sid=102"/>
-        <updated>2022-12-08T21:13:22.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001572207?sid=102" class="nclicks(rig.secteco)" title="화물연대, 파업 철회 여부 오늘 전 조합원 투표로 결정">화물연대, 파업 철회 여부 오늘 전 조합원 투표로 결정</a>]]></content>
+        <title type="html"><![CDATA[당정 '백기투항' 압박…화물연대 파업, 오늘 철회 여부 갈린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003715754?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003715754?sid=102"/>
+        <updated>2022-12-08T22:13:53.494Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003715754?sid=102" class="nclicks(rig.secteco)" title="당정 '백기투항' 압박…화물연대 파업, 오늘 철회 여부 갈린다">당정 '백기투항' 압박…화물연대 파업, 오늘 철회 여부 갈린다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[수능 채점 결과] 이투스 "사회탐구 영역이 정시 지원 변수"]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011389402?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일 아침, 경기·영서 북부에 비나 눈…미세먼지 주의">[뉴스9 날씨] 내일 아침, 경기·영서 북부에 비나 눈…미세먼지 주의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] "큰 추위 없어"… 서울 낮 7도, 미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000876250?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000876250?sid=103"/>
-        <updated>2022-12-08T21:13:22.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000876250?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] &quot;큰 추위 없어&quot;… 서울 낮 7도, 미세먼지 '나쁨'">[오늘 날씨] "큰 추위 없어"… 서울 낮 7도, 미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[한교총 새 회장에 이영훈 목사]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004785198?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004785198?sid=103"/>
+        <updated>2022-12-08T22:13:53.500Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004785198?sid=103" class="nclicks(rig.secteco)" title="한교총 새 회장에 이영훈 목사">한교총 새 회장에 이영훈 목사</a>]]></content>
     </entry>
 </feed>
