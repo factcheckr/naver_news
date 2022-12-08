@@ -2,78 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-08T01:07:55.708Z</updated>
+    <updated>2022-12-08T02:43:48.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[2보] 철강·석유화학 업무개시명령 발동…한총리 "경제 위기 우려"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013630350?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013630350?sid=100"/>
-        <updated>2022-12-08T01:07:22.045Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630350?sid=100" class="nclicks(rig.secteco)" title="[2보] 철강·석유화학 업무개시명령 발동…한총리 &quot;경제 위기 우려&quot;">[2보] 철강·석유화학 업무개시명령 발동…한총리 "경제 위기 우려"</a>]]></content>
+        <title type="html"><![CDATA[박홍근 “與, 감액안 수용 않으면 단독 수정안 제출” 최후 통첩]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002075645?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002075645?sid=100"/>
+        <updated>2022-12-08T02:43:22.246Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002075645?sid=100" class="nclicks(rig.secteco)" title="박홍근 “與, 감액안 수용 않으면 단독 수정안 제출” 최후 통첩">박홍근 “與, 감액안 수용 않으면 단독 수정안 제출” 최후 통첩</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['이상민 해임안', 8일 본회의 보고 예정… 與 "예산 처리 변수"]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000875969?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000875969?sid=100"/>
-        <updated>2022-12-08T01:07:22.046Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000875969?sid=100" class="nclicks(rig.secteco)" title="'이상민 해임안', 8일 본회의 보고 예정… 與 &quot;예산 처리 변수&quot;">'이상민 해임안', 8일 본회의 보고 예정… 與 "예산 처리 변수"</a>]]></content>
+        <title type="html"><![CDATA[정부 "국적·신분 위장 북한 IT인력 고용 유의"…주의보 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013630413?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013630413?sid=100"/>
+        <updated>2022-12-08T02:43:22.249Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630413?sid=100" class="nclicks(rig.secteco)" title="정부 &quot;국적·신분 위장 북한 IT인력 고용 유의&quot;…주의보 발표">정부 "국적·신분 위장 북한 IT인력 고용 유의"…주의보 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월말 돌아다닌 '이태원 참사' 보고서…北해커 함정이었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003244489?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003244489?sid=100"/>
-        <updated>2022-12-08T01:07:22.046Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003244489?sid=100" class="nclicks(rig.secteco)" title="10월말 돌아다닌 '이태원 참사' 보고서…北해커 함정이었다">10월말 돌아다닌 '이태원 참사' 보고서…北해커 함정이었다</a>]]></content>
+        <title type="html"><![CDATA[정진석 "민주당, 예산안 볼모로 이재명 사법리스크 물타기"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002375395?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002375395?sid=100"/>
+        <updated>2022-12-08T02:43:22.250Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002375395?sid=100" class="nclicks(rig.secteco)" title="정진석 &quot;민주당, 예산안 볼모로 이재명 사법리스크 물타기&quot;">정진석 "민주당, 예산안 볼모로 이재명 사법리스크 물타기"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴 또 “핵전쟁 가능성” 경고…美 “무책임한 발언”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002075574?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002075574?sid=104"/>
-        <updated>2022-12-08T01:07:22.049Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002075574?sid=104" class="nclicks(rig.secteco)" title="푸틴 또 “핵전쟁 가능성” 경고…美 “무책임한 발언”">푸틴 또 “핵전쟁 가능성” 경고…美 “무책임한 발언”</a>]]></content>
+        <title type="html"><![CDATA[푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013630646?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013630646?sid=104"/>
+        <updated>2022-12-08T02:43:22.250Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630646?sid=104" class="nclicks(rig.secteco)" title="푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선">푸틴 핵위협 되풀이…허세인가 실제위험인가 불안한 시선</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크, '세계 최고 부자' 자리 위태…잠시 루이뷔통 회장에 밀려]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011581285?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011581285?sid=104"/>
-        <updated>2022-12-08T01:07:22.050Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011581285?sid=104" class="nclicks(rig.secteco)" title="머스크, '세계 최고 부자' 자리 위태…잠시 루이뷔통 회장에 밀려">머스크, '세계 최고 부자' 자리 위태…잠시 루이뷔통 회장에 밀려</a>]]></content>
+        <title type="html"><![CDATA[中 시진핑, 사우디 도착...“38조원대 계약 맺을 듯”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000860728?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000860728?sid=104"/>
+        <updated>2022-12-08T02:43:22.250Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000860728?sid=104" class="nclicks(rig.secteco)" title="中 시진핑, 사우디 도착...“38조원대 계약 맺을 듯”">中 시진핑, 사우디 도착...“38조원대 계약 맺을 듯”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이변은 없었다"…결국 상폐된 위믹스, 한때 2만8000원→400원대]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006507151?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006507151?sid=101"/>
-        <updated>2022-12-08T01:07:22.054Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006507151?sid=101" class="nclicks(rig.secteco)" title="&quot;이변은 없었다&quot;…결국 상폐된 위믹스, 한때 2만8000원→400원대">"이변은 없었다"…결국 상폐된 위믹스, 한때 2만8000원→400원대</a>]]></content>
+        <title type="html"><![CDATA[화물총파업 15일째…정부 '1만명' 차주 석유화학·철강 업무개시명령(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006507438?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006507438?sid=101"/>
+        <updated>2022-12-08T02:43:22.251Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006507438?sid=101" class="nclicks(rig.secteco)" title="화물총파업 15일째…정부 '1만명' 차주 석유화학·철강 업무개시명령(종합)">화물총파업 15일째…정부 '1만명' 차주 석유화학·철강 업무개시명령(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['묻지마 청약'은 옛말...둔촌주공 청약 흥행 실패에 고민 커진 분양시장]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004939284?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004939284?sid=101"/>
-        <updated>2022-12-07T23:13:57.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004939284?sid=101" class="nclicks(rig.secteco)" title="'묻지마 청약'은 옛말...둔촌주공 청약 흥행 실패에 고민 커진 분양시장">'묻지마 청약'은 옛말...둔촌주공 청약 흥행 실패에 고민 커진 분양시장</a>]]></content>
+        <title type="html"><![CDATA[24만원→2만원대 추락한 위메이드…"위믹스 쇼크 계속" 개미들 비명]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004826771?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004826771?sid=101"/>
+        <updated>2022-12-08T02:43:22.252Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004826771?sid=101" class="nclicks(rig.secteco)" title="24만원→2만원대 추락한 위메이드…&quot;위믹스 쇼크 계속&quot; 개미들 비명">24만원→2만원대 추락한 위메이드…"위믹스 쇼크 계속" 개미들 비명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5만전자·7만닉스 ‘줍줍’하는 개미…정말 더 사도 될까?]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000035830?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000035830?sid=101"/>
-        <updated>2022-12-08T01:07:22.058Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000035830?sid=101" class="nclicks(rig.secteco)" title="5만전자·7만닉스 ‘줍줍’하는 개미…정말 더 사도 될까?">5만전자·7만닉스 ‘줍줍’하는 개미…정말 더 사도 될까?</a>]]></content>
+        <title type="html"><![CDATA[[속보] 층간소음 심해도 재건축…안전진단 문턱 확 낮아진다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004131242?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004131242?sid=101"/>
+        <updated>2022-12-08T02:43:22.255Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004131242?sid=101" class="nclicks(rig.secteco)" title="[속보] 층간소음 심해도 재건축…안전진단 문턱 확 낮아진다">[속보] 층간소음 심해도 재건축…안전진단 문턱 확 낮아진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부산연구원, 전국 시·도연구원과 탄소중립·녹색성장 협력]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011581549?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011581549?sid=105"/>
-        <updated>2022-12-08T01:07:22.061Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011581549?sid=105" class="nclicks(rig.secteco)" title="부산연구원, 전국 시·도연구원과 탄소중립·녹색성장 협력">부산연구원, 전국 시·도연구원과 탄소중립·녹색성장 협력</a>]]></content>
+        <title type="html"><![CDATA[[기획] 포항, 기후위기에 강하고 안전한 '탄소중립 녹색도시로']]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002268903?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002268903?sid=105"/>
+        <updated>2022-12-08T02:43:22.255Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002268903?sid=105" class="nclicks(rig.secteco)" title="[기획] 포항, 기후위기에 강하고 안전한 '탄소중립 녹색도시로'">[기획] 포항, 기후위기에 강하고 안전한 '탄소중립 녹색도시로'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['먹통' 반성 카카오 "설비부터 서비스 전체 다중화…투자 3배 확대"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011580175?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011580175?sid=105"/>
-        <updated>2022-12-07T22:13:50.300Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011580175?sid=105" class="nclicks(rig.secteco)" title="'먹통' 반성 카카오 &quot;설비부터 서비스 전체 다중화…투자 3배 확대&quot;(종합)">'먹통' 반성 카카오 "설비부터 서비스 전체 다중화…투자 3배 확대"(종합)</a>]]></content>
+        <title type="html"><![CDATA[딥브레인AI, 아메리카 갓 탤런트 '하위 맨델' AI인간으로 구현]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002138351?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002138351?sid=105"/>
+        <updated>2022-12-08T02:43:22.256Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002138351?sid=105" class="nclicks(rig.secteco)" title="딥브레인AI, 아메리카 갓 탤런트 '하위 맨델' AI인간으로 구현">딥브레인AI, 아메리카 갓 탤런트 '하위 맨델' AI인간으로 구현</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수학·국어 최고점 격차 2점→11점…이과생 '문과침공' 거세질듯]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013630651?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013630651?sid=102"/>
+        <updated>2022-12-08T02:43:22.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630651?sid=102" class="nclicks(rig.secteco)" title="수학·국어 최고점 격차 2점→11점…이과생 '문과침공' 거세질듯">수학·국어 최고점 격차 2점→11점…이과생 '문과침공' 거세질듯</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인천 석남동 인쇄공장서 큰 불…건물 10개동 태워]]></title>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003715317?sid=102" class="nclicks(rig.secteco)" title="인천 석남동 인쇄공장서 큰 불…건물 10개동 태워">인천 석남동 인쇄공장서 큰 불…건물 10개동 태워</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘실내마스크’ 조정 급물살…“내년 1월~3월 해제”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011388867?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011388867?sid=102"/>
-        <updated>2022-12-08T01:07:22.067Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011388867?sid=102" class="nclicks(rig.secteco)" title="‘실내마스크’ 조정 급물살…“내년 1월~3월 해제”">‘실내마스크’ 조정 급물살…“내년 1월~3월 해제”</a>]]></content>
+        <title type="html"><![CDATA['매일 발생' 전남 AI 확산 비상…6개 시군 155만마리 살처분]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013630648?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013630648?sid=102"/>
+        <updated>2022-12-08T02:43:22.260Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013630648?sid=102" class="nclicks(rig.secteco)" title="'매일 발생' 전남 AI 확산 비상…6개 시군 155만마리 살처분">'매일 발생' 전남 AI 확산 비상…6개 시군 155만마리 살처분</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고병원성 AI 확산세‥오리고기·달걀 도매가 한달새 10% 올라]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001240147?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001240147?sid=102"/>
-        <updated>2022-12-08T01:07:22.069Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001240147?sid=102" class="nclicks(rig.secteco)" title="고병원성 AI 확산세‥오리고기·달걀 도매가 한달새 10% 올라">고병원성 AI 확산세‥오리고기·달걀 도매가 한달새 10% 올라</a>]]></content>
+        <title type="html"><![CDATA[“매일 물 8잔 마셔야 좋다”는 속설은 잘못…목 마를 때 마시면 돼]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003762250?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003762250?sid=103"/>
+        <updated>2022-12-08T02:43:22.262Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003762250?sid=103" class="nclicks(rig.secteco)" title="“매일 물 8잔 마셔야 좋다”는 속설은 잘못…목 마를 때 마시면 돼">“매일 물 8잔 마셔야 좋다”는 속설은 잘못…목 마를 때 마시면 돼</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨클릭] 오늘도 추위 주춤, 곳곳 먼지 말썽…동쪽 대기 건조]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000573596?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000573596?sid=103"/>
-        <updated>2022-12-08T01:07:22.076Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000573596?sid=103" class="nclicks(rig.secteco)" title="[날씨클릭] 오늘도 추위 주춤, 곳곳 먼지 말썽…동쪽 대기 건조">[날씨클릭] 오늘도 추위 주춤, 곳곳 먼지 말썽…동쪽 대기 건조</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 중부·전북 오전까지 짙은 안개…동해안 대기 건조]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000324318?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000324318?sid=103"/>
-        <updated>2022-12-08T01:07:22.078Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000324318?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부·전북 오전까지 짙은 안개…동해안 대기 건조">[날씨] 중부·전북 오전까지 짙은 안개…동해안 대기 건조</a>]]></content>
+        <title type="html"><![CDATA[“韓시장 개척공로 치하”…BMW코리아, 무역의 날 국무총리 표창 수상]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005057062?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005057062?sid=103"/>
+        <updated>2022-12-08T02:43:22.264Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005057062?sid=103" class="nclicks(rig.secteco)" title="“韓시장 개척공로 치하”…BMW코리아, 무역의 날 국무총리 표창 수상">“韓시장 개척공로 치하”…BMW코리아, 무역의 날 국무총리 표창 수상</a>]]></content>
     </entry>
 </feed>
