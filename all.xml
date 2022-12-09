@@ -2,22 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-09T02:44:19.477Z</updated>
+    <updated>2022-12-09T03:17:48.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA["실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013632914?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013632914?sid=100"/>
-        <updated>2022-12-09T02:43:50.601Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013632914?sid=100" class="nclicks(rig.secteco)" title="&quot;실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종&quot;(종합2보)">"실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종"(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희와 셀카·尹과 어깨동무...대표팀에 '외모 1위' 묻자 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/656/0000036882?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/656/0000036882?sid=100"/>
-        <updated>2022-12-09T02:43:50.605Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000036882?sid=100" class="nclicks(rig.secteco)" title="김건희와 셀카·尹과 어깨동무...대표팀에 '외모 1위' 묻자">김건희와 셀카·尹과 어깨동무...대표팀에 '외모 1위' 묻자</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[민주당이 돈줄 막은 한전, 전기요금 대폭 못 올리면 대혼돈 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000861091?sid=100</id>
@@ -26,11 +12,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000861091?sid=100" class="nclicks(rig.secteco)" title="민주당이 돈줄 막은 한전, 전기요금 대폭 못 올리면 대혼돈">민주당이 돈줄 막은 한전, 전기요금 대폭 못 올리면 대혼돈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사우디, 미 보란듯 중국밀착…화웨이 들이고 '하나의 중국' 천명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013632939?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013632939?sid=104"/>
-        <updated>2022-12-09T02:43:50.614Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013632939?sid=104" class="nclicks(rig.secteco)" title="사우디, 미 보란듯 중국밀착…화웨이 들이고 '하나의 중국' 천명">사우디, 미 보란듯 중국밀착…화웨이 들이고 '하나의 중국' 천명</a>]]></content>
+        <title type="html"><![CDATA[野, ‘안전운임제' 국토위 소위 단독 처리…與 “입법쇼 멈춰야” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005189741?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005189741?sid=100"/>
+        <updated>2022-12-09T03:17:14.387Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005189741?sid=100" class="nclicks(rig.secteco)" title="野, ‘안전운임제' 국토위 소위 단독 처리…與 “입법쇼 멈춰야”">野, ‘안전운임제' 국토위 소위 단독 처리…與 “입법쇼 멈춰야”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與 "예산안 먼저", 野 "해임안 먼저"…정기국회 종료 초읽기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002269069?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002269069?sid=100"/>
+        <updated>2022-12-09T03:17:14.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002269069?sid=100" class="nclicks(rig.secteco)" title="與 &quot;예산안 먼저&quot;, 野 &quot;해임안 먼저&quot;…정기국회 종료 초읽기">與 "예산안 먼저", 野 "해임안 먼저"…정기국회 종료 초읽기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[커버스토리]中-사우디 '포괄적 전략동반자' 관계 격상…美와 결별 빨라지나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005189734?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005189734?sid=104"/>
+        <updated>2022-12-09T03:17:14.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005189734?sid=104" class="nclicks(rig.secteco)" title="[커버스토리]中-사우디 '포괄적 전략동반자' 관계 격상…美와 결별 빨라지나">[커버스토리]中-사우디 '포괄적 전략동반자' 관계 격상…美와 결별 빨라지나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10개월만에 러 벗어난 美농구스타...악명높은 무기상과 맞교환(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,18 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000012240?sid=101" class="nclicks(rig.secteco)" title="현대차 아이오닉5 '수입차 무덤' 일본 ?었다">현대차 아이오닉5 '수입차 무덤' 일본 ?었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위메이드, ‘위믹스’ 1000만 달러 규모 바이백 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005057712?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005057712?sid=101"/>
-        <updated>2022-12-09T02:43:50.617Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005057712?sid=101" class="nclicks(rig.secteco)" title="위메이드, ‘위믹스’ 1000만 달러 규모 바이백">위메이드, ‘위믹스’ 1000만 달러 규모 바이백</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[속보] 한빛4호기, 5년만에 재가동 결정…"안전성 확인" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003244822?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003244822?sid=105"/>
-        <updated>2022-12-09T02:43:50.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003244822?sid=105" class="nclicks(rig.secteco)" title="[속보] 한빛4호기, 5년만에 재가동 결정…&quot;안전성 확인&quot;">[속보] 한빛4호기, 5년만에 재가동 결정…"안전성 확인"</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/025/0003244822?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003244822?sid=101"/>
+        <updated>2022-12-09T03:17:14.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003244822?sid=101" class="nclicks(rig.secteco)" title="[속보] 한빛4호기, 5년만에 재가동 결정…&quot;안전성 확인&quot;">[속보] 한빛4호기, 5년만에 재가동 결정…"안전성 확인"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맛집 검색, 더욱 정교해진다...네이버 ‘키워드 리뷰 필터’ 도입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,39 +68,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002076284?sid=105" class="nclicks(rig.secteco)" title="맛집 검색, 더욱 정교해진다...네이버 ‘키워드 리뷰 필터’ 도입">맛집 검색, 더욱 정교해진다...네이버 ‘키워드 리뷰 필터’ 도입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화물연대 총파업 16일 만에 종료되나…오전 총투표(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006510124?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006510124?sid=102"/>
-        <updated>2022-12-09T02:43:50.621Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006510124?sid=102" class="nclicks(rig.secteco)" title="화물연대 총파업 16일 만에 종료되나…오전 총투표(종합)">화물연대 총파업 16일 만에 종료되나…오전 총투표(종합)</a>]]></content>
+        <title type="html"><![CDATA[일본이 우주기술 독자 개발했더니... 미국 태도가 변했다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000712000?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000712000?sid=105"/>
+        <updated>2022-12-09T03:17:14.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000712000?sid=105" class="nclicks(rig.secteco)" title="일본이 우주기술 독자 개발했더니... 미국 태도가 변했다">일본이 우주기술 독자 개발했더니... 미국 태도가 변했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['스쿨존 초등생 사망' 만취운전 30대 구속송치…"뺑소니 혐의 부인" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000324474?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000324474?sid=102"/>
-        <updated>2022-12-09T02:43:50.624Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000324474?sid=102" class="nclicks(rig.secteco)" title="'스쿨존 초등생 사망' 만취운전 30대 구속송치…&quot;뺑소니 혐의 부인&quot;">'스쿨존 초등생 사망' 만취운전 30대 구속송치…"뺑소니 혐의 부인"</a>]]></content>
+        <title type="html"><![CDATA[[속보] 화물연대 부산본부 해산 "조합원들 현업 복귀중"…총투표 영향 미치나? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000787940?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000787940?sid=102"/>
+        <updated>2022-12-09T03:17:14.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000787940?sid=102" class="nclicks(rig.secteco)" title="[속보] 화물연대 부산본부 해산 &quot;조합원들 현업 복귀중&quot;…총투표 영향 미치나?">[속보] 화물연대 부산본부 해산 "조합원들 현업 복귀중"…총투표 영향 미치나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불법 곰 사육농장서 곰 3마리 탈출…주인 부부 습격해 사망(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011583931?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011583931?sid=102"/>
-        <updated>2022-12-09T02:43:50.626Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011583931?sid=102" class="nclicks(rig.secteco)" title="불법 곰 사육농장서 곰 3마리 탈출…주인 부부 습격해 사망(종합)">불법 곰 사육농장서 곰 3마리 탈출…주인 부부 습격해 사망(종합)</a>]]></content>
+        <title type="html"><![CDATA["실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013632914?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013632914?sid=102"/>
+        <updated>2022-12-09T03:17:14.404Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013632914?sid=102" class="nclicks(rig.secteco)" title="&quot;실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종&quot;(종합2보)">"실내마스크 해제 판단기준 이달 확정…청소년도 2가백신 접종"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“성공하더니 더 거만해졌네”…‘하극상’ 그랜저, 벤츠 왜 타나요 [카슐랭] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005057646?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005057646?sid=103"/>
-        <updated>2022-12-08T23:15:33.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005057646?sid=103" class="nclicks(rig.secteco)" title="“성공하더니 더 거만해졌네”…‘하극상’ 그랜저, 벤츠 왜 타나요 [카슐랭]">“성공하더니 더 거만해졌네”…‘하극상’ 그랜저, 벤츠 왜 타나요 [카슐랭]</a>]]></content>
+        <title type="html"><![CDATA['스쿨존' 음주운전 사망사고 '오락가락'했던 뺑소니 혐의 적용 왜? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006510261?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006510261?sid=102"/>
+        <updated>2022-12-09T03:17:14.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006510261?sid=102" class="nclicks(rig.secteco)" title="'스쿨존' 음주운전 사망사고 '오락가락'했던 뺑소니 혐의 적용 왜?">'스쿨존' 음주운전 사망사고 '오락가락'했던 뺑소니 혐의 적용 왜?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤스케 낙상 사고…서울시향, '합창' 공연에 김선욱 투입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011583874?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011583874?sid=103"/>
-        <updated>2022-12-09T02:43:50.631Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011583874?sid=103" class="nclicks(rig.secteco)" title="벤스케 낙상 사고…서울시향, '합창' 공연에 김선욱 투입">벤스케 낙상 사고…서울시향, '합창' 공연에 김선욱 투입</a>]]></content>
+        <title type="html"><![CDATA["각 그랜저에 아빠들 신날 만하네"…디 올 뉴 그랜저[타봤어요] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005384032?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005384032?sid=103"/>
+        <updated>2022-12-09T03:17:14.407Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005384032?sid=103" class="nclicks(rig.secteco)" title="&quot;각 그랜저에 아빠들 신날 만하네&quot;…디 올 뉴 그랜저[타봤어요]">"각 그랜저에 아빠들 신날 만하네"…디 올 뉴 그랜저[타봤어요]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쌍용차, 평택 기술연구소에 제주 전기차 산학연관 단체 초청 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002076298?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002076298?sid=103"/>
+        <updated>2022-12-09T03:17:14.409Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002076298?sid=103" class="nclicks(rig.secteco)" title="쌍용차, 평택 기술연구소에 제주 전기차 산학연관 단체 초청">쌍용차, 평택 기술연구소에 제주 전기차 산학연관 단체 초청</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 문화( [이태원 참사] 언론 현업단체들…) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
