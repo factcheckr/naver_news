@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-10T11:12:02.675Z</updated>
+    <updated>2022-12-10T12:24:46.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내일 본회의서 '이상민 해임안' 표결…15일까지 예산안 협상(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006511806?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006511806?sid=100"/>
+        <updated>2022-12-10T12:24:20.955Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006511806?sid=100" class="nclicks(rig.secteco)" title="내일 본회의서 '이상민 해임안' 표결…15일까지 예산안 협상(종합)">내일 본회의서 '이상민 해임안' 표결…15일까지 예산안 협상(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여야, 예산안 합의 결렬…김진표 "11일 본회의 개의" 與에 통보(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006511793?sid=100</id>
@@ -13,25 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006511793?sid=100" class="nclicks(rig.secteco)" title="여야, 예산안 합의 결렬…김진표 &quot;11일 본회의 개의&quot; 與에 통보(종합)">여야, 예산안 합의 결렬…김진표 "11일 본회의 개의" 與에 통보(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 내일 이상민 해임안 본회의 표결…예산안은 15일 합의처리]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003245026?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003245026?sid=100"/>
-        <updated>2022-12-10T11:11:31.018Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245026?sid=100" class="nclicks(rig.secteco)" title="[속보] 내일 이상민 해임안 본회의 표결…예산안은 15일 합의처리">[속보] 내일 이상민 해임안 본회의 표결…예산안은 15일 합의처리</a>]]></content>
+        <title type="html"><![CDATA[[단독] '文 파양' 풍산개, 한달 입원 끝내고 광주 우치동물원으로 이송]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000385952?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000385952?sid=100"/>
+        <updated>2022-12-10T12:24:20.959Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000385952?sid=100" class="nclicks(rig.secteco)" title="[단독] '文 파양' 풍산개, 한달 입원 끝내고 광주 우치동물원으로 이송">[단독] '文 파양' 풍산개, 한달 입원 끝내고 광주 우치동물원으로 이송</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文 '유기견 달력' 제작에…與 "키우던 개 버리고 모순덩어리"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003245020?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003245020?sid=100"/>
-        <updated>2022-12-10T09:13:26.409Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245020?sid=100" class="nclicks(rig.secteco)" title="文 '유기견 달력' 제작에…與 &quot;키우던 개 버리고 모순덩어리&quot;">文 '유기견 달력' 제작에…與 "키우던 개 버리고 모순덩어리"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴, '미국식 선제타격' 거론하며 강도높인 핵 위협]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000386058?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000386058?sid=104"/>
-        <updated>2022-12-10T11:11:31.020Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000386058?sid=104" class="nclicks(rig.secteco)" title="푸틴, '미국식 선제타격' 거론하며 강도높인 핵 위협">푸틴, '미국식 선제타격' 거론하며 강도높인 핵 위협</a>]]></content>
+        <title type="html"><![CDATA[푸틴 '미국식 선제타격' 언급…미 국방부 "무책임한 핵 위협"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001019410?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001019410?sid=104"/>
+        <updated>2022-12-10T12:24:20.962Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001019410?sid=104" class="nclicks(rig.secteco)" title="푸틴 '미국식 선제타격' 언급…미 국방부 &quot;무책임한 핵 위협&quot;">푸틴 '미국식 선제타격' 언급…미 국방부 "무책임한 핵 위협"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한미일 등 31개국 "北 최악 인권침해국"…안보리 공개논의 촉구(종합)]]></title>
@@ -41,32 +41,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013634502?sid=104" class="nclicks(rig.secteco)" title="한미일 등 31개국 &quot;北 최악 인권침해국&quot;…안보리 공개논의 촉구(종합)">한미일 등 31개국 "北 최악 인권침해국"…안보리 공개논의 촉구(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“연간 6800억달러 전망”…올해 누적 수출액 최고치 경신에도 ‘빨간불’ 이유가]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005058265?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005058265?sid=101"/>
-        <updated>2022-12-10T11:11:31.023Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005058265?sid=101" class="nclicks(rig.secteco)" title="“연간 6800억달러 전망”…올해 누적 수출액 최고치 경신에도 ‘빨간불’ 이유가">“연간 6800억달러 전망”…올해 누적 수출액 최고치 경신에도 ‘빨간불’ 이유가</a>]]></content>
+        <title type="html"><![CDATA[올 누적 수출, 사상최대 6444억달러 돌파…연간 6천800억달러 전망]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002771746?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002771746?sid=101"/>
+        <updated>2022-12-10T12:24:20.964Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002771746?sid=101" class="nclicks(rig.secteco)" title="올 누적 수출, 사상최대 6444억달러 돌파…연간 6천800억달러 전망">올 누적 수출, 사상최대 6444억달러 돌파…연간 6천800억달러 전망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기름값 내림세 지속…휘발유 15원·경유 16원 ↓]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000716127?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000716127?sid=101"/>
-        <updated>2022-12-10T11:11:31.024Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000716127?sid=101" class="nclicks(rig.secteco)" title="기름값 내림세 지속…휘발유 15원·경유 16원 ↓">기름값 내림세 지속…휘발유 15원·경유 16원 ↓</a>]]></content>
+        <title type="html"><![CDATA[주유소 ‘품절사태’ 점차 안정화...휘발유 13주·경유3주 연속 하락]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005384564?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005384564?sid=101"/>
+        <updated>2022-12-10T12:24:20.968Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005384564?sid=101" class="nclicks(rig.secteco)" title="주유소 ‘품절사태’ 점차 안정화...휘발유 13주·경유3주 연속 하락">주유소 ‘품절사태’ 점차 안정화...휘발유 13주·경유3주 연속 하락</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추경호 "예산감액 '3조 vs 5조' 간극 못 좁혀…법인세 중재안 野 거부"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006511319?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006511319?sid=101"/>
-        <updated>2022-12-10T11:11:31.026Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006511319?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;예산감액 '3조 vs 5조' 간극 못 좁혀…법인세 중재안 野 거부&quot;(종합)">추경호 "예산감액 '3조 vs 5조' 간극 못 좁혀…법인세 중재안 野 거부"(종합)</a>]]></content>
+        <title type="html"><![CDATA[“11월 PPI, 혼란했던 시장”…“서비스물가·임금이 핵심” [김영필의 3분 월스트리트]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004132011?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004132011?sid=101"/>
+        <updated>2022-12-10T12:24:20.970Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004132011?sid=101" class="nclicks(rig.secteco)" title="“11월 PPI, 혼란했던 시장”…“서비스물가·임금이 핵심” [김영필의 3분 월스트리트]">“11월 PPI, 혼란했던 시장”…“서비스물가·임금이 핵심” [김영필의 3분 월스트리트]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 삼성 '5G 장비' 잭팟…印 1위 통신사 뚫었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004131912?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004131912?sid=105"/>
-        <updated>2022-12-10T02:37:51.035Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004131912?sid=105" class="nclicks(rig.secteco)" title="[단독] 삼성 '5G 장비' 잭팟…印 1위 통신사 뚫었다">[단독] 삼성 '5G 장비' 잭팟…印 1위 통신사 뚫었다</a>]]></content>
+        <title type="html"><![CDATA[넷플 이어 디플도 '광고요금제'…시간당 20개 광고? 봐! 말어!]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011585180?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011585180?sid=105"/>
+        <updated>2022-12-10T12:24:20.971Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011585180?sid=105" class="nclicks(rig.secteco)" title="넷플 이어 디플도 '광고요금제'…시간당 20개 광고? 봐! 말어!">넷플 이어 디플도 '광고요금제'…시간당 20개 광고? 봐! 말어!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 스포츠·패션 시작으로 사용자 관심사 공유 ‘탐색형 검색’ 확대]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002375684?sid=102" class="nclicks(rig.secteco)" title="이태원 참사 유가족들 &quot;우리가 반정부세력입니까&quot; [이태원 압사 참사]">이태원 참사 유가족들 "우리가 반정부세력입니까" [이태원 압사 참사]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["대장동 일당, 주점서 정진상에 '현금 쇼핑백' 전달"]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000386048?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000386048?sid=102"/>
-        <updated>2022-12-10T11:11:31.031Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000386048?sid=102" class="nclicks(rig.secteco)" title="&quot;대장동 일당, 주점서 정진상에 '현금 쇼핑백' 전달&quot;">"대장동 일당, 주점서 정진상에 '현금 쇼핑백' 전달"</a>]]></content>
+        <title type="html"><![CDATA[[단독]“2억4000만원 수뢰” 정진상 구속기소… 이재명 수사만 남아]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003467190?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003467190?sid=102"/>
+        <updated>2022-12-10T12:24:20.975Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003467190?sid=102" class="nclicks(rig.secteco)" title="[단독]“2억4000만원 수뢰” 정진상 구속기소… 이재명 수사만 남아">[단독]“2억4000만원 수뢰” 정진상 구속기소… 이재명 수사만 남아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서훈 측 "검찰, 석방될까 봐 전격 기소‥매우 유감"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001240618?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001240618?sid=102"/>
-        <updated>2022-12-10T11:11:31.033Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001240618?sid=102" class="nclicks(rig.secteco)" title="서훈 측 &quot;검찰, 석방될까 봐 전격 기소‥매우 유감&quot;">서훈 측 "검찰, 석방될까 봐 전격 기소‥매우 유감"</a>]]></content>
+        <title type="html"><![CDATA[민주노총 "안전운임제 사수"…도심 곳곳서 집회·시위]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011585422?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011585422?sid=102"/>
+        <updated>2022-12-10T12:24:20.977Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011585422?sid=102" class="nclicks(rig.secteco)" title="민주노총 &quot;안전운임제 사수&quot;…도심 곳곳서 집회·시위">민주노총 "안전운임제 사수"…도심 곳곳서 집회·시위</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 예년보다 온화하지만, 안개·미세먼지...동해안 건조]]></title>
