@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-11T12:25:15.949Z</updated>
+    <updated>2022-12-11T13:19:37.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["與 국조 거부 명분만 줬다"…野내부도 우려한 이상민 해임안 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002771910?sid=100" class="nclicks(rig.secteco)" title="김대기 대통령 비서실장, `특사 자격`으로 UAE행">김대기 대통령 비서실장, `특사 자격`으로 UAE행</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[일본 민간기업 달착륙선 발사 성공…"내년 4월말 도착"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013635962?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013635962?sid=104"/>
+        <updated>2022-12-11T13:19:04.650Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013635962?sid=104" class="nclicks(rig.secteco)" title="일본 민간기업 달착륙선 발사 성공…&quot;내년 4월말 도착&quot;(종합)">일본 민간기업 달착륙선 발사 성공…"내년 4월말 도착"(종합)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미 무인 우주선 `오리온` 26일 만에 지구로 귀환…시속 4만㎞ 속도 줄이고, 2800℃ 열기 뚫어야 성공 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/029/0002771927?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/029/0002771927?sid=104"/>
@@ -33,25 +40,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002771927?sid=104" class="nclicks(rig.secteco)" title="미 무인 우주선 `오리온` 26일 만에 지구로 귀환…시속 4만㎞ 속도 줄이고, 2800℃ 열기 뚫어야 성공">미 무인 우주선 `오리온` 26일 만에 지구로 귀환…시속 4만㎞ 속도 줄이고, 2800℃ 열기 뚫어야 성공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 민간 개발 달 착륙선 발사…"세계 최초 달 자원 거래 목표" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005190258?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005190258?sid=104"/>
-        <updated>2022-12-11T11:11:38.232Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005190258?sid=104" class="nclicks(rig.secteco)" title="日 민간 개발 달 착륙선 발사…&quot;세계 최초 달 자원 거래 목표&quot;">日 민간 개발 달 착륙선 발사…"세계 최초 달 자원 거래 목표"</a>]]></content>
+        <title type="html"><![CDATA[내년 한전채 신규발행 막힐판… 전기료 급등·전력마비 온다 [한전법 개정 무산] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004940570?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004940570?sid=101"/>
+        <updated>2022-12-11T13:19:04.673Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004940570?sid=101" class="nclicks(rig.secteco)" title="내년 한전채 신규발행 막힐판… 전기료 급등·전력마비 온다 [한전법 개정 무산]">내년 한전채 신규발행 막힐판… 전기료 급등·전력마비 온다 [한전법 개정 무산]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한전법 부결에 정부 “다시 개정안, 안 되면 전기료 3배 인상”…여야 “재추진” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003323937?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003323937?sid=101"/>
-        <updated>2022-12-11T09:14:14.184Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003323937?sid=101" class="nclicks(rig.secteco)" title="한전법 부결에 정부 “다시 개정안, 안 되면 전기료 3배 인상”…여야 “재추진”">한전법 부결에 정부 “다시 개정안, 안 되면 전기료 3배 인상”…여야 “재추진”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["발렌타인 드시죠" 유흥업소 비밀…615억 리베이트 걸렸다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003245126?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003245126?sid=101"/>
-        <updated>2022-12-11T09:14:14.184Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245126?sid=101" class="nclicks(rig.secteco)" title="&quot;발렌타인 드시죠&quot; 유흥업소 비밀…615억 리베이트 걸렸다">"발렌타인 드시죠" 유흥업소 비밀…615억 리베이트 걸렸다</a>]]></content>
+        <title type="html"><![CDATA[발렌타인 판매사, 자사 위스키 구매 대가로 국내 유흥업소에 615억원 리베이트 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003192167?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003192167?sid=101"/>
+        <updated>2022-12-11T13:19:04.673Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003192167?sid=101" class="nclicks(rig.secteco)" title="발렌타인 판매사, 자사 위스키 구매 대가로 국내 유흥업소에 615억원 리베이트">발렌타인 판매사, 자사 위스키 구매 대가로 국내 유흥업소에 615억원 리베이트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[둔촌주공 청약 부진?...현금실탄 두둑한 무순위자들은 지금 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,46 +61,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005058588?sid=101" class="nclicks(rig.secteco)" title="둔촌주공 청약 부진?...현금실탄 두둑한 무순위자들은 지금">둔촌주공 청약 부진?...현금실탄 두둑한 무순위자들은 지금</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민 레이싱 게임 '카트라이더', 18년 만에 서비스 종료 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004785955?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004785955?sid=105"/>
-        <updated>2022-12-11T12:24:47.354Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004785955?sid=105" class="nclicks(rig.secteco)" title="국민 레이싱 게임 '카트라이더', 18년 만에 서비스 종료">국민 레이싱 게임 '카트라이더', 18년 만에 서비스 종료</a>]]></content>
+        <title type="html"><![CDATA[국민 레이싱 게임 ‘카트라이더’ 굿바이...18년 만에 서비스 종료 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005058606?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005058606?sid=105"/>
+        <updated>2022-12-11T13:19:04.674Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005058606?sid=105" class="nclicks(rig.secteco)" title="국민 레이싱 게임 ‘카트라이더’ 굿바이...18년 만에 서비스 종료">국민 레이싱 게임 ‘카트라이더’ 굿바이...18년 만에 서비스 종료</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 제시 SaaS 품질 측정 항목, 국제표준 추진 채택 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002276204?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002276204?sid=105"/>
-        <updated>2022-12-11T08:17:14.498Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002276204?sid=105" class="nclicks(rig.secteco)" title="한국 제시 SaaS 품질 측정 항목, 국제표준 추진 채택">한국 제시 SaaS 품질 측정 항목, 국제표준 추진 채택</a>]]></content>
+        <title type="html"><![CDATA[“뭐라도 해보자” 실적부진 게임사들이 몰려간 곳은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005058599?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005058599?sid=105"/>
+        <updated>2022-12-11T13:19:04.674Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005058599?sid=105" class="nclicks(rig.secteco)" title="“뭐라도 해보자” 실적부진 게임사들이 몰려간 곳은">“뭐라도 해보자” 실적부진 게임사들이 몰려간 곳은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 교수들, 올해의 사자성어 '과이불개' 선정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000574110?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000574110?sid=102"/>
-        <updated>2022-12-11T12:24:47.358Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000574110?sid=102" class="nclicks(rig.secteco)" title="전국 교수들, 올해의 사자성어 '과이불개' 선정">전국 교수들, 올해의 사자성어 '과이불개' 선정</a>]]></content>
+        <title type="html"><![CDATA[올해의 사자성어 '과이불개'...'잘못하고도 고치지 않는다' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001824470?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001824470?sid=102"/>
+        <updated>2022-12-11T13:19:04.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001824470?sid=102" class="nclicks(rig.secteco)" title="올해의 사자성어 '과이불개'...'잘못하고도 고치지 않는다'">올해의 사자성어 '과이불개'...'잘못하고도 고치지 않는다'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법원 “더탐사 기자, 한동훈 주거 100m내 접근 말라” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003733960?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003733960?sid=102"/>
-        <updated>2022-12-11T12:24:47.360Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003733960?sid=102" class="nclicks(rig.secteco)" title="법원 “더탐사 기자, 한동훈 주거 100m내 접근 말라”">법원 “더탐사 기자, 한동훈 주거 100m내 접근 말라”</a>]]></content>
+        <title type="html"><![CDATA[법원 “한동훈 주거지에 더탐사 접근금지” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003192141?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003192141?sid=102"/>
+        <updated>2022-12-11T13:19:04.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003192141?sid=102" class="nclicks(rig.secteco)" title="법원 “한동훈 주거지에 더탐사 접근금지”">법원 “한동훈 주거지에 더탐사 접근금지”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘한남동 민폐 시위’ 법원이 제동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000239713?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000239713?sid=102"/>
-        <updated>2022-12-11T12:24:47.361Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239713?sid=102" class="nclicks(rig.secteco)" title="‘한남동 민폐 시위’ 법원이 제동">‘한남동 민폐 시위’ 법원이 제동</a>]]></content>
+        <title type="html"><![CDATA[[단독] 정부, 화물연대 파업 종료에 내일 위기경보 ‘심각’→‘주의’ 격하…업무개시명령도 종료 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003323905?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003323905?sid=102"/>
+        <updated>2022-12-11T13:19:04.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003323905?sid=102" class="nclicks(rig.secteco)" title="[단독] 정부, 화물연대 파업 종료에 내일 위기경보 ‘심각’→‘주의’ 격하…업무개시명령도 종료">[단독] 정부, 화물연대 파업 종료에 내일 위기경보 ‘심각’→‘주의’ 격하…업무개시명령도 종료</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨]전국 흐리고 비 또는 눈…서울 아침 최저 -2도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005190275?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005190275?sid=103"/>
-        <updated>2022-12-11T12:24:47.363Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005190275?sid=103" class="nclicks(rig.secteco)" title="[내일날씨]전국 흐리고 비 또는 눈…서울 아침 최저 -2도">[내일날씨]전국 흐리고 비 또는 눈…서울 아침 최저 -2도</a>]]></content>
+        <title type="html"><![CDATA[[내일날씨]중부·전북·경상 비 또는 눈…서울 아침 -2도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011586220?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011586220?sid=103"/>
+        <updated>2022-12-11T13:19:04.678Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011586220?sid=103" class="nclicks(rig.secteco)" title="[내일날씨]중부·전북·경상 비 또는 눈…서울 아침 -2도">[내일날씨]중부·전북·경상 비 또는 눈…서울 아침 -2도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스포티지·투싼, 독일 전문지 하이브리드카 평가서 日 3종 제쳤다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
