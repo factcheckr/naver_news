@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-12T03:20:06.569Z</updated>
+    <updated>2022-12-12T04:18:25.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245296?sid=100" class="nclicks(rig.secteco)" title="[속보] 민주당 '이상직 지역구' 전주을 재선거에 무공천 결정">[속보] 민주당 '이상직 지역구' 전주을 재선거에 무공천 결정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주호영 "尹대통령, '이상민 해임안' 무시해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004786186?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004786186?sid=100"/>
-        <updated>2022-12-12T03:19:32.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004786186?sid=100" class="nclicks(rig.secteco)" title="주호영 &quot;尹대통령, '이상민 해임안' 무시해야&quot;">주호영 "尹대통령, '이상민 해임안' 무시해야"</a>]]></content>
+        <title type="html"><![CDATA[정진석 "민주당, 민노총과 결합해 민주노동당으로 이름 바꿔라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002375771?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002375771?sid=100"/>
+        <updated>2022-12-12T04:17:57.112Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002375771?sid=100" class="nclicks(rig.secteco)" title="정진석 &quot;민주당, 민노총과 결합해 민주노동당으로 이름 바꿔라&quot;">정진석 "민주당, 민노총과 결합해 민주노동당으로 이름 바꿔라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무사히 첫발 뗀 '달의 여신'…아르테미스, 2년 뒤 유인 탐사선 보낸다]]></title>
@@ -34,11 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011586709?sid=104" class="nclicks(rig.secteco)" title="무사히 첫발 뗀 '달의 여신'…아르테미스, 2년 뒤 유인 탐사선 보낸다">무사히 첫발 뗀 '달의 여신'…아르테미스, 2년 뒤 유인 탐사선 보낸다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘저출산’ 한국, 2050년엔 나이지리아에도 경제규모 밀린다]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003324123?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003324123?sid=104"/>
-        <updated>2022-12-12T02:47:02.251Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003324123?sid=104" class="nclicks(rig.secteco)" title="‘저출산’ 한국, 2050년엔 나이지리아에도 경제규모 밀린다">‘저출산’ 한국, 2050년엔 나이지리아에도 경제규모 밀린다</a>]]></content>
+        <title type="html"><![CDATA["韓 경제, 세계 15위 밖으로…30년뒤 인도네시아에도 밀린다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004827939?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004827939?sid=104"/>
+        <updated>2022-12-12T04:17:57.115Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004827939?sid=104" class="nclicks(rig.secteco)" title="&quot;韓 경제, 세계 15위 밖으로…30년뒤 인도네시아에도 밀린다&quot;">"韓 경제, 세계 15위 밖으로…30년뒤 인도네시아에도 밀린다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혼부부 8만쌍 줄었다…자녀 수는 최저·대출잔액은 최대]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013636691?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013636691?sid=101"/>
+        <updated>2022-12-12T04:17:57.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013636691?sid=101" class="nclicks(rig.secteco)" title="신혼부부 8만쌍 줄었다…자녀 수는 최저·대출잔액은 최대">신혼부부 8만쌍 줄었다…자녀 수는 최저·대출잔액은 최대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오, 다우존스 지속가능경영 월드지수 2년 연속 편입]]></title>
@@ -48,32 +55,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011586534?sid=101" class="nclicks(rig.secteco)" title="카카오, 다우존스 지속가능경영 월드지수 2년 연속 편입">카카오, 다우존스 지속가능경영 월드지수 2년 연속 편입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년 서울 아파트 4% 하락..."미분양·미입주 주택 해소방안 시급"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005385444?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005385444?sid=101"/>
-        <updated>2022-12-12T03:19:32.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005385444?sid=101" class="nclicks(rig.secteco)" title="내년 서울 아파트 4% 하락...&quot;미분양·미입주 주택 해소방안 시급&quot;">내년 서울 아파트 4% 하락..."미분양·미입주 주택 해소방안 시급"</a>]]></content>
+        <title type="html"><![CDATA[NH농협 회장에 이석준…금융권에 '관치·낙하산' 본격 신호탄]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013636763?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013636763?sid=101"/>
+        <updated>2022-12-12T04:17:57.121Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013636763?sid=101" class="nclicks(rig.secteco)" title="NH농협 회장에 이석준…금융권에 '관치·낙하산' 본격 신호탄">NH농협 회장에 이석준…금융권에 '관치·낙하산' 본격 신호탄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아모레퍼시픽그룹, 신임 사장에 김승환·이상목…안세홍 사장은 퇴임]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000861524?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000861524?sid=101"/>
-        <updated>2022-12-12T02:47:02.253Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000861524?sid=101" class="nclicks(rig.secteco)" title="아모레퍼시픽그룹, 신임 사장에 김승환·이상목…안세홍 사장은 퇴임">아모레퍼시픽그룹, 신임 사장에 김승환·이상목…안세홍 사장은 퇴임</a>]]></content>
+        <title type="html"><![CDATA[26인의 대한민국 젊은과학자…‘한국차세대과학기술한림원’ 회원 선출]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002077119?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002077119?sid=105"/>
+        <updated>2022-12-12T04:17:57.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002077119?sid=105" class="nclicks(rig.secteco)" title="26인의 대한민국 젊은과학자…‘한국차세대과학기술한림원’ 회원 선출">26인의 대한민국 젊은과학자…‘한국차세대과학기술한림원’ 회원 선출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버웹툰 올해 최고 인기 작품은?…2022 리포트 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011586692?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011586692?sid=105"/>
-        <updated>2022-12-12T02:47:02.255Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011586692?sid=105" class="nclicks(rig.secteco)" title="네이버웹툰 올해 최고 인기 작품은?…2022 리포트 공개">네이버웹툰 올해 최고 인기 작품은?…2022 리포트 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한림원, 최우수 젊은 과학자 26인 Y-KAST 회원 선출]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000716301?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000716301?sid=105"/>
-        <updated>2022-12-12T03:19:32.726Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000716301?sid=105" class="nclicks(rig.secteco)" title="한림원, 최우수 젊은 과학자 26인 Y-KAST 회원 선출">한림원, 최우수 젊은 과학자 26인 Y-KAST 회원 선출</a>]]></content>
+        <title type="html"><![CDATA[안재영 삼성중공업 파트장·장권영 시너지 대표, 12월 '대한민국 엔지니어상']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005385480?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005385480?sid=105"/>
+        <updated>2022-12-12T04:17:57.125Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005385480?sid=105" class="nclicks(rig.secteco)" title="안재영 삼성중공업 파트장·장권영 시너지 대표, 12월 '대한민국 엔지니어상'">안재영 삼성중공업 파트장·장권영 시너지 대표, 12월 '대한민국 엔지니어상'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특수본, '용산경찰서장 도착시간 허위 기재' 경찰관 입건]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011587050?sid=102" class="nclicks(rig.secteco)" title="특수본, '용산경찰서장 도착시간 허위 기재' 경찰관 입건">특수본, '용산경찰서장 도착시간 허위 기재' 경찰관 입건</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['尹 노동개혁' 60세 정년연장 시동 건다…"호봉제→ 성과임금제"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003245280?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003245280?sid=102"/>
-        <updated>2022-12-12T03:19:32.728Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245280?sid=102" class="nclicks(rig.secteco)" title="'尹 노동개혁' 60세 정년연장 시동 건다…&quot;호봉제→ 성과임금제&quot;">'尹 노동개혁' 60세 정년연장 시동 건다…"호봉제→ 성과임금제"</a>]]></content>
+        <title type="html"><![CDATA[[속보] 6000만원 뇌물수수 혐의…檢, 민주당 노웅래 구속영장]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003245311?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003245311?sid=102"/>
+        <updated>2022-12-12T04:17:57.128Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245311?sid=102" class="nclicks(rig.secteco)" title="[속보] 6000만원 뇌물수수 혐의…檢, 민주당 노웅래 구속영장">[속보] 6000만원 뇌물수수 혐의…檢, 민주당 노웅래 구속영장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TBS 존폐 위기에 '김어준의 뉴스공장' 6년3개월 만에 하차]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006513205?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006513205?sid=102"/>
-        <updated>2022-12-12T03:19:32.732Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006513205?sid=102" class="nclicks(rig.secteco)" title="TBS 존폐 위기에 '김어준의 뉴스공장' 6년3개월 만에 하차">TBS 존폐 위기에 '김어준의 뉴스공장' 6년3개월 만에 하차</a>]]></content>
+        <title type="html"><![CDATA[건대 호수공원 용적률도 받는다…대학에 오세훈의 '비욘드조닝' 첫 도입]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004827938?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004827938?sid=102"/>
+        <updated>2022-12-12T04:17:57.130Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004827938?sid=102" class="nclicks(rig.secteco)" title="건대 호수공원 용적률도 받는다…대학에 오세훈의 '비욘드조닝' 첫 도입">건대 호수공원 용적률도 받는다…대학에 오세훈의 '비욘드조닝' 첫 도입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTS 멤버 '진', 13일 입대…육군 "종합상황실 운영, 안전통제"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005385427?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005385427?sid=103"/>
-        <updated>2022-12-12T03:19:32.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005385427?sid=103" class="nclicks(rig.secteco)" title="BTS 멤버 '진', 13일 입대…육군 &quot;종합상황실 운영, 안전통제&quot;">BTS 멤버 '진', 13일 입대…육군 "종합상황실 운영, 안전통제"</a>]]></content>
+        <title type="html"><![CDATA["생각보다 귀여움" 까까머리 사진 올린 BTS 진, 내일 입대]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003245316?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003245316?sid=103"/>
+        <updated>2022-12-12T04:17:57.132Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245316?sid=103" class="nclicks(rig.secteco)" title="&quot;생각보다 귀여움&quot; 까까머리 사진 올린 BTS 진, 내일 입대">"생각보다 귀여움" 까까머리 사진 올린 BTS 진, 내일 입대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일부터 이틀간 중부·전라·제주 최대 8㎝ 폭설…14일 기온 '뚝']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006513671?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006513671?sid=103"/>
-        <updated>2022-12-12T03:19:32.735Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006513671?sid=103" class="nclicks(rig.secteco)" title="내일부터 이틀간 중부·전라·제주 최대 8㎝ 폭설…14일 기온 '뚝'">내일부터 이틀간 중부·전라·제주 최대 8㎝ 폭설…14일 기온 '뚝'</a>]]></content>
+        <title type="html"><![CDATA[배 고픈 천재 예술가들이 ‘제2의 BTS’, ‘제2의 봉준호’ 되려면?]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003734098?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003734098?sid=103"/>
+        <updated>2022-12-12T04:17:57.134Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003734098?sid=103" class="nclicks(rig.secteco)" title="배 고픈 천재 예술가들이 ‘제2의 BTS’, ‘제2의 봉준호’ 되려면?">배 고픈 천재 예술가들이 ‘제2의 BTS’, ‘제2의 봉준호’ 되려면?</a>]]></content>
     </entry>
 </feed>
