@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-13T09:15:15.919Z</updated>
+    <updated>2022-12-13T10:16:06.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹 "포퓰리즘이 건보 망쳤다"…'文케어' 폐기 공식화]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004786850?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004786850?sid=100"/>
+        <updated>2022-12-13T10:15:36.971Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004786850?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;포퓰리즘이 건보 망쳤다&quot;…'文케어' 폐기 공식화">尹 "포퓰리즘이 건보 망쳤다"…'文케어' 폐기 공식화</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]윤 대통령, 국무회의서도 축구협회 지적 “배당금이 왜 협회 중심이냐”]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000239847?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000239847?sid=100"/>
+        <updated>2022-12-13T10:15:36.973Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000239847?sid=100" class="nclicks(rig.secteco)" title="[단독]윤 대통령, 국무회의서도 축구협회 지적 “배당금이 왜 협회 중심이냐”">[단독]윤 대통령, 국무회의서도 축구협회 지적 “배당금이 왜 협회 중심이냐”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "바로잡지 못하면 국가가 아니다" 노동개혁 끝장 승부]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004828626?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004828626?sid=100"/>
         <updated>2022-12-13T09:14:46.995Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004828626?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;바로잡지 못하면 국가가 아니다&quot; 노동개혁 끝장 승부">尹대통령 "바로잡지 못하면 국가가 아니다" 노동개혁 끝장 승부</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건보·노동 개혁 속도전 나선 윤 대통령, ‘반문재인’ 정책 추진 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003192592?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003192592?sid=100"/>
-        <updated>2022-12-13T09:14:46.998Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003192592?sid=100" class="nclicks(rig.secteco)" title="건보·노동 개혁 속도전 나선 윤 대통령, ‘반문재인’ 정책 추진 본격화">건보·노동 개혁 속도전 나선 윤 대통령, ‘반문재인’ 정책 추진 본격화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['법·원칙' 세운 尹, 이젠 '국민대통합'…MB·김경수 특별사면 고심]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006516802?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006516802?sid=100"/>
-        <updated>2022-12-13T09:14:46.999Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006516802?sid=100" class="nclicks(rig.secteco)" title="'법·원칙' 세운 尹, 이젠 '국민대통합'…MB·김경수 특별사면 고심">'법·원칙' 세운 尹, 이젠 '국민대통합'…MB·김경수 특별사면 고심</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인도·중국군 국경서 난투극…2년만에 또 대규모 충돌(영상)]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011589878?sid=104" class="nclicks(rig.secteco)" title="인도·중국군 국경서 난투극…2년만에 또 대규모 충돌(영상)">인도·중국군 국경서 난투극…2년만에 또 대규모 충돌(영상)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美·日·네덜란드 '반도체 장비 동맹'…中 숨통 죈다]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004786787?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004786787?sid=104"/>
-        <updated>2022-12-13T09:14:47.001Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004786787?sid=104" class="nclicks(rig.secteco)" title="美·日·네덜란드 '반도체 장비 동맹'…中 숨통 죈다">美·日·네덜란드 '반도체 장비 동맹'…中 숨통 죈다</a>]]></content>
+        <title type="html"><![CDATA[中, WTO에 美 제소… 반도체 전쟁 격화]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003763919?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003763919?sid=104"/>
+        <updated>2022-12-13T10:15:36.978Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003763919?sid=104" class="nclicks(rig.secteco)" title="中, WTO에 美 제소… 반도체 전쟁 격화">中, WTO에 美 제소… 반도체 전쟁 격화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내최초 한강하저 도로터널 굴착…발파없는 TBM공법으로 뚫는다]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013639817?sid=101" class="nclicks(rig.secteco)" title="국내최초 한강하저 도로터널 굴착…발파없는 TBM공법으로 뚫는다">국내최초 한강하저 도로터널 굴착…발파없는 TBM공법으로 뚫는다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EU “철강 등 6개 품목 탄소조정제 3년 후 시행” 잠정 합의…범정부 총력 대응]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003324610?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003324610?sid=101"/>
+        <updated>2022-12-13T10:15:36.982Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003324610?sid=101" class="nclicks(rig.secteco)" title="EU “철강 등 6개 품목 탄소조정제 3년 후 시행” 잠정 합의…범정부 총력 대응">EU “철강 등 6개 품목 탄소조정제 3년 후 시행” 잠정 합의…범정부 총력 대응</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[개인채무자 연체이자·추심 공포 줄어든다]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000712670?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000712670?sid=101"/>
@@ -55,53 +62,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000712670?sid=101" class="nclicks(rig.secteco)" title="개인채무자 연체이자·추심 공포 줄어든다">개인채무자 연체이자·추심 공포 줄어든다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['NH 이어 BNK도 관출신 오르나'...금융권에 드리운 관치]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005386462?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005386462?sid=101"/>
-        <updated>2022-12-13T09:14:47.007Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005386462?sid=101" class="nclicks(rig.secteco)" title="'NH 이어 BNK도 관출신 오르나'...금융권에 드리운 관치">'NH 이어 BNK도 관출신 오르나'...금융권에 드리운 관치</a>]]></content>
+        <title type="html"><![CDATA['연임 적격'에도 '경쟁' 택한 KT 구현모…자신감? 고육지책?]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011589932?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011589932?sid=105"/>
+        <updated>2022-12-13T10:15:36.985Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011589932?sid=105" class="nclicks(rig.secteco)" title="'연임 적격'에도 '경쟁' 택한 KT 구현모…자신감? 고육지책?">'연임 적격'에도 '경쟁' 택한 KT 구현모…자신감? 고육지책?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] KT 일감 몰아주기 했나…공정위, KT텔레캅 현장조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003245384?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003245384?sid=105"/>
-        <updated>2022-12-13T09:14:47.008Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003245384?sid=105" class="nclicks(rig.secteco)" title="[단독] KT 일감 몰아주기 했나…공정위, KT텔레캅 현장조사">[단독] KT 일감 몰아주기 했나…공정위, KT텔레캅 현장조사</a>]]></content>
+        <title type="html"><![CDATA[尹정부 첫 과학기관장 인사…8개월여 만에 ETRI·원자력연 원장 선임]]></title>
+        <id>https://n.news.naver.com/mnews/article/656/0000037338?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/656/0000037338?sid=105"/>
+        <updated>2022-12-13T10:15:36.987Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/656/0000037338?sid=105" class="nclicks(rig.secteco)" title="尹정부 첫 과학기관장 인사…8개월여 만에 ETRI·원자력연 원장 선임">尹정부 첫 과학기관장 인사…8개월여 만에 ETRI·원자력연 원장 선임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '위믹스 상폐 취소 기각' 위메이드, 법원에 구제요청]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000574397?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000574397?sid=105"/>
-        <updated>2022-12-13T09:14:47.010Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000574397?sid=105" class="nclicks(rig.secteco)" title="[단독] '위믹스 상폐 취소 기각' 위메이드, 법원에 구제요청">[단독] '위믹스 상폐 취소 기각' 위메이드, 법원에 구제요청</a>]]></content>
+        <title type="html"><![CDATA[[단독] ‘뇌물혐의’ 노웅래 “저를 버리지 말아달라” 동료 의원들에 호소]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003467761?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003467761?sid=102"/>
+        <updated>2022-12-13T10:15:36.989Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003467761?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘뇌물혐의’ 노웅래 “저를 버리지 말아달라” 동료 의원들에 호소">[단독] ‘뇌물혐의’ 노웅래 “저를 버리지 말아달라” 동료 의원들에 호소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“나라 구하다 죽었냐”… 이태원 참사 막말한 시의원, 사과했지만]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005386475?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005386475?sid=102"/>
-        <updated>2022-12-13T09:14:47.012Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005386475?sid=102" class="nclicks(rig.secteco)" title="“나라 구하다 죽었냐”… 이태원 참사 막말한 시의원, 사과했지만">“나라 구하다 죽었냐”… 이태원 참사 막말한 시의원, 사과했지만</a>]]></content>
+        <title type="html"><![CDATA[[스프] "나라 구하다 죽었냐"는 시의원님…혐오 키우는 정치]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001020097?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001020097?sid=102"/>
+        <updated>2022-12-13T10:15:36.990Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001020097?sid=102" class="nclicks(rig.secteco)" title="[스프] &quot;나라 구하다 죽었냐&quot;는 시의원님…혐오 키우는 정치">[스프] "나라 구하다 죽었냐"는 시의원님…혐오 키우는 정치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[여의도속풀이] 이재명 전초전? 노웅래 구속영장청구 野 복잡한 속내]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006516828?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006516828?sid=102"/>
-        <updated>2022-12-13T09:14:47.013Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006516828?sid=102" class="nclicks(rig.secteco)" title="[여의도속풀이] 이재명 전초전? 노웅래 구속영장청구 野 복잡한 속내">[여의도속풀이] 이재명 전초전? 노웅래 구속영장청구 野 복잡한 속내</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001020034?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001020034?sid=102"/>
-        <updated>2022-12-13T08:18:52.956Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001020034?sid=102" class="nclicks(rig.secteco)" title="[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월">[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003324588?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003324588?sid=103"/>
-        <updated>2022-12-13T09:14:47.016Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003324588?sid=103" class="nclicks(rig.secteco)" title="“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN">“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN</a>]]></content>
+        <title type="html"><![CDATA[[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월 (D리포트)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001020100?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001020100?sid=102"/>
+        <updated>2022-12-13T10:15:36.992Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001020100?sid=102" class="nclicks(rig.secteco)" title="[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월 (D리포트)">[단독] '경찰국 설치 반대 주도' 류삼영 총경, 정직 3개월 (D리포트)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 오전까지 중부지방 중심 대설…기온 급강하 '빙판길' 주의]]></title>
@@ -109,5 +102,12 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013639897?sid=103"/>
         <updated>2022-12-13T09:14:47.021Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013639897?sid=103" class="nclicks(rig.secteco)" title="내일 오전까지 중부지방 중심 대설…기온 급강하 '빙판길' 주의">내일 오전까지 중부지방 중심 대설…기온 급강하 '빙판길' 주의</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003324588?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003324588?sid=103"/>
+        <updated>2022-12-13T09:14:47.016Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003324588?sid=103" class="nclicks(rig.secteco)" title="“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN">“BTS 진, 실탄도 다루게 된다”…연천 찾아간 CNN</a>]]></content>
     </entry>
 </feed>
