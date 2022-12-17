@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-17T01:02:50.609Z</updated>
+    <updated>2022-12-17T02:30:56.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美 전문가들 "북 고체연료 로켓엔진 개발 초기 단계" 美 NSC "대화 복귀" 촉구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004943389?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004943389?sid=100"/>
+        <updated>2022-12-17T02:30:26.993Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004943389?sid=100" class="nclicks(rig.secteco)" title="美 전문가들 &quot;북 고체연료 로켓엔진 개발 초기 단계&quot; 美 NSC &quot;대화 복귀&quot; 촉구">美 전문가들 "북 고체연료 로켓엔진 개발 초기 단계" 美 NSC "대화 복귀" 촉구</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["독도는 일본 고유 영토" 더 세진 日억지…정부 "즉각 삭제하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003246609?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003246609?sid=100" class="nclicks(rig.secteco)" title="&quot;독도는 일본 고유 영토&quot; 더 세진 日억지…정부 &quot;즉각 삭제하라&quot;">"독도는 일본 고유 영토" 더 세진 日억지…정부 "즉각 삭제하라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“레드라인 넘었다”…미국 핵타격 노리는 북한, 막을 수 있나 [박수찬의 軍] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003765316?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003765316?sid=100"/>
-        <updated>2022-12-16T22:13:06.987Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003765316?sid=100" class="nclicks(rig.secteco)" title="“레드라인 넘었다”…미국 핵타격 노리는 북한, 막을 수 있나 [박수찬의 軍]">“레드라인 넘었다”…미국 핵타격 노리는 북한, 막을 수 있나 [박수찬의 軍]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령, 새 질병청장에 지영미 한국파스퇴르연구소장 내정(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013646608?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013646608?sid=100"/>
-        <updated>2022-12-17T01:02:24.208Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013646608?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 새 질병청장에 지영미 한국파스퇴르연구소장 내정(종합)">尹대통령, 새 질병청장에 지영미 한국파스퇴르연구소장 내정(종합)</a>]]></content>
+        <title type="html"><![CDATA['이해충돌' 질병청장 떠나고, '尹대통령 죽마고우' 부인이 새 질병청장에 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002269972?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002269972?sid=100"/>
+        <updated>2022-12-17T02:30:26.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002269972?sid=100" class="nclicks(rig.secteco)" title="'이해충돌' 질병청장 떠나고, '尹대통령 죽마고우' 부인이 새 질병청장에">'이해충돌' 질병청장 떠나고, '尹대통령 죽마고우' 부인이 새 질병청장에</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日, ‘반격 능력' 보유 선언…"독도는 고유영토" 주장도 노골화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,39 +47,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004830073?sid=101" class="nclicks(rig.secteco)" title="본계약 체결한 한화의 대우조선 인수, 남은 변수는">본계약 체결한 한화의 대우조선 인수, 남은 변수는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어수선한 세밑 금융권 '세대교체'라기엔… (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000012383?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000012383?sid=101"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000012383?sid=101" class="nclicks(rig.secteco)" title="어수선한 세밑 금융권 '세대교체'라기엔…">어수선한 세밑 금융권 '세대교체'라기엔…</a>]]></content>
+        <title type="html"><![CDATA[[단독] 우리금융 이사회, 손태승 거취 문제 다음달 논의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001071947?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001071947?sid=101"/>
+        <updated>2022-12-17T02:30:27.003Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001071947?sid=101" class="nclicks(rig.secteco)" title="[단독] 우리금융 이사회, 손태승 거취 문제 다음달 논의">[단독] 우리금융 이사회, 손태승 거취 문제 다음달 논의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, '인플레 상방 위험' 우려…다우 0.85%↓마감 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013646989?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013646989?sid=101"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013646989?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, '인플레 상방 위험' 우려…다우 0.85%↓마감">뉴욕증시, '인플레 상방 위험' 우려…다우 0.85%↓마감</a>]]></content>
+        <title type="html"><![CDATA[경기침체 우려에 美증시 하락...테슬라 4.7%↓[뉴욕마감] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004830072?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004830072?sid=101"/>
+        <updated>2022-12-17T02:30:27.004Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004830072?sid=101" class="nclicks(rig.secteco)" title="경기침체 우려에 美증시 하락...테슬라 4.7%↓[뉴욕마감]">경기침체 우려에 美증시 하락...테슬라 4.7%↓[뉴욕마감]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['달궤도선' 다누리, 발사 135일만에 달 궤도 진입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003718288?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003718288?sid=105"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003718288?sid=105" class="nclicks(rig.secteco)" title="'달궤도선' 다누리, 발사 135일만에 달 궤도 진입">'달궤도선' 다누리, 발사 135일만에 달 궤도 진입</a>]]></content>
+        <title type="html"><![CDATA[다누리, 오늘부터 달 궤도 진입기동…"이달 말 최종 안착" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000325453?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000325453?sid=105"/>
+        <updated>2022-12-17T02:30:27.006Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000325453?sid=105" class="nclicks(rig.secteco)" title="다누리, 오늘부터 달 궤도 진입기동…&quot;이달 말 최종 안착&quot;">다누리, 오늘부터 달 궤도 진입기동…"이달 말 최종 안착"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포] 서울서 열린 첫 인디게임 전시회 가보니 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002667808?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002667808?sid=105"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002667808?sid=105" class="nclicks(rig.secteco)" title="[르포] 서울서 열린 첫 인디게임 전시회 가보니">[르포] 서울서 열린 첫 인디게임 전시회 가보니</a>]]></content>
+        <title type="html"><![CDATA[[현장] 서울 한복판에 열린 인디게임 축제…게이머도, 개발자도 신났다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011596188?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011596188?sid=105"/>
+        <updated>2022-12-17T02:30:27.007Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011596188?sid=105" class="nclicks(rig.secteco)" title="[현장] 서울 한복판에 열린 인디게임 축제…게이머도, 개발자도 신났다">[현장] 서울 한복판에 열린 인디게임 축제…게이머도, 개발자도 신났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대장동 수익 260억 은닉' 김만배 측근 2명 구속 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000386975?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000386975?sid=102"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000386975?sid=102" class="nclicks(rig.secteco)" title="'대장동 수익 260억 은닉' 김만배 측근 2명 구속">'대장동 수익 260억 은닉' 김만배 측근 2명 구속</a>]]></content>
+        <title type="html"><![CDATA[극단적 선택 시도한 김만배, '대장동의 진실' 입 열까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000049592?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000049592?sid=102"/>
+        <updated>2022-12-17T02:30:27.009Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000049592?sid=102" class="nclicks(rig.secteco)" title="극단적 선택 시도한 김만배, '대장동의 진실' 입 열까">극단적 선택 시도한 김만배, '대장동의 진실' 입 열까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저녁 6시34분 불 꺼진 이태원에 울린 음성 “압사당할 것 같아요” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,18 +89,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001573866?sid=102" class="nclicks(rig.secteco)" title="저녁 6시34분 불 꺼진 이태원에 울린 음성 “압사당할 것 같아요”">저녁 6시34분 불 꺼진 이태원에 울린 음성 “압사당할 것 같아요”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴출 대학은 빠르게 정리...학과 정원 조정은 자율화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001826759?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001826759?sid=102"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001826759?sid=102" class="nclicks(rig.secteco)" title="퇴출 대학은 빠르게 정리...학과 정원 조정은 자율화">퇴출 대학은 빠르게 정리...학과 정원 조정은 자율화</a>]]></content>
+        <title type="html"><![CDATA[신규확진 6만6930명 '토요일 15주만 최다'…사망 55명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011596224?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011596224?sid=102"/>
+        <updated>2022-12-17T02:30:27.012Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011596224?sid=102" class="nclicks(rig.secteco)" title="신규확진 6만6930명 '토요일 15주만 최다'…사망 55명">신규확진 6만6930명 '토요일 15주만 최다'…사망 55명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동대문서 떠나는 우주여행…서울라이트 DDP (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002079468?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002079468?sid=103"/>
-        <updated>2022-12-17T01:02:24.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002079468?sid=103" class="nclicks(rig.secteco)" title="동대문서 떠나는 우주여행…서울라이트 DDP">동대문서 떠나는 우주여행…서울라이트 DDP</a>]]></content>
+        <title type="html"><![CDATA[우와!~~DDP 황홀경...우주와의 만남 '서울라이트 DDP' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011596094?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011596094?sid=103"/>
+        <updated>2022-12-17T02:30:27.014Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011596094?sid=103" class="nclicks(rig.secteco)" title="우와!~~DDP 황홀경...우주와의 만남 '서울라이트 DDP'">우와!~~DDP 황홀경...우주와의 만남 '서울라이트 DDP'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강추위 속 전국 곳곳에 눈 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
