@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-19T22:13:50.770Z</updated>
+    <updated>2022-12-19T23:14:48.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003718849?sid=100" class="nclicks(rig.secteco)" title="'서울 위성사진' 공개한 北…내년 4월 정찰위성 대대적 선전?">'서울 위성사진' 공개한 北…내년 4월 정찰위성 대대적 선전?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크 "트위터 CEO서 물러날까?" 투표에 57.5% 찬성]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000315023?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000315023?sid=104"/>
-        <updated>2022-12-19T22:13:20.479Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000315023?sid=104" class="nclicks(rig.secteco)" title="머스크 &quot;트위터 CEO서 물러날까?&quot; 투표에 57.5% 찬성">머스크 "트위터 CEO서 물러날까?" 투표에 57.5% 찬성</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[푸틴 "우크라 전황 극도로 어려워"…벨라루스 참전설엔 침묵(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006528116?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006528116?sid=104"/>
@@ -41,11 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006528116?sid=104" class="nclicks(rig.secteco)" title="푸틴 &quot;우크라 전황 극도로 어려워&quot;…벨라루스 참전설엔 침묵(종합)">푸틴 "우크라 전황 극도로 어려워"…벨라루스 참전설엔 침묵(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[현장] 2700만 '시민의 발' GTX 차량 출고…먼저 만나보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002668344?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002668344?sid=101"/>
-        <updated>2022-12-19T21:13:17.626Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002668344?sid=101" class="nclicks(rig.secteco)" title="[현장] 2700만 '시민의 발' GTX 차량 출고…먼저 만나보니">[현장] 2700만 '시민의 발' GTX 차량 출고…먼저 만나보니</a>]]></content>
+        <title type="html"><![CDATA[머스크, 트위터 CEO 자리 내놓는다...오너 리스크 해소되나]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002080267?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002080267?sid=104"/>
+        <updated>2022-12-19T23:14:19.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002080267?sid=104" class="nclicks(rig.secteco)" title="머스크, 트위터 CEO 자리 내놓는다...오너 리스크 해소되나">머스크, 트위터 CEO 자리 내놓는다...오너 리스크 해소되나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["최고 운행속도 180km/h"…현대로템, GTX-A 전동차 첫 선]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005389958?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005389958?sid=101"/>
+        <updated>2022-12-19T23:14:19.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005389958?sid=101" class="nclicks(rig.secteco)" title="&quot;최고 운행속도 180km/h&quot;…현대로템, GTX-A 전동차 첫 선">"최고 운행속도 180km/h"…현대로템, GTX-A 전동차 첫 선</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["휘발유 올해 가기 전에 넣으세요"...1월부터 L당 99원 올라요]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000713734?sid=101" class="nclicks(rig.secteco)" title="&quot;테슬라가 스타로 만든 원통형 배터리 만들자&quot;...LG에너지솔루션, 4조 들여 생산라인 늘린다">"테슬라가 스타로 만든 원통형 배터리 만들자"...LG에너지솔루션, 4조 들여 생산라인 늘린다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[135일 달려 ‘다누리’ 달 타원궤도 진입…“달 궤도선 됐다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011395445?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011395445?sid=105"/>
-        <updated>2022-12-19T22:13:20.491Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011395445?sid=105" class="nclicks(rig.secteco)" title="135일 달려 ‘다누리’ 달 타원궤도 진입…“달 궤도선 됐다”">135일 달려 ‘다누리’ 달 타원궤도 진입…“달 궤도선 됐다”</a>]]></content>
+        <title type="html"><![CDATA[다누리, 이제 진짜 '달 궤도선' 됐다…7대 달 탐사국으로 성큼]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011598079?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011598079?sid=105"/>
+        <updated>2022-12-19T23:14:19.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011598079?sid=105" class="nclicks(rig.secteco)" title="다누리, 이제 진짜 '달 궤도선' 됐다…7대 달 탐사국으로 성큼">다누리, 이제 진짜 '달 궤도선' 됐다…7대 달 탐사국으로 성큼</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] “발사체 있어야 발사장도 의미”…나로우주센터장도 사퇴]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005390161?sid=102" class="nclicks(rig.secteco)" title="영하 17도, 공포의 3시간… 스키장 리프트에 갇힌 사람들">영하 17도, 공포의 3시간… 스키장 리프트에 갇힌 사람들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대구시, 대형마트 의무휴업 평일 전환... 노동계 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002376597?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002376597?sid=102"/>
-        <updated>2022-12-19T20:15:20.112Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376597?sid=102" class="nclicks(rig.secteco)" title="대구시, 대형마트 의무휴업 평일 전환... 노동계 반발">대구시, 대형마트 의무휴업 평일 전환... 노동계 반발</a>]]></content>
+        <title type="html"><![CDATA[대구 대형마트 의무적으로 평일에 쉬기로…다른 지역도?]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001021738?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001021738?sid=102"/>
+        <updated>2022-12-19T23:14:19.799Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001021738?sid=102" class="nclicks(rig.secteco)" title="대구 대형마트 의무적으로 평일에 쉬기로…다른 지역도?">대구 대형마트 의무적으로 평일에 쉬기로…다른 지역도?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, 공안직 숙원·총경 인사적체 풀었다…'경대 개혁' 뇌관]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003718901?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003718901?sid=102"/>
-        <updated>2022-12-19T21:13:17.635Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003718901?sid=102" class="nclicks(rig.secteco)" title="경찰, 공안직 숙원·총경 인사적체 풀었다…'경대 개혁' 뇌관">경찰, 공안직 숙원·총경 인사적체 풀었다…'경대 개혁' 뇌관</a>]]></content>
+        <title type="html"><![CDATA[검찰 '인하대 성폭행 추락사' 가해 남학생에 무기징역 구형]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000941896?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000941896?sid=102"/>
+        <updated>2022-12-19T23:14:19.803Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000941896?sid=102" class="nclicks(rig.secteco)" title="검찰 '인하대 성폭행 추락사' 가해 남학생에 무기징역 구형">검찰 '인하대 성폭행 추락사' 가해 남학생에 무기징역 구형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 아침 최저기온 영하 9도…오후부터 추위 누그러져]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000325704?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000325704?sid=103"/>
-        <updated>2022-12-19T22:13:20.500Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000325704?sid=103" class="nclicks(rig.secteco)" title="서울 아침 최저기온 영하 9도…오후부터 추위 누그러져">서울 아침 최저기온 영하 9도…오후부터 추위 누그러져</a>]]></content>
+        <title type="html"><![CDATA[오늘(20일)도 출근길 한파 계속…낮부터 추위 주춤]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000717734?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000717734?sid=103"/>
+        <updated>2022-12-19T23:14:19.807Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000717734?sid=103" class="nclicks(rig.secteco)" title="오늘(20일)도 출근길 한파 계속…낮부터 추위 주춤">오늘(20일)도 출근길 한파 계속…낮부터 추위 주춤</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨]낮부터 추위 잠시 풀려요...내일 다시 비,눈]]></title>
-        <id>https://n.news.naver.com/mnews/article/660/0000024391?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/660/0000024391?sid=103"/>
-        <updated>2022-12-19T22:13:20.502Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000024391?sid=103" class="nclicks(rig.secteco)" title="[날씨]낮부터 추위 잠시 풀려요...내일 다시 비,눈">[날씨]낮부터 추위 잠시 풀려요...내일 다시 비,눈</a>]]></content>
+        <title type="html"><![CDATA[낮부터 추위 풀려…내일 눈 내린 뒤 더 강한 한파]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000575363?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000575363?sid=103"/>
+        <updated>2022-12-19T23:14:19.809Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000575363?sid=103" class="nclicks(rig.secteco)" title="낮부터 추위 풀려…내일 눈 내린 뒤 더 강한 한파">낮부터 추위 풀려…내일 눈 내린 뒤 더 강한 한파</a>]]></content>
     </entry>
 </feed>
