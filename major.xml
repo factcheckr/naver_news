@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-20T20:14:56.107Z</updated>
+    <updated>2022-12-20T21:12:40.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001574662?sid=100" class="nclicks(rig.secteco)" title="이태원 참사 유족, 국조 복귀 요청하자… 與 불참 방침 철회">이태원 참사 유족, 국조 복귀 요청하자… 與 불참 방침 철회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국정조사 중 野 ‘닥터카 논란’… 신현영 특위 사퇴 與는 공세]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001574643?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001574643?sid=100"/>
-        <updated>2022-12-20T20:14:28.138Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001574643?sid=100" class="nclicks(rig.secteco)" title="국정조사 중 野 ‘닥터카 논란’… 신현영 특위 사퇴 與는 공세">국정조사 중 野 ‘닥터카 논란’… 신현영 특위 사퇴 與는 공세</a>]]></content>
+        <title type="html"><![CDATA[[단독] ‘닥터카’ 신현영 특위 사퇴…“15분 머물다 장관車 타고 이동”]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002547290?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002547290?sid=100"/>
+        <updated>2022-12-20T21:12:11.955Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002547290?sid=100" class="nclicks(rig.secteco)" title="[단독] ‘닥터카’ 신현영 특위 사퇴…“15분 머물다 장관車 타고 이동”">[단독] ‘닥터카’ 신현영 특위 사퇴…“15분 머물다 장관車 타고 이동”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령, 靑 영빈관서 청년 200명 만나 "노동개혁 가장 먼저 추진해야"]]></title>
@@ -34,32 +34,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003469138?sid=104" class="nclicks(rig.secteco)" title="日, 15년만에 사실상 금리 인상… ‘초저금리’에 마침표">日, 15년만에 사실상 금리 인상… ‘초저금리’에 마침표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["머스크 비판했다가 해고돼" 테슬라 전 직원들 머스크 고소]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013653262?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013653262?sid=104"/>
-        <updated>2022-12-20T20:14:28.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653262?sid=104" class="nclicks(rig.secteco)" title="&quot;머스크 비판했다가 해고돼&quot; 테슬라 전 직원들 머스크 고소">"머스크 비판했다가 해고돼" 테슬라 전 직원들 머스크 고소</a>]]></content>
+        <title type="html"><![CDATA["머스크, 트위터 새CEO 찾는 중…투표 전 물색 시작"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005194620?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005194620?sid=104"/>
+        <updated>2022-12-20T21:12:11.958Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005194620?sid=104" class="nclicks(rig.secteco)" title="&quot;머스크, 트위터 새CEO 찾는 중…투표 전 물색 시작&quot;">"머스크, 트위터 새CEO 찾는 중…투표 전 물색 시작"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[신한금융 세대교체] 진옥동과 호흡할 차기 신한은행장에 한용구… 신한카드엔 첫 내부출신 문동권]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000879572?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000879572?sid=101"/>
-        <updated>2022-12-20T20:14:28.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000879572?sid=101" class="nclicks(rig.secteco)" title="[신한금융 세대교체] 진옥동과 호흡할 차기 신한은행장에 한용구… 신한카드엔 첫 내부출신 문동권">[신한금융 세대교체] 진옥동과 호흡할 차기 신한은행장에 한용구… 신한카드엔 첫 내부출신 문동권</a>]]></content>
+        <title type="html"><![CDATA[[신한금융 세대교체] 진옥동號 출항 준비... 은행·증권·카드 CEO 물갈이]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000879576?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000879576?sid=101"/>
+        <updated>2022-12-20T21:12:11.959Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000879576?sid=101" class="nclicks(rig.secteco)" title="[신한금융 세대교체] 진옥동號 출항 준비... 은행·증권·카드 CEO 물갈이">[신한금융 세대교체] 진옥동號 출항 준비... 은행·증권·카드 CEO 물갈이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년에도 고물가… 최종금리 수준, 예상치보다 높아질 가능성]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001574660?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001574660?sid=101"/>
-        <updated>2022-12-20T20:14:28.144Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001574660?sid=101" class="nclicks(rig.secteco)" title="내년에도 고물가… 최종금리 수준, 예상치보다 높아질 가능성">내년에도 고물가… 최종금리 수준, 예상치보다 높아질 가능성</a>]]></content>
+        <title type="html"><![CDATA[내년에도 물가 고공행진?…한은, 대외변수에 촉각]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003719339?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003719339?sid=101"/>
+        <updated>2022-12-20T21:12:11.960Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003719339?sid=101" class="nclicks(rig.secteco)" title="내년에도 물가 고공행진?…한은, 대외변수에 촉각">내년에도 물가 고공행진?…한은, 대외변수에 촉각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차그룹 '안정 속 혁신' 임원 인사…224명 승진·신규 선임 30%가 40대]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004135453?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004135453?sid=101"/>
-        <updated>2022-12-20T20:14:28.145Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004135453?sid=101" class="nclicks(rig.secteco)" title="현대차그룹 '안정 속 혁신' 임원 인사…224명 승진·신규 선임 30%가 40대">현대차그룹 '안정 속 혁신' 임원 인사…224명 승진·신규 선임 30%가 40대</a>]]></content>
+        <title type="html"><![CDATA[[단독] "섭섭지 않게 챙겨 줄게요"…전세사기 '동시진행' 다시 판친다]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000713938?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000713938?sid=101"/>
+        <updated>2022-12-20T21:12:11.961Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000713938?sid=101" class="nclicks(rig.secteco)" title="[단독] &quot;섭섭지 않게 챙겨 줄게요&quot;…전세사기 '동시진행' 다시 판친다">[단독] "섭섭지 않게 챙겨 줄게요"…전세사기 '동시진행' 다시 판친다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확률형 아이템 규제법, 국회 법안소위서 또 다시 좌절]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000879583?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000879583?sid=105"/>
+        <updated>2022-12-20T21:12:11.962Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000879583?sid=105" class="nclicks(rig.secteco)" title="확률형 아이템 규제법, 국회 법안소위서 또 다시 좌절">확률형 아이템 규제법, 국회 법안소위서 또 다시 좌절</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다누리는 '순항' Vs 항우연은 조직 내홍에 '흔들']]></title>
@@ -67,13 +74,6 @@
         <link href="https://n.news.naver.com/mnews/article/003/0011599299?sid=105"/>
         <updated>2022-12-20T19:11:25.827Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011599299?sid=105" class="nclicks(rig.secteco)" title="다누리는 '순항' Vs 항우연은 조직 내홍에 '흔들'">다누리는 '순항' Vs 항우연은 조직 내홍에 '흔들'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자율규제 잘 되고 있는데”…‘확률형 아이템’ 규제법 계류]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005390845?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005390845?sid=105"/>
-        <updated>2022-12-20T15:15:31.411Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005390845?sid=105" class="nclicks(rig.secteco)" title="“자율규제 잘 되고 있는데”…‘확률형 아이템’ 규제법 계류">“자율규제 잘 되고 있는데”…‘확률형 아이템’ 규제법 계류</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영장발부 신중한 판사…檢 30시간 만에 이임재·박희영 영장 청구]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001021966?sid=102" class="nclicks(rig.secteco)" title="[스프] 오세훈 &quot;지하철 시위, 휴전합시다&quot;…전장연 &quot;그럽시다&quot;">[스프] 오세훈 "지하철 시위, 휴전합시다"…전장연 "그럽시다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김순호 경찰국장, 6개월 만에 치안정감 ‘초고속 승진’]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001574619?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001574619?sid=102"/>
-        <updated>2022-12-20T20:14:28.168Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001574619?sid=102" class="nclicks(rig.secteco)" title="김순호 경찰국장, 6개월 만에 치안정감 ‘초고속 승진’">김순호 경찰국장, 6개월 만에 치안정감 ‘초고속 승진’</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오늘 새벽 폭설 시작… 22일부터 성탄 전야까지 다시 '한파']]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004944845?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004944845?sid=103"/>
-        <updated>2022-12-20T20:14:28.169Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004944845?sid=103" class="nclicks(rig.secteco)" title="오늘 새벽 폭설 시작… 22일부터 성탄 전야까지 다시 '한파'">오늘 새벽 폭설 시작… 22일부터 성탄 전야까지 다시 '한파'</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/014/0004944845?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004944845?sid=102"/>
+        <updated>2022-12-20T21:12:11.974Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004944845?sid=102" class="nclicks(rig.secteco)" title="오늘 새벽 폭설 시작… 22일부터 성탄 전야까지 다시 '한파'">오늘 새벽 폭설 시작… 22일부터 성탄 전야까지 다시 '한파'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정순택 대주교 만난 이재명 "더 나은 세상 만들고 싶지만 쉽지 않다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005390921?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005390921?sid=103"/>
-        <updated>2022-12-20T12:25:59.419Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005390921?sid=103" class="nclicks(rig.secteco)" title="정순택 대주교 만난 이재명 &quot;더 나은 세상 만들고 싶지만 쉽지 않다&quot;">정순택 대주교 만난 이재명 "더 나은 세상 만들고 싶지만 쉽지 않다"</a>]]></content>
+        <title type="html"><![CDATA[정순택 대주교 만난 이재명 “정치, 소외된 곳에 빛 줘야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003326503?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003326503?sid=103"/>
+        <updated>2022-12-20T21:12:11.975Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326503?sid=103" class="nclicks(rig.secteco)" title="정순택 대주교 만난 이재명 “정치, 소외된 곳에 빛 줘야”">정순택 대주교 만난 이재명 “정치, 소외된 곳에 빛 줘야”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“내년 세계에 ‘한국클래식’ 알린다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003326556?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003326556?sid=103"/>
+        <updated>2022-12-20T21:12:11.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326556?sid=103" class="nclicks(rig.secteco)" title="“내년 세계에 ‘한국클래식’ 알린다”">“내년 세계에 ‘한국클래식’ 알린다”</a>]]></content>
     </entry>
 </feed>
