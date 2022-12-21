@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-21T01:03:11.795Z</updated>
+    <updated>2022-12-21T02:33:32.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[이태원 국조특위, 여야 합동 현장조사 나서 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001189681?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001189681?sid=100"/>
-        <updated>2022-12-21T01:02:41.372Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001189681?sid=100" class="nclicks(rig.secteco)" title="이태원 국조특위, 여야 합동 현장조사 나서">이태원 국조특위, 여야 합동 현장조사 나서</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 신현영, 재난의료팀원도 아니고 15분 만에 떠나… (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/448/0000387449?sid=100</id>
@@ -19,11 +12,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000387449?sid=100" class="nclicks(rig.secteco)" title="[단독] 신현영, 재난의료팀원도 아니고 15분 만에 떠나…">[단독] 신현영, 재난의료팀원도 아니고 15분 만에 떠나…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 “노동개혁 이뤄지도록 힘 보태 달라”…3대 개혁 공유 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003766426?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003766426?sid=100"/>
-        <updated>2022-12-20T22:13:20.953Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003766426?sid=100" class="nclicks(rig.secteco)" title="尹 “노동개혁 이뤄지도록 힘 보태 달라”…3대 개혁 공유">尹 “노동개혁 이뤄지도록 힘 보태 달라”…3대 개혁 공유</a>]]></content>
+        <title type="html"><![CDATA[이태원 국조특위, 첫 현장조사…서울경찰청 등 대상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000240333?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000240333?sid=100"/>
+        <updated>2022-12-21T02:33:02.427Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000240333?sid=100" class="nclicks(rig.secteco)" title="이태원 국조특위, 첫 현장조사…서울경찰청 등 대상">이태원 국조특위, 첫 현장조사…서울경찰청 등 대상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 "尹, '이태원 참사' 잘못 인정하고 유족에게 사과하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000191247?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000191247?sid=100"/>
+        <updated>2022-12-21T02:33:02.427Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000191247?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;尹, '이태원 참사' 잘못 인정하고 유족에게 사과하라&quot;">이재명 "尹, '이태원 참사' 잘못 인정하고 유족에게 사과하라"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 머스크 "후임 찾는대로 트위터 CEO 사임…서버팀 운영" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003247615?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003247615?sid=104"/>
+        <updated>2022-12-21T02:33:02.427Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003247615?sid=104" class="nclicks(rig.secteco)" title="[속보] 머스크 &quot;후임 찾는대로 트위터 CEO 사임…서버팀 운영&quot;">[속보] 머스크 "후임 찾는대로 트위터 CEO 사임…서버팀 운영"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[젤렌스키, 21일 '깜짝 방미' 예정…개전 후 첫 외국 방문(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,46 +40,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653398?sid=104" class="nclicks(rig.secteco)" title="젤렌스키, 21일 '깜짝 방미' 예정…개전 후 첫 외국 방문(종합)">젤렌스키, 21일 '깜짝 방미' 예정…개전 후 첫 외국 방문(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["일본은행 실질적 금리인상에…한은 최종금리 3.5% 마무리 가능성" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005391121?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005391121?sid=104"/>
-        <updated>2022-12-21T01:02:41.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005391121?sid=104" class="nclicks(rig.secteco)" title="&quot;일본은행 실질적 금리인상에…한은 최종금리 3.5% 마무리 가능성&quot;">"일본은행 실질적 금리인상에…한은 최종금리 3.5% 마무리 가능성"</a>]]></content>
+        <title type="html"><![CDATA[14년간 월급 한 푼 안 쓰고 모아야 서울서 ‘내 집 마련’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003735837?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003735837?sid=101"/>
+        <updated>2022-12-21T02:33:02.432Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003735837?sid=101" class="nclicks(rig.secteco)" title="14년간 월급 한 푼 안 쓰고 모아야 서울서 ‘내 집 마련’">14년간 월급 한 푼 안 쓰고 모아야 서울서 ‘내 집 마련’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월급 그대로 10년 모아야 수도권서 겨우 내집 마련 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002773810?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002773810?sid=101"/>
-        <updated>2022-12-21T01:02:41.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002773810?sid=101" class="nclicks(rig.secteco)" title="월급 그대로 10년 모아야 수도권서 겨우 내집 마련">월급 그대로 10년 모아야 수도권서 겨우 내집 마련</a>]]></content>
+        <title type="html"><![CDATA[중소기업계 "범법자가 된다…8시간 추가근로 연장하라"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011602273?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011602273?sid=101"/>
+        <updated>2022-12-21T02:33:02.436Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011602273?sid=101" class="nclicks(rig.secteco)" title="중소기업계 &quot;범법자가 된다…8시간 추가근로 연장하라&quot;(종합)">중소기업계 "범법자가 된다…8시간 추가근로 연장하라"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['새 술은 새 부대에' 신한금융 자회사도 세대교체 가동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005194755?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005194755?sid=101"/>
-        <updated>2022-12-21T01:02:41.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005194755?sid=101" class="nclicks(rig.secteco)" title="'새 술은 새 부대에' 신한금융 자회사도 세대교체 가동">'새 술은 새 부대에' 신한금융 자회사도 세대교체 가동</a>]]></content>
+        <title type="html"><![CDATA[삼성전자, 12나노급 D램 개발…“1초에 30GB 영화 두편 처리” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000863806?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000863806?sid=101"/>
+        <updated>2022-12-21T02:33:02.436Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000863806?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 12나노급 D램 개발…“1초에 30GB 영화 두편 처리”">삼성전자, 12나노급 D램 개발…“1초에 30GB 영화 두편 처리”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CJ대한통운, 산업부서 액화수소 물류 규제샌드박스 승인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013653653?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013653653?sid=101"/>
-        <updated>2022-12-21T01:02:41.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653653?sid=101" class="nclicks(rig.secteco)" title="CJ대한통운, 산업부서 액화수소 물류 규제샌드박스 승인">CJ대한통운, 산업부서 액화수소 물류 규제샌드박스 승인</a>]]></content>
+        <title type="html"><![CDATA[SKT 'T우주', ‘정기배송 서비스’ 출시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002668712?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002668712?sid=105"/>
+        <updated>2022-12-21T02:33:02.438Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002668712?sid=105" class="nclicks(rig.secteco)" title="SKT 'T우주', ‘정기배송 서비스’ 출시">SKT 'T우주', ‘정기배송 서비스’ 출시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["KT 메타라운지에서 만나요"…B2B·B2G 메타버스 시장 공략 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005391119?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005391119?sid=105"/>
-        <updated>2022-12-21T01:02:41.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005391119?sid=105" class="nclicks(rig.secteco)" title="&quot;KT 메타라운지에서 만나요&quot;…B2B·B2G 메타버스 시장 공략">"KT 메타라운지에서 만나요"…B2B·B2G 메타버스 시장 공략</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대화형 AI가 진짜 '친구'가 되려면…"기능성, 공감 능력 갖춰야" [긱스] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004789781?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004789781?sid=105"/>
-        <updated>2022-12-21T01:02:41.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004789781?sid=105" class="nclicks(rig.secteco)" title="대화형 AI가 진짜 '친구'가 되려면…&quot;기능성, 공감 능력 갖춰야&quot; [긱스]">대화형 AI가 진짜 '친구'가 되려면…"기능성, 공감 능력 갖춰야" [긱스]</a>]]></content>
+        <title type="html"><![CDATA[KT, 기업·공공 대상 메타버스 '메타라운지' 선보여 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004789828?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004789828?sid=105"/>
+        <updated>2022-12-21T02:33:02.439Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004789828?sid=105" class="nclicks(rig.secteco)" title="KT, 기업·공공 대상 메타버스 '메타라운지' 선보여">KT, 기업·공공 대상 메타버스 '메타라운지' 선보여</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출근길 중부지방 시간당 1~3㎝ 눈…'빙판·살얼음' 주의(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,32 +82,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653493?sid=102" class="nclicks(rig.secteco)" title="출근길 중부지방 시간당 1~3㎝ 눈…'빙판·살얼음' 주의(종합)">출근길 중부지방 시간당 1~3㎝ 눈…'빙판·살얼음' 주의(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특수본, '이태원 참사' 이임재·박희영 등 4명 구속영장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002293271?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002293271?sid=102"/>
-        <updated>2022-12-21T01:02:41.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002293271?sid=102" class="nclicks(rig.secteco)" title="특수본, '이태원 참사' 이임재·박희영 등 4명 구속영장">특수본, '이태원 참사' 이임재·박희영 등 4명 구속영장</a>]]></content>
+        <title type="html"><![CDATA[가족친화 헬스케어 기업들…육아휴직 이용 및 복귀율 높아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002277147?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002277147?sid=102"/>
+        <updated>2022-12-21T02:33:02.441Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002277147?sid=102" class="nclicks(rig.secteco)" title="가족친화 헬스케어 기업들…육아휴직 이용 및 복귀율 높아">가족친화 헬스케어 기업들…육아휴직 이용 및 복귀율 높아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전장연 "오세훈 시장 휴전, 받아들인다"…21일 출근길 지하철 시위 중단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002668739?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002668739?sid=102"/>
-        <updated>2022-12-21T01:02:41.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002668739?sid=102" class="nclicks(rig.secteco)" title="전장연 &quot;오세훈 시장 휴전, 받아들인다&quot;…21일 출근길 지하철 시위 중단">전장연 "오세훈 시장 휴전, 받아들인다"…21일 출근길 지하철 시위 중단</a>]]></content>
+        <title type="html"><![CDATA[신규확진 8만8172명… 위중증 환자 나흘째 500명대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000879700?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000879700?sid=102"/>
+        <updated>2022-12-21T02:33:02.442Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000879700?sid=102" class="nclicks(rig.secteco)" title="신규확진 8만8172명… 위중증 환자 나흘째 500명대">신규확진 8만8172명… 위중증 환자 나흘째 500명대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 중부 중심 많은 눈, 15㎝ 폭설…내일 다시 찬바람 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000575563?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000575563?sid=103"/>
-        <updated>2022-12-21T01:02:41.388Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000575563?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부 중심 많은 눈, 15㎝ 폭설…내일 다시 찬바람">[날씨] 중부 중심 많은 눈, 15㎝ 폭설…내일 다시 찬바람</a>]]></content>
+        <title type="html"><![CDATA[G80 전동화 모델, 미국 IIHS 충돌평가 최고등급 받아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013653951?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013653951?sid=103"/>
+        <updated>2022-12-21T02:33:02.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653951?sid=103" class="nclicks(rig.secteco)" title="G80 전동화 모델, 미국 IIHS 충돌평가 최고등급 받아">G80 전동화 모델, 미국 IIHS 충돌평가 최고등급 받아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KBS교향악단 잉키넨 음악감독 “우리만의 색깔 만들것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005194677?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005194677?sid=103"/>
-        <updated>2022-12-21T01:02:41.389Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005194677?sid=103" class="nclicks(rig.secteco)" title="KBS교향악단 잉키넨 음악감독 “우리만의 색깔 만들것”">KBS교향악단 잉키넨 음악감독 “우리만의 색깔 만들것”</a>]]></content>
+        <title type="html"><![CDATA["몇 번을 봐도 감동"…3800만뷰 터진 현대차 영상의 정체 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004789865?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004789865?sid=103"/>
+        <updated>2022-12-21T02:33:02.445Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004789865?sid=103" class="nclicks(rig.secteco)" title="&quot;몇 번을 봐도 감동&quot;…3800만뷰 터진 현대차 영상의 정체">"몇 번을 봐도 감동"…3800만뷰 터진 현대차 영상의 정체</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 문화( [이태원 참사] 언론 현업단체들…) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
