@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-21T04:17:40.608Z</updated>
+    <updated>2022-12-21T05:13:38.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[尹대통령 “법인세·다주택자 세제 적극 감면…‘노조부패’ 척결” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002081203?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002081203?sid=100"/>
+        <updated>2022-12-21T05:13:07.912Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002081203?sid=100" class="nclicks(rig.secteco)" title="尹대통령 “법인세·다주택자 세제 적극 감면…‘노조부패’ 척결”">尹대통령 “법인세·다주택자 세제 적극 감면…‘노조부패’ 척결”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["제대로 해, 제발!" 항의로 시작된 '이태원 국조특위' 첫날 [이태원 압사 참사] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002376786?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002376786?sid=100"/>
+        <updated>2022-12-21T05:13:07.913Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376786?sid=100" class="nclicks(rig.secteco)" title="&quot;제대로 해, 제발!&quot; 항의로 시작된 '이태원 국조특위' 첫날 [이태원 압사 참사]">"제대로 해, 제발!" 항의로 시작된 '이태원 국조특위' 첫날 [이태원 압사 참사]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與전대, 3월 8·10일 중 하루 유력…'김장연대'에 安은 TK 총력 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013654301?sid=100</id>
@@ -12,25 +26,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013654301?sid=100" class="nclicks(rig.secteco)" title="與전대, 3월 8·10일 중 하루 유력…'김장연대'에 安은 TK 총력">與전대, 3월 8·10일 중 하루 유력…'김장연대'에 安은 TK 총력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "국힘, 참사 2차가해 사과·문책부터... '독버섯' 키웠다" [이태원 압사 참사] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002376770?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002376770?sid=100"/>
-        <updated>2022-12-21T04:17:04.901Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376770?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;국힘, 참사 2차가해 사과·문책부터... '독버섯' 키웠다&quot; [이태원 압사 참사]">이재명 "국힘, 참사 2차가해 사과·문책부터... '독버섯' 키웠다" [이태원 압사 참사]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 "적폐청산·노조부패"…되돌릴 수 없는 노동개혁 스타트 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004831386?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004831386?sid=100"/>
-        <updated>2022-12-21T04:17:04.907Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004831386?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;적폐청산·노조부패&quot;…되돌릴 수 없는 노동개혁 스타트">尹대통령 "적폐청산·노조부패"…되돌릴 수 없는 노동개혁 스타트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크, 결국 트위터 CEO 사임 발표 "후임 찾으면 물러나" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004945083?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004945083?sid=104"/>
-        <updated>2022-12-21T04:17:04.907Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004945083?sid=104" class="nclicks(rig.secteco)" title="머스크, 결국 트위터 CEO 사임 발표 &quot;후임 찾으면 물러나&quot;">머스크, 결국 트위터 CEO 사임 발표 "후임 찾으면 물러나"</a>]]></content>
+        <title type="html"><![CDATA['사면초가' 머스크 결국... "후임 찾으면 트위터 CEO 사임" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000714011?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000714011?sid=104"/>
+        <updated>2022-12-21T05:13:07.921Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000714011?sid=104" class="nclicks(rig.secteco)" title="'사면초가' 머스크 결국... &quot;후임 찾으면 트위터 CEO 사임&quot;">'사면초가' 머스크 결국... "후임 찾으면 트위터 CEO 사임"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[워싱턴 날아가는 젤렌스키…우크라전 판 바꿀 '깜짝카드' 나올까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,18 +40,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013654248?sid=104" class="nclicks(rig.secteco)" title="워싱턴 날아가는 젤렌스키…우크라전 판 바꿀 '깜짝카드' 나올까">워싱턴 날아가는 젤렌스키…우크라전 판 바꿀 '깜짝카드' 나올까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수출, 12월까지 석 달째 감소하나…올해 무역적자 500억불 육박(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013653681?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013653681?sid=101"/>
-        <updated>2022-12-21T03:15:05.894Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013653681?sid=101" class="nclicks(rig.secteco)" title="수출, 12월까지 석 달째 감소하나…올해 무역적자 500억불 육박(종합)">수출, 12월까지 석 달째 감소하나…올해 무역적자 500억불 육박(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003326651?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003326651?sid=101"/>
-        <updated>2022-12-21T04:17:04.911Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326651?sid=101" class="nclicks(rig.secteco)" title="월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년">월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년</a>]]></content>
+        <title type="html"><![CDATA[올 무역적자 500억달러 육박...통계 작성후 최대 확실시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002081119?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002081119?sid=101"/>
+        <updated>2022-12-21T05:13:07.921Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002081119?sid=101" class="nclicks(rig.secteco)" title="올 무역적자 500억달러 육박...통계 작성후 최대 확실시">올 무역적자 500억달러 육박...통계 작성후 최대 확실시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[처리속도 2배 향상… 삼성전자, 12나노급 D램 첫 개발 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,11 +54,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002547527?sid=101" class="nclicks(rig.secteco)" title="처리속도 2배 향상… 삼성전자, 12나노급 D램 첫 개발">처리속도 2배 향상… 삼성전자, 12나노급 D램 첫 개발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화상대화·주민소통...메타라운지서 만나요 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002081108?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002081108?sid=105"/>
-        <updated>2022-12-21T03:15:05.900Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002081108?sid=105" class="nclicks(rig.secteco)" title="화상대화·주민소통...메타라운지서 만나요">화상대화·주민소통...메타라운지서 만나요</a>]]></content>
+        <title type="html"><![CDATA[월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003326651?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003326651?sid=101"/>
+        <updated>2022-12-21T04:17:04.911Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326651?sid=101" class="nclicks(rig.secteco)" title="월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년">월급 안 쓰고 14년 모아야 서울에 ‘내집 마련’…수도권은 10년</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["KT 메타라운지에서 만나요"…B2B·B2G 메타버스 시장 공략 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005391119?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005391119?sid=105"/>
+        <updated>2022-12-21T05:13:07.927Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005391119?sid=105" class="nclicks(rig.secteco)" title="&quot;KT 메타라운지에서 만나요&quot;…B2B·B2G 메타버스 시장 공략">"KT 메타라운지에서 만나요"…B2B·B2G 메타버스 시장 공략</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월드컵 열풍 타고 성공 데뷔 '오픈톡', 제2의 네이버 블로그·밴드로 키운다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,25 +75,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011602486?sid=105" class="nclicks(rig.secteco)" title="월드컵 열풍 타고 성공 데뷔 '오픈톡', 제2의 네이버 블로그·밴드로 키운다">월드컵 열풍 타고 성공 데뷔 '오픈톡', 제2의 네이버 블로그·밴드로 키운다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박희영 용산구청장·이임재 전 용산서장, 23일 구속심사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003326656?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003326656?sid=102"/>
-        <updated>2022-12-21T04:17:04.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326656?sid=102" class="nclicks(rig.secteco)" title="박희영 용산구청장·이임재 전 용산서장, 23일 구속심사">박희영 용산구청장·이임재 전 용산서장, 23일 구속심사</a>]]></content>
+        <title type="html"><![CDATA[‘이태원 참사’ 박희영·이임재 모레 구속심사 (종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003326658?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003326658?sid=102"/>
+        <updated>2022-12-21T05:13:07.932Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003326658?sid=102" class="nclicks(rig.secteco)" title="‘이태원 참사’ 박희영·이임재 모레 구속심사 (종합)">‘이태원 참사’ 박희영·이임재 모레 구속심사 (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["조국 거짓말에 정신적 고통" 서민 교수 등 1600여명 손배소 패소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000714004?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000714004?sid=102"/>
-        <updated>2022-12-21T04:17:04.924Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000714004?sid=102" class="nclicks(rig.secteco)" title="&quot;조국 거짓말에 정신적 고통&quot; 서민 교수 등 1600여명 손배소 패소">"조국 거짓말에 정신적 고통" 서민 교수 등 1600여명 손배소 패소</a>]]></content>
+        <title type="html"><![CDATA["조국 입시비리 탓 정신적 고통" 서민 등 1천여명 손배소 패소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000718188?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000718188?sid=102"/>
+        <updated>2022-12-21T05:13:07.932Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000718188?sid=102" class="nclicks(rig.secteco)" title="&quot;조국 입시비리 탓 정신적 고통&quot; 서민 등 1천여명 손배소 패소">"조국 입시비리 탓 정신적 고통" 서민 등 1천여명 손배소 패소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢 '6조원대 철근 담합' 7대 제강사 임직원 무더기 기소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003719538?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003719538?sid=102"/>
-        <updated>2022-12-21T04:17:04.927Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003719538?sid=102" class="nclicks(rig.secteco)" title="檢 '6조원대 철근 담합' 7대 제강사 임직원 무더기 기소">檢 '6조원대 철근 담합' 7대 제강사 임직원 무더기 기소</a>]]></content>
+        <title type="html"><![CDATA[최근 신규확진 6명 중 1명은 재감염…BN.1 BF.7 변이 확산 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013654375?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013654375?sid=102"/>
+        <updated>2022-12-21T05:13:07.932Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013654375?sid=102" class="nclicks(rig.secteco)" title="최근 신규확진 6명 중 1명은 재감염…BN.1 BF.7 변이 확산">최근 신규확진 6명 중 1명은 재감염…BN.1 BF.7 변이 확산</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제네시스, G90·GV80에 이어 G80 EV도 美 충돌평가서 ‘최고 등급’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005063304?sid=103" class="nclicks(rig.secteco)" title="제네시스, G90·GV80에 이어 G80 EV도 美 충돌평가서 ‘최고 등급’">제네시스, G90·GV80에 이어 G80 EV도 美 충돌평가서 ‘최고 등급’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MBC ‘결혼지옥’ 민원 2900건···‘상담 예능’ 선 넘은 예능 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003194196?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003194196?sid=103"/>
-        <updated>2022-12-21T04:17:04.931Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003194196?sid=103" class="nclicks(rig.secteco)" title="MBC ‘결혼지옥’ 민원 2900건···‘상담 예능’ 선 넘은 예능">MBC ‘결혼지옥’ 민원 2900건···‘상담 예능’ 선 넘은 예능</a>]]></content>
+        <title type="html"><![CDATA[결혼지옥 ‘의붓딸 성추행’ 장면 논란... “MBC·오은영 무슨 생각으로...” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003735842?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003735842?sid=103"/>
+        <updated>2022-12-21T05:13:07.938Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003735842?sid=103" class="nclicks(rig.secteco)" title="결혼지옥 ‘의붓딸 성추행’ 장면 논란... “MBC·오은영 무슨 생각으로...”">결혼지옥 ‘의붓딸 성추행’ 장면 논란... “MBC·오은영 무슨 생각으로...”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 문화( [이태원 참사] 언론 현업단체들…) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
