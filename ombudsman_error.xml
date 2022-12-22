@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2022-12-22T05:13:11.236Z</updated>
+    <updated>2022-12-22T06:18:02.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003192633?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003192633?sid=001"/>
+        <updated>2022-12-22T06:17:42.060Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 22일자 B1면 '꿈의 도시 네옴시티 170㎞ … 터파기가 시작됐다' 기사와 관련한 사진설명에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003730402?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003730402?sid=001"/>
+        <updated>2022-12-22T06:17:42.062Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004817870?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004817870?sid=001"/>
+        <updated>2022-12-22T06:17:42.065Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<바로잡습니다>]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001701428?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001701428?sid=001"/>
+        <updated>2022-12-22T06:17:42.074Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다[플랫]]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003183288?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003183288?sid=001"/>
+        <updated>2022-12-22T06:17:42.075Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 문화( [이태원 참사] 언론 현업단체들…)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013546888?sid=001</id>
@@ -179,40 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013310158?sid=001"/>
         <updated>2022-11-16T17:21:30.175Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고침] 지방(성남시 '도서관 부정채용' 관련…)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013298904?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013298904?sid=001"/>
-        <updated>2022-11-16T17:21:30.176Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 5월 25일자 '조국 고발한 시민단체 대표, 與 비례 등록 땐 '운전기사'' 기사]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004720102?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004720102?sid=001"/>
-        <updated>2022-11-16T17:21:30.178Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003437745?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003437745?sid=001"/>
-        <updated>2022-11-16T17:21:30.181Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] '[단독] 인수위, 과기분과위 해촉 위원 빈자리 메운다' 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0004981515?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0004981515?sid=001"/>
-        <updated>2022-11-16T17:21:30.183Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 8일 자 A12면 '비만서 벗어났더니 암 발병률 크게 줄었다' 기사 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003697503?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003697503?sid=001"/>
-        <updated>2022-11-16T17:21:30.185Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
