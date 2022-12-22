@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-22T03:16:06.760Z</updated>
+    <updated>2022-12-22T04:17:38.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[방역당국 "일정 기준 충족 시 실내마스크 '의무→권고' 변경 계획"]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001022458?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001022458?sid=100"/>
-        <updated>2022-12-22T03:15:33.427Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001022458?sid=100" class="nclicks(rig.secteco)" title="방역당국 &quot;일정 기준 충족 시 실내마스크 '의무→권고' 변경 계획&quot;">방역당국 "일정 기준 충족 시 실내마스크 '의무→권고' 변경 계획"</a>]]></content>
+        <title type="html"><![CDATA[당정 "일정기준 충족 시 실내마스크 해제…요양원·대중교통 제외"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006534246?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006534246?sid=100"/>
+        <updated>2022-12-22T04:17:06.014Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006534246?sid=100" class="nclicks(rig.secteco)" title="당정 &quot;일정기준 충족 시 실내마스크 해제…요양원·대중교통 제외&quot;(종합)">당정 "일정기준 충족 시 실내마스크 해제…요양원·대중교통 제외"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당 "내일 예산안 처리 할 것... 국힘이 대통령 설득해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002376873?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002376873?sid=100"/>
-        <updated>2022-12-22T03:15:33.429Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376873?sid=100" class="nclicks(rig.secteco)" title="민주당 &quot;내일 예산안 처리 할 것... 국힘이 대통령 설득해야&quot;">민주당 "내일 예산안 처리 할 것... 국힘이 대통령 설득해야"</a>]]></content>
+        <title type="html"><![CDATA[檢소환에 이재명 "내가 그렇게 무섭나…尹정권 가장 몰상식"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003719995?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003719995?sid=100"/>
+        <updated>2022-12-22T04:17:06.014Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003719995?sid=100" class="nclicks(rig.secteco)" title="檢소환에 이재명 &quot;내가 그렇게 무섭나…尹정권 가장 몰상식&quot;">檢소환에 이재명 "내가 그렇게 무섭나…尹정권 가장 몰상식"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與, '닥터카 탑승' 野 신현영 국회 윤리위 회부 방침(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011604402?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011604402?sid=100"/>
-        <updated>2022-12-22T02:35:02.248Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011604402?sid=100" class="nclicks(rig.secteco)" title="與, '닥터카 탑승' 野 신현영 국회 윤리위 회부 방침(종합)">與, '닥터카 탑승' 野 신현영 국회 윤리위 회부 방침(종합)</a>]]></content>
+        <title type="html"><![CDATA[국민의힘, 신현영 '닥터카 탑승' 의혹에 대야 공세 전환]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011604971?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011604971?sid=100"/>
+        <updated>2022-12-22T04:17:06.016Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011604971?sid=100" class="nclicks(rig.secteco)" title="국민의힘, 신현영 '닥터카 탑승' 의혹에 대야 공세 전환">국민의힘, 신현영 '닥터카 탑승' 의혹에 대야 공세 전환</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젤렌스키, 美 전격 방문…바이든, 패트리엇 첫 지원(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011604480?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011604480?sid=104"/>
-        <updated>2022-12-22T02:35:02.251Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011604480?sid=104" class="nclicks(rig.secteco)" title="젤렌스키, 美 전격 방문…바이든, 패트리엇 첫 지원(종합)">젤렌스키, 美 전격 방문…바이든, 패트리엇 첫 지원(종합)</a>]]></content>
+        <title type="html"><![CDATA[젤렌스키, 美의회서 "우크라 굴복 안해…美지원, 자선 아니다"(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006534102?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006534102?sid=104"/>
+        <updated>2022-12-22T04:17:06.016Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006534102?sid=104" class="nclicks(rig.secteco)" title="젤렌스키, 美의회서 &quot;우크라 굴복 안해…美지원, 자선 아니다&quot;(종합2보)">젤렌스키, 美의회서 "우크라 굴복 안해…美지원, 자선 아니다"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[패트리엇·JDAM·위성통신체계…우크라에 추가되는 美 군사지원]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013656563?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013656563?sid=104"/>
-        <updated>2022-12-22T03:15:33.436Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656563?sid=104" class="nclicks(rig.secteco)" title="패트리엇·JDAM·위성통신체계…우크라에 추가되는 美 군사지원">패트리엇·JDAM·위성통신체계…우크라에 추가되는 美 군사지원</a>]]></content>
+        <title type="html"><![CDATA[[영상] 선물보따리 푼 바이든…'패트리엇' 포함 2조3천억 규모 지원]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013656891?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013656891?sid=104"/>
+        <updated>2022-12-22T04:17:06.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656891?sid=104" class="nclicks(rig.secteco)" title="[영상] 선물보따리 푼 바이든…'패트리엇' 포함 2조3천억 규모 지원">[영상] 선물보따리 푼 바이든…'패트리엇' 포함 2조3천억 규모 지원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중소기업 77% "중대재해처벌법 의무사항 대응 여력 부족"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013656837?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013656837?sid=101"/>
+        <updated>2022-12-22T04:17:06.022Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656837?sid=101" class="nclicks(rig.secteco)" title="중소기업 77% &quot;중대재해처벌법 의무사항 대응 여력 부족&quot;">중소기업 77% "중대재해처벌법 의무사항 대응 여력 부족"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["죽은 도시 살려냈다"…美서 팔린 현대차 1500만대, 판매 1위는]]></title>
@@ -55,25 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002669138?sid=101" class="nclicks(rig.secteco)" title="'쌍용차' 버리고 'KG모빌리티'…곽재선의 '하이리스크 하이리턴'">'쌍용차' 버리고 'KG모빌리티'…곽재선의 '하이리스크 하이리턴'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다주택자 100명이 주택 2만2582채 소유…1년 새 2000채 증가]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005063883?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005063883?sid=101"/>
-        <updated>2022-12-22T03:15:33.442Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005063883?sid=101" class="nclicks(rig.secteco)" title="다주택자 100명이 주택 2만2582채 소유…1년 새 2000채 증가">다주택자 100명이 주택 2만2582채 소유…1년 새 2000채 증가</a>]]></content>
+        <title type="html"><![CDATA[LG전자·항우연·경희대도 5G 특화망 도입···총 18개로 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003067742?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003067742?sid=105"/>
+        <updated>2022-12-22T04:17:06.026Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003067742?sid=105" class="nclicks(rig.secteco)" title="LG전자·항우연·경희대도 5G 특화망 도입···총 18개로 확대">LG전자·항우연·경희대도 5G 특화망 도입···총 18개로 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 첫 우주위 개최…2032년 달·2045년 화성 탐사]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002139363?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002139363?sid=105"/>
-        <updated>2022-12-22T03:15:33.444Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002139363?sid=105" class="nclicks(rig.secteco)" title="尹 첫 우주위 개최…2032년 달·2045년 화성 탐사">尹 첫 우주위 개최…2032년 달·2045년 화성 탐사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG유플러스, 아동 보호 사회공헌 활동 우수기업 선정]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002774126?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002774126?sid=105"/>
-        <updated>2022-12-22T03:15:33.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002774126?sid=105" class="nclicks(rig.secteco)" title="LG유플러스, 아동 보호 사회공헌 활동 우수기업 선정">LG유플러스, 아동 보호 사회공헌 활동 우수기업 선정</a>]]></content>
+        <title type="html"><![CDATA[KT 주도 ‘AI 반도체 드림팀’ "내년 AI 풀스택 글로벌 데뷔"]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002669095?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002669095?sid=105"/>
+        <updated>2022-12-22T04:17:06.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002669095?sid=105" class="nclicks(rig.secteco)" title="KT 주도 ‘AI 반도체 드림팀’ &quot;내년 AI 풀스택 글로벌 데뷔&quot;">KT 주도 ‘AI 반도체 드림팀’ "내년 AI 풀스택 글로벌 데뷔"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 검찰, '성남FC' 이재명 소환 통보]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001022416?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰, '성남FC' 이재명 소환 통보">[단독] 검찰, '성남FC' 이재명 소환 통보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 양현석 1심 무죄 '비아이 마약수사 무마 한서희 보복협박 혐의']]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000789807?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000789807?sid=102"/>
-        <updated>2022-12-22T03:15:33.452Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000789807?sid=102" class="nclicks(rig.secteco)" title="[속보] 양현석 1심 무죄 '비아이 마약수사 무마 한서희 보복협박 혐의'">[속보] 양현석 1심 무죄 '비아이 마약수사 무마 한서희 보복협박 혐의'</a>]]></content>
+        <title type="html"><![CDATA[양현석, 보복협박 혐의 무죄…"피해자 진술 신뢰 어려워"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013656790?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013656790?sid=102"/>
+        <updated>2022-12-22T04:17:06.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656790?sid=102" class="nclicks(rig.secteco)" title="양현석, 보복협박 혐의 무죄…&quot;피해자 진술 신뢰 어려워&quot;(종합)">양현석, 보복협박 혐의 무죄…"피해자 진술 신뢰 어려워"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7만5744명 확진, 목요일 16주만 최다…다시 60명대 사망(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011604306?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011604306?sid=102"/>
-        <updated>2022-12-22T02:35:02.260Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011604306?sid=102" class="nclicks(rig.secteco)" title="7만5744명 확진, 목요일 16주만 최다…다시 60명대 사망(종합)">7만5744명 확진, 목요일 16주만 최다…다시 60명대 사망(종합)</a>]]></content>
+        <title type="html"><![CDATA[고교학점제 전면도입 준비…'현 중1 적용' 대입제도 내후년 확정]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013656312?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013656312?sid=102"/>
+        <updated>2022-12-22T04:17:06.037Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656312?sid=102" class="nclicks(rig.secteco)" title="고교학점제 전면도입 준비…'현 중1 적용' 대입제도 내후년 확정">고교학점제 전면도입 준비…'현 중1 적용' 대입제도 내후년 확정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손흥민·우영우·순천만정원…'한국관광의 별' 수상]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004831806?sid=103" class="nclicks(rig.secteco)" title="손흥민·우영우·순천만정원…'한국관광의 별' 수상">손흥민·우영우·순천만정원…'한국관광의 별' 수상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-웹툰, 2022년 수출 1억불 고지 넘어선다]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005195500?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005195500?sid=103"/>
-        <updated>2022-12-22T02:35:02.263Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005195500?sid=103" class="nclicks(rig.secteco)" title="K-웹툰, 2022년 수출 1억불 고지 넘어선다">K-웹툰, 2022년 수출 1억불 고지 넘어선다</a>]]></content>
+        <title type="html"><![CDATA[인기 웹툰작가 연 수입 평균 1억2천만원…절반은 5천만원 미만]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013656244?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013656244?sid=103"/>
+        <updated>2022-12-22T04:17:06.043Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013656244?sid=103" class="nclicks(rig.secteco)" title="인기 웹툰작가 연 수입 평균 1억2천만원…절반은 5천만원 미만">인기 웹툰작가 연 수입 평균 1억2천만원…절반은 5천만원 미만</a>]]></content>
     </entry>
 </feed>
