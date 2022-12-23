@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-23T05:13:22.425Z</updated>
+    <updated>2022-12-23T06:18:49.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[국민의힘, '당원투표 100%·결선투표제' 통과…당헌 개정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326210?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326210?sid=100"/>
+        <updated>2022-12-23T06:18:20.744Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326210?sid=100" class="nclicks(rig.secteco)" title="국민의힘, '당원투표 100%·결선투표제' 통과…당헌 개정">국민의힘, '당원투표 100%·결선투표제' 통과…당헌 개정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소환불응' 이재명 "검찰독재정권 망나니 칼춤 좌시 않겠다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002376993?sid=100</id>
@@ -12,32 +19,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376993?sid=100" class="nclicks(rig.secteco)" title="'소환불응' 이재명 &quot;검찰독재정권 망나니 칼춤 좌시 않겠다&quot;">'소환불응' 이재명 "검찰독재정권 망나니 칼춤 좌시 않겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 與, '당원투표 100%'로 당대표·최고의원 선출…전대룰 통과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000028310?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000028310?sid=100"/>
-        <updated>2022-12-23T05:12:54.774Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000028310?sid=100" class="nclicks(rig.secteco)" title="[속보] 與, '당원투표 100%'로 당대표·최고의원 선출…전대룰 통과">[속보] 與, '당원투표 100%'로 당대표·최고의원 선출…전대룰 통과</a>]]></content>
+        <title type="html"><![CDATA[[단독] '닥터카 제공' 명지병원 이사장은 신현영 고액 후원자 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000191556?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000191556?sid=100"/>
+        <updated>2022-12-23T06:18:20.750Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000191556?sid=100" class="nclicks(rig.secteco)" title="[단독] '닥터카 제공' 명지병원 이사장은 신현영 고액 후원자">[단독] '닥터카 제공' 명지병원 이사장은 신현영 고액 후원자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국힘, 연일 이재명 압박... "떳떳하면 검찰 소환 응하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002376989?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002376989?sid=100"/>
-        <updated>2022-12-23T04:16:21.208Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002376989?sid=100" class="nclicks(rig.secteco)" title="국힘, 연일 이재명 압박... &quot;떳떳하면 검찰 소환 응하라&quot;">국힘, 연일 이재명 압박... "떳떳하면 검찰 소환 응하라"</a>]]></content>
+        <title type="html"><![CDATA[북한산 무기 구매처? 러시아 용병 회사에 이목 집중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002377011?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002377011?sid=104"/>
+        <updated>2022-12-23T06:18:20.751Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002377011?sid=104" class="nclicks(rig.secteco)" title="북한산 무기 구매처? 러시아 용병 회사에 이목 집중">북한산 무기 구매처? 러시아 용병 회사에 이목 집중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 “北, 러시아 민간용병회사에 로켓·미사일 판매” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005064633?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005064633?sid=104"/>
-        <updated>2022-12-23T05:12:54.775Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005064633?sid=104" class="nclicks(rig.secteco)" title="美 “北, 러시아 민간용병회사에 로켓·미사일 판매”">美 “北, 러시아 민간용병회사에 로켓·미사일 판매”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라 주가 월간 36% 급락 '역대 최악'…美기술주 우울한 연말 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013659403?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013659403?sid=104"/>
-        <updated>2022-12-23T05:12:54.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013659403?sid=104" class="nclicks(rig.secteco)" title="테슬라 주가 월간 36% 급락 '역대 최악'…美기술주 우울한 연말">테슬라 주가 월간 36% 급락 '역대 최악'…美기술주 우울한 연말</a>]]></content>
+        <title type="html"><![CDATA[머스크 "앞으로 2년간 테슬라 주식 안팔아"…이번엔 약속 지킬까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005393061?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005393061?sid=104"/>
+        <updated>2022-12-23T06:18:20.752Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393061?sid=104" class="nclicks(rig.secteco)" title="머스크 &quot;앞으로 2년간 테슬라 주식 안팔아&quot;…이번엔 약속 지킬까">머스크 "앞으로 2년간 테슬라 주식 안팔아"…이번엔 약속 지킬까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이건희·이재용 2대가 30년 공들였더니…베트남 수출 20%가 삼성 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,46 +47,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832312?sid=101" class="nclicks(rig.secteco)" title="이건희·이재용 2대가 30년 공들였더니…베트남 수출 20%가 삼성">이건희·이재용 2대가 30년 공들였더니…베트남 수출 20%가 삼성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한은 “2023년에도 ‘물가 안정’ 중점 기준금리 운용 지속” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003767334?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003767334?sid=101"/>
-        <updated>2022-12-23T04:16:21.212Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767334?sid=101" class="nclicks(rig.secteco)" title="한은 “2023년에도 ‘물가 안정’ 중점 기준금리 운용 지속”">한은 “2023년에도 ‘물가 안정’ 중점 기준금리 운용 지속”</a>]]></content>
+        <title type="html"><![CDATA[오늘도 전력수요 역대 최고…한파·폭설에 연일 기록 경신 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013659499?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013659499?sid=101"/>
+        <updated>2022-12-23T06:18:20.756Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013659499?sid=101" class="nclicks(rig.secteco)" title="오늘도 전력수요 역대 최고…한파·폭설에 연일 기록 경신">오늘도 전력수요 역대 최고…한파·폭설에 연일 기록 경신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한기정 위원장, 디지털 경제 인프라 분야 공정경쟁 기반 확립 강조 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003720376?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003720376?sid=101"/>
-        <updated>2022-12-23T05:12:54.781Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003720376?sid=101" class="nclicks(rig.secteco)" title="한기정 위원장, 디지털 경제 인프라 분야 공정경쟁 기반 확립 강조">한기정 위원장, 디지털 경제 인프라 분야 공정경쟁 기반 확립 강조</a>]]></content>
+        <title type="html"><![CDATA[“11조 원전 협력 강화” 정부, 방한 루마니아 대표단과 원전 논의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003327306?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003327306?sid=101"/>
+        <updated>2022-12-23T06:18:20.757Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327306?sid=101" class="nclicks(rig.secteco)" title="“11조 원전 협력 강화” 정부, 방한 루마니아 대표단과 원전 논의">“11조 원전 협력 강화” 정부, 방한 루마니아 대표단과 원전 논의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동네 주유소가 물류센터로…"네이버 배송 더 빨라진다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004832253?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004832253?sid=105"/>
-        <updated>2022-12-23T05:12:54.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832253?sid=105" class="nclicks(rig.secteco)" title="동네 주유소가 물류센터로…&quot;네이버 배송 더 빨라진다&quot;">동네 주유소가 물류센터로…"네이버 배송 더 빨라진다"</a>]]></content>
+        <title type="html"><![CDATA[[속보] KT·LGU+, 5G 28㎓ 서비스 못한다… 주파수 할당 취소 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003327300?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003327300?sid=105"/>
+        <updated>2022-12-23T06:18:20.758Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327300?sid=105" class="nclicks(rig.secteco)" title="[속보] KT·LGU+, 5G 28㎓ 서비스 못한다… 주파수 할당 취소 확정">[속보] KT·LGU+, 5G 28㎓ 서비스 못한다… 주파수 할당 취소 확정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카겜 '에버소울', 1월5일 출시…서브컬처 흥행 이을까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011606810?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011606810?sid=105"/>
-        <updated>2022-12-23T04:16:21.215Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011606810?sid=105" class="nclicks(rig.secteco)" title="카겜 '에버소울', 1월5일 출시…서브컬처 흥행 이을까">카겜 '에버소울', 1월5일 출시…서브컬처 흥행 이을까</a>]]></content>
+        <title type="html"><![CDATA[상품 수거부터 배송까지...더 친절해진 네이버의 '물류 윈윈' 비즈니스 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000041891?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000041891?sid=105"/>
+        <updated>2022-12-23T06:18:20.759Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000041891?sid=105" class="nclicks(rig.secteco)" title="상품 수거부터 배송까지...더 친절해진 네이버의 '물류 윈윈' 비즈니스">상품 수거부터 배송까지...더 친절해진 네이버의 '물류 윈윈' 비즈니스</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘의무’에서 ‘권고’로…‘실내 마스크 해제’ 언제부터? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011398008?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011398008?sid=102"/>
-        <updated>2022-12-23T05:12:54.787Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011398008?sid=102" class="nclicks(rig.secteco)" title="‘의무’에서 ‘권고’로…‘실내 마스크 해제’ 언제부터?">‘의무’에서 ‘권고’로…‘실내 마스크 해제’ 언제부터?</a>]]></content>
+        <title type="html"><![CDATA[[Q&A] '의무→권고' 기준만… 실내마스크 언제 벗나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000880542?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000880542?sid=102"/>
+        <updated>2022-12-23T06:18:20.760Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000880542?sid=102" class="nclicks(rig.secteco)" title="[Q&amp;A] '의무→권고' 기준만… 실내마스크 언제 벗나">[Q&amp;A] '의무→권고' 기준만… 실내마스크 언제 벗나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최강 한파 속 또 지하철 운행 중단…출근길 시민 분통 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013658950?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013658950?sid=102"/>
-        <updated>2022-12-23T02:35:52.869Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013658950?sid=102" class="nclicks(rig.secteco)" title="최강 한파 속 또 지하철 운행 중단…출근길 시민 분통">최강 한파 속 또 지하철 운행 중단…출근길 시민 분통</a>]]></content>
+        <title type="html"><![CDATA['김만배 260억 은닉' 혐의 이한성, 구속 유지…적부심 기각 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011607403?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011607403?sid=102"/>
+        <updated>2022-12-23T06:18:20.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011607403?sid=102" class="nclicks(rig.secteco)" title="'김만배 260억 은닉' 혐의 이한성, 구속 유지…적부심 기각">'김만배 260억 은닉' 혐의 이한성, 구속 유지…적부심 기각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이임재 전 용산경찰서장 두번째 구속 심사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000240503?sid=102" class="nclicks(rig.secteco)" title="이임재 전 용산경찰서장 두번째 구속 심사">이임재 전 용산경찰서장 두번째 구속 심사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크리스마스 이브까지 충청권, 전라권 중심 눈 계속···중부지방 ‘영하 15도’까지 떨어져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003194716?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003194716?sid=103"/>
-        <updated>2022-12-23T05:12:54.791Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003194716?sid=103" class="nclicks(rig.secteco)" title="크리스마스 이브까지 충청권, 전라권 중심 눈 계속···중부지방 ‘영하 15도’까지 떨어져">크리스마스 이브까지 충청권, 전라권 중심 눈 계속···중부지방 ‘영하 15도’까지 떨어져</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 최강 한파에 서해안 60cm 폭설...크리스마스까지 한파 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001829290?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001829290?sid=103"/>
+        <updated>2022-12-23T06:18:20.767Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001829290?sid=103" class="nclicks(rig.secteco)" title="[날씨] 최강 한파에 서해안 60cm 폭설...크리스마스까지 한파">[날씨] 최강 한파에 서해안 60cm 폭설...크리스마스까지 한파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 올겨울 가장 추워, 낮에도 영하 10℃...서해안 폭설 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001829265?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001829265?sid=103"/>
-        <updated>2022-12-23T05:12:54.792Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001829265?sid=103" class="nclicks(rig.secteco)" title="[날씨] 올겨울 가장 추워, 낮에도 영하 10℃...서해안 폭설">[날씨] 올겨울 가장 추워, 낮에도 영하 10℃...서해안 폭설</a>]]></content>
+        <title type="html"><![CDATA[조승우 ‘오페라의 유령’ 주연 발탁… 크리스틴에 손지수·송은혜 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003327317?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003327317?sid=103"/>
+        <updated>2022-12-23T06:18:20.770Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327317?sid=103" class="nclicks(rig.secteco)" title="조승우 ‘오페라의 유령’ 주연 발탁… 크리스틴에 손지수·송은혜">조승우 ‘오페라의 유령’ 주연 발탁… 크리스틴에 손지수·송은혜</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
