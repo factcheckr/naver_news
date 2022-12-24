@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-24T07:12:08.985Z</updated>
+    <updated>2022-12-24T08:16:44.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004832495?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004832495?sid=100"/>
-        <updated>2022-12-24T02:08:19.381Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832495?sid=100" class="nclicks(rig.secteco)" title="638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과">638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령 "대설·한파 피해, 정부 지원방안 마련" 긴급 지시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005393450?sid=100</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393450?sid=100" class="nclicks(rig.secteco)" title="윤석열 대통령 &quot;대설·한파 피해, 정부 지원방안 마련&quot; 긴급 지시">윤석열 대통령 "대설·한파 피해, 정부 지원방안 마련" 긴급 지시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스초점] 북, 닷새 만에 또 도발…탄도미사일 2발 발사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000576118?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000576118?sid=100"/>
-        <updated>2022-12-24T06:17:44.024Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000576118?sid=100" class="nclicks(rig.secteco)" title="[뉴스초점] 북, 닷새 만에 또 도발…탄도미사일 2발 발사">[뉴스초점] 북, 닷새 만에 또 도발…탄도미사일 2발 발사</a>]]></content>
+        <title type="html"><![CDATA[638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004832495?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004832495?sid=100"/>
+        <updated>2022-12-24T02:08:19.381Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832495?sid=100" class="nclicks(rig.secteco)" title="638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과">638.7조 내년도 예산안 우여곡절 끝 국회 본회의 통과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘야당 탄압’ 주장 이재명에 한동훈 “수사 받는 정치인 과장된 발언 자주 있어” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002082443?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002082443?sid=100"/>
+        <updated>2022-12-24T08:16:16.830Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002082443?sid=100" class="nclicks(rig.secteco)" title="‘야당 탄압’ 주장 이재명에 한동훈 “수사 받는 정치인 과장된 발언 자주 있어”">‘야당 탄압’ 주장 이재명에 한동훈 “수사 받는 정치인 과장된 발언 자주 있어”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추락하는 테슬라 주가, 왜 '반등 날개' 안 보일까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,18 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002277551?sid=104" class="nclicks(rig.secteco)" title="추락하는 테슬라 주가, 왜 '반등 날개' 안 보일까">추락하는 테슬라 주가, 왜 '반등 날개' 안 보일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대낮 파리 시내 한복판서 총기 난사…희생자 공통점은[영상] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004832575?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004832575?sid=104"/>
-        <updated>2022-12-24T07:11:40.851Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832575?sid=104" class="nclicks(rig.secteco)" title="대낮 파리 시내 한복판서 총기 난사…희생자 공통점은[영상]">대낮 파리 시내 한복판서 총기 난사…희생자 공통점은[영상]</a>]]></content>
+        <title type="html"><![CDATA[파리 시내서 한낮 총격으로 3명 사망…"외국인 겨냥 공격"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013660740?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013660740?sid=104"/>
+        <updated>2022-12-24T08:16:16.842Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013660740?sid=104" class="nclicks(rig.secteco)" title="파리 시내서 한낮 총격으로 3명 사망…&quot;외국인 겨냥 공격&quot;(종합2보)">파리 시내서 한낮 총격으로 3명 사망…"외국인 겨냥 공격"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["매월 70만원 5년 부으면 5천만원"…청년도약계좌 내년 6월 출시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000790118?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000790118?sid=101"/>
-        <updated>2022-12-24T06:17:44.026Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000790118?sid=101" class="nclicks(rig.secteco)" title="&quot;매월 70만원 5년 부으면 5천만원&quot;…청년도약계좌 내년 6월 출시">"매월 70만원 5년 부으면 5천만원"…청년도약계좌 내년 6월 출시</a>]]></content>
+        <title type="html"><![CDATA[“월 70만·5년 부으면 5000만원”…정부 내년 ‘청년계좌’ 도입 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005065018?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005065018?sid=101"/>
+        <updated>2022-12-24T08:16:16.842Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065018?sid=101" class="nclicks(rig.secteco)" title="“월 70만·5년 부으면 5000만원”…정부 내년 ‘청년계좌’ 도입 확정">“월 70만·5년 부으면 5000만원”…정부 내년 ‘청년계좌’ 도입 확정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지출 3년 만에 ‘순감’ 건전재정 노력 담긴 예산안…취약계층 지원은 강화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000864649?sid=101" class="nclicks(rig.secteco)" title="지출 3년 만에 ‘순감’ 건전재정 노력 담긴 예산안…취약계층 지원은 강화">지출 3년 만에 ‘순감’ 건전재정 노력 담긴 예산안…취약계층 지원은 강화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고급휘발유 수준 경유값, 내년엔 ‘제자리’ 찾을 수 있을까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002620588?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002620588?sid=101"/>
-        <updated>2022-12-24T07:11:40.856Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002620588?sid=101" class="nclicks(rig.secteco)" title="고급휘발유 수준 경유값, 내년엔 ‘제자리’ 찾을 수 있을까">고급휘발유 수준 경유값, 내년엔 ‘제자리’ 찾을 수 있을까</a>]]></content>
+        <title type="html"><![CDATA[이번주 휘발유 평균가 1537.3원···15주 연속 하락 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003194887?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003194887?sid=101"/>
+        <updated>2022-12-24T08:16:16.844Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003194887?sid=101" class="nclicks(rig.secteco)" title="이번주 휘발유 평균가 1537.3원···15주 연속 하락">이번주 휘발유 평균가 1537.3원···15주 연속 하락</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부 내년 예산 18조8천686억, 정부 총 연구개발 예산 첫 30조원↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,25 +75,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011608577?sid=105" class="nclicks(rig.secteco)" title="방통위 내년 예산 2607억…방송콘텐츠 진흥 등 국정과제 적극 구현">방통위 내년 예산 2607억…방송콘텐츠 진흥 등 국정과제 적극 구현</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['김경수 사면' 후폭풍…與 "뭐 그리 떳떳한가" vs 野 "참 잔인한 꼼수" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000049931?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000049931?sid=102"/>
-        <updated>2022-12-24T07:11:40.863Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000049931?sid=102" class="nclicks(rig.secteco)" title="'김경수 사면' 후폭풍…與 &quot;뭐 그리 떳떳한가&quot; vs 野 &quot;참 잔인한 꼼수&quot;">'김경수 사면' 후폭풍…與 "뭐 그리 떳떳한가" vs 野 "참 잔인한 꼼수"</a>]]></content>
+        <title type="html"><![CDATA['김경수 사면'에 고민정 "참 잔인하다" 왜? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000718872?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000718872?sid=102"/>
+        <updated>2022-12-24T08:16:16.846Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000718872?sid=102" class="nclicks(rig.secteco)" title="'김경수 사면'에 고민정 &quot;참 잔인하다&quot; 왜?">'김경수 사면'에 고민정 "참 잔인하다" 왜?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원 참사 전 용산서장·상황실장 구속…용산소방서장 내주 영장 청구(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004137152?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004137152?sid=102"/>
-        <updated>2022-12-24T06:17:44.042Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004137152?sid=102" class="nclicks(rig.secteco)" title="이태원 참사 전 용산서장·상황실장 구속…용산소방서장 내주 영장 청구(종합)">이태원 참사 전 용산서장·상황실장 구속…용산소방서장 내주 영장 청구(종합)</a>]]></content>
+        <title type="html"><![CDATA[마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005393475?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005393475?sid=102"/>
+        <updated>2022-12-24T08:16:16.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393475?sid=102" class="nclicks(rig.secteco)" title="마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본">마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주공항 운항 재개됐지만…"언제 가나" 표 구하려 발 동동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013660991?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013660991?sid=102"/>
-        <updated>2022-12-24T06:17:44.043Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013660991?sid=102" class="nclicks(rig.secteco)" title="제주공항 운항 재개됐지만…&quot;언제 가나&quot; 표 구하려 발 동동">제주공항 운항 재개됐지만…"언제 가나" 표 구하려 발 동동</a>]]></content>
+        <title type="html"><![CDATA[제주공항 운항 재개 탈출 러시…창구마다 표 구하기 행렬 '북새통' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003767637?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003767637?sid=102"/>
+        <updated>2022-12-24T08:16:16.850Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767637?sid=102" class="nclicks(rig.secteco)" title="제주공항 운항 재개 탈출 러시…창구마다 표 구하기 행렬 '북새통'">제주공항 운항 재개 탈출 러시…창구마다 표 구하기 행렬 '북새통'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문체부, 내년 예산 6조7408억원… K콘텐츠 지원 확대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
