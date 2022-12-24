@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-24T20:13:42.702Z</updated>
+    <updated>2022-12-24T21:11:57.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767659?sid=100" class="nclicks(rig.secteco)" title="국힘, 김경수 향해 “‘친문 적자’ 셀프 훈장 얼마나 크고 대단하기에?”">국힘, 김경수 향해 “‘친문 적자’ 셀프 훈장 얼마나 크고 대단하기에?”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['이재명 소환' 압박 커지자…"김건희·김건희" 맞불 놓는 野]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000049934?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000049934?sid=100"/>
-        <updated>2022-12-24T18:15:58.768Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000049934?sid=100" class="nclicks(rig.secteco)" title="'이재명 소환' 압박 커지자…&quot;김건희·김건희&quot; 맞불 놓는 野">'이재명 소환' 압박 커지자…"김건희·김건희" 맞불 놓는 野</a>]]></content>
+        <title type="html"><![CDATA[민주, 한동훈 직격 “尹 가족 수사 왜 안하나, 김건희 여사에겐 사법 시스템 적용 안되나”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003767665?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003767665?sid=100"/>
+        <updated>2022-12-24T21:11:30.454Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767665?sid=100" class="nclicks(rig.secteco)" title="민주, 한동훈 직격 “尹 가족 수사 왜 안하나, 김건희 여사에겐 사법 시스템 적용 안되나”">민주, 한동훈 직격 “尹 가족 수사 왜 안하나, 김건희 여사에겐 사법 시스템 적용 안되나”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 오바마가 꼽은 베스트 영화에 '헤어질 결심' 포함]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393466?sid=105" class="nclicks(rig.secteco)" title="방통위 내년 예산 2607억원…올해比 1.8% 증가">방통위 내년 예산 2607억원…올해比 1.8% 증가</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[로또 1047회 당첨번호 1등 9명 '깜놀, 또 자동 나와버렸다']]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000191931?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000191931?sid=102"/>
+        <updated>2022-12-24T21:11:30.469Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000191931?sid=102" class="nclicks(rig.secteco)" title="로또 1047회 당첨번호 1등 9명 '깜놀, 또 자동 나와버렸다'">로또 1047회 당첨번호 1등 9명 '깜놀, 또 자동 나와버렸다'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제주 대설특보 해제…한라산 98.3㎝ 눈, 하늘길 정상화(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013661117?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013661117?sid=102"/>
@@ -83,18 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013661117?sid=102" class="nclicks(rig.secteco)" title="제주 대설특보 해제…한라산 98.3㎝ 눈, 하늘길 정상화(종합)">제주 대설특보 해제…한라산 98.3㎝ 눈, 하늘길 정상화(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘27.5억 대박’ 로또 1등, ‘6곳 자동’ 서울은 빠졌다…어디서 샀나]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005065139?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005065139?sid=102"/>
-        <updated>2022-12-24T20:13:13.673Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065139?sid=102" class="nclicks(rig.secteco)" title="‘27.5억 대박’ 로또 1등, ‘6곳 자동’ 서울은 빠졌다…어디서 샀나">‘27.5억 대박’ 로또 1등, ‘6곳 자동’ 서울은 빠졌다…어디서 샀나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005393475?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005393475?sid=102"/>
-        <updated>2022-12-24T20:13:13.673Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393475?sid=102" class="nclicks(rig.secteco)" title="마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본">마침내 핵심 피의자 첫 신병확보…한숨 돌린 특수본</a>]]></content>
+        <title type="html"><![CDATA['서해 피격 은폐' 서훈 前안보실장, 기소 2주만에 보석 신청]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013661133?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013661133?sid=102"/>
+        <updated>2022-12-24T21:11:30.470Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013661133?sid=102" class="nclicks(rig.secteco)" title="'서해 피격 은폐' 서훈 前안보실장, 기소 2주만에 보석 신청">'서해 피격 은폐' 서훈 前안보실장, 기소 2주만에 보석 신청</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] '성탄절' 맑고 강추위…눈·비 소식 없어]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001829708?sid=103" class="nclicks(rig.secteco)" title="[날씨] '성탄절' 맑고 강추위…눈·비 소식 없어">[날씨] '성탄절' 맑고 강추위…눈·비 소식 없어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성탄절까지 최강 한파… 제주공항 올스톱, 3만명 발 묶여]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003469936?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003469936?sid=103"/>
-        <updated>2022-12-24T20:13:13.674Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003469936?sid=103" class="nclicks(rig.secteco)" title="성탄절까지 최강 한파… 제주공항 올스톱, 3만명 발 묶여">성탄절까지 최강 한파… 제주공항 올스톱, 3만명 발 묶여</a>]]></content>
+        <title type="html"><![CDATA[K팝 올해 더 높이 더 멀리 날았다…음반 수출 2825억 [연계소문]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004791179?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004791179?sid=103"/>
+        <updated>2022-12-24T21:11:30.478Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004791179?sid=103" class="nclicks(rig.secteco)" title="K팝 올해 더 높이 더 멀리 날았다…음반 수출 2825억 [연계소문]">K팝 올해 더 높이 더 멀리 날았다…음반 수출 2825억 [연계소문]</a>]]></content>
     </entry>
 </feed>
