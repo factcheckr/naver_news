@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-25T09:13:02.980Z</updated>
+    <updated>2022-12-25T10:13:53.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['지지율 40%' 자신감?...尹대통령-金 여사 행보 뚜렷해진다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -12,25 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004832747?sid=100" class="nclicks(rig.secteco)" title="'지지율 40%' 자신감?...尹대통령-金 여사 행보 뚜렷해진다">'지지율 40%' 자신감?...尹대통령-金 여사 행보 뚜렷해진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與野 특별사면 두고 충돌.."김경수, 뭐 그리 떳떳" vs "용서구할 사람은 MB" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004946687?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004946687?sid=100"/>
-        <updated>2022-12-25T09:12:34.770Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004946687?sid=100" class="nclicks(rig.secteco)" title="與野 특별사면 두고 충돌..&quot;김경수, 뭐 그리 떳떳&quot; vs &quot;용서구할 사람은 MB&quot;">與野 특별사면 두고 충돌.."김경수, 뭐 그리 떳떳" vs "용서구할 사람은 MB"</a>]]></content>
+        <title type="html"><![CDATA[尹, 통합·화합 내걸고 특사 단행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003767780?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003767780?sid=100"/>
+        <updated>2022-12-25T10:13:24.432Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767780?sid=100" class="nclicks(rig.secteco)" title="尹, 통합·화합 내걸고 특사 단행">尹, 통합·화합 내걸고 특사 단행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與, 이재명에 "'도피투어' 중단하고 檢소환에 응해야"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013662257?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013662257?sid=100"/>
-        <updated>2022-12-25T09:12:34.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013662257?sid=100" class="nclicks(rig.secteco)" title="與, 이재명에 &quot;'도피투어' 중단하고 檢소환에 응해야&quot;(종합)">與, 이재명에 "'도피투어' 중단하고 檢소환에 응해야"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005065331?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005065331?sid=104"/>
-        <updated>2022-12-25T09:12:34.772Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065331?sid=104" class="nclicks(rig.secteco)" title="산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디">산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디</a>]]></content>
+        <title type="html"><![CDATA[주요 쟁점법안 처리 남겨둔 여야…본회의 앞두고 강대강 대치 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003767781?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003767781?sid=100"/>
+        <updated>2022-12-25T10:13:24.442Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767781?sid=100" class="nclicks(rig.secteco)" title="주요 쟁점법안 처리 남겨둔 여야…본회의 앞두고 강대강 대치">주요 쟁점법안 처리 남겨둔 여야…본회의 앞두고 강대강 대치</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모 감염에 못믿을 통계…힘 잃은 中 경제 낙관론[중국은 지금] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,11 +33,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393783?sid=104" class="nclicks(rig.secteco)" title="대규모 감염에 못믿을 통계…힘 잃은 中 경제 낙관론[중국은 지금]">대규모 감염에 못믿을 통계…힘 잃은 中 경제 낙관론[중국은 지금]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005065331?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005065331?sid=104"/>
+        <updated>2022-12-25T09:12:34.772Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065331?sid=104" class="nclicks(rig.secteco)" title="산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디">산타클로스, 한국 상공 7분 머물렀다…현재 위치는 어디</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[추경호 "다음 달 규제지역 해제…2월 취득세 중과 완화" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003720742?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003720742?sid=101"/>
         <updated>2022-12-25T07:11:57.881Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003720742?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;다음 달 규제지역 해제…2월 취득세 중과 완화&quot;">추경호 "다음 달 규제지역 해제…2월 취득세 중과 완화"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 2주택자 보유세 4389만원→2202만원으로 확 준다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003767776?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003767776?sid=101"/>
+        <updated>2022-12-25T10:13:24.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003767776?sid=101" class="nclicks(rig.secteco)" title="서울 2주택자 보유세 4389만원→2202만원으로 확 준다">서울 2주택자 보유세 4389만원→2202만원으로 확 준다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["악질 전세사기 막아라!" 국토부, 30일부터 전담 TF 운영 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,13 +61,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000191976?sid=101" class="nclicks(rig.secteco)" title="&quot;악질 전세사기 막아라!&quot; 국토부, 30일부터 전담 TF 운영">"악질 전세사기 막아라!" 국토부, 30일부터 전담 TF 운영</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차그룹 전기차 충돌 테스트서 최고등급…“E-GMP 안전 입증” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003248587?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003248587?sid=101"/>
-        <updated>2022-12-25T09:12:34.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248587?sid=101" class="nclicks(rig.secteco)" title="현대차그룹 전기차 충돌 테스트서 최고등급…“E-GMP 안전 입증”">현대차그룹 전기차 충돌 테스트서 최고등급…“E-GMP 안전 입증”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[작년 기술무역규모 336억 달러…역대최대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011609407?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011609407?sid=105"/>
@@ -68,11 +68,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011609407?sid=105" class="nclicks(rig.secteco)" title="작년 기술무역규모 336억 달러…역대최대">작년 기술무역규모 336억 달러…역대최대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5G 28㎓ 취소 사태, 누구의 책임인가..예고된 파국..6G까지 차질 우려[이슈분석] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004946674?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004946674?sid=105"/>
-        <updated>2022-12-25T07:11:57.884Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004946674?sid=105" class="nclicks(rig.secteco)" title="5G 28㎓ 취소 사태, 누구의 책임인가..예고된 파국..6G까지 차질 우려[이슈분석]">5G 28㎓ 취소 사태, 누구의 책임인가..예고된 파국..6G까지 차질 우려[이슈분석]</a>]]></content>
+        <title type="html"><![CDATA[방통위 내년 예산 2607억원…올해比 1.8% 증가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005393466?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005393466?sid=105"/>
+        <updated>2022-12-25T10:13:24.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393466?sid=105" class="nclicks(rig.secteco)" title="방통위 내년 예산 2607억원…올해比 1.8% 증가">방통위 내년 예산 2607억원…올해比 1.8% 증가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전장연, ‘휴전’ 5일 만에 시위재개 선언 “예산 106억만 증액됐다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,25 +89,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248617?sid=102" class="nclicks(rig.secteco)" title="내년 지하철 요금 오르나...노인 무임승차 손실 지원금 '0원'">내년 지하철 요금 오르나...노인 무임승차 손실 지원금 '0원'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '해밀톤호텔 일가' 부당 급여·법인카드 유용 의혹...'로비' 연관성 수사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001829854?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001829854?sid=102"/>
-        <updated>2022-12-25T09:12:34.786Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001829854?sid=102" class="nclicks(rig.secteco)" title="[단독] '해밀톤호텔 일가' 부당 급여·법인카드 유용 의혹...'로비' 연관성 수사">[단독] '해밀톤호텔 일가' 부당 급여·법인카드 유용 의혹...'로비' 연관성 수사</a>]]></content>
+        <title type="html"><![CDATA['학현학파' 이끈 진보 경제학 거목 변형윤 서울대 명예교수 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000714739?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000714739?sid=102"/>
+        <updated>2022-12-25T10:13:24.448Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000714739?sid=102" class="nclicks(rig.secteco)" title="'학현학파' 이끈 진보 경제학 거목 변형윤 서울대 명예교수 별세">'학현학파' 이끈 진보 경제학 거목 변형윤 서울대 명예교수 별세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 복극 한파에 한강 2년 만에 '꽁꽁'...예년보다 16일 빨라 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001829942?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001829942?sid=103"/>
-        <updated>2022-12-25T09:12:34.787Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001829942?sid=103" class="nclicks(rig.secteco)" title="[날씨] 복극 한파에 한강 2년 만에 '꽁꽁'...예년보다 16일 빨라">[날씨] 복극 한파에 한강 2년 만에 '꽁꽁'...예년보다 16일 빨라</a>]]></content>
+        <title type="html"><![CDATA[현대차그룹 전기차, 한국·미국·유럽 소비자 마음 사로잡았다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005393754?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005393754?sid=103"/>
+        <updated>2022-12-25T10:13:24.448Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005393754?sid=103" class="nclicks(rig.secteco)" title="현대차그룹 전기차, 한국·미국·유럽 소비자 마음 사로잡았다">현대차그룹 전기차, 한국·미국·유럽 소비자 마음 사로잡았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 성탄 한파, 낮에도 체감기온 뚝↓…내일도 강추위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000576235?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000576235?sid=103"/>
-        <updated>2022-12-25T09:12:34.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000576235?sid=103" class="nclicks(rig.secteco)" title="[날씨] 성탄 한파, 낮에도 체감기온 뚝↓…내일도 강추위">[날씨] 성탄 한파, 낮에도 체감기온 뚝↓…내일도 강추위</a>]]></content>
+        <title type="html"><![CDATA[한강 얼린 강추위에 곳곳서 동파·낙상…영하 10도 한파 '한주 더' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006539347?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006539347?sid=103"/>
+        <updated>2022-12-25T10:13:24.450Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006539347?sid=103" class="nclicks(rig.secteco)" title="한강 얼린 강추위에 곳곳서 동파·낙상…영하 10도 한파 '한주 더'">한강 얼린 강추위에 곳곳서 동파·낙상…영하 10도 한파 '한주 더'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
