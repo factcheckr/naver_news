@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-26T17:12:31.226Z</updated>
+    <updated>2022-12-26T18:16:38.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,25 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249047?sid=100" class="nclicks(rig.secteco)" title="북 무인기에 뚫린 서울…군 정찰기 이북 맞출격">북 무인기에 뚫린 서울…군 정찰기 이북 맞출격</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 “28일 검찰 출석 어려워, 가능한 날짜·방식 협의”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003249032?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003249032?sid=100"/>
-        <updated>2022-12-26T16:17:52.669Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249032?sid=100" class="nclicks(rig.secteco)" title="이재명 “28일 검찰 출석 어려워, 가능한 날짜·방식 협의”">이재명 “28일 검찰 출석 어려워, 가능한 날짜·방식 협의”</a>]]></content>
+        <title type="html"><![CDATA[이재명 “28일엔 일정있어 檢출석 못해… 날짜·방식 협의할 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003736905?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003736905?sid=100"/>
+        <updated>2022-12-26T18:16:08.497Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736905?sid=100" class="nclicks(rig.secteco)" title="이재명 “28일엔 일정있어 檢출석 못해… 날짜·방식 협의할 것”">이재명 “28일엔 일정있어 檢출석 못해… 날짜·방식 협의할 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[징용피해자 "정부, 日없이 韓기업 기부로 변제 추진…강력 반대"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013663775?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013663775?sid=100"/>
-        <updated>2022-12-26T15:14:14.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013663775?sid=100" class="nclicks(rig.secteco)" title="징용피해자 &quot;정부, 日없이 韓기업 기부로 변제 추진…강력 반대&quot;(종합)">징용피해자 "정부, 日없이 韓기업 기부로 변제 추진…강력 반대"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러 "푸틴, 이번주 시진핑과 회담"]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004137913?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004137913?sid=104"/>
-        <updated>2022-12-26T16:17:52.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004137913?sid=104" class="nclicks(rig.secteco)" title="러 &quot;푸틴, 이번주 시진핑과 회담&quot;">러 "푸틴, 이번주 시진핑과 회담"</a>]]></content>
+        <title type="html"><![CDATA[정부, 강제징용 피해 ‘先배상-後 日조치’ 가닥… 피해자측 “日 가해기업 우선 참여 필수” 반발]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003470295?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003470295?sid=100"/>
+        <updated>2022-12-26T18:16:08.500Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003470295?sid=100" class="nclicks(rig.secteco)" title="정부, 강제징용 피해 ‘先배상-後 日조치’ 가닥… 피해자측 “日 가해기업 우선 참여 필수” 반발">정부, 강제징용 피해 ‘先배상-後 日조치’ 가닥… 피해자측 “日 가해기업 우선 참여 필수” 반발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中, 내달 8일부터 입국 후 시설격리·PCR 검사 폐지(종합2보)]]></title>
@@ -41,11 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664393?sid=104" class="nclicks(rig.secteco)" title="中, 내달 8일부터 입국 후 시설격리·PCR 검사 폐지(종합2보)">中, 내달 8일부터 입국 후 시설격리·PCR 검사 폐지(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공공기관 감원 시작, 2025년까지 1만2400명 줄인다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003249043?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003249043?sid=101"/>
-        <updated>2022-12-26T17:12:02.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249043?sid=101" class="nclicks(rig.secteco)" title="공공기관 감원 시작, 2025년까지 1만2400명 줄인다">공공기관 감원 시작, 2025년까지 1만2400명 줄인다</a>]]></content>
+        <title type="html"><![CDATA[러 "푸틴, 이번주 시진핑과 회담"]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004137913?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004137913?sid=104"/>
+        <updated>2022-12-26T16:17:52.671Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004137913?sid=104" class="nclicks(rig.secteco)" title="러 &quot;푸틴, 이번주 시진핑과 회담&quot;">러 "푸틴, 이번주 시진핑과 회담"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공기관 정원 1만2442명 감축]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003736929?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003736929?sid=101"/>
+        <updated>2022-12-26T18:16:08.507Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736929?sid=101" class="nclicks(rig.secteco)" title="공공기관 정원 1만2442명 감축">공공기관 정원 1만2442명 감축</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 대한항공-아시아나 합병 승인…새해 英 승인 앞둬]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013662409?sid=101" class="nclicks(rig.secteco)" title="'빌라왕'보다 더한 집주인 수두룩…600억원 넘게 떼먹기도">'빌라왕'보다 더한 집주인 수두룩…600억원 넘게 떼먹기도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카이스트, 철제 벽·천장 빠르게 이동하는 ‘사족로봇’ 개발]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003768219?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003768219?sid=105"/>
-        <updated>2022-12-26T16:17:52.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003768219?sid=105" class="nclicks(rig.secteco)" title="카이스트, 철제 벽·천장 빠르게 이동하는 ‘사족로봇’ 개발">카이스트, 철제 벽·천장 빠르게 이동하는 ‘사족로봇’ 개발</a>]]></content>
+        <title type="html"><![CDATA[KAIST팀, 초속 70cm로 벽면 걷는 로봇 개발]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003470305?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003470305?sid=105"/>
+        <updated>2022-12-26T18:16:08.511Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003470305?sid=105" class="nclicks(rig.secteco)" title="KAIST팀, 초속 70cm로 벽면 걷는 로봇 개발">KAIST팀, 초속 70cm로 벽면 걷는 로봇 개발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기정통부 "내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002277642?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002277642?sid=105"/>
-        <updated>2022-12-26T12:24:26.173Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002277642?sid=105" class="nclicks(rig.secteco)" title="과기정통부 &quot;내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요&quot;">과기정통부 "내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요"</a>]]></content>
+        <title type="html"><![CDATA[“폐의약품은 우체통에” 우정본부, 세종시서 시범 서비스]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003736879?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003736879?sid=105"/>
+        <updated>2022-12-26T18:16:08.513Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736879?sid=105" class="nclicks(rig.secteco)" title="“폐의약품은 우체통에” 우정본부, 세종시서 시범 서비스">“폐의약품은 우체통에” 우정본부, 세종시서 시범 서비스</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특수본 '이태원 참사' 박희영 용산구청장 구속(종합)]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664373?sid=102" class="nclicks(rig.secteco)" title="특수본 '이태원 참사' 박희영 용산구청장 구속(종합)">특수본 '이태원 참사' 박희영 용산구청장 구속(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노조 예산 어디에 썼는지 공개되나…회계 감사·공표 의무 강화 추진(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005394386?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005394386?sid=102"/>
-        <updated>2022-12-26T17:12:02.730Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005394386?sid=102" class="nclicks(rig.secteco)" title="노조 예산 어디에 썼는지 공개되나…회계 감사·공표 의무 강화 추진(종합)">노조 예산 어디에 썼는지 공개되나…회계 감사·공표 의무 강화 추진(종합)</a>]]></content>
+        <title type="html"><![CDATA[노조 회계장부 3년치 비치해야… 尹 “공시 시스템 만들라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003736924?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003736924?sid=102"/>
+        <updated>2022-12-26T18:16:08.516Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736924?sid=102" class="nclicks(rig.secteco)" title="노조 회계장부 3년치 비치해야… 尹 “공시 시스템 만들라”">노조 회계장부 3년치 비치해야… 尹 “공시 시스템 만들라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최서원, 6년여 만에 임시 석방…정유라 "기뻐서 눈물"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004792199?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004792199?sid=102"/>
-        <updated>2022-12-26T17:12:02.731Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004792199?sid=102" class="nclicks(rig.secteco)" title="최서원, 6년여 만에 임시 석방…정유라 &quot;기뻐서 눈물&quot;">최서원, 6년여 만에 임시 석방…정유라 "기뻐서 눈물"</a>]]></content>
+        <title type="html"><![CDATA[‘국정농단’ 최서원 한 달간 석방… “척추 수술 필요해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005394543?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005394543?sid=102"/>
+        <updated>2022-12-26T18:16:08.517Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005394543?sid=102" class="nclicks(rig.secteco)" title="‘국정농단’ 최서원 한 달간 석방… “척추 수술 필요해”">‘국정농단’ 최서원 한 달간 석방… “척추 수술 필요해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별세한 『난쏘공』의 조세희 "우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!" [김용출의 문학삼매경]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003768016?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003768016?sid=103"/>
-        <updated>2022-12-26T16:17:52.690Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003768016?sid=103" class="nclicks(rig.secteco)" title="별세한 『난쏘공』의 조세희 &quot;우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!&quot; [김용출의 문학삼매경]">별세한 『난쏘공』의 조세희 "우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!" [김용출의 문학삼매경]</a>]]></content>
+        <title type="html"><![CDATA[‘난쏘공’ 조세희 선생 별세…향년 80세(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000028796?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000028796?sid=103"/>
+        <updated>2022-12-26T18:16:08.519Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000028796?sid=103" class="nclicks(rig.secteco)" title="‘난쏘공’ 조세희 선생 별세…향년 80세(종합)">‘난쏘공’ 조세희 선생 별세…향년 80세(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피아니스트 이혁 "음악은 평생 친구…상에 연연하지 않아요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011611161?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011611161?sid=103"/>
-        <updated>2022-12-26T15:14:14.715Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011611161?sid=103" class="nclicks(rig.secteco)" title="피아니스트 이혁 &quot;음악은 평생 친구…상에 연연하지 않아요&quot;">피아니스트 이혁 "음악은 평생 친구…상에 연연하지 않아요"</a>]]></content>
+        <title type="html"><![CDATA[“체스는 음악에 버금가는 존재… ‘그랜드 마스터’도 제 꿈이에요”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003736940?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003736940?sid=103"/>
+        <updated>2022-12-26T18:16:08.520Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736940?sid=103" class="nclicks(rig.secteco)" title="“체스는 음악에 버금가는 존재… ‘그랜드 마스터’도 제 꿈이에요”">“체스는 음악에 버금가는 존재… ‘그랜드 마스터’도 제 꿈이에요”</a>]]></content>
     </entry>
 </feed>
