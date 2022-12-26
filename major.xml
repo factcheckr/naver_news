@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-26T11:13:45.268Z</updated>
+    <updated>2022-12-26T12:24:54.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,25 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002620881?sid=100" class="nclicks(rig.secteco)" title="외교부, 강제동원 피해자에 “한국 기업 돈으로 보상 유력” 통보">외교부, 강제동원 피해자에 “한국 기업 돈으로 보상 유력” 통보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003327814?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003327814?sid=104"/>
-        <updated>2022-12-26T08:18:12.545Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327814?sid=104" class="nclicks(rig.secteco)" title="러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]">러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]</a>]]></content>
+        <title type="html"><![CDATA[러 공군기지에 드론 공격, 군인 3명 사망…미사일 보복 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002620885?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002620885?sid=104"/>
+        <updated>2022-12-26T12:24:26.164Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002620885?sid=104" class="nclicks(rig.secteco)" title="러 공군기지에 드론 공격, 군인 3명 사망…미사일 보복 가능성">러 공군기지에 드론 공격, 군인 3명 사망…미사일 보복 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폭설에 문두드린 韓관광객들, 미국인 부부와 성탄 파티한 사연]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003736826?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003736826?sid=104"/>
-        <updated>2022-12-26T11:13:14.897Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003736826?sid=104" class="nclicks(rig.secteco)" title="폭설에 문두드린 韓관광객들, 미국인 부부와 성탄 파티한 사연">폭설에 문두드린 韓관광객들, 미국인 부부와 성탄 파티한 사연</a>]]></content>
+        <title type="html"><![CDATA[“이미 끝이 다가오고 있다”…암투병설 또 불거진 푸틴]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005065907?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005065907?sid=104"/>
+        <updated>2022-12-26T12:24:26.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065907?sid=104" class="nclicks(rig.secteco)" title="“이미 끝이 다가오고 있다”…암투병설 또 불거진 푸틴">“이미 끝이 다가오고 있다”…암투병설 또 불거진 푸틴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공공기관 정원 1만2000명 줄인다… 14년 만에 ‘칼바람’]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003768120?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003768120?sid=101"/>
-        <updated>2022-12-26T11:13:14.899Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003768120?sid=101" class="nclicks(rig.secteco)" title="공공기관 정원 1만2000명 줄인다… 14년 만에 ‘칼바람’">공공기관 정원 1만2000명 줄인다… 14년 만에 ‘칼바람’</a>]]></content>
+        <title type="html"><![CDATA[철밥통 14년만에 깨진다…공공기관 1만2천명 감축]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005065906?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005065906?sid=101"/>
+        <updated>2022-12-26T12:24:26.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005065906?sid=101" class="nclicks(rig.secteco)" title="철밥통 14년만에 깨진다…공공기관 1만2천명 감축">철밥통 14년만에 깨진다…공공기관 1만2천명 감축</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국, 대한항공-아시아나 합병 승인…새해 英 승인 앞둬]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004792180?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004792180?sid=101"/>
+        <updated>2022-12-26T12:24:26.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004792180?sid=101" class="nclicks(rig.secteco)" title="중국, 대한항공-아시아나 합병 승인…새해 英 승인 앞둬">중국, 대한항공-아시아나 합병 승인…새해 英 승인 앞둬</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손자 주식까지 묶인 '현대판 연좌제'…대주주 제도 개편한다]]></title>
@@ -55,32 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248894?sid=101" class="nclicks(rig.secteco)" title="손자 주식까지 묶인 '현대판 연좌제'…대주주 제도 개편한다">손자 주식까지 묶인 '현대판 연좌제'…대주주 제도 개편한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[박상욱의 기후 1.5] 탄소를 기준으로 모든 것을 바라보면? (상)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000326396?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000326396?sid=101"/>
-        <updated>2022-12-26T11:13:14.903Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326396?sid=101" class="nclicks(rig.secteco)" title="[박상욱의 기후 1.5] 탄소를 기준으로 모든 것을 바라보면? (상)">[박상욱의 기후 1.5] 탄소를 기준으로 모든 것을 바라보면? (상)</a>]]></content>
+        <title type="html"><![CDATA[과기정통부 "내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002277642?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002277642?sid=105"/>
+        <updated>2022-12-26T12:24:26.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002277642?sid=105" class="nclicks(rig.secteco)" title="과기정통부 &quot;내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요&quot;">과기정통부 "내년 국가 보안 위협 글로벌 해킹 증가…제로트러스트 필요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004833100?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004833100?sid=105"/>
-        <updated>2022-12-26T09:13:41.374Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004833100?sid=105" class="nclicks(rig.secteco)" title="'이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다">'이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다</a>]]></content>
+        <title type="html"><![CDATA[KAIST, 철탑 오르내리며 천장도 타는 사족 보행 로봇 개발]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000719028?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000719028?sid=105"/>
+        <updated>2022-12-26T12:24:26.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000719028?sid=105" class="nclicks(rig.secteco)" title="KAIST, 철탑 오르내리며 천장도 타는 사족 보행 로봇 개발">KAIST, 철탑 오르내리며 천장도 타는 사족 보행 로봇 개발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[철제 벽·기둥 오르는 세계 최고속 '스파이더맨' 로봇 개발]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001711804?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001711804?sid=105"/>
-        <updated>2022-12-26T11:13:14.907Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001711804?sid=105" class="nclicks(rig.secteco)" title="철제 벽·기둥 오르는 세계 최고속 '스파이더맨' 로봇 개발">철제 벽·기둥 오르는 세계 최고속 '스파이더맨' 로봇 개발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['깜깜이 회계 논란' 노조, 내년 1월까지 '자율 점검'... 미보고 시 과태료 500만 원]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000714985?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000714985?sid=102"/>
-        <updated>2022-12-26T11:13:14.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000714985?sid=102" class="nclicks(rig.secteco)" title="'깜깜이 회계 논란' 노조, 내년 1월까지 '자율 점검'... 미보고 시 과태료 500만 원">'깜깜이 회계 논란' 노조, 내년 1월까지 '자율 점검'... 미보고 시 과태료 500만 원</a>]]></content>
+        <title type="html"><![CDATA[정부, 노조 ‘깜깜이 회계’ 막는다…尹 “회계 공시시스템 구축 검토” 지시]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003470254?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003470254?sid=102"/>
+        <updated>2022-12-26T12:24:26.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003470254?sid=102" class="nclicks(rig.secteco)" title="정부, 노조 ‘깜깜이 회계’ 막는다…尹 “회계 공시시스템 구축 검토” 지시">정부, 노조 ‘깜깜이 회계’ 막는다…尹 “회계 공시시스템 구축 검토” 지시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]이임재 "23시 전 몰랐다"…10시반 CCTV에 딱 걸린 거짓말]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248623?sid=102" class="nclicks(rig.secteco)" title="[단독]이임재 &quot;23시 전 몰랐다&quot;…10시반 CCTV에 딱 걸린 거짓말">[단독]이임재 "23시 전 몰랐다"…10시반 CCTV에 딱 걸린 거짓말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['뇌 먹는 아메바' 국내 첫 사망자 나왔다…파울러자유아메바 뭐길래]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002670295?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002670295?sid=102"/>
-        <updated>2022-12-26T10:14:15.927Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002670295?sid=102" class="nclicks(rig.secteco)" title="'뇌 먹는 아메바' 국내 첫 사망자 나왔다…파울러자유아메바 뭐길래">'뇌 먹는 아메바' 국내 첫 사망자 나왔다…파울러자유아메바 뭐길래</a>]]></content>
+        <title type="html"><![CDATA[치명률 97% '뇌 먹는 아메바' 감염 확인…국내 첫 사례]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326523?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326523?sid=102"/>
+        <updated>2022-12-26T12:24:26.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326523?sid=102" class="nclicks(rig.secteco)" title="치명률 97% '뇌 먹는 아메바' 감염 확인…국내 첫 사례">치명률 97% '뇌 먹는 아메바' 감염 확인…국내 첫 사례</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000326487?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000326487?sid=103"/>
-        <updated>2022-12-26T09:13:41.380Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326487?sid=103" class="nclicks(rig.secteco)" title="바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁">바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁</a>]]></content>
+        <title type="html"><![CDATA[피아니스트 이혁 "음악은 평생 친구…상에 연연하지 않아요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011611161?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011611161?sid=103"/>
+        <updated>2022-12-26T12:24:26.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011611161?sid=103" class="nclicks(rig.secteco)" title="피아니스트 이혁 &quot;음악은 평생 친구…상에 연연하지 않아요&quot;">피아니스트 이혁 "음악은 평생 친구…상에 연연하지 않아요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘난쏘공’ 조세희 작가 별세…“난쟁이들에게 사랑을”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011399287?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011399287?sid=103"/>
-        <updated>2022-12-26T11:13:14.917Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011399287?sid=103" class="nclicks(rig.secteco)" title="‘난쏘공’ 조세희 작가 별세…“난쟁이들에게 사랑을”">‘난쏘공’ 조세희 작가 별세…“난쟁이들에게 사랑을”</a>]]></content>
+        <title type="html"><![CDATA["어지러운 시대에 깊은 울림"…'난쏘공' 조세희 추모물결]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013664329?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013664329?sid=103"/>
+        <updated>2022-12-26T12:24:26.176Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664329?sid=103" class="nclicks(rig.secteco)" title="&quot;어지러운 시대에 깊은 울림&quot;…'난쏘공' 조세희 추모물결">"어지러운 시대에 깊은 울림"…'난쏘공' 조세희 추모물결</a>]]></content>
     </entry>
 </feed>
