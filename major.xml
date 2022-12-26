@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-26T08:18:43.728Z</updated>
+    <updated>2022-12-26T09:14:07.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[5년만에 北 무인기 영공 침범…수대 경기 일대 민가까지 내려와(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013663949?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013663949?sid=100"/>
-        <updated>2022-12-26T08:18:12.539Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013663949?sid=100" class="nclicks(rig.secteco)" title="5년만에 北 무인기 영공 침범…수대 경기 일대 민가까지 내려와(종합)">5년만에 北 무인기 영공 침범…수대 경기 일대 민가까지 내려와(종합)</a>]]></content>
+        <title type="html"><![CDATA[北무인기 서울까지 침투…강화·파주 민가상공도·軍 격추시도(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013664136?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013664136?sid=100"/>
+        <updated>2022-12-26T09:13:41.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664136?sid=100" class="nclicks(rig.secteco)" title="北무인기 서울까지 침투…강화·파주 민가상공도·軍 격추시도(종합2보)">北무인기 서울까지 침투…강화·파주 민가상공도·軍 격추시도(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한일 외교당국, 징용 해법 협의…"日호응조치 집중 논의"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013663888?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013663888?sid=100"/>
-        <updated>2022-12-26T08:18:12.540Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013663888?sid=100" class="nclicks(rig.secteco)" title="한일 외교당국, 징용 해법 협의…&quot;日호응조치 집중 논의&quot;(종합2보)">한일 외교당국, 징용 해법 협의…"日호응조치 집중 논의"(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 "노조 회계공시시스템 검토하라‥노조 부패 방지"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001243825?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001243825?sid=100"/>
+        <updated>2022-12-26T09:13:41.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001243825?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;노조 회계공시시스템 검토하라‥노조 부패 방지&quot;">윤 대통령 "노조 회계공시시스템 검토하라‥노조 부패 방지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 "노조 부패 방지해야"…노조 회계공시 검토 지시(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013664010?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013664010?sid=100"/>
-        <updated>2022-12-26T08:18:12.541Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664010?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;노조 부패 방지해야&quot;…노조 회계공시 검토 지시(종합)">尹대통령 "노조 부패 방지해야"…노조 회계공시 검토 지시(종합)</a>]]></content>
+        <title type="html"><![CDATA[징용피해자 "정부, 日없이 韓기업 기부로 변제 추진…강력 반대"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013663775?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013663775?sid=100"/>
+        <updated>2022-12-26T09:13:41.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013663775?sid=100" class="nclicks(rig.secteco)" title="징용피해자 &quot;정부, 日없이 韓기업 기부로 변제 추진…강력 반대&quot;(종합)">징용피해자 "정부, 日없이 韓기업 기부로 변제 추진…강력 반대"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]]]></title>
@@ -34,67 +34,74 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327814?sid=104" class="nclicks(rig.secteco)" title="러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]">러시아 본토, 또 당했다…푸틴 굴욕 언제까지 [우크라 전쟁]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기시다, '방위비 역풍'에 지지율 최저치... "총선거 해야" 압박도]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002377226?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002377226?sid=104"/>
-        <updated>2022-12-26T08:18:12.545Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002377226?sid=104" class="nclicks(rig.secteco)" title="기시다, '방위비 역풍'에 지지율 최저치... &quot;총선거 해야&quot; 압박도">기시다, '방위비 역풍'에 지지율 최저치... "총선거 해야" 압박도</a>]]></content>
+        <title type="html"><![CDATA['110㎝ 폭설' 발묶인 한국 관광객들에게 집 내준 미국인 부부]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326479?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326479?sid=104"/>
+        <updated>2022-12-26T09:13:41.369Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326479?sid=104" class="nclicks(rig.secteco)" title="'110㎝ 폭설' 발묶인 한국 관광객들에게 집 내준 미국인 부부">'110㎝ 폭설' 발묶인 한국 관광객들에게 집 내준 미국인 부부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[14년 만에 허리띠 졸라매는 공공기관…1만2442명 줄여]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001575746?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001575746?sid=101"/>
-        <updated>2022-12-26T08:18:12.547Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001575746?sid=101" class="nclicks(rig.secteco)" title="14년 만에 허리띠 졸라매는 공공기관…1만2442명 줄여">14년 만에 허리띠 졸라매는 공공기관…1만2442명 줄여</a>]]></content>
+        <title type="html"><![CDATA[정부, MB정부 이후 처음으로 공공기관 정원 1만2000명 줄이기로···향후 채용 줄고 비정규직 늘 듯]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003195204?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003195204?sid=101"/>
+        <updated>2022-12-26T09:13:41.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003195204?sid=101" class="nclicks(rig.secteco)" title="정부, MB정부 이후 처음으로 공공기관 정원 1만2000명 줄이기로···향후 채용 줄고 비정규직 늘 듯">정부, MB정부 이후 처음으로 공공기관 정원 1만2000명 줄이기로···향후 채용 줄고 비정규직 늘 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추경호?“내년에도 대외 여건 어려움 지속···자국 중심 공급망 재편 뚜렷해질 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003195185?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003195185?sid=101"/>
-        <updated>2022-12-26T08:18:12.554Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003195185?sid=101" class="nclicks(rig.secteco)" title="추경호?“내년에도 대외 여건 어려움 지속···자국 중심 공급망 재편 뚜렷해질 것”">추경호?“내년에도 대외 여건 어려움 지속···자국 중심 공급망 재편 뚜렷해질 것”</a>]]></content>
+        <title type="html"><![CDATA[美 IRA·EU CBAM…추경호 "내년 우리 경제·산업에 부담, 지원 강화" (종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004947124?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004947124?sid=101"/>
+        <updated>2022-12-26T09:13:41.371Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004947124?sid=101" class="nclicks(rig.secteco)" title="美 IRA·EU CBAM…추경호 &quot;내년 우리 경제·산업에 부담, 지원 강화&quot; (종합)">美 IRA·EU CBAM…추경호 "내년 우리 경제·산업에 부담, 지원 강화" (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대重그룹, 20년만에 그룹명 바꿨다…'HD현대'로 새출발(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013663794?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013663794?sid=101"/>
-        <updated>2022-12-26T08:18:12.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013663794?sid=101" class="nclicks(rig.secteco)" title="현대重그룹, 20년만에 그룹명 바꿨다…'HD현대'로 새출발(종합)">현대重그룹, 20년만에 그룹명 바꿨다…'HD현대'로 새출발(종합)</a>]]></content>
+        <title type="html"><![CDATA['HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000041918?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000041918?sid=101"/>
+        <updated>2022-12-26T09:13:41.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000041918?sid=101" class="nclicks(rig.secteco)" title="'HD현대'로 바꾼 현대중공업그룹...&quot;앞으로 50년은 창조의 역사 될 것&quot;">'HD현대'로 바꾼 현대중공업그룹..."앞으로 50년은 창조의 역사 될 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벽 달라붙어 '초당 70㎝' 후다닥…韓 스파이더맨 로봇 등장[영상]]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004833021?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004833021?sid=105"/>
-        <updated>2022-12-26T07:12:30.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004833021?sid=105" class="nclicks(rig.secteco)" title="벽 달라붙어 '초당 70㎝' 후다닥…韓 스파이더맨 로봇 등장[영상]">벽 달라붙어 '초당 70㎝' 후다닥…韓 스파이더맨 로봇 등장[영상]</a>]]></content>
+        <title type="html"><![CDATA['이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004833100?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004833100?sid=105"/>
+        <updated>2022-12-26T09:13:41.374Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004833100?sid=105" class="nclicks(rig.secteco)" title="'이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다">'이태원' '세월호' 등 사회적 참사 미끼삼는 해킹 늘어난다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이버보안 연말결산…'랩서스'부터 '월패드 해킹'까지]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000719090?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000719090?sid=105"/>
-        <updated>2022-12-26T08:18:12.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000719090?sid=105" class="nclicks(rig.secteco)" title="사이버보안 연말결산…'랩서스'부터 '월패드 해킹'까지">사이버보안 연말결산…'랩서스'부터 '월패드 해킹'까지</a>]]></content>
+        <title type="html"><![CDATA[우정사업본부, 가정내 방치된 폐의약품 우체통으로 손쉽게 수거]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003068433?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003068433?sid=105"/>
+        <updated>2022-12-26T09:13:41.375Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003068433?sid=105" class="nclicks(rig.secteco)" title="우정사업본부, 가정내 방치된 폐의약품 우체통으로 손쉽게 수거">우정사업본부, 가정내 방치된 폐의약품 우체통으로 손쉽게 수거</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포]"초등학교가 바로 옆인데"…공군기 추락 횡성 주민들 '놀란 가슴']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006541035?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006541035?sid=102"/>
-        <updated>2022-12-26T08:18:12.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006541035?sid=102" class="nclicks(rig.secteco)" title="[르포]&quot;초등학교가 바로 옆인데&quot;…공군기 추락 횡성 주민들 '놀란 가슴'">[르포]"초등학교가 바로 옆인데"…공군기 추락 횡성 주민들 '놀란 가슴'</a>]]></content>
+        <title type="html"><![CDATA[[단독]이임재 "23시 전 몰랐다"…10시반 CCTV에 딱 걸린 거짓말]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003248623?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003248623?sid=102"/>
+        <updated>2022-12-26T09:13:41.377Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248623?sid=102" class="nclicks(rig.secteco)" title="[단독]이임재 &quot;23시 전 몰랐다&quot;…10시반 CCTV에 딱 걸린 거짓말">[단독]이임재 "23시 전 몰랐다"…10시반 CCTV에 딱 걸린 거짓말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['뇌 먹는 아메바' 국내 첫 감염자, 입원 10일만에 숨져…전염 가능성은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004833032?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004833032?sid=102"/>
-        <updated>2022-12-26T08:18:12.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004833032?sid=102" class="nclicks(rig.secteco)" title="'뇌 먹는 아메바' 국내 첫 감염자, 입원 10일만에 숨져…전염 가능성은?">'뇌 먹는 아메바' 국내 첫 감염자, 입원 10일만에 숨져…전염 가능성은?</a>]]></content>
+        <title type="html"><![CDATA['뇌 먹는 아메바' 국내 첫 확인…증상 열흘 만에 숨져]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000576347?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000576347?sid=102"/>
+        <updated>2022-12-26T09:13:41.378Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000576347?sid=102" class="nclicks(rig.secteco)" title="'뇌 먹는 아메바' 국내 첫 확인…증상 열흘 만에 숨져">'뇌 먹는 아메바' 국내 첫 확인…증상 열흘 만에 숨져</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 옷장 시신은 택시기사…범인은 접촉사고 낸 음주운전자]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003248752?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003248752?sid=102"/>
-        <updated>2022-12-26T08:18:12.556Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248752?sid=102" class="nclicks(rig.secteco)" title="[단독] 옷장 시신은 택시기사…범인은 접촉사고 낸 음주운전자">[단독] 옷장 시신은 택시기사…범인은 접촉사고 낸 음주운전자</a>]]></content>
+        <title type="html"><![CDATA[北 무인기 대응하려다 공군 공격기 추락, 올해만 5번째…'얼 빠진' 공군]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011611130?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011611130?sid=102"/>
+        <updated>2022-12-26T09:13:41.380Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011611130?sid=102" class="nclicks(rig.secteco)" title="北 무인기 대응하려다 공군 공격기 추락, 올해만 5번째…'얼 빠진' 공군">北 무인기 대응하려다 공군 공격기 추락, 올해만 5번째…'얼 빠진' 공군</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326487?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326487?sid=103"/>
+        <updated>2022-12-26T09:13:41.380Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326487?sid=103" class="nclicks(rig.secteco)" title="바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁">바이올린 연주하고, 유튜브 하는 MZ 피아니스트 이혁</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[별세한 『난쏘공』의 조세희 "우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!" [김용출의 문학삼매경]]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003768016?sid=103"/>
         <updated>2022-12-26T06:17:49.454Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003768016?sid=103" class="nclicks(rig.secteco)" title="별세한 『난쏘공』의 조세희 &quot;우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!&quot; [김용출의 문학삼매경]">별세한 『난쏘공』의 조세희 "우린 모두 난쟁이들? 그럼에도, 절망에 빠지지 마십시오. 절대로!" [김용출의 문학삼매경]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롱 티보 우승 이혁, “콩쿠르 한국인 입상은 클래식 대중화의 결과”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003248845?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003248845?sid=103"/>
-        <updated>2022-12-26T08:18:12.562Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003248845?sid=103" class="nclicks(rig.secteco)" title="롱 티보 우승 이혁, “콩쿠르 한국인 입상은 클래식 대중화의 결과”">롱 티보 우승 이혁, “콩쿠르 한국인 입상은 클래식 대중화의 결과”</a>]]></content>
     </entry>
 </feed>
