@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-27T08:17:34.113Z</updated>
+    <updated>2022-12-27T09:13:43.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[尹대통령, 신년특사로 통합 메시지…'여야 형평성' 강조(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013666248?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013666248?sid=100"/>
-        <updated>2022-12-27T08:17:03.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013666248?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 신년특사로 통합 메시지…'여야 형평성' 강조(종합)">尹대통령, 신년특사로 통합 메시지…'여야 형평성' 강조(종합)</a>]]></content>
+        <title type="html"><![CDATA[北무인기에 놀란 軍, '새떼'에 전투기 출격…재난문자도 발송(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013666558?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013666558?sid=100"/>
+        <updated>2022-12-27T09:13:13.936Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013666558?sid=100" class="nclicks(rig.secteco)" title="北무인기에 놀란 軍, '새떼'에 전투기 출격…재난문자도 발송(종합)">北무인기에 놀란 軍, '새떼'에 전투기 출격…재난문자도 발송(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군 “적 무인기 격추 못해 송구…타격자산 신속히 획득”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003328125?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003328125?sid=100"/>
-        <updated>2022-12-27T08:17:03.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003328125?sid=100" class="nclicks(rig.secteco)" title="군 “적 무인기 격추 못해 송구…타격자산 신속히 획득”">군 “적 무인기 격추 못해 송구…타격자산 신속히 획득”</a>]]></content>
+        <title type="html"><![CDATA[합참 "北 무인기 5대 격추 못해 송구"… 대국민 사과(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006543436?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006543436?sid=100"/>
+        <updated>2022-12-27T09:13:13.938Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006543436?sid=100" class="nclicks(rig.secteco)" title="합참 &quot;北 무인기 5대 격추 못해 송구&quot;… 대국민 사과(종합)">합참 "北 무인기 5대 격추 못해 송구"… 대국민 사과(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 “북한 선의에 의존한 대북정책, 얼마나 위험한지 보셨을 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003249214?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003249214?sid=100"/>
-        <updated>2022-12-27T08:17:03.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249214?sid=100" class="nclicks(rig.secteco)" title="尹 “북한 선의에 의존한 대북정책, 얼마나 위험한지 보셨을 것&quot;">尹 “북한 선의에 의존한 대북정책, 얼마나 위험한지 보셨을 것"</a>]]></content>
+        <title type="html"><![CDATA[김기춘, 우병우, 조윤선까지... 야당 "묻지마 사면, 이게 국민통합인가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002377361?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002377361?sid=100"/>
+        <updated>2022-12-27T09:13:13.939Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002377361?sid=100" class="nclicks(rig.secteco)" title="김기춘, 우병우, 조윤선까지... 야당 &quot;묻지마 사면, 이게 국민통합인가&quot;">김기춘, 우병우, 조윤선까지... 야당 "묻지마 사면, 이게 국민통합인가"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 '방역장성' 허문다, 입국자 격리 폐지…"개인이 알아서 방역"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003249206?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003249206?sid=104"/>
-        <updated>2022-12-27T07:12:29.589Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249206?sid=104" class="nclicks(rig.secteco)" title="中 '방역장성' 허문다, 입국자 격리 폐지…&quot;개인이 알아서 방역&quot;">中 '방역장성' 허문다, 입국자 격리 폐지…"개인이 알아서 방역"</a>]]></content>
+        <title type="html"><![CDATA[中 내달 8일부터 입국 시 격리·PCR 폐지]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000719340?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000719340?sid=104"/>
+        <updated>2022-12-27T09:13:13.939Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000719340?sid=104" class="nclicks(rig.secteco)" title="中 내달 8일부터 입국 시 격리·PCR 폐지">中 내달 8일부터 입국 시 격리·PCR 폐지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日기시다 "30일부터 중국발 입국자 의무 검진"…확진시 7일 격리(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006543254?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006543254?sid=104"/>
-        <updated>2022-12-27T08:17:03.696Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006543254?sid=104" class="nclicks(rig.secteco)" title="日기시다 &quot;30일부터 중국발 입국자 의무 검진&quot;…확진시 7일 격리(종합)">日기시다 "30일부터 중국발 입국자 의무 검진"…확진시 7일 격리(종합)</a>]]></content>
+        <title type="html"><![CDATA['중국 위협'에 대만, 군복무 4개월→1년으로…"전쟁터 안될 것"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013666533?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013666533?sid=104"/>
+        <updated>2022-12-27T09:13:13.939Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013666533?sid=104" class="nclicks(rig.secteco)" title="'중국 위협'에 대만, 군복무 4개월→1년으로…&quot;전쟁터 안될 것&quot;(종합)">'중국 위협'에 대만, 군복무 4개월→1년으로…"전쟁터 안될 것"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신사업 힘주는 포스코…인터·케미칼 수장 교체]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004792556?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004792556?sid=101"/>
+        <updated>2022-12-27T09:13:13.941Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004792556?sid=101" class="nclicks(rig.secteco)" title="신사업 힘주는 포스코…인터·케미칼 수장 교체">신사업 힘주는 포스코…인터·케미칼 수장 교체</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NH·신한證 '독일 헤리티지 펀드' 투자원금 전액 반환키로]]></title>
@@ -48,25 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004792437?sid=101" class="nclicks(rig.secteco)" title="NH·신한證 '독일 헤리티지 펀드' 투자원금 전액 반환키로">NH·신한證 '독일 헤리티지 펀드' 투자원금 전액 반환키로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포항제철 침수 '전화위복' 포스코 김학동·정탁, 유임·영전]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002670630?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002670630?sid=101"/>
-        <updated>2022-12-27T08:17:03.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002670630?sid=101" class="nclicks(rig.secteco)" title="포항제철 침수 '전화위복' 포스코 김학동·정탁, 유임·영전">포항제철 침수 '전화위복' 포스코 김학동·정탁, 유임·영전</a>]]></content>
+        <title type="html"><![CDATA[[단독]'20대 빌라왕' 피해 보증금만 57억…"내년 초부터 만기 도래"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006543233?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006543233?sid=101"/>
+        <updated>2022-12-27T09:13:13.943Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006543233?sid=101" class="nclicks(rig.secteco)" title="[단독]'20대 빌라왕' 피해 보증금만 57억…&quot;내년 초부터 만기 도래&quot;">[단독]'20대 빌라왕' 피해 보증금만 57억…"내년 초부터 만기 도래"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코레일, KTX 열차 궤도이탈 사고로 현대로템에 70억원 피해구상 청구한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000865441?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000865441?sid=101"/>
-        <updated>2022-12-27T08:17:03.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000865441?sid=101" class="nclicks(rig.secteco)" title="코레일, KTX 열차 궤도이탈 사고로 현대로템에 70억원 피해구상 청구한다">코레일, KTX 열차 궤도이탈 사고로 현대로템에 70억원 피해구상 청구한다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 내년 3월부터 재택근무 못한다…격주 놀금도 폐지]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002670603?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002670603?sid=105"/>
-        <updated>2022-12-27T08:17:03.709Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002670603?sid=105" class="nclicks(rig.secteco)" title="카카오, 내년 3월부터 재택근무 못한다…격주 놀금도 폐지">카카오, 내년 3월부터 재택근무 못한다…격주 놀금도 폐지</a>]]></content>
+        <title type="html"><![CDATA[[DD 퇴근길] “재택근무 끝”…카카오, 내년 3월부터 사무실 출근]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002139679?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002139679?sid=105"/>
+        <updated>2022-12-27T09:13:13.946Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002139679?sid=105" class="nclicks(rig.secteco)" title="[DD 퇴근길] “재택근무 끝”…카카오, 내년 3월부터 사무실 출근">[DD 퇴근길] “재택근무 끝”…카카오, 내년 3월부터 사무실 출근</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[택진이형이 말한 'TL'…게임에 '자유'가 담겼다]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002670542?sid=105" class="nclicks(rig.secteco)" title="택진이형이 말한 'TL'…게임에 '자유'가 담겼다">택진이형이 말한 'TL'…게임에 '자유'가 담겼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, MB 벌금 82억 면제…사면 거부 김경수엔 "사면권자 결단"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003249216?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003249216?sid=102"/>
-        <updated>2022-12-27T08:17:03.711Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249216?sid=102" class="nclicks(rig.secteco)" title="정부, MB 벌금 82억 면제…사면 거부 김경수엔 &quot;사면권자 결단&quot;">정부, MB 벌금 82억 면제…사면 거부 김경수엔 "사면권자 결단"</a>]]></content>
+        <title type="html"><![CDATA[옷장 속 시신→연쇄살인 사건..경찰 시신 수색 나서(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005395150?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005395150?sid=102"/>
+        <updated>2022-12-27T09:13:13.948Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005395150?sid=102" class="nclicks(rig.secteco)" title="옷장 속 시신→연쇄살인 사건..경찰 시신 수색 나서(종합)">옷장 속 시신→연쇄살인 사건..경찰 시신 수색 나서(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '옷장 시신' 피의자, 전 연인도 살해 뒤 시신 유기…'트렁크 혈흔'으로 추궁 끝에 자백]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000326624?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000326624?sid=102"/>
-        <updated>2022-12-27T08:17:03.713Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326624?sid=102" class="nclicks(rig.secteco)" title="[단독] '옷장 시신' 피의자, 전 연인도 살해 뒤 시신 유기…'트렁크 혈흔'으로 추궁 끝에 자백">[단독] '옷장 시신' 피의자, 전 연인도 살해 뒤 시신 유기…'트렁크 혈흔'으로 추궁 끝에 자백</a>]]></content>
+        <title type="html"><![CDATA[[털어보기] 특별사면? 일반사면? 복권없는 형면제? 차이점 총정리해보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326633?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326633?sid=102"/>
+        <updated>2022-12-27T09:13:13.948Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326633?sid=102" class="nclicks(rig.secteco)" title="[털어보기] 특별사면? 일반사면? 복권없는 형면제? 차이점 총정리해보니">[털어보기] 특별사면? 일반사면? 복권없는 형면제? 차이점 총정리해보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제빵왕국 SPC의 민낯…사업장 86% 안전 위반에 12억원 임금 체불(종합)]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005395048?sid=102" class="nclicks(rig.secteco)" title="제빵왕국 SPC의 민낯…사업장 86% 안전 위반에 12억원 임금 체불(종합)">제빵왕국 SPC의 민낯…사업장 86% 안전 위반에 12억원 임금 체불(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백제 공예의 정수 ‘미륵사지 출토 사리장엄구’ 국보 됐다.]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003328127?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003328127?sid=103"/>
-        <updated>2022-12-27T08:17:03.718Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003328127?sid=103" class="nclicks(rig.secteco)" title="백제 공예의 정수 ‘미륵사지 출토 사리장엄구’ 국보 됐다.">백제 공예의 정수 ‘미륵사지 출토 사리장엄구’ 국보 됐다.</a>]]></content>
+        <title type="html"><![CDATA[피아니스트 김수연 "자연스러움 전달하는 음악가 되고파"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005395152?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005395152?sid=103"/>
+        <updated>2022-12-27T09:13:13.951Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005395152?sid=103" class="nclicks(rig.secteco)" title="피아니스트 김수연 &quot;자연스러움 전달하는 음악가 되고파&quot;">피아니스트 김수연 "자연스러움 전달하는 음악가 되고파"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방송영상 매출 30조 내건 문체부.."제2의 '재벌집 막내아들' 키운다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004833452?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004833452?sid=103"/>
-        <updated>2022-12-27T07:12:29.616Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004833452?sid=103" class="nclicks(rig.secteco)" title="방송영상 매출 30조 내건 문체부..&quot;제2의 '재벌집 막내아들' 키운다&quot;">방송영상 매출 30조 내건 문체부.."제2의 '재벌집 막내아들' 키운다"</a>]]></content>
+        <title type="html"><![CDATA[무왕·선화공주 ‘러브 스토리’ 부정한 미륵사지 서탑 유물, 국보됐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003195425?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003195425?sid=103"/>
+        <updated>2022-12-27T09:13:13.953Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003195425?sid=103" class="nclicks(rig.secteco)" title="무왕·선화공주 ‘러브 스토리’ 부정한 미륵사지 서탑 유물, 국보됐다">무왕·선화공주 ‘러브 스토리’ 부정한 미륵사지 서탑 유물, 국보됐다</a>]]></content>
     </entry>
 </feed>
