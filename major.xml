@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-27T20:14:41.089Z</updated>
+    <updated>2022-12-27T21:12:20.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[북한 무인기, '회색지대 도발' 전주곡?]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002670697?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002670697?sid=100"/>
-        <updated>2022-12-27T20:14:09.407Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002670697?sid=100" class="nclicks(rig.secteco)" title="북한 무인기, '회색지대 도발' 전주곡?">북한 무인기, '회색지대 도발' 전주곡?</a>]]></content>
+        <title type="html"><![CDATA[무인기 사건 대국민 사과한 軍…"운용 문제 개선, 전력 보강"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003721540?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003721540?sid=100"/>
+        <updated>2022-12-27T21:11:52.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003721540?sid=100" class="nclicks(rig.secteco)" title="무인기 사건 대국민 사과한 軍…&quot;운용 문제 개선, 전력 보강&quot;">무인기 사건 대국민 사과한 軍…"운용 문제 개선, 전력 보강"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]軍, 이달초부터 ‘北무인기 활동 급증’ 포착하고도 당했다]]></title>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003470493?sid=100" class="nclicks(rig.secteco)" title="[단독]軍, 이달초부터 ‘北무인기 활동 급증’ 포착하고도 당했다">[단독]軍, 이달초부터 ‘北무인기 활동 급증’ 포착하고도 당했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 “참사당일 시간 허비” 지적에… 이상민 “골든타임 지난 시각”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001576131?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001576131?sid=100"/>
-        <updated>2022-12-27T20:14:09.412Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576131?sid=100" class="nclicks(rig.secteco)" title="野 “참사당일 시간 허비” 지적에… 이상민 “골든타임 지난 시각”">野 “참사당일 시간 허비” 지적에… 이상민 “골든타임 지난 시각”</a>]]></content>
+        <title type="html"><![CDATA[국조특위 '컨트롤타워' 공방…서영교 '파이팅'도 도마 위]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000326641?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000326641?sid=100"/>
+        <updated>2022-12-27T21:11:52.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000326641?sid=100" class="nclicks(rig.secteco)" title="국조특위 '컨트롤타워' 공방…서영교 '파이팅'도 도마 위">국조특위 '컨트롤타워' 공방…서영교 '파이팅'도 도마 위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中, 3년 만에 입국자 시설 격리 폐지한다… 해외여행 급증할 듯]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001576149?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001576149?sid=104"/>
+        <updated>2022-12-27T21:11:52.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576149?sid=104" class="nclicks(rig.secteco)" title="中, 3년 만에 입국자 시설 격리 폐지한다… 해외여행 급증할 듯">中, 3년 만에 입국자 시설 격리 폐지한다… 해외여행 급증할 듯</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日은 중국발 입국자 전원 신속항원검사]]></title>
@@ -32,13 +39,6 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001576130?sid=104"/>
         <updated>2022-12-27T20:14:09.415Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576130?sid=104" class="nclicks(rig.secteco)" title="日은 중국발 입국자 전원 신속항원검사">日은 중국발 입국자 전원 신속항원검사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“흥미진진!”…‘대만 진입’ 中 군용기에 중국 네티즌 반응 보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003327859?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003327859?sid=104"/>
-        <updated>2022-12-27T20:14:09.417Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003327859?sid=104" class="nclicks(rig.secteco)" title="“흥미진진!”…‘대만 진입’ 中 군용기에 중국 네티즌 반응 보니">“흥미진진!”…‘대만 진입’ 中 군용기에 중국 네티즌 반응 보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최정우 포스코그룹 회장, 전중선·민경준 교체..."위기 관리에 초점"]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005066028?sid=105" class="nclicks(rig.secteco)" title="[단독] 카카오, 내년 3월부터 전면 출근...격주 놀금제도 6개월만에 폐지">[단독] 카카오, 내년 3월부터 전면 출근...격주 놀금제도 6개월만에 폐지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성SDS, 최고 권위 ‘NeurIPS’서 3년 연속 조합 최적화 논문 채택]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001576135?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001576135?sid=105"/>
-        <updated>2022-12-27T20:14:09.443Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576135?sid=105" class="nclicks(rig.secteco)" title="삼성SDS, 최고 권위 ‘NeurIPS’서 3년 연속 조합 최적화 논문 채택">삼성SDS, 최고 권위 ‘NeurIPS’서 3년 연속 조합 최적화 논문 채택</a>]]></content>
+        <title type="html"><![CDATA[삼성SDS, AI학회 ‘NeurIPS’서 3년 연속 ‘강화학습 최적화 논문’ 채택]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005394676?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005394676?sid=105"/>
+        <updated>2022-12-27T21:11:52.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005394676?sid=105" class="nclicks(rig.secteco)" title="삼성SDS, AI학회 ‘NeurIPS’서 3년 연속 ‘강화학습 최적화 논문’ 채택">삼성SDS, AI학회 ‘NeurIPS’서 3년 연속 ‘강화학습 최적화 논문’ 채택</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘자유의 몸’ 된 MB, 벌금 82억도 면제… 김경수 복권 없이 사면]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576109?sid=102" class="nclicks(rig.secteco)" title="‘자유의 몸’ 된 MB, 벌금 82억도 면제… 김경수 복권 없이 사면">‘자유의 몸’ 된 MB, 벌금 82억도 면제… 김경수 복권 없이 사면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파주 택시기사 살해범, 동거녀도 죽였다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003737150?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003737150?sid=102"/>
-        <updated>2022-12-27T18:16:10.687Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737150?sid=102" class="nclicks(rig.secteco)" title="파주 택시기사 살해범, 동거녀도 죽였다">파주 택시기사 살해범, 동거녀도 죽였다</a>]]></content>
+        <title type="html"><![CDATA[“택시기사 살해범, 죽인 동거녀 카드로도 1억원 대출”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001576161?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001576161?sid=102"/>
+        <updated>2022-12-27T21:11:52.322Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576161?sid=102" class="nclicks(rig.secteco)" title="“택시기사 살해범, 죽인 동거녀 카드로도 1억원 대출”">“택시기사 살해범, 죽인 동거녀 카드로도 1억원 대출”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 한동훈 주거침입·스토킹 혐의… 더탐사 대표 구속영장 청구]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737057?sid=102" class="nclicks(rig.secteco)" title="[단독] 한동훈 주거침입·스토킹 혐의… 더탐사 대표 구속영장 청구">[단독] 한동훈 주거침입·스토킹 혐의… 더탐사 대표 구속영장 청구</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨]전국 곳곳 출근길 눈소식…-12도 추위 지속]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011613564?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011613564?sid=103"/>
-        <updated>2022-12-27T20:14:09.450Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011613564?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨]전국 곳곳 출근길 눈소식…-12도 추위 지속">[오늘날씨]전국 곳곳 출근길 눈소식…-12도 추위 지속</a>]]></content>
+        <title type="html"><![CDATA[[오늘날씨]수도권 출근길 눈 얼어 '빙판길'…최저 '-12도' 한파]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006543848?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006543848?sid=103"/>
+        <updated>2022-12-27T21:11:52.325Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006543848?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨]수도권 출근길 눈 얼어 '빙판길'…최저 '-12도' 한파">[오늘날씨]수도권 출근길 눈 얼어 '빙판길'…최저 '-12도' 한파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일도 강추위 계속…서울·경기 미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013664167?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013664167?sid=103"/>
-        <updated>2022-12-27T20:14:09.451Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013664167?sid=103" class="nclicks(rig.secteco)" title="내일도 강추위 계속…서울·경기 미세먼지 '나쁨'">내일도 강추위 계속…서울·경기 미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[2023년 금호아트홀 상주음악가 김수연 “한국 관객과 더 많이 교감하고 싶다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001576163?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001576163?sid=103"/>
+        <updated>2022-12-27T21:11:52.327Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576163?sid=103" class="nclicks(rig.secteco)" title="2023년 금호아트홀 상주음악가 김수연 “한국 관객과 더 많이 교감하고 싶다”">2023년 금호아트홀 상주음악가 김수연 “한국 관객과 더 많이 교감하고 싶다”</a>]]></content>
     </entry>
 </feed>
