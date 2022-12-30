@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-30T06:18:12.718Z</updated>
+    <updated>2022-12-30T07:12:41.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[사면·복권 이명박 前대통령 퇴원 "국민 심려끼쳐 대단히 송구"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013672767?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013672767?sid=100"/>
-        <updated>2022-12-30T06:17:45.322Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013672767?sid=100" class="nclicks(rig.secteco)" title="사면·복권 이명박 前대통령 퇴원 &quot;국민 심려끼쳐 대단히 송구&quot;">사면·복권 이명박 前대통령 퇴원 "국민 심려끼쳐 대단히 송구"</a>]]></content>
+        <title type="html"><![CDATA[집으로 돌아온 이명박 "국민께 심려끼쳐 송구, 젊은층 성원에 감사"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002377697?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002377697?sid=100"/>
+        <updated>2022-12-30T07:12:13.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002377697?sid=100" class="nclicks(rig.secteco)" title="집으로 돌아온 이명박 &quot;국민께 심려끼쳐 송구, 젊은층 성원에 감사&quot;">집으로 돌아온 이명박 "국민께 심려끼쳐 송구, 젊은층 성원에 감사"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 尹 "반도체 세제지원 추가 확대하라"…대기업 설비투자 공제율 두자릿수로 확대]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004793646?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004793646?sid=100"/>
-        <updated>2022-12-30T06:17:45.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004793646?sid=100" class="nclicks(rig.secteco)" title="[단독] 尹 &quot;반도체 세제지원 추가 확대하라&quot;…대기업 설비투자 공제율 두자릿수로 확대">[단독] 尹 "반도체 세제지원 추가 확대하라"…대기업 설비투자 공제율 두자릿수로 확대</a>]]></content>
+        <title type="html"><![CDATA[문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002271516?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100"/>
+        <updated>2022-12-30T07:12:13.115Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100" class="nclicks(rig.secteco)" title="문재인, 尹정부 우회 비판 &quot;이태원 참사 아픔 책임지지 않는 못난 모습&quot;">문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 文 "치유되지 않은 이태원 참사, 보듬지 못하는 못난 모습…민생 고단하고 안보 불안"]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000791105?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000791105?sid=100"/>
-        <updated>2022-12-30T06:17:45.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000791105?sid=100" class="nclicks(rig.secteco)" title="[속보] 文 &quot;치유되지 않은 이태원 참사, 보듬지 못하는 못난 모습…민생 고단하고 안보 불안&quot;">[속보] 文 "치유되지 않은 이태원 참사, 보듬지 못하는 못난 모습…민생 고단하고 안보 불안"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002084928?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002084928?sid=104"/>
-        <updated>2022-12-30T06:17:45.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002084928?sid=104" class="nclicks(rig.secteco)" title="“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]">“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]</a>]]></content>
+        <title type="html"><![CDATA[尹대통령 “야당 발목잡기로 법인세 인하 온전히 못해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003250139?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003250139?sid=100"/>
+        <updated>2022-12-30T07:12:13.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250139?sid=100" class="nclicks(rig.secteco)" title="尹대통령 “야당 발목잡기로 법인세 인하 온전히 못해”">尹대통령 “야당 발목잡기로 법인세 인하 온전히 못해”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대 전기차 숨통 '조금' 트였다... ‘리스’ 전기차도 미국 IRA 혜택]]></title>
@@ -41,46 +34,60 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000715810?sid=104" class="nclicks(rig.secteco)" title="현대 전기차 숨통 '조금' 트였다... ‘리스’ 전기차도 미국 IRA 혜택">현대 전기차 숨통 '조금' 트였다... ‘리스’ 전기차도 미국 IRA 혜택</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[文정부 탈원전, ‘고물가 고통 연장’ 청구서로 돌아왔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000866247?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000866247?sid=101"/>
-        <updated>2022-12-30T05:12:35.010Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000866247?sid=101" class="nclicks(rig.secteco)" title="文정부 탈원전, ‘고물가 고통 연장’ 청구서로 돌아왔다">文정부 탈원전, ‘고물가 고통 연장’ 청구서로 돌아왔다</a>]]></content>
+        <title type="html"><![CDATA[“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002084928?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002084928?sid=104"/>
+        <updated>2022-12-30T06:17:45.328Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002084928?sid=104" class="nclicks(rig.secteco)" title="“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]">“축구는 오늘 가장 위대한 패배를 했다”…펠레에게 바쳐진 헌사 [원호연의 PIP]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[24년 만에 가장 높았던 물가…공공요금발 상승압력 ‘여전’(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005397037?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005397037?sid=101"/>
-        <updated>2022-12-30T06:17:45.330Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005397037?sid=101" class="nclicks(rig.secteco)" title="24년 만에 가장 높았던 물가…공공요금발 상승압력 ‘여전’(종합)">24년 만에 가장 높았던 물가…공공요금발 상승압력 ‘여전’(종합)</a>]]></content>
+        <title type="html"><![CDATA[연초 전기료 역대급 인상…내년 중 추가 인상 확실시(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005397196?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005397196?sid=101"/>
+        <updated>2022-12-30T07:12:13.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005397196?sid=101" class="nclicks(rig.secteco)" title="연초 전기료 역대급 인상…내년 중 추가 인상 확실시(종합)">연초 전기료 역대급 인상…내년 중 추가 인상 확실시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['결단'으로 임기 시작한 한용구 신한은행장]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000012665?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000012665?sid=101"/>
-        <updated>2022-12-30T06:17:45.331Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000012665?sid=101" class="nclicks(rig.secteco)" title="'결단'으로 임기 시작한 한용구 신한은행장">'결단'으로 임기 시작한 한용구 신한은행장</a>]]></content>
+        <title type="html"><![CDATA[고달픈 살림살이…물가상승률 ‘5.1%’ 외환위기 이후 최고치]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003196209?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003196209?sid=101"/>
+        <updated>2022-12-30T07:12:13.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003196209?sid=101" class="nclicks(rig.secteco)" title="고달픈 살림살이…물가상승률 ‘5.1%’ 외환위기 이후 최고치">고달픈 살림살이…물가상승률 ‘5.1%’ 외환위기 이후 최고치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2023 신년사] 고학수 개인정보위원장 "신뢰 기반 디지털 대전환 원년"]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000719908?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000719908?sid=105"/>
-        <updated>2022-12-30T06:17:45.332Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000719908?sid=105" class="nclicks(rig.secteco)" title="[2023 신년사] 고학수 개인정보위원장 &quot;신뢰 기반 디지털 대전환 원년&quot;">[2023 신년사] 고학수 개인정보위원장 "신뢰 기반 디지털 대전환 원년"</a>]]></content>
+        <title type="html"><![CDATA[결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000037292?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000037292?sid=101"/>
+        <updated>2022-12-30T07:12:13.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000037292?sid=101" class="nclicks(rig.secteco)" title="결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”">결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오게임즈 '우마무스메', 새 육성 히시 아케보노 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002278142?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002278142?sid=105"/>
-        <updated>2022-12-30T06:17:45.333Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002278142?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈 '우마무스메', 새 육성 히시 아케보노 공개">카카오게임즈 '우마무스메', 새 육성 히시 아케보노 공개</a>]]></content>
+        <title type="html"><![CDATA[이종호 과기정통부 장관, "새해, 글로벌 과학기술 강국·디지털 모범국가 도약"]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003069391?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003069391?sid=105"/>
+        <updated>2022-12-30T07:12:13.131Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003069391?sid=105" class="nclicks(rig.secteco)" title="이종호 과기정통부 장관, &quot;새해, 글로벌 과학기술 강국·디지털 모범국가 도약&quot;">이종호 과기정통부 장관, "새해, 글로벌 과학기술 강국·디지털 모범국가 도약"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Q&A] 중국인 여행객, 한국 입국 후 PCR 검사비·격리비용 본인 부담]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000866280?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000866280?sid=102"/>
-        <updated>2022-12-30T06:17:45.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000866280?sid=102" class="nclicks(rig.secteco)" title="[Q&amp;A] 중국인 여행객, 한국 입국 후 PCR 검사비·격리비용 본인 부담">[Q&amp;A] 중국인 여행객, 한국 입국 후 PCR 검사비·격리비용 본인 부담</a>]]></content>
+        <title type="html"><![CDATA[내달 클라우드 인증 등급제 시행…'외산 놀이터' VS '中企 사업자 판로 될 수도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011619150?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011619150?sid=105"/>
+        <updated>2022-12-30T07:12:13.131Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011619150?sid=105" class="nclicks(rig.secteco)" title="내달 클라우드 인증 등급제 시행…'외산 놀이터' VS '中企 사업자 판로 될 수도&quot;">내달 클라우드 인증 등급제 시행…'외산 놀이터' VS '中企 사업자 판로 될 수도"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국발 입국 고강도 제한…"일상회복 전 마지막 고삐 죄어야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013672931?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013672931?sid=102"/>
+        <updated>2022-12-30T07:12:13.131Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013672931?sid=102" class="nclicks(rig.secteco)" title="중국발 입국 고강도 제한…&quot;일상회복 전 마지막 고삐 죄어야&quot;">중국발 입국 고강도 제한…"일상회복 전 마지막 고삐 죄어야"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 방음터널 전수조사…화재 취약 소재 전면 교체]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003328994?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003328994?sid=102"/>
+        <updated>2022-12-30T07:12:13.132Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003328994?sid=102" class="nclicks(rig.secteco)" title="전국 방음터널 전수조사…화재 취약 소재 전면 교체">전국 방음터널 전수조사…화재 취약 소재 전면 교체</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002621470?sid=102" class="nclicks(rig.secteco)" title="[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다">[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 "사고 터지기 전까지 미뤄왔던 정부의 업무 태만 지적하지 않을 수 없다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000944211?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000944211?sid=102"/>
-        <updated>2022-12-30T04:15:59.339Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000944211?sid=102" class="nclicks(rig.secteco)" title="원희룡 &quot;사고 터지기 전까지 미뤄왔던 정부의 업무 태만 지적하지 않을 수 없다&quot;">원희룡 "사고 터지기 전까지 미뤄왔던 정부의 업무 태만 지적하지 않을 수 없다"</a>]]></content>
+        <title type="html"><![CDATA[벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003722260?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003722260?sid=103"/>
+        <updated>2022-12-30T07:12:13.134Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003722260?sid=103" class="nclicks(rig.secteco)" title="벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료">벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 벤츠코리아가 가장 잘한 일… 탄소중립 장려 복합 사회공헌활동 ‘그린플러스’ 성료]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003470922?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003470922?sid=103"/>
-        <updated>2022-12-30T06:17:45.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003470922?sid=103" class="nclicks(rig.secteco)" title="올해 벤츠코리아가 가장 잘한 일… 탄소중립 장려 복합 사회공헌활동 ‘그린플러스’ 성료">올해 벤츠코리아가 가장 잘한 일… 탄소중립 장려 복합 사회공헌활동 ‘그린플러스’ 성료</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관군·의병 함께 왜군에 맞선 '임진왜란 웅치 전적' 사적 지정]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013672110?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013672110?sid=103"/>
-        <updated>2022-12-30T06:17:45.345Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013672110?sid=103" class="nclicks(rig.secteco)" title="관군·의병 함께 왜군에 맞선 '임진왜란 웅치 전적' 사적 지정">관군·의병 함께 왜군에 맞선 '임진왜란 웅치 전적' 사적 지정</a>]]></content>
+        <title type="html"><![CDATA["20대 인터넷, 70대 TV로 뉴스 본다"…신뢰도는 전통매체 높아]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013672819?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013672819?sid=103"/>
+        <updated>2022-12-30T07:12:13.136Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013672819?sid=103" class="nclicks(rig.secteco)" title="&quot;20대 인터넷, 70대 TV로 뉴스 본다&quot;…신뢰도는 전통매체 높아">"20대 인터넷, 70대 TV로 뉴스 본다"…신뢰도는 전통매체 높아</a>]]></content>
     </entry>
 </feed>
