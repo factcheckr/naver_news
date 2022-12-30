@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-30T15:14:08.760Z</updated>
+    <updated>2022-12-30T16:17:42.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['고체추진 우주발사체' 시험 비행 성공...극도의 보안 속 진행]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001832193?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001832193?sid=100"/>
-        <updated>2022-12-30T15:13:39.579Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001832193?sid=100" class="nclicks(rig.secteco)" title="'고체추진 우주발사체' 시험 비행 성공...극도의 보안 속 진행">'고체추진 우주발사체' 시험 비행 성공...극도의 보안 속 진행</a>]]></content>
+        <title type="html"><![CDATA[고체 추진 우주발사체 시험비행 성공]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000043929?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000043929?sid=100"/>
+        <updated>2022-12-30T16:17:15.806Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000043929?sid=100" class="nclicks(rig.secteco)" title="고체 추진 우주발사체 시험비행 성공">고체 추진 우주발사체 시험비행 성공</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 尹, MB와 통화 “빨리 건강 회복하시라”]]></title>
@@ -42,17 +42,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[전기요금 1kWh당 13.1원 ↑…가스요금은 동결]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011402322?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011402322?sid=101"/>
-        <updated>2022-12-30T13:17:58.820Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011402322?sid=101" class="nclicks(rig.secteco)" title="전기요금 1kWh당 13.1원 ↑…가스요금은 동결">전기요금 1kWh당 13.1원 ↑…가스요금은 동결</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011618484?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011618484?sid=101"/>
-        <updated>2022-12-30T15:13:39.590Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011618484?sid=101" class="nclicks(rig.secteco)" title="올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)">올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/056/0011402443?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011402443?sid=101"/>
+        <updated>2022-12-30T16:17:15.821Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011402443?sid=101" class="nclicks(rig.secteco)" title="전기요금 1kWh당 13.1원 ↑…가스요금은 동결">전기요금 1kWh당 13.1원 ↑…가스요금은 동결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”]]></title>
@@ -60,6 +53,13 @@
         <link href="https://n.news.naver.com/mnews/article/243/0000037292?sid=101"/>
         <updated>2022-12-30T07:12:13.129Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000037292?sid=101" class="nclicks(rig.secteco)" title="결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”">결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011618484?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011618484?sid=101"/>
+        <updated>2022-12-30T15:13:39.590Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011618484?sid=101" class="nclicks(rig.secteco)" title="올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)">올해 물가 외환위기 이후 최대↑…외식 물가 30년만에 가장 높아(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타BJ·유저들 ‘화합의 장’…‘참여’ 확대하는 아프리카TV(종합)]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003249869?sid=102" class="nclicks(rig.secteco)" title="&quot;600만원 감기약 쓸어갔다&quot;…국내 약국 털어가는 그들 정체">"600만원 감기약 쓸어갔다"…국내 약국 털어가는 그들 정체</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006550099?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006550099?sid=103"/>
-        <updated>2022-12-30T13:17:58.832Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006550099?sid=103" class="nclicks(rig.secteco)" title="[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)">[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[연말 중국발 미세먼지의 습격…새해 서울서 뿌연 해돋이 볼 수도]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003250112?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003250112?sid=103"/>
         <updated>2022-12-30T13:17:58.833Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250112?sid=103" class="nclicks(rig.secteco)" title="연말 중국발 미세먼지의 습격…새해 서울서 뿌연 해돋이 볼 수도">연말 중국발 미세먼지의 습격…새해 서울서 뿌연 해돋이 볼 수도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006550099?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006550099?sid=103"/>
+        <updated>2022-12-30T13:17:58.832Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006550099?sid=103" class="nclicks(rig.secteco)" title="[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)">[주말날씨] 최저 -13도 중부에 1㎝ 눈…미세먼지 곳곳 '나쁨'(종합)</a>]]></content>
     </entry>
 </feed>
