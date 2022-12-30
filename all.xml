@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-29T23:15:23.384Z</updated>
+    <updated>2022-12-30T01:06:20.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[軍, 북한 무인기 대응 '취약' 인정… "실전적 훈련으로 합동성 강화" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006548624?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006548624?sid=100"/>
-        <updated>2022-12-29T21:12:02.389Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006548624?sid=100" class="nclicks(rig.secteco)" title="軍, 북한 무인기 대응 '취약' 인정… &quot;실전적 훈련으로 합동성 강화&quot;">軍, 북한 무인기 대응 '취약' 인정… "실전적 훈련으로 합동성 강화"</a>]]></content>
+        <title type="html"><![CDATA['압도적 전쟁' 꺼낸 尹대통령, 北도발에 2~3배 응징·보복 방침 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004834407?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004834407?sid=100"/>
+        <updated>2022-12-30T01:05:48.979Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004834407?sid=100" class="nclicks(rig.secteco)" title="'압도적 전쟁' 꺼낸 尹대통령, 北도발에 2~3배 응징·보복 방침">'압도적 전쟁' 꺼낸 尹대통령, 北도발에 2~3배 응징·보복 방침</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 연하장, 해외디자인 도용 의혹에…대통령실 "전혀 아냐" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001712673?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001712673?sid=100"/>
+        <updated>2022-12-30T01:05:48.981Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001712673?sid=100" class="nclicks(rig.secteco)" title="尹 연하장, 해외디자인 도용 의혹에…대통령실 &quot;전혀 아냐&quot;">尹 연하장, 해외디자인 도용 의혹에…대통령실 "전혀 아냐"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]참사 유족 최소 15명 '마약 부검' 제안 받아…"경위 밝혀야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003722317?sid=100" class="nclicks(rig.secteco)" title="[단독]참사 유족 최소 15명 '마약 부검' 제안 받아…&quot;경위 밝혀야&quot;">[단독]참사 유족 최소 15명 '마약 부검' 제안 받아…"경위 밝혀야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 日 연립여당 공명당 대표 오늘 방한… 尹대통령 면담할듯 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003737420?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003737420?sid=100"/>
-        <updated>2022-12-29T23:14:53.463Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737420?sid=100" class="nclicks(rig.secteco)" title="[단독] 日 연립여당 공명당 대표 오늘 방한… 尹대통령 면담할듯">[단독] 日 연립여당 공명당 대표 오늘 방한… 尹대통령 면담할듯</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['축구황제' 펠레, 암 투병끝 별세…"편히 잠드세요" 딸 임종 지켰다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003250072?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003250072?sid=104"/>
@@ -33,18 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250072?sid=104" class="nclicks(rig.secteco)" title="'축구황제' 펠레, 암 투병끝 별세…&quot;편히 잠드세요&quot; 딸 임종 지켰다">'축구황제' 펠레, 암 투병끝 별세…"편히 잠드세요" 딸 임종 지켰다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘중국발 입국자 방역 강화’ 동참하나…오늘 대책 발표 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000240926?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000240926?sid=104"/>
-        <updated>2022-12-29T23:14:53.469Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000240926?sid=104" class="nclicks(rig.secteco)" title="‘중국발 입국자 방역 강화’ 동참하나…오늘 대책 발표">‘중국발 입국자 방역 강화’ 동참하나…오늘 대책 발표</a>]]></content>
+        <title type="html"><![CDATA[[단독] 중국서 한국 들어오면 모두 코로나 검사 받게 한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003737418?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003737418?sid=104"/>
+        <updated>2022-12-30T01:05:48.990Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737418?sid=104" class="nclicks(rig.secteco)" title="[단독] 중국서 한국 들어오면 모두 코로나 검사 받게 한다">[단독] 중국서 한국 들어오면 모두 코로나 검사 받게 한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신협, '고정금리 인상' 통보에 금감원 "타당하지 않다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000882338?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000882338?sid=101"/>
-        <updated>2022-12-29T22:12:59.859Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000882338?sid=101" class="nclicks(rig.secteco)" title="신협, '고정금리 인상' 통보에 금감원 &quot;타당하지 않다&quot;">신협, '고정금리 인상' 통보에 금감원 "타당하지 않다"</a>]]></content>
+        <title type="html"><![CDATA[올해 물가 5.1%↑, 외환위기 이후 최고…외식물가 30년만 최고치(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013671923?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013671923?sid=101"/>
+        <updated>2022-12-30T01:05:48.992Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013671923?sid=101" class="nclicks(rig.secteco)" title="올해 물가 5.1%↑, 외환위기 이후 최고…외식물가 30년만 최고치(종합)">올해 물가 5.1%↑, 외환위기 이후 최고…외식물가 30년만 최고치(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 노동시장 과열 '진정'·기술주 반등…나스닥 2.59%↑[뉴욕마감] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,46 +54,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004834622?sid=101" class="nclicks(rig.secteco)" title="美 노동시장 과열 '진정'·기술주 반등…나스닥 2.59%↑[뉴욕마감]">美 노동시장 과열 '진정'·기술주 반등…나스닥 2.59%↑[뉴욕마감]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[광주에 들어서는 더현대 vs 스타필드, 다른 점은? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000882320?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000882320?sid=101"/>
-        <updated>2022-12-29T21:12:02.391Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000882320?sid=101" class="nclicks(rig.secteco)" title="광주에 들어서는 더현대 vs 스타필드, 다른 점은?">광주에 들어서는 더현대 vs 스타필드, 다른 점은?</a>]]></content>
+        <title type="html"><![CDATA[내년 전기·가스요금 인상안 오늘 발표…물가 24년만에 최고치 서민부담 가중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000028856?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000028856?sid=101"/>
+        <updated>2022-12-30T01:05:48.996Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000028856?sid=101" class="nclicks(rig.secteco)" title="내년 전기·가스요금 인상안 오늘 발표…물가 24년만에 최고치 서민부담 가중">내년 전기·가스요금 인상안 오늘 발표…물가 24년만에 최고치 서민부담 가중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이모티콘 보상액만 3000억…카카오, 무료 서비스 보상 선례될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011618040?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011618040?sid=105"/>
-        <updated>2022-12-29T22:12:59.864Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011618040?sid=105" class="nclicks(rig.secteco)" title="이모티콘 보상액만 3000억…카카오, 무료 서비스 보상 선례될까">이모티콘 보상액만 3000억…카카오, 무료 서비스 보상 선례될까</a>]]></content>
+        <title type="html"><![CDATA[카카오 "피해 소상공인 최대 5만원·전국민 이모티콘 지급" [종합] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004793316?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004793316?sid=105"/>
+        <updated>2022-12-30T01:05:48.998Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004793316?sid=105" class="nclicks(rig.secteco)" title="카카오 &quot;피해 소상공인 최대 5만원·전국민 이모티콘 지급&quot; [종합]">카카오 "피해 소상공인 최대 5만원·전국민 이모티콘 지급" [종합]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["같은 요금 내는데 왜 여기만 느려?"…5G·LTE 도농 품질격차 왜 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011618043?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011618043?sid=105"/>
-        <updated>2022-12-29T22:12:59.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011618043?sid=105" class="nclicks(rig.secteco)" title="&quot;같은 요금 내는데 왜 여기만 느려?&quot;…5G·LTE 도농 품질격차 왜">"같은 요금 내는데 왜 여기만 느려?"…5G·LTE 도농 품질격차 왜</a>]]></content>
+        <title type="html"><![CDATA[“왜 안 터져”…정부, LGU+ 와이파이 조사한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002139862?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002139862?sid=105"/>
+        <updated>2022-12-30T01:05:49.012Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002139862?sid=105" class="nclicks(rig.secteco)" title="“왜 안 터져”…정부, LGU+ 와이파이 조사한다">“왜 안 터져”…정부, LGU+ 와이파이 조사한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK] 제2경인고속도로 북의왕IC 인근 방음터널 화재…5명 사망, 2시간20분만에 '완진' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006548721?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006548721?sid=102"/>
-        <updated>2022-12-29T23:14:53.484Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006548721?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 제2경인고속도로 북의왕IC 인근 방음터널 화재…5명 사망, 2시간20분만에 '완진'">[뉴스1 PICK] 제2경인고속도로 북의왕IC 인근 방음터널 화재…5명 사망, 2시간20분만에 '완진'</a>]]></content>
+        <title type="html"><![CDATA[제2경인 화재 최초 발화 트럭운전자 "펑 소리 나더니 불길" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013671911?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013671911?sid=102"/>
+        <updated>2022-12-30T01:05:49.018Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013671911?sid=102" class="nclicks(rig.secteco)" title="제2경인 화재 최초 발화 트럭운전자 &quot;펑 소리 나더니 불길&quot;">제2경인 화재 최초 발화 트럭운전자 "펑 소리 나더니 불길"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘라임 몸통’ 김봉현 도주 48일만에 경기도서 검거 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000029129?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000029129?sid=102"/>
-        <updated>2022-12-29T23:14:53.484Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000029129?sid=102" class="nclicks(rig.secteco)" title="‘라임 몸통’ 김봉현 도주 48일만에 경기도서 검거">‘라임 몸통’ 김봉현 도주 48일만에 경기도서 검거</a>]]></content>
+        <title type="html"><![CDATA[[단독] 더탐사 영장 기각한 법원 “범죄 사안은 중대… 피의자들, 혐의 인정” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003737675?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003737675?sid=102"/>
+        <updated>2022-12-30T01:05:49.018Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737675?sid=102" class="nclicks(rig.secteco)" title="[단독] 더탐사 영장 기각한 법원 “범죄 사안은 중대… 피의자들, 혐의 인정”">[단독] 더탐사 영장 기각한 법원 “범죄 사안은 중대… 피의자들, 혐의 인정”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘더탐사’ 구속영장 기각 후 “한동훈이 안 되는 것도 있네” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003737670?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003737670?sid=102"/>
-        <updated>2022-12-29T23:14:53.485Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003737670?sid=102" class="nclicks(rig.secteco)" title="‘더탐사’ 구속영장 기각 후 “한동훈이 안 되는 것도 있네”">‘더탐사’ 구속영장 기각 후 “한동훈이 안 되는 것도 있네”</a>]]></content>
+        <title type="html"><![CDATA[동탄에서 잡힌 김봉현…정작 '김봉현 방지법' 피해 간다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011618306?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011618306?sid=102"/>
+        <updated>2022-12-30T01:05:49.018Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011618306?sid=102" class="nclicks(rig.secteco)" title="동탄에서 잡힌 김봉현…정작 '김봉현 방지법' 피해 간다">동탄에서 잡힌 김봉현…정작 '김봉현 방지법' 피해 간다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘날씨] 새벽까지 중부 약한 눈… 아침 최저 -14도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003769367?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 새벽까지 중부 약한 눈… 아침 최저 -14도">[오늘날씨] 새벽까지 중부 약한 눈… 아침 최저 -14도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한글로 쓴 가장 오래된 편지 '나신걸 한글편지' 보물된다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013669798?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013669798?sid=103"/>
-        <updated>2022-12-29T23:14:53.490Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013669798?sid=103" class="nclicks(rig.secteco)" title="한글로 쓴 가장 오래된 편지 '나신걸 한글편지' 보물된다">한글로 쓴 가장 오래된 편지 '나신걸 한글편지' 보물된다</a>]]></content>
+        <title type="html"><![CDATA[후크 정산금 기부 약속한 이승기, 서울대어린이병원에 20억원 전달 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/346/0000056935?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/346/0000056935?sid=103"/>
+        <updated>2022-12-30T01:05:49.018Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/346/0000056935?sid=103" class="nclicks(rig.secteco)" title="후크 정산금 기부 약속한 이승기, 서울대어린이병원에 20억원 전달">후크 정산금 기부 약속한 이승기, 서울대어린이병원에 20억원 전달</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
