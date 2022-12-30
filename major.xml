@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2022-12-30T09:13:22.427Z</updated>
+    <updated>2022-12-30T10:14:45.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001576745?sid=100" class="nclicks(rig.secteco)" title="[단독] 尹, MB와 통화 “빨리 건강 회복하시라”">[단독] 尹, MB와 통화 “빨리 건강 회복하시라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002271516?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100"/>
-        <updated>2022-12-30T07:12:13.115Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100" class="nclicks(rig.secteco)" title="문재인, 尹정부 우회 비판 &quot;이태원 참사 아픔 책임지지 않는 못난 모습&quot;">문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KF-16 추락사고의 황당한 이유…軍 "너트 빼먹어서"]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005199159?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/277/0005199159?sid=100"/>
@@ -27,18 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005199159?sid=100" class="nclicks(rig.secteco)" title="KF-16 추락사고의 황당한 이유…軍 &quot;너트 빼먹어서&quot;">KF-16 추락사고의 황당한 이유…軍 "너트 빼먹어서"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 한국산 리스 전기차도 7500달러 보조금 지급…韓업계 안도]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003471147?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003471147?sid=104"/>
-        <updated>2022-12-30T09:12:54.572Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003471147?sid=104" class="nclicks(rig.secteco)" title="美, 한국산 리스 전기차도 7500달러 보조금 지급…韓업계 안도">美, 한국산 리스 전기차도 7500달러 보조금 지급…韓업계 안도</a>]]></content>
+        <title type="html"><![CDATA[문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002271516?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100"/>
+        <updated>2022-12-30T07:12:13.115Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002271516?sid=100" class="nclicks(rig.secteco)" title="문재인, 尹정부 우회 비판 &quot;이태원 참사 아픔 책임지지 않는 못난 모습&quot;">문재인, 尹정부 우회 비판 "이태원 참사 아픔 책임지지 않는 못난 모습"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아버지의 눈물과 축구 황제의 탄생...그리고 다시 아버지의 품으로 [와이파일]]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001832123?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001832123?sid=104"/>
-        <updated>2022-12-30T09:12:54.573Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001832123?sid=104" class="nclicks(rig.secteco)" title="아버지의 눈물과 축구 황제의 탄생...그리고 다시 아버지의 품으로 [와이파일]">아버지의 눈물과 축구 황제의 탄생...그리고 다시 아버지의 품으로 [와이파일]</a>]]></content>
+        <title type="html"><![CDATA[美 “韓전기차도 ‘리스 차량’은 보조금” [뉴스 투데이]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003769520?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003769520?sid=104"/>
+        <updated>2022-12-30T10:14:05.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003769520?sid=104" class="nclicks(rig.secteco)" title="美 “韓전기차도 ‘리스 차량’은 보조금” [뉴스 투데이]">美 “韓전기차도 ‘리스 차량’은 보조금” [뉴스 투데이]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미얀마 군정, 수치 고문에 7년 형 추가…최종 형량 33년(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013673101?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013673101?sid=104"/>
+        <updated>2022-12-30T10:14:05.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013673101?sid=104" class="nclicks(rig.secteco)" title="미얀마 군정, 수치 고문에 7년 형 추가…최종 형량 33년(종합)">미얀마 군정, 수치 고문에 7년 형 추가…최종 형량 33년(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연초 전기료 역대급 인상…내년 중 추가 인상 확실시(종합)]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000037292?sid=101" class="nclicks(rig.secteco)" title="결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”">결단 보여준 한용구 신한은행장 “급격한 지점 통폐합 없다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["내년 물가 리스크는 공공요금…연초에도 5% 안팎 이어갈 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004793844?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004793844?sid=101"/>
-        <updated>2022-12-30T09:12:54.576Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004793844?sid=101" class="nclicks(rig.secteco)" title="&quot;내년 물가 리스크는 공공요금…연초에도 5% 안팎 이어갈 것&quot;">"내년 물가 리스크는 공공요금…연초에도 5% 안팎 이어갈 것"</a>]]></content>
+        <title type="html"><![CDATA[이재용 “내년 열심히 하겠다”…삼성 위기극복 기대감 고조]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000037301?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000037301?sid=101"/>
+        <updated>2022-12-30T10:14:05.791Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000037301?sid=101" class="nclicks(rig.secteco)" title="이재용 “내년 열심히 하겠다”…삼성 위기극복 기대감 고조">이재용 “내년 열심히 하겠다”…삼성 위기극복 기대감 고조</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[신년사] 이종호 과기장관 "내년, 국민 체감 과학기술 성과 낼 시점"]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004793827?sid=102" class="nclicks(rig.secteco)" title="3년 전과 다르다…사실상 '중국인 입국 금지' 카드 꺼낸 정부">3년 전과 다르다…사실상 '중국인 입국 금지' 카드 꺼낸 정부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문제의 방음터널…수차례 경고 그냥 지나쳐 사고 커졌다]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013673182?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013673182?sid=102"/>
-        <updated>2022-12-30T09:12:54.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013673182?sid=102" class="nclicks(rig.secteco)" title="문제의 방음터널…수차례 경고 그냥 지나쳐 사고 커졌다">문제의 방음터널…수차례 경고 그냥 지나쳐 사고 커졌다</a>]]></content>
+        <title type="html"><![CDATA[[단독] ‘과천 방음터널 화재’ 건설업체 대표 국토부 수주청탁 혐의 유죄]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003769515?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003769515?sid=102"/>
+        <updated>2022-12-30T10:14:05.798Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003769515?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘과천 방음터널 화재’ 건설업체 대표 국토부 수주청탁 혐의 유죄">[단독] ‘과천 방음터널 화재’ 건설업체 대표 국토부 수주청탁 혐의 유죄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002621470?sid=102" class="nclicks(rig.secteco)" title="[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다">[단독] 방음터널 화재, 진입차단시설 전기 끊기며 참변 키웠다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[내일날씨] 아침까지 '쌀쌀'…구름 사이로 올해 마지막 '해넘이']]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002671667?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002671667?sid=103"/>
+        <updated>2022-12-30T10:14:05.802Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002671667?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 아침까지 '쌀쌀'…구름 사이로 올해 마지막 '해넘이'">[내일날씨] 아침까지 '쌀쌀'…구름 사이로 올해 마지막 '해넘이'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003722260?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003722260?sid=103"/>
         <updated>2022-12-30T07:12:13.134Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003722260?sid=103" class="nclicks(rig.secteco)" title="벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료">벤츠 탄소중립 프로그램, '그린 플러스' 2만5천명 참여 속 성료</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 첫 일출 독도서 7시26분…전국 어디서나 볼 수 있을 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013673154?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013673154?sid=103"/>
-        <updated>2022-12-30T09:12:54.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013673154?sid=103" class="nclicks(rig.secteco)" title="새해 첫 일출 독도서 7시26분…전국 어디서나 볼 수 있을 듯">새해 첫 일출 독도서 7시26분…전국 어디서나 볼 수 있을 듯</a>]]></content>
     </entry>
 </feed>
