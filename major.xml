@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-02T09:14:04.378Z</updated>
+    <updated>2023-01-02T10:15:36.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹대통령, 7년만 재계 신년회 참석 "정부와 기업 한몸" 박수 터져]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004835704?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004835704?sid=100"/>
+        <updated>2023-01-02T10:15:02.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004835704?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 7년만 재계 신년회 참석 &quot;정부와 기업 한몸&quot; 박수 터져">尹대통령, 7년만 재계 신년회 참석 "정부와 기업 한몸" 박수 터져</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 文 예방…"어렵게 이룬 민주주의 후퇴 않도록 지켜야"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013677538?sid=100</id>
@@ -13,101 +20,94 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013677538?sid=100" class="nclicks(rig.secteco)" title="이재명, 文 예방…&quot;어렵게 이룬 민주주의 후퇴 않도록 지켜야&quot;(종합)">이재명, 文 예방…"어렵게 이룬 민주주의 후퇴 않도록 지켜야"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상]"北보다 낫다"... UFO 소동 '고체연료' 우주 발사체 성공 근거는]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000716224?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000716224?sid=100"/>
-        <updated>2023-01-02T09:13:36.526Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000716224?sid=100" class="nclicks(rig.secteco)" title="[영상]&quot;北보다 낫다&quot;... UFO 소동 '고체연료' 우주 발사체 성공 근거는">[영상]"北보다 낫다"... UFO 소동 '고체연료' 우주 발사체 성공 근거는</a>]]></content>
+        <title type="html"><![CDATA[尹대통령, 첫 신년회견 패스한 '유일' 대통령?…역대 정부 살펴보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000050272?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000050272?sid=100"/>
+        <updated>2023-01-02T10:15:02.325Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000050272?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 첫 신년회견 패스한 '유일' 대통령?…역대 정부 살펴보니">尹대통령, 첫 신년회견 패스한 '유일' 대통령?…역대 정부 살펴보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유승민, "尹·金 제안한 중대선거구제 환영...지금은 승자독식"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003250577?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003250577?sid=100"/>
-        <updated>2023-01-02T09:13:36.526Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250577?sid=100" class="nclicks(rig.secteco)" title="유승민, &quot;尹·金 제안한 중대선거구제 환영...지금은 승자독식&quot;">유승민, "尹·金 제안한 중대선거구제 환영...지금은 승자독식"</a>]]></content>
+        <title type="html"><![CDATA[바이든, 남북 분열 막은 링컨 소환하며 "새해엔 통합하자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013675765?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013675765?sid=104"/>
+        <updated>2023-01-02T10:15:02.325Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013675765?sid=104" class="nclicks(rig.secteco)" title="바이든, 남북 분열 막은 링컨 소환하며 &quot;새해엔 통합하자&quot;">바이든, 남북 분열 막은 링컨 소환하며 "새해엔 통합하자"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 베네딕토 16세 전 교황 조문 “한반도 평화 위해 진심으로 기도해 주셨다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003196647?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003196647?sid=104"/>
-        <updated>2023-01-02T08:18:16.059Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003196647?sid=104" class="nclicks(rig.secteco)" title="윤 대통령, 베네딕토 16세 전 교황 조문 “한반도 평화 위해 진심으로 기도해 주셨다”">윤 대통령, 베네딕토 16세 전 교황 조문 “한반도 평화 위해 진심으로 기도해 주셨다”</a>]]></content>
+        <title type="html"><![CDATA["도청 테이프 불태우고 싶나" 닉슨에 돌직구…굿바이 월터스]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003250299?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003250299?sid=104"/>
+        <updated>2023-01-02T10:15:02.326Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250299?sid=104" class="nclicks(rig.secteco)" title="&quot;도청 테이프 불태우고 싶나&quot; 닉슨에 돌직구…굿바이 월터스">"도청 테이프 불태우고 싶나" 닉슨에 돌직구…굿바이 월터스</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전임자에 '어깨띠' 건네 받지 못한 채 룰라 브라질 대통령 취임]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002271805?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002271805?sid=104"/>
-        <updated>2023-01-02T09:13:36.526Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002271805?sid=104" class="nclicks(rig.secteco)" title="전임자에 '어깨띠' 건네 받지 못한 채 룰라 브라질 대통령 취임">전임자에 '어깨띠' 건네 받지 못한 채 룰라 브라질 대통령 취임</a>]]></content>
+        <title type="html"><![CDATA[세계 경제 견인차에서 근심거리가 된 중국...‘위드코로나’ 전환에도 여전히 먹구름]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003196659?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003196659?sid=101"/>
+        <updated>2023-01-02T10:15:02.326Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003196659?sid=101" class="nclicks(rig.secteco)" title="세계 경제 견인차에서 근심거리가 된 중국...‘위드코로나’ 전환에도 여전히 먹구름">세계 경제 견인차에서 근심거리가 된 중국...‘위드코로나’ 전환에도 여전히 먹구름</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용·최태원·정의선·구광모 한자리에…경제계 "수출 대한민국 드높이자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004140470?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004140470?sid=101"/>
-        <updated>2023-01-02T09:13:36.526Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004140470?sid=101" class="nclicks(rig.secteco)" title="이재용·최태원·정의선·구광모 한자리에…경제계 &quot;수출 대한민국 드높이자&quot;">이재용·최태원·정의선·구광모 한자리에…경제계 "수출 대한민국 드높이자"</a>]]></content>
+        <title type="html"><![CDATA[정기예금 가입액 30%는 연 이자가 무려 5%…지금 가입하면?]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005398530?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005398530?sid=101"/>
+        <updated>2023-01-02T10:15:02.330Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005398530?sid=101" class="nclicks(rig.secteco)" title="정기예금 가입액 30%는 연 이자가 무려 5%…지금 가입하면?">정기예금 가입액 30%는 연 이자가 무려 5%…지금 가입하면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최정우 포스코그룹 회장 "위기 속 기회의 씨앗 선점해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003723288?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003723288?sid=101"/>
-        <updated>2023-01-02T08:18:16.059Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003723288?sid=101" class="nclicks(rig.secteco)" title="최정우 포스코그룹 회장 &quot;위기 속 기회의 씨앗 선점해야&quot;">최정우 포스코그룹 회장 "위기 속 기회의 씨앗 선점해야"</a>]]></content>
+        <title type="html"><![CDATA[설 맞이 온누리상품권 카드·모바일 10% 할인 판매]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003723179?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003723179?sid=101"/>
+        <updated>2023-01-02T10:15:02.333Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003723179?sid=101" class="nclicks(rig.secteco)" title="설 맞이 온누리상품권 카드·모바일 10% 할인 판매">설 맞이 온누리상품권 카드·모바일 10% 할인 판매</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강남3구·용산 빼고 부동산 규제지역 다 푼다]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013677545?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013677545?sid=101"/>
-        <updated>2023-01-02T09:13:36.529Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013677545?sid=101" class="nclicks(rig.secteco)" title="강남3구·용산 빼고 부동산 규제지역 다 푼다">강남3구·용산 빼고 부동산 규제지역 다 푼다</a>]]></content>
+        <title type="html"><![CDATA['보상안 마련' 카카오 비대위 해산…지급시점은 TF 꾸려 대응]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002278354?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002278354?sid=105"/>
+        <updated>2023-01-02T10:15:02.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002278354?sid=105" class="nclicks(rig.secteco)" title="'보상안 마련' 카카오 비대위 해산…지급시점은 TF 꾸려 대응">'보상안 마련' 카카오 비대위 해산…지급시점은 TF 꾸려 대응</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[아!이뉴스] 韓 게임 시장 20조원 돌파…택시 대란 해소될까]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000720351?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000720351?sid=105"/>
-        <updated>2023-01-02T09:13:36.530Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000720351?sid=105" class="nclicks(rig.secteco)" title="[아!이뉴스] 韓 게임 시장 20조원 돌파…택시 대란 해소될까">[아!이뉴스] 韓 게임 시장 20조원 돌파…택시 대란 해소될까</a>]]></content>
+        <title type="html"><![CDATA[갤S23 울트라 엣지 빼고 평평해질까...색상은]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003069818?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003069818?sid=105"/>
+        <updated>2023-01-02T10:15:02.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003069818?sid=105" class="nclicks(rig.secteco)" title="갤S23 울트라 엣지 빼고 평평해질까...색상은">갤S23 울트라 엣지 빼고 평평해질까...색상은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유영상 사장 SKT-SKB '한 몸' 강조…"실질적 한 회사 만든다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011623271?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011623271?sid=105"/>
-        <updated>2023-01-02T09:13:36.530Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011623271?sid=105" class="nclicks(rig.secteco)" title="유영상 사장 SKT-SKB '한 몸' 강조…&quot;실질적 한 회사 만든다&quot;">유영상 사장 SKT-SKB '한 몸' 강조…"실질적 한 회사 만든다"</a>]]></content>
+        <title type="html"><![CDATA[새해에도 '지하철 탑승' 거부당한 장애인들 "폭력 멈춰주십시오"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002377997?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002377997?sid=102"/>
+        <updated>2023-01-02T10:15:02.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002377997?sid=102" class="nclicks(rig.secteco)" title="새해에도 '지하철 탑승' 거부당한 장애인들 &quot;폭력 멈춰주십시오&quot;">새해에도 '지하철 탑승' 거부당한 장애인들 "폭력 멈춰주십시오"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전장연, 삼각지역서 7시간째 대치 중…휠체어로 들이받아 경찰 부상도]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003770157?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003770157?sid=102"/>
-        <updated>2023-01-02T09:13:36.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003770157?sid=102" class="nclicks(rig.secteco)" title="전장연, 삼각지역서 7시간째 대치 중…휠체어로 들이받아 경찰 부상도">전장연, 삼각지역서 7시간째 대치 중…휠체어로 들이받아 경찰 부상도</a>]]></content>
+        <title type="html"><![CDATA[하루 550명 PCR 검사 가능한데 中서 1000명 넘게 입국… 방역 문제 없나]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000866880?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000866880?sid=102"/>
+        <updated>2023-01-02T10:15:02.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000866880?sid=102" class="nclicks(rig.secteco)" title="하루 550명 PCR 검사 가능한데 中서 1000명 넘게 입국… 방역 문제 없나">하루 550명 PCR 검사 가능한데 中서 1000명 넘게 입국… 방역 문제 없나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK]'중국발 입국자' 전원 PCR 검사…비자발급도 중단]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006554607?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006554607?sid=102"/>
-        <updated>2023-01-02T09:13:36.532Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006554607?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]'중국발 입국자' 전원 PCR 검사…비자발급도 중단">[뉴스1 PICK]'중국발 입국자' 전원 PCR 검사…비자발급도 중단</a>]]></content>
+        <title type="html"><![CDATA['대장동 수익 275억 은닉' 2명 구속기소… 檢, 김만배 조사 시점 저울질]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000716229?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000716229?sid=102"/>
+        <updated>2023-01-02T10:15:02.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000716229?sid=102" class="nclicks(rig.secteco)" title="'대장동 수익 275억 은닉' 2명 구속기소… 檢, 김만배 조사 시점 저울질">'대장동 수익 275억 은닉' 2명 구속기소… 檢, 김만배 조사 시점 저울질</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰, 김만배 범죄수익 은닉한 최우향·이한성 구속 기소… 148억원 환수]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003250593?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003250593?sid=102"/>
-        <updated>2023-01-02T09:13:36.532Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250593?sid=102" class="nclicks(rig.secteco)" title="검찰, 김만배 범죄수익 은닉한 최우향·이한성 구속 기소… 148억원 환수">검찰, 김만배 범죄수익 은닉한 최우향·이한성 구속 기소… 148억원 환수</a>]]></content>
+        <title type="html"><![CDATA[`선한 영향력`…임영웅 팬들, 소외계층 구석구석 챙긴다]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002776114?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002776114?sid=103"/>
+        <updated>2023-01-02T10:15:02.353Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002776114?sid=103" class="nclicks(rig.secteco)" title="`선한 영향력`…임영웅 팬들, 소외계층 구석구석 챙긴다">`선한 영향력`…임영웅 팬들, 소외계층 구석구석 챙긴다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이유·BTS 정국, 美 롤링스톤 선정 '역대 위대한 가수 200']]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003250599?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003250599?sid=103"/>
-        <updated>2023-01-02T09:13:36.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250599?sid=103" class="nclicks(rig.secteco)" title="아이유·BTS 정국, 美 롤링스톤 선정 '역대 위대한 가수 200'">아이유·BTS 정국, 美 롤링스톤 선정 '역대 위대한 가수 200'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임홍빈 문학사상 회장 별세…'이상문학상' 발전 공로]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003250596?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003250596?sid=103"/>
-        <updated>2023-01-02T09:13:36.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003250596?sid=103" class="nclicks(rig.secteco)" title="임홍빈 문학사상 회장 별세…'이상문학상' 발전 공로">임홍빈 문학사상 회장 별세…'이상문학상' 발전 공로</a>]]></content>
+        <title type="html"><![CDATA[사우디에 공장 짓는 현대차, 전기차 보조금 청신호]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000866763?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000866763?sid=103"/>
+        <updated>2023-01-02T10:15:02.357Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000866763?sid=103" class="nclicks(rig.secteco)" title="사우디에 공장 짓는 현대차, 전기차 보조금 청신호">사우디에 공장 짓는 현대차, 전기차 보조금 청신호</a>]]></content>
     </entry>
 </feed>
