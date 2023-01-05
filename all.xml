@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-05T02:39:58.261Z</updated>
+    <updated>2023-01-05T03:15:23.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[여야, 이태원 참사 국정조사 기간 10일 연장 합의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003197279?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003197279?sid=100"/>
-        <updated>2023-01-05T02:39:30.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003197279?sid=100" class="nclicks(rig.secteco)" title="여야, 이태원 참사 국정조사 기간 10일 연장 합의">여야, 이태원 참사 국정조사 기간 10일 연장 합의</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“용산 안뚫렸다”던 軍…북한 무인기 진입 뒤늦게 시인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005070352?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005070352?sid=100"/>
-        <updated>2023-01-05T02:39:30.948Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005070352?sid=100" class="nclicks(rig.secteco)" title="“용산 안뚫렸다”던 軍…북한 무인기 진입 뒤늦게 시인">“용산 안뚫렸다”던 軍…북한 무인기 진입 뒤늦게 시인</a>]]></content>
+        <title type="html"><![CDATA[이태원 참사 국조, 17일까지 열흘 연장…내일 본회의 열어 의결 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013683242?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013683242?sid=100"/>
+        <updated>2023-01-05T03:14:52.245Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013683242?sid=100" class="nclicks(rig.secteco)" title="이태원 참사 국조, 17일까지 열흘 연장…내일 본회의 열어 의결">이태원 참사 국조, 17일까지 열흘 연장…내일 본회의 열어 의결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 권성동 "전대 불출마... 尹 최측근 지도부 입성 우려 수용" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -24,6 +17,13 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000716758?sid=100"/>
         <updated>2023-01-05T02:39:30.950Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000716758?sid=100" class="nclicks(rig.secteco)" title="[속보] 권성동 &quot;전대 불출마... 尹 최측근 지도부 입성 우려 수용&quot;">[속보] 권성동 "전대 불출마... 尹 최측근 지도부 입성 우려 수용"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]軍 "北무인기, 용산 대통령 경호 상공 영역 진입" 뒤늦게 시인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000945236?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000945236?sid=100"/>
+        <updated>2023-01-05T03:14:52.250Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000945236?sid=100" class="nclicks(rig.secteco)" title="[속보]軍 &quot;北무인기, 용산 대통령 경호 상공 영역 진입&quot; 뒤늦게 시인">[속보]軍 "北무인기, 용산 대통령 경호 상공 영역 진입" 뒤늦게 시인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美하원, 이틀째 재투표에도 의장 선출 실패…의장 공백 사태 지속(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,25 +40,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002087170?sid=104" class="nclicks(rig.secteco)" title="EU도 “중국발 여행객, 출발 48시간 전 코로나 검사해야”">EU도 “중국발 여행객, 출발 48시간 전 코로나 검사해야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[CES 2023]"LG 올레드 10년 결실"…거대 올레드로 전시관 압도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011627963?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011627963?sid=101"/>
-        <updated>2023-01-05T02:39:30.957Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011627963?sid=101" class="nclicks(rig.secteco)" title="[CES 2023]&quot;LG 올레드 10년 결실&quot;…거대 올레드로 전시관 압도">[CES 2023]"LG 올레드 10년 결실"…거대 올레드로 전시관 압도</a>]]></content>
+        <title type="html"><![CDATA[[CES 2023]정기선 HD현대 대표 "바다는 아직 미지의 영토…`발견의 새 시대` 열 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002776826?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002776826?sid=101"/>
+        <updated>2023-01-05T03:14:52.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002776826?sid=101" class="nclicks(rig.secteco)" title="[CES 2023]정기선 HD현대 대표 &quot;바다는 아직 미지의 영토…`발견의 새 시대` 열 것&quot;">[CES 2023]정기선 HD현대 대표 "바다는 아직 미지의 영토…`발견의 새 시대` 열 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[CES 2023] "잘 알고 잘 하는 바다에서 시작"…HD현대 정기선의 큰 포부 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002673106?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002673106?sid=101"/>
-        <updated>2023-01-05T02:39:30.959Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002673106?sid=101" class="nclicks(rig.secteco)" title="[CES 2023] &quot;잘 알고 잘 하는 바다에서 시작&quot;…HD현대 정기선의 큰 포부">[CES 2023] "잘 알고 잘 하는 바다에서 시작"…HD현대 정기선의 큰 포부</a>]]></content>
+        <title type="html"><![CDATA[“우리를 예측하지 마라”…美 연준 시장에 경고장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002087123?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002087123?sid=101"/>
+        <updated>2023-01-05T03:14:52.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002087123?sid=101" class="nclicks(rig.secteco)" title="“우리를 예측하지 마라”…美 연준 시장에 경고장">“우리를 예측하지 마라”…美 연준 시장에 경고장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연준 “증시 오르면 일 어려워져”…월가는 “두고봐야” 무시 [김영필의 3분 월스트리트] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004141439?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004141439?sid=101"/>
-        <updated>2023-01-04T23:14:00.624Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004141439?sid=101" class="nclicks(rig.secteco)" title="연준 “증시 오르면 일 어려워져”…월가는 “두고봐야” 무시 [김영필의 3분 월스트리트]">연준 “증시 오르면 일 어려워져”…월가는 “두고봐야” 무시 [김영필의 3분 월스트리트]</a>]]></content>
+        <title type="html"><![CDATA[“내 전 재산이 한순간에”…집값 10~20% 하락땐 ‘깡통전세’ 쏟아진다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005070332?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005070332?sid=101"/>
+        <updated>2023-01-05T03:14:52.260Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005070332?sid=101" class="nclicks(rig.secteco)" title="“내 전 재산이 한순간에”…집값 10~20% 하락땐 ‘깡통전세’ 쏟아진다">“내 전 재산이 한순간에”…집값 10~20% 하락땐 ‘깡통전세’ 쏟아진다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오, 먹통 사태 보상으로 ‘춘식이’ 풀었다…“수백억짜리” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002622180?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002622180?sid=105"/>
+        <updated>2023-01-05T03:14:52.261Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002622180?sid=105" class="nclicks(rig.secteco)" title="카카오, 먹통 사태 보상으로 ‘춘식이’ 풀었다…“수백억짜리”">카카오, 먹통 사태 보상으로 ‘춘식이’ 풀었다…“수백억짜리”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LGU+ 오리지널 콘텐츠 제작 본격화…'디저볼래' U+모바일tv 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011627797?sid=105" class="nclicks(rig.secteco)" title="LGU+ 오리지널 콘텐츠 제작 본격화…'디저볼래' U+모바일tv 공개">LGU+ 오리지널 콘텐츠 제작 본격화…'디저볼래' U+모바일tv 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가상 경북도민 1000만명 된다…경북, 메타버스 확대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011625699?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011625699?sid=105"/>
-        <updated>2023-01-05T02:39:30.969Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011625699?sid=105" class="nclicks(rig.secteco)" title="가상 경북도민 1000만명 된다…경북, 메타버스 확대">가상 경북도민 1000만명 된다…경북, 메타버스 확대</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[갈수록 예사롭지 않네…중국發 입국자 양성률 30% 돌파 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003724399?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003724399?sid=102"/>
@@ -82,32 +82,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003724399?sid=102" class="nclicks(rig.secteco)" title="갈수록 예사롭지 않네…중국發 입국자 양성률 30% 돌파">갈수록 예사롭지 않네…중국發 입국자 양성률 30% 돌파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 'KBS 오보 연루' 신성식 검사장 기소... 한동훈 명예훼손 혐의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000716746?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000716746?sid=102"/>
-        <updated>2023-01-05T02:39:30.984Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000716746?sid=102" class="nclicks(rig.secteco)" title="[속보] 'KBS 오보 연루' 신성식 검사장 기소... 한동훈 명예훼손 혐의">[속보] 'KBS 오보 연루' 신성식 검사장 기소... 한동훈 명예훼손 혐의</a>]]></content>
+        <title type="html"><![CDATA[‘KBS 한동훈 오보 때 허위 정보 흘린 의혹’ 신성식 검사장 기소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003738740?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003738740?sid=102"/>
+        <updated>2023-01-05T03:14:52.265Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003738740?sid=102" class="nclicks(rig.secteco)" title="‘KBS 한동훈 오보 때 허위 정보 흘린 의혹’ 신성식 검사장 기소">‘KBS 한동훈 오보 때 허위 정보 흘린 의혹’ 신성식 검사장 기소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]중국발 입국자 103명 추가확진, 양성률 31.5%…국내 신규확진 6만4,106명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000945218?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000945218?sid=102"/>
-        <updated>2023-01-05T02:39:30.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000945218?sid=102" class="nclicks(rig.secteco)" title="[속보]중국발 입국자 103명 추가확진, 양성률 31.5%…국내 신규확진 6만4,106명">[속보]중국발 입국자 103명 추가확진, 양성률 31.5%…국내 신규확진 6만4,106명</a>]]></content>
+        <title type="html"><![CDATA[확진되자 튄 40대 중국인 ‘포착’…잡히면 이렇게 된다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003330229?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003330229?sid=102"/>
+        <updated>2023-01-05T03:14:52.266Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330229?sid=102" class="nclicks(rig.secteco)" title="확진되자 튄 40대 중국인 ‘포착’…잡히면 이렇게 된다">확진되자 튄 40대 중국인 ‘포착’…잡히면 이렇게 된다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차·기아, 지난해 미국 판매 역대 두번째로 많았다… 전기차 65.1% 급성장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000867590?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000867590?sid=103"/>
-        <updated>2023-01-05T02:39:30.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000867590?sid=103" class="nclicks(rig.secteco)" title="현대차·기아, 지난해 미국 판매 역대 두번째로 많았다… 전기차 65.1% 급성장">현대차·기아, 지난해 미국 판매 역대 두번째로 많았다… 전기차 65.1% 급성장</a>]]></content>
+        <title type="html"><![CDATA[폭스바겐, EV세단 ‘ID.7’ 공개…“한번 충전으로 서울-부산 왕복” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002087231?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002087231?sid=103"/>
+        <updated>2023-01-05T03:14:52.267Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002087231?sid=103" class="nclicks(rig.secteco)" title="폭스바겐, EV세단 ‘ID.7’ 공개…“한번 충전으로 서울-부산 왕복”">폭스바겐, EV세단 ‘ID.7’ 공개…“한번 충전으로 서울-부산 왕복”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폭스바겐 전기차 'ID.7'…디지털 '위장막' 쓰고 CES서 첫 선 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004796132?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004796132?sid=103"/>
-        <updated>2023-01-05T02:39:30.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004796132?sid=103" class="nclicks(rig.secteco)" title="폭스바겐 전기차 'ID.7'…디지털 '위장막' 쓰고 CES서 첫 선">폭스바겐 전기차 'ID.7'…디지털 '위장막' 쓰고 CES서 첫 선</a>]]></content>
+        <title type="html"><![CDATA[조선 때도 '아빠 찬스'…외교문서 담당한 '사자관청'에선 어떤 일이 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006560052?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006560052?sid=103"/>
+        <updated>2023-01-05T03:14:52.269Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006560052?sid=103" class="nclicks(rig.secteco)" title="조선 때도 '아빠 찬스'…외교문서 담당한 '사자관청'에선 어떤 일이">조선 때도 '아빠 찬스'…외교문서 담당한 '사자관청'에선 어떤 일이</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
