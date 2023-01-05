@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-05T16:21:39.871Z</updated>
+    <updated>2023-01-05T17:13:27.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대통령실, 의혹 제기한 민주당 의원에 "정보 어디서 났나?"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002378355?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002378355?sid=100"/>
-        <updated>2023-01-05T16:21:12.266Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002378355?sid=100" class="nclicks(rig.secteco)" title="대통령실, 의혹 제기한 민주당 의원에 &quot;정보 어디서 났나?&quot;">대통령실, 의혹 제기한 민주당 의원에 "정보 어디서 났나?"</a>]]></content>
+        <title type="html"><![CDATA[대통령실, '꼬리자르기' 브리핑? 尹대통령 '北무인기 항적' 언제 알았나]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002272298?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002272298?sid=100"/>
+        <updated>2023-01-05T17:12:54.746Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002272298?sid=100" class="nclicks(rig.secteco)" title="대통령실, '꼬리자르기' 브리핑? 尹대통령 '北무인기 항적' 언제 알았나">대통령실, '꼬리자르기' 브리핑? 尹대통령 '北무인기 항적' 언제 알았나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국정원 "北무인기, 대통령실 촬영했을 가능성"…민주당 '맹폭']]></title>
@@ -20,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003724683?sid=100" class="nclicks(rig.secteco)" title="국정원 &quot;北무인기, 대통령실 촬영했을 가능성&quot;…민주당 '맹폭'">국정원 "北무인기, 대통령실 촬영했을 가능성"…민주당 '맹폭'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권성동, 당대표 불출마 선언…친윤, 김기현으로 교통정리?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003251471?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003251471?sid=100"/>
-        <updated>2023-01-05T16:21:12.270Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251471?sid=100" class="nclicks(rig.secteco)" title="권성동, 당대표 불출마 선언…친윤, 김기현으로 교통정리?">권성동, 당대표 불출마 선언…친윤, 김기현으로 교통정리?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO “中 코로나 입원자 수, 일주일 새 46% 증가”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000867798?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000867798?sid=104"/>
-        <updated>2023-01-05T16:21:12.272Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000867798?sid=104" class="nclicks(rig.secteco)" title="WHO “中 코로나 입원자 수, 일주일 새 46% 증가”">WHO “中 코로나 입원자 수, 일주일 새 46% 증가”</a>]]></content>
+        <title type="html"><![CDATA['윤심' 실리는 김기현…나경원 '결단'에 관심 집중]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000194181?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000194181?sid=100"/>
+        <updated>2023-01-05T17:12:54.748Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000194181?sid=100" class="nclicks(rig.secteco)" title="'윤심' 실리는 김기현…나경원 '결단'에 관심 집중">'윤심' 실리는 김기현…나경원 '결단'에 관심 집중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영면에 든 베네딕토 16세…프란치스코 교황이 미사 봉헌]]></title>
@@ -39,6 +32,13 @@
         <link href="https://n.news.naver.com/mnews/article/081/0003330383?sid=104"/>
         <updated>2023-01-05T15:15:41.730Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330383?sid=104" class="nclicks(rig.secteco)" title="영면에 든 베네딕토 16세…프란치스코 교황이 미사 봉헌">영면에 든 베네딕토 16세…프란치스코 교황이 미사 봉헌</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO “中 코로나 입원자 수, 일주일 새 46% 증가”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000867798?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000867798?sid=104"/>
+        <updated>2023-01-05T16:21:12.272Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000867798?sid=104" class="nclicks(rig.secteco)" title="WHO “中 코로나 입원자 수, 일주일 새 46% 증가”">WHO “中 코로나 입원자 수, 일주일 새 46% 증가”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행은 여전히 단축영업 중…금융위원장 "정상화해야"]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251361?sid=101" class="nclicks(rig.secteco)" title="잇단 사고에 뿔난 SRT 사장...&quot;현재 철도 유지보수 체제 불안&quot;">잇단 사고에 뿔난 SRT 사장..."현재 철도 유지보수 체제 불안"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한종희 부회장 “연결을 통해 꿈을 현실로”… 삼성전자 초연결 비전 제시]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003771436?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003771436?sid=101"/>
-        <updated>2023-01-05T16:21:12.280Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771436?sid=101" class="nclicks(rig.secteco)" title="한종희 부회장 “연결을 통해 꿈을 현실로”… 삼성전자 초연결 비전 제시">한종희 부회장 “연결을 통해 꿈을 현실로”… 삼성전자 초연결 비전 제시</a>]]></content>
+        <title type="html"><![CDATA[서울시, ‘깡통전세 피해자’ 금융지원·예방책 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003771426?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003771426?sid=101"/>
+        <updated>2023-01-05T17:12:54.755Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771426?sid=101" class="nclicks(rig.secteco)" title="서울시, ‘깡통전세 피해자’ 금융지원·예방책 추진">서울시, ‘깡통전세 피해자’ 금융지원·예방책 추진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새 출발선에 선 ‘카트라이더’, 후속작 드리프트로 게임성·리그 더 키운다[종합]]]></title>
