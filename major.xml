@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-07T09:13:02.584Z</updated>
+    <updated>2023-01-07T10:13:54.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251693?sid=100" class="nclicks(rig.secteco)" title="與 &quot;이재명 수사 이제 시작, 그 당당함 얼마나 갈지 지켜볼 것&quot;">與 "이재명 수사 이제 시작, 그 당당함 얼마나 갈지 지켜볼 것"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주당 복당 박지원 "지금은 이재명 대표 중심으로 싸울 때"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013687208?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013687208?sid=100"/>
+        <updated>2023-01-07T10:13:26.083Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013687208?sid=100" class="nclicks(rig.secteco)" title="민주당 복당 박지원 &quot;지금은 이재명 대표 중심으로 싸울 때&quot;">민주당 복당 박지원 "지금은 이재명 대표 중심으로 싸울 때"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대통령실 이어 홍준표·이재오도 나경원 직격 "당신은 안 된다는 메시지"]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001246385?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001246385?sid=100"/>
         <updated>2023-01-07T09:12:35.220Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001246385?sid=100" class="nclicks(rig.secteco)" title="대통령실 이어 홍준표·이재오도 나경원 직격 &quot;당신은 안 된다는 메시지&quot;">대통령실 이어 홍준표·이재오도 나경원 직격 "당신은 안 된다는 메시지"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 온 박지원 “결국은 이재명…힘모아 싸우자 ”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002087944?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002087944?sid=100"/>
-        <updated>2023-01-07T09:12:35.224Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002087944?sid=100" class="nclicks(rig.secteco)" title="광주 온 박지원 “결국은 이재명…힘모아 싸우자 ”">광주 온 박지원 “결국은 이재명…힘모아 싸우자 ”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 서열3위 하원의장에 공화 케빈 매카시…"中과 경쟁서 승리"(종합2보)]]></title>
@@ -34,25 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006563846?sid=104" class="nclicks(rig.secteco)" title="美 서열3위 하원의장에 공화 케빈 매카시…&quot;中과 경쟁서 승리&quot;(종합2보)">美 서열3위 하원의장에 공화 케빈 매카시…"中과 경쟁서 승리"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["휴전은 무슨" 푸틴의 속임수였나…우크라에 박격포 꽂혔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002673700?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002673700?sid=104"/>
-        <updated>2023-01-07T08:16:19.805Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002673700?sid=104" class="nclicks(rig.secteco)" title="&quot;휴전은 무슨&quot; 푸틴의 속임수였나…우크라에 박격포 꽂혔다">"휴전은 무슨" 푸틴의 속임수였나…우크라에 박격포 꽂혔다</a>]]></content>
+        <title type="html"><![CDATA['中규제 비판' 마윈, 알리바바 계열 앤트그룹 지배권 포기]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011631424?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011631424?sid=104"/>
+        <updated>2023-01-07T10:13:26.088Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011631424?sid=104" class="nclicks(rig.secteco)" title="'中규제 비판' 마윈, 알리바바 계열 앤트그룹 지배권 포기">'中규제 비판' 마윈, 알리바바 계열 앤트그룹 지배권 포기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[CES 2023] 최태원, 깜짝 방문..."탄소감축 전시에 잘 풀어냈다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002278957?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002278957?sid=101"/>
-        <updated>2023-01-07T07:12:41.740Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002278957?sid=101" class="nclicks(rig.secteco)" title="[CES 2023] 최태원, 깜짝 방문...&quot;탄소감축 전시에 잘 풀어냈다&quot;">[CES 2023] 최태원, 깜짝 방문..."탄소감축 전시에 잘 풀어냈다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콧대 낮춘 테슬라...1000만원 대 가격 인하]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004952578?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004952578?sid=101"/>
-        <updated>2023-01-07T08:16:19.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004952578?sid=101" class="nclicks(rig.secteco)" title="콧대 낮춘 테슬라...1000만원 대 가격 인하">콧대 낮춘 테슬라...1000만원 대 가격 인하</a>]]></content>
+        <title type="html"><![CDATA['깜짝 등장' 최태원, 스마트 안경 써보고 푸드 트럭서 '먹방' [CES 2023]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005401836?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005401836?sid=101"/>
+        <updated>2023-01-07T10:13:26.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005401836?sid=101" class="nclicks(rig.secteco)" title="'깜짝 등장' 최태원, 스마트 안경 써보고 푸드 트럭서 '먹방' [CES 2023]">'깜짝 등장' 최태원, 스마트 안경 써보고 푸드 트럭서 '먹방' [CES 2023]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['방미' 원희룡 "규제 풀었다고 집값 오르진 않을 것…실수요 문제 풀어야"]]></title>
@@ -62,39 +55,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006563823?sid=101" class="nclicks(rig.secteco)" title="'방미' 원희룡 &quot;규제 풀었다고 집값 오르진 않을 것…실수요 문제 풀어야&quot;">'방미' 원희룡 "규제 풀었다고 집값 오르진 않을 것…실수요 문제 풀어야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“카카오 먹통 보상, 알고보니 자동결제 꼼수” 소비자단체 부글부글]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003197677?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003197677?sid=105"/>
-        <updated>2023-01-07T06:16:05.686Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003197677?sid=105" class="nclicks(rig.secteco)" title="“카카오 먹통 보상, 알고보니 자동결제 꼼수” 소비자단체 부글부글">“카카오 먹통 보상, 알고보니 자동결제 꼼수” 소비자단체 부글부글</a>]]></content>
+        <title type="html"><![CDATA[콧대 낮춘 테슬라...1000만원 대 가격 인하]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004952578?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004952578?sid=101"/>
+        <updated>2023-01-07T08:16:19.810Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004952578?sid=101" class="nclicks(rig.secteco)" title="콧대 낮춘 테슬라...1000만원 대 가격 인하">콧대 낮춘 테슬라...1000만원 대 가격 인하</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허은아 “웹3와 메타버스는 화두…메타버스 산업법 통과 노력”[CES 2023]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005401912?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005401912?sid=105"/>
-        <updated>2023-01-07T07:12:41.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005401912?sid=105" class="nclicks(rig.secteco)" title="허은아 “웹3와 메타버스는 화두…메타버스 산업법 통과 노력”[CES 2023]">허은아 “웹3와 메타버스는 화두…메타버스 산업법 통과 노력”[CES 2023]</a>]]></content>
+        <title type="html"><![CDATA[카카오 보상에 숨겨진 '유료 가입' 꼼수?…소비자 분통]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000327935?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000327935?sid=105"/>
+        <updated>2023-01-07T10:13:26.093Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000327935?sid=105" class="nclicks(rig.secteco)" title="카카오 보상에 숨겨진 '유료 가입' 꼼수?…소비자 분통">카카오 보상에 숨겨진 '유료 가입' 꼼수?…소비자 분통</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입국전 검사 의무화에도…中 입국자 23.5% 양성]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000578257?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000578257?sid=102"/>
-        <updated>2023-01-07T09:12:35.242Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000578257?sid=102" class="nclicks(rig.secteco)" title="입국전 검사 의무화에도…中 입국자 23.5% 양성">입국전 검사 의무화에도…中 입국자 23.5% 양성</a>]]></content>
+        <title type="html"><![CDATA[과기정통부, CES 현장서 'K-메타버스' 홍보 나서]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006563896?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006563896?sid=105"/>
+        <updated>2023-01-07T10:13:26.094Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006563896?sid=105" class="nclicks(rig.secteco)" title="과기정통부, CES 현장서 'K-메타버스' 홍보 나서">과기정통부, CES 현장서 'K-메타버스' 홍보 나서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 주말 추위 대신 짙은 먼지…비상저감조치 발령 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000578256?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000578256?sid=102"/>
-        <updated>2023-01-07T09:12:35.244Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000578256?sid=102" class="nclicks(rig.secteco)" title="[날씨] 주말 추위 대신 짙은 먼지…비상저감조치 발령 중">[날씨] 주말 추위 대신 짙은 먼지…비상저감조치 발령 중</a>]]></content>
+        <title type="html"><![CDATA[해외유입 80%가 중국발…홍콩·마카오 입국자도 '음성확인서']]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000327936?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000327936?sid=102"/>
+        <updated>2023-01-07T10:13:26.095Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000327936?sid=102" class="nclicks(rig.secteco)" title="해외유입 80%가 중국발…홍콩·마카오 입국자도 '음성확인서'">해외유입 80%가 중국발…홍콩·마카오 입국자도 '음성확인서'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤미향, 기부금 횡령의혹 5년구형 與 "위안부 할머니 통탄 해소돼야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005401905?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005401905?sid=102"/>
-        <updated>2023-01-07T09:12:35.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005401905?sid=102" class="nclicks(rig.secteco)" title="윤미향, 기부금 횡령의혹 5년구형 與 &quot;위안부 할머니 통탄 해소돼야&quot;">윤미향, 기부금 횡령의혹 5년구형 與 "위안부 할머니 통탄 해소돼야"</a>]]></content>
+        <title type="html"><![CDATA[내일도 고농도 미세먼지 이어져…중부·경북 ‘비상저감조치’]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011406623?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011406623?sid=102"/>
+        <updated>2023-01-07T10:13:26.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011406623?sid=102" class="nclicks(rig.secteco)" title="내일도 고농도 미세먼지 이어져…중부·경북 ‘비상저감조치’">내일도 고농도 미세먼지 이어져…중부·경북 ‘비상저감조치’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11살 제자 PC방 갔다고 겨루기 해 150회 때린 합기도 관장]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000792293?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000792293?sid=102"/>
+        <updated>2023-01-07T10:13:26.097Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000792293?sid=102" class="nclicks(rig.secteco)" title="11살 제자 PC방 갔다고 겨루기 해 150회 때린 합기도 관장">11살 제자 PC방 갔다고 겨루기 해 150회 때린 합기도 관장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“콜록콜록, 미세먼지 숨 막혀”… 대기질 올겨울 ‘최악’]]></title>
