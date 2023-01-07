@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-07T22:12:56.198Z</updated>
+    <updated>2023-01-07T23:13:38.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002777217?sid=100" class="nclicks(rig.secteco)" title="‘민주당 복당’ 박지원, 이재명에 힘 싣기? “DJ 있었다면 李 중심으로 싸워라고…”">‘민주당 복당’ 박지원, 이재명에 힘 싣기? “DJ 있었다면 李 중심으로 싸워라고…”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[北, 이종섭 국방장관 등 겨냥 "새해 벽두부터 전쟁대결 망동질"]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003771863?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003771863?sid=100"/>
+        <updated>2023-01-07T23:13:08.041Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771863?sid=100" class="nclicks(rig.secteco)" title="北, 이종섭 국방장관 등 겨냥 &quot;새해 벽두부터 전쟁대결 망동질&quot;">北, 이종섭 국방장관 등 겨냥 "새해 벽두부터 전쟁대결 망동질"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[與 "이재명 수사 이제 시작, 그 당당함 얼마나 갈지 지켜볼 것"]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003251693?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003251693?sid=100"/>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251693?sid=100" class="nclicks(rig.secteco)" title="與 &quot;이재명 수사 이제 시작, 그 당당함 얼마나 갈지 지켜볼 것&quot;">與 "이재명 수사 이제 시작, 그 당당함 얼마나 갈지 지켜볼 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안철수 “尹심팔이 아닌 ‘윤힘 보태기’ 후보 되겠다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003771869?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003771869?sid=100"/>
-        <updated>2023-01-07T21:11:45.367Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771869?sid=100" class="nclicks(rig.secteco)" title="안철수 “尹심팔이 아닌 ‘윤힘 보태기’ 후보 되겠다”">안철수 “尹심팔이 아닌 ‘윤힘 보태기’ 후보 되겠다”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 서열3위 하원의장에 공화 케빈 매카시…"中과 경쟁서 승리"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006563846?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006563846?sid=104"/>
-        <updated>2023-01-07T21:11:45.367Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006563846?sid=104" class="nclicks(rig.secteco)" title="美 서열3위 하원의장에 공화 케빈 매카시…&quot;中과 경쟁서 승리&quot;(종합2보)">美 서열3위 하원의장에 공화 케빈 매카시…"中과 경쟁서 승리"(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[천신만고 끝 하원의장된 매카시…“대중·대여 강경 대응”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001578440?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001578440?sid=104"/>
+        <updated>2023-01-07T23:13:08.045Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001578440?sid=104" class="nclicks(rig.secteco)" title="천신만고 끝 하원의장된 매카시…“대중·대여 강경 대응”">천신만고 끝 하원의장된 매카시…“대중·대여 강경 대응”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["패배 선언" 中당국에 찍힌 마윈, 결국…앤트그룹 지배권 상실]]></title>
@@ -41,25 +41,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004837715?sid=104" class="nclicks(rig.secteco)" title="&quot;패배 선언&quot; 中당국에 찍힌 마윈, 결국…앤트그룹 지배권 상실">"패배 선언" 中당국에 찍힌 마윈, 결국…앤트그룹 지배권 상실</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSG닷컴, 쓱세일 매달 연다…쓱데이 열풍 이어갈까]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006563989?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006563989?sid=101"/>
-        <updated>2023-01-07T22:12:28.301Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006563989?sid=101" class="nclicks(rig.secteco)" title="SSG닷컴, 쓱세일 매달 연다…쓱데이 열풍 이어갈까">SSG닷컴, 쓱세일 매달 연다…쓱데이 열풍 이어갈까</a>]]></content>
+        <title type="html"><![CDATA["물가 높고 한미 금리차도 부담"…한은 13일 또 0.25%p 올릴 듯]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013687405?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013687405?sid=101"/>
+        <updated>2023-01-07T23:13:08.048Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013687405?sid=101" class="nclicks(rig.secteco)" title="&quot;물가 높고 한미 금리차도 부담&quot;…한은 13일 또 0.25%p 올릴 듯">"물가 높고 한미 금리차도 부담"…한은 13일 또 0.25%p 올릴 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새해 벽두부터 휘발유값 올라… 유류세 인하폭 축소 영향]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000884898?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000884898?sid=101"/>
-        <updated>2023-01-07T22:12:28.301Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000884898?sid=101" class="nclicks(rig.secteco)" title="새해 벽두부터 휘발유값 올라… 유류세 인하폭 축소 영향">새해 벽두부터 휘발유값 올라… 유류세 인하폭 축소 영향</a>]]></content>
+        <title type="html"><![CDATA[보증보험 가입했다고 안심? … 54%가 ‘깡통주택’, 강서구는 79%]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002550396?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002550396?sid=101"/>
+        <updated>2023-01-07T23:13:08.048Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002550396?sid=101" class="nclicks(rig.secteco)" title="보증보험 가입했다고 안심? … 54%가 ‘깡통주택’, 강서구는 79%">보증보험 가입했다고 안심? … 54%가 ‘깡통주택’, 강서구는 79%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 찾은 원희룡 "규제 푼다고 집값 오를 시점 아냐…거래 숨통 터야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004142418?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004142418?sid=101"/>
-        <updated>2023-01-07T22:12:28.302Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004142418?sid=101" class="nclicks(rig.secteco)" title="미국 찾은 원희룡 &quot;규제 푼다고 집값 오를 시점 아냐…거래 숨통 터야&quot;">미국 찾은 원희룡 "규제 푼다고 집값 오를 시점 아냐…거래 숨통 터야"</a>]]></content>
+        <title type="html"><![CDATA[[증시 풍향계] 실적시즌 종목 장세…금통위 금리인상 촉각]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013687469?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013687469?sid=101"/>
+        <updated>2023-01-07T23:13:08.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013687469?sid=101" class="nclicks(rig.secteco)" title="[증시 풍향계] 실적시즌 종목 장세…금통위 금리인상 촉각">[증시 풍향계] 실적시즌 종목 장세…금통위 금리인상 촉각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓스타트업 XR 솔루션·AR글래스 ,CES 누비다…MOU 5건[CES 2023]]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005401898?sid=105" class="nclicks(rig.secteco)" title="韓스타트업 XR 솔루션·AR글래스 ,CES 누비다…MOU 5건[CES 2023]">韓스타트업 XR 솔루션·AR글래스 ,CES 누비다…MOU 5건[CES 2023]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이착륙기에 올라 미래 부산 풍경봐요”…SKT 실감 UAM 체험[CES 2023]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005401888?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005401888?sid=105"/>
-        <updated>2023-01-07T22:12:28.302Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005401888?sid=105" class="nclicks(rig.secteco)" title="“이착륙기에 올라 미래 부산 풍경봐요”…SKT 실감 UAM 체험[CES 2023]">“이착륙기에 올라 미래 부산 풍경봐요”…SKT 실감 UAM 체험[CES 2023]</a>]]></content>
+        <title type="html"><![CDATA[[CES 현장에서] 삼성·LG, CES서 눈도장 '쾅'…K-기업 굵직한 존재감]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000194428?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000194428?sid=105"/>
+        <updated>2023-01-07T23:13:08.051Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000194428?sid=105" class="nclicks(rig.secteco)" title="[CES 현장에서] 삼성·LG, CES서 눈도장 '쾅'…K-기업 굵직한 존재감">[CES 현장에서] 삼성·LG, CES서 눈도장 '쾅'…K-기업 굵직한 존재감</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주말 전국 초미세먼지 기승에 황사까지…"외출 자제"]]></title>
@@ -83,25 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011631111?sid=102" class="nclicks(rig.secteco)" title="주말 전국 초미세먼지 기승에 황사까지…&quot;외출 자제&quot;">주말 전국 초미세먼지 기승에 황사까지…"외출 자제"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이기영, '무죄' 노리나…"시신 없으면 자백만으로 유죄 판결 불가능"]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002673729?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002673729?sid=102"/>
-        <updated>2023-01-07T21:11:45.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002673729?sid=102" class="nclicks(rig.secteco)" title="이기영, '무죄' 노리나…&quot;시신 없으면 자백만으로 유죄 판결 불가능&quot;">이기영, '무죄' 노리나…"시신 없으면 자백만으로 유죄 판결 불가능"</a>]]></content>
+        <title type="html"><![CDATA[[르포]그토록 기다렸던 손맛…'화천 산천어 축제']]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005202347?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005202347?sid=102"/>
+        <updated>2023-01-07T23:13:08.054Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005202347?sid=102" class="nclicks(rig.secteco)" title="[르포]그토록 기다렸던 손맛…'화천 산천어 축제'">[르포]그토록 기다렸던 손맛…'화천 산천어 축제'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["홍콩도 중국 아닌가요" 홍콩·마카오발 음성확인서 제출 첫날 우려 목소리]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006564002?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006564002?sid=102"/>
-        <updated>2023-01-07T21:11:45.372Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006564002?sid=102" class="nclicks(rig.secteco)" title="&quot;홍콩도 중국 아닌가요&quot; 홍콩·마카오발 음성확인서 제출 첫날 우려 목소리">"홍콩도 중국 아닌가요" 홍콩·마카오발 음성확인서 제출 첫날 우려 목소리</a>]]></content>
+        <title type="html"><![CDATA[로또 1049회 당첨번호 1등 17억, '제주 34억 당첨자 나오나']]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000194437?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000194437?sid=102"/>
+        <updated>2023-01-07T23:13:08.055Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000194437?sid=102" class="nclicks(rig.secteco)" title="로또 1049회 당첨번호 1등 17억, '제주 34억 당첨자 나오나'">로또 1049회 당첨번호 1등 17억, '제주 34억 당첨자 나오나'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK]베네딕토 16세 잠들다...명동성당서 추모 미사 거행]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006564041?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006564041?sid=103"/>
-        <updated>2023-01-07T22:12:28.305Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006564041?sid=103" class="nclicks(rig.secteco)" title="[뉴스1 PICK]베네딕토 16세 잠들다...명동성당서 추모 미사 거행">[뉴스1 PICK]베네딕토 16세 잠들다...명동성당서 추모 미사 거행</a>]]></content>
+        <title type="html"><![CDATA[[씨네마진국] ‘사실’은 아니라도 ‘진실’ 담은 훌륭한 극화…영화 ‘두 교황’]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011406713?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011406713?sid=103"/>
+        <updated>2023-01-07T23:13:08.057Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011406713?sid=103" class="nclicks(rig.secteco)" title="[씨네마진국] ‘사실’은 아니라도 ‘진실’ 담은 훌륭한 극화…영화 ‘두 교황’">[씨네마진국] ‘사실’은 아니라도 ‘진실’ 담은 훌륭한 극화…영화 ‘두 교황’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주말 외출 자제하세요"…황사·미세먼지 유입에 올 겨울 최악 대기질]]></title>
