@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-08T06:16:49.436Z</updated>
+    <updated>2023-01-08T07:12:21.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013687981?sid=100" class="nclicks(rig.secteco)" title="안철수 내일 당대표 출마선언…&quot;윤심팔이 아닌 윤힘 후보 될것&quot;">안철수 내일 당대표 출마선언…"윤심팔이 아닌 윤힘 후보 될것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[화보] 김건희와 日 건축 거장 안도 다다오, 무슨 사이길래?]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000792326?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000792326?sid=100"/>
-        <updated>2023-01-08T05:12:42.265Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000792326?sid=100" class="nclicks(rig.secteco)" title="[화보] 김건희와 日 건축 거장 안도 다다오, 무슨 사이길래?">[화보] 김건희와 日 건축 거장 안도 다다오, 무슨 사이길래?</a>]]></content>
+        <title type="html"><![CDATA[김대기 비서실장 “尹 정부 법안 110개 중 95개 통과못해…野 초당적 협력 요청”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000868244?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000868244?sid=100"/>
+        <updated>2023-01-08T07:11:53.011Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000868244?sid=100" class="nclicks(rig.secteco)" title="김대기 비서실장 “尹 정부 법안 110개 중 95개 통과못해…野 초당적 협력 요청”">김대기 비서실장 “尹 정부 법안 110개 중 95개 통과못해…野 초당적 협력 요청”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SNL 출연 김의겸 "한동훈에 10억 줄 일 절대 없어…소송 100% 이겨"]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002088067?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002088067?sid=100"/>
-        <updated>2023-01-08T06:16:20.115Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002088067?sid=100" class="nclicks(rig.secteco)" title="SNL 출연 김의겸 &quot;한동훈에 10억 줄 일 절대 없어…소송 100% 이겨&quot;">SNL 출연 김의겸 "한동훈에 10억 줄 일 절대 없어…소송 100% 이겨"</a>]]></content>
+        <title type="html"><![CDATA[김의겸 "청담동 술자리 의혹 10억 손배소 100% 내가 이긴다" 큰소리]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000945660?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000945660?sid=100"/>
+        <updated>2023-01-08T07:11:53.013Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000945660?sid=100" class="nclicks(rig.secteco)" title="김의겸 &quot;청담동 술자리 의혹 10억 손배소 100% 내가 이긴다&quot; 큰소리">김의겸 "청담동 술자리 의혹 10억 손배소 100% 내가 이긴다" 큰소리</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 신임 하원의장 "중국과의 경제 경제에서 승리할 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004797050?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004797050?sid=104"/>
+        <updated>2023-01-08T07:11:53.014Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004797050?sid=104" class="nclicks(rig.secteco)" title="미국 신임 하원의장 &quot;중국과의 경제 경제에서 승리할 것&quot;">미국 신임 하원의장 "중국과의 경제 경제에서 승리할 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["韓 고령층 40%가 일해"…NYT '은퇴 못하는 아시아 노인들' 조명]]></title>
@@ -34,20 +41,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013687876?sid=104" class="nclicks(rig.secteco)" title="&quot;韓 고령층 40%가 일해&quot;…NYT '은퇴 못하는 아시아 노인들' 조명">"韓 고령층 40%가 일해"…NYT '은퇴 못하는 아시아 노인들' 조명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 중국 입국자 격리제도 폐지…공항 PCR도 폐지]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002294624?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002294624?sid=104"/>
-        <updated>2023-01-08T04:16:34.592Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002294624?sid=104" class="nclicks(rig.secteco)" title="오늘부터 중국 입국자 격리제도 폐지…공항 PCR도 폐지">오늘부터 중국 입국자 격리제도 폐지…공항 PCR도 폐지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDI “경기 내리막길 접어들었다···둔화세 더 심해질 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003197738?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003197738?sid=101"/>
-        <updated>2023-01-08T06:16:20.123Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003197738?sid=101" class="nclicks(rig.secteco)" title="KDI “경기 내리막길 접어들었다···둔화세 더 심해질 것”">KDI “경기 내리막길 접어들었다···둔화세 더 심해질 것”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['갑질' 딱 걸린 GS홈쇼핑…'판촉비 20억' 떠넘겨]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003725148?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003725148?sid=101"/>
@@ -55,11 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003725148?sid=101" class="nclicks(rig.secteco)" title="'갑질' 딱 걸린 GS홈쇼핑…'판촉비 20억' 떠넘겨">'갑질' 딱 걸린 GS홈쇼핑…'판촉비 20억' 떠넘겨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[CES 2023] ‘이재용의 특명’ 받은 한종희 삼성 부회장… “과감한 투자와 기술 혁신 지속하겠다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000868206?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000868206?sid=101"/>
-        <updated>2023-01-08T06:16:20.124Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000868206?sid=101" class="nclicks(rig.secteco)" title="[CES 2023] ‘이재용의 특명’ 받은 한종희 삼성 부회장… “과감한 투자와 기술 혁신 지속하겠다”">[CES 2023] ‘이재용의 특명’ 받은 한종희 삼성 부회장… “과감한 투자와 기술 혁신 지속하겠다”</a>]]></content>
+        <title type="html"><![CDATA[KDI “경기둔화 가시화…금리인상 여파, 하방 압력 확대 가능성”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002622518?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002622518?sid=101"/>
+        <updated>2023-01-08T07:11:53.023Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002622518?sid=101" class="nclicks(rig.secteco)" title="KDI “경기둔화 가시화…금리인상 여파, 하방 압력 확대 가능성”">KDI “경기둔화 가시화…금리인상 여파, 하방 압력 확대 가능성”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만기 10년 이상 주담대 받은 직장인, 소득공제 더 받을 수도]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002622540?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002622540?sid=101"/>
+        <updated>2023-01-08T07:11:53.024Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002622540?sid=101" class="nclicks(rig.secteco)" title="만기 10년 이상 주담대 받은 직장인, 소득공제 더 받을 수도">만기 10년 이상 주담대 받은 직장인, 소득공제 더 받을 수도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윈도우 8.1 기술지원 종료 D-2…당국 "사고 대비 상황실 운영"]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003472581?sid=102" class="nclicks(rig.secteco)" title="올해 국민연금 5.1% 더 받는다…“물가상승률 반영”">올해 국민연금 5.1% 더 받는다…“물가상승률 반영”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 입국자 음성확인서 내도 확진 잇따라.. 확인서 신뢰도 살핀다]]></title>
-        <id>https://n.news.naver.com/mnews/article/661/0000018584?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/661/0000018584?sid=102"/>
-        <updated>2023-01-08T06:16:20.125Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000018584?sid=102" class="nclicks(rig.secteco)" title="中 입국자 음성확인서 내도 확진 잇따라.. 확인서 신뢰도 살핀다">中 입국자 음성확인서 내도 확진 잇따라.. 확인서 신뢰도 살핀다</a>]]></content>
+        <title type="html"><![CDATA[홍콩·마카오발 음성확인서 제출 시행 이틀째…총 8편 1272명 입국 예정]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006564715?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006564715?sid=102"/>
+        <updated>2023-01-08T07:11:53.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006564715?sid=102" class="nclicks(rig.secteco)" title="홍콩·마카오발 음성확인서 제출 시행 이틀째…총 8편 1272명 입국 예정">홍콩·마카오발 음성확인서 제출 시행 이틀째…총 8편 1272명 입국 예정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태안화력발전소에서 폭발사고…“인명피해 없이 진화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005071575?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005071575?sid=102"/>
-        <updated>2023-01-08T06:16:20.130Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005071575?sid=102" class="nclicks(rig.secteco)" title="태안화력발전소에서 폭발사고…“인명피해 없이 진화”">태안화력발전소에서 폭발사고…“인명피해 없이 진화”</a>]]></content>
+        <title type="html"><![CDATA[주말에도 뿌연 하늘…수도권 등 9개 지역 초미세먼지 위기경보]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003725167?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003725167?sid=102"/>
+        <updated>2023-01-08T07:11:53.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003725167?sid=102" class="nclicks(rig.secteco)" title="주말에도 뿌연 하늘…수도권 등 9개 지역 초미세먼지 위기경보">주말에도 뿌연 하늘…수도권 등 9개 지역 초미세먼지 위기경보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴진스에 中네티즌 악플…한지 홍보영상에 ‘발끈’ 황당]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003330743?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003330743?sid=103"/>
-        <updated>2023-01-08T06:16:20.131Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330743?sid=103" class="nclicks(rig.secteco)" title="뉴진스에 中네티즌 악플…한지 홍보영상에 ‘발끈’ 황당">뉴진스에 中네티즌 악플…한지 홍보영상에 ‘발끈’ 황당</a>]]></content>
+        <title type="html"><![CDATA[뉴진스 '한지' 홍보에…中 누리꾼 "종이는 중국 것, 또 훔쳐가냐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004837846?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004837846?sid=103"/>
+        <updated>2023-01-08T07:11:53.033Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004837846?sid=103" class="nclicks(rig.secteco)" title="뉴진스 '한지' 홍보에…中 누리꾼 &quot;종이는 중국 것, 또 훔쳐가냐&quot;">뉴진스 '한지' 홍보에…中 누리꾼 "종이는 중국 것, 또 훔쳐가냐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제2의 ‘재벌집 막내아들’ 나오도록...문체부, 예산 168% 증액 ‘1235억’]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000868230?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000868230?sid=103"/>
-        <updated>2023-01-08T06:16:20.133Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000868230?sid=103" class="nclicks(rig.secteco)" title="제2의 ‘재벌집 막내아들’ 나오도록...문체부, 예산 168% 증액 ‘1235억’">제2의 ‘재벌집 막내아들’ 나오도록...문체부, 예산 168% 증액 ‘1235억’</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 연일 희뿌연 미세먼지…호흡기 건강 유의해야]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000578355?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000578355?sid=103"/>
+        <updated>2023-01-08T07:11:53.034Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000578355?sid=103" class="nclicks(rig.secteco)" title="[날씨] 연일 희뿌연 미세먼지…호흡기 건강 유의해야">[날씨] 연일 희뿌연 미세먼지…호흡기 건강 유의해야</a>]]></content>
     </entry>
 </feed>
