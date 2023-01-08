@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-08T11:11:18.829Z</updated>
+    <updated>2023-01-08T12:24:58.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[당정 "대학지원 권한 지방이양·위임…2025년부터 전국 실시"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013688382?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013688382?sid=100"/>
-        <updated>2023-01-08T10:14:01.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013688382?sid=100" class="nclicks(rig.secteco)" title="당정 &quot;대학지원 권한 지방이양·위임…2025년부터 전국 실시&quot;">당정 "대학지원 권한 지방이양·위임…2025년부터 전국 실시"</a>]]></content>
+        <title type="html"><![CDATA[새해 첫 당정 "대학지원 지방이양"...尹 교육개혁 첫발]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001835263?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001835263?sid=100"/>
+        <updated>2023-01-08T12:24:30.492Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001835263?sid=100" class="nclicks(rig.secteco)" title="새해 첫 당정 &quot;대학지원 지방이양&quot;...尹 교육개혁 첫발">새해 첫 당정 "대학지원 지방이양"...尹 교육개혁 첫발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합참, 1시간 30분 지나 ‘두루미’ 발령… 수방사에 공유도 안 했다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003771979?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003771979?sid=100"/>
-        <updated>2023-01-08T10:14:01.910Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771979?sid=100" class="nclicks(rig.secteco)" title="합참, 1시간 30분 지나 ‘두루미’ 발령… 수방사에 공유도 안 했다">합참, 1시간 30분 지나 ‘두루미’ 발령… 수방사에 공유도 안 했다</a>]]></content>
+        <title type="html"><![CDATA[軍 "北 무인기 영공침범 당시 상황공유 미흡" 인정]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004952807?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004952807?sid=100"/>
+        <updated>2023-01-08T12:24:30.493Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004952807?sid=100" class="nclicks(rig.secteco)" title="軍 &quot;北 무인기 영공침범 당시 상황공유 미흡&quot; 인정">軍 "北 무인기 영공침범 당시 상황공유 미흡" 인정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[`北무인기·이재명 檢출석` 지뢰밭 투성인 1월 임시국회(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005402224?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005402224?sid=100"/>
-        <updated>2023-01-08T11:10:49.177Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005402224?sid=100" class="nclicks(rig.secteco)" title="`北무인기·이재명 檢출석` 지뢰밭 투성인 1월 임시국회(종합)">`北무인기·이재명 檢출석` 지뢰밭 투성인 1월 임시국회(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“오늘만 기다렸다” 격리 사라진 베이징 공항…코로나 확산세는 지속 [특파원+]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003771947?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003771947?sid=104"/>
-        <updated>2023-01-08T11:10:49.177Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003771947?sid=104" class="nclicks(rig.secteco)" title="“오늘만 기다렸다” 격리 사라진 베이징 공항…코로나 확산세는 지속 [특파원+]">“오늘만 기다렸다” 격리 사라진 베이징 공항…코로나 확산세는 지속 [특파원+]</a>]]></content>
+        <title type="html"><![CDATA[김대기 "정부 발의 법률안 110개 중 95개 통과 못해…野 협력 요청"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003725211?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003725211?sid=100"/>
+        <updated>2023-01-08T12:24:30.494Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003725211?sid=100" class="nclicks(rig.secteco)" title="김대기 &quot;정부 발의 법률안 110개 중 95개 통과 못해…野 협력 요청&quot;">김대기 "정부 발의 법률안 110개 중 95개 통과 못해…野 협력 요청"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["역시나 못 믿을 푸틴…" '성탄절 휴전' 약속 깨고 교회 갔다]]></title>
@@ -41,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000717257?sid=104" class="nclicks(rig.secteco)" title="&quot;역시나 못 믿을 푸틴…&quot; '성탄절 휴전' 약속 깨고 교회 갔다">"역시나 못 믿을 푸틴…" '성탄절 휴전' 약속 깨고 교회 갔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDI "수출부진 심화에 경기둔화 가시화" 경고 수위 높였다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004952788?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004952788?sid=101"/>
-        <updated>2023-01-08T10:14:01.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004952788?sid=101" class="nclicks(rig.secteco)" title="KDI &quot;수출부진 심화에 경기둔화 가시화&quot; 경고 수위 높였다">KDI "수출부진 심화에 경기둔화 가시화" 경고 수위 높였다</a>]]></content>
+        <title type="html"><![CDATA[美하원 의사봉 쥔 매카시 “中과 경쟁서 승리할 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003772000?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003772000?sid=104"/>
+        <updated>2023-01-08T12:24:30.498Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003772000?sid=104" class="nclicks(rig.secteco)" title="美하원 의사봉 쥔 매카시 “中과 경쟁서 승리할 것”">美하원 의사봉 쥔 매카시 “中과 경쟁서 승리할 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NH농협은행, 온라인 공채시험 서버 다운으로 연기]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003197797?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003197797?sid=101"/>
-        <updated>2023-01-08T11:10:49.187Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003197797?sid=101" class="nclicks(rig.secteco)" title="NH농협은행, 온라인 공채시험 서버 다운으로 연기">NH농협은행, 온라인 공채시험 서버 다운으로 연기</a>]]></content>
+        <title type="html"><![CDATA[“경기 둔화, 현실로”…KDI, 국면 진입 인정]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003197816?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003197816?sid=101"/>
+        <updated>2023-01-08T12:24:30.498Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003197816?sid=101" class="nclicks(rig.secteco)" title="“경기 둔화, 현실로”…KDI, 국면 진입 인정">“경기 둔화, 현실로”…KDI, 국면 진입 인정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[농협은행에 뿔난 취준생들…사상 첫 온라인 필기시험에 서버 먹통]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005071817?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005071817?sid=101"/>
+        <updated>2023-01-08T12:24:30.503Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005071817?sid=101" class="nclicks(rig.secteco)" title="농협은행에 뿔난 취준생들…사상 첫 온라인 필기시험에 서버 먹통">농협은행에 뿔난 취준생들…사상 첫 온라인 필기시험에 서버 먹통</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카드공제 작년 1인당 283만원…올해 더 늘 듯(종합)]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005071793?sid=105" class="nclicks(rig.secteco)" title="[단독] “나 알뜰폰으로 갈래”…SKT 점유율 40% 첫 붕괴">[단독] “나 알뜰폰으로 갈래”…SKT 점유율 40% 첫 붕괴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001835242?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001835242?sid=102"/>
-        <updated>2023-01-08T11:10:49.193Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001835242?sid=102" class="nclicks(rig.secteco)" title="물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명">물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재']]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003251813?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003251813?sid=102"/>
@@ -90,18 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251813?sid=102" class="nclicks(rig.secteco)" title="중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재'">중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['실내 마스크 해제' 조건 채웠지만…새로운 변수 생겼다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003251822?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003251822?sid=102"/>
-        <updated>2023-01-08T10:14:01.923Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251822?sid=102" class="nclicks(rig.secteco)" title="'실내 마스크 해제' 조건 채웠지만…새로운 변수 생겼다">'실내 마스크 해제' 조건 채웠지만…새로운 변수 생겼다</a>]]></content>
+        <title type="html"><![CDATA[물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001835242?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001835242?sid=102"/>
+        <updated>2023-01-08T11:10:49.193Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001835242?sid=102" class="nclicks(rig.secteco)" title="물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명">물가상승률 맞춰 올해 국민연금 5.1% 더 받는다...수급자 622만명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 출근길 짙은 안개 주의…미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000578383?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000578383?sid=103"/>
-        <updated>2023-01-08T11:10:49.197Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000578383?sid=103" class="nclicks(rig.secteco)" title="[날씨] 출근길 짙은 안개 주의…미세먼지 '나쁨'">[날씨] 출근길 짙은 안개 주의…미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[어제 중국발 입국자 양성률 14.8%…양성률 연일 변동(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013688485?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013688485?sid=102"/>
+        <updated>2023-01-08T12:24:30.512Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013688485?sid=102" class="nclicks(rig.secteco)" title="어제 중국발 입국자 양성률 14.8%…양성률 연일 변동(종합)">어제 중국발 입국자 양성률 14.8%…양성률 연일 변동(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 미세먼지에 갇혔던 휴일...내일도 '나쁨']]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001835268?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001835268?sid=103"/>
+        <updated>2023-01-08T12:24:30.512Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001835268?sid=103" class="nclicks(rig.secteco)" title="[날씨] 미세먼지에 갇혔던 휴일...내일도 '나쁨'">[날씨] 미세먼지에 갇혔던 휴일...내일도 '나쁨'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["주말 외출 자제하세요"…황사·미세먼지 유입에 올 겨울 최악 대기질]]></title>
