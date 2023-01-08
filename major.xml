@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-08T20:13:57.411Z</updated>
+    <updated>2023-01-08T21:12:03.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330810?sid=100" class="nclicks(rig.secteco)" title="대통령실 “나경원 언행에 실망”… 김기현 “羅,책임 있는 결정 할 것”">대통령실 “나경원 언행에 실망”… 김기현 “羅,책임 있는 결정 할 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당정 "대학지원 권한 지방 이양, 2025년부터 전국 실시"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004952822?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004952822?sid=100"/>
-        <updated>2023-01-08T20:13:28.482Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004952822?sid=100" class="nclicks(rig.secteco)" title="당정 &quot;대학지원 권한 지방 이양, 2025년부터 전국 실시&quot;">당정 "대학지원 권한 지방 이양, 2025년부터 전국 실시"</a>]]></content>
+        <title type="html"><![CDATA["대학 살아야 지방 산다"… 당정, 지자체에 '대학지원' 권한 이전]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004837862?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004837862?sid=100"/>
+        <updated>2023-01-08T21:11:36.017Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004837862?sid=100" class="nclicks(rig.secteco)" title="&quot;대학 살아야 지방 산다&quot;… 당정, 지자체에 '대학지원' 권한 이전">"대학 살아야 지방 산다"… 당정, 지자체에 '대학지원' 권한 이전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[합참, 무인기 수방사 안 알리고 두루미 발령 늦어…책임론 일듯]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003725224?sid=100" class="nclicks(rig.secteco)" title="합참, 무인기 수방사 안 알리고 두루미 발령 늦어…책임론 일듯">합참, 무인기 수방사 안 알리고 두루미 발령 늦어…책임론 일듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매카시 “중국과 경제 경쟁 승리할 것”… 美, 中에 강경책 계속될 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003330840?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003330840?sid=104"/>
-        <updated>2023-01-08T20:13:28.485Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330840?sid=104" class="nclicks(rig.secteco)" title="매카시 “중국과 경제 경쟁 승리할 것”… 美, 中에 강경책 계속될 듯">매카시 “중국과 경제 경쟁 승리할 것”… 美, 中에 강경책 계속될 듯</a>]]></content>
+        <title type="html"><![CDATA['전열 정비' 美 공화, 하원서 바이든 정부에 전방위 공세 예고]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013688532?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013688532?sid=104"/>
+        <updated>2023-01-08T21:11:36.022Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013688532?sid=104" class="nclicks(rig.secteco)" title="'전열 정비' 美 공화, 하원서 바이든 정부에 전방위 공세 예고">'전열 정비' 美 공화, 하원서 바이든 정부에 전방위 공세 예고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴, ‘성탄절 휴전’ 제안해놓고 포격 계속… 본인은 예배 참석]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003725220?sid=105" class="nclicks(rig.secteco)" title="美 위성 추락 범위 한반도 인근 포함, 피해 가능성 매우 낮아">美 위성 추락 범위 한반도 인근 포함, 피해 가능성 매우 낮아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI전문가는 왜?…AI 1등주 말고 삼성전자에 투자했나 [안갑성의 자이앤트TV 인터뷰]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005071447?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005071447?sid=105"/>
-        <updated>2023-01-08T20:13:28.491Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005071447?sid=105" class="nclicks(rig.secteco)" title="AI전문가는 왜?…AI 1등주 말고 삼성전자에 투자했나 [안갑성의 자이앤트TV 인터뷰]">AI전문가는 왜?…AI 1등주 말고 삼성전자에 투자했나 [안갑성의 자이앤트TV 인터뷰]</a>]]></content>
+        <title type="html"><![CDATA[고객·로봇·친환경·AI… CEO들 신성장동력 확보 ‘광폭행보’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003772014?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003772014?sid=105"/>
+        <updated>2023-01-08T21:11:36.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003772014?sid=105" class="nclicks(rig.secteco)" title="고객·로봇·친환경·AI… CEO들 신성장동력 확보 ‘광폭행보’">고객·로봇·친환경·AI… CEO들 신성장동력 확보 ‘광폭행보’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“‘쿵’하더니 흔들”… 강화 해상 3.7 지진, 서울도 ‘깜짝’]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001578676?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001578676?sid=102"/>
-        <updated>2023-01-08T20:13:28.493Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001578676?sid=102" class="nclicks(rig.secteco)" title="“‘쿵’하더니 흔들”… 강화 해상 3.7 지진, 서울도 ‘깜짝’">“‘쿵’하더니 흔들”… 강화 해상 3.7 지진, 서울도 ‘깜짝’</a>]]></content>
+        <title type="html"><![CDATA[인천 강화군 서쪽 25km 해역서 규모 3.7 지진]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000578386?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000578386?sid=102"/>
+        <updated>2023-01-08T21:11:36.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000578386?sid=102" class="nclicks(rig.secteco)" title="인천 강화군 서쪽 25km 해역서 규모 3.7 지진">인천 강화군 서쪽 25km 해역서 규모 3.7 지진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미세먼지·황사 겹친 하늘 탁한 만큼 위험…주의 당부]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000029560?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000029560?sid=102"/>
-        <updated>2023-01-08T20:13:28.497Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000029560?sid=102" class="nclicks(rig.secteco)" title="미세먼지·황사 겹친 하늘 탁한 만큼 위험…주의 당부">미세먼지·황사 겹친 하늘 탁한 만큼 위험…주의 당부</a>]]></content>
+        <title type="html"><![CDATA[중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재']]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003251813?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003251813?sid=102"/>
+        <updated>2023-01-08T21:11:36.030Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003251813?sid=102" class="nclicks(rig.secteco)" title="중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재'">중국발 미세먼지, 영남부터 쳤다…최악 공기질 만든 '3대 악재'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인플레 직격탄 맞은 국민연금 재정…고갈시기 더 빨라져 '초비상']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004797172?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004797172?sid=102"/>
-        <updated>2023-01-08T20:13:28.502Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004797172?sid=102" class="nclicks(rig.secteco)" title="인플레 직격탄 맞은 국민연금 재정…고갈시기 더 빨라져 '초비상'">인플레 직격탄 맞은 국민연금 재정…고갈시기 더 빨라져 '초비상'</a>]]></content>
+        <title type="html"><![CDATA[국경 다시 연 中… 韓, 이달 말 실내마스크 못 벗나]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003330801?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003330801?sid=102"/>
+        <updated>2023-01-08T21:11:36.032Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003330801?sid=102" class="nclicks(rig.secteco)" title="국경 다시 연 中… 韓, 이달 말 실내마스크 못 벗나">국경 다시 연 中… 韓, 이달 말 실내마스크 못 벗나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한파 가니 '미세먼지'…따뜻해진 날씨 속 미세먼지 '나쁨' [내일날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005402237?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005402237?sid=103"/>
-        <updated>2023-01-08T20:13:28.502Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005402237?sid=103" class="nclicks(rig.secteco)" title="한파 가니 '미세먼지'…따뜻해진 날씨 속 미세먼지 '나쁨' [내일날씨]">한파 가니 '미세먼지'…따뜻해진 날씨 속 미세먼지 '나쁨' [내일날씨]</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 오늘도 추위 대신 미세먼지…예년 기온 웃돌아]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001835339?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001835339?sid=103"/>
+        <updated>2023-01-08T21:11:36.033Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001835339?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘도 추위 대신 미세먼지…예년 기온 웃돌아">[날씨] 오늘도 추위 대신 미세먼지…예년 기온 웃돌아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘1조 열풍’ 미술시장 냉각? 중소 아트페어·갤러리 찬바람 분다]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000029882?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000029882?sid=103"/>
-        <updated>2023-01-08T19:10:32.060Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000029882?sid=103" class="nclicks(rig.secteco)" title="‘1조 열풍’ 미술시장 냉각? 중소 아트페어·갤러리 찬바람 분다">‘1조 열풍’ 미술시장 냉각? 중소 아트페어·갤러리 찬바람 분다</a>]]></content>
+        <title type="html"><![CDATA[전국 낮부터 맑아져…연일 전국 대부분 미세먼지 '나쁨']]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013688530?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013688530?sid=103"/>
+        <updated>2023-01-08T21:11:36.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013688530?sid=103" class="nclicks(rig.secteco)" title="전국 낮부터 맑아져…연일 전국 대부분 미세먼지 '나쁨'">전국 낮부터 맑아져…연일 전국 대부분 미세먼지 '나쁨'</a>]]></content>
     </entry>
 </feed>
