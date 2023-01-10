@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-10T16:22:07.164Z</updated>
+    <updated>2023-01-10T17:15:00.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000328243?sid=100" class="nclicks(rig.secteco)" title="[단독] 나경원 &quot;저출산위 부위원장직 사의 표명&quot;">[단독] 나경원 "저출산위 부위원장직 사의 표명"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 14일 UAE 방문, 기업인 100명 동행]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003252436?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003252436?sid=100"/>
-        <updated>2023-01-10T15:20:15.781Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003252436?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 14일 UAE 방문, 기업인 100명 동행">윤 대통령 14일 UAE 방문, 기업인 100명 동행</a>]]></content>
+        <title type="html"><![CDATA[尹대통령, 14~21일 UAE·스위스行…경제사절단과 '세일즈외교']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004838727?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004838727?sid=100"/>
+        <updated>2023-01-10T17:14:29.474Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004838727?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 14~21일 UAE·스위스行…경제사절단과 '세일즈외교'">尹대통령, 14~21일 UAE·스위스行…경제사절단과 '세일즈외교'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 "韓 도약 과학기술·디지털혁신에 달려"…과기·ICT 신년회 대통령 참석 7년만(종합)]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011636024?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;韓 도약 과학기술·디지털혁신에 달려&quot;…과기·ICT 신년회 대통령 참석 7년만(종합)">尹 "韓 도약 과학기술·디지털혁신에 달려"…과기·ICT 신년회 대통령 참석 7년만(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中, 한국·일본인에 비자 중단…중국발 입국규제 첫 보복(종합4보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013692953?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013692953?sid=104"/>
-        <updated>2023-01-10T15:20:15.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013692953?sid=104" class="nclicks(rig.secteco)" title="中, 한국·일본인에 비자 중단…중국발 입국규제 첫 보복(종합4보)">中, 한국·일본인에 비자 중단…중국발 입국규제 첫 보복(종합4보)</a>]]></content>
+        <title type="html"><![CDATA[“중국 겨냥한 차별” 단호한 보복… 한·중관계 ‘꽁꽁’]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001579161?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001579161?sid=104"/>
+        <updated>2023-01-10T17:14:29.478Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001579161?sid=104" class="nclicks(rig.secteco)" title="“중국 겨냥한 차별” 단호한 보복… 한·중관계 ‘꽁꽁’">“중국 겨냥한 차별” 단호한 보복… 한·중관계 ‘꽁꽁’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라질, ‘대선불복 폭동’ 1500명 검거…돈줄 추적 등 배후 수사]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004838670?sid=105" class="nclicks(rig.secteco)" title="&quot;누리호 3차 발사가 최우선…조직개편 과반 반대했으면 안 했다&quot;">"누리호 3차 발사가 최우선…조직개편 과반 반대했으면 안 했다"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이재명, 野대표 첫 검찰조사…'사법리스크'는 악화일로[종합]]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000721971?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000721971?sid=102"/>
+        <updated>2023-01-10T17:14:29.496Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000721971?sid=102" class="nclicks(rig.secteco)" title="이재명, 野대표 첫 검찰조사…'사법리스크'는 악화일로[종합]">이재명, 野대표 첫 검찰조사…'사법리스크'는 악화일로[종합]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] 긴머리에 흰수염…쌍방울 김성태, 태국 골프장서 잡혔다]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003252421?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003252421?sid=102"/>
         <updated>2023-01-10T14:16:15.250Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003252421?sid=102" class="nclicks(rig.secteco)" title="[단독] 긴머리에 흰수염…쌍방울 김성태, 태국 골프장서 잡혔다">[단독] 긴머리에 흰수염…쌍방울 김성태, 태국 골프장서 잡혔다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 이재명, 진술서 제출 뒤 "더 말할 것 없다" 진술 거부…12시간 조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003252385?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003252385?sid=102"/>
-        <updated>2023-01-10T15:20:15.801Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003252385?sid=102" class="nclicks(rig.secteco)" title="[단독] 이재명, 진술서 제출 뒤 &quot;더 말할 것 없다&quot; 진술 거부…12시간 조사">[단독] 이재명, 진술서 제출 뒤 "더 말할 것 없다" 진술 거부…12시간 조사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12시간 조사 마친 이재명 “답정기소, 법정서 진실 가려질 것” [포착]]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000194902?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 전국 10도 이상 포근…미세먼지는 또 &quot;나쁨&quot;">[오늘의 날씨] 전국 10도 이상 포근…미세먼지는 또 "나쁨"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성추행 폭로 후 5년…고은, 사과 없이 문단 복귀]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011408191?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011408191?sid=103"/>
-        <updated>2023-01-10T14:16:15.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011408191?sid=103" class="nclicks(rig.secteco)" title="성추행 폭로 후 5년…고은, 사과 없이 문단 복귀">성추행 폭로 후 5년…고은, 사과 없이 문단 복귀</a>]]></content>
+        <title type="html"><![CDATA[고은 시인 ‘사과 없는’ 문단 복귀에 99.3% 반대표 던졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005403755?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005403755?sid=103"/>
+        <updated>2023-01-10T17:14:29.503Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005403755?sid=103" class="nclicks(rig.secteco)" title="고은 시인 ‘사과 없는’ 문단 복귀에 99.3% 반대표 던졌다">고은 시인 ‘사과 없는’ 문단 복귀에 99.3% 반대표 던졌다</a>]]></content>
     </entry>
 </feed>
