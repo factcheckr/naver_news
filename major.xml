@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-14T11:11:21.391Z</updated>
+    <updated>2023-01-14T12:23:27.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -69,18 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003740592?sid=105" class="nclicks(rig.secteco)" title="또 북한발 해킹?... “‘daum’ 아닌 ‘daurn’에서 메일 오면 주의”">또 북한발 해킹?... “‘daum’ 아닌 ‘daurn’에서 메일 오면 주의”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갤워치로 스마트폰 카메라 줌인 원격 조정...SW 업데이트]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002279566?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002279566?sid=105"/>
-        <updated>2023-01-14T11:10:53.171Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002279566?sid=105" class="nclicks(rig.secteco)" title="갤워치로 스마트폰 카메라 줌인 원격 조정...SW 업데이트">갤워치로 스마트폰 카메라 줌인 원격 조정...SW 업데이트</a>]]></content>
+        <title type="html"><![CDATA["360도 녹음에 워치로 원격 줌인"...삼성폰 카메라, 강해졌다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004839992?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004839992?sid=105"/>
+        <updated>2023-01-14T12:23:00.257Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004839992?sid=105" class="nclicks(rig.secteco)" title="&quot;360도 녹음에 워치로 원격 줌인&quot;...삼성폰 카메라, 강해졌다">"360도 녹음에 워치로 원격 줌인"...삼성폰 카메라, 강해졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['백골 시신' 모친과 2년 동거…인천 빌라 비극 아무도 몰랐다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003253316?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003253316?sid=102"/>
-        <updated>2023-01-14T11:10:53.173Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003253316?sid=102" class="nclicks(rig.secteco)" title="'백골 시신' 모친과 2년 동거…인천 빌라 비극 아무도 몰랐다">'백골 시신' 모친과 2년 동거…인천 빌라 비극 아무도 몰랐다</a>]]></content>
+        <title type="html"><![CDATA[내일도 중부지방 비 또는 눈…“강원 산지·동해안에 큰 눈”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002623417?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002623417?sid=102"/>
+        <updated>2023-01-14T12:23:00.257Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002623417?sid=102" class="nclicks(rig.secteco)" title="내일도 중부지방 비 또는 눈…“강원 산지·동해안에 큰 눈”">내일도 중부지방 비 또는 눈…“강원 산지·동해안에 큰 눈”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘월 50만~60만원’ 연금 타려고…2년간 母 시신 방치한 40대 구속]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005074680?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005074680?sid=102"/>
+        <updated>2023-01-14T12:23:00.257Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005074680?sid=102" class="nclicks(rig.secteco)" title="‘월 50만~60만원’ 연금 타려고…2년간 母 시신 방치한 40대 구속">‘월 50만~60만원’ 연금 타려고…2년간 母 시신 방치한 40대 구속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상수도관 잇단 파열…300여 세대 반나절 넘게 '단수']]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000328787?sid=102" class="nclicks(rig.secteco)" title="상수도관 잇단 파열…300여 세대 반나절 넘게 '단수'">상수도관 잇단 파열…300여 세대 반나절 넘게 '단수'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['향로봉 22.1㎝' 산간지역 폭설… 16일까지 눈폭탄, 내일 아침 기온 뚝]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000030013?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000030013?sid=102"/>
-        <updated>2023-01-14T11:10:53.175Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000030013?sid=102" class="nclicks(rig.secteco)" title="'향로봉 22.1㎝' 산간지역 폭설… 16일까지 눈폭탄, 내일 아침 기온 뚝">'향로봉 22.1㎝' 산간지역 폭설… 16일까지 눈폭탄, 내일 아침 기온 뚝</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 산지 최고 70cm 눈폭탄…서울 등 내륙도 눈 온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003473975?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003473975?sid=103"/>
-        <updated>2023-01-14T11:10:53.176Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003473975?sid=103" class="nclicks(rig.secteco)" title="강원 산지 최고 70cm 눈폭탄…서울 등 내륙도 눈 온다">강원 산지 최고 70cm 눈폭탄…서울 등 내륙도 눈 온다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제주·남해안 폭우 수준의 큰 비…내일 낮부터 다시 찬바람 영하권 추위]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003727403?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003727403?sid=103"/>
         <updated>2023-01-14T11:10:53.177Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003727403?sid=103" class="nclicks(rig.secteco)" title="제주·남해안 폭우 수준의 큰 비…내일 낮부터 다시 찬바람 영하권 추위">제주·남해안 폭우 수준의 큰 비…내일 낮부터 다시 찬바람 영하권 추위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 영동 폭설‥내일 전국 비·눈]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001247855?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001247855?sid=103"/>
+        <updated>2023-01-14T12:23:00.258Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001247855?sid=103" class="nclicks(rig.secteco)" title="[날씨] 영동 폭설‥내일 전국 비·눈">[날씨] 영동 폭설‥내일 전국 비·눈</a>]]></content>
     </entry>
 </feed>
