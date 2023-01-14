@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-14T04:16:21.710Z</updated>
+    <updated>2023-01-14T05:13:00.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003473920?sid=100" class="nclicks(rig.secteco)" title="尹, 사표 낸 나경원 ‘수리’ 아닌 ‘해임’했다">尹, 사표 낸 나경원 ‘수리’ 아닌 ‘해임’했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장제원, 나경원 연일 맹폭 “고독한 척, 외로운 척… 尹 대통령 기만”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003774045?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003774045?sid=100"/>
-        <updated>2023-01-14T03:14:44.734Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003774045?sid=100" class="nclicks(rig.secteco)" title="장제원, 나경원 연일 맹폭 “고독한 척, 외로운 척… 尹 대통령 기만”">장제원, 나경원 연일 맹폭 “고독한 척, 외로운 척… 尹 대통령 기만”</a>]]></content>
+        <title type="html"><![CDATA[장제원 “헛발질 거듭 나경원, 눈물의 출마선언 기대”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001580042?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001580042?sid=100"/>
+        <updated>2023-01-14T05:12:31.139Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001580042?sid=100" class="nclicks(rig.secteco)" title="장제원 “헛발질 거듭 나경원, 눈물의 출마선언 기대”">장제원 “헛발질 거듭 나경원, 눈물의 출마선언 기대”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미일 정상 "한반도 완전한 비핵화 재확인"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000718304?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000718304?sid=104"/>
-        <updated>2023-01-14T02:33:27.790Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000718304?sid=104" class="nclicks(rig.secteco)" title="미일 정상 &quot;한반도 완전한 비핵화 재확인&quot;">미일 정상 "한반도 완전한 비핵화 재확인"</a>]]></content>
+        <title type="html"><![CDATA[바이든·기시다, 한반도 완전한 비핵화 재확인… "한·미·일 협력 강화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000886860?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000886860?sid=104"/>
+        <updated>2023-01-14T05:12:31.145Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000886860?sid=104" class="nclicks(rig.secteco)" title="바이든·기시다, 한반도 완전한 비핵화 재확인… &quot;한·미·일 협력 강화&quot;">바이든·기시다, 한반도 완전한 비핵화 재확인… "한·미·일 협력 강화"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['독자 핵무장' 언급한 尹대통령…"북핵협상력 높이려는 동시다발적 메시지"]]></title>
@@ -48,18 +48,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005406120?sid=101" class="nclicks(rig.secteco)" title="주담대 영향 미칠 기준금리, 이제 오를만큼 올랐나">주담대 영향 미칠 기준금리, 이제 오를만큼 올랐나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비트코인, 거침없는 상승세…2만 달러 회복 '초읽기']]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002675442?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002675442?sid=101"/>
-        <updated>2023-01-14T04:15:54.080Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002675442?sid=101" class="nclicks(rig.secteco)" title="비트코인, 거침없는 상승세…2만 달러 회복 '초읽기'">비트코인, 거침없는 상승세…2만 달러 회복 '초읽기'</a>]]></content>
+        <title type="html"><![CDATA[요즘 비트코인 누가해?…“반토막 내가 손절하니 귀신같이 오르네”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002090790?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002090790?sid=101"/>
+        <updated>2023-01-14T05:12:31.156Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002090790?sid=101" class="nclicks(rig.secteco)" title="요즘 비트코인 누가해?…“반토막 내가 손절하니 귀신같이 오르네”">요즘 비트코인 누가해?…“반토막 내가 손절하니 귀신같이 오르네”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유류세 인하폭 축소에 휘발윳값 2주째 올라‥경유는 하락]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001247804?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001247804?sid=101"/>
-        <updated>2023-01-14T04:15:54.081Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001247804?sid=101" class="nclicks(rig.secteco)" title="유류세 인하폭 축소에 휘발윳값 2주째 올라‥경유는 하락">유류세 인하폭 축소에 휘발윳값 2주째 올라‥경유는 하락</a>]]></content>
+        <title type="html"><![CDATA[주유소 휘발유 가격 2주 연속 상승... ℓ당 1562원]]></title>
+        <id>https://n.news.naver.com/mnews/article/310/0000103115?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/310/0000103115?sid=101"/>
+        <updated>2023-01-14T05:12:31.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000103115?sid=101" class="nclicks(rig.secteco)" title="주유소 휘발유 가격 2주 연속 상승... ℓ당 1562원">주유소 휘발유 가격 2주 연속 상승... ℓ당 1562원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한 해킹조직, 'daum'을 'daurn'으로 위장해 피싱 공격]]></title>
+        <id>https://n.news.naver.com/mnews/article/310/0000103116?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/310/0000103116?sid=105"/>
+        <updated>2023-01-14T05:12:31.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000103116?sid=105" class="nclicks(rig.secteco)" title="북한 해킹조직, 'daum'을 'daurn'으로 위장해 피싱 공격">북한 해킹조직, 'daum'을 'daurn'으로 위장해 피싱 공격</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['민영화 20년' 지났지만…KT에 부는 여전한 외풍?]]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000042140?sid=105" class="nclicks(rig.secteco)" title="'민영화 20년' 지났지만…KT에 부는 여전한 외풍?">'민영화 20년' 지났지만…KT에 부는 여전한 외풍?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“北, 카카오 daum을 ‘daurn’으로 위장해 비밀번호 탈취 시도”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000869786?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000869786?sid=105"/>
-        <updated>2023-01-14T03:14:44.758Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000869786?sid=105" class="nclicks(rig.secteco)" title="“北, 카카오 daum을 ‘daurn’으로 위장해 비밀번호 탈취 시도”">“北, 카카오 daum을 ‘daurn’으로 위장해 비밀번호 탈취 시도”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전국 눈·비 오고 밤부터 기온 크게 떨어져...강원 대설주의보]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000328757?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000328757?sid=102"/>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000328757?sid=102" class="nclicks(rig.secteco)" title="전국 눈·비 오고 밤부터 기온 크게 떨어져...강원 대설주의보">전국 눈·비 오고 밤부터 기온 크게 떨어져...강원 대설주의보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“자식 여섯, 2년간 아무도 안 찾아”…백골 시신의 전말]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001580031?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001580031?sid=102"/>
-        <updated>2023-01-14T04:15:54.086Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001580031?sid=102" class="nclicks(rig.secteco)" title="“자식 여섯, 2년간 아무도 안 찾아”…백골 시신의 전말">“자식 여섯, 2년간 아무도 안 찾아”…백골 시신의 전말</a>]]></content>
+        <title type="html"><![CDATA[2년 넘게 방치된 70대의 죽음…왕래없던 가족·구청은 몰랐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005406092?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005406092?sid=102"/>
+        <updated>2023-01-14T05:12:31.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005406092?sid=102" class="nclicks(rig.secteco)" title="2년 넘게 방치된 70대의 죽음…왕래없던 가족·구청은 몰랐다">2년 넘게 방치된 70대의 죽음…왕래없던 가족·구청은 몰랐다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이태원 참사’ 특수본 수사 종료…못 다 밝힌 공동책임, 공은 검찰로]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003253280?sid=102" class="nclicks(rig.secteco)" title="‘이태원 참사’ 특수본 수사 종료…못 다 밝힌 공동책임, 공은 검찰로">‘이태원 참사’ 특수본 수사 종료…못 다 밝힌 공동책임, 공은 검찰로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영동 최대 70cm↑ 폭설…서울 밤부터 눈으로]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001028214?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001028214?sid=103"/>
-        <updated>2023-01-14T04:15:54.089Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001028214?sid=103" class="nclicks(rig.secteco)" title="영동 최대 70cm↑ 폭설…서울 밤부터 눈으로">영동 최대 70cm↑ 폭설…서울 밤부터 눈으로</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 주말 강원 영동 많은 눈…전국 곳곳 겨울비]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000579340?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000579340?sid=103"/>
+        <updated>2023-01-14T05:12:31.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000579340?sid=103" class="nclicks(rig.secteco)" title="[날씨] 주말 강원 영동 많은 눈…전국 곳곳 겨울비">[날씨] 주말 강원 영동 많은 눈…전국 곳곳 겨울비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연일 짙은 안개 자욱한 한반도…이유는 이것 때문?]]></title>
