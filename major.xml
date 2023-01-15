@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-14T23:13:36.976Z</updated>
+    <updated>2023-01-15T01:11:25.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[尹, UAE전투기 호위 받으며 국빈 방문…원전·방산·인프라 '정상 세일즈']]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003727501?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003727501?sid=100"/>
-        <updated>2023-01-14T23:13:08.861Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003727501?sid=100" class="nclicks(rig.secteco)" title="尹, UAE전투기 호위 받으며 국빈 방문…원전·방산·인프라 '정상 세일즈'">尹, UAE전투기 호위 받으며 국빈 방문…원전·방산·인프라 '정상 세일즈'</a>]]></content>
+        <title type="html"><![CDATA[尹대통령, 전투기 호위 받으며 UAE 도착...“경제 돌파구 마련 기대”]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002295143?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002295143?sid=100"/>
+        <updated>2023-01-15T01:10:56.277Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002295143?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 전투기 호위 받으며 UAE 도착...“경제 돌파구 마련 기대”">尹대통령, 전투기 호위 받으며 UAE 도착...“경제 돌파구 마련 기대”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UAE 첫 일정, 재외동포 만난 尹대통령 부부…오늘 정상회담]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000793452?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000793452?sid=100"/>
-        <updated>2023-01-14T23:13:08.862Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000793452?sid=100" class="nclicks(rig.secteco)" title="UAE 첫 일정, 재외동포 만난 尹대통령 부부…오늘 정상회담">UAE 첫 일정, 재외동포 만난 尹대통령 부부…오늘 정상회담</a>]]></content>
+        <title type="html"><![CDATA[UAE 도착, 윤 대통령 "UAE 최상의 파트너"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002379186?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002379186?sid=100"/>
+        <updated>2023-01-15T01:10:56.279Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002379186?sid=100" class="nclicks(rig.secteco)" title="UAE 도착, 윤 대통령 &quot;UAE 최상의 파트너&quot;">UAE 도착, 윤 대통령 "UAE 최상의 파트너"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주간政談<상>] '나경원을 어쩌나?'...대통령실·국민의힘 '부글부글']]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000195555?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000195555?sid=100"/>
-        <updated>2023-01-14T21:11:22.645Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000195555?sid=100" class="nclicks(rig.secteco)" title="[주간政談]  '나경원을 어쩌나?'...대통령실·국민의힘 '부글부글'">[주간政談&lt;상&gt;] '나경원을 어쩌나?'...대통령실·국민의힘 '부글부글'</a>]]></content>
+        <title type="html"><![CDATA[나경원, 장제원 겨냥 “제2의 ‘진박’ 감별사...2016년 악몽 떠 올라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002551653?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002551653?sid=100"/>
+        <updated>2023-01-15T01:10:56.280Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002551653?sid=100" class="nclicks(rig.secteco)" title="나경원, 장제원 겨냥 “제2의 ‘진박’ 감별사...2016년 악몽 떠 올라”">나경원, 장제원 겨냥 “제2의 ‘진박’ 감별사...2016년 악몽 떠 올라”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 尹 의지·노력 통하나…기시다 “한일관계 개선 위해 소통 지속” [나우,어스]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002090881?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002090881?sid=104"/>
+        <updated>2023-01-15T01:10:56.281Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002090881?sid=104" class="nclicks(rig.secteco)" title="[영상] 尹 의지·노력 통하나…기시다 “한일관계 개선 위해 소통 지속” [나우,어스]">[영상] 尹 의지·노력 통하나…기시다 “한일관계 개선 위해 소통 지속” [나우,어스]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러, 우크라 대규모 공습…아파트 강타한 미사일에 9명 사망(종합3보)]]></title>
@@ -34,53 +41,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013700515?sid=104" class="nclicks(rig.secteco)" title="러, 우크라 대규모 공습…아파트 강타한 미사일에 9명 사망(종합3보)">러, 우크라 대규모 공습…아파트 강타한 미사일에 9명 사망(종합3보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국 “한 달간 병원서 코로나로 6만 명 사망”]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000718355?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000718355?sid=104"/>
-        <updated>2023-01-14T23:13:08.865Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000718355?sid=104" class="nclicks(rig.secteco)" title="중국 “한 달간 병원서 코로나로 6만 명 사망”">중국 “한 달간 병원서 코로나로 6만 명 사망”</a>]]></content>
+        <title type="html"><![CDATA[아이오닉5 달려오더니 "쾅"…신차 하나에 100억 쓴다 [현장+]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004799470?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004799470?sid=101"/>
+        <updated>2023-01-15T01:10:56.284Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004799470?sid=101" class="nclicks(rig.secteco)" title="아이오닉5 달려오더니 &quot;쾅&quot;…신차 하나에 100억 쓴다 [현장+]">아이오닉5 달려오더니 "쾅"…신차 하나에 100억 쓴다 [현장+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["차 할부·신용대출 먼저 갚으세요"... 새해 '빚테크' 전략?A to Z [내돈내산]]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000718354?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000718354?sid=101"/>
-        <updated>2023-01-14T23:13:08.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000718354?sid=101" class="nclicks(rig.secteco)" title="&quot;차 할부·신용대출 먼저 갚으세요&quot;... 새해 '빚테크' 전략?A to Z [내돈내산]">"차 할부·신용대출 먼저 갚으세요"... 새해 '빚테크' 전략?A to Z [내돈내산]</a>]]></content>
+        <title type="html"><![CDATA[기준금리 올라도…이번주 은행 대출금리 0.3%P 안팎 더 떨어진다]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013700489?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013700489?sid=101"/>
+        <updated>2023-01-15T01:10:56.285Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013700489?sid=101" class="nclicks(rig.secteco)" title="기준금리 올라도…이번주 은행 대출금리 0.3%P 안팎 더 떨어진다">기준금리 올라도…이번주 은행 대출금리 0.3%P 안팎 더 떨어진다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비트코인 2만1000달러마저 돌파한 이유 2가지(상보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006576784?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006576784?sid=101"/>
-        <updated>2023-01-14T23:13:08.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006576784?sid=101" class="nclicks(rig.secteco)" title="비트코인 2만1000달러마저 돌파한 이유 2가지(상보)">비트코인 2만1000달러마저 돌파한 이유 2가지(상보)</a>]]></content>
+        <title type="html"><![CDATA[‘이자장사’ 5대 은행, 직원 연봉 1억은 기본…상위 10%는 2억 달해]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000038100?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000038100?sid=101"/>
+        <updated>2023-01-15T01:10:56.286Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000038100?sid=101" class="nclicks(rig.secteco)" title="‘이자장사’ 5대 은행, 직원 연봉 1억은 기본…상위 10%는 2억 달해">‘이자장사’ 5대 은행, 직원 연봉 1억은 기본…상위 10%는 2억 달해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSG닷컴 신세계백화점몰 설 선물하기 매출 3배 늘어]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006576728?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006576728?sid=101"/>
-        <updated>2023-01-14T23:13:08.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006576728?sid=101" class="nclicks(rig.secteco)" title="SSG닷컴 신세계백화점몰 설 선물하기 매출 3배 늘어">SSG닷컴 신세계백화점몰 설 선물하기 매출 3배 늘어</a>]]></content>
+        <title type="html"><![CDATA[SKT, 파트너사에 1100억 규모 대금 조기 지급]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002675519?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002675519?sid=105"/>
+        <updated>2023-01-15T01:10:56.289Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002675519?sid=105" class="nclicks(rig.secteco)" title="SKT, 파트너사에 1100억 규모 대금 조기 지급">SKT, 파트너사에 1100억 규모 대금 조기 지급</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대급 갤럭시 온다…미리 보는 S23]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005205196?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005205196?sid=105"/>
-        <updated>2023-01-14T22:12:19.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005205196?sid=105" class="nclicks(rig.secteco)" title="역대급 갤럭시 온다…미리 보는 S23">역대급 갤럭시 온다…미리 보는 S23</a>]]></content>
+        <title type="html"><![CDATA[한·중만 금지된 '돈버는 게임'…결국 법원도 '외면']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006576825?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006576825?sid=105"/>
+        <updated>2023-01-15T01:10:56.291Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006576825?sid=105" class="nclicks(rig.secteco)" title="한·중만 금지된 '돈버는 게임'…결국 법원도 '외면'">한·중만 금지된 '돈버는 게임'…결국 법원도 '외면'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“드루와~” 웬일로 한국에 문 열어젖힌 中...근거 있는 자신감이라는데 [더테크웨이브]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005074668?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005074668?sid=105"/>
-        <updated>2023-01-14T23:13:08.867Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005074668?sid=105" class="nclicks(rig.secteco)" title="“드루와~” 웬일로 한국에 문 열어젖힌 中...근거 있는 자신감이라는데 [더테크웨이브]">“드루와~” 웬일로 한국에 문 열어젖힌 中...근거 있는 자신감이라는데 [더테크웨이브]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 눈·비 내리고 기온 뚝…강원엔 최대 60㎝ 폭설]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006576719?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006576719?sid=102"/>
-        <updated>2023-01-14T23:13:08.868Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006576719?sid=102" class="nclicks(rig.secteco)" title="[오늘 날씨] 눈·비 내리고 기온 뚝…강원엔 최대 60㎝ 폭설">[오늘 날씨] 눈·비 내리고 기온 뚝…강원엔 최대 60㎝ 폭설</a>]]></content>
+        <title type="html"><![CDATA[[내일 날씨] 강원 최대 40㎝ 폭설…'아침 -13도' 어제보다 더 추워]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006576866?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006576866?sid=102"/>
+        <updated>2023-01-15T01:10:56.291Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006576866?sid=102" class="nclicks(rig.secteco)" title="[내일 날씨] 강원 최대 40㎝ 폭설…'아침 -13도' 어제보다 더 추워">[내일 날씨] 강원 최대 40㎝ 폭설…'아침 -13도' 어제보다 더 추워</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곧 20억 날아가는데…"1년 전 전주에서 로또 사신 분"]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004799464?sid=102" class="nclicks(rig.secteco)" title="곧 20억 날아가는데…&quot;1년 전 전주에서 로또 사신 분&quot;">곧 20억 날아가는데…"1년 전 전주에서 로또 사신 분"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[159번째 유가족의 편지 "재현아, 아빠가 이해 못해 미안해" [이태원참사_기록]]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002379179?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002379179?sid=102"/>
-        <updated>2023-01-14T23:13:08.872Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002379179?sid=102" class="nclicks(rig.secteco)" title="159번째 유가족의 편지 &quot;재현아, 아빠가 이해 못해 미안해&quot; [이태원참사_기록]">159번째 유가족의 편지 "재현아, 아빠가 이해 못해 미안해" [이태원참사_기록]</a>]]></content>
+        <title type="html"><![CDATA[1주택인데 양도세 폭탄?…法 "함께 거주하면 세대분리 인정 안돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005406207?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005406207?sid=102"/>
+        <updated>2023-01-15T01:10:56.298Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005406207?sid=102" class="nclicks(rig.secteco)" title="1주택인데 양도세 폭탄?…法 &quot;함께 거주하면 세대분리 인정 안돼&quot;">1주택인데 양도세 폭탄?…法 "함께 거주하면 세대분리 인정 안돼"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 전국 비·눈, 영동 대설특보 속 폭설...40cm↑ 더 온다]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001837855?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 비·눈, 영동 대설특보 속 폭설...40cm↑ 더 온다">[날씨] 전국 비·눈, 영동 대설특보 속 폭설...40cm↑ 더 온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['현대가 며느리'리디아 고와 김연아·손예진이 찜한 답례품의 정체]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001193534?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001193534?sid=103"/>
-        <updated>2023-01-14T20:13:14.724Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001193534?sid=103" class="nclicks(rig.secteco)" title="'현대가 며느리'리디아 고와 김연아·손예진이 찜한 답례품의 정체">'현대가 며느리'리디아 고와 김연아·손예진이 찜한 답례품의 정체</a>]]></content>
+        <title type="html"><![CDATA[현대家 며느리 리디아 고가 선택한 19만원짜리 이것]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005406235?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005406235?sid=103"/>
+        <updated>2023-01-15T01:10:56.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005406235?sid=103" class="nclicks(rig.secteco)" title="현대家 며느리 리디아 고가 선택한 19만원짜리 이것">현대家 며느리 리디아 고가 선택한 19만원짜리 이것</a>]]></content>
     </entry>
 </feed>
