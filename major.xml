@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-21T07:12:47.342Z</updated>
+    <updated>2023-01-21T08:16:56.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘보수 종갓집 맏며느리’ 전략 짜는 나경원…연휴 뒤 출전하나? [3·8 국민의힘 전당대회]]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003254872?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003254872?sid=100"/>
-        <updated>2023-01-21T05:13:09.785Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003254872?sid=100" class="nclicks(rig.secteco)" title="‘보수 종갓집 맏며느리’ 전략 짜는 나경원…연휴 뒤 출전하나? [3·8 국민의힘 전당대회]">‘보수 종갓집 맏며느리’ 전략 짜는 나경원…연휴 뒤 출전하나? [3·8 국민의힘 전당대회]</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "1호 영업사원"...새해 첫 순방 성적표는?]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001840428?sid=100</id>
@@ -20,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001840428?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;1호 영업사원&quot;...새해 첫 순방 성적표는?">尹 "1호 영업사원"...새해 첫 순방 성적표는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 부부 설인사 “새로운 도약 향해 모든 역량 모으겠다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003200503?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003200503?sid=100"/>
-        <updated>2023-01-21T07:12:15.899Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003200503?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 부부 설인사 “새로운 도약 향해 모든 역량 모으겠다”">윤 대통령 부부 설인사 “새로운 도약 향해 모든 역량 모으겠다”</a>]]></content>
+        <title type="html"><![CDATA[[영상] 윤석열·김건희 새해 인사…21일 서울공항 귀국]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000794710?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000794710?sid=100"/>
+        <updated>2023-01-21T08:16:28.498Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000794710?sid=100" class="nclicks(rig.secteco)" title="[영상] 윤석열·김건희 새해 인사…21일 서울공항 귀국">[영상] 윤석열·김건희 새해 인사…21일 서울공항 귀국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 백악관 "북한, 러시아에 무기 지원... 북한 행동 규탄"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002379864?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002379864?sid=104"/>
-        <updated>2023-01-21T07:12:15.900Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002379864?sid=104" class="nclicks(rig.secteco)" title="미 백악관 &quot;북한, 러시아에 무기 지원... 북한 행동 규탄&quot;">미 백악관 "북한, 러시아에 무기 지원... 북한 행동 규탄"</a>]]></content>
+        <title type="html"><![CDATA[尹대통령에게 사과한 나경원… 발언 논란에도 '출마선언' 수순]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004842796?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004842796?sid=100"/>
+        <updated>2023-01-21T08:16:28.499Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004842796?sid=100" class="nclicks(rig.secteco)" title="尹대통령에게 사과한 나경원… 발언 논란에도 '출마선언' 수순">尹대통령에게 사과한 나경원… 발언 논란에도 '출마선언' 수순</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北, 러 와그너그룹에 무기 공급 ‘증거 사진’… 백악관 “北, 멈춰라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003334019?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003334019?sid=104"/>
+        <updated>2023-01-21T08:16:28.500Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334019?sid=104" class="nclicks(rig.secteco)" title="北, 러 와그너그룹에 무기 공급 ‘증거 사진’… 백악관 “北, 멈춰라”">北, 러 와그너그룹에 무기 공급 ‘증거 사진’… 백악관 “北, 멈춰라”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 테크업계 이어지는 칼바람…"1년새 감원 규모 20만명"]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013714163?sid=104" class="nclicks(rig.secteco)" title="글로벌 테크업계 이어지는 칼바람…&quot;1년새 감원 규모 20만명&quot;">글로벌 테크업계 이어지는 칼바람…"1년새 감원 규모 20만명"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 들어 수출 2.7% 감소 ‘비상’… 무역적자 103억달러]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003776433?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003776433?sid=101"/>
-        <updated>2023-01-21T06:16:15.482Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776433?sid=101" class="nclicks(rig.secteco)" title="올해 들어 수출 2.7% 감소 ‘비상’… 무역적자 103억달러">올해 들어 수출 2.7% 감소 ‘비상’… 무역적자 103억달러</a>]]></content>
+        <title type="html"><![CDATA[1월1~20일 무역적자 103억달러 …수출, 4개월 뒷걸음 확실]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002093806?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002093806?sid=101"/>
+        <updated>2023-01-21T08:16:28.501Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002093806?sid=101" class="nclicks(rig.secteco)" title="1월1~20일 무역적자 103억달러 …수출, 4개월 뒷걸음 확실">1월1~20일 무역적자 103억달러 …수출, 4개월 뒷걸음 확실</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘발유 가격 3주만에 하락...경유는 9주 연속]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004958816?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004958816?sid=101"/>
+        <updated>2023-01-21T08:16:28.502Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004958816?sid=101" class="nclicks(rig.secteco)" title="휘발유 가격 3주만에 하락...경유는 9주 연속">휘발유 가격 3주만에 하락...경유는 9주 연속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고속도로 휴게소 물가 '쑥'…호두과자 가격 1년 새 11.8%↑]]></title>
@@ -53,13 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000196796?sid=101"/>
         <updated>2023-01-21T07:12:15.906Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000196796?sid=101" class="nclicks(rig.secteco)" title="고속도로 휴게소 물가 '쑥'…호두과자 가격 1년 새 11.8%↑">고속도로 휴게소 물가 '쑥'…호두과자 가격 1년 새 11.8%↑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴 앞두고 휘발윳값 3주 만에 ‘하락’…경유 9주째 내려]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005410454?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005410454?sid=101"/>
-        <updated>2023-01-21T07:12:15.907Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410454?sid=101" class="nclicks(rig.secteco)" title="연휴 앞두고 휘발윳값 3주 만에 ‘하락’…경유 9주째 내려">연휴 앞두고 휘발윳값 3주 만에 ‘하락’…경유 9주째 내려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연휴 노리는 해커…'고속도로 무료 와이파이 주의하세요']]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003741899?sid=105" class="nclicks(rig.secteco)" title="135만원짜리 ‘Z플립4′를 14만원에?... ‘갤23′ 신제품 출시 앞두고 사기주의보">135만원짜리 ‘Z플립4′를 14만원에?... ‘갤23′ 신제품 출시 앞두고 사기주의보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[귀성길 고속도로 곳곳 정체…서울→부산 6시간 40분]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013714258?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013714258?sid=102"/>
-        <updated>2023-01-21T07:12:15.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013714258?sid=102" class="nclicks(rig.secteco)" title="귀성길 고속도로 곳곳 정체…서울→부산 6시간 40분">귀성길 고속도로 곳곳 정체…서울→부산 6시간 40분</a>]]></content>
+        <title type="html"><![CDATA[귀성길 정체 오후 들어 다소 풀려…서울→부산 4시간 40분]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013714323?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013714323?sid=102"/>
+        <updated>2023-01-21T08:16:28.510Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013714323?sid=102" class="nclicks(rig.secteco)" title="귀성길 정체 오후 들어 다소 풀려…서울→부산 4시간 40분">귀성길 정체 오후 들어 다소 풀려…서울→부산 4시간 40분</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["왜 구호 조치 안 했나?" 배달원 치고 도주한 의사의 말]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001029967?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001029967?sid=102"/>
-        <updated>2023-01-21T07:12:15.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001029967?sid=102" class="nclicks(rig.secteco)" title="&quot;왜 구호 조치 안 했나?&quot; 배달원 치고 도주한 의사의 말">"왜 구호 조치 안 했나?" 배달원 치고 도주한 의사의 말</a>]]></content>
+        <title type="html"><![CDATA[‘만취 뺑소니’ 의사 車에 30대 배달원 숨져…“사람 친 줄 몰랐다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002093817?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002093817?sid=102"/>
+        <updated>2023-01-21T08:16:28.512Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002093817?sid=102" class="nclicks(rig.secteco)" title="‘만취 뺑소니’ 의사 車에 30대 배달원 숨져…“사람 친 줄 몰랐다”">‘만취 뺑소니’ 의사 車에 30대 배달원 숨져…“사람 친 줄 몰랐다”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2만7654명 확진, 1주전比 9천여명↓…중국발 입국자 양성률 3.5%(종합2보)]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001840367?sid=103" class="nclicks(rig.secteco)" title="[날씨] 설 연휴 첫날, 한파특보 속 강추위...연휴 날씨는?">[날씨] 설 연휴 첫날, 한파특보 속 강추위...연휴 날씨는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설 연휴, 최강한파에 눈·비까지…‘빙판길’ 운전 조심하세요]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003475260?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003475260?sid=103"/>
-        <updated>2023-01-21T01:08:08.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475260?sid=103" class="nclicks(rig.secteco)" title="설 연휴, 최강한파에 눈·비까지…‘빙판길’ 운전 조심하세요">설 연휴, 최강한파에 눈·비까지…‘빙판길’ 운전 조심하세요</a>]]></content>
+        <title type="html"><![CDATA["아흔까지 배우할 것"…알츠하이머가 앗아간 윤정희의 꿈]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003254793?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003254793?sid=103"/>
+        <updated>2023-01-21T08:16:28.522Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003254793?sid=103" class="nclicks(rig.secteco)" title="&quot;아흔까지 배우할 것&quot;…알츠하이머가 앗아간 윤정희의 꿈">"아흔까지 배우할 것"…알츠하이머가 앗아간 윤정희의 꿈</a>]]></content>
     </entry>
 </feed>
