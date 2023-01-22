@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-22T15:14:18.291Z</updated>
+    <updated>2023-01-22T16:17:46.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013714903?sid=104" class="nclicks(rig.secteco)" title="LA근처 음력설 행사 뒤 총기난사로 최소 10명 사망(종합2보)">LA근처 음력설 행사 뒤 총기난사로 최소 10명 사망(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이런 비극이…" 살인범 체포 후 되레 착잡해진 美 경찰]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003776598?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003776598?sid=104"/>
-        <updated>2023-01-22T15:13:47.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776598?sid=104" class="nclicks(rig.secteco)" title="&quot;이런 비극이…&quot; 살인범 체포 후 되레 착잡해진 美 경찰">"이런 비극이…" 살인범 체포 후 되레 착잡해진 美 경찰</a>]]></content>
+        <title type="html"><![CDATA["비극적"...美서 불치병 남편 간청에 방아쇠 당긴 아내]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003074068?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003074068?sid=104"/>
+        <updated>2023-01-22T16:17:17.384Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003074068?sid=104" class="nclicks(rig.secteco)" title="&quot;비극적&quot;...美서 불치병 남편 간청에 방아쇠 당긴 아내">"비극적"...美서 불치병 남편 간청에 방아쇠 당긴 아내</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[올해 정부 특수활동비 1천254억원…작년보다 48% 줄어]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013714905?sid=102" class="nclicks(rig.secteco)" title="고속도로 양방향 정체 풀려…&quot;내일 오전 8시부터 다시 혼잡&quot;">고속도로 양방향 정체 풀려…"내일 오전 8시부터 다시 혼잡"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003741991?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003741991?sid=102"/>
-        <updated>2023-01-22T15:13:47.674Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003741991?sid=102" class="nclicks(rig.secteco)" title="설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다">설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이태원 참사 유가족·세월호 참사 유가족, 눈물의 합동 차례]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003776595?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003776595?sid=102"/>
         <updated>2023-01-22T14:12:07.318Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776595?sid=102" class="nclicks(rig.secteco)" title="이태원 참사 유가족·세월호 참사 유가족, 눈물의 합동 차례">이태원 참사 유가족·세월호 참사 유가족, 눈물의 합동 차례</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003741991?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003741991?sid=102"/>
+        <updated>2023-01-22T15:13:47.674Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003741991?sid=102" class="nclicks(rig.secteco)" title="설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다">설날 새벽 청계천 연쇄 화재… 모자 눌러 쓴 그놈 짓이었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“집안 어르신 소장품…” 진품명품 최고가 찍은 ‘이 청자’ 뭐길래]]></title>
