@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-23T21:13:03.534Z</updated>
+    <updated>2023-01-23T22:13:35.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[김기현 ‘女 민방위 훈련 포함’에…민주 권인숙 “전쟁 부추기는 포퓰리즘”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003776744?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003776744?sid=100"/>
-        <updated>2023-01-23T21:12:31.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776744?sid=100" class="nclicks(rig.secteco)" title="김기현 ‘女 민방위 훈련 포함’에…민주 권인숙 “전쟁 부추기는 포퓰리즘”">김기현 ‘女 민방위 훈련 포함’에…민주 권인숙 “전쟁 부추기는 포퓰리즘”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[韓총리, 한파 대비 지시…“귀경길 교통안전 사전점검”]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005410922?sid=100</id>
@@ -20,11 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410922?sid=100" class="nclicks(rig.secteco)" title="韓총리, 한파 대비 지시…“귀경길 교통안전 사전점검”">韓총리, 한파 대비 지시…“귀경길 교통안전 사전점검”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대한민국 1%, 해병대 수색대', 혹한에도 설한지 훈련 구슬땀]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005410814?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005410814?sid=100"/>
-        <updated>2023-01-23T21:12:31.774Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410814?sid=100" class="nclicks(rig.secteco)" title="'대한민국 1%, 해병대 수색대', 혹한에도 설한지 훈련 구슬땀">'대한민국 1%, 해병대 수색대', 혹한에도 설한지 훈련 구슬땀</a>]]></content>
+        <title type="html"><![CDATA[‘정치할 거냐’ 질문에…탁현민 “정치는 내가 잘하지도, 멋있어 보이지도 않아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002780036?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002780036?sid=100"/>
+        <updated>2023-01-23T22:13:07.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002780036?sid=100" class="nclicks(rig.secteco)" title="‘정치할 거냐’ 질문에…탁현민 “정치는 내가 잘하지도, 멋있어 보이지도 않아”">‘정치할 거냐’ 질문에…탁현민 “정치는 내가 잘하지도, 멋있어 보이지도 않아”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김기현 “여성 민방위 훈련, 평화 위한 필수 생존교육…‘이대남’ 공략 아냐”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003334234?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003334234?sid=100"/>
+        <updated>2023-01-23T22:13:07.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334234?sid=100" class="nclicks(rig.secteco)" title="김기현 “여성 민방위 훈련, 평화 위한 필수 생존교육…‘이대남’ 공략 아냐”">김기현 “여성 민방위 훈련, 평화 위한 필수 생존교육…‘이대남’ 공략 아냐”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본 외무상들 10년째 “독도는 일본 땅”]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011655736?sid=104" class="nclicks(rig.secteco)" title="EU, 이란혁명수비대 고위층 등 18명·19개 기관 추가 제재">EU, 이란혁명수비대 고위층 등 18명·19개 기관 추가 제재</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[속보]"비둘기 FOMC 온다"…연준 훈풍에 나스닥 2%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005410941?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005410941?sid=101"/>
+        <updated>2023-01-23T22:13:07.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410941?sid=101" class="nclicks(rig.secteco)" title="[속보]&quot;비둘기 FOMC 온다&quot;…연준 훈풍에 나스닥 2%↑">[속보]"비둘기 FOMC 온다"…연준 훈풍에 나스닥 2%↑</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[추경호 “하반기 3%대 물가…가파른 금리, 경기 타격 목소리 커져”]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005410914?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005410914?sid=101"/>
@@ -48,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410914?sid=101" class="nclicks(rig.secteco)" title="추경호 “하반기 3%대 물가…가파른 금리, 경기 타격 목소리 커져”">추경호 “하반기 3%대 물가…가파른 금리, 경기 타격 목소리 커져”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["연준, 올해 봄 금리 인상 중단"…출구전략 모색하나]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005410938?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005410938?sid=101"/>
-        <updated>2023-01-23T21:12:31.780Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410938?sid=101" class="nclicks(rig.secteco)" title="&quot;연준, 올해 봄 금리 인상 중단&quot;…출구전략 모색하나">"연준, 올해 봄 금리 인상 중단"…출구전략 모색하나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만능AI 스타트업 12조원 투자 받아]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005078320?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005078320?sid=101"/>
-        <updated>2023-01-23T21:12:31.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005078320?sid=101" class="nclicks(rig.secteco)" title="만능AI 스타트업 12조원 투자 받아">만능AI 스타트업 12조원 투자 받아</a>]]></content>
+        <title type="html"><![CDATA[[초거대 AI시대 ①] 챗GPT에 물었다, "너는 나를 대신할 수 있니"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011655341?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011655341?sid=101"/>
+        <updated>2023-01-23T22:13:07.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011655341?sid=101" class="nclicks(rig.secteco)" title="[초거대 AI시대 ①] 챗GPT에 물었다, &quot;너는 나를 대신할 수 있니&quot;">[초거대 AI시대 ①] 챗GPT에 물었다, "너는 나를 대신할 수 있니"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국 우주산업, GDP의 고작 0.1%…‘돈되는 사업’ 언제쯤? [갈길 먼 K-우주②]]]></title>
@@ -76,6 +76,20 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334206?sid=105" class="nclicks(rig.secteco)" title="[우주를 보다] 금성과 토성이 ‘초근접’하는 우주쇼 펼쳐진다">[우주를 보다] 금성과 토성이 ‘초근접’하는 우주쇼 펼쳐진다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[설연휴 마지막날 제주 하늘길·뱃길 차질…동장군 맹위]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013715485?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013715485?sid=102"/>
+        <updated>2023-01-23T22:13:07.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013715485?sid=102" class="nclicks(rig.secteco)" title="설연휴 마지막날 제주 하늘길·뱃길 차질…동장군 맹위">설연휴 마지막날 제주 하늘길·뱃길 차질…동장군 맹위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['수원 발바리' 박병화 극단전 선택 시도.. 생명엔 지장없어]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005410946?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005410946?sid=102"/>
+        <updated>2023-01-23T22:13:07.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005410946?sid=102" class="nclicks(rig.secteco)" title="'수원 발바리' 박병화 극단전 선택 시도.. 생명엔 지장없어">'수원 발바리' 박병화 극단전 선택 시도.. 생명엔 지장없어</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[귀경 정체로 고속도로 곳곳 '거북이 걸음'…오후 4~5시 절정]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011655538?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011655538?sid=102"/>
@@ -83,31 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011655538?sid=102" class="nclicks(rig.secteco)" title="귀경 정체로 고속도로 곳곳 '거북이 걸음'…오후 4~5시 절정">귀경 정체로 고속도로 곳곳 '거북이 걸음'…오후 4~5시 절정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폭설·강풍·한파특보 제주…24일 항공편 대부분 결항(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013715414?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013715414?sid=102"/>
-        <updated>2023-01-23T19:11:13.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013715414?sid=102" class="nclicks(rig.secteco)" title="폭설·강풍·한파특보 제주…24일 항공편 대부분 결항(종합2보)">폭설·강풍·한파특보 제주…24일 항공편 대부분 결항(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[경기 영하 15도 안팎 '맹추위'…포천 영하 18도]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013715484?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013715484?sid=103"/>
+        <updated>2023-01-23T22:13:07.125Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013715484?sid=103" class="nclicks(rig.secteco)" title="경기 영하 15도 안팎 '맹추위'…포천 영하 18도">경기 영하 15도 안팎 '맹추위'…포천 영하 18도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] '연쇄 성폭행범' 박병화 극단적 선택 시도했다 구조돼]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001840895?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001840895?sid=102"/>
-        <updated>2023-01-23T19:11:13.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001840895?sid=102" class="nclicks(rig.secteco)" title="[단독] '연쇄 성폭행범' 박병화 극단적 선택 시도했다 구조돼">[단독] '연쇄 성폭행범' 박병화 극단적 선택 시도했다 구조돼</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 29번째 장편 '물 안에서' 베를린영화제 초청]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002094122?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002094122?sid=103"/>
-        <updated>2023-01-23T15:15:03.084Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002094122?sid=103" class="nclicks(rig.secteco)" title="홍상수 29번째 장편 '물 안에서' 베를린영화제 초청">홍상수 29번째 장편 '물 안에서' 베를린영화제 초청</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴 마지막날 철원 체감온도 ‘-32도’… 역대급 한파 몰아친다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003776734?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003776734?sid=103"/>
-        <updated>2023-01-23T21:12:31.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776734?sid=103" class="nclicks(rig.secteco)" title="연휴 마지막날 철원 체감온도 ‘-32도’… 역대급 한파 몰아친다">연휴 마지막날 철원 체감온도 ‘-32도’… 역대급 한파 몰아친다</a>]]></content>
+        <title type="html"><![CDATA[연휴 마지막날 눈 동반한 '강추위'…전국에 한파특보]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013715443?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013715443?sid=103"/>
+        <updated>2023-01-23T22:13:07.126Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013715443?sid=103" class="nclicks(rig.secteco)" title="연휴 마지막날 눈 동반한 '강추위'…전국에 한파특보">연휴 마지막날 눈 동반한 '강추위'…전국에 한파특보</a>]]></content>
     </entry>
 </feed>
