@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-24T18:17:21.376Z</updated>
+    <updated>2023-01-24T19:11:59.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003742195?sid=100" class="nclicks(rig.secteco)" title="尹, 순방후 첫 일정은 젊은 과학자 오찬">尹, 순방후 첫 일정은 젊은 과학자 오찬</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본 외무상 고질병? “독도는 일본 땅” 10년째 망언]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000031168?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000031168?sid=100"/>
-        <updated>2023-01-24T18:16:50.931Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000031168?sid=100" class="nclicks(rig.secteco)" title="일본 외무상 고질병? “독도는 일본 땅” 10년째 망언">일본 외무상 고질병? “독도는 일본 땅” 10년째 망언</a>]]></content>
+        <title type="html"><![CDATA[日외상, 징용해법 협의중에 또 ‘독도 망언’]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003475480?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003475480?sid=100"/>
+        <updated>2023-01-24T19:11:27.820Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475480?sid=100" class="nclicks(rig.secteco)" title="日외상, 징용해법 협의중에 또 ‘독도 망언’">日외상, 징용해법 협의중에 또 ‘독도 망언’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4시간 회의에도 출마결론 못냈다…나경원 막판 던진 한마디]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000031199?sid=101" class="nclicks(rig.secteco)" title="은행 30일부터 ‘9~16시 영업’ 추진">은행 30일부터 ‘9~16시 영업’ 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용 ‘설 깜짝선물’]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003475561?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003475561?sid=101"/>
-        <updated>2023-01-24T18:16:50.938Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475561?sid=101" class="nclicks(rig.secteco)" title="이재용 ‘설 깜짝선물’">이재용 ‘설 깜짝선물’</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["전력수급 고비는 연휴 다음 날..." 정부, 석탄발전기까지 대기시켰다]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000719814?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000719814?sid=101"/>
         <updated>2023-01-24T17:12:48.685Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000719814?sid=101" class="nclicks(rig.secteco)" title="&quot;전력수급 고비는 연휴 다음 날...&quot; 정부, 석탄발전기까지 대기시켰다">"전력수급 고비는 연휴 다음 날..." 정부, 석탄발전기까지 대기시켰다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재용 ‘설 깜짝선물’]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003475561?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003475561?sid=101"/>
+        <updated>2023-01-24T18:16:50.938Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475561?sid=101" class="nclicks(rig.secteco)" title="이재용 ‘설 깜짝선물’">이재용 ‘설 깜짝선물’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진화하는 AI… “사용자 대화 내용 기억해 인간처럼 답변”]]></title>
