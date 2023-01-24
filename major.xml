@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-24T20:16:11.335Z</updated>
+    <updated>2023-01-24T21:12:50.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 UAE·스위스 순방 후속 조치 '착착'…TF 구성 지시·투자 협력 플랫폼 구축]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002677625?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002677625?sid=100"/>
-        <updated>2023-01-24T20:15:38.807Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002677625?sid=100" class="nclicks(rig.secteco)" title="尹대통령 UAE·스위스 순방 후속 조치 '착착'…TF 구성 지시·투자 협력 플랫폼 구축">尹대통령 UAE·스위스 순방 후속 조치 '착착'…TF 구성 지시·투자 협력 플랫폼 구축</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 전대 3파전… 결심 굳힌 나경원 오늘 입장 발표]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003334384?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003334384?sid=100"/>
-        <updated>2023-01-24T20:15:38.809Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334384?sid=100" class="nclicks(rig.secteco)" title="與 전대 3파전… 결심 굳힌 나경원 오늘 입장 발표">與 전대 3파전… 결심 굳힌 나경원 오늘 입장 발표</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나경원, 출마 여부 오늘 발표… 김기현-안철수, 서로 “철새” “진흙탕” 신경전]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003475488?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003475488?sid=100"/>
         <updated>2023-01-24T20:15:38.810Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475488?sid=100" class="nclicks(rig.secteco)" title="나경원, 출마 여부 오늘 발표… 김기현-안철수, 서로 “철새” “진흙탕” 신경전">나경원, 출마 여부 오늘 발표… 김기현-안철수, 서로 “철새” “진흙탕” 신경전</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['드디어' 입장 밝히는 나경원…불 붙은 당권 경쟁]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003730361?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003730361?sid=100"/>
+        <updated>2023-01-24T21:12:22.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003730361?sid=100" class="nclicks(rig.secteco)" title="'드디어' 입장 밝히는 나경원…불 붙은 당권 경쟁">'드디어' 입장 밝히는 나경원…불 붙은 당권 경쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹, '37조 잭팟' 순방 후속 조치 '만전'…업무보고 곧 마무리]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003730359?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003730359?sid=100"/>
+        <updated>2023-01-24T21:12:22.397Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003730359?sid=100" class="nclicks(rig.secteco)" title="尹, '37조 잭팟' 순방 후속 조치 '만전'…업무보고 곧 마무리">尹, '37조 잭팟' 순방 후속 조치 '만전'…업무보고 곧 마무리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 폼페이오 “트럼프도 김정은도 판문점 회동에 文동행 원치 않았다” [특파원+]]]></title>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003776876?sid=104" class="nclicks(rig.secteco)" title="[단독] 폼페이오 “트럼프도 김정은도 판문점 회동에 文동행 원치 않았다” [특파원+]">[단독] 폼페이오 “트럼프도 김정은도 판문점 회동에 文동행 원치 않았다” [특파원+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단골 댄스홀서 총기난사한 美72세…"춤추다 툭하면 버럭했다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003255126?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003255126?sid=104"/>
-        <updated>2023-01-24T20:15:38.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003255126?sid=104" class="nclicks(rig.secteco)" title="단골 댄스홀서 총기난사한 美72세…&quot;춤추다 툭하면 버럭했다&quot;">단골 댄스홀서 총기난사한 美72세…"춤추다 툭하면 버럭했다"</a>]]></content>
+        <title type="html"><![CDATA[美 서부서 또 총기 난사…편의점에 총격 가해 3명 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013716616?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013716616?sid=104"/>
+        <updated>2023-01-24T21:12:22.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013716616?sid=104" class="nclicks(rig.secteco)" title="美 서부서 또 총기 난사…편의점에 총격 가해 3명 사망">美 서부서 또 총기 난사…편의점에 총격 가해 3명 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아파트 관리비가 70만원대?…집집마다 ‘난방비 폭탄’ 맞았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005411254?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005411254?sid=101"/>
-        <updated>2023-01-24T20:15:38.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411254?sid=101" class="nclicks(rig.secteco)" title="아파트 관리비가 70만원대?…집집마다 ‘난방비 폭탄’ 맞았다">아파트 관리비가 70만원대?…집집마다 ‘난방비 폭탄’ 맞았다</a>]]></content>
+        <title type="html"><![CDATA[금리 하락세…'고정금리 비중 확대' 고심하는 금융당국]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005411263?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005411263?sid=101"/>
+        <updated>2023-01-24T21:12:22.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411263?sid=101" class="nclicks(rig.secteco)" title="금리 하락세…'고정금리 비중 확대' 고심하는 금융당국">금리 하락세…'고정금리 비중 확대' 고심하는 금융당국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 공공기관 정규직 신규채용 축소…청년 '고용 한파' 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005411252?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005411252?sid=101"/>
-        <updated>2023-01-24T20:15:38.817Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411252?sid=101" class="nclicks(rig.secteco)" title="올해 공공기관 정규직 신규채용 축소…청년 '고용 한파' 우려">올해 공공기관 정규직 신규채용 축소…청년 '고용 한파' 우려</a>]]></content>
+        <title type="html"><![CDATA[역대급 난방비 폭탄에 덜덜…“이 추위에 입김 불고 지낼 판”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003334374?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003334374?sid=101"/>
+        <updated>2023-01-24T21:12:22.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334374?sid=101" class="nclicks(rig.secteco)" title="역대급 난방비 폭탄에 덜덜…“이 추위에 입김 불고 지낼 판”">역대급 난방비 폭탄에 덜덜…“이 추위에 입김 불고 지낼 판”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행 1시간 단축영업 끝?…사측 "마스크도 해제" 노조 "30분만"]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001582029?sid=102" class="nclicks(rig.secteco)" title="청계천 연쇄방화, 이유가?…“노점상 하려는데 안도와줘”">청계천 연쇄방화, 이유가?…“노점상 하려는데 안도와줘”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기남부 출근길 영하 20도 내외 추위 '절정'…늦은 밤 눈도]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011656559?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011656559?sid=103"/>
-        <updated>2023-01-24T20:15:38.831Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011656559?sid=103" class="nclicks(rig.secteco)" title="경기남부 출근길 영하 20도 내외 추위 '절정'…늦은 밤 눈도">경기남부 출근길 영하 20도 내외 추위 '절정'…늦은 밤 눈도</a>]]></content>
+        <title type="html"><![CDATA[영하 24도… 연휴 뒤 출근길 더 추워요]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003334375?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003334375?sid=103"/>
+        <updated>2023-01-24T21:12:22.412Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334375?sid=103" class="nclicks(rig.secteco)" title="영하 24도… 연휴 뒤 출근길 더 추워요">영하 24도… 연휴 뒤 출근길 더 추워요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘아바타2′ 1000만 돌파… 그중 600만명이 ‘체험형 관람’]]></title>
