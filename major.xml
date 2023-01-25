@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-25T12:29:00.956Z</updated>
+    <updated>2023-01-25T13:24:08.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003730725?sid=100" class="nclicks(rig.secteco)" title="나경원 불출마로 요동치는 與전당대회…계산 복잡한 金·安">나경원 불출마로 요동치는 與전당대회…계산 복잡한 金·安</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003475655?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003475655?sid=100"/>
+        <updated>2023-01-25T13:23:35.673Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475655?sid=100" class="nclicks(rig.secteco)" title="[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다">[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여야, 임시국회 합의… 30일 본회의 열고 민생 법안 처리]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003777160?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003777160?sid=100"/>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003777160?sid=100" class="nclicks(rig.secteco)" title="여야, 임시국회 합의… 30일 본회의 열고 민생 법안 처리">여야, 임시국회 합의… 30일 본회의 열고 민생 법안 처리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "해괴한 논리·이념 아닌 과학 기반 정부 의사결정 중요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003777098?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003777098?sid=100"/>
-        <updated>2023-01-25T12:28:34.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003777098?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;해괴한 논리·이념 아닌 과학 기반 정부 의사결정 중요&quot;">尹 "해괴한 논리·이념 아닌 과학 기반 정부 의사결정 중요"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일 레오파드2 우크라 간다…‘전차 갈등’ 일단 봉합됐지만 [이슈픽]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003334671?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003334671?sid=104"/>
-        <updated>2023-01-25T12:28:34.326Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003334671?sid=104" class="nclicks(rig.secteco)" title="독일 레오파드2 우크라 간다…‘전차 갈등’ 일단 봉합됐지만 [이슈픽]">독일 레오파드2 우크라 간다…‘전차 갈등’ 일단 봉합됐지만 [이슈픽]</a>]]></content>
+        <title type="html"><![CDATA[“푸틴 이제 받아들일 수 밖에”…최대격전지 동부전선 ‘발칵’ 무슨일이]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005079126?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005079126?sid=104"/>
+        <updated>2023-01-25T13:23:35.683Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079126?sid=104" class="nclicks(rig.secteco)" title="“푸틴 이제 받아들일 수 밖에”…최대격전지 동부전선 ‘발칵’ 무슨일이">“푸틴 이제 받아들일 수 밖에”…최대격전지 동부전선 ‘발칵’ 무슨일이</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미핵과학자회 “우크라 전쟁에 핵 위험 고조”…‘종말 시계’ 10초 앞당겨]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003200959?sid=104" class="nclicks(rig.secteco)" title="미핵과학자회 “우크라 전쟁에 핵 위험 고조”…‘종말 시계’ 10초 앞당겨">미핵과학자회 “우크라 전쟁에 핵 위험 고조”…‘종말 시계’ 10초 앞당겨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['중국발 한파' 삼성전기·LG이노텍 실적 쇼크…"1분기도 어렵다"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006594267?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006594267?sid=101"/>
-        <updated>2023-01-25T10:14:52.051Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006594267?sid=101" class="nclicks(rig.secteco)" title="'중국발 한파' 삼성전기·LG이노텍 실적 쇼크…&quot;1분기도 어렵다&quot;(종합)">'중국발 한파' 삼성전기·LG이노텍 실적 쇼크…"1분기도 어렵다"(종합)</a>]]></content>
+        <title type="html"><![CDATA[동반 한파 삼성전기·LG이노텍, 올해 전략 살펴보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000013295?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000013295?sid=101"/>
+        <updated>2023-01-25T13:23:35.687Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013295?sid=101" class="nclicks(rig.secteco)" title="동반 한파 삼성전기·LG이노텍, 올해 전략 살펴보니">동반 한파 삼성전기·LG이노텍, 올해 전략 살펴보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김기현 “난방비 인상은 전 정부 부담 떠넘기기 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”]]></title>
+        <title type="html"><![CDATA[김기현 “난방비 인상은 문재인 정부 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003200945?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003200945?sid=101"/>
         <updated>2023-01-25T11:14:50.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003200945?sid=101" class="nclicks(rig.secteco)" title="김기현 “난방비 인상은 전 정부 부담 떠넘기기 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”">김기현 “난방비 인상은 전 정부 부담 떠넘기기 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003200945?sid=101" class="nclicks(rig.secteco)" title="김기현 “난방비 인상은 문재인 정부 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”">김기현 “난방비 인상은 문재인 정부 때문” VS 야당 “전 정부 탓 급급해 대책 마련은 뒷전”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공시가 13억 개포 단독주택 보유세 417만→305만원…고가주택 수혜]]></title>
@@ -62,25 +62,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411955?sid=101" class="nclicks(rig.secteco)" title="공시가 13억 개포 단독주택 보유세 417만→305만원…고가주택 수혜">공시가 13억 개포 단독주택 보유세 417만→305만원…고가주택 수혜</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[스프] 중국 해커에 줄줄이 당했다…한국의 대중 정책 반발?]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001030625?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001030625?sid=105"/>
-        <updated>2023-01-25T10:14:52.067Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001030625?sid=105" class="nclicks(rig.secteco)" title="[스프] 중국 해커에 줄줄이 당했다…한국의 대중 정책 반발?">[스프] 중국 해커에 줄줄이 당했다…한국의 대중 정책 반발?</a>]]></content>
+        <title type="html"><![CDATA[中해커그룹, 12개 학회·연구소 해킹…정부기관까지 공격(종합3보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013718535?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013718535?sid=105"/>
+        <updated>2023-01-25T13:23:35.691Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013718535?sid=105" class="nclicks(rig.secteco)" title="中해커그룹, 12개 학회·연구소 해킹…정부기관까지 공격(종합3보)">中해커그룹, 12개 학회·연구소 해킹…정부기관까지 공격(종합3보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매일 쓴 '일회용 마스크'가 폐 손상 유발?]]></title>
-        <id>https://n.news.naver.com/mnews/article/296/0000062537?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/296/0000062537?sid=105"/>
-        <updated>2023-01-25T12:28:34.336Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/296/0000062537?sid=105" class="nclicks(rig.secteco)" title="매일 쓴 '일회용 마스크'가 폐 손상 유발?">매일 쓴 '일회용 마스크'가 폐 손상 유발?</a>]]></content>
+        <title type="html"><![CDATA[마스크의 ‘역습’… 일회용 PP성분 폐손상 유발]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003777136?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003777136?sid=105"/>
+        <updated>2023-01-25T13:23:35.692Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003777136?sid=105" class="nclicks(rig.secteco)" title="마스크의 ‘역습’… 일회용 PP성분 폐손상 유발">마스크의 ‘역습’… 일회용 PP성분 폐손상 유발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍콩 화물선, 야간수색 돌입…14명 구조·8명 실종]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005209184?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005209184?sid=102"/>
-        <updated>2023-01-25T12:28:34.338Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005209184?sid=102" class="nclicks(rig.secteco)" title="홍콩 화물선, 야간수색 돌입…14명 구조·8명 실종">홍콩 화물선, 야간수색 돌입…14명 구조·8명 실종</a>]]></content>
+        <title type="html"><![CDATA[홍콩 화물선 침몰해 8명 실종·2명 숨져…韓·日 구조당국 수색]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005411976?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005411976?sid=102"/>
+        <updated>2023-01-25T13:23:35.693Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411976?sid=102" class="nclicks(rig.secteco)" title="홍콩 화물선 침몰해 8명 실종·2명 숨져…韓·日 구조당국 수색">홍콩 화물선 침몰해 8명 실종·2명 숨져…韓·日 구조당국 수색</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 檢 “‘채널A 사건’ 이동재 전 기자 상고 하지 않기로”]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005079097?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005079097?sid=102"/>
+        <updated>2023-01-25T13:23:35.695Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079097?sid=102" class="nclicks(rig.secteco)" title="[단독] 檢 “‘채널A 사건’ 이동재 전 기자 상고 하지 않기로”">[단독] 檢 “‘채널A 사건’ 이동재 전 기자 상고 하지 않기로”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] ‘교원평가 성희롱’ 학생 퇴학 처분… “온정적 처리 관례 깼다”]]></title>
@@ -90,24 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003777000?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘교원평가 성희롱’ 학생 퇴학 처분… “온정적 처리 관례 깼다”">[단독] ‘교원평가 성희롱’ 학생 퇴학 처분… “온정적 처리 관례 깼다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 중부지방 중심 많은 눈…서울 등에 2~7㎝ 적설 예상]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013718359?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013718359?sid=102"/>
-        <updated>2023-01-25T12:28:34.342Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013718359?sid=102" class="nclicks(rig.secteco)" title="내일 중부지방 중심 많은 눈…서울 등에 2~7㎝ 적설 예상">내일 중부지방 중심 많은 눈…서울 등에 2~7㎝ 적설 예상</a>]]></content>
+        <title type="html"><![CDATA[강추위 절정…밤부터 중부서해안에 눈]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003730375?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003730375?sid=103"/>
+        <updated>2023-01-25T13:23:35.701Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003730375?sid=103" class="nclicks(rig.secteco)" title="강추위 절정…밤부터 중부서해안에 눈">강추위 절정…밤부터 중부서해안에 눈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차그룹, 유럽 10개국 전기차 판매 4위 올라]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000872063?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000872063?sid=103"/>
-        <updated>2023-01-25T12:28:34.344Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000872063?sid=103" class="nclicks(rig.secteco)" title="현대차그룹, 유럽 10개국 전기차 판매 4위 올라">현대차그룹, 유럽 10개국 전기차 판매 4위 올라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 밤부터 중부 중심 눈…아침 출근길 혼잡 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000580980?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000580980?sid=103"/>
-        <updated>2023-01-25T12:28:34.345Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000580980?sid=103" class="nclicks(rig.secteco)" title="[날씨] 밤부터 중부 중심 눈…아침 출근길 혼잡 우려">[날씨] 밤부터 중부 중심 눈…아침 출근길 혼잡 우려</a>]]></content>
+        <title type="html"><![CDATA[현대차그룹, 전기차 글로벌 누적판매 100만대 돌파]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005411070?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005411070?sid=103"/>
+        <updated>2023-01-25T13:23:35.702Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005411070?sid=103" class="nclicks(rig.secteco)" title="현대차그룹, 전기차 글로벌 누적판매 100만대 돌파">현대차그룹, 전기차 글로벌 누적판매 100만대 돌파</a>]]></content>
     </entry>
 </feed>
