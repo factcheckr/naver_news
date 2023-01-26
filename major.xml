@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-26T07:14:01.924Z</updated>
+    <updated>2023-01-26T08:19:38.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003475655?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003475655?sid=100"/>
-        <updated>2023-01-26T07:13:34.967Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003475655?sid=100" class="nclicks(rig.secteco)" title="[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다">[단독]軍, 유선전화로 北무인기 전파…3대 정보전달시스템은 먹통이었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "법무부·공정위·법제처, 대한민국 '가치·헌법 수호' 기관"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000197358?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000197358?sid=100"/>
-        <updated>2023-01-26T06:17:43.534Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000197358?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;법무부·공정위·법제처, 대한민국 '가치·헌법 수호' 기관&quot;">윤 대통령 "법무부·공정위·법제처, 대한민국 '가치·헌법 수호' 기관"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]유엔사, 장고 끝 "南北 정전협정 위반" 공식 발표한다]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004843974?sid=100</id>
@@ -27,25 +13,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004843974?sid=100" class="nclicks(rig.secteco)" title="[단독]유엔사, 장고 끝 &quot;南北 정전협정 위반&quot; 공식 발표한다">[단독]유엔사, 장고 끝 "南北 정전협정 위반" 공식 발표한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이민 문의 폭증…해외로 떠나겠다는 중국 부유층, 왜?]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000330051?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000330051?sid=104"/>
-        <updated>2023-01-26T07:13:34.972Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000330051?sid=104" class="nclicks(rig.secteco)" title="이민 문의 폭증…해외로 떠나겠다는 중국 부유층, 왜?">이민 문의 폭증…해외로 떠나겠다는 중국 부유층, 왜?</a>]]></content>
+        <title type="html"><![CDATA[與지도부 만난 尹대통령 "UAE, '300억불 투자 이제 시작' 언급"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013720743?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013720743?sid=100"/>
+        <updated>2023-01-26T08:19:04.146Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013720743?sid=100" class="nclicks(rig.secteco)" title="與지도부 만난 尹대통령 &quot;UAE, '300억불 투자 이제 시작' 언급&quot;">與지도부 만난 尹대통령 "UAE, '300억불 투자 이제 시작' 언급"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 오전 9시 27분‥소행성, 지구 스쳐간다]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001250042?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001250042?sid=104"/>
-        <updated>2023-01-26T07:13:34.973Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001250042?sid=104" class="nclicks(rig.secteco)" title="내일 오전 9시 27분‥소행성, 지구 스쳐간다">내일 오전 9시 27분‥소행성, 지구 스쳐간다</a>]]></content>
+        <title type="html"><![CDATA['긴급상황' 아닌 '수시보고'…北무인기 상황 분류부터 문제였다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003255661?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003255661?sid=100"/>
+        <updated>2023-01-26T08:19:04.148Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003255661?sid=100" class="nclicks(rig.secteco)" title="'긴급상황' 아닌 '수시보고'…北무인기 상황 분류부터 문제였다">'긴급상황' 아닌 '수시보고'…北무인기 상황 분류부터 문제였다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“어려울 때 제네시스가 효자”…현대차 작년 영업익 9조원 첫 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005079401?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005079401?sid=101"/>
-        <updated>2023-01-26T07:13:34.975Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079401?sid=101" class="nclicks(rig.secteco)" title="“어려울 때 제네시스가 효자”…현대차 작년 영업익 9조원 첫 돌파">“어려울 때 제네시스가 효자”…현대차 작년 영업익 9조원 첫 돌파</a>]]></content>
+        <title type="html"><![CDATA["이때 놓치면 못 나가"…방역 풀리자, 中부자들 탈출 러시]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003255667?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003255667?sid=104"/>
+        <updated>2023-01-26T08:19:04.150Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003255667?sid=104" class="nclicks(rig.secteco)" title="&quot;이때 놓치면 못 나가&quot;…방역 풀리자, 中부자들 탈출 러시">"이때 놓치면 못 나가"…방역 풀리자, 中부자들 탈출 러시</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실판 '오징어게임' 찍다가 3명 부상?]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001250071?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001250071?sid=104"/>
+        <updated>2023-01-26T08:19:04.155Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001250071?sid=104" class="nclicks(rig.secteco)" title="현실판 '오징어게임' 찍다가 3명 부상?">현실판 '오징어게임' 찍다가 3명 부상?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수익車가 끌고 환율이 밀고…현대차, 악재 속 최대실적 썼다]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013720776?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013720776?sid=101"/>
+        <updated>2023-01-26T08:19:04.157Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013720776?sid=101" class="nclicks(rig.secteco)" title="고수익車가 끌고 환율이 밀고…현대차, 악재 속 최대실적 썼다">고수익車가 끌고 환율이 밀고…현대차, 악재 속 최대실적 썼다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘영끌’로 지옥 맛봤는데 살 길 열리나...금리인하 현실화? [매부리TV]]]></title>
@@ -55,25 +55,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079419?sid=101" class="nclicks(rig.secteco)" title="‘영끌’로 지옥 맛봤는데 살 길 열리나...금리인하 현실화? [매부리TV]">‘영끌’로 지옥 맛봤는데 살 길 열리나...금리인하 현실화? [매부리TV]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["작아지는 한국"... 月 출생아 수 2만명도 안된다 '역대 최저']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004843984?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004843984?sid=101"/>
-        <updated>2023-01-26T06:17:43.541Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004843984?sid=101" class="nclicks(rig.secteco)" title="&quot;작아지는 한국&quot;... 月 출생아 수 2만명도 안된다 '역대 최저'">"작아지는 한국"... 月 출생아 수 2만명도 안된다 '역대 최저'</a>]]></content>
+        <title type="html"><![CDATA[‘코로나 전으로 못 간다’는 은행노조...금감원장 “정상화 촉구”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005412560?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005412560?sid=101"/>
+        <updated>2023-01-26T08:19:04.161Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005412560?sid=101" class="nclicks(rig.secteco)" title="‘코로나 전으로 못 간다’는 은행노조...금감원장 “정상화 촉구”">‘코로나 전으로 못 간다’는 은행노조...금감원장 “정상화 촉구”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결실 맺는 삼성SDS 클라우드, 올해도 고성장세 지속 전망]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004844043?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004844043?sid=105"/>
-        <updated>2023-01-26T07:13:34.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004844043?sid=105" class="nclicks(rig.secteco)" title="결실 맺는 삼성SDS 클라우드, 올해도 고성장세 지속 전망">결실 맺는 삼성SDS 클라우드, 올해도 고성장세 지속 전망</a>]]></content>
+        <title type="html"><![CDATA[통신사가 희토류를 들여온다고?…KT, 몽골에서 뭐하나 봤더니]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005079343?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005079343?sid=105"/>
+        <updated>2023-01-26T08:19:04.163Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079343?sid=105" class="nclicks(rig.secteco)" title="통신사가 희토류를 들여온다고?…KT, 몽골에서 뭐하나 봤더니">통신사가 희토류를 들여온다고?…KT, 몽골에서 뭐하나 봤더니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출시 앞둔 토스 알뜰폰, 못 쓴 데이터 포인트로 돌려준다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003201138?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003201138?sid=105"/>
-        <updated>2023-01-26T07:13:34.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003201138?sid=105" class="nclicks(rig.secteco)" title="출시 앞둔 토스 알뜰폰, 못 쓴 데이터 포인트로 돌려준다">출시 앞둔 토스 알뜰폰, 못 쓴 데이터 포인트로 돌려준다</a>]]></content>
+        <title type="html"><![CDATA[데이터산업 지원책 본격 시동...50조원 규모 시장 만든다]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002280749?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002280749?sid=105"/>
+        <updated>2023-01-26T08:19:04.165Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002280749?sid=105" class="nclicks(rig.secteco)" title="데이터산업 지원책 본격 시동...50조원 규모 시장 만든다">데이터산업 지원책 본격 시동...50조원 규모 시장 만든다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['대장동 의혹' 성남도시공사, 종합청렴도서 '5등급'... 검찰·경찰도 하위권]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000720146?sid=102" class="nclicks(rig.secteco)" title="'대장동 의혹' 성남도시공사, 종합청렴도서 '5등급'... 검찰·경찰도 하위권">'대장동 의혹' 성남도시공사, 종합청렴도서 '5등급'... 검찰·경찰도 하위권</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시행 1년 중대재해처벌법…"법률 무력화 말고 노동자 목숨 지켜야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005412594?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005412594?sid=102"/>
-        <updated>2023-01-26T07:13:34.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005412594?sid=102" class="nclicks(rig.secteco)" title="시행 1년 중대재해처벌법…&quot;법률 무력화 말고 노동자 목숨 지켜야&quot;">시행 1년 중대재해처벌법…"법률 무력화 말고 노동자 목숨 지켜야"</a>]]></content>
+        <title type="html"><![CDATA[[문답] 한동훈 "피해자 5명 이상 성범죄 '괴물'에 제시카법 적용"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006596628?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006596628?sid=102"/>
+        <updated>2023-01-26T08:19:04.169Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006596628?sid=102" class="nclicks(rig.secteco)" title="[문답] 한동훈 &quot;피해자 5명 이상 성범죄 '괴물'에 제시카법 적용&quot;">[문답] 한동훈 "피해자 5명 이상 성범죄 '괴물'에 제시카법 적용"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법무부 “채용강요·공사방해... 산업현장 조폭식 불법 근절”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003742516?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003742516?sid=102"/>
-        <updated>2023-01-26T07:13:34.986Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003742516?sid=102" class="nclicks(rig.secteco)" title="법무부 “채용강요·공사방해... 산업현장 조폭식 불법 근절”">법무부 “채용강요·공사방해... 산업현장 조폭식 불법 근절”</a>]]></content>
+        <title type="html"><![CDATA[중대재해법 1년... 경영계 "법 고치고 지원 늘려야" vs 노동계 "있는 법부터 똑바로"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000720171?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000720171?sid=102"/>
+        <updated>2023-01-26T08:19:04.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000720171?sid=102" class="nclicks(rig.secteco)" title="중대재해법 1년... 경영계 &quot;법 고치고 지원 늘려야&quot; vs 노동계 &quot;있는 법부터 똑바로&quot;">중대재해법 1년... 경영계 "법 고치고 지원 늘려야" vs 노동계 "있는 법부터 똑바로"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 추위 속 곳곳 눈, 빙판길 조심...서울 대설특보 해제]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001841931?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001841931?sid=103"/>
-        <updated>2023-01-26T06:17:43.553Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001841931?sid=103" class="nclicks(rig.secteco)" title="[날씨] 추위 속 곳곳 눈, 빙판길 조심...서울 대설특보 해제">[날씨] 추위 속 곳곳 눈, 빙판길 조심...서울 대설특보 해제</a>]]></content>
+        <title type="html"><![CDATA[예술인 권리보장위원회 본격 가동…위원장 김기복]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011660226?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011660226?sid=103"/>
+        <updated>2023-01-26T08:19:04.174Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011660226?sid=103" class="nclicks(rig.secteco)" title="예술인 권리보장위원회 본격 가동…위원장 김기복">예술인 권리보장위원회 본격 가동…위원장 김기복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[문풍(文風)부는 대구, 명과 암] "개인 문학관은 안돼", "계파 뛰어넘는 트렌드 맞춰야" 문화공간 설립 둘러싼 엇갈린 반응들]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000795342?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000795342?sid=103"/>
-        <updated>2023-01-26T07:13:34.990Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000795342?sid=103" class="nclicks(rig.secteco)" title="[문풍(文風)부는 대구, 명과 암]  &quot;개인 문학관은 안돼&quot;, &quot;계파 뛰어넘는 트렌드 맞춰야&quot; 문화공간 설립 둘러싼 엇갈린 반응들">[문풍(文風)부는 대구, 명과 암] "개인 문학관은 안돼", "계파 뛰어넘는 트렌드 맞춰야" 문화공간 설립 둘러싼 엇갈린 반응들</a>]]></content>
+        <title type="html"><![CDATA[불황에 중고 ‘1톤 트럭’ 찾는 사람 늘었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003201167?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003201167?sid=103"/>
+        <updated>2023-01-26T08:19:04.177Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003201167?sid=103" class="nclicks(rig.secteco)" title="불황에 중고 ‘1톤 트럭’ 찾는 사람 늘었다">불황에 중고 ‘1톤 트럭’ 찾는 사람 늘었다</a>]]></content>
     </entry>
 </feed>
