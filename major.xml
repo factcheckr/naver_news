@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-26T16:17:53.564Z</updated>
+    <updated>2023-01-26T17:13:34.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004844095?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 공정위에 &quot;경제부처 아냐&quot;…한동훈에 '글로벌' 강조">尹대통령, 공정위에 "경제부처 아냐"…한동훈에 '글로벌' 강조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러, 서방 '전차 지원' 발표 다음 날 우크라 공습..."극초음속 미사일 발사"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000330115?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000330115?sid=104"/>
-        <updated>2023-01-26T16:17:27.594Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000330115?sid=104" class="nclicks(rig.secteco)" title="러, 서방 '전차 지원' 발표 다음 날 우크라 공습...&quot;극초음속 미사일 발사&quot;">러, 서방 '전차 지원' 발표 다음 날 우크라 공습..."극초음속 미사일 발사"</a>]]></content>
+        <title type="html"><![CDATA[러, 서방탱크 지원결정 이튿날 대대적 공습…11명 사망(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013721194?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013721194?sid=104"/>
+        <updated>2023-01-26T17:13:04.441Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013721194?sid=104" class="nclicks(rig.secteco)" title="러, 서방탱크 지원결정 이튿날 대대적 공습…11명 사망(종합2보)">러, 서방탱크 지원결정 이튿날 대대적 공습…11명 사망(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 작년 4분기 성장률, 2.9%로 전망치 상회…작년 전체는 2.1%↑(종합)]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005079717?sid=101" class="nclicks(rig.secteco)" title="최대실적 현대차 올해도 ‘꽃길’…SUV 전기차로 질주">최대실적 현대차 올해도 ‘꽃길’…SUV 전기차로 질주</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 역성장, 미국은 성장 둔화]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003255803?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003255803?sid=101"/>
-        <updated>2023-01-26T16:17:27.595Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003255803?sid=101" class="nclicks(rig.secteco)" title="한국 역성장, 미국은 성장 둔화">한국 역성장, 미국은 성장 둔화</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]5대 은행, 사회공헌기금 5000억 조성]]></title>
         <id>https://n.news.naver.com/mnews/article/014/0004960479?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/014/0004960479?sid=101"/>
         <updated>2023-01-26T12:28:10.649Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004960479?sid=101" class="nclicks(rig.secteco)" title="[단독]5대 은행, 사회공헌기금 5000억 조성">[단독]5대 은행, 사회공헌기금 5000억 조성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 역성장, 미국은 성장 둔화]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003255803?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003255803?sid=101"/>
+        <updated>2023-01-26T16:17:27.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003255803?sid=101" class="nclicks(rig.secteco)" title="한국 역성장, 미국은 성장 둔화">한국 역성장, 미국은 성장 둔화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데이터산업 지원책 본격 시동...50조원 규모 시장 만든다]]></title>
