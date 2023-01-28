@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-28T19:10:59.362Z</updated>
+    <updated>2023-01-28T20:14:29.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[이재명, 이번엔 나 홀로 檢 포토라인…"尹 검찰이 사법살인"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003731634?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003731634?sid=100"/>
-        <updated>2023-01-28T16:17:15.528Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003731634?sid=100" class="nclicks(rig.secteco)" title="이재명, 이번엔 나 홀로 檢 포토라인…&quot;尹 검찰이 사법살인&quot;(종합)">이재명, 이번엔 나 홀로 檢 포토라인…"尹 검찰이 사법살인"(종합)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["김여정?리설주 경쟁 탓" 외신이 분석한 김정은 '딸 공개' 이유]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003256004?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003256004?sid=100"/>
         <updated>2023-01-28T16:17:15.529Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003256004?sid=100" class="nclicks(rig.secteco)" title="&quot;김여정?리설주 경쟁 탓&quot; 외신이 분석한 김정은 '딸 공개' 이유">"김여정?리설주 경쟁 탓" 외신이 분석한 김정은 '딸 공개' 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주당 “민주화 이후 이렇게 비정한 정권, 뻔뻔한 여당 없었다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003778143?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003778143?sid=100"/>
+        <updated>2023-01-28T20:13:59.437Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003778143?sid=100" class="nclicks(rig.secteco)" title="민주당 “민주화 이후 이렇게 비정한 정권, 뻔뻔한 여당 없었다”">민주당 “민주화 이후 이렇게 비정한 정권, 뻔뻔한 여당 없었다”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 '어퍼컷' 재현한 김기현...'수도권 출정식'에 8000명 결집]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013723352?sid=104" class="nclicks(rig.secteco)" title="경찰몰매에 '엄마!' 부르며 숨진 흑인…잔혹영상 공개 美 '발칵'">경찰몰매에 '엄마!' 부르며 숨진 흑인…잔혹영상 공개 美 '발칵'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한·일 외교 중심에 선 80년 ‘恨의 매듭’]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001582788?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001582788?sid=104"/>
-        <updated>2023-01-28T16:17:15.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001582788?sid=104" class="nclicks(rig.secteco)" title="한·일 외교 중심에 선 80년 ‘恨의 매듭’">한·일 외교 중심에 선 80년 ‘恨의 매듭’</a>]]></content>
+        <title type="html"><![CDATA[日서 홀로 등산 나선 한국인 30대男 실종…폭설로 수색 난항]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002678767?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002678767?sid=104"/>
+        <updated>2023-01-28T20:13:59.443Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002678767?sid=104" class="nclicks(rig.secteco)" title="日서 홀로 등산 나선 한국인 30대男 실종…폭설로 수색 난항">日서 홀로 등산 나선 한국인 30대男 실종…폭설로 수색 난항</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번주 휘발유 가격 오르고 경유는 내리고…가격차 80원]]></title>
@@ -55,18 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002095923?sid=101" class="nclicks(rig.secteco)" title="'테슬람' 서학개미, 그만 울고 이젠 웃어요? [투자360]">'테슬람' 서학개미, 그만 울고 이젠 웃어요? [투자360]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["앞으로 더 문제"...전문가들이 전한 '난방비 쇼크' 피할 5대 요령은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000720448?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000720448?sid=101"/>
-        <updated>2023-01-28T16:17:15.537Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000720448?sid=101" class="nclicks(rig.secteco)" title="&quot;앞으로 더 문제&quot;...전문가들이 전한 '난방비 쇼크' 피할 5대 요령은?">"앞으로 더 문제"...전문가들이 전한 '난방비 쇼크' 피할 5대 요령은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI는 알고 있다···당신의 '최애' 메뉴가 무엇인지]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000013371?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000013371?sid=105"/>
-        <updated>2023-01-28T18:15:33.228Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013371?sid=105" class="nclicks(rig.secteco)" title="AI는 알고 있다···당신의 '최애' 메뉴가 무엇인지">AI는 알고 있다···당신의 '최애' 메뉴가 무엇인지</a>]]></content>
+        <title type="html"><![CDATA[백화점업계, 실내마스크 착용 의무 해제에 '코덕 몰이' 행사]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013723112?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013723112?sid=101"/>
+        <updated>2023-01-28T20:13:59.454Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013723112?sid=101" class="nclicks(rig.secteco)" title="백화점업계, 실내마스크 착용 의무 해제에 '코덕 몰이' 행사">백화점업계, 실내마스크 착용 의무 해제에 '코덕 몰이' 행사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 尹 “챗GPT가 신년사 써보게 했더니 훌륭…공무원 많이 쓰길”]]></title>
@@ -76,18 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005080161?sid=105" class="nclicks(rig.secteco)" title="[단독] 尹 “챗GPT가 신년사 써보게 했더니 훌륭…공무원 많이 쓰길”">[단독] 尹 “챗GPT가 신년사 써보게 했더니 훌륭…공무원 많이 쓰길”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12시간 반 만에 나온 이재명 "검찰이 수사 아닌 정치를 한다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002380396?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002380396?sid=102"/>
-        <updated>2023-01-28T19:10:30.112Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002380396?sid=102" class="nclicks(rig.secteco)" title="12시간 반 만에 나온 이재명 &quot;검찰이 수사 아닌 정치를 한다&quot;">12시간 반 만에 나온 이재명 "검찰이 수사 아닌 정치를 한다"</a>]]></content>
+        <title type="html"><![CDATA[[단독] 토스모바일 요금제 4종 베일 벗었다…"최대 1만원 캐시백"]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002280894?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002280894?sid=105"/>
+        <updated>2023-01-28T20:13:59.458Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002280894?sid=105" class="nclicks(rig.secteco)" title="[단독] 토스모바일 요금제 4종 베일 벗었다…&quot;최대 1만원 캐시백&quot;">[단독] 토스모바일 요금제 4종 베일 벗었다…"최대 1만원 캐시백"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 몸 녹이려 지구대 찾은 할머니, 경찰이 쫓아냈다…"끌어내고 문 잠가"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001718742?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001718742?sid=102"/>
-        <updated>2023-01-28T17:12:01.460Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001718742?sid=102" class="nclicks(rig.secteco)" title="[단독] 몸 녹이려 지구대 찾은 할머니, 경찰이 쫓아냈다…&quot;끌어내고 문 잠가&quot;">[단독] 몸 녹이려 지구대 찾은 할머니, 경찰이 쫓아냈다…"끌어내고 문 잠가"</a>]]></content>
+        <title type="html"><![CDATA[이재명, 12시간 검찰 조사서 혐의 부인… 李 "윤석열 검사 독재 정권답다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003731658?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003731658?sid=102"/>
+        <updated>2023-01-28T20:13:59.460Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003731658?sid=102" class="nclicks(rig.secteco)" title="이재명, 12시간 검찰 조사서 혐의 부인… 李 &quot;윤석열 검사 독재 정권답다&quot;">이재명, 12시간 검찰 조사서 혐의 부인… 李 "윤석열 검사 독재 정권답다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '지구대서 쫓겨난 할머니' 영상에 '공분'…항의전화에 "그럼 화내세요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001718855?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001718855?sid=102"/>
+        <updated>2023-01-28T20:13:59.463Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001718855?sid=102" class="nclicks(rig.secteco)" title="[단독] '지구대서 쫓겨난 할머니' 영상에 '공분'…항의전화에 &quot;그럼 화내세요&quot;">[단독] '지구대서 쫓겨난 할머니' 영상에 '공분'…항의전화에 "그럼 화내세요"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 이재명, 33쪽 진술서 제출…"천화동인 1호, 존재도 몰랐다"]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005413495?sid=103" class="nclicks(rig.secteco)" title="밤사이 기온 ‘뚝’…전국 곳곳 최저 영하 10도 밑으로[내일날씨]">밤사이 기온 ‘뚝’…전국 곳곳 최저 영하 10도 밑으로[내일날씨]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더박스에 갇힌 슬램덩크를 어떻게 소환할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000116567?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000116567?sid=103"/>
-        <updated>2023-01-28T17:12:01.466Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000116567?sid=103" class="nclicks(rig.secteco)" title="젠더박스에 갇힌 슬램덩크를 어떻게 소환할까">젠더박스에 갇힌 슬램덩크를 어떻게 소환할까</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내일 낮부터 추위 누그러져...빙판길 주의]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001842770?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001842770?sid=103"/>
+        <updated>2023-01-28T20:13:59.469Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001842770?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 낮부터 추위 누그러져...빙판길 주의">[날씨] 내일 낮부터 추위 누그러져...빙판길 주의</a>]]></content>
     </entry>
 </feed>
