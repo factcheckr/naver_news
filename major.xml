@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-28T09:13:32.547Z</updated>
+    <updated>2023-01-28T10:14:29.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK] '나홀로 儉 출석' 이재명…"尹 검사독재정권 법치주의 파괴"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006599017?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006599017?sid=100"/>
-        <updated>2023-01-28T09:13:04.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006599017?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK] '나홀로 儉 출석' 이재명…&quot;尹 검사독재정권 법치주의 파괴&quot;">[뉴스1 PICK] '나홀로 儉 출석' 이재명…"尹 검사독재정권 법치주의 파괴"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 이번엔 나 홀로 檢 포토라인…"尹 검찰이 사법살인"(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003731634?sid=100</id>
@@ -27,6 +20,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000581441?sid=100" class="nclicks(rig.secteco)" title="김여정, 우크라에 탱크 지원 미국 겨냥 &quot;강력 규탄&quot;…러시아와 연대 과시">김여정, 우크라에 탱크 지원 미국 겨냥 "강력 규탄"…러시아와 연대 과시</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김건희 “다 해진 잠바 尹, 나 아님 누가 구제해줬을까”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003742933?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003742933?sid=100"/>
+        <updated>2023-01-28T10:14:02.961Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003742933?sid=100" class="nclicks(rig.secteco)" title="김건희 “다 해진 잠바 尹, 나 아님 누가 구제해줬을까”">김건희 “다 해진 잠바 尹, 나 아님 누가 구제해줬을까”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다섯 경찰에 집단 구타당한 흑인, "엄마" 울부짖다 결국 숨졌다]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002678752?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/119/0002678752?sid=104"/>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002678752?sid=104" class="nclicks(rig.secteco)" title="다섯 경찰에 집단 구타당한 흑인, &quot;엄마&quot; 울부짖다 결국 숨졌다">다섯 경찰에 집단 구타당한 흑인, "엄마" 울부짖다 결국 숨졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 "징용 해법 본 뒤 韓 수출규제 완화 결정...사죄·배상은 없어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001718837?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001718837?sid=104"/>
-        <updated>2023-01-28T09:13:04.783Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001718837?sid=104" class="nclicks(rig.secteco)" title="日 &quot;징용 해법 본 뒤 韓 수출규제 완화 결정...사죄·배상은 없어&quot;">日 "징용 해법 본 뒤 韓 수출규제 완화 결정...사죄·배상은 없어"</a>]]></content>
+        <title type="html"><![CDATA[일 언론 “한국이 강제징용 배상시 일 정부가 사죄 표명 고려중”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002625024?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002625024?sid=104"/>
+        <updated>2023-01-28T10:14:02.965Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002625024?sid=104" class="nclicks(rig.secteco)" title="일 언론 “한국이 강제징용 배상시 일 정부가 사죄 표명 고려중”">일 언론 “한국이 강제징용 배상시 일 정부가 사죄 표명 고려중”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이번 주 휘발유 가격 다시 오름세...경유는 10주째 하락]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001718818?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001718818?sid=101"/>
-        <updated>2023-01-28T09:13:04.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001718818?sid=101" class="nclicks(rig.secteco)" title="이번 주 휘발유 가격 다시 오름세...경유는 10주째 하락">이번 주 휘발유 가격 다시 오름세...경유는 10주째 하락</a>]]></content>
+        <title type="html"><![CDATA[이번주 휘발유 가격 오르고 경유는 내리고…가격차 80원]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013723109?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013723109?sid=101"/>
+        <updated>2023-01-28T10:14:02.966Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013723109?sid=101" class="nclicks(rig.secteco)" title="이번주 휘발유 가격 오르고 경유는 내리고…가격차 80원">이번주 휘발유 가격 오르고 경유는 내리고…가격차 80원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['테슬라, 바닥 찍었나'…이번주에만 33% 급등 '환호']]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004804128?sid=101" class="nclicks(rig.secteco)" title="'테슬라, 바닥 찍었나'…이번주에만 33% 급등 '환호'">'테슬라, 바닥 찍었나'…이번주에만 33% 급등 '환호'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['관치 논란' 농협금융지주 이어 우리금융지주도?]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000320368?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000320368?sid=101"/>
-        <updated>2023-01-28T08:16:31.010Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000320368?sid=101" class="nclicks(rig.secteco)" title="'관치 논란'  농협금융지주 이어 우리금융지주도?">'관치 논란' 농협금융지주 이어 우리금융지주도?</a>]]></content>
+        <title type="html"><![CDATA[뉴욕증시, 물가 둔화에 상승...나스닥 0.95%↑ 테슬라 11%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000197667?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000197667?sid=101"/>
+        <updated>2023-01-28T10:14:02.966Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000197667?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 물가 둔화에 상승...나스닥 0.95%↑ 테슬라 11%↑">뉴욕증시, 물가 둔화에 상승...나스닥 0.95%↑ 테슬라 11%↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 尹 “챗GPT가 신년사 써보게 했더니 훌륭…공무원 많이 쓰길”]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011662466?sid=105" class="nclicks(rig.secteco)" title="계정공유하면 돈내라고? &quot;그럼 안볼래&quot;…소비자들이 등돌리는 이유">계정공유하면 돈내라고? "그럼 안볼래"…소비자들이 등돌리는 이유</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[두 번째 검찰 출석한 이재명 "윤석열 검사 독재정권"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000330300?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000330300?sid=102"/>
+        <updated>2023-01-28T10:14:02.968Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000330300?sid=102" class="nclicks(rig.secteco)" title="두 번째 검찰 출석한 이재명 &quot;윤석열 검사 독재정권&quot;">두 번째 검찰 출석한 이재명 "윤석열 검사 독재정권"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[검찰, 이재명 조사중…사실상 진술거부권 행사]]></title>
         <id>https://n.news.naver.com/mnews/article/422/0000581437?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/422/0000581437?sid=102"/>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000581437?sid=102" class="nclicks(rig.secteco)" title="검찰, 이재명 조사중…사실상 진술거부권 행사">검찰, 이재명 조사중…사실상 진술거부권 행사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[전문] '대장동·위례 의혹' 이재명 대표 제출 '33쪽 진술서']]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001250481?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001250481?sid=102"/>
-        <updated>2023-01-28T09:13:04.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001250481?sid=102" class="nclicks(rig.secteco)" title="[전문] '대장동·위례 의혹' 이재명 대표 제출 '33쪽 진술서'">[전문] '대장동·위례 의혹' 이재명 대표 제출 '33쪽 진술서'</a>]]></content>
+        <title type="html"><![CDATA[“막차 놓쳐”…추위 피해 온 70대 할머니 내쫓은 경찰, 결국 사과문]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003335312?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003335312?sid=102"/>
+        <updated>2023-01-28T10:14:02.970Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003335312?sid=102" class="nclicks(rig.secteco)" title="“막차 놓쳐”…추위 피해 온 70대 할머니 내쫓은 경찰, 결국 사과문">“막차 놓쳐”…추위 피해 온 70대 할머니 내쫓은 경찰, 결국 사과문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헷갈리는 실내 마스크 착용, 학교·학원에선 어떻게 [Q&A]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003778068?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003778068?sid=102"/>
-        <updated>2023-01-28T09:13:04.795Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003778068?sid=102" class="nclicks(rig.secteco)" title="헷갈리는 실내 마스크 착용, 학교·학원에선 어떻게 [Q&amp;A]">헷갈리는 실내 마스크 착용, 학교·학원에선 어떻게 [Q&amp;A]</a>]]></content>
+        <title type="html"><![CDATA[[내일날씨]최저 영하 16도 강추위…전국 곳곳 눈 소식]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011662736?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011662736?sid=103"/>
+        <updated>2023-01-28T10:14:02.971Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011662736?sid=103" class="nclicks(rig.secteco)" title="[내일날씨]최저 영하 16도 강추위…전국 곳곳 눈 소식">[내일날씨]최저 영하 16도 강추위…전국 곳곳 눈 소식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨] "이불 밖은 위험해" 아침 최저 영하 16도… 전국 눈 온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000890371?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000890371?sid=103"/>
-        <updated>2023-01-28T09:13:04.796Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000890371?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] &quot;이불 밖은 위험해&quot; 아침 최저 영하 16도… 전국 눈 온다">[내일날씨] "이불 밖은 위험해" 아침 최저 영하 16도… 전국 눈 온다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일 한낮 영상권 회복…빙판길, 화재사고 유의]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000581460?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000581460?sid=103"/>
-        <updated>2023-01-28T09:13:04.797Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000581460?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 한낮 영상권 회복…빙판길, 화재사고 유의">[날씨] 내일 한낮 영상권 회복…빙판길, 화재사고 유의</a>]]></content>
+        <title type="html"><![CDATA["No재팬 아니었나"…일본도 놀란 한국 슬램덩크 열풍]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005210386?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005210386?sid=103"/>
+        <updated>2023-01-28T10:14:02.972Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005210386?sid=103" class="nclicks(rig.secteco)" title="&quot;No재팬 아니었나&quot;…일본도 놀란 한국 슬램덩크 열풍">"No재팬 아니었나"…일본도 놀란 한국 슬램덩크 열풍</a>]]></content>
     </entry>
 </feed>
