@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-01-31T14:13:10.445Z</updated>
+    <updated>2023-01-31T15:15:09.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003202134?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 “UAE의 투자에 치밀한 준비로 화답을”">윤 대통령 “UAE의 투자에 치밀한 준비로 화답을”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中, 한국에 '보복 방역'… 한국 입국자만 공항서 코로나 검사]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002097414?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002097414?sid=104"/>
-        <updated>2023-01-31T14:12:40.936Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002097414?sid=104" class="nclicks(rig.secteco)" title="中, 한국에 '보복 방역'… 한국 입국자만 공항서 코로나 검사">中, 한국에 '보복 방역'… 한국 입국자만 공항서 코로나 검사</a>]]></content>
+        <title type="html"><![CDATA[中, 한국발 입국자만 코로나 검사…"대등한 조치"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000581957?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000581957?sid=104"/>
+        <updated>2023-01-31T15:14:39.063Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000581957?sid=104" class="nclicks(rig.secteco)" title="中, 한국발 입국자만 코로나 검사…&quot;대등한 조치&quot;">中, 한국발 입국자만 코로나 검사…"대등한 조치"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파키스탄 자폭테러 사망자 100명으로 늘어…"보안에 과실"(종합2보)]]></title>
@@ -41,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013729735?sid=104" class="nclicks(rig.secteco)" title="파키스탄 자폭테러 사망자 100명으로 늘어…&quot;보안에 과실&quot;(종합2보)">파키스탄 자폭테러 사망자 100명으로 늘어…"보안에 과실"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주택업계 "미분양, 정부가 사달라"…정부 "자구노력이 먼저"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013729572?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013729572?sid=101"/>
-        <updated>2023-01-31T13:25:26.751Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013729572?sid=101" class="nclicks(rig.secteco)" title="주택업계 &quot;미분양, 정부가 사달라&quot;…정부 &quot;자구노력이 먼저&quot;">주택업계 "미분양, 정부가 사달라"…정부 "자구노력이 먼저"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005415723?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005415723?sid=101"/>
-        <updated>2023-01-31T14:12:40.938Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005415723?sid=101" class="nclicks(rig.secteco)" title="LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)">LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)</a>]]></content>
+        <title type="html"><![CDATA[미분양 ‘위험선’ 넘어 7만호 육박…한달새 1만호, 17% 급증]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002554142?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002554142?sid=101"/>
+        <updated>2023-01-31T15:14:39.064Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002554142?sid=101" class="nclicks(rig.secteco)" title="미분양 ‘위험선’ 넘어 7만호 육박…한달새 1만호, 17% 급증">미분양 ‘위험선’ 넘어 7만호 육박…한달새 1만호, 17% 급증</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영업익 97% 급감에도 "감산 없다"…삼성 뚝심 여전한 이유]]></title>
@@ -60,6 +53,13 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004845641?sid=101"/>
         <updated>2023-01-31T14:12:40.940Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004845641?sid=101" class="nclicks(rig.secteco)" title="영업익 97% 급감에도 &quot;감산 없다&quot;…삼성 뚝심 여전한 이유">영업익 97% 급감에도 "감산 없다"…삼성 뚝심 여전한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005415723?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005415723?sid=101"/>
+        <updated>2023-01-31T14:12:40.938Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005415723?sid=101" class="nclicks(rig.secteco)" title="LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)">LG화학, 창사 이래 첫 매출액 50조원…영업익은 40% 줄어(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“인센티브 너무 파격적인데”…제4통신사 팍팍 미는 정부 왜]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003743483?sid=102" class="nclicks(rig.secteco)" title="야간 수술·분만 수가, 최고 3배로 올린다">야간 수술·분만 수가, 최고 3배로 올린다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]‘쌍방울’ 김성태 “이재명 대통령 만들기 위한 방북 계획”]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000242947?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000242947?sid=102"/>
-        <updated>2023-01-31T11:12:22.048Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000242947?sid=102" class="nclicks(rig.secteco)" title="[단독]‘쌍방울’ 김성태 “이재명 대통령 만들기 위한 방북 계획”">[단독]‘쌍방울’ 김성태 “이재명 대통령 만들기 위한 방북 계획”</a>]]></content>
+        <title type="html"><![CDATA[[단독] 김성태 "이재명 대선 염두에 두고 대북송금…북한 인사 만난 자리서 통화도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000330503?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000330503?sid=102"/>
+        <updated>2023-01-31T15:14:39.071Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000330503?sid=102" class="nclicks(rig.secteco)" title="[단독] 김성태 &quot;이재명 대선 염두에 두고 대북송금…북한 인사 만난 자리서 통화도&quot;">[단독] 김성태 "이재명 대선 염두에 두고 대북송금…북한 인사 만난 자리서 통화도"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 '대선 패배' 언급에 한동훈 반박…장외 설전]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000581962?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000581962?sid=102"/>
-        <updated>2023-01-31T14:12:40.951Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000581962?sid=102" class="nclicks(rig.secteco)" title="이재명 '대선 패배' 언급에 한동훈 반박…장외 설전">이재명 '대선 패배' 언급에 한동훈 반박…장외 설전</a>]]></content>
+        <title type="html"><![CDATA[이재명 저격한 한동훈 “대선 져서 소환? 이겼으면 뭉갰을 거란 말”]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002554135?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002554135?sid=102"/>
+        <updated>2023-01-31T15:14:39.072Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002554135?sid=102" class="nclicks(rig.secteco)" title="이재명 저격한 한동훈 “대선 져서 소환? 이겼으면 뭉갰을 거란 말”">이재명 저격한 한동훈 “대선 져서 소환? 이겼으면 뭉갰을 거란 말”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추위 풀리자 탁한 공기…내일 밤부터 다시 추워진다]]></title>
