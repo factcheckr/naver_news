@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T06:19:04.099Z</updated>
+    <updated>2023-02-01T07:13:57.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[속보]김기현, '김연경·남진 인증샷' 논란에 "당사자 동의' 전해듣고 올린 것…오해받을 표현 유감" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000949904?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000949904?sid=100"/>
+        <updated>2023-02-01T07:13:27.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000949904?sid=100" class="nclicks(rig.secteco)" title="[속보]김기현, '김연경·남진 인증샷' 논란에 &quot;당사자 동의' 전해듣고 올린 것…오해받을 표현 유감&quot;">[속보]김기현, '김연경·남진 인증샷' 논란에 "당사자 동의' 전해듣고 올린 것…오해받을 표현 유감"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "대학 자율 보장해야"...금오공대서 첫 인재양성회의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004846175?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846175?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;대학 자율 보장해야&quot;...금오공대서 첫 인재양성회의">尹대통령 "대학 자율 보장해야"...금오공대서 첫 인재양성회의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주 "김건희 비호 위해 野인사 고발 대통령실 규탄"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011669727?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011669727?sid=100"/>
-        <updated>2023-02-01T06:18:34.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011669727?sid=100" class="nclicks(rig.secteco)" title="민주 &quot;김건희 비호 위해 野인사 고발 대통령실 규탄&quot;(종합)">민주 "김건희 비호 위해 野인사 고발 대통령실 규탄"(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실, ‘김건희 명예훼손’ 고발 비판에 “직접 대응 당연” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003743659?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003743659?sid=100"/>
-        <updated>2023-02-01T06:18:34.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003743659?sid=100" class="nclicks(rig.secteco)" title="대통령실, ‘김건희 명예훼손’ 고발 비판에 “직접 대응 당연”">대통령실, ‘김건희 명예훼손’ 고발 비판에 “직접 대응 당연”</a>]]></content>
+        <title type="html"><![CDATA[감사원, 상반기 경기도·성남시 들여다본다…이재명 겨냥? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013731093?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013731093?sid=100"/>
+        <updated>2023-02-01T07:13:27.132Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013731093?sid=100" class="nclicks(rig.secteco)" title="감사원, 상반기 경기도·성남시 들여다본다…이재명 겨냥?">감사원, 상반기 경기도·성남시 들여다본다…이재명 겨냥?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中 딱 봐도 韓보복? "한국발 입국자 PCR검사" 중국인 쏙 뺐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,11 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003256914?sid=104" class="nclicks(rig.secteco)" title="中 딱 봐도 韓보복? &quot;한국발 입국자 PCR검사&quot; 중국인 쏙 뺐다">中 딱 봐도 韓보복? "한국발 입국자 PCR검사" 중국인 쏙 뺐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["미얀마 군부독재 3년차…자국민 탄압 즉각 중단하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011669769?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011669769?sid=104"/>
-        <updated>2023-02-01T06:18:34.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011669769?sid=104" class="nclicks(rig.secteco)" title="&quot;미얀마 군부독재 3년차…자국민 탄압 즉각 중단하라&quot;">"미얀마 군부독재 3년차…자국민 탄압 즉각 중단하라"</a>]]></content>
+        <title type="html"><![CDATA[“길거리서 연인끼리 춤췄다고 징역 10년” 이란 현 상황(영상) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003336236?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003336236?sid=104"/>
+        <updated>2023-02-01T07:13:27.146Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003336236?sid=104" class="nclicks(rig.secteco)" title="“길거리서 연인끼리 춤췄다고 징역 10년” 이란 현 상황(영상)">“길거리서 연인끼리 춤췄다고 징역 10년” 이란 현 상황(영상)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['10년만의 분기적자' 허리띠 졸라맨 SK하이닉스 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000013473?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000013473?sid=101"/>
+        <updated>2023-02-01T07:13:27.148Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013473?sid=101" class="nclicks(rig.secteco)" title="'10년만의 분기적자' 허리띠 졸라맨 SK하이닉스">'10년만의 분기적자' 허리띠 졸라맨 SK하이닉스</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고유가 꺾이자, 반도체 혹한 쇼크…끝나지 않은 ‘사상 최대’ 무역 적자 공포 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,18 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000873959?sid=101" class="nclicks(rig.secteco)" title="고유가 꺾이자, 반도체 혹한 쇼크…끝나지 않은 ‘사상 최대’ 무역 적자 공포">고유가 꺾이자, 반도체 혹한 쇼크…끝나지 않은 ‘사상 최대’ 무역 적자 공포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK하이닉스도 10년만에 적자…반도체 죽쑬 때 홀로 웃은 곳 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003256919?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003256919?sid=101"/>
-        <updated>2023-02-01T06:18:34.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003256919?sid=101" class="nclicks(rig.secteco)" title="SK하이닉스도 10년만에 적자…반도체 죽쑬 때 홀로 웃은 곳">SK하이닉스도 10년만에 적자…반도체 죽쑬 때 홀로 웃은 곳</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 공공기관 채용 줄인다…추경호 "일없는데 뽑으면 세금낭비"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013730676?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013730676?sid=101"/>
-        <updated>2023-02-01T05:13:55.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013730676?sid=101" class="nclicks(rig.secteco)" title="올해 공공기관 채용 줄인다…추경호 &quot;일없는데 뽑으면 세금낭비&quot;(종합)">올해 공공기관 채용 줄인다…추경호 "일없는데 뽑으면 세금낭비"(종합)</a>]]></content>
+        <title type="html"><![CDATA[공공기관 정상화? 신입 덜 뽑고 고졸·장애인 늘린다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000721157?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000721157?sid=101"/>
+        <updated>2023-02-01T07:13:27.151Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000721157?sid=101" class="nclicks(rig.secteco)" title="공공기관 정상화? 신입 덜 뽑고 고졸·장애인 늘린다">공공기관 정상화? 신입 덜 뽑고 고졸·장애인 늘린다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나로우주센터, 차세대 엔진시험 중 화재…“누리호 3차 발사와는 무관” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,39 +75,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000873944?sid=105" class="nclicks(rig.secteco)" title="5만년 만에 온 ‘초록빛 혜성’… 2일 새벽 쌍안경으로도 본다">5만년 만에 온 ‘초록빛 혜성’… 2일 새벽 쌍안경으로도 본다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘172㎝ 이상 훈남’ ‘주방 이모’… 성차별·채용광고땐 벌금 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003477015?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003477015?sid=102"/>
-        <updated>2023-02-01T06:18:34.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003477015?sid=102" class="nclicks(rig.secteco)" title="‘172㎝ 이상 훈남’ ‘주방 이모’… 성차별·채용광고땐 벌금">‘172㎝ 이상 훈남’ ‘주방 이모’… 성차별·채용광고땐 벌금</a>]]></content>
+        <title type="html"><![CDATA[사랑의온도탑, 2023나눔캠페인 4444억원 모금 종료 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011669974?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011669974?sid=102"/>
+        <updated>2023-02-01T07:13:27.158Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011669974?sid=102" class="nclicks(rig.secteco)" title="사랑의온도탑, 2023나눔캠페인 4444억원 모금 종료">사랑의온도탑, 2023나눔캠페인 4444억원 모금 종료</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임종석, 정의용 '연속 檢 소환'에 "北 범죄자 다 받을건가…제발 정도껏" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000051598?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000051598?sid=102"/>
-        <updated>2023-02-01T06:18:34.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000051598?sid=102" class="nclicks(rig.secteco)" title="임종석, 정의용 '연속 檢 소환'에 &quot;北 범죄자 다 받을건가…제발 정도껏&quot;">임종석, 정의용 '연속 檢 소환'에 "北 범죄자 다 받을건가…제발 정도껏"</a>]]></content>
+        <title type="html"><![CDATA[[속보] “절도범이 반입한 고려불상 소유권은 일본” 법원 2심 판결 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003336247?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003336247?sid=102"/>
+        <updated>2023-02-01T07:13:27.160Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003336247?sid=102" class="nclicks(rig.secteco)" title="[속보] “절도범이 반입한 고려불상 소유권은 일본” 법원 2심 판결">[속보] “절도범이 반입한 고려불상 소유권은 일본” 법원 2심 판결</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부가 집행하던 대학예산 2조+α, 2025년부터 지자체로 넘긴다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013730937?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013730937?sid=102"/>
-        <updated>2023-02-01T06:18:34.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013730937?sid=102" class="nclicks(rig.secteco)" title="정부가 집행하던 대학예산 2조+α, 2025년부터 지자체로 넘긴다">정부가 집행하던 대학예산 2조+α, 2025년부터 지자체로 넘긴다</a>]]></content>
+        <title type="html"><![CDATA[‘훈훈한 외모’ ‘남성 11만원·여성 9만원…성차별 구인광고 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003336240?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003336240?sid=102"/>
+        <updated>2023-02-01T07:13:27.162Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003336240?sid=102" class="nclicks(rig.secteco)" title="‘훈훈한 외모’ ‘남성 11만원·여성 9만원…성차별 구인광고">‘훈훈한 외모’ ‘남성 11만원·여성 9만원…성차별 구인광고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["옆집도, 아랫집도 '이 차'"…삼각별 단 신차 12종 나온다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000320964?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000320964?sid=103"/>
-        <updated>2023-02-01T06:18:34.293Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000320964?sid=103" class="nclicks(rig.secteco)" title="&quot;옆집도, 아랫집도 '이 차'&quot;…삼각별 단 신차 12종 나온다">"옆집도, 아랫집도 '이 차'"…삼각별 단 신차 12종 나온다</a>]]></content>
+        <title type="html"><![CDATA[스무살 벤츠코리아 '판매량 넘어 고객만족 1위 하겠다' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000013474?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000013474?sid=103"/>
+        <updated>2023-02-01T07:13:27.163Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013474?sid=103" class="nclicks(rig.secteco)" title="스무살 벤츠코리아 '판매량 넘어 고객만족 1위 하겠다'">스무살 벤츠코리아 '판매량 넘어 고객만족 1위 하겠다'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관광산업 미래 이끌 140개 신규 관광벤처 기업 발굴한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005416364?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005416364?sid=103"/>
-        <updated>2023-02-01T06:18:34.295Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005416364?sid=103" class="nclicks(rig.secteco)" title="관광산업 미래 이끌 140개 신규 관광벤처 기업 발굴한다">관광산업 미래 이끌 140개 신규 관광벤처 기업 발굴한다</a>]]></content>
+        <title type="html"><![CDATA[티볼리 판매기록 갈아치운 '토레스' 효과…쌍용차 1월 판매 45%↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004846226?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004846226?sid=103"/>
+        <updated>2023-02-01T07:13:27.165Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846226?sid=103" class="nclicks(rig.secteco)" title="티볼리 판매기록 갈아치운 '토레스' 효과…쌍용차 1월 판매 45%↑">티볼리 판매기록 갈아치운 '토레스' 효과…쌍용차 1월 판매 45%↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
