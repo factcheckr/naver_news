@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-01T23:14:45.648Z</updated>
+    <updated>2023-02-02T01:10:14.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수, 다자·양자 모두 김기현 추월…‘적극 지지층’은 金 우위 [리얼미터]]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003743853?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003743853?sid=100"/>
+        <updated>2023-02-02T01:09:29.913Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003743853?sid=100" class="nclicks(rig.secteco)" title="안철수, 다자·양자 모두 김기현 추월…‘적극 지지층’은 金 우위 [리얼미터]">안철수, 다자·양자 모두 김기현 추월…‘적극 지지층’은 金 우위 [리얼미터]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北 "美의 어떤 군사 기도에도 초강력 대응"…한미국방회담 반발(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013732549?sid=100</id>
@@ -20,60 +27,67 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001584037?sid=100" class="nclicks(rig.secteco)" title="방명록에 “위대한 지도자”… 박정희 생가 간 尹대통령 [포착]">방명록에 “위대한 지도자”… 박정희 생가 간 尹대통령 [포착]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['김건희 특검' 주저하던 민주당, 1인 시위·농성 '속도' 왜?]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003733181?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003733181?sid=100"/>
-        <updated>2023-02-01T22:14:04.900Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003733181?sid=100" class="nclicks(rig.secteco)" title="'김건희 특검' 주저하던 민주당, 1인 시위·농성 '속도' 왜?">'김건희 특검' 주저하던 민주당, 1인 시위·농성 '속도' 왜?</a>]]></content>
+        <title type="html"><![CDATA[파월, 비둘기로 변했다는 4가지 신호…금리 인하 여지도 남겼다?]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004846527?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004846527?sid=104"/>
+        <updated>2023-02-02T01:09:29.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846527?sid=104" class="nclicks(rig.secteco)" title="파월, 비둘기로 변했다는 4가지 신호…금리 인하 여지도 남겼다?">파월, 비둘기로 변했다는 4가지 신호…금리 인하 여지도 남겼다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美FBI, 바이든 델라웨어주 별장 수색… 추가 기밀문서 발견 못해]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000891836?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000891836?sid=104"/>
+        <updated>2023-02-02T01:09:29.922Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000891836?sid=104" class="nclicks(rig.secteco)" title="美FBI, 바이든 델라웨어주 별장 수색… 추가 기밀문서 발견 못해">美FBI, 바이든 델라웨어주 별장 수색… 추가 기밀문서 발견 못해</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“파월, 연착륙이 기본가정”…“매파보다는 비둘기” [김영필의 3분 월스트리트]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004151445?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004151445?sid=104"/>
-        <updated>2023-02-01T23:14:16.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004151445?sid=104" class="nclicks(rig.secteco)" title="“파월, 연착륙이 기본가정”…“매파보다는 비둘기” [김영필의 3분 월스트리트]">“파월, 연착륙이 기본가정”…“매파보다는 비둘기” [김영필의 3분 월스트리트]</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/011/0004151445?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004151445?sid=101"/>
+        <updated>2023-02-02T01:09:29.923Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004151445?sid=101" class="nclicks(rig.secteco)" title="“파월, 연착륙이 기본가정”…“매파보다는 비둘기” [김영필의 3분 월스트리트]">“파월, 연착륙이 기본가정”…“매파보다는 비둘기” [김영필의 3분 월스트리트]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파월 "인플레에 승리 선언 이르다…두어번의 금리인상 더 필요"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013732523?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013732523?sid=104"/>
-        <updated>2023-02-01T23:14:16.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013732523?sid=104" class="nclicks(rig.secteco)" title="파월 &quot;인플레에 승리 선언 이르다…두어번의 금리인상 더 필요&quot;(종합)">파월 "인플레에 승리 선언 이르다…두어번의 금리인상 더 필요"(종합)</a>]]></content>
+        <title type="html"><![CDATA[새해 첫 달부터 물가 또 오름세…전기·가스·수도 28% '급등'(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011671061?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011671061?sid=101"/>
+        <updated>2023-02-02T01:09:29.925Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011671061?sid=101" class="nclicks(rig.secteco)" title="새해 첫 달부터 물가 또 오름세…전기·가스·수도 28% '급등'(종합2보)">새해 첫 달부터 물가 또 오름세…전기·가스·수도 28% '급등'(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힘 못 쓴 수출 효자, 적자 키웠다…최악 성적표에 앞이 '캄캄']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004846415?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004846415?sid=101"/>
-        <updated>2023-02-01T21:15:17.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846415?sid=101" class="nclicks(rig.secteco)" title="힘 못 쓴 수출 효자, 적자 키웠다…최악 성적표에 앞이 '캄캄'">힘 못 쓴 수출 효자, 적자 키웠다…최악 성적표에 앞이 '캄캄'</a>]]></content>
+        <title type="html"><![CDATA[추경호 "연준 물가둔화 언급에 불확실성↓…실물 어려움은 확대"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013732604?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013732604?sid=101"/>
+        <updated>2023-02-02T01:09:29.926Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013732604?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;연준 물가둔화 언급에 불확실성↓…실물 어려움은 확대&quot;(종합)">추경호 "연준 물가둔화 언급에 불확실성↓…실물 어려움은 확대"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[들끓는 난방비 여론…정부, 차상위계층도 비용 지원한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001032484?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001032484?sid=101"/>
-        <updated>2023-02-01T22:14:04.905Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001032484?sid=101" class="nclicks(rig.secteco)" title="들끓는 난방비 여론…정부, 차상위계층도 비용 지원한다">들끓는 난방비 여론…정부, 차상위계층도 비용 지원한다</a>]]></content>
+        <title type="html"><![CDATA["찍으면 영화가 된다"…스콧 감독도 극찬한 갤S23 울트라 [갤럭시 언팩]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004151515?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004151515?sid=105"/>
+        <updated>2023-02-02T01:09:29.927Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004151515?sid=105" class="nclicks(rig.secteco)" title="&quot;찍으면 영화가 된다&quot;…스콧 감독도 극찬한 갤S23 울트라 [갤럭시 언팩]">"찍으면 영화가 된다"…스콧 감독도 극찬한 갤S23 울트라 [갤럭시 언팩]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK하이닉스, 작년 4Q 가격 하락 정점…1Q 수요 절벽 구간-IBK]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005416771?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005416771?sid=101"/>
-        <updated>2023-02-01T23:14:16.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005416771?sid=101" class="nclicks(rig.secteco)" title="SK하이닉스, 작년 4Q 가격 하락 정점…1Q 수요 절벽 구간-IBK">SK하이닉스, 작년 4Q 가격 하락 정점…1Q 수요 절벽 구간-IBK</a>]]></content>
+        <title type="html"><![CDATA[오픈AI, 챗GPT 유로버전 내놓는다…한달에 2만 4000원]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005416926?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005416926?sid=105"/>
+        <updated>2023-02-02T01:09:29.928Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005416926?sid=105" class="nclicks(rig.secteco)" title="오픈AI, 챗GPT 유로버전 내놓는다…한달에 2만 4000원">오픈AI, 챗GPT 유로버전 내놓는다…한달에 2만 4000원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사진은 아이폰이라고? “이게 바로 2억화소 삼성폰, 이쁘지 않나요?”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002098095?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002098095?sid=105"/>
-        <updated>2023-02-01T23:14:16.931Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002098095?sid=105" class="nclicks(rig.secteco)" title="사진은 아이폰이라고? “이게 바로 2억화소 삼성폰, 이쁘지 않나요?”">사진은 아이폰이라고? “이게 바로 2억화소 삼성폰, 이쁘지 않나요?”</a>]]></content>
+        <title type="html"><![CDATA['빗썸 실소유 의혹' 강종현 구속…600억대 횡령에 주가조작 혐의]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000330814?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000330814?sid=102"/>
+        <updated>2023-02-02T01:09:29.929Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000330814?sid=102" class="nclicks(rig.secteco)" title="'빗썸 실소유 의혹' 강종현 구속…600억대 횡령에 주가조작 혐의">'빗썸 실소유 의혹' 강종현 구속…600억대 횡령에 주가조작 혐의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“2+7은 8? 맞아요” 맥락 아는 AI, 돈 벌기 시작하다[딥다이브]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003476970?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003476970?sid=105"/>
-        <updated>2023-02-01T23:14:16.933Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003476970?sid=105" class="nclicks(rig.secteco)" title="“2+7은 8? 맞아요” 맥락 아는 AI, 돈 벌기 시작하다[딥다이브]">“2+7은 8? 맞아요” 맥락 아는 AI, 돈 벌기 시작하다[딥다이브]</a>]]></content>
+        <title type="html"><![CDATA[룸카페, '청소년 스킨십' 금지 vs 허용?...문제는 '보호 사각지대']]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001719826?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001719826?sid=102"/>
+        <updated>2023-02-02T01:09:29.931Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001719826?sid=102" class="nclicks(rig.secteco)" title="룸카페, '청소년 스킨십' 금지 vs 허용?...문제는 '보호 사각지대'">룸카페, '청소년 스킨십' 금지 vs 허용?...문제는 '보호 사각지대'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘고려불상 대마도 관음사 소유’ 法 판결에...日 “조기반환 韓에 요청”]]></title>
@@ -83,20 +97,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003779613?sid=102" class="nclicks(rig.secteco)" title="‘고려불상 대마도 관음사 소유’ 法 판결에...日 “조기반환 韓에 요청”">‘고려불상 대마도 관음사 소유’ 法 판결에...日 “조기반환 韓에 요청”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['1,400원' 오른 심야택시…"달릴수록 할증요금 체감"]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000582154?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000582154?sid=102"/>
-        <updated>2023-02-01T23:14:16.938Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000582154?sid=102" class="nclicks(rig.secteco)" title="'1,400원' 오른 심야택시…&quot;달릴수록 할증요금 체감&quot;">'1,400원' 오른 심야택시…"달릴수록 할증요금 체감"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대들 찾는 '모텔 같은' 룸카페… 서울시, 특별단속 나선다]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000891778?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000891778?sid=102"/>
-        <updated>2023-02-01T23:14:16.940Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000891778?sid=102" class="nclicks(rig.secteco)" title="10대들 찾는 '모텔 같은' 룸카페… 서울시, 특별단속 나선다">10대들 찾는 '모텔 같은' 룸카페… 서울시, 특별단속 나선다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[오늘날씨] 다시 찾아온 강추위…아침 최저 ?12도까지 ‘뚝’]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003779612?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003779612?sid=103"/>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003779612?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 다시 찾아온 강추위…아침 최저 ?12도까지 ‘뚝’">[오늘날씨] 다시 찾아온 강추위…아침 최저 ?12도까지 ‘뚝’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤츠 “미래 비전 담은 12종 신차 내놓을 것”…첫 포문 ‘더 뉴 EQS SUV’ 출시]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003477087?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003477087?sid=103"/>
-        <updated>2023-02-01T22:14:04.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003477087?sid=103" class="nclicks(rig.secteco)" title="벤츠 “미래 비전 담은 12종 신차 내놓을 것”…첫 포문 ‘더 뉴 EQS SUV’ 출시">벤츠 “미래 비전 담은 12종 신차 내놓을 것”…첫 포문 ‘더 뉴 EQS SUV’ 출시</a>]]></content>
+        <title type="html"><![CDATA[경기도, 한번에 여러 곳 둘러보는 '시·군 연계관광' 개발]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004963407?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004963407?sid=103"/>
+        <updated>2023-02-02T01:09:29.936Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004963407?sid=103" class="nclicks(rig.secteco)" title="경기도, 한번에 여러 곳 둘러보는 '시·군 연계관광' 개발">경기도, 한번에 여러 곳 둘러보는 '시·군 연계관광' 개발</a>]]></content>
     </entry>
 </feed>
