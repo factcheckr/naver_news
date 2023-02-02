@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T06:18:32.471Z</updated>
+    <updated>2023-02-02T07:13:31.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[속보]경호처 "역술인 '천공' 대통령 관저 물색 사실 아니다…가짜뉴스 확산하는 野에 강한 유감" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000950145?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000950145?sid=100"/>
+        <updated>2023-02-02T07:13:01.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950145?sid=100" class="nclicks(rig.secteco)" title="[속보]경호처 &quot;역술인 '천공' 대통령 관저 물색 사실 아니다…가짜뉴스 확산하는 野에 강한 유감&quot;">[속보]경호처 "역술인 '천공' 대통령 관저 물색 사실 아니다…가짜뉴스 확산하는 野에 강한 유감"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "세계적 유니콘 기업 대거 탄생하도록 뒷받침" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013734332?sid=100</id>
@@ -12,18 +19,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013734332?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;세계적 유니콘 기업 대거 탄생하도록 뒷받침&quot;">尹대통령 "세계적 유니콘 기업 대거 탄생하도록 뒷받침"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "천공 ‘한남동 공관' 방문, 남영신 육군총장이 화장실서 몰래 알렸다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000721332?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000721332?sid=100"/>
-        <updated>2023-02-02T06:18:01.066Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000721332?sid=100" class="nclicks(rig.secteco)" title="[단독] &quot;천공 ‘한남동 공관' 방문, 남영신 육군총장이 화장실서 몰래 알렸다&quot;">[단독] "천공 ‘한남동 공관' 방문, 남영신 육군총장이 화장실서 몰래 알렸다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김장연대' 장제원 "차기 지도부서 임명직 당직 안 맡아" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002380915?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002380915?sid=100"/>
-        <updated>2023-02-02T06:18:01.066Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002380915?sid=100" class="nclicks(rig.secteco)" title="'김장연대' 장제원 &quot;차기 지도부서 임명직 당직 안 맡아&quot;">'김장연대' 장제원 "차기 지도부서 임명직 당직 안 맡아"</a>]]></content>
+        <title type="html"><![CDATA[이재명 “소설 갖고 자꾸 그런다”…국힘 “소설 아닌 다큐” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000243082?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000243082?sid=100"/>
+        <updated>2023-02-02T07:13:01.372Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243082?sid=100" class="nclicks(rig.secteco)" title="이재명 “소설 갖고 자꾸 그런다”…국힘 “소설 아닌 다큐”">이재명 “소설 갖고 자꾸 그런다”…국힘 “소설 아닌 다큐”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 "北에 적대적 의도 없다…北이 편한 시간·장소에 만날 것"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,32 +47,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950133?sid=101" class="nclicks(rig.secteco)" title="[속보]원희룡 &quot;文정부가 전세사기 원인 제공…사기 집단에 먹잇감 던져줘&quot;">[속보]원희룡 "文정부가 전세사기 원인 제공…사기 집단에 먹잇감 던져줘"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공공요금 폭탄'이 물가 자극? 전기·가스·수도 28.3% 폭등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002274927?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002274927?sid=101"/>
-        <updated>2023-02-02T06:18:01.075Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002274927?sid=101" class="nclicks(rig.secteco)" title="'공공요금 폭탄'이 물가 자극? 전기·가스·수도 28.3% 폭등">'공공요금 폭탄'이 물가 자극? 전기·가스·수도 28.3% 폭등</a>]]></content>
+        <title type="html"><![CDATA[올해 '전기차 보조금' 대상 차량 확대… 보조금 정책 어떻게 달라졌나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002141803?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002141803?sid=101"/>
+        <updated>2023-02-02T07:13:01.388Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002141803?sid=101" class="nclicks(rig.secteco)" title="올해 '전기차 보조금' 대상 차량 확대… 보조금 정책 어떻게 달라졌나">올해 '전기차 보조금' 대상 차량 확대… 보조금 정책 어떻게 달라졌나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘비둘기 파월’에 한은 금리 동결할까…난방비發 고물가가 변수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000874309?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000874309?sid=101"/>
-        <updated>2023-02-02T06:18:01.076Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000874309?sid=101" class="nclicks(rig.secteco)" title="‘비둘기 파월’에 한은 금리 동결할까…난방비發 고물가가 변수">‘비둘기 파월’에 한은 금리 동결할까…난방비發 고물가가 변수</a>]]></content>
+        <title type="html"><![CDATA[노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005417228?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005417228?sid=101"/>
+        <updated>2023-02-02T07:13:01.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005417228?sid=101" class="nclicks(rig.secteco)" title="노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’">노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[갤럭시언팩] '괴물폰' 내세운 노태문의 자신감…"전작대비 10% 성장" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002141792?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002141792?sid=105"/>
-        <updated>2023-02-02T06:18:01.077Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002141792?sid=105" class="nclicks(rig.secteco)" title="[갤럭시언팩] '괴물폰' 내세운 노태문의 자신감…&quot;전작대비 10% 성장&quot;">[갤럭시언팩] '괴물폰' 내세운 노태문의 자신감…"전작대비 10% 성장"</a>]]></content>
+        <title type="html"><![CDATA[노트북 키보드로 폰도 마음대로…삼성 ‘갤럭시 북3 울트라’ 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003257208?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003257208?sid=105"/>
+        <updated>2023-02-02T07:13:01.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003257208?sid=105" class="nclicks(rig.secteco)" title="노트북 키보드로 폰도 마음대로…삼성 ‘갤럭시 북3 울트라’ 공개">노트북 키보드로 폰도 마음대로…삼성 ‘갤럭시 북3 울트라’ 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["챗GPT, 출시 두 달 만에 월 사용자 1억명 돌파" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011672219?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011672219?sid=105"/>
-        <updated>2023-02-02T06:18:01.078Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011672219?sid=105" class="nclicks(rig.secteco)" title="&quot;챗GPT, 출시 두 달 만에 월 사용자 1억명 돌파&quot;">"챗GPT, 출시 두 달 만에 월 사용자 1억명 돌파"</a>]]></content>
+        <title type="html"><![CDATA[여러 위성 활용해 지구 감시정찰 능력 확 키운다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002281487?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002281487?sid=105"/>
+        <updated>2023-02-02T07:13:01.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002281487?sid=105" class="nclicks(rig.secteco)" title="여러 위성 활용해 지구 감시정찰 능력 확 키운다">여러 위성 활용해 지구 감시정찰 능력 확 키운다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구미 3세 여아' 친모 파기환송심서 징역 8년→징역2년에 집유3년 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005212878?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005212878?sid=102"/>
+        <updated>2023-02-02T07:13:01.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005212878?sid=102" class="nclicks(rig.secteco)" title="'구미 3세 여아' 친모 파기환송심서 징역 8년→징역2년에 집유3년">'구미 3세 여아' 친모 파기환송심서 징역 8년→징역2년에 집유3년</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["청첩장도 안 준 친구사이" 음주 동승 사망 사고 들여다 보니… (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,25 +89,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003733462?sid=102" class="nclicks(rig.secteco)" title="&quot;청첩장도 안 준 친구사이&quot; 음주 동승 사망 사고 들여다 보니…">"청첩장도 안 준 친구사이" 음주 동승 사망 사고 들여다 보니…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005417228?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005417228?sid=102"/>
-        <updated>2023-02-02T06:18:01.081Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005417228?sid=102" class="nclicks(rig.secteco)" title="노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’">노사 빼놓고 호봉제 개편 논의 착수한 고용부…장외 갈등은 ‘격화’</a>]]></content>
+        <title type="html"><![CDATA[2살 아들 혼자 집에 사흘 방치해 사망…엄마 "돈 벌러 외출" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013734131?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013734131?sid=102"/>
+        <updated>2023-02-02T07:13:01.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013734131?sid=102" class="nclicks(rig.secteco)" title="2살 아들 혼자 집에 사흘 방치해 사망…엄마 &quot;돈 벌러 외출&quot;">2살 아들 혼자 집에 사흘 방치해 사망…엄마 "돈 벌러 외출"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['구미 여아' 친모, 바꿔치기 혐의 무죄…2년만에 '석방'(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005417231?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005417231?sid=102"/>
-        <updated>2023-02-02T06:18:01.082Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005417231?sid=102" class="nclicks(rig.secteco)" title="'구미 여아' 친모, 바꿔치기 혐의 무죄…2년만에 '석방'(종합)">'구미 여아' 친모, 바꿔치기 혐의 무죄…2년만에 '석방'(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타타대우 “내년 '더쎈' 전기차 출시 시작으로 전동화 시장 진입” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003076191?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003076191?sid=103"/>
-        <updated>2023-02-02T06:18:01.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003076191?sid=103" class="nclicks(rig.secteco)" title="타타대우 “내년 '더쎈' 전기차 출시 시작으로 전동화 시장 진입”">타타대우 “내년 '더쎈' 전기차 출시 시작으로 전동화 시장 진입”</a>]]></content>
+        <title type="html"><![CDATA["1톤 전기트럭으로 현대차그룹 독점에 맞설 터"...인도 최대 車회사 회장의 포부 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000721380?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000721380?sid=103"/>
+        <updated>2023-02-02T07:13:01.392Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000721380?sid=103" class="nclicks(rig.secteco)" title="&quot;1톤 전기트럭으로 현대차그룹 독점에 맞설 터&quot;...인도 최대 車회사 회장의 포부">"1톤 전기트럭으로 현대차그룹 독점에 맞설 터"...인도 최대 車회사 회장의 포부</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴스타코리아, 대형 SUV '폴스타 3' 연내 출시…신형 폴스타 2는 하반기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
