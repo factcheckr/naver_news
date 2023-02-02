@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-02T03:16:34.126Z</updated>
+    <updated>2023-02-02T04:17:45.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[또 안철수가 앞서네...與 지지층 양자 安 50%, 金 32%[NBS]]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002554462?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002554462?sid=100"/>
-        <updated>2023-02-02T03:16:01.140Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002554462?sid=100" class="nclicks(rig.secteco)" title="또 안철수가 앞서네...與 지지층 양자 安 50%, 金 32%[NBS]">또 안철수가 앞서네...與 지지층 양자 安 50%, 金 32%[NBS]</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[장제원 “차기지도부서 임명직 당직 안맡겠다”]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003336511?sid=100</id>
@@ -20,11 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003336511?sid=100" class="nclicks(rig.secteco)" title="장제원 “차기지도부서 임명직 당직 안맡겠다”">장제원 “차기지도부서 임명직 당직 안맡겠다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“3가지 美 전략 자산 서해에” 올해 첫 한미 공중훈련… “핵엔 핵으로” 北 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000243061?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000243061?sid=100"/>
-        <updated>2023-02-02T03:16:01.144Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243061?sid=100" class="nclicks(rig.secteco)" title="“3가지 美 전략 자산 서해에” 올해 첫 한미 공중훈련… “핵엔 핵으로” 北 반발">“3가지 美 전략 자산 서해에” 올해 첫 한미 공중훈련… “핵엔 핵으로” 北 반발</a>]]></content>
+        <title type="html"><![CDATA[나경원·유승민 드롭에 안철수 43.3% 약진, 尹心 김기현 36%…安 양자·대권서도 상승]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002781873?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002781873?sid=100"/>
+        <updated>2023-02-02T04:17:15.865Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002781873?sid=100" class="nclicks(rig.secteco)" title="나경원·유승민 드롭에 안철수 43.3% 약진, 尹心 김기현 36%…安 양자·대권서도 상승">나경원·유승민 드롭에 안철수 43.3% 약진, 尹心 김기현 36%…安 양자·대권서도 상승</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["역대급 성과" 잔치 벌인 대통령실, '10대 성과' 전국 전광판 홍보]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000051652?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000051652?sid=100"/>
+        <updated>2023-02-02T04:17:15.878Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000051652?sid=100" class="nclicks(rig.secteco)" title="&quot;역대급 성과&quot; 잔치 벌인 대통령실, '10대 성과' 전국 전광판 홍보">"역대급 성과" 잔치 벌인 대통령실, '10대 성과' 전국 전광판 홍보</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파월 “인플레에 승리선언 이르다...금리인상 두어번 더 필요”]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002098332?sid=104" class="nclicks(rig.secteco)" title="파월 “인플레에 승리선언 이르다...금리인상 두어번 더 필요”">파월 “인플레에 승리선언 이르다...금리인상 두어번 더 필요”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러 군 순항미사일이 우크라 아파트 단지에…사상자 23명 발생 [우크라 전쟁]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003336495?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003336495?sid=104"/>
-        <updated>2023-02-02T02:43:39.614Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003336495?sid=104" class="nclicks(rig.secteco)" title="러 군 순항미사일이 우크라 아파트 단지에…사상자 23명 발생 [우크라 전쟁]">러 군 순항미사일이 우크라 아파트 단지에…사상자 23명 발생 [우크라 전쟁]</a>]]></content>
+        <title type="html"><![CDATA[인구 70만 섬나라에 美대사관 재개설...태평양서 中견제 강화]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003257168?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003257168?sid=104"/>
+        <updated>2023-02-02T04:17:15.879Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003257168?sid=104" class="nclicks(rig.secteco)" title="인구 70만 섬나라에 美대사관 재개설...태평양서 中견제 강화">인구 70만 섬나라에 美대사관 재개설...태평양서 中견제 강화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 "전세사기, 前정부가 원인 제공…사기 집단에 먹잇감 던져줘"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011671528?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011671528?sid=101"/>
-        <updated>2023-02-02T03:16:01.148Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011671528?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;전세사기, 前정부가 원인 제공…사기 집단에 먹잇감 던져줘&quot;">원희룡 "전세사기, 前정부가 원인 제공…사기 집단에 먹잇감 던져줘"</a>]]></content>
+        <title type="html"><![CDATA["전세사기 방지대책 바람직…추가 규제 보완도 필요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003733414?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003733414?sid=101"/>
+        <updated>2023-02-02T04:17:15.879Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003733414?sid=101" class="nclicks(rig.secteco)" title="&quot;전세사기 방지대책 바람직…추가 규제 보완도 필요&quot;">"전세사기 방지대책 바람직…추가 규제 보완도 필요"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[난방비 폭탄은 '예고편'.. 소비자물가 5% '들썩', 앞으로 "더 뛴다"]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000019824?sid=101" class="nclicks(rig.secteco)" title="난방비 폭탄은 '예고편'.. 소비자물가 5% '들썩', 앞으로 &quot;더  뛴다&quot;">난방비 폭탄은 '예고편'.. 소비자물가 5% '들썩', 앞으로 "더 뛴다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 Fed “인플레 완화 시작됐다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002554521?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002554521?sid=101"/>
-        <updated>2023-02-02T03:16:01.150Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002554521?sid=101" class="nclicks(rig.secteco)" title="미국 Fed “인플레 완화 시작됐다”">미국 Fed “인플레 완화 시작됐다”</a>]]></content>
+        <title type="html"><![CDATA[美 연준 0.25%p 금리인상...15년여 만에 가장 높아]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001844770?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001844770?sid=101"/>
+        <updated>2023-02-02T04:17:15.883Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001844770?sid=101" class="nclicks(rig.secteco)" title="美 연준 0.25%p 금리인상...15년여 만에 가장 높아">美 연준 0.25%p 금리인상...15년여 만에 가장 높아</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[갤럭시 언팩] "삼성폰 中 부품, 샤오미보다 많다고?"…억울한 노태문 입장은]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000726059?sid=105" class="nclicks(rig.secteco)" title="[갤럭시 언팩] &quot;삼성폰 中 부품, 샤오미보다 많다고?&quot;…억울한 노태문 입장은">[갤럭시 언팩] "삼성폰 中 부품, 샤오미보다 많다고?"…억울한 노태문 입장은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“당신의 따뜻한 미소”… 챗GPT, 연애편지도 그럴싸하게 대필]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002554525?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002554525?sid=105"/>
-        <updated>2023-02-02T03:16:01.153Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002554525?sid=105" class="nclicks(rig.secteco)" title="“당신의 따뜻한 미소”… 챗GPT, 연애편지도 그럴싸하게 대필">“당신의 따뜻한 미소”… 챗GPT, 연애편지도 그럴싸하게 대필</a>]]></content>
+        <title type="html"><![CDATA[오픈AI, 챗GPT 유료화 수순…월 20달러 구독 모델 출시]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006608562?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006608562?sid=105"/>
+        <updated>2023-02-02T04:17:15.890Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006608562?sid=105" class="nclicks(rig.secteco)" title="오픈AI, 챗GPT 유료화 수순…월 20달러 구독 모델 출시">오픈AI, 챗GPT 유료화 수순…월 20달러 구독 모델 출시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이폰 배터리 '고의 성능저하' 소송서 소비자 패소(종합)]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013733104?sid=102" class="nclicks(rig.secteco)" title="아이폰 배터리 '고의 성능저하' 소송서 소비자 패소(종합)">아이폰 배터리 '고의 성능저하' 소송서 소비자 패소(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대법, '아동학대' 혐의 구미 어린이집 보육교사 유죄 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003733345?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003733345?sid=102"/>
-        <updated>2023-02-02T03:16:01.157Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003733345?sid=102" class="nclicks(rig.secteco)" title="대법, '아동학대' 혐의 구미 어린이집 보육교사 유죄 확정">대법, '아동학대' 혐의 구미 어린이집 보육교사 유죄 확정</a>]]></content>
+        <title type="html"><![CDATA['구미 어린이집 학대' 보육교사들 유죄 확정…집행유예]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006607861?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006607861?sid=102"/>
+        <updated>2023-02-02T04:17:15.890Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006607861?sid=102" class="nclicks(rig.secteco)" title="'구미 어린이집 학대' 보육교사들 유죄 확정…집행유예">'구미 어린이집 학대' 보육교사들 유죄 확정…집행유예</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[115억 횡령해 주식 투자한 강동구청 공무원…징역 10년 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005417032?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005417032?sid=102"/>
-        <updated>2023-02-02T03:16:01.163Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005417032?sid=102" class="nclicks(rig.secteco)" title="115억 횡령해 주식 투자한 강동구청 공무원…징역 10년 확정">115억 횡령해 주식 투자한 강동구청 공무원…징역 10년 확정</a>]]></content>
+        <title type="html"><![CDATA['건설노조 불법행위 칼 빼든 경찰'…경기·인천 2일 강제수사 (종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006608569?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006608569?sid=102"/>
+        <updated>2023-02-02T04:17:15.890Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006608569?sid=102" class="nclicks(rig.secteco)" title="'건설노조 불법행위 칼 빼든 경찰'…경기·인천 2일 강제수사 (종합)">'건설노조 불법행위 칼 빼든 경찰'…경기·인천 2일 강제수사 (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폴스타코리아, 대형 SUV '폴스타 3' 연내 출시…신형 폴스타 2는 하반기]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004846533?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004846533?sid=103"/>
-        <updated>2023-02-02T02:43:39.634Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846533?sid=103" class="nclicks(rig.secteco)" title="폴스타코리아, 대형 SUV '폴스타 3' 연내 출시…신형 폴스타 2는 하반기">폴스타코리아, 대형 SUV '폴스타 3' 연내 출시…신형 폴스타 2는 하반기</a>]]></content>
+        <title type="html"><![CDATA[610㎞가는 ‘폴스타 3’ 온다… 폴스타코리아 계묘년 승부수]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003477228?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003477228?sid=103"/>
+        <updated>2023-02-02T04:17:15.890Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003477228?sid=103" class="nclicks(rig.secteco)" title="610㎞가는 ‘폴스타 3’ 온다… 폴스타코리아 계묘년 승부수">610㎞가는 ‘폴스타 3’ 온다… 폴스타코리아 계묘년 승부수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["항상 1등만 하겠다" 약속지키니…어느덧 기아車 4000대 팔았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004846532?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004846532?sid=103"/>
-        <updated>2023-02-02T03:16:01.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004846532?sid=103" class="nclicks(rig.secteco)" title="&quot;항상 1등만 하겠다&quot; 약속지키니…어느덧 기아車 4000대 팔았다">"항상 1등만 하겠다" 약속지키니…어느덧 기아車 4000대 팔았다</a>]]></content>
+        <title type="html"><![CDATA['문화재'에서 '국가유산' 체제로 전환…'K-공유유산' 제도 도입]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013732897?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013732897?sid=103"/>
+        <updated>2023-02-02T04:17:15.892Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013732897?sid=103" class="nclicks(rig.secteco)" title="'문화재'에서 '국가유산' 체제로 전환…'K-공유유산' 제도 도입">'문화재'에서 '국가유산' 체제로 전환…'K-공유유산' 제도 도입</a>]]></content>
     </entry>
 </feed>
