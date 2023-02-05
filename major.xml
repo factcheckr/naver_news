@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-05T03:19:00.611Z</updated>
+    <updated>2023-02-05T04:16:54.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 안철수 "대통령실 선거개입 정당 민주주의 훼손 중대 사안"…비대위에 강력조치 요구]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000031660?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000031660?sid=100"/>
-        <updated>2023-02-05T03:18:31.291Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000031660?sid=100" class="nclicks(rig.secteco)" title="[속보] 안철수 &quot;대통령실 선거개입 정당 민주주의 훼손 중대 사안&quot;…비대위에 강력조치 요구">[속보] 안철수 "대통령실 선거개입 정당 민주주의 훼손 중대 사안"…비대위에 강력조치 요구</a>]]></content>
+        <title type="html"><![CDATA[정진석, 安 '친윤 조치' 요구에 "모든 정치인 입 다물라는 아냐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011675442?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011675442?sid=100"/>
+        <updated>2023-02-05T04:16:25.993Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011675442?sid=100" class="nclicks(rig.secteco)" title="정진석, 安 '친윤 조치' 요구에 &quot;모든 정치인 입 다물라는 아냐&quot;">정진석, 安 '친윤 조치' 요구에 "모든 정치인 입 다물라는 아냐"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회, 이태원 참사 100일 추모…"진상·책임규명, 피할 수 없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011675445?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011675445?sid=100"/>
+        <updated>2023-02-05T04:16:25.993Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011675445?sid=100" class="nclicks(rig.secteco)" title="국회, 이태원 참사 100일 추모…&quot;진상·책임규명, 피할 수 없어&quot;">국회, 이태원 참사 100일 추모…"진상·책임규명, 피할 수 없어"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[천하람, 대통령실에 "'安 대표→尹 탈당' 신평 주장 입장 밝혀라"]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000796828?sid=100" class="nclicks(rig.secteco)" title="천하람, 대통령실에 &quot;'安 대표→尹 탈당' 신평 주장 입장 밝혀라&quot;">천하람, 대통령실에 "'安 대표→尹 탈당' 신평 주장 입장 밝혀라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원 참사 100일 추모제 참석한 이재명 “尹대통령, 직접 와서 추모했으면 어땠을까 아쉬워”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000874893?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000874893?sid=100"/>
-        <updated>2023-02-05T03:18:31.305Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000874893?sid=100" class="nclicks(rig.secteco)" title="이태원 참사 100일 추모제 참석한 이재명 “尹대통령, 직접 와서 추모했으면 어땠을까 아쉬워”">이태원 참사 100일 추모제 참석한 이재명 “尹대통령, 직접 와서 추모했으면 어땠을까 아쉬워”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中, 정찰풍선 격추에 “美, 무인 비행선 공격…강한 항의”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003477681?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003477681?sid=104"/>
-        <updated>2023-02-05T03:18:31.305Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003477681?sid=104" class="nclicks(rig.secteco)" title="中, 정찰풍선 격추에 “美, 무인 비행선 공격…강한 항의”">中, 정찰풍선 격추에 “美, 무인 비행선 공격…강한 항의”</a>]]></content>
+        <title type="html"><![CDATA[미국, 동부 해안서 중국 '정찰 풍선' 격추...중국 "강한 불만과 항의"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001845801?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001845801?sid=104"/>
+        <updated>2023-02-05T04:16:25.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001845801?sid=104" class="nclicks(rig.secteco)" title="미국, 동부 해안서 중국 '정찰 풍선' 격추...중국 &quot;강한 불만과 항의&quot;">미국, 동부 해안서 중국 '정찰 풍선' 격추...중국 "강한 불만과 항의"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美 IRA 세액공제 SUV 차량기준 완화… 테슬라, 일부 '모델Y' 가격 인상]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002141915?sid=104" class="nclicks(rig.secteco)" title="美 IRA 세액공제 SUV 차량기준 완화… 테슬라, 일부 '모델Y' 가격 인상">美 IRA 세액공제 SUV 차량기준 완화… 테슬라, 일부 '모델Y' 가격 인상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일문일답]토큰증권, '자본시장법'에 따라 제도권 수용]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006612553?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006612553?sid=101"/>
-        <updated>2023-02-05T03:18:31.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006612553?sid=101" class="nclicks(rig.secteco)" title="[일문일답]토큰증권, '자본시장법'에 따라 제도권 수용">[일문일답]토큰증권, '자본시장법'에 따라 제도권 수용</a>]]></content>
+        <title type="html"><![CDATA[시즌3 앞둔 코인?…'토큰 증권'이 쏘아올린 큰 공 [이민재의 쩐널리즘]]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001081011?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001081011?sid=101"/>
+        <updated>2023-02-05T04:16:26.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001081011?sid=101" class="nclicks(rig.secteco)" title="시즌3 앞둔 코인?…'토큰 증권'이 쏘아올린 큰 공 [이민재의 쩐널리즘]">시즌3 앞둔 코인?…'토큰 증권'이 쏘아올린 큰 공 [이민재의 쩐널리즘]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월 전기·가스 등 연료물가 32%↑…외환위기 이후 최고]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000331147?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000331147?sid=101"/>
+        <updated>2023-02-05T04:16:26.001Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000331147?sid=101" class="nclicks(rig.secteco)" title="1월 전기·가스 등 연료물가 32%↑…외환위기 이후 최고">1월 전기·가스 등 연료물가 32%↑…외환위기 이후 최고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LG, 2050년까지 탄소 순배출 ‘0’ 목표…구광모 “클린 테크 지속 추진”]]></title>
@@ -55,53 +62,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004152487?sid=101" class="nclicks(rig.secteco)" title="LG, 2050년까지 탄소 순배출 ‘0’ 목표…구광모 “클린 테크 지속 추진”">LG, 2050년까지 탄소 순배출 ‘0’ 목표…구광모 “클린 테크 지속 추진”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1월 가스 36%·전기 30% 올라…외환위기 이후 상승폭 '최고']]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000031649?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000031649?sid=101"/>
-        <updated>2023-02-05T03:18:31.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000031649?sid=101" class="nclicks(rig.secteco)" title="1월 가스 36%·전기 30% 올라…외환위기 이후 상승폭 '최고'">1월 가스 36%·전기 30% 올라…외환위기 이후 상승폭 '최고'</a>]]></content>
+        <title type="html"><![CDATA[해상 원자로 개발 본격화…올해 원자력 R&D 2675억 투입]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004847419?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004847419?sid=105"/>
+        <updated>2023-02-05T04:16:26.003Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004847419?sid=105" class="nclicks(rig.secteco)" title="해상 원자로 개발 본격화…올해 원자력 R&amp;D 2675억 투입">해상 원자로 개발 본격화…올해 원자력 R&amp;D 2675억 투입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기정통부, 올해 SMR·원자력 연구개발에 2675억원 투자]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002680884?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002680884?sid=105"/>
-        <updated>2023-02-05T03:18:31.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002680884?sid=105" class="nclicks(rig.secteco)" title="과기정통부, 올해 SMR·원자력 연구개발에 2675억원 투자">과기정통부, 올해 SMR·원자력 연구개발에 2675억원 투자</a>]]></content>
+        <title type="html"><![CDATA[[IT백과] 허가없이 쓸 수 있는 '비면허 주파수', 어떻게 활용될까]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002141918?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002141918?sid=105"/>
+        <updated>2023-02-05T04:16:26.004Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002141918?sid=105" class="nclicks(rig.secteco)" title="[IT백과] 허가없이 쓸 수 있는 '비면허 주파수', 어떻게 활용될까">[IT백과] 허가없이 쓸 수 있는 '비면허 주파수', 어떻게 활용될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT-서울시교육청, 미래 대한민국 이끌 ‘청소년 AI 전문가’ 육성 맞손]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005418478?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005418478?sid=105"/>
-        <updated>2023-02-05T01:14:19.503Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005418478?sid=105" class="nclicks(rig.secteco)" title="KT-서울시교육청, 미래 대한민국 이끌 ‘청소년 AI 전문가’ 육성 맞손">KT-서울시교육청, 미래 대한민국 이끌 ‘청소년 AI 전문가’ 육성 맞손</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 "구조 총력"…잠자던 9명은 실종]]></title>
+        <title type="html"><![CDATA[[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 "구조 총력"…9명 실종]]></title>
         <id>https://n.news.naver.com/mnews/article/087/0000950340?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/087/0000950340?sid=102"/>
         <updated>2023-02-05T01:14:19.505Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950340?sid=102" class="nclicks(rig.secteco)" title="[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 &quot;구조 총력&quot;…잠자던 9명은 실종">[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 "구조 총력"…잠자던 9명은 실종</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950340?sid=102" class="nclicks(rig.secteco)" title="[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 &quot;구조 총력&quot;…9명 실종">[속보]尹대통령, 12명 탄 신안 '청보호' 선박사고에 "구조 총력"…9명 실종</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]해수부 장관 "청보호 9명 실종자 대부분 선체에서 이탈 추정…오늘 인양 예정"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000950345?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000950345?sid=102"/>
-        <updated>2023-02-05T03:18:31.311Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950345?sid=102" class="nclicks(rig.secteco)" title="[속보]해수부 장관 &quot;청보호 9명 실종자 대부분 선체에서 이탈 추정…오늘 인양 예정&quot;">[속보]해수부 장관 "청보호 9명 실종자 대부분 선체에서 이탈 추정…오늘 인양 예정"</a>]]></content>
+        <title type="html"><![CDATA[해수부 장관 "선원들 갑판에 있다가 이탈한 듯"…해상수색 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013737862?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013737862?sid=102"/>
+        <updated>2023-02-05T04:16:26.006Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013737862?sid=102" class="nclicks(rig.secteco)" title="해수부 장관 &quot;선원들 갑판에 있다가 이탈한 듯&quot;…해상수색 확대">해수부 장관 "선원들 갑판에 있다가 이탈한 듯"…해상수색 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘더 글로리 직장판?’…성희롱과 괴롭힘 만연한 새마을금고와 신협]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005418549?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005418549?sid=102"/>
-        <updated>2023-02-05T03:18:31.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005418549?sid=102" class="nclicks(rig.secteco)" title="‘더 글로리 직장판?’…성희롱과 괴롭힘 만연한 새마을금고와 신협">‘더 글로리 직장판?’…성희롱과 괴롭힘 만연한 새마을금고와 신협</a>]]></content>
+        <title type="html"><![CDATA[직원 아버지에 "子 해고할 것" 호통…중소금융업계 '천태만상']]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004806873?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004806873?sid=102"/>
+        <updated>2023-02-05T04:16:26.008Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004806873?sid=102" class="nclicks(rig.secteco)" title="직원 아버지에 &quot;子 해고할 것&quot; 호통…중소금융업계 '천태만상'">직원 아버지에 "子 해고할 것" 호통…중소금융업계 '천태만상'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포] 직원 자부심까지 '더쎈' 타타대우 LD공장… 생산현장 가보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002680882?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002680882?sid=103"/>
-        <updated>2023-02-05T03:18:31.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002680882?sid=103" class="nclicks(rig.secteco)" title="[르포] 직원 자부심까지 '더쎈' 타타대우 LD공장… 생산현장 가보니">[르포] 직원 자부심까지 '더쎈' 타타대우 LD공장… 생산현장 가보니</a>]]></content>
+        <title type="html"><![CDATA["허허벌판이었는데 트럭 수백대 빼곡"…타타대우 군산공장 가보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004806874?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004806874?sid=103"/>
+        <updated>2023-02-05T04:16:26.009Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004806874?sid=103" class="nclicks(rig.secteco)" title="&quot;허허벌판이었는데 트럭 수백대 빼곡&quot;…타타대우 군산공장 가보니">"허허벌판이었는데 트럭 수백대 빼곡"…타타대우 군산공장 가보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서른살 조성진의 헨델…“태어나서 가장 많이 연습, 하루가 30시간이면”]]></title>
