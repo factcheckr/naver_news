@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-06T02:38:57.065Z</updated>
+    <updated>2023-02-06T03:15:34.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안철수, 대통령실 반발에 “윤핵관·윤안연대 표현 쓰지 않겠다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003744527?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003744527?sid=100"/>
-        <updated>2023-02-06T02:38:27.575Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003744527?sid=100" class="nclicks(rig.secteco)" title="안철수, 대통령실 반발에 “윤핵관·윤안연대 표현 쓰지 않겠다”">안철수, 대통령실 반발에 “윤핵관·윤안연대 표현 쓰지 않겠다”</a>]]></content>
+        <title type="html"><![CDATA[민주, ‘이상민 행안부 장관 탄핵소추안’ 당론 발의 결정]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011423107?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011423107?sid=100"/>
+        <updated>2023-02-06T03:15:06.479Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011423107?sid=100" class="nclicks(rig.secteco)" title="민주, ‘이상민 행안부 장관 탄핵소추안’ 당론 발의 결정">민주, ‘이상민 행안부 장관 탄핵소추안’ 당론 발의 결정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "이태원 분향소 강제철거 계획 철회해야…비정한 정권"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013739245?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013739245?sid=100"/>
-        <updated>2023-02-06T02:38:27.575Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013739245?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;이태원 분향소 강제철거 계획 철회해야…비정한 정권&quot;">이재명 "이태원 분향소 강제철거 계획 철회해야…비정한 정권"</a>]]></content>
+        <title type="html"><![CDATA[이재명, '쌍방울 의혹'에 "소설이 재미가 없다…기막혀"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003734424?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003734424?sid=100"/>
+        <updated>2023-02-06T03:15:06.479Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003734424?sid=100" class="nclicks(rig.secteco)" title="이재명, '쌍방울 의혹'에 &quot;소설이 재미가 없다…기막혀&quot;">이재명, '쌍방울 의혹'에 "소설이 재미가 없다…기막혀"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[천하람, 첫 여론조사서 4위권 안착…金·安 때리며 존재감 부각]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004807120?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004807120?sid=100"/>
-        <updated>2023-02-06T02:38:27.578Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004807120?sid=100" class="nclicks(rig.secteco)" title="천하람, 첫 여론조사서 4위권 안착…金·安 때리며 존재감 부각">천하람, 첫 여론조사서 4위권 안착…金·安 때리며 존재감 부각</a>]]></content>
+        <title type="html"><![CDATA[안철수 "윤핵관·윤안연대, 안 쓸 것"…신평 尹 탈당 발언 "실현 가능성 없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002296654?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002296654?sid=100"/>
+        <updated>2023-02-06T03:15:06.479Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002296654?sid=100" class="nclicks(rig.secteco)" title="안철수 &quot;윤핵관·윤안연대, 안 쓸 것&quot;…신평 尹 탈당 발언 &quot;실현 가능성 없어&quot;">안철수 "윤핵관·윤안연대, 안 쓸 것"…신평 尹 탈당 발언 "실현 가능성 없어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미군, 격추된 정찰풍선 잔해 수거 진행중…완료에 수일 걸릴 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006614045?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006614045?sid=104"/>
-        <updated>2023-02-06T02:38:27.579Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006614045?sid=104" class="nclicks(rig.secteco)" title="미군, 격추된 정찰풍선 잔해 수거 진행중…완료에 수일 걸릴 듯">미군, 격추된 정찰풍선 잔해 수거 진행중…완료에 수일 걸릴 듯</a>]]></content>
+        <title type="html"><![CDATA[국방부 "中정찰풍선, 우리 영공 통과 안 했다고 판단"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013739592?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013739592?sid=104"/>
+        <updated>2023-02-06T03:15:06.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013739592?sid=104" class="nclicks(rig.secteco)" title="국방부 &quot;中정찰풍선, 우리 영공 통과 안 했다고 판단&quot;">국방부 "中정찰풍선, 우리 영공 통과 안 했다고 판단"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 '유커' 3년만에 해외단체여행 재개…20개국 허용·韓 제외]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013739407?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013739407?sid=104"/>
-        <updated>2023-02-06T02:38:27.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013739407?sid=104" class="nclicks(rig.secteco)" title="中 '유커' 3년만에 해외단체여행 재개…20개국 허용·韓 제외">中 '유커' 3년만에 해외단체여행 재개…20개국 허용·韓 제외</a>]]></content>
+        <title type="html"><![CDATA[‘한국’만 쏙 빼고...오늘부터 해외 단체관광 허용한 중국]]></title>
+        <id>https://n.news.naver.com/mnews/article/024/0000079882?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/024/0000079882?sid=104"/>
+        <updated>2023-02-06T03:15:06.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/024/0000079882?sid=104" class="nclicks(rig.secteco)" title="‘한국’만 쏙 빼고...오늘부터 해외 단체관광 허용한 중국">‘한국’만 쏙 빼고...오늘부터 해외 단체관광 허용한 중국</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지입전문회사 퇴출, 표준운임제 도입…尹정부, 화물운송 체계 전면 손질]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000875065?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000875065?sid=101"/>
+        <updated>2023-02-06T03:15:06.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000875065?sid=101" class="nclicks(rig.secteco)" title="지입전문회사 퇴출, 표준운임제 도입…尹정부, 화물운송 체계 전면 손질">지입전문회사 퇴출, 표준운임제 도입…尹정부, 화물운송 체계 전면 손질</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성·LG, AI 활용 공조솔루션으로 美시장 공략(종합)]]></title>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011676873?sid=101" class="nclicks(rig.secteco)" title="삼성·LG, AI 활용 공조솔루션으로 美시장 공략(종합)">삼성·LG, AI 활용 공조솔루션으로 美시장 공략(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원희룡 "화물운송산업 근본적 개선…비정상적 기생구조 타파"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013739406?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013739406?sid=101"/>
-        <updated>2023-02-06T02:38:27.582Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013739406?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;화물운송산업 근본적 개선…비정상적 기생구조 타파&quot;">원희룡 "화물운송산업 근본적 개선…비정상적 기생구조 타파"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[주간블록체인] 업계에 부는 토큰증권(STO) 바람, 기본 개념부터 주목해야 할 2가지까지]]></title>
         <id>https://n.news.naver.com/mnews/article/138/0002141951?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/138/0002141951?sid=101"/>
@@ -62,39 +62,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002141951?sid=101" class="nclicks(rig.secteco)" title="[주간블록체인] 업계에 부는 토큰증권(STO) 바람, 기본 개념부터 주목해야 할 2가지까지">[주간블록체인] 업계에 부는 토큰증권(STO) 바람, 기본 개념부터 주목해야 할 2가지까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["갤S23 어디서 살까"…호텔VVIP 패키지·명품 신발까지 '역대급 혜택']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004807107?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004807107?sid=105"/>
-        <updated>2023-02-06T02:38:27.584Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004807107?sid=105" class="nclicks(rig.secteco)" title="&quot;갤S23 어디서 살까&quot;…호텔VVIP 패키지·명품 신발까지 '역대급 혜택'">"갤S23 어디서 살까"…호텔VVIP 패키지·명품 신발까지 '역대급 혜택'</a>]]></content>
+        <title type="html"><![CDATA[용량 2배 UP·갤워치5 '깜짝 선물'…갤S23, 사전예약 혜택도 '역대급']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004847694?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004847694?sid=105"/>
+        <updated>2023-02-06T03:15:06.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004847694?sid=105" class="nclicks(rig.secteco)" title="용량 2배 UP·갤워치5 '깜짝 선물'…갤S23, 사전예약 혜택도 '역대급'">용량 2배 UP·갤워치5 '깜짝 선물'…갤S23, 사전예약 혜택도 '역대급'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 대통령이 아직 문재인? 챗GPT가 엉뚱한 대답 내놓는 이유 [박건형의 디코드 2.0]]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003744491?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003744491?sid=105"/>
-        <updated>2023-02-05T23:13:55.970Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003744491?sid=105" class="nclicks(rig.secteco)" title="한국 대통령이 아직 문재인? 챗GPT가 엉뚱한 대답 내놓는 이유 [박건형의 디코드 2.0]">한국 대통령이 아직 문재인? 챗GPT가 엉뚱한 대답 내놓는 이유 [박건형의 디코드 2.0]</a>]]></content>
+        <title type="html"><![CDATA[챗GPT에 물었다… “올해 증시 어떻게 될까?”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000875067?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000875067?sid=105"/>
+        <updated>2023-02-06T03:15:06.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000875067?sid=105" class="nclicks(rig.secteco)" title="챗GPT에 물었다… “올해 증시 어떻게 될까?”">챗GPT에 물었다… “올해 증시 어떻게 될까?”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼굴 공개한 조민 "난 떳떳…의사 자질 충분하다 들어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013739349?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013739349?sid=102"/>
-        <updated>2023-02-06T02:38:27.587Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013739349?sid=102" class="nclicks(rig.secteco)" title="얼굴 공개한 조민 &quot;난 떳떳…의사 자질 충분하다 들어&quot;">얼굴 공개한 조민 "난 떳떳…의사 자질 충분하다 들어"</a>]]></content>
+        <title type="html"><![CDATA[서울광장 ‘이태원참사 분향소’, 유족은 왜 설치 강행했나]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005419019?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005419019?sid=102"/>
+        <updated>2023-02-06T03:15:06.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005419019?sid=102" class="nclicks(rig.secteco)" title="서울광장 ‘이태원참사 분향소’, 유족은 왜 설치 강행했나">서울광장 ‘이태원참사 분향소’, 유족은 왜 설치 강행했나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주, 이태원 서울 광장 분향소 철거에 "철회…현장 대응 추진"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011676888?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011676888?sid=102"/>
-        <updated>2023-02-06T02:38:27.588Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011676888?sid=102" class="nclicks(rig.secteco)" title="민주, 이태원 서울 광장 분향소 철거에 &quot;철회…현장 대응 추진&quot;">민주, 이태원 서울 광장 분향소 철거에 "철회…현장 대응 추진"</a>]]></content>
+        <title type="html"><![CDATA[얼굴 공개한 조민 "제 자신에 떳떳… 모두가 하는 평범한 일 하려한다" [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011677076?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011677076?sid=102"/>
+        <updated>2023-02-06T03:15:06.487Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011677076?sid=102" class="nclicks(rig.secteco)" title="얼굴 공개한 조민 &quot;제 자신에 떳떳… 모두가 하는 평범한 일 하려한다&quot; [뉴시스Pic]">얼굴 공개한 조민 "제 자신에 떳떳… 모두가 하는 평범한 일 하려한다" [뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[실내마스크 해제 8일째 코로나19 신규확진 5천850명… 224일만에 최소치]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000950627?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000950627?sid=102"/>
-        <updated>2023-02-06T02:38:27.590Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000950627?sid=102" class="nclicks(rig.secteco)" title="실내마스크 해제 8일째 코로나19 신규확진 5천850명… 224일만에 최소치">실내마스크 해제 8일째 코로나19 신규확진 5천850명… 224일만에 최소치</a>]]></content>
+        <title type="html"><![CDATA[“50대 은퇴, 70세 무임승차” 노인들 ‘한숨’]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002099711?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002099711?sid=102"/>
+        <updated>2023-02-06T03:15:06.491Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002099711?sid=102" class="nclicks(rig.secteco)" title="“50대 은퇴, 70세 무임승차” 노인들 ‘한숨’">“50대 은퇴, 70세 무임승차” 노인들 ‘한숨’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보]방탄소년단, 그래미 ‘베스트 팝 듀오 그룹 퍼포먼스’ 수상 불발]]></title>
