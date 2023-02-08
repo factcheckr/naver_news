@@ -2,50 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-08T07:13:55.385Z</updated>
+    <updated>2023-02-08T08:18:57.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이상민 탄핵소추안 가결...국무위원은 헌정사 처음]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003745045?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003745045?sid=100"/>
-        <updated>2023-02-08T07:13:27.803Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745045?sid=100" class="nclicks(rig.secteco)" title="이상민 탄핵소추안 가결...국무위원은 헌정사 처음">이상민 탄핵소추안 가결...국무위원은 헌정사 처음</a>]]></content>
+        <title type="html"><![CDATA[이상민 탄핵안 가결·직무정지…헌정사 첫 국무위원 탄핵소추(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013745424?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013745424?sid=100"/>
+        <updated>2023-02-08T08:18:28.307Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013745424?sid=100" class="nclicks(rig.secteco)" title="이상민 탄핵안 가결·직무정지…헌정사 첫 국무위원 탄핵소추(종합)">이상민 탄핵안 가결·직무정지…헌정사 첫 국무위원 탄핵소추(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령 "전 정부 가짜평화에 기대 통합 훈련 제대로 안 해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000722378?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000722378?sid=100"/>
-        <updated>2023-02-08T07:13:27.805Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000722378?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 &quot;전 정부 가짜평화에 기대 통합 훈련 제대로 안 해&quot;">윤 대통령 "전 정부 가짜평화에 기대 통합 훈련 제대로 안 해"</a>]]></content>
+        <title type="html"><![CDATA['가짜평화' 文비판한 尹 "전후방 따로없다…민관군경 총력안보"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013745527?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013745527?sid=100"/>
+        <updated>2023-02-08T08:18:28.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013745527?sid=100" class="nclicks(rig.secteco)" title="'가짜평화' 文비판한 尹 &quot;전후방 따로없다…민관군경 총력안보&quot;(종합)">'가짜평화' 文비판한 尹 "전후방 따로없다…민관군경 총력안보"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[튀르키예 강진] 한국 긴급구호대 도착…하타이서 수색·구조활동(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013744783?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013744783?sid=100"/>
-        <updated>2023-02-08T07:13:27.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013744783?sid=100" class="nclicks(rig.secteco)" title="[튀르키예 강진] 한국 긴급구호대 도착…하타이서 수색·구조활동(종합)">[튀르키예 강진] 한국 긴급구호대 도착…하타이서 수색·구조활동(종합)</a>]]></content>
+        <title type="html"><![CDATA[文, 조국 저서 두고 “처지가 어떻든 좋은 책…안타깝다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005420963?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005420963?sid=100"/>
+        <updated>2023-02-08T08:18:28.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005420963?sid=100" class="nclicks(rig.secteco)" title="文, 조국 저서 두고 “처지가 어떻든 좋은 책…안타깝다”">文, 조국 저서 두고 “처지가 어떻든 좋은 책…안타깝다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재선도전 앞둔 바이든, 경제성과 집중하며 中에 강력 경고장]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013745117?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013745117?sid=104"/>
-        <updated>2023-02-08T06:18:44.910Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013745117?sid=104" class="nclicks(rig.secteco)" title="재선도전 앞둔 바이든, 경제성과 집중하며 中에 강력 경고장">재선도전 앞둔 바이든, 경제성과 집중하며 中에 강력 경고장</a>]]></content>
+        <title type="html"><![CDATA[바이든 "中과 경쟁·협력 원하지만 美주권 위협하면 행동할 것"(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013744665?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013744665?sid=104"/>
+        <updated>2023-02-08T08:18:28.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013744665?sid=104" class="nclicks(rig.secteco)" title="바이든 &quot;中과 경쟁·협력 원하지만 美주권 위협하면 행동할 것&quot;(종합2보)">바이든 "中과 경쟁·협력 원하지만 美주권 위협하면 행동할 것"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[격추된 ‘中정찰풍선’ 잔해 이렇게 생겼다…사진 첫 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003337824?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003337824?sid=104"/>
-        <updated>2023-02-08T04:17:38.271Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003337824?sid=104" class="nclicks(rig.secteco)" title="격추된 ‘中정찰풍선’ 잔해 이렇게 생겼다…사진 첫 공개">격추된 ‘中정찰풍선’ 잔해 이렇게 생겼다…사진 첫 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005085494?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005085494?sid=101"/>
-        <updated>2023-02-08T07:13:27.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005085494?sid=101" class="nclicks(rig.secteco)" title="특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록">특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록</a>]]></content>
+        <title type="html"><![CDATA[“中 정찰풍선, 한국 포함한 40개국에서 출몰했다”…美 경고]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003478419?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003478419?sid=104"/>
+        <updated>2023-02-08T08:18:28.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478419?sid=104" class="nclicks(rig.secteco)" title="“中 정찰풍선, 한국 포함한 40개국에서 출몰했다”…美  경고">“中 정찰풍선, 한국 포함한 40개국에서 출몰했다”…美 경고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신한금융, 지난해 당기순이익 4조6423억원 ‘역대 최대’… 전년比 15.5% 증가]]></title>
@@ -55,59 +48,66 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000875770?sid=101" class="nclicks(rig.secteco)" title="신한금융, 지난해 당기순이익 4조6423억원 ‘역대 최대’… 전년比 15.5% 증가">신한금융, 지난해 당기순이익 4조6423억원 ‘역대 최대’… 전년比 15.5% 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["애플페이 한국 출시" 공식 선언한 애플…삼성페이 위협할까]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004808092?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004808092?sid=101"/>
-        <updated>2023-02-08T07:13:27.812Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004808092?sid=101" class="nclicks(rig.secteco)" title="&quot;애플페이 한국 출시&quot; 공식 선언한 애플…삼성페이 위협할까">"애플페이 한국 출시" 공식 선언한 애플…삼성페이 위협할까</a>]]></content>
+        <title type="html"><![CDATA[곧 망한다더니 양의지에 152억 '현질'…당신이 모르는 두산 [안재광의 대기만성's]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004808148?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004808148?sid=101"/>
+        <updated>2023-02-08T08:18:28.311Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004808148?sid=101" class="nclicks(rig.secteco)" title="곧 망한다더니 양의지에 152억 '현질'…당신이 모르는 두산 [안재광의 대기만성's]">곧 망한다더니 양의지에 152억 '현질'…당신이 모르는 두산 [안재광의 대기만성's]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일문일답]" 행태정보 제공 거부해도 페북·인스타그램 사용할 수 있어야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011682038?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011682038?sid=105"/>
-        <updated>2023-02-08T07:13:27.813Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011682038?sid=105" class="nclicks(rig.secteco)" title="[일문일답]&quot; 행태정보 제공 거부해도 페북·인스타그램 사용할 수 있어야&quot;">[일문일답]" 행태정보 제공 거부해도 페북·인스타그램 사용할 수 있어야"</a>]]></content>
+        <title type="html"><![CDATA[특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005085494?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005085494?sid=101"/>
+        <updated>2023-02-08T07:13:27.810Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005085494?sid=101" class="nclicks(rig.secteco)" title="특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록">특별성과급 100억 쏠만하네...신세계, 지난해 역대급 실적 기록</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 '바드' 띄우자 MS는 검색엔진에 챗GPT 장착…AI 챗봇 대전 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003735579?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003735579?sid=105"/>
-        <updated>2023-02-08T07:13:27.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003735579?sid=105" class="nclicks(rig.secteco)" title="구글 '바드' 띄우자 MS는 검색엔진에 챗GPT 장착…AI 챗봇 대전 본격화">구글 '바드' 띄우자 MS는 검색엔진에 챗GPT 장착…AI 챗봇 대전 본격화</a>]]></content>
+        <title type="html"><![CDATA[[단독]지난해 개인정보 331억원어치 보험사에 팔렸다[돈벌이 된 개인정보]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002101131?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002101131?sid=105"/>
+        <updated>2023-02-08T08:18:28.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002101131?sid=105" class="nclicks(rig.secteco)" title="[단독]지난해 개인정보 331억원어치 보험사에 팔렸다[돈벌이 된 개인정보]">[단독]지난해 개인정보 331억원어치 보험사에 팔렸다[돈벌이 된 개인정보]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["곽상도 아들 50억, 과다하지만 뇌물은 아냐"…1심 무죄(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011681956?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011681956?sid=102"/>
-        <updated>2023-02-08T07:13:27.815Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011681956?sid=102" class="nclicks(rig.secteco)" title="&quot;곽상도 아들 50억, 과다하지만 뇌물은 아냐&quot;…1심 무죄(종합)">"곽상도 아들 50억, 과다하지만 뇌물은 아냐"…1심 무죄(종합)</a>]]></content>
+        <title type="html"><![CDATA[SKT "5G 성장여력 남아있다…에이닷·이프랜드 '수익화' 추진"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004848941?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004848941?sid=105"/>
+        <updated>2023-02-08T08:18:28.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004848941?sid=105" class="nclicks(rig.secteco)" title="SKT &quot;5G 성장여력 남아있다…에이닷·이프랜드 '수익화' 추진&quot;">SKT "5G 성장여력 남아있다…에이닷·이프랜드 '수익화' 추진"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["멀리 살아 서러운데" 서민 반발…서울시 '버스 거리비례제' 철회]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004848868?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004848868?sid=102"/>
-        <updated>2023-02-08T07:13:27.816Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004848868?sid=102" class="nclicks(rig.secteco)" title="&quot;멀리 살아 서러운데&quot; 서민 반발…서울시 '버스 거리비례제' 철회">"멀리 살아 서러운데" 서민 반발…서울시 '버스 거리비례제' 철회</a>]]></content>
+        <title type="html"><![CDATA[“50억, 곽상도가 받았다 보기 어려워” … 대장동 뇌물 무죄 [종합]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002101142?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002101142?sid=102"/>
+        <updated>2023-02-08T08:18:28.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002101142?sid=102" class="nclicks(rig.secteco)" title="“50억, 곽상도가 받았다 보기 어려워” … 대장동 뇌물 무죄 [종합]">“50억, 곽상도가 받았다 보기 어려워” … 대장동 뇌물 무죄 [종합]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 춘천 레고랜드 담당 전 강원도청 고위공직자 숨진채 발견]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004966224?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004966224?sid=102"/>
-        <updated>2023-02-08T07:13:27.817Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004966224?sid=102" class="nclicks(rig.secteco)" title="[속보] 춘천 레고랜드 담당 전 강원도청 고위공직자 숨진채 발견">[속보] 춘천 레고랜드 담당 전 강원도청 고위공직자 숨진채 발견</a>]]></content>
+        <title type="html"><![CDATA[버스로 10㎞이상 이동하면 추가 요금? 서울시, 거리비례제 추진 철회]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003337898?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003337898?sid=102"/>
+        <updated>2023-02-08T08:18:28.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003337898?sid=102" class="nclicks(rig.secteco)" title="버스로 10㎞이상 이동하면 추가 요금? 서울시, 거리비례제 추진 철회">버스로 10㎞이상 이동하면 추가 요금? 서울시, 거리비례제 추진 철회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[럭셔리 산토리니? 1인당 800만원 패키지 구색 보니]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002101115?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002101115?sid=103"/>
-        <updated>2023-02-08T07:13:27.819Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002101115?sid=103" class="nclicks(rig.secteco)" title="럭셔리 산토리니? 1인당 800만원 패키지 구색 보니">럭셔리 산토리니? 1인당 800만원 패키지 구색 보니</a>]]></content>
+        <title type="html"><![CDATA[레고랜드 조사 앞둔 前 강원도 공무원 숨진채 발견]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003478436?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003478436?sid=102"/>
+        <updated>2023-02-08T08:18:28.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478436?sid=102" class="nclicks(rig.secteco)" title="레고랜드 조사 앞둔 前 강원도 공무원 숨진채 발견">레고랜드 조사 앞둔 前 강원도 공무원 숨진채 발견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“첫 PBV 4700대나 팔렸다”… 기아, 택시·캠핑용 전기차 ‘니로 플러스’ 연식변경]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003478393?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003478393?sid=103"/>
-        <updated>2023-02-08T05:13:24.703Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478393?sid=103" class="nclicks(rig.secteco)" title="“첫 PBV 4700대나 팔렸다”… 기아, 택시·캠핑용 전기차 ‘니로 플러스’ 연식변경">“첫 PBV 4700대나 팔렸다”… 기아, 택시·캠핑용 전기차 ‘니로 플러스’ 연식변경</a>]]></content>
+        <title type="html"><![CDATA[셰익스피어가 로미오였다구?…배우 김유정 문호의 뮤즈로 변신]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003258474?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003258474?sid=103"/>
+        <updated>2023-02-08T08:18:28.319Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003258474?sid=103" class="nclicks(rig.secteco)" title="셰익스피어가 로미오였다구?…배우 김유정 문호의 뮤즈로 변신">셰익스피어가 로미오였다구?…배우 김유정 문호의 뮤즈로 변신</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술 안 먹는 젊은 여성도 '지방간' 주의보, 왜?]]></title>
+        <id>https://n.news.naver.com/mnews/article/296/0000062948?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/296/0000062948?sid=103"/>
+        <updated>2023-02-08T08:18:28.321Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/296/0000062948?sid=103" class="nclicks(rig.secteco)" title="술 안 먹는 젊은 여성도 '지방간' 주의보, 왜?">술 안 먹는 젊은 여성도 '지방간' 주의보, 왜?</a>]]></content>
     </entry>
 </feed>
