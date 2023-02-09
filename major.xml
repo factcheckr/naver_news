@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-09T11:13:22.721Z</updated>
+    <updated>2023-02-09T12:31:30.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[北열병식에 신형 '고체 ICBM' 등장…"최대 핵공격능력 과시"(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013748478?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013748478?sid=100"/>
-        <updated>2023-02-09T10:14:19.381Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013748478?sid=100" class="nclicks(rig.secteco)" title="北열병식에 신형 '고체 ICBM' 등장…&quot;최대 핵공격능력 과시&quot;(종합2보)">北열병식에 신형 '고체 ICBM' 등장…"최대 핵공격능력 과시"(종합2보)</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[튀르키예 강진] 韓긴급구호대 활동 첫날 오전 생존자 5명 구조]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013748562?sid=100</id>
@@ -20,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013748562?sid=100" class="nclicks(rig.secteco)" title="[튀르키예 강진] 韓긴급구호대 활동 첫날 오전 생존자 5명 구조">[튀르키예 강진] 韓긴급구호대 활동 첫날 오전 생존자 5명 구조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 튀르키예 대사관 찾아 애도 "최선 다해 돕겠다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002381657?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002381657?sid=100"/>
-        <updated>2023-02-09T08:18:25.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002381657?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 튀르키예 대사관 찾아 애도 &quot;최선 다해 돕겠다&quot;">윤 대통령, 튀르키예 대사관 찾아 애도 "최선 다해 돕겠다"</a>]]></content>
+        <title type="html"><![CDATA[北, 고체연료 ICBM+'화성 17형' 다수 공개… '장거리 타격력' 과시(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006622768?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006622768?sid=100"/>
+        <updated>2023-02-09T12:31:00.274Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006622768?sid=100" class="nclicks(rig.secteco)" title="北, 고체연료 ICBM+'화성 17형' 다수 공개… '장거리 타격력' 과시(종합)">北, 고체연료 ICBM+'화성 17형' 다수 공개… '장거리 타격력' 과시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 "중국 정찰 풍선 5개 대륙서 최소 24번 임무"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001721608?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001721608?sid=104"/>
-        <updated>2023-02-09T11:12:54.471Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001721608?sid=104" class="nclicks(rig.secteco)" title="미국 &quot;중국 정찰 풍선 5개 대륙서 최소 24번 임무&quot;">미국 "중국 정찰 풍선 5개 대륙서 최소 24번 임무"</a>]]></content>
+        <title type="html"><![CDATA[간호사 처우개선 간호법?의사면허박탈법, 국회 본회의로 넘어갔다]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000876330?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000876330?sid=100"/>
+        <updated>2023-02-09T12:31:00.276Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000876330?sid=100" class="nclicks(rig.secteco)" title="간호사 처우개선 간호법?의사면허박탈법, 국회 본회의로 넘어갔다">간호사 처우개선 간호법?의사면허박탈법, 국회 본회의로 넘어갔다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4년 전 격추로 공군력 자랑한 '중국', 자국 정찰풍선 격추에는 항의?]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003077636?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003077636?sid=104"/>
+        <updated>2023-02-09T12:31:00.284Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003077636?sid=104" class="nclicks(rig.secteco)" title="4년 전 격추로 공군력 자랑한 '중국', 자국 정찰풍선 격추에는 항의?">4년 전 격추로 공군력 자랑한 '중국', 자국 정찰풍선 격추에는 항의?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1만명 넘게 죽었는데…“이런 지진은 대비 불가능” 변명이라니]]></title>
@@ -41,32 +41,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005086387?sid=104" class="nclicks(rig.secteco)" title="1만명 넘게 죽었는데…“이런 지진은 대비 불가능” 변명이라니">1만명 넘게 죽었는데…“이런 지진은 대비 불가능” 변명이라니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[법카로 슈퍼카 타고 코인 받아 소득 탈루…연예인·유튜버 등 84명 세무조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003782008?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003782008?sid=101"/>
-        <updated>2023-02-09T11:12:54.473Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003782008?sid=101" class="nclicks(rig.secteco)" title="법카로 슈퍼카 타고 코인 받아 소득 탈루…연예인·유튜버 등 84명 세무조사">법카로 슈퍼카 타고 코인 받아 소득 탈루…연예인·유튜버 등 84명 세무조사</a>]]></content>
+        <title type="html"><![CDATA["유명 유튜버, 세금 빼돌려 슈퍼카·부동산 구입"‥국세청, 세무조사 착수]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001253084?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001253084?sid=101"/>
+        <updated>2023-02-09T12:31:00.288Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001253084?sid=101" class="nclicks(rig.secteco)" title="&quot;유명 유튜버, 세금 빼돌려 슈퍼카·부동산 구입&quot;‥국세청, 세무조사 착수">"유명 유튜버, 세금 빼돌려 슈퍼카·부동산 구입"‥국세청, 세무조사 착수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지역난방도 '난방비 폭탄' 최대 59만원 지원한다…대상자는]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003258753?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003258753?sid=101"/>
-        <updated>2023-02-09T11:12:54.473Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003258753?sid=101" class="nclicks(rig.secteco)" title="지역난방도 '난방비 폭탄' 최대 59만원 지원한다…대상자는">지역난방도 '난방비 폭탄' 최대 59만원 지원한다…대상자는</a>]]></content>
+        <title type="html"><![CDATA[지역난방 취약계층도 최대 59만2,000원 지원 받는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001082112?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001082112?sid=101"/>
+        <updated>2023-02-09T12:31:00.293Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001082112?sid=101" class="nclicks(rig.secteco)" title="지역난방 취약계층도 최대 59만2,000원 지원 받는다">지역난방 취약계층도 최대 59만2,000원 지원 받는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하나금융도 작년 순익 '사상최대'…"분기 배당도 검토중"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006622618?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006622618?sid=101"/>
-        <updated>2023-02-09T10:14:19.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006622618?sid=101" class="nclicks(rig.secteco)" title="하나금융도 작년 순익 '사상최대'…&quot;분기 배당도 검토중&quot;(종합)">하나금융도 작년 순익 '사상최대'…"분기 배당도 검토중"(종합)</a>]]></content>
+        <title type="html"><![CDATA["LGU+, 개인정보 유출 피해 고객 해지 위약금 면제해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005216089?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005216089?sid=101"/>
+        <updated>2023-02-09T12:31:00.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005216089?sid=101" class="nclicks(rig.secteco)" title="&quot;LGU+, 개인정보 유출 피해 고객 해지 위약금 면제해야&quot;">"LGU+, 개인정보 유출 피해 고객 해지 위약금 면제해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT, 외풍 속 최대실적…구현모 연임은 원점]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001082100?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001082100?sid=105"/>
-        <updated>2023-02-09T11:12:54.475Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001082100?sid=105" class="nclicks(rig.secteco)" title="KT, 외풍 속 최대실적…구현모 연임은 원점">KT, 외풍 속 최대실적…구현모 연임은 원점</a>]]></content>
+        <title type="html"><![CDATA[KT 차기 대표 공개경쟁으로 뽑는다…구현모 단독 추천 백지화]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003478750?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003478750?sid=105"/>
+        <updated>2023-02-09T12:31:00.296Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478750?sid=105" class="nclicks(rig.secteco)" title="KT 차기 대표 공개경쟁으로 뽑는다…구현모 단독 추천 백지화">KT 차기 대표 공개경쟁으로 뽑는다…구현모 단독 추천 백지화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["게임은 1등이 제맛"…넥슨, 연매출 3.4조 '사상최대']]></title>
@@ -76,38 +76,38 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013739?sid=105" class="nclicks(rig.secteco)" title="&quot;게임은 1등이 제맛&quot;…넥슨, 연매출 3.4조 '사상최대'">"게임은 1등이 제맛"…넥슨, 연매출 3.4조 '사상최대'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['라임 몸통' 김봉현 1심서 징역 30년... "1258억 피해 입혀"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000722646?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000722646?sid=102"/>
-        <updated>2023-02-09T11:12:54.477Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000722646?sid=102" class="nclicks(rig.secteco)" title="'라임 몸통' 김봉현 1심서 징역 30년... &quot;1258억 피해 입혀&quot;">'라임 몸통' 김봉현 1심서 징역 30년... "1258억 피해 입혀"</a>]]></content>
+        <title type="html"><![CDATA[[일지] '징역 30년' 김봉현…도주·검거부터 1심 선고까지]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006622778?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006622778?sid=102"/>
+        <updated>2023-02-09T12:31:00.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006622778?sid=102" class="nclicks(rig.secteco)" title="[일지] '징역 30년' 김봉현…도주·검거부터 1심 선고까지">[일지] '징역 30년' 김봉현…도주·검거부터 1심 선고까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 유아인 '프로포폴' 투약 혐의… 경찰, 강남 성형외과 등 압수수색]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000722641?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000722641?sid=102"/>
-        <updated>2023-02-09T11:12:54.478Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000722641?sid=102" class="nclicks(rig.secteco)" title="[단독] 유아인 '프로포폴' 투약 혐의… 경찰, 강남 성형외과 등 압수수색">[단독] 유아인 '프로포폴' 투약 혐의… 경찰, 강남 성형외과 등 압수수색</a>]]></content>
+        <title type="html"><![CDATA[[단독]유아인, 성형외과 10곳서 ‘프로포폴’ 투약 정황]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000243548?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000243548?sid=102"/>
+        <updated>2023-02-09T12:31:00.302Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243548?sid=102" class="nclicks(rig.secteco)" title="[단독]유아인, 성형외과 10곳서 ‘프로포폴’ 투약 정황">[단독]유아인, 성형외과 10곳서 ‘프로포폴’ 투약 정황</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['공개수배' 편의점주 살해 뒤 사라진 32세 남성, 10대 때부터 강도질]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005422032?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005422032?sid=102"/>
-        <updated>2023-02-09T11:12:54.479Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005422032?sid=102" class="nclicks(rig.secteco)" title="'공개수배' 편의점주 살해 뒤 사라진 32세 남성, 10대 때부터 강도질">'공개수배' 편의점주 살해 뒤 사라진 32세 남성, 10대 때부터 강도질</a>]]></content>
+        <title type="html"><![CDATA[전자발찌 찬 채로 편의점 직원 살해‥"공개 수배"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001253081?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001253081?sid=102"/>
+        <updated>2023-02-09T12:31:00.305Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001253081?sid=102" class="nclicks(rig.secteco)" title="전자발찌 찬 채로 편의점 직원 살해‥&quot;공개 수배&quot;">전자발찌 찬 채로 편의점 직원 살해‥"공개 수배"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨] 전국에 비·눈 오전에 그쳐… 서울 낮 최고 10도]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003781960?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003781960?sid=103"/>
-        <updated>2023-02-09T10:14:19.391Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003781960?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 전국에 비·눈 오전에 그쳐… 서울 낮 최고 10도">[내일날씨] 전국에 비·눈 오전에 그쳐… 서울 낮 최고 10도</a>]]></content>
+        <title type="html"><![CDATA[내일 전국에 눈비…오전중 대부분 그쳐]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005216123?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005216123?sid=103"/>
+        <updated>2023-02-09T12:31:00.307Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005216123?sid=103" class="nclicks(rig.secteco)" title="내일 전국에 눈비…오전중 대부분 그쳐">내일 전국에 눈비…오전중 대부분 그쳐</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지난해 국산차 판매 2009년 이후 최저… 내수 판매 2.9% 감소]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000876288?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000876288?sid=103"/>
-        <updated>2023-02-09T10:14:19.392Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000876288?sid=103" class="nclicks(rig.secteco)" title="지난해 국산차 판매 2009년 이후 최저… 내수 판매 2.9% 감소">지난해 국산차 판매 2009년 이후 최저… 내수 판매 2.9% 감소</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 낮엔 비 그치고 온화, 서울 10도‥일요일 부터 남부지방 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001253093?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001253093?sid=103"/>
+        <updated>2023-02-09T12:31:00.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001253093?sid=103" class="nclicks(rig.secteco)" title="[날씨] 낮엔 비 그치고 온화, 서울 10도‥일요일 부터 남부지방 비">[날씨] 낮엔 비 그치고 온화, 서울 10도‥일요일 부터 남부지방 비</a>]]></content>
     </entry>
 </feed>
