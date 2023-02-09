@@ -2,50 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-09T05:14:42.923Z</updated>
+    <updated>2023-02-09T06:20:25.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[75년전 김일성처럼…고체 ICBM 열병식 "최대 핵 공격능력"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003735975?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003735975?sid=100"/>
-        <updated>2023-02-09T05:14:11.369Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003735975?sid=100" class="nclicks(rig.secteco)" title="75년전 김일성처럼…고체 ICBM 열병식 &quot;최대 핵 공격능력&quot;">75년전 김일성처럼…고체 ICBM 열병식 "최대 핵 공격능력"</a>]]></content>
+        <title type="html"><![CDATA[北열병식서 무더기 '화성-17형'에 고체 ICBM도…장거리능력 과시]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013747704?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013747704?sid=100"/>
+        <updated>2023-02-09T06:19:55.672Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013747704?sid=100" class="nclicks(rig.secteco)" title="北열병식서 무더기 '화성-17형'에 고체 ICBM도…장거리능력 과시">北열병식서 무더기 '화성-17형'에 고체 ICBM도…장거리능력 과시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이상민 탄핵안, 헌재에 제출…김도읍 "신속한 결정 기대"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001721485?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001721485?sid=100"/>
-        <updated>2023-02-09T05:14:11.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001721485?sid=100" class="nclicks(rig.secteco)" title="이상민 탄핵안, 헌재에 제출…김도읍 &quot;신속한 결정 기대&quot;">이상민 탄핵안, 헌재에 제출…김도읍 "신속한 결정 기대"</a>]]></content>
+        <title type="html"><![CDATA['이상민 탄핵 검사' 김도읍은 '열공중'…"헌재, 빨리 결정했으면"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004849343?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004849343?sid=100"/>
+        <updated>2023-02-09T06:19:55.673Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004849343?sid=100" class="nclicks(rig.secteco)" title="'이상민 탄핵 검사' 김도읍은 '열공중'…&quot;헌재, 빨리 결정했으면&quot;">'이상민 탄핵 검사' 김도읍은 '열공중'…"헌재, 빨리 결정했으면"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['또 김주애' 北열병식 귀빈석서 포착…"존경하는 자제분"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013747100?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013747100?sid=100"/>
-        <updated>2023-02-09T03:18:04.185Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013747100?sid=100" class="nclicks(rig.secteco)" title="'또 김주애' 北열병식 귀빈석서 포착…&quot;존경하는 자제분&quot;(종합)">'또 김주애' 北열병식 귀빈석서 포착…"존경하는 자제분"(종합)</a>]]></content>
+        <title type="html"><![CDATA[한국 긴급구호대, 튀르키예서 70대 생존자 구조]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000331685?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000331685?sid=100"/>
+        <updated>2023-02-09T06:19:55.674Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000331685?sid=100" class="nclicks(rig.secteco)" title="한국 긴급구호대, 튀르키예서 70대 생존자 구조">한국 긴급구호대, 튀르키예서 70대 생존자 구조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美만이 아냐? 백악관 "中 정찰풍선 5개 대륙서 발견, 韓은…"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004849285?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004849285?sid=104"/>
-        <updated>2023-02-09T05:14:11.382Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004849285?sid=104" class="nclicks(rig.secteco)" title="美만이 아냐? 백악관 &quot;中 정찰풍선 5개 대륙서 발견, 韓은…&quot;">美만이 아냐? 백악관 "中 정찰풍선 5개 대륙서 발견, 韓은…"</a>]]></content>
+        <title type="html"><![CDATA["日·대만도 당했다"…中 정찰풍선, 세계 곳곳 포착 '일파만파']]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004154350?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004154350?sid=104"/>
+        <updated>2023-02-09T06:19:55.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004154350?sid=104" class="nclicks(rig.secteco)" title="&quot;日·대만도 당했다&quot;…中 정찰풍선, 세계 곳곳 포착 '일파만파'">"日·대만도 당했다"…中 정찰풍선, 세계 곳곳 포착 '일파만파'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“런던 거리의 거지” 젤렌스키 英방문 조롱한 러 매체]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003338099?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003338099?sid=104"/>
-        <updated>2023-02-09T03:18:04.187Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338099?sid=104" class="nclicks(rig.secteco)" title="“런던 거리의 거지” 젤렌스키 英방문 조롱한 러 매체">“런던 거리의 거지” 젤렌스키 英방문 조롱한 러 매체</a>]]></content>
+        <title type="html"><![CDATA[푸틴, 보고있나?…‘웃음꽃’ 활짝 핀 젤렌스키-수낵 [우크라 전쟁]]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003338141?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003338141?sid=104"/>
+        <updated>2023-02-09T06:19:55.679Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338141?sid=104" class="nclicks(rig.secteco)" title="푸틴, 보고있나?…‘웃음꽃’ 활짝 핀 젤렌스키-수낵 [우크라 전쟁]">푸틴, 보고있나?…‘웃음꽃’ 활짝 핀 젤렌스키-수낵 [우크라 전쟁]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준']]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002296986?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002296986?sid=101"/>
-        <updated>2023-02-09T05:14:11.390Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002296986?sid=101" class="nclicks(rig.secteco)" title="인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준'">인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준'</a>]]></content>
+        <title type="html"><![CDATA[수퍼카 자랑하더니 법카로 샀네…딱 걸린 웹툰작가 조사 받는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003258676?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003258676?sid=101"/>
+        <updated>2023-02-09T06:19:55.680Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003258676?sid=101" class="nclicks(rig.secteco)" title="수퍼카 자랑하더니 법카로 샀네…딱 걸린 웹툰작가 조사 받는다">수퍼카 자랑하더니 법카로 샀네…딱 걸린 웹툰작가 조사 받는다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통신 3사, 환경경영성과 글로벌 최상위 수준 평가]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002282184?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002282184?sid=101"/>
+        <updated>2023-02-09T06:19:55.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002282184?sid=101" class="nclicks(rig.secteco)" title="통신 3사, 환경경영성과 글로벌 최상위 수준 평가">통신 3사, 환경경영성과 글로벌 최상위 수준 평가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1월 은행 가계대출 4.6조원↓…19년 만에 최대폭 감소]]></title>
@@ -55,25 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013747177?sid=101" class="nclicks(rig.secteco)" title="1월 은행 가계대출 4.6조원↓…19년 만에 최대폭 감소">1월 은행 가계대출 4.6조원↓…19년 만에 최대폭 감소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국, 美 수소시장 진출위해 민간과 현지 로드쇼 개최]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002783245?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002783245?sid=101"/>
-        <updated>2023-02-09T04:17:09.183Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002783245?sid=101" class="nclicks(rig.secteco)" title="한국, 美 수소시장 진출위해 민간과 현지 로드쇼 개최">한국, 美 수소시장 진출위해 민간과 현지 로드쇼 개최</a>]]></content>
+        <title type="html"><![CDATA[[속보] KT 이사회, 차기 대표 후보 재공모하기로]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005086041?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005086041?sid=105"/>
+        <updated>2023-02-09T06:19:55.683Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005086041?sid=105" class="nclicks(rig.secteco)" title="[속보] KT 이사회, 차기 대표 후보 재공모하기로">[속보] KT 이사회, 차기 대표 후보 재공모하기로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SKT 글로벌 ESG 평가서 2년 연속 최고 등급…기후변화 부문 'A']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006621368?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006621368?sid=105"/>
-        <updated>2023-02-09T05:14:11.399Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006621368?sid=105" class="nclicks(rig.secteco)" title="SKT 글로벌 ESG 평가서 2년 연속 최고 등급…기후변화 부문 'A'">SKT 글로벌 ESG 평가서 2년 연속 최고 등급…기후변화 부문 'A'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]KT, CEO 선임절차 전면 중단...완전 오픈 프라이머리식 도입해 재시작]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003077423?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003077423?sid=105"/>
-        <updated>2023-02-09T05:14:11.400Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003077423?sid=105" class="nclicks(rig.secteco)" title="[단독]KT, CEO 선임절차 전면 중단...완전 오픈 프라이머리식 도입해 재시작">[단독]KT, CEO 선임절차 전면 중단...완전 오픈 프라이머리식 도입해 재시작</a>]]></content>
+        <title type="html"><![CDATA[KT, 상장이래 첫 매출 25조 달성…2년연속 영업익 1조 돌파(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002142220?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002142220?sid=105"/>
+        <updated>2023-02-09T06:19:55.684Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002142220?sid=105" class="nclicks(rig.secteco)" title="KT, 상장이래 첫 매출 25조 달성…2년연속 영업익 1조 돌파(종합)">KT, 상장이래 첫 매출 25조 달성…2년연속 영업익 1조 돌파(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]병역 브로커에게 돈 받고 홍보한 네이버 카페, 수사 확대되자 폐쇄]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005421592?sid=102" class="nclicks(rig.secteco)" title="[단독]'老브레이크 노령화' 서울 노인 무임승차 30년간 7배↑…&quot;정부가 나서야&quot;">[단독]'老브레이크 노령화' 서울 노인 무임승차 30년간 7배↑…"정부가 나서야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰, 경찰청 정보국 압수수색…'핼러윈 문건' 의혹 수사(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013747318?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013747318?sid=102"/>
-        <updated>2023-02-09T05:14:11.406Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013747318?sid=102" class="nclicks(rig.secteco)" title="검찰, 경찰청 정보국 압수수색…'핼러윈 문건' 의혹 수사(종합)">검찰, 경찰청 정보국 압수수색…'핼러윈 문건' 의혹 수사(종합)</a>]]></content>
+        <title type="html"><![CDATA['남은 희망은 해상수색 뿐' 실종자 가족들 낙담]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013747660?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013747660?sid=102"/>
+        <updated>2023-02-09T06:19:55.687Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013747660?sid=102" class="nclicks(rig.secteco)" title="'남은 희망은 해상수색 뿐' 실종자 가족들 낙담">'남은 희망은 해상수색 뿐' 실종자 가족들 낙담</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 밤부터 전국에 비 또는 눈…“빙판길·도로 살얼음 유의”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005421672?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005421672?sid=103"/>
-        <updated>2023-02-09T05:14:11.421Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005421672?sid=103" class="nclicks(rig.secteco)" title="오늘 밤부터 전국에 비 또는 눈…“빙판길·도로 살얼음 유의”">오늘 밤부터 전국에 비 또는 눈…“빙판길·도로 살얼음 유의”</a>]]></content>
+        <title type="html"><![CDATA[GMC 초대형 픽업 '시에라', 온라인 판매 이틀 만에 완판]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011683774?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011683774?sid=103"/>
+        <updated>2023-02-09T06:19:55.688Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011683774?sid=103" class="nclicks(rig.secteco)" title="GMC 초대형 픽업 '시에라', 온라인 판매 이틀 만에 완판">GMC 초대형 픽업 '시에라', 온라인 판매 이틀 만에 완판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 전국 눈·비 소식…내일까지 제주 최고 60㎜]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000583358?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000583358?sid=103"/>
-        <updated>2023-02-09T05:14:11.422Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000583358?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 눈·비 소식…내일까지 제주 최고 60㎜">[날씨] 전국 눈·비 소식…내일까지 제주 최고 60㎜</a>]]></content>
+        <title type="html"><![CDATA[밤부터 남부 많은 눈·비 주의…다음주 초에도 눈 소식]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011683796?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011683796?sid=103"/>
+        <updated>2023-02-09T06:19:55.690Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011683796?sid=103" class="nclicks(rig.secteco)" title="밤부터 남부 많은 눈·비 주의…다음주 초에도 눈 소식">밤부터 남부 많은 눈·비 주의…다음주 초에도 눈 소식</a>]]></content>
     </entry>
 </feed>
