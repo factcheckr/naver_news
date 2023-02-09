@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-09T19:12:51.639Z</updated>
+    <updated>2023-02-09T20:15:57.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003258764?sid=100" class="nclicks(rig.secteco)" title="미 본토 겨눈 북…화성-17형 무더기 등장, 신형 ICBM도 내놨다">미 본토 겨눈 북…화성-17형 무더기 등장, 신형 ICBM도 내놨다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[간호법-의사면허취소법 본회의직행… 의협 “의료체계붕괴” 반발]]></title>
+        <title type="html"><![CDATA[간호법-의사면허취소법 본회의 직행… 의협 “의료체계붕괴” 반발]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003478814?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003478814?sid=100"/>
         <updated>2023-02-09T18:17:55.213Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478814?sid=100" class="nclicks(rig.secteco)" title="간호법-의사면허취소법 본회의직행… 의협 “의료체계붕괴” 반발">간호법-의사면허취소법 본회의직행… 의협 “의료체계붕괴” 반발</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003478814?sid=100" class="nclicks(rig.secteco)" title="간호법-의사면허취소법 본회의 직행… 의협 “의료체계붕괴” 반발">간호법-의사면허취소법 본회의 직행… 의협 “의료체계붕괴” 반발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“中, 40국 이상에 정찰풍선 띄웠다”]]></title>
@@ -34,25 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745462?sid=104" class="nclicks(rig.secteco)" title="“中, 40국 이상에 정찰풍선 띄웠다”">“中, 40국 이상에 정찰풍선 띄웠다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘유럽 우크라’ 정체성 강조한 젤렌스키…“자유 지킬 날개 달라”?전투기 호소]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003338265?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003338265?sid=104"/>
-        <updated>2023-02-09T19:12:23.191Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338265?sid=104" class="nclicks(rig.secteco)" title="‘유럽 우크라’ 정체성 강조한 젤렌스키…“자유 지킬 날개 달라”?전투기 호소">‘유럽 우크라’ 정체성 강조한 젤렌스키…“자유 지킬 날개 달라”?전투기 호소</a>]]></content>
+        <title type="html"><![CDATA[젤렌스키 “자유가 이기고 러시아를 꺾을 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001585952?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001585952?sid=104"/>
+        <updated>2023-02-09T20:15:30.141Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001585952?sid=104" class="nclicks(rig.secteco)" title="젤렌스키 “자유가 이기고 러시아를 꺾을 것”">젤렌스키 “자유가 이기고 러시아를 꺾을 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준']]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002296986?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002296986?sid=101"/>
-        <updated>2023-02-09T19:12:23.194Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002296986?sid=101" class="nclicks(rig.secteco)" title="인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준'">인기로 떼돈 벌면서 탈세.. 국세청, 연예인·유튜버·운동선수 등 '정조준'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사이버 공격' 후속책 꺼낸 LGU+…"全 유심 교체부터 소상공인 손배까지"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011684693?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011684693?sid=101"/>
-        <updated>2023-02-09T17:13:38.876Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011684693?sid=101" class="nclicks(rig.secteco)" title="'사이버 공격' 후속책 꺼낸 LGU+…&quot;全 유심 교체부터 소상공인 손배까지&quot;(종합)">'사이버 공격' 후속책 꺼낸 LGU+…"全 유심 교체부터 소상공인 손배까지"(종합)</a>]]></content>
+        <title type="html"><![CDATA[슈퍼카 자랑 웹툰작가, 알고보니 탈세]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001585951?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001585951?sid=101"/>
+        <updated>2023-02-09T20:15:30.142Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001585951?sid=101" class="nclicks(rig.secteco)" title="슈퍼카 자랑 웹툰작가, 알고보니 탈세">슈퍼카 자랑 웹툰작가, 알고보니 탈세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도시가스 이어 지역난방도 지원 확대…“200만 가구에 최대 59.2만원”]]></title>
@@ -60,6 +53,13 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005421933?sid=101"/>
         <updated>2023-02-09T19:12:23.214Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005421933?sid=101" class="nclicks(rig.secteco)" title="도시가스 이어 지역난방도 지원 확대…“200만 가구에 최대 59.2만원”">도시가스 이어 지역난방도 지원 확대…“200만 가구에 최대 59.2만원”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사이버 공격' 후속책 꺼낸 LGU+…"全 유심 교체부터 소상공인 손배까지"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011684693?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011684693?sid=101"/>
+        <updated>2023-02-09T17:13:38.876Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011684693?sid=101" class="nclicks(rig.secteco)" title="'사이버 공격' 후속책 꺼낸 LGU+…&quot;全 유심 교체부터 소상공인 손배까지&quot;(종합)">'사이버 공격' 후속책 꺼낸 LGU+…"全 유심 교체부터 소상공인 손배까지"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] KT, CEO 선임절차 전면 중단...완전 공개 방식으로 백지에서 재시작]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000722641?sid=102" class="nclicks(rig.secteco)" title="[단독] 유아인 '프로포폴' 투약 혐의… 경찰, 강남 성형외과 등 압수수색">[단독] 유아인 '프로포폴' 투약 혐의… 경찰, 강남 성형외과 등 압수수색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라임 주범 김봉현 1심서 징역 30년]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003745471?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003745471?sid=102"/>
-        <updated>2023-02-09T18:17:55.223Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745471?sid=102" class="nclicks(rig.secteco)" title="라임 주범 김봉현 1심서 징역 30년">라임 주범 김봉현 1심서 징역 30년</a>]]></content>
+        <title type="html"><![CDATA[‘라임 몸통’ 김봉현, 도주 죗값 더해 징역 30년]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001585922?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001585922?sid=102"/>
+        <updated>2023-02-09T20:15:30.150Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001585922?sid=102" class="nclicks(rig.secteco)" title="‘라임 몸통’ 김봉현, 도주 죗값 더해 징역 30년">‘라임 몸통’ 김봉현, 도주 죗값 더해 징역 30년</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['편의점주 살해·도주' 공개수배…전자발찌 끊고 달아나]]></title>
+        <title type="html"><![CDATA['편의점주 살해·도주' 공개수배…전자발찌도 끊었다]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001034597?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/055/0001034597?sid=102"/>
         <updated>2023-02-09T19:12:23.226Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001034597?sid=102" class="nclicks(rig.secteco)" title="'편의점주 살해·도주' 공개수배…전자발찌 끊고 달아나">'편의점주 살해·도주' 공개수배…전자발찌 끊고 달아나</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001034597?sid=102" class="nclicks(rig.secteco)" title="'편의점주 살해·도주' 공개수배…전자발찌도 끊었다">'편의점주 살해·도주' 공개수배…전자발찌도 끊었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낮 기온 5~12도 '포근'…밤부터 전국에 비 또는 눈]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011682780?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011682780?sid=103"/>
-        <updated>2023-02-09T17:13:38.885Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011682780?sid=103" class="nclicks(rig.secteco)" title="낮 기온 5~12도 '포근'…밤부터 전국에 비 또는 눈">낮 기온 5~12도 '포근'…밤부터 전국에 비 또는 눈</a>]]></content>
+        <title type="html"><![CDATA[[오늘 날씨] 눈·비 오전에 그쳐요… '낮 최고 12도' 봄날 같이 포근]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000894262?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000894262?sid=103"/>
+        <updated>2023-02-09T20:15:30.159Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000894262?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 눈·비 오전에 그쳐요… '낮 최고 12도' 봄날 같이 포근">[오늘 날씨] 눈·비 오전에 그쳐요… '낮 최고 12도' 봄날 같이 포근</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 밤부터 모레 오전 전국에 비나 눈 소식…내일오전까지 미세먼지 일시 나쁨]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003735702?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003735702?sid=103"/>
-        <updated>2023-02-09T16:20:10.418Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003735702?sid=103" class="nclicks(rig.secteco)" title="내일 밤부터 모레 오전 전국에 비나 눈 소식…내일오전까지 미세먼지 일시 나쁨">내일 밤부터 모레 오전 전국에 비나 눈 소식…내일오전까지 미세먼지 일시 나쁨</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 오늘까지 전국 비·눈…한낮 10도 안팎 포근]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001034601?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001034601?sid=103"/>
+        <updated>2023-02-09T20:15:30.161Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001034601?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘까지 전국 비·눈…한낮 10도 안팎 포근">[날씨] 오늘까지 전국 비·눈…한낮 10도 안팎 포근</a>]]></content>
     </entry>
 </feed>
