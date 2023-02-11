@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-11T07:13:07.094Z</updated>
+    <updated>2023-02-11T08:17:47.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['D-25' 與 당권 레이스 본격 출발…컷오프 결과 '동상이몽']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004849981?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004849981?sid=100"/>
-        <updated>2023-02-11T04:17:18.172Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004849981?sid=100" class="nclicks(rig.secteco)" title="'D-25' 與 당권 레이스 본격 출발…컷오프 결과 '동상이몽'">'D-25' 與 당권 레이스 본격 출발…컷오프 결과 '동상이몽'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003479021?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003479021?sid=100"/>
-        <updated>2023-02-11T05:12:42.907Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479021?sid=100" class="nclicks(rig.secteco)" title="[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다">[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다</a>]]></content>
+        <title type="html"><![CDATA[김기현, 안철수 겨냥 "대선 욕심 있는 분은 곤란…탄핵 우려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003259087?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003259087?sid=100"/>
+        <updated>2023-02-11T08:17:18.723Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259087?sid=100" class="nclicks(rig.secteco)" title="김기현, 안철수 겨냥 &quot;대선 욕심 있는 분은 곤란…탄핵 우려&quot;">김기현, 안철수 겨냥 "대선 욕심 있는 분은 곤란…탄핵 우려"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘빨치산 2세’, ‘김정일 술친구’…北 군부 원로 오극렬 사망]]></title>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745725?sid=100" class="nclicks(rig.secteco)" title="‘빨치산 2세’, ‘김정일 술친구’…北 군부 원로 오극렬 사망">‘빨치산 2세’, ‘김정일 술친구’…北 군부 원로 오극렬 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美, 알래스카주 비행물체 격추…“中 풍선 관련 6곳 제재”]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000243642?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000243642?sid=104"/>
-        <updated>2023-02-11T05:12:42.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243642?sid=104" class="nclicks(rig.secteco)" title="美, 알래스카주 비행물체 격추…“中 풍선 관련 6곳 제재”">美, 알래스카주 비행물체 격추…“中 풍선 관련 6곳 제재”</a>]]></content>
+        <title type="html"><![CDATA[[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003479021?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003479021?sid=100"/>
+        <updated>2023-02-11T05:12:42.907Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479021?sid=100" class="nclicks(rig.secteco)" title="[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다">[단독]故 이예람 중사 사망 1년 8개월만에 순직 결정…국립묘지 안장 길 열린다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美, 中정찰풍선 격추 6일만에 알래스카 상공서 미확인 물체 격추(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013750994?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013750994?sid=104"/>
+        <updated>2023-02-11T08:17:18.728Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013750994?sid=104" class="nclicks(rig.secteco)" title="美, 中정찰풍선 격추 6일만에 알래스카 상공서 미확인 물체 격추(종합)">美, 中정찰풍선 격추 6일만에 알래스카 상공서 미확인 물체 격추(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지진 사망자 2만3천명 넘어…"10만명 넘을 확률 24%"(종합2보)]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003736720?sid=101" class="nclicks(rig.secteco)" title="[파고들기]하이브, '라이벌' SM 인수 시작…지분 싸움 가열">[파고들기]하이브, '라이벌' SM 인수 시작…지분 싸움 가열</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘짝퉁 명품’ 수입 5년간 2조원 넘어… 85%는 중국서]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003338588?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003338588?sid=101"/>
-        <updated>2023-02-11T06:17:01.849Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338588?sid=101" class="nclicks(rig.secteco)" title="‘짝퉁 명품’ 수입 5년간 2조원 넘어… 85%는 중국서">‘짝퉁 명품’ 수입 5년간 2조원 넘어… 85%는 중국서</a>]]></content>
+        <title type="html"><![CDATA[유류세 조정하니…경유·휘발유 가격 차 40원대]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002627014?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002627014?sid=101"/>
+        <updated>2023-02-11T08:17:18.731Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002627014?sid=101" class="nclicks(rig.secteco)" title="유류세 조정하니…경유·휘발유 가격 차 40원대">유류세 조정하니…경유·휘발유 가격 차 40원대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[223원 비쌌던 휘발유-경유 가격차 이젠 불과 24원…역전된 곳도]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001197559?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001197559?sid=101"/>
-        <updated>2023-02-11T06:17:01.848Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001197559?sid=101" class="nclicks(rig.secteco)" title="223원 비쌌던 휘발유-경유 가격차 이젠 불과 24원…역전된 곳도">223원 비쌌던 휘발유-경유 가격차 이젠 불과 24원…역전된 곳도</a>]]></content>
+        <title type="html"><![CDATA[짝퉁 명품 수입, 5년간 2조원 넘어… ‘롤렉스’ 최다]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000876730?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000876730?sid=101"/>
+        <updated>2023-02-11T08:17:18.733Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000876730?sid=101" class="nclicks(rig.secteco)" title="짝퉁 명품 수입, 5년간 2조원 넘어… ‘롤렉스’ 최다">짝퉁 명품 수입, 5년간 2조원 넘어… ‘롤렉스’ 최다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인류의 개인 비서가 된 챗GPT]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002282360?sid=105" class="nclicks(rig.secteco)" title="넷플릭스 계정공유 차단 수순...국내 OTT 반사익 챙길까">넷플릭스 계정공유 차단 수순...국내 OTT 반사익 챙길까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢, 김성태 대북송금 '800만달러+α'·'대가성 여부' 규명 주력]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013751204?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013751204?sid=102"/>
-        <updated>2023-02-11T04:17:18.203Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013751204?sid=102" class="nclicks(rig.secteco)" title="檢, 김성태 대북송금 '800만달러+α'·'대가성 여부' 규명 주력">檢, 김성태 대북송금 '800만달러+α'·'대가성 여부' 규명 주력</a>]]></content>
+        <title type="html"><![CDATA[김성태 대북 송금 800만 '+α'…조여오는 검찰 수사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001721941?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001721941?sid=102"/>
+        <updated>2023-02-11T08:17:18.738Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001721941?sid=102" class="nclicks(rig.secteco)" title="김성태 대북 송금 800만 '+α'…조여오는 검찰 수사망">김성태 대북 송금 800만 '+α'…조여오는 검찰 수사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, 11시간 조사 마치고 귀가…李 "제시된 증거 없어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000394924?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000394924?sid=102"/>
-        <updated>2023-02-11T06:17:01.856Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000394924?sid=102" class="nclicks(rig.secteco)" title="이재명, 11시간 조사 마치고 귀가…李 &quot;제시된 증거 없어&quot;">이재명, 11시간 조사 마치고 귀가…李 "제시된 증거 없어"</a>]]></content>
+        <title type="html"><![CDATA[이재명 2차 조사 11시간 만에 종료...영장 청구 전망]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001848528?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001848528?sid=102"/>
+        <updated>2023-02-11T08:17:18.740Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001848528?sid=102" class="nclicks(rig.secteco)" title="이재명 2차 조사 11시간 만에 종료...영장 청구 전망">이재명 2차 조사 11시간 만에 종료...영장 청구 전망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 중국발 단기비자 발급 재개... 코로나19 검사는 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000876715?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000876715?sid=102"/>
-        <updated>2023-02-11T07:12:37.659Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000876715?sid=102" class="nclicks(rig.secteco)" title="오늘부터 중국발 단기비자 발급 재개... 코로나19 검사는 계속">오늘부터 중국발 단기비자 발급 재개... 코로나19 검사는 계속</a>]]></content>
+        <title type="html"><![CDATA[20만원 뺏으려 편의점주 살해한 30대 “죄송…우발적이었다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003338595?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003338595?sid=102"/>
+        <updated>2023-02-11T08:17:18.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338595?sid=102" class="nclicks(rig.secteco)" title="20만원 뺏으려 편의점주 살해한 30대 “죄송…우발적이었다”">20만원 뺏으려 편의점주 살해한 30대 “죄송…우발적이었다”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘날씨]일교차 15도 이상…수도권·충청 미세먼지 한때 '나쁨']]></title>
