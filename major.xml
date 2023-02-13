@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-13T06:19:20.500Z</updated>
+    <updated>2023-02-13T07:14:09.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, '은행 돈 잔치' 지적…"고금리로 국민 고통, 대책 마련하라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000332058?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000332058?sid=100"/>
-        <updated>2023-02-13T06:18:51.684Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000332058?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, '은행 돈 잔치' 지적…&quot;고금리로 국민 고통, 대책 마련하라&quot;">윤 대통령, '은행 돈 잔치' 지적…"고금리로 국민 고통, 대책 마련하라"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 김기현, 安 겨냥 "탈당·창당 거듭한 사람보단 지지층 넓어…총선 야전사령관 될 것"]]></title>
         <id>https://n.news.naver.com/mnews/article/123/0002297274?sid=100</id>
@@ -20,18 +13,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002297274?sid=100" class="nclicks(rig.secteco)" title="[인터뷰] 김기현, 安 겨냥 &quot;탈당·창당 거듭한 사람보단 지지층 넓어…총선 야전사령관 될 것&quot;">[인터뷰] 김기현, 安 겨냥 "탈당·창당 거듭한 사람보단 지지층 넓어…총선 야전사령관 될 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박홍근 "김건희 '국민특검' 반드시 관철…尹 오만통치에 국가위기"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011688760?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011688760?sid=100"/>
-        <updated>2023-02-13T03:19:53.870Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011688760?sid=100" class="nclicks(rig.secteco)" title="박홍근 &quot;김건희 '국민특검' 반드시 관철…尹 오만통치에 국가위기&quot;(종합)">박홍근 "김건희 '국민특검' 반드시 관철…尹 오만통치에 국가위기"(종합)</a>]]></content>
+        <title type="html"><![CDATA["비난 받더라도 금융당국 제 역할 해야"... '관치금융' 확산되나]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002297286?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002297286?sid=100"/>
+        <updated>2023-02-13T07:13:40.111Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002297286?sid=100" class="nclicks(rig.secteco)" title="&quot;비난 받더라도 금융당국 제 역할 해야&quot;... '관치금융' 확산되나">"비난 받더라도 금융당국 제 역할 해야"... '관치금융' 확산되나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["정체는 아직 모르지만…" 미군, 사흘 연속 비행물체 격추한 사연]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004850536?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004850536?sid=104"/>
-        <updated>2023-02-13T06:18:51.686Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004850536?sid=104" class="nclicks(rig.secteco)" title="&quot;정체는 아직 모르지만…&quot; 미군, 사흘 연속 비행물체 격추한 사연">"정체는 아직 모르지만…" 미군, 사흘 연속 비행물체 격추한 사연</a>]]></content>
+        <title type="html"><![CDATA[장제원 “당정 충돌 때 부담 강조한 것”…김기현 ‘탄핵론’ 옹호]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000243729?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000243729?sid=100"/>
+        <updated>2023-02-13T07:13:40.114Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243729?sid=100" class="nclicks(rig.secteco)" title="장제원 “당정 충돌 때 부담 강조한 것”…김기현 ‘탄핵론’ 옹호">장제원 “당정 충돌 때 부담 강조한 것”…김기현 ‘탄핵론’ 옹호</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정찰풍선 美에 3개 피격 후 中 "우리도 미확인 비행물체 발견"]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000034534?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000034534?sid=104"/>
+        <updated>2023-02-13T07:13:40.119Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000034534?sid=104" class="nclicks(rig.secteco)" title="정찰풍선 美에 3개 피격 후 中 &quot;우리도 미확인 비행물체 발견&quot;">정찰풍선 美에 3개 피격 후 中 "우리도 미확인 비행물체 발견"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지진현장의 숨은 영웅…멕시코 구조견 ‘순직’·韓토백이는 ‘붕대 투혼’]]></title>
@@ -41,53 +41,53 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338887?sid=104" class="nclicks(rig.secteco)" title="지진현장의 숨은 영웅…멕시코 구조견 ‘순직’·韓토백이는 ‘붕대 투혼’">지진현장의 숨은 영웅…멕시코 구조견 ‘순직’·韓토백이는 ‘붕대 투혼’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제6단체 "노란봉투법 폐기해야…헌법 기본원리 무시"]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004968298?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004968298?sid=101"/>
-        <updated>2023-02-13T06:18:51.689Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004968298?sid=101" class="nclicks(rig.secteco)" title="경제6단체 &quot;노란봉투법 폐기해야…헌법 기본원리 무시&quot;">경제6단체 "노란봉투법 폐기해야…헌법 기본원리 무시"</a>]]></content>
+        <title type="html"><![CDATA[이재용 점찍은 로봇… 삼성 KAIST와 로봇 특화 인재 육성]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001586533?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001586533?sid=101"/>
+        <updated>2023-02-13T07:13:40.120Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586533?sid=101" class="nclicks(rig.secteco)" title="이재용 점찍은 로봇… 삼성 KAIST와 로봇 특화 인재 육성">이재용 점찍은 로봇… 삼성 KAIST와 로봇 특화 인재 육성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용 '로봇' 육성 특명에…삼성전자, KAIST와 손잡았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004155710?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004155710?sid=101"/>
-        <updated>2023-02-13T06:18:51.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004155710?sid=101" class="nclicks(rig.secteco)" title="이재용 '로봇' 육성 특명에…삼성전자, KAIST와 손잡았다">이재용 '로봇' 육성 특명에…삼성전자, KAIST와 손잡았다</a>]]></content>
+        <title type="html"><![CDATA["국민연금 의존 말고 사적연금 활용해야"…생보협회, '3대 전략' 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000322617?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000322617?sid=101"/>
+        <updated>2023-02-13T07:13:40.121Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000322617?sid=101" class="nclicks(rig.secteco)" title="&quot;국민연금 의존 말고 사적연금 활용해야&quot;…생보협회, '3대 전략' 추진">"국민연금 의존 말고 사적연금 활용해야"…생보협회, '3대 전략' 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아파트 입주율 또 60%대 추락…역대 두 번째로 낮아]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003479335?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003479335?sid=101"/>
-        <updated>2023-02-13T06:18:51.692Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479335?sid=101" class="nclicks(rig.secteco)" title="아파트 입주율 또 60%대 추락…역대 두 번째로 낮아">아파트 입주율 또 60%대 추락…역대 두 번째로 낮아</a>]]></content>
+        <title type="html"><![CDATA[경총 등 경제 6단체, 노동조합법 개정안 반대 성명 발표 [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011689424?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011689424?sid=101"/>
+        <updated>2023-02-13T07:13:40.123Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011689424?sid=101" class="nclicks(rig.secteco)" title="경총 등 경제 6단체, 노동조합법 개정안 반대 성명 발표 [뉴시스Pic]">경총 등 경제 6단체, 노동조합법 개정안 반대 성명 발표 [뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다누리가 찍은 ‘달의 바다’…정상 임무 수행 돌입]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000243726?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000243726?sid=105"/>
-        <updated>2023-02-13T06:18:51.694Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243726?sid=105" class="nclicks(rig.secteco)" title="다누리가 찍은 ‘달의 바다’…정상 임무 수행 돌입">다누리가 찍은 ‘달의 바다’…정상 임무 수행 돌입</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/056/0011427427?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011427427?sid=105"/>
+        <updated>2023-02-13T07:13:40.124Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011427427?sid=105" class="nclicks(rig.secteco)" title="다누리가 찍은 ‘달의 바다’…정상 임무 수행 돌입">다누리가 찍은 ‘달의 바다’…정상 임무 수행 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재활용 소재로 만들었다고?…갤럭시S23 '출생의 비밀' [영상]]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004809776?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004809776?sid=105"/>
-        <updated>2023-02-13T05:13:38.231Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004809776?sid=105" class="nclicks(rig.secteco)" title="재활용 소재로 만들었다고?…갤럭시S23 '출생의 비밀' [영상]">재활용 소재로 만들었다고?…갤럭시S23 '출생의 비밀' [영상]</a>]]></content>
+        <title type="html"><![CDATA[생수통·페트병·파유리가 스마트폰 속으로…'갤S23의 친환경 변신']]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000013812?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000013812?sid=105"/>
+        <updated>2023-02-13T07:13:40.126Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000013812?sid=105" class="nclicks(rig.secteco)" title="생수통·페트병·파유리가 스마트폰 속으로…'갤S23의 친환경 변신'">생수통·페트병·파유리가 스마트폰 속으로…'갤S23의 친환경 변신'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, ‘천공 관저 이전 개입 의혹’ 남영신 전 육군총장 등 조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002627188?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002627188?sid=102"/>
-        <updated>2023-02-13T06:18:51.699Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002627188?sid=102" class="nclicks(rig.secteco)" title="경찰, ‘천공 관저 이전 개입 의혹’ 남영신 전 육군총장 등 조사">경찰, ‘천공 관저 이전 개입 의혹’ 남영신 전 육군총장 등 조사</a>]]></content>
+        <title type="html"><![CDATA[역술인 천공, 경찰 조사받나…육참총장 관저 'CCTV 확보' 난항]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000052311?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000052311?sid=102"/>
+        <updated>2023-02-13T07:13:40.127Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000052311?sid=102" class="nclicks(rig.secteco)" title="역술인 천공, 경찰 조사받나…육참총장 관저 'CCTV 확보' 난항">역술인 천공, 경찰 조사받나…육참총장 관저 'CCTV 확보' 난항</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰 “유아인 마약 감정에 2~3주 소요… 구속 등 검토 안 해”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003782916?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003782916?sid=102"/>
-        <updated>2023-02-13T06:18:51.700Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003782916?sid=102" class="nclicks(rig.secteco)" title="경찰 “유아인 마약 감정에 2~3주 소요… 구속 등 검토 안 해”">경찰 “유아인 마약 감정에 2~3주 소요… 구속 등 검토 안 해”</a>]]></content>
+        <title type="html"><![CDATA[‘유아인 효과’ 대박이라 생각했는데…유통가 ‘눈물의 손절’]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005087580?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005087580?sid=102"/>
+        <updated>2023-02-13T07:13:40.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005087580?sid=102" class="nclicks(rig.secteco)" title="‘유아인 효과’ 대박이라 생각했는데…유통가 ‘눈물의 손절’">‘유아인 효과’ 대박이라 생각했는데…유통가 ‘눈물의 손절’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]쌍방울 금고지기 “김성태와 마주치지 않게 해달라”]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000243728?sid=102" class="nclicks(rig.secteco)" title="[단독]쌍방울 금고지기 “김성태와 마주치지 않게 해달라”">[단독]쌍방울 금고지기 “김성태와 마주치지 않게 해달라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[폭스바겐, ‘2023 투아렉’ 韓 사전계약 개시…가격은 8830만원부터]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005087465?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005087465?sid=103"/>
-        <updated>2023-02-13T06:18:51.704Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005087465?sid=103" class="nclicks(rig.secteco)" title="폭스바겐, ‘2023 투아렉’ 韓 사전계약 개시…가격은 8830만원부터">폭스바겐, ‘2023 투아렉’ 韓 사전계약 개시…가격은 8830만원부터</a>]]></content>
+        <title type="html"><![CDATA[현대차·기아, 지난해 세계 전기차 인도량 6위... 현대차는 수소전지차 1위]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002142388?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002142388?sid=103"/>
+        <updated>2023-02-13T07:13:40.132Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002142388?sid=103" class="nclicks(rig.secteco)" title="현대차·기아, 지난해 세계 전기차 인도량 6위... 현대차는 수소전지차 1위">현대차·기아, 지난해 세계 전기차 인도량 6위... 현대차는 수소전지차 1위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차·기아, 美 전기차 누적 판매량 10.4만대… 올해 목표만 13만대]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000894992?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000894992?sid=103"/>
-        <updated>2023-02-13T06:18:51.706Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000894992?sid=103" class="nclicks(rig.secteco)" title="현대차·기아, 美 전기차 누적 판매량 10.4만대… 올해 목표만 13만대">현대차·기아, 美 전기차 누적 판매량 10.4만대… 올해 목표만 13만대</a>]]></content>
+        <title type="html"><![CDATA[“최상위 옵션이 기본으로”…2023년형 투아렉 사전계약 개시]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002783821?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002783821?sid=103"/>
+        <updated>2023-02-13T07:13:40.134Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002783821?sid=103" class="nclicks(rig.secteco)" title="“최상위 옵션이 기본으로”…2023년형 투아렉 사전계약 개시">“최상위 옵션이 기본으로”…2023년형 투아렉 사전계약 개시</a>]]></content>
     </entry>
 </feed>
