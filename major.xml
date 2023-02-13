@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-13T20:16:20.746Z</updated>
+    <updated>2023-02-13T21:14:01.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안철수 "탄핵 언급 정신상태" vs. 김기현 "당정분리? 야당이냐"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002382048?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002382048?sid=100"/>
-        <updated>2023-02-13T19:12:20.596Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002382048?sid=100" class="nclicks(rig.secteco)" title="안철수 &quot;탄핵 언급 정신상태&quot; vs. 김기현 &quot;당정분리? 야당이냐&quot;">안철수 "탄핵 언급 정신상태" vs. 김기현 "당정분리? 야당이냐"</a>]]></content>
+        <title type="html"><![CDATA[서민 교수, ‘尹 탄핵 논란’ 김기현 직격…“이렇게까지 해서 당대표 돼야 하나”]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002783966?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002783966?sid=100"/>
+        <updated>2023-02-13T21:13:30.044Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002783966?sid=100" class="nclicks(rig.secteco)" title="서민 교수, ‘尹 탄핵 논란’ 김기현 직격…“이렇게까지 해서 당대표 돼야 하나”">서민 교수, ‘尹 탄핵 논란’ 김기현 직격…“이렇게까지 해서 당대표 돼야 하나”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대장동·김건희' 쌍특검 두고 민주당·정의당 '엇박자'…왜?]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003737375?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003737375?sid=100"/>
+        <updated>2023-02-13T21:13:30.045Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003737375?sid=100" class="nclicks(rig.secteco)" title="'대장동·김건희' 쌍특검 두고 민주당·정의당 '엇박자'…왜?">'대장동·김건희' 쌍특검 두고 민주당·정의당 '엇박자'…왜?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 “고금리에 고통 커… 은행, 돈 잔치 안 돼”]]></title>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339037?sid=100" class="nclicks(rig.secteco)" title="尹 “고금리에 고통 커… 은행, 돈 잔치 안 돼”">尹 “고금리에 고통 커… 은행, 돈 잔치 안 돼”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주 ‘쌍특검’·정의 ‘50억 클럽’… 특검 우선순위 신경전]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003339043?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003339043?sid=100"/>
-        <updated>2023-02-13T20:15:50.315Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339043?sid=100" class="nclicks(rig.secteco)" title="민주 ‘쌍특검’·정의 ‘50억 클럽’… 특검 우선순위 신경전">민주 ‘쌍특검’·정의 ‘50억 클럽’… 특검 우선순위 신경전</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美 8일새 네 번째 격추… ‘미확인 비행물체’ 미스터리 확산]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001586698?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/005/0001586698?sid=104"/>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586698?sid=104" class="nclicks(rig.secteco)" title="美 8일새 네 번째 격추… ‘미확인 비행물체’ 미스터리 확산">美 8일새 네 번째 격추… ‘미확인 비행물체’ 미스터리 확산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 정찰풍선 감시 강화에… 美, 미확인 비행체 4번째 격추]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003339083?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003339083?sid=104"/>
-        <updated>2023-02-13T20:15:50.318Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339083?sid=104" class="nclicks(rig.secteco)" title="中 정찰풍선 감시 강화에… 美, 미확인 비행체 4번째 격추">中 정찰풍선 감시 강화에… 美, 미확인 비행체 4번째 격추</a>]]></content>
+        <title type="html"><![CDATA[中 “美 풍선도 우리 영토 10번이상 침범”… 美, 비행체 4번째 격추]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003479441?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003479441?sid=104"/>
+        <updated>2023-02-13T21:13:30.048Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479441?sid=104" class="nclicks(rig.secteco)" title="中 “美 풍선도 우리 영토 10번이상 침범”… 美, 비행체 4번째 격추">中 “美 풍선도 우리 영토 10번이상 침범”… 美, 비행체 4번째 격추</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오아시스도 '상장 철회' 백기…IPO 잔혹사 계속된다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005424061?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005424061?sid=101"/>
-        <updated>2023-02-13T20:15:50.318Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005424061?sid=101" class="nclicks(rig.secteco)" title="오아시스도 '상장 철회' 백기…IPO 잔혹사 계속된다">오아시스도 '상장 철회' 백기…IPO 잔혹사 계속된다</a>]]></content>
+        <title type="html"><![CDATA[IPO 한파 넘지 못한 오아시스…'e커머스 1호' 상장 줄줄이 '빨간불']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006628494?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006628494?sid=101"/>
+        <updated>2023-02-13T21:13:30.050Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006628494?sid=101" class="nclicks(rig.secteco)" title="IPO 한파 넘지 못한 오아시스…'e커머스 1호' 상장 줄줄이 '빨간불'">IPO 한파 넘지 못한 오아시스…'e커머스 1호' 상장 줄줄이 '빨간불'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["하이브에 지분 넘긴 이수만, 왜 3%는 남겼을까?"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003736992?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003736992?sid=101"/>
-        <updated>2023-02-13T19:12:20.607Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003736992?sid=101" class="nclicks(rig.secteco)" title="&quot;하이브에 지분 넘긴 이수만, 왜 3%는 남겼을까?&quot;">"하이브에 지분 넘긴 이수만, 왜 3%는 남겼을까?"</a>]]></content>
+        <title type="html"><![CDATA[SM 경영에 '연봉 5억' 민희진 나서나..소녀시대, 뉴진스 만든 그녀는 누구?]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004968642?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004968642?sid=101"/>
+        <updated>2023-02-13T21:13:30.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004968642?sid=101" class="nclicks(rig.secteco)" title="SM 경영에 '연봉 5억' 민희진 나서나..소녀시대, 뉴진스 만든 그녀는 누구?">SM 경영에 '연봉 5억' 민희진 나서나..소녀시대, 뉴진스 만든 그녀는 누구?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['한화家 차남' 김동연, 사장 달고 글로벌사업 지휘… 해외로 간다]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745880?sid=102" class="nclicks(rig.secteco)" title="[단독] 김성태 수백억 돈세탁, 로비 의혹… 검찰, 300억 사용처 추적">[단독] 김성태 수백억 돈세탁, 로비 의혹… 검찰, 300억 사용처 추적</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['이재명 수사'도 딴 곳 보냈다…곽상도 50억 무죄, 檢 승부수는]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003259591?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003259591?sid=102"/>
-        <updated>2023-02-13T20:15:50.327Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259591?sid=102" class="nclicks(rig.secteco)" title="'이재명 수사'도 딴 곳 보냈다…곽상도 50억 무죄, 檢 승부수는">'이재명 수사'도 딴 곳 보냈다…곽상도 50억 무죄, 檢 승부수는</a>]]></content>
+        <title type="html"><![CDATA[곽상도 ‘아들 50억 퇴직금’ 무죄, 거센 후폭풍..檢, 항소 “사회통념·상식에 부합하지 않아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003783160?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003783160?sid=102"/>
+        <updated>2023-02-13T21:13:30.058Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003783160?sid=102" class="nclicks(rig.secteco)" title="곽상도 ‘아들 50억 퇴직금’ 무죄, 거센 후폭풍..檢, 항소 “사회통념·상식에 부합하지 않아”">곽상도 ‘아들 50억 퇴직금’ 무죄, 거센 후폭풍..檢, 항소 “사회통념·상식에 부합하지 않아”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도이치 판결문에 등장한 '김건희 계좌'…"통정매매에 이용"]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000200611?sid=102" class="nclicks(rig.secteco)" title="도이치 판결문에 등장한 '김건희 계좌'…&quot;통정매매에 이용&quot;">도이치 판결문에 등장한 '김건희 계좌'…"통정매매에 이용"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 아침 출근길 영하권 '쌀쌀'…동부 지역 눈·비]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004155936?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004155936?sid=103"/>
-        <updated>2023-02-13T20:15:50.331Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004155936?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 아침 출근길 영하권 '쌀쌀'…동부 지역 눈·비">[오늘의 날씨] 아침 출근길 영하권 '쌀쌀'…동부 지역 눈·비</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[국립 걸맞게 국민과 함께… 국립심포니 정체성 확립]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003339117?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003339117?sid=103"/>
         <updated>2023-02-13T20:15:50.333Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339117?sid=103" class="nclicks(rig.secteco)" title="국립 걸맞게 국민과 함께… 국립심포니 정체성 확립">국립 걸맞게 국민과 함께… 국립심포니 정체성 확립</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기상센터] 밤사이 찬 바람 불며 기온 '뚝'…강원 산간에 많은 눈]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000332110?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000332110?sid=103"/>
+        <updated>2023-02-13T21:13:30.062Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000332110?sid=103" class="nclicks(rig.secteco)" title="[기상센터] 밤사이 찬 바람 불며 기온 '뚝'…강원 산간에 많은 눈">[기상센터] 밤사이 찬 바람 불며 기온 '뚝'…강원 산간에 많은 눈</a>]]></content>
     </entry>
 </feed>
