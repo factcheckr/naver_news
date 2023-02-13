@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-13T16:19:53.832Z</updated>
+    <updated>2023-02-13T18:18:56.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[김기현 "대통령 견제하려면 야당해야"…안철수 "줏대 없는 당대표"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000200594?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000200594?sid=100"/>
-        <updated>2023-02-13T16:19:25.546Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000200594?sid=100" class="nclicks(rig.secteco)" title="김기현 &quot;대통령 견제하려면 야당해야&quot;…안철수 &quot;줏대 없는 당대표&quot;">김기현 "대통령 견제하려면 야당해야"…안철수 "줏대 없는 당대표"</a>]]></content>
+        <title type="html"><![CDATA[국민의힘 전당대회 제주서 첫 합동 연설회]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002275983?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002275983?sid=100"/>
+        <updated>2023-02-13T18:18:28.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002275983?sid=100" class="nclicks(rig.secteco)" title="국민의힘 전당대회 제주서 첫 합동 연설회">국민의힘 전당대회 제주서 첫 합동 연설회</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 “은행 돈잔치 대책 마련하라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000032964?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000032964?sid=100"/>
+        <updated>2023-02-13T18:18:28.336Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000032964?sid=100" class="nclicks(rig.secteco)" title="尹 “은행 돈잔치 대책 마련하라”">尹 “은행 돈잔치 대책 마련하라”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['김건희 특검' 스텝 꼬인 민주당…패스트트랙 추진 안갯속]]></title>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000200609?sid=100" class="nclicks(rig.secteco)" title="'김건희 특검' 스텝 꼬인 민주당…패스트트랙 추진 안갯속">'김건희 특검' 스텝 꼬인 민주당…패스트트랙 추진 안갯속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“국민은 고금리 고통…은행들은 돈잔치” 윤 대통령, 대책 지시]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003259572?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003259572?sid=100"/>
-        <updated>2023-02-13T16:19:25.549Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259572?sid=100" class="nclicks(rig.secteco)" title="“국민은 고금리 고통…은행들은 돈잔치” 윤 대통령, 대책 지시">“국민은 고금리 고통…은행들은 돈잔치” 윤 대통령, 대책 지시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국도 “미확인 비행체 발견” 맞불…미국은 4번째 격추]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003338829?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003338829?sid=104"/>
-        <updated>2023-02-13T16:19:25.550Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003338829?sid=104" class="nclicks(rig.secteco)" title="중국도 “미확인 비행체 발견” 맞불…미국은 4번째 격추">중국도 “미확인 비행체 발견” 맞불…미국은 4번째 격추</a>]]></content>
+        <title type="html"><![CDATA[美예비역 장성 "미확인 비행물체 사건, 적국의 美시스템 시험일 수도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006628440?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006628440?sid=104"/>
+        <updated>2023-02-13T18:18:28.348Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006628440?sid=104" class="nclicks(rig.secteco)" title="美예비역 장성 &quot;미확인 비행물체 사건, 적국의 美시스템 시험일 수도&quot;">美예비역 장성 "미확인 비행물체 사건, 적국의 美시스템 시험일 수도"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中 맞불 작전…"美 풍선 작년 中 영공 10여차례 넘어와"]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003737372?sid=104" class="nclicks(rig.secteco)" title="中 맞불 작전…&quot;美 풍선 작년 中 영공 10여차례 넘어와&quot;">中 맞불 작전…"美 풍선 작년 中 영공 10여차례 넘어와"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컬리 이어… ‘새벽배송’ 오아시스도 “상장 철회”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003783111?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003783111?sid=101"/>
-        <updated>2023-02-13T16:19:25.552Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003783111?sid=101" class="nclicks(rig.secteco)" title="컬리 이어… ‘새벽배송’ 오아시스도 “상장 철회”">컬리 이어… ‘새벽배송’ 오아시스도 “상장 철회”</a>]]></content>
+        <title type="html"><![CDATA[‘오아시스’도 청약일 하루 앞두고 상장 철회]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003746040?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003746040?sid=101"/>
+        <updated>2023-02-13T18:18:28.350Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003746040?sid=101" class="nclicks(rig.secteco)" title="‘오아시스’도 청약일 하루 앞두고 상장 철회">‘오아시스’도 청약일 하루 앞두고 상장 철회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘세기의 합병’ SM 품은 하이브, ‘K팝 상징’ 되나…승기는 어디로?]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002102703?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002102703?sid=101"/>
-        <updated>2023-02-13T16:19:25.553Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002102703?sid=101" class="nclicks(rig.secteco)" title="‘세기의 합병’ SM 품은 하이브, ‘K팝 상징’ 되나…승기는 어디로?">‘세기의 합병’ SM 품은 하이브, ‘K팝 상징’ 되나…승기는 어디로?</a>]]></content>
+        <title type="html"><![CDATA[하이브, SM 공개매수 돌입… 고래싸움에 새우들 신났다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003746036?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003746036?sid=101"/>
+        <updated>2023-02-13T18:18:28.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003746036?sid=101" class="nclicks(rig.secteco)" title="하이브, SM 공개매수 돌입… 고래싸움에 새우들 신났다">하이브, SM 공개매수 돌입… 고래싸움에 새우들 신났다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한화 3남 김동선 홀로서기… 갤러리아 독립으로 승계 가속화]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000877067?sid=101" class="nclicks(rig.secteco)" title="한화 3남 김동선 홀로서기… 갤러리아 독립으로 승계 가속화">한화 3남 김동선 홀로서기… 갤러리아 독립으로 승계 가속화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[소년중앙] 달 착륙 후보지 찾고 달 지도 만들고…다누리 할 일 많네요]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003259322?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003259322?sid=105"/>
-        <updated>2023-02-13T15:16:22.600Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259322?sid=105" class="nclicks(rig.secteco)" title="[소년중앙] 달 착륙 후보지 찾고 달 지도 만들고…다누리 할 일 많네요">[소년중앙] 달 착륙 후보지 찾고 달 지도 만들고…다누리 할 일 많네요</a>]]></content>
+        <title type="html"><![CDATA[‘다누리’가 촬영한 달 표면 사진 첫 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003479461?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003479461?sid=105"/>
+        <updated>2023-02-13T18:18:28.351Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479461?sid=105" class="nclicks(rig.secteco)" title="‘다누리’가 촬영한 달 표면 사진 첫 공개">‘다누리’가 촬영한 달 표면 사진 첫 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["깨진 유리가 최고급 폰 화면으로"…갤S23에 숨겨진 '재활용' 비법]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011689055?sid=105" class="nclicks(rig.secteco)" title="&quot;깨진 유리가 최고급 폰 화면으로&quot;…갤S23에 숨겨진 '재활용' 비법">"깨진 유리가 최고급 폰 화면으로"…갤S23에 숨겨진 '재활용' 비법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곽상도 아들 50억 퇴직금 무죄에 검찰 ‘항소’…대통령실 “언급 적절하지 않아”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003783056?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003783056?sid=102"/>
-        <updated>2023-02-13T13:23:54.707Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003783056?sid=102" class="nclicks(rig.secteco)" title="곽상도 아들 50억 퇴직금 무죄에 검찰 ‘항소’…대통령실 “언급 적절하지 않아”">곽상도 아들 50억 퇴직금 무죄에 검찰 ‘항소’…대통령실 “언급 적절하지 않아”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 김성태 수백억 돈세탁, 로비 의혹… 검찰, 300억 사용처 추적]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003745880?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003745880?sid=102"/>
         <updated>2023-02-13T16:19:25.558Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003745880?sid=102" class="nclicks(rig.secteco)" title="[단독] 김성태 수백억 돈세탁, 로비 의혹… 검찰, 300억 사용처 추적">[단독] 김성태 수백억 돈세탁, 로비 의혹… 검찰, 300억 사용처 추적</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[檢, 곽상도 ‘50억 뇌물 무죄’ 판결에 항소]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003479490?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003479490?sid=102"/>
+        <updated>2023-02-13T18:18:28.354Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479490?sid=102" class="nclicks(rig.secteco)" title="檢, 곽상도 ‘50억 뇌물 무죄’ 판결에 항소">檢, 곽상도 ‘50억 뇌물 무죄’ 판결에 항소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“김건희 계좌, 시세조종에 이용” 도이치 판결문서 적시]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586612?sid=102" class="nclicks(rig.secteco)" title="“김건희 계좌, 시세조종에 이용” 도이치 판결문서 적시">“김건희 계좌, 시세조종에 이용” 도이치 판결문서 적시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쌀쌀한 아침 출근길...강원영동·동해안엔 눈소식]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005087924?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005087924?sid=103"/>
-        <updated>2023-02-13T14:14:05.260Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005087924?sid=103" class="nclicks(rig.secteco)" title="쌀쌀한 아침 출근길...강원영동·동해안엔 눈소식">쌀쌀한 아침 출근길...강원영동·동해안엔 눈소식</a>]]></content>
+        <title type="html"><![CDATA[[오늘의 날씨] 돌아온 강추위…아침 다시 영하권]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000200595?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000200595?sid=103"/>
+        <updated>2023-02-13T18:18:28.356Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000200595?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 돌아온 강추위…아침 다시 영하권">[오늘의 날씨] 돌아온 강추위…아침 다시 영하권</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국립심포니 예술감독 "K컬처 성과, 작곡서도 터질 것…음반 발매"]]></title>
