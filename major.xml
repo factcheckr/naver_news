@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-14T07:14:41.967Z</updated>
+    <updated>2023-02-14T08:20:03.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[정성호 "이대로 가면 이재명 대통령 된다" 접견 발언 보도에 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000116820?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000116820?sid=100"/>
-        <updated>2023-02-14T07:14:13.439Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000116820?sid=100" class="nclicks(rig.secteco)" title="정성호 &quot;이대로 가면 이재명 대통령 된다&quot; 접견 발언 보도에 반발">정성호 "이대로 가면 이재명 대통령 된다" 접견 발언 보도에 반발</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA["양궁 재밌게 본다" 윤대통령 직접 쏜 화살, 과녁 8점 꽂혔다]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003259681?sid=100</id>
@@ -20,60 +13,81 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259681?sid=100" class="nclicks(rig.secteco)" title="&quot;양궁 재밌게 본다&quot; 윤대통령 직접 쏜 화살, 과녁 8점 꽂혔다">"양궁 재밌게 본다" 윤대통령 직접 쏜 화살, 과녁 8점 꽂혔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여야, '보훈부 격상·동포청 신설' 정부 개편 합의…"이달 처리"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013756088?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013756088?sid=100"/>
+        <title type="html"><![CDATA[여야, 여가부 폐지 결론 못내…‘보훈부 격상·동포청 신설’엔 합의]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003479632?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003479632?sid=100"/>
+        <updated>2023-02-14T08:19:30.899Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479632?sid=100" class="nclicks(rig.secteco)" title="여야, 여가부 폐지 결론 못내…‘보훈부 격상·동포청 신설’엔 합의">여야, 여가부 폐지 결론 못내…‘보훈부 격상·동포청 신설’엔 합의</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정성호 "이대로 가면 이재명 대통령 된다" 접견 발언 보도에 반발]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000116820?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000116820?sid=100"/>
         <updated>2023-02-14T07:14:13.439Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013756088?sid=100" class="nclicks(rig.secteco)" title="여야, '보훈부 격상·동포청 신설' 정부 개편 합의…&quot;이달 처리&quot;(종합)">여야, '보훈부 격상·동포청 신설' 정부 개편 합의…"이달 처리"(종합)</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000116820?sid=100" class="nclicks(rig.secteco)" title="정성호 &quot;이대로 가면 이재명 대통령 된다&quot; 접견 발언 보도에 반발">정성호 "이대로 가면 이재명 대통령 된다" 접견 발언 보도에 반발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“총기난사범은 키 작은 흑인 남성”… 美미시간주립대서 최소 3명 사망]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003339241?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003339241?sid=104"/>
-        <updated>2023-02-14T07:14:13.440Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339241?sid=104" class="nclicks(rig.secteco)" title="“총기난사범은 키 작은 흑인 남성”… 美미시간주립대서 최소 3명 사망">“총기난사범은 키 작은 흑인 남성”… 美미시간주립대서 최소 3명 사망</a>]]></content>
+        <title type="html"><![CDATA[日정부, 일본은행 총재로 '우에다' 정식 지명…첫 경제학자 출신(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011691861?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011691861?sid=104"/>
+        <updated>2023-02-14T08:19:30.903Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011691861?sid=104" class="nclicks(rig.secteco)" title="日정부, 일본은행 총재로 '우에다' 정식 지명…첫 경제학자 출신(종합)">日정부, 일본은행 총재로 '우에다' 정식 지명…첫 경제학자 출신(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“中 정찰풍선 최종목표는…전세계 들여다보는 네트워크 구축”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003479616?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003479616?sid=104"/>
-        <updated>2023-02-14T07:14:13.440Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003479616?sid=104" class="nclicks(rig.secteco)" title="“中 정찰풍선 최종목표는…전세계 들여다보는 네트워크 구축”">“中 정찰풍선 최종목표는…전세계 들여다보는 네트워크 구축”</a>]]></content>
+        <title type="html"><![CDATA[美미시간주립대 총격, 3명 사망·5명 부상…용의자는 극단선택(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011691912?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011691912?sid=104"/>
+        <updated>2023-02-14T08:19:30.903Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011691912?sid=104" class="nclicks(rig.secteco)" title="美미시간주립대 총격, 3명 사망·5명 부상…용의자는 극단선택(종합)">美미시간주립대 총격, 3명 사망·5명 부상…용의자는 극단선택(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오 ‘가맹 택시 우대’ 소문, 결국 사실로…공정위 제재에 ‘행정소송’ 대응]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000039967?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000039967?sid=101"/>
-        <updated>2023-02-14T05:14:30.831Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000039967?sid=101" class="nclicks(rig.secteco)" title="카카오 ‘가맹 택시 우대’ 소문, 결국 사실로…공정위 제재에 ‘행정소송’ 대응">카카오 ‘가맹 택시 우대’ 소문, 결국 사실로…공정위 제재에 ‘행정소송’ 대응</a>]]></content>
+        <title type="html"><![CDATA['은밀한 자사우대' 카카오모빌리티...공정위 257억 과징금(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005217996?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005217996?sid=101"/>
+        <updated>2023-02-14T08:19:30.906Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005217996?sid=101" class="nclicks(rig.secteco)" title="'은밀한 자사우대' 카카오모빌리티...공정위 257억 과징금(종합)">'은밀한 자사우대' 카카오모빌리티...공정위 257억 과징금(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 지시 하루 만에 금감원장 "성과보수체계 점검하겠다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003737645?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003737645?sid=101"/>
-        <updated>2023-02-14T07:14:13.440Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003737645?sid=101" class="nclicks(rig.secteco)" title="尹대통령 지시 하루 만에 금감원장 &quot;성과보수체계 점검하겠다&quot;">尹대통령 지시 하루 만에 금감원장 "성과보수체계 점검하겠다"</a>]]></content>
+        <title type="html"><![CDATA[HMM 친환경 선박 2척 HJ중공업 수주...지역경제 활성화도 기대]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004851096?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004851096?sid=101"/>
+        <updated>2023-02-14T08:19:30.906Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004851096?sid=101" class="nclicks(rig.secteco)" title="HMM 친환경 선박 2척 HJ중공업 수주...지역경제 활성화도 기대">HMM 친환경 선박 2척 HJ중공업 수주...지역경제 활성화도 기대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HMM, 친환경 컨테이너선 9척 발주… 1.4조원 투자]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000877311?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000877311?sid=101"/>
-        <updated>2023-02-14T07:14:13.440Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000877311?sid=101" class="nclicks(rig.secteco)" title="HMM, 친환경 컨테이너선 9척 발주… 1.4조원 투자">HMM, 친환경 컨테이너선 9척 발주… 1.4조원 투자</a>]]></content>
+        <title type="html"><![CDATA["1조4천억" 銀 성과급 잔치 비판에..이복현 "성과보수체계 法 부합하는지 보겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004969032?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004969032?sid=101"/>
+        <updated>2023-02-14T08:19:30.907Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004969032?sid=101" class="nclicks(rig.secteco)" title="&quot;1조4천억&quot; 銀 성과급 잔치 비판에..이복현 &quot;성과보수체계 法 부합하는지 보겠다&quot;">"1조4천억" 銀 성과급 잔치 비판에..이복현 "성과보수체계 法 부합하는지 보겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노태문 자신감 통했다…갤럭시S23 사전예약 109만대 '새역사']]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002683710?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002683710?sid=105"/>
-        <updated>2023-02-14T07:14:13.440Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002683710?sid=105" class="nclicks(rig.secteco)" title="노태문 자신감 통했다…갤럭시S23 사전예약 109만대 '새역사'">노태문 자신감 통했다…갤럭시S23 사전예약 109만대 '새역사'</a>]]></content>
+        <title type="html"><![CDATA[갤럭시S23 시리즈 대표고객은 3040, 울트라 모델 인기]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000033024?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000033024?sid=105"/>
+        <updated>2023-02-14T08:19:30.911Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000033024?sid=105" class="nclicks(rig.secteco)" title="갤럭시S23 시리즈 대표고객은 3040, 울트라 모델 인기">갤럭시S23 시리즈 대표고객은 3040, 울트라 모델 인기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데브시스터즈, 지난해 4분기 영업손실 235억원…적자전환]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000877359?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000877359?sid=105"/>
-        <updated>2023-02-14T07:14:13.441Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000877359?sid=105" class="nclicks(rig.secteco)" title="데브시스터즈, 지난해 4분기 영업손실 235억원…적자전환">데브시스터즈, 지난해 4분기 영업손실 235억원…적자전환</a>]]></content>
+        <title type="html"><![CDATA[비용 아껴봤지만…'쿠키런 매출' 감소에 데브시스터즈 '적자전환']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004851152?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004851152?sid=105"/>
+        <updated>2023-02-14T08:19:30.914Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004851152?sid=105" class="nclicks(rig.secteco)" title="비용 아껴봤지만…'쿠키런 매출' 감소에 데브시스터즈 '적자전환'">비용 아껴봤지만…'쿠키런 매출' 감소에 데브시스터즈 '적자전환'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, 구속영장 청구 가능성에 "제가 도망간답니까"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011691935?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011691935?sid=102"/>
+        <updated>2023-02-14T08:19:30.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011691935?sid=102" class="nclicks(rig.secteco)" title="이재명, 구속영장 청구 가능성에 &quot;제가 도망간답니까&quot;">이재명, 구속영장 청구 가능성에 "제가 도망간답니까"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이태원참사 유가족 "지하 분향소 우리가 제안? 서울시, '언플' 그만하라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002382162?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002382162?sid=102"/>
+        <updated>2023-02-14T08:19:30.920Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002382162?sid=102" class="nclicks(rig.secteco)" title="이태원참사 유가족 &quot;지하 분향소 우리가 제안? 서울시, '언플' 그만하라&quot;">이태원참사 유가족 "지하 분향소 우리가 제안? 서울시, '언플' 그만하라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동물 98마리 안락사 ‘케어’ 박소연, 1심 징역 2년]]></title>
@@ -83,31 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586818?sid=102" class="nclicks(rig.secteco)" title="동물 98마리 안락사 ‘케어’ 박소연, 1심 징역 2년">동물 98마리 안락사 ‘케어’ 박소연, 1심 징역 2년</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['340억 은닉' 김만배 구속영장…'50억 클럽' 수사도 속도(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013755332?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013755332?sid=102"/>
-        <updated>2023-02-14T04:17:54.261Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013755332?sid=102" class="nclicks(rig.secteco)" title="'340억 은닉' 김만배 구속영장…'50억 클럽' 수사도 속도(종합)">'340억 은닉' 김만배 구속영장…'50억 클럽' 수사도 속도(종합)</a>]]></content>
+        <title type="html"><![CDATA[“중동 수출 물량 확대”…쌍용차, UAE 수출 목표 年 1만대]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005088205?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005088205?sid=103"/>
+        <updated>2023-02-14T08:19:30.924Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005088205?sid=103" class="nclicks(rig.secteco)" title="“중동 수출 물량 확대”…쌍용차, UAE 수출 목표 年 1만대">“중동 수출 물량 확대”…쌍용차, UAE 수출 목표 年 1만대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]검찰 "금명간 이재명 구속영장 청구 여부 결정…진술 태도 고려하면 추가 조사 필요성 크지 않아"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000952325?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000952325?sid=102"/>
-        <updated>2023-02-14T07:14:13.444Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000952325?sid=102" class="nclicks(rig.secteco)" title="[속보]검찰 &quot;금명간 이재명 구속영장 청구 여부 결정…진술 태도 고려하면 추가 조사 필요성 크지 않아&quot;">[속보]검찰 "금명간 이재명 구속영장 청구 여부 결정…진술 태도 고려하면 추가 조사 필요성 크지 않아"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대모비스 1500억 자사주 소각…"미래성장에 15조 투자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004851046?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004851046?sid=103"/>
-        <updated>2023-02-14T06:18:49.124Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004851046?sid=103" class="nclicks(rig.secteco)" title="현대모비스 1500억 자사주 소각…&quot;미래성장에 15조 투자&quot;">현대모비스 1500억 자사주 소각…"미래성장에 15조 투자"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중동 수출 노리는 쌍용차, UAE NGT와 '상호협력']]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011691275?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011691275?sid=103"/>
-        <updated>2023-02-14T06:18:49.123Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011691275?sid=103" class="nclicks(rig.secteco)" title="중동 수출 노리는 쌍용차, UAE NGT와 '상호협력'">중동 수출 노리는 쌍용차, UAE NGT와 '상호협력'</a>]]></content>
+        <title type="html"><![CDATA[춘향전부터 SF연극까지…국립정동극장 올해 공연 29편으로 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013756034?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013756034?sid=103"/>
+        <updated>2023-02-14T08:19:30.927Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013756034?sid=103" class="nclicks(rig.secteco)" title="춘향전부터 SF연극까지…국립정동극장 올해 공연 29편으로 확대">춘향전부터 SF연극까지…국립정동극장 올해 공연 29편으로 확대</a>]]></content>
     </entry>
 </feed>
