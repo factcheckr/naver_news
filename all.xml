@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T20:16:06.297Z</updated>
+    <updated>2023-02-14T21:14:31.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47% (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000001387?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000001387?sid=100"/>
+        <updated>2023-02-14T21:13:59.377Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/607/0000001387?sid=100" class="nclicks(rig.secteco)" title="도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%">도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정성호 “이대로면 이재명 대통령, 알리바이 중요”…전여옥 “조폭영화서 나오던 대사” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002784237?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002784237?sid=100"/>
+        <updated>2023-02-14T21:13:59.388Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002784237?sid=100" class="nclicks(rig.secteco)" title="정성호 “이대로면 이재명 대통령, 알리바이 중요”…전여옥 “조폭영화서 나오던 대사”">정성호 “이대로면 이재명 대통령, 알리바이 중요”…전여옥 “조폭영화서 나오던 대사”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제주4·3 김일성 지시" 태영호 주장 근거가 '北 교육, 드라마'? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/661/0000020441?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/661/0000020441?sid=100"/>
         <updated>2023-02-14T20:15:35.883Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000020441?sid=100" class="nclicks(rig.secteco)" title="&quot;제주4·3 김일성 지시&quot; 태영호 주장 근거가 '北 교육,  드라마'?">"제주4·3 김일성 지시" 태영호 주장 근거가 '北 교육, 드라마'?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원 "김건희 계좌 시세조종에 이용"… 형사처벌 가능성은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000723496?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000723496?sid=100"/>
-        <updated>2023-02-14T20:15:35.886Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000723496?sid=100" class="nclicks(rig.secteco)" title="법원 &quot;김건희 계좌 시세조종에 이용&quot;… 형사처벌 가능성은">법원 "김건희 계좌 시세조종에 이용"… 형사처벌 가능성은</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金 “당 통합 전문가” 安 “공천 공정관리”… 두 후보 PK인연 강조 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001587003?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001587003?sid=100"/>
-        <updated>2023-02-14T20:15:35.892Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001587003?sid=100" class="nclicks(rig.secteco)" title="金 “당 통합 전문가” 安 “공천 공정관리”… 두 후보 PK인연 강조">金 “당 통합 전문가” 安 “공천 공정관리”… 두 후보 PK인연 강조</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美물가상승률 6.4%… 인플레 둔화 속도 느려졌다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,18 +33,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003746335?sid=104" class="nclicks(rig.secteco)" title="美물가상승률 6.4%… 인플레 둔화 속도 느려졌다">美물가상승률 6.4%… 인플레 둔화 속도 느려졌다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 “정찰풍선, 글로벌 네트워크 구축용” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001586976?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001586976?sid=104"/>
-        <updated>2023-02-14T20:15:35.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586976?sid=104" class="nclicks(rig.secteco)" title="美 “정찰풍선, 글로벌 네트워크 구축용”">美 “정찰풍선, 글로벌 네트워크 구축용”</a>]]></content>
+        <title type="html"><![CDATA[블링컨·왕이 獨회동 검토… “中 정찰풍선, 전 세계 들여다보려 했다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003339408?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003339408?sid=104"/>
+        <updated>2023-02-14T21:13:59.393Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339408?sid=104" class="nclicks(rig.secteco)" title="블링컨·왕이 獨회동 검토… “中 정찰풍선, 전 세계 들여다보려 했다”">블링컨·왕이 獨회동 검토… “中 정찰풍선, 전 세계 들여다보려 했다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오T ‘콜’ 몰아주기… 공정위, 257억 과징금 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001587019?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001587019?sid=101"/>
-        <updated>2023-02-14T20:15:35.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001587019?sid=101" class="nclicks(rig.secteco)" title="카카오T ‘콜’ 몰아주기… 공정위, 257억 과징금">카카오T ‘콜’ 몰아주기… 공정위, 257억 과징금</a>]]></content>
+        <title type="html"><![CDATA[‘카카오블루’에 콜 몰아줬다… 특혜 누린 가맹택시 2년새 24배 폭증 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003339362?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003339362?sid=101"/>
+        <updated>2023-02-14T21:13:59.393Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339362?sid=101" class="nclicks(rig.secteco)" title="‘카카오블루’에 콜 몰아줬다… 특혜 누린 가맹택시 2년새 24배 폭증">‘카카오블루’에 콜 몰아줬다… 특혜 누린 가맹택시 2년새 24배 폭증</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행들은 왜 '공공의 적'이 됐나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003737860?sid=101" class="nclicks(rig.secteco)" title="은행들은 왜 '공공의 적'이 됐나">은행들은 왜 '공공의 적'이 됐나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HMM, 친환경 메탄올 컨테이너선 첫 발주 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001586947?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001586947?sid=101"/>
-        <updated>2023-02-14T20:15:35.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586947?sid=101" class="nclicks(rig.secteco)" title="HMM, 친환경 메탄올 컨테이너선 첫 발주">HMM, 친환경 메탄올 컨테이너선 첫 발주</a>]]></content>
+        <title type="html"><![CDATA[HMM 친환경 선박 9척 발주… ‘큰손’ 부상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003339418?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003339418?sid=101"/>
+        <updated>2023-02-14T21:13:59.394Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003339418?sid=101" class="nclicks(rig.secteco)" title="HMM 친환경 선박 9척 발주… ‘큰손’ 부상">HMM 친환경 선박 9척 발주… ‘큰손’ 부상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예 강진, 우리나라 지하수 수위에 변화 줬다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,25 +75,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005424791?sid=105" class="nclicks(rig.secteco)" title="‘적자전환’한 위메이드…“올해 ‘위믹스 3.0’ 중심 글로벌 확장”(상보)">‘적자전환’한 위메이드…“올해 ‘위믹스 3.0’ 중심 글로벌 확장”(상보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰 “금명간 이재명 구속영장 청구 여부 결정…증거인멸 가능성 고려” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003204921?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003204921?sid=102"/>
-        <updated>2023-02-14T19:12:36.093Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003204921?sid=102" class="nclicks(rig.secteco)" title="검찰 “금명간 이재명 구속영장 청구 여부 결정…증거인멸 가능성 고려”">검찰 “금명간 이재명 구속영장 청구 여부 결정…증거인멸 가능성 고려”</a>]]></content>
+        <title type="html"><![CDATA[[법조계에 물어보니 109] 검찰, 부결될 것 알면서 왜 이재명 구속영장 청구할까? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002683847?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002683847?sid=102"/>
+        <updated>2023-02-14T21:13:59.399Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002683847?sid=102" class="nclicks(rig.secteco)" title="[법조계에 물어보니 109] 검찰, 부결될 것 알면서 왜 이재명 구속영장 청구할까?">[법조계에 물어보니 109] 검찰, 부결될 것 알면서 왜 이재명 구속영장 청구할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이태원참사 유가족 "지하 분향소 우리가 제안? 서울시, '언플' 그만하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002382162?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002382162?sid=102"/>
-        <updated>2023-02-14T19:12:36.094Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002382162?sid=102" class="nclicks(rig.secteco)" title="이태원참사 유가족 &quot;지하 분향소 우리가 제안? 서울시, '언플' 그만하라&quot;">이태원참사 유가족 "지하 분향소 우리가 제안? 서울시, '언플' 그만하라"</a>]]></content>
+        <title type="html"><![CDATA["반드시 철거" vs "서울광장 유지"…이태원 분향소 강제철거 수순 밟나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006630838?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006630838?sid=102"/>
+        <updated>2023-02-14T21:13:59.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006630838?sid=102" class="nclicks(rig.secteco)" title="&quot;반드시 철거&quot; vs &quot;서울광장 유지&quot;…이태원 분향소 강제철거 수순 밟나">"반드시 철거" vs "서울광장 유지"…이태원 분향소 강제철거 수순 밟나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 구속영장 청구 임박… 李 “제가 어디 도망간답니까” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001586992?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001586992?sid=102"/>
-        <updated>2023-02-14T20:15:35.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586992?sid=102" class="nclicks(rig.secteco)" title="이재명 구속영장 청구 임박… 李 “제가 어디 도망간답니까”">이재명 구속영장 청구 임박… 李 “제가 어디 도망간답니까”</a>]]></content>
+        <title type="html"><![CDATA[김만배 또 구속 기로...檢 “이재명 영장청구 조만간 결정” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003259740?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003259740?sid=102"/>
+        <updated>2023-02-14T21:13:59.401Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003259740?sid=102" class="nclicks(rig.secteco)" title="김만배 또 구속 기로...檢 “이재명 영장청구 조만간 결정”">김만배 또 구속 기로...檢 “이재명 영장청구 조만간 결정”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이수만, 공개 일정서 ‘웃음’…SM 질문엔 ‘침묵’ [포착] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001586944?sid=103" class="nclicks(rig.secteco)" title="이수만, 공개 일정서 ‘웃음’…SM 질문엔 ‘침묵’ [포착]">이수만, 공개 일정서 ‘웃음’…SM 질문엔 ‘침묵’ [포착]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 아침도 차가운 날씨…강원남부산간 '대설특보' 눈 더온다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003737827?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003737827?sid=103"/>
-        <updated>2023-02-14T20:15:35.897Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003737827?sid=103" class="nclicks(rig.secteco)" title="내일 아침도 차가운 날씨…강원남부산간 '대설특보' 눈 더온다">내일 아침도 차가운 날씨…강원남부산간 '대설특보' 눈 더온다</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 오늘 흐리고 이맘때 추위...동해안 오후까지 비·눈 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001849801?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001849801?sid=103"/>
+        <updated>2023-02-14T21:13:59.408Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001849801?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘 흐리고 이맘때 추위...동해안 오후까지 비·눈">[날씨] 오늘 흐리고 이맘때 추위...동해안 오후까지 비·눈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
