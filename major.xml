@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-15T16:21:19.369Z</updated>
+    <updated>2023-02-15T17:14:03.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['윤심'에서 시작해 '윤핵관'으로 끝났다...與 당대표 첫 TV토론회]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002684215?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002684215?sid=100"/>
-        <updated>2023-02-15T16:20:50.228Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002684215?sid=100" class="nclicks(rig.secteco)" title="'윤심'에서 시작해 '윤핵관'으로 끝났다...與 당대표 첫 TV토론회">'윤심'에서 시작해 '윤핵관'으로 끝났다...與 당대표 첫 TV토론회</a>]]></content>
+        <title type="html"><![CDATA["안철수, 野와 싸워봤나" "김기현, 수도권 험지 가라"…TV토론 충돌]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003260032?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003260032?sid=100"/>
+        <updated>2023-02-15T17:13:35.968Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260032?sid=100" class="nclicks(rig.secteco)" title="&quot;안철수, 野와 싸워봤나&quot; &quot;김기현, 수도권 험지 가라&quot;…TV토론 충돌">"안철수, 野와 싸워봤나" "김기현, 수도권 험지 가라"…TV토론 충돌</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거야, 입법 독주…이번엔 노란봉투법]]></title>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260105?sid=100" class="nclicks(rig.secteco)" title="거야, 입법 독주…이번엔 노란봉투법">거야, 입법 독주…이번엔 노란봉투법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "과점 폐해, 경쟁 촉진"… 은행·통신 '특단의 대책' 지시]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000728895?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000728895?sid=100"/>
-        <updated>2023-02-15T16:20:50.230Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000728895?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;과점 폐해, 경쟁 촉진&quot;… 은행·통신 '특단의 대책' 지시">尹 "과점 폐해, 경쟁 촉진"… 은행·통신 '특단의 대책' 지시</a>]]></content>
+        <title type="html"><![CDATA[尹, "과점 폐해" 은행·통신 특단조치 지시…"공공요금 동결"(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013759482?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013759482?sid=100"/>
+        <updated>2023-02-15T17:13:35.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013759482?sid=100" class="nclicks(rig.secteco)" title="尹, &quot;과점 폐해&quot; 은행·통신 특단조치 지시…&quot;공공요금 동결&quot;(종합2보)">尹, "과점 폐해" 은행·통신 특단조치 지시…"공공요금 동결"(종합2보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 "올해 다른 누군가가 트위터 운영할 수도 있어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006633393?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006633393?sid=104"/>
+        <updated>2023-02-15T17:13:35.977Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006633393?sid=104" class="nclicks(rig.secteco)" title="머스크 &quot;올해 다른 누군가가 트위터 운영할 수도 있어&quot;">머스크 "올해 다른 누군가가 트위터 운영할 수도 있어"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, 한국인 단기비자 발급 18일부터 재개]]></title>
@@ -34,25 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260094?sid=104" class="nclicks(rig.secteco)" title="중국, 한국인 단기비자 발급 18일부터 재개">중국, 한국인 단기비자 발급 18일부터 재개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[머스크 연일 '구설'…한밤중 트위터 알고리즘 수정한 직원들]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005218666?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005218666?sid=104"/>
-        <updated>2023-02-15T11:12:37.053Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005218666?sid=104" class="nclicks(rig.secteco)" title="머스크 연일 '구설'…한밤중 트위터 알고리즘 수정한 직원들">머스크 연일 '구설'…한밤중 트위터 알고리즘 수정한 직원들</a>]]></content>
+        <title type="html"><![CDATA[“4만 반도체 양병 키우자”…송호근·김기남·박정호 머리 맞댔다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003260022?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003260022?sid=101"/>
+        <updated>2023-02-15T17:13:35.982Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260022?sid=101" class="nclicks(rig.secteco)" title="“4만 반도체 양병 키우자”…송호근·김기남·박정호 머리 맞댔다">“4만 반도체 양병 키우자”…송호근·김기남·박정호 머리 맞댔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박정호 “AI 챗봇, 반도체 수요 ‘새 킬러 앱’ 될 것” 김기남 “첨단 기술 경쟁력 창출, 인력이 가장 중요”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003783949?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003783949?sid=101"/>
-        <updated>2023-02-15T16:20:50.230Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003783949?sid=101" class="nclicks(rig.secteco)" title="박정호 “AI 챗봇, 반도체 수요 ‘새 킬러 앱’ 될 것” 김기남 “첨단 기술 경쟁력 창출, 인력이 가장 중요”">박정호 “AI 챗봇, 반도체 수요 ‘새 킬러 앱’ 될 것” 김기남 “첨단 기술 경쟁력 창출, 인력이 가장 중요”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규제샌드박스 4년… 10조원 이상 투자유치 성과]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003783955?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003783955?sid=101"/>
-        <updated>2023-02-15T16:20:50.231Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003783955?sid=101" class="nclicks(rig.secteco)" title="규제샌드박스 4년… 10조원 이상 투자유치 성과">규제샌드박스 4년… 10조원 이상 투자유치 성과</a>]]></content>
+        <title type="html"><![CDATA[최태원의 '新 메가 샌드박스론'…"기업 아닌 산업 단위로 규제 유예하자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005425460?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005425460?sid=101"/>
+        <updated>2023-02-15T17:13:35.983Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005425460?sid=101" class="nclicks(rig.secteco)" title="최태원의 '新 메가 샌드박스론'…&quot;기업 아닌 산업 단위로 규제 유예하자&quot;">최태원의 '新 메가 샌드박스론'…"기업 아닌 산업 단위로 규제 유예하자"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오, SM엔터 인수전에 'CJ 우군' 확보할까]]></title>
