@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-16T04:18:07.765Z</updated>
+    <updated>2023-02-16T05:14:58.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260163?sid=100" class="nclicks(rig.secteco)" title="이재명 구속영장 청구…민주 &quot;군사정권도 못했던 檢 만행 분노&quot;">이재명 구속영장 청구…민주 "군사정권도 못했던 檢 만행 분노"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주, 구속영장에 "전대미문 폭거"…이재명, 오후 입장 낼 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000332441?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000332441?sid=100"/>
-        <updated>2023-02-16T04:17:40.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000332441?sid=100" class="nclicks(rig.secteco)" title="민주, 구속영장에 &quot;전대미문 폭거&quot;…이재명, 오후 입장 낼 듯">민주, 구속영장에 "전대미문 폭거"…이재명, 오후 입장 낼 듯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004852016?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004852016?sid=104"/>
-        <updated>2023-02-16T04:17:40.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004852016?sid=104" class="nclicks(rig.secteco)" title="세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억">세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억</a>]]></content>
+        <title type="html"><![CDATA[이재명 구속영장 청구…체포동의안, 부결 전망 속 野 이탈표 가능성도]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006634787?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006634787?sid=100"/>
+        <updated>2023-02-16T05:14:27.799Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006634787?sid=100" class="nclicks(rig.secteco)" title="이재명 구속영장 청구…체포동의안, 부결 전망 속 野 이탈표 가능성도">이재명 구속영장 청구…체포동의안, 부결 전망 속 野 이탈표 가능성도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["탱크 절반 잃은 러…드론 아끼려 띄운 풍선 6개 격추됐다"]]></title>
@@ -41,11 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260185?sid=104" class="nclicks(rig.secteco)" title="&quot;탱크 절반 잃은 러…드론 아끼려 띄운 풍선 6개 격추됐다&quot;">"탱크 절반 잃은 러…드론 아끼려 띄운 풍선 6개 격추됐다"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004852016?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004852016?sid=104"/>
+        <updated>2023-02-16T04:17:40.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004852016?sid=104" class="nclicks(rig.secteco)" title="세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억">세계서 가장 오래된 '히브리어 성경책' 경매로…낙찰 추정가 최대 645억</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["심플한 게임" 이수만 녹취 깠다…'선생님' 호칭 버린 SM의 반격]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003260178?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003260178?sid=101"/>
         <updated>2023-02-16T04:17:40.920Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260178?sid=101" class="nclicks(rig.secteco)" title="&quot;심플한 게임&quot; 이수만 녹취 깠다…'선생님' 호칭 버린 SM의 반격">"심플한 게임" 이수만 녹취 깠다…'선생님' 호칭 버린 SM의 반격</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공정위 '조사관리관' 신설…"'경제 사법부처' 기능 강화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000033236?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000033236?sid=101"/>
+        <updated>2023-02-16T05:14:27.809Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000033236?sid=101" class="nclicks(rig.secteco)" title="공정위 '조사관리관' 신설…&quot;'경제 사법부처' 기능 강화&quot;">공정위 '조사관리관' 신설…"'경제 사법부처' 기능 강화"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SM 이성수의 반격 "이수만, 에스파까지 부동산 욕심에 동원"]]></title>
@@ -55,46 +62,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260143?sid=101" class="nclicks(rig.secteco)" title="SM 이성수의 반격 &quot;이수만, 에스파까지 부동산 욕심에 동원&quot;">SM 이성수의 반격 "이수만, 에스파까지 부동산 욕심에 동원"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장학퀴즈 50주년…최태원 회장 “청소년, 변화를 창조의 기회로 삼기를”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002105061?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002105061?sid=101"/>
-        <updated>2023-02-16T04:17:40.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002105061?sid=101" class="nclicks(rig.secteco)" title="장학퀴즈 50주년…최태원 회장 “청소년, 변화를 창조의 기회로 삼기를”">장학퀴즈 50주년…최태원 회장 “청소년, 변화를 창조의 기회로 삼기를”</a>]]></content>
+        <title type="html"><![CDATA[위메이드 '위믹스' 퇴출 71일 만에 복귀…"200원→2000원"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004851953?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004851953?sid=105"/>
+        <updated>2023-02-16T05:14:27.810Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004851953?sid=105" class="nclicks(rig.secteco)" title="위메이드 '위믹스' 퇴출 71일 만에 복귀…&quot;200원→2000원&quot;">위메이드 '위믹스' 퇴출 71일 만에 복귀…"200원→2000원"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['위믹스' 상폐 코인원, 두 달만에 재상장...왜?]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002282873?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002282873?sid=105"/>
-        <updated>2023-02-16T04:17:40.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002282873?sid=105" class="nclicks(rig.secteco)" title="'위믹스' 상폐 코인원, 두 달만에 재상장...왜?">'위믹스' 상폐 코인원, 두 달만에 재상장...왜?</a>]]></content>
+        <title type="html"><![CDATA[삼성전자, 갤럭시S22도 16일부터 S23처럼 쓴다]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000040117?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000040117?sid=105"/>
+        <updated>2023-02-16T05:14:27.811Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000040117?sid=105" class="nclicks(rig.secteco)" title="삼성전자, 갤럭시S22도 16일부터 S23처럼 쓴다">삼성전자, 갤럭시S22도 16일부터 S23처럼 쓴다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["갤S23 수준 카메라"…삼성, 원 UI 5.1 OS 업데이트 시작]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004156963?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004156963?sid=105"/>
-        <updated>2023-02-16T02:46:01.307Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004156963?sid=105" class="nclicks(rig.secteco)" title="&quot;갤S23 수준 카메라&quot;…삼성, 원 UI 5.1 OS 업데이트 시작">"갤S23 수준 카메라"…삼성, 원 UI 5.1 OS 업데이트 시작</a>]]></content>
+        <title type="html"><![CDATA[이재명 영장 청구…“대장동 배임 4895억·성남FC 뇌물 133억”[종합]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002105107?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002105107?sid=102"/>
+        <updated>2023-02-16T05:14:27.813Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002105107?sid=102" class="nclicks(rig.secteco)" title="이재명 영장 청구…“대장동 배임 4895억·성남FC 뇌물 133억”[종합]">이재명 영장 청구…“대장동 배임 4895억·성남FC 뇌물 133억”[종합]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰, '4895억 배임·133억 뇌물' 이재명 영장(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013760936?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013760936?sid=102"/>
-        <updated>2023-02-16T04:17:40.924Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013760936?sid=102" class="nclicks(rig.secteco)" title="검찰, '4895억 배임·133억 뇌물' 이재명 영장(종합2보)">검찰, '4895억 배임·133억 뇌물' 이재명 영장(종합2보)</a>]]></content>
+        <title type="html"><![CDATA['멍투성이' 12살 학대해 숨지게 한 계모 "사죄하는 마음 뿐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003738458?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003738458?sid=102"/>
+        <updated>2023-02-16T05:14:27.815Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003738458?sid=102" class="nclicks(rig.secteco)" title="'멍투성이' 12살 학대해 숨지게 한 계모 &quot;사죄하는 마음 뿐&quot;">'멍투성이' 12살 학대해 숨지게 한 계모 "사죄하는 마음 뿐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['멍투성이 사망' 12세 학대살해 계모…"사죄하는 마음뿐"]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004157162?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004157162?sid=102"/>
-        <updated>2023-02-16T04:17:40.925Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004157162?sid=102" class="nclicks(rig.secteco)" title="'멍투성이 사망' 12세 학대살해 계모…&quot;사죄하는 마음뿐&quot;">'멍투성이 사망' 12세 학대살해 계모…"사죄하는 마음뿐"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['TV조선 재승인' 한상혁 방통위원장 입건...자택 등 압수수색]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001850436?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001850436?sid=102"/>
-        <updated>2023-02-16T04:17:40.926Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001850436?sid=102" class="nclicks(rig.secteco)" title="'TV조선 재승인' 한상혁 방통위원장 입건...자택 등 압수수색">'TV조선 재승인' 한상혁 방통위원장 입건...자택 등 압수수색</a>]]></content>
+        <title type="html"><![CDATA[검찰, ‘TV조선 재승인 의혹’ 방통위원장실·주거지 압수수색]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011429736?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011429736?sid=102"/>
+        <updated>2023-02-16T05:14:27.817Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011429736?sid=102" class="nclicks(rig.secteco)" title="검찰, ‘TV조선 재승인 의혹’ 방통위원장실·주거지 압수수색">검찰, ‘TV조선 재승인 의혹’ 방통위원장실·주거지 압수수색</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차, ‘2023 마이티’ 출시… 출고가 5084만원부터]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003480110?sid=103" class="nclicks(rig.secteco)" title="현대차, ‘2023 마이티’ 출시… 출고가 5084만원부터">현대차, ‘2023 마이티’ 출시… 출고가 5084만원부터</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 최고의 금속활자본 ‘직지’, 한국에선 언제 볼 수있을까···프랑스서 50년 만에 전시]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003205449?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003205449?sid=103"/>
-        <updated>2023-02-16T04:17:40.928Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003205449?sid=103" class="nclicks(rig.secteco)" title="세계 최고의 금속활자본 ‘직지’, 한국에선 언제 볼 수있을까···프랑스서 50년 만에 전시">세계 최고의 금속활자본 ‘직지’, 한국에선 언제 볼 수있을까···프랑스서 50년 만에 전시</a>]]></content>
+        <title type="html"><![CDATA[“챙겨먹길 잘했다”...이 약을 복용했는데 치매 예방해준다고?]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005089390?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005089390?sid=103"/>
+        <updated>2023-02-16T05:14:27.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005089390?sid=103" class="nclicks(rig.secteco)" title="“챙겨먹길 잘했다”...이 약을 복용했는데 치매 예방해준다고?">“챙겨먹길 잘했다”...이 약을 복용했는데 치매 예방해준다고?</a>]]></content>
     </entry>
 </feed>
