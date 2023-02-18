@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-18T02:42:44.636Z</updated>
+    <updated>2023-02-18T03:15:29.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김정은, 어제 김주애·김여정과 스포츠 관람…딸 옆에서 담배(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013764488?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013764488?sid=100"/>
+        <updated>2023-02-18T03:15:04.336Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013764488?sid=100" class="nclicks(rig.secteco)" title="김정은, 어제 김주애·김여정과 스포츠 관람…딸 옆에서 담배(종합)">김정은, 어제 김주애·김여정과 스포츠 관람…딸 옆에서 담배(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與선관위마저 기울어진 운동장?…‘사면초가’ 안철수]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011430952?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011430952?sid=100" class="nclicks(rig.secteco)" title="與선관위마저 기울어진 운동장?…‘사면초가’ 안철수">與선관위마저 기울어진 운동장?…‘사면초가’ 안철수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北김정은 딸 주애는 중앙… 동생 김여정은 구석에 [포착]]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001587828?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001587828?sid=100"/>
-        <updated>2023-02-18T01:09:15.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001587828?sid=100" class="nclicks(rig.secteco)" title="北김정은 딸 주애는 중앙… 동생 김여정은 구석에 [포착]">北김정은 딸 주애는 중앙… 동생 김여정은 구석에 [포착]</a>]]></content>
+        <title type="html"><![CDATA[곽튜브 언급한 이재명 “학폭은 한 사람의 인생이 달린 문제”]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005427312?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005427312?sid=100"/>
+        <updated>2023-02-18T03:15:04.339Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427312?sid=100" class="nclicks(rig.secteco)" title="곽튜브 언급한 이재명 “학폭은 한 사람의 인생이 달린 문제”">곽튜브 언급한 이재명 “학폭은 한 사람의 인생이 달린 문제”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 “학폭은 한 사람 인생이 달린 민생 문제…개선방안 꼼꼼히 살피겠다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002557286?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002557286?sid=100"/>
-        <updated>2023-02-18T02:42:16.376Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002557286?sid=100" class="nclicks(rig.secteco)" title="이재명 “학폭은 한 사람 인생이 달린 민생 문제…개선방안 꼼꼼히 살피겠다”">이재명 “학폭은 한 사람 인생이 달린 민생 문제…개선방안 꼼꼼히 살피겠다”</a>]]></content>
+        <title type="html"><![CDATA["여자 전성기 40대까지" CNN 앵커 발언에 경영진 '경고']]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004157910?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004157910?sid=104"/>
+        <updated>2023-02-18T03:15:04.341Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004157910?sid=104" class="nclicks(rig.secteco)" title="&quot;여자 전성기 40대까지&quot; CNN 앵커 발언에 경영진 '경고'">"여자 전성기 40대까지" CNN 앵커 발언에 경영진 '경고'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["여성의 전성기는 40대까지" 실언한 CNN 앵커, 경고받았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001723382?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001723382?sid=104"/>
-        <updated>2023-02-18T02:42:16.377Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001723382?sid=104" class="nclicks(rig.secteco)" title="&quot;여성의 전성기는 40대까지&quot; 실언한 CNN 앵커, 경고받았다">"여성의 전성기는 40대까지" 실언한 CNN 앵커, 경고받았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미중 '풍선' 갈등 소강국면…이번 주말 뮌헨에 쏠린 눈]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003739200?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003739200?sid=104"/>
-        <updated>2023-02-18T01:09:15.814Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003739200?sid=104" class="nclicks(rig.secteco)" title="미중 '풍선' 갈등 소강국면…이번 주말 뮌헨에 쏠린 눈">미중 '풍선' 갈등 소강국면…이번 주말 뮌헨에 쏠린 눈</a>]]></content>
+        <title type="html"><![CDATA[[AI 그림자 上]핵 발사 코드 얻겠다는 MS '빙'…"인간 되고파"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011698838?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011698838?sid=104"/>
+        <updated>2023-02-18T03:15:04.343Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011698838?sid=104" class="nclicks(rig.secteco)" title="[AI 그림자 上]핵 발사 코드 얻겠다는 MS '빙'…&quot;인간 되고파&quot;">[AI 그림자 上]핵 발사 코드 얻겠다는 MS '빙'…"인간 되고파"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]SM 직원 "하이브, 독립성 약속? 레이블 관여 공공연"]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000032838?sid=101" class="nclicks(rig.secteco)" title="경유-휘발유 가격차 재역전 초읽기…휘발유 1577.3원·경유 1608.9원">경유-휘발유 가격차 재역전 초읽기…휘발유 1577.3원·경유 1608.9원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘카톡 광고’ 본 여성, 남성보다 구매율 1.4배↑…다른 요인은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005090286?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005090286?sid=105"/>
-        <updated>2023-02-18T02:42:16.394Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005090286?sid=105" class="nclicks(rig.secteco)" title="‘카톡 광고’ 본 여성, 남성보다 구매율 1.4배↑…다른 요인은?">‘카톡 광고’ 본 여성, 남성보다 구매율 1.4배↑…다른 요인은?</a>]]></content>
+        <title type="html"><![CDATA[카톡·유튜브 광고 많이 보는 당신, 나이가…?]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005219814?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005219814?sid=105"/>
+        <updated>2023-02-18T03:15:04.350Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005219814?sid=105" class="nclicks(rig.secteco)" title="카톡·유튜브 광고 많이 보는 당신, 나이가…?">카톡·유튜브 광고 많이 보는 당신, 나이가…?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['한국형 NASA' 우주항공청, 연봉상한 없애고 백지신탁 예외]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013762536?sid=105" class="nclicks(rig.secteco)" title="'한국형 NASA' 우주항공청, 연봉상한 없애고 백지신탁 예외">'한국형 NASA' 우주항공청, 연봉상한 없애고 백지신탁 예외</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 검찰 “김만배 숨긴 돈, 김씨 아닌 윗선 몫”…이재명 염두]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002627830?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002627830?sid=102"/>
-        <updated>2023-02-18T02:42:16.397Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002627830?sid=102" class="nclicks(rig.secteco)" title="[단독] 검찰 “김만배 숨긴 돈, 김씨 아닌 윗선 몫”…이재명 염두">[단독] 검찰 “김만배 숨긴 돈, 김씨 아닌 윗선 몫”…이재명 염두</a>]]></content>
+        <title type="html"><![CDATA[두 번의 구속 김만배... 입 열면 대장동 의혹 새 국면]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000034626?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000034626?sid=102"/>
+        <updated>2023-02-18T03:15:04.353Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000034626?sid=102" class="nclicks(rig.secteco)" title="두 번의 구속 김만배... 입 열면 대장동 의혹 새 국면">두 번의 구속 김만배... 입 열면 대장동 의혹 새 국면</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 체포동의 절차 개시…법원, 검찰에 요구서 송부]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000584780?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000584780?sid=102"/>
-        <updated>2023-02-18T02:42:16.398Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000584780?sid=102" class="nclicks(rig.secteco)" title="이재명 체포동의 절차 개시…법원, 검찰에 요구서 송부">이재명 체포동의 절차 개시…법원, 검찰에 요구서 송부</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/448/0000395883?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000395883?sid=102"/>
+        <updated>2023-02-18T03:15:04.355Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000395883?sid=102" class="nclicks(rig.secteco)" title="이재명 체포동의 절차 개시…법원, 검찰에 요구서 송부">이재명 체포동의 절차 개시…법원, 검찰에 요구서 송부</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[검찰, 'TV조선 재승인 의혹' 고강도 수사...한상혁 정조준]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001851258?sid=102" class="nclicks(rig.secteco)" title="검찰, 'TV조선 재승인 의혹' 고강도 수사...한상혁 정조준">검찰, 'TV조선 재승인 의혹' 고강도 수사...한상혁 정조준</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일요일까지 전국에 비나 눈, 일요일까지 미세먼지 ‘나쁨’]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003205683?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003205683?sid=103"/>
-        <updated>2023-02-18T02:42:16.401Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003205683?sid=103" class="nclicks(rig.secteco)" title="일요일까지 전국에 비나 눈, 일요일까지 미세먼지 ‘나쁨’">일요일까지 전국에 비나 눈, 일요일까지 미세먼지 ‘나쁨’</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국에 단비, 남부 최고 20mm...미세먼지 주의]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001851272?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001851272?sid=103"/>
+        <updated>2023-02-18T03:15:04.358Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001851272?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국에 단비, 남부 최고 20mm...미세먼지 주의">[날씨] 전국에 단비, 남부 최고 20mm...미세먼지 주의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 오늘(토요일) 차츰 전국 비·눈...서쪽 대기 질 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001851245?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001851245?sid=103"/>
-        <updated>2023-02-18T01:09:15.838Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001851245?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘(토요일) 차츰 전국 비·눈...서쪽 대기 질 '나쁨'">[날씨] 오늘(토요일) 차츰 전국 비·눈...서쪽 대기 질 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA["30시간 만에 책 집필" 챗GPT, 출판계 판도 흔들까]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004157902?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004157902?sid=103"/>
+        <updated>2023-02-18T03:15:04.359Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004157902?sid=103" class="nclicks(rig.secteco)" title="&quot;30시간 만에 책 집필&quot; 챗GPT, 출판계 판도 흔들까">"30시간 만에 책 집필" 챗GPT, 출판계 판도 흔들까</a>]]></content>
     </entry>
 </feed>
