@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-18T15:14:04.964Z</updated>
+    <updated>2023-02-18T16:18:23.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003747109?sid=100" class="nclicks(rig.secteco)" title="[단독] 北 올해 첫 ICBM 발사…“김정은, 딸 주애 데리고 참관”">[단독] 北 올해 첫 ICBM 발사…“김정은, 딸 주애 데리고 참관”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011699065?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011699065?sid=100"/>
-        <updated>2023-02-18T13:18:52.505Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011699065?sid=100" class="nclicks(rig.secteco)" title="튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]">튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] 여야, “이재명 체포동의안, ‘27일 표결’ 잠정 합의”]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011430974?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011430974?sid=100"/>
         <updated>2023-02-18T12:24:53.079Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011430974?sid=100" class="nclicks(rig.secteco)" title="[단독] 여야, “이재명 체포동의안, ‘27일 표결’ 잠정 합의”">[단독] 여야, “이재명 체포동의안, ‘27일 표결’ 잠정 합의”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011699065?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011699065?sid=100"/>
+        <updated>2023-02-18T13:18:52.505Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011699065?sid=100" class="nclicks(rig.secteco)" title="튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]">튀르키예 파견 마치고 돌아온 긴급구호대 [뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북, 3달 만에 ICBM 고각발사한 듯…“미 본토 사정권”]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002628004?sid=104" class="nclicks(rig.secteco)" title="북, 3달 만에 ICBM 고각발사한 듯…“미 본토 사정권”">북, 3달 만에 ICBM 고각발사한 듯…“미 본토 사정권”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 증권 당국 "'테라' 권도형, 비트코인 1만개 빼돌렸다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001254831?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001254831?sid=104"/>
-        <updated>2023-02-18T12:24:53.081Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001254831?sid=104" class="nclicks(rig.secteco)" title="미 증권 당국 &quot;'테라' 권도형, 비트코인 1만개 빼돌렸다&quot;">미 증권 당국 "'테라' 권도형, 비트코인 1만개 빼돌렸다"</a>]]></content>
+        <title type="html"><![CDATA["전 재산 잃었다더니"…'테라' 권도형 비트코인 1만개 빼돌렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004852791?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004852791?sid=104"/>
+        <updated>2023-02-18T16:17:56.703Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004852791?sid=104" class="nclicks(rig.secteco)" title="&quot;전 재산 잃었다더니&quot;…'테라' 권도형 비트코인 1만개 빼돌렸다">"전 재산 잃었다더니"…'테라' 권도형 비트코인 1만개 빼돌렸다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EU, 대한항공-아시아나 합병 2단계 심사…7월 결론 방침]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000020709?sid=101" class="nclicks(rig.secteco)" title="&quot;반갑다 경유&quot; 10개월 만에, 휘발유보다 싸네 .. 이어질까">"반갑다 경유" 10개월 만에, 휘발유보다 싸네 .. 이어질까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[OK!제보] 삼립빵 '보름이' 도용 논란…"고객 아이디어" 주장]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013764480?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013764480?sid=101"/>
-        <updated>2023-02-18T15:13:35.378Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013764480?sid=101" class="nclicks(rig.secteco)" title="[OK!제보] 삼립빵 '보름이' 도용 논란…&quot;고객 아이디어&quot; 주장">[OK!제보] 삼립빵 '보름이' 도용 논란…"고객 아이디어" 주장</a>]]></content>
+        <title type="html"><![CDATA["한우가 반값이라니"…새벽부터 수백명 '오픈런']]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001083714?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001083714?sid=101"/>
+        <updated>2023-02-18T16:17:56.708Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001083714?sid=101" class="nclicks(rig.secteco)" title="&quot;한우가 반값이라니&quot;…새벽부터 수백명 '오픈런'">"한우가 반값이라니"…새벽부터 수백명 '오픈런'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스타트업리뷰] 24시간 인공지능 관리, 보라웨어 검색광고 AI 써 보니]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011431019?sid=105" class="nclicks(rig.secteco)" title="[경제대기권] ‘고통 분담’요구에 통신요금 또 찔끔 인하?">[경제대기권] ‘고통 분담’요구에 통신요금 또 찔끔 인하?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘340억 범죄수익은닉’ 김만배 재구속…“증거인멸·도주 우려”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011431015?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011431015?sid=102"/>
-        <updated>2023-02-18T13:18:52.521Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011431015?sid=102" class="nclicks(rig.secteco)" title="‘340억 범죄수익은닉’ 김만배 재구속…“증거인멸·도주 우려”">‘340억 범죄수익은닉’ 김만배 재구속…“증거인멸·도주 우려”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["부끄럽게도 지난 20년 동안 제대로 이루지 못했다"]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002382605?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002382605?sid=102"/>
         <updated>2023-02-18T14:12:13.824Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002382605?sid=102" class="nclicks(rig.secteco)" title="&quot;부끄럽게도 지난 20년 동안 제대로 이루지 못했다&quot;">"부끄럽게도 지난 20년 동안 제대로 이루지 못했다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재구속 된 김만배…'재판거래'·'428억원 약속' 입열까]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013764659?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013764659?sid=102"/>
+        <updated>2023-02-18T16:17:56.714Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013764659?sid=102" class="nclicks(rig.secteco)" title="재구속 된 김만배…'재판거래'·'428억원 약속' 입열까">재구속 된 김만배…'재판거래'·'428억원 약속' 입열까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 이화영, 돌연 존대... 김성태 “형·동생 20년인데, 정치인 정말 무섭다”]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003747064?sid=102" class="nclicks(rig.secteco)" title="[단독] 이화영, 돌연 존대... 김성태 “형·동생 20년인데, 정치인 정말 무섭다”">[단독] 이화영, 돌연 존대... 김성태 “형·동생 20년인데, 정치인 정말 무섭다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 전국 눈·비···수도권 미세먼지 ‘매우나쁨’]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003205862?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003205862?sid=103"/>
-        <updated>2023-02-18T12:24:53.092Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003205862?sid=103" class="nclicks(rig.secteco)" title="내일 전국 눈·비···수도권 미세먼지 ‘매우나쁨’">내일 전국 눈·비···수도권 미세먼지 ‘매우나쁨’</a>]]></content>
+        <title type="html"><![CDATA[전국 곳곳 흐리고 눈·비…수도권·충청권 등 미세먼지 ‘나쁨’]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005090248?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005090248?sid=103"/>
+        <updated>2023-02-18T16:17:56.718Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005090248?sid=103" class="nclicks(rig.secteco)" title="전국 곳곳 흐리고 눈·비…수도권·충청권 등 미세먼지 ‘나쁨’">전국 곳곳 흐리고 눈·비…수도권·충청권 등 미세먼지 ‘나쁨’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]SM 직원 "하이브, 독립성 약속? 레이블 관여 공공연"]]></title>
