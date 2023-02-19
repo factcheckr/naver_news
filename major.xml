@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-19T07:13:42.808Z</updated>
+    <updated>2023-02-19T08:18:11.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, B-1B 폭격기 띄웠다… 北ICBM 도발에 한미 맞불 연합훈련]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003747141?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003747141?sid=100"/>
+        <updated>2023-02-19T08:17:45.276Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003747141?sid=100" class="nclicks(rig.secteco)" title="美, B-1B 폭격기 띄웠다… 北ICBM 도발에 한미 맞불 연합훈련">美, B-1B 폭격기 띄웠다… 北ICBM 도발에 한미 맞불 연합훈련</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 체포동의안 임박…野 "불체포특권은 이럴 때 쓰는 것"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005427612?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005427612?sid=100"/>
+        <updated>2023-02-19T08:17:45.277Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427612?sid=100" class="nclicks(rig.secteco)" title="이재명 체포동의안 임박…野 &quot;불체포특권은 이럴 때 쓰는 것&quot;(종합)">이재명 체포동의안 임박…野 "불체포특권은 이럴 때 쓰는 것"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바보·남조선것들' 열병식 때 모퉁이 섰던 김여정 또 막말]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013765844?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013765844?sid=100"/>
         <updated>2023-02-19T07:13:12.888Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013765844?sid=100" class="nclicks(rig.secteco)" title="'바보·남조선것들' 열병식 때 모퉁이 섰던 김여정 또 막말">'바보·남조선것들' 열병식 때 모퉁이 섰던 김여정 또 막말</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당심 호소 안철수 "책임당원이 비례공천 순위 결정, 군림하던 현역 공천심사"]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002784936?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002784936?sid=100"/>
-        <updated>2023-02-19T06:17:13.086Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002784936?sid=100" class="nclicks(rig.secteco)" title="당심 호소 안철수 &quot;책임당원이 비례공천 순위 결정, 군림하던 현역 공천심사&quot;">당심 호소 안철수 "책임당원이 비례공천 순위 결정, 군림하던 현역 공천심사"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與, ‘이재명 체포동의안’ 공세…“개인비리에 왜 野 의원들이 홍위병 되나”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000878784?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000878784?sid=100"/>
-        <updated>2023-02-19T07:13:12.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000878784?sid=100" class="nclicks(rig.secteco)" title="與, ‘이재명 체포동의안’ 공세…“개인비리에 왜 野 의원들이 홍위병 되나”">與, ‘이재명 체포동의안’ 공세…“개인비리에 왜 野 의원들이 홍위병 되나”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[北 ICBM 발사 또 성공했지만 뾰족한 대안 없는 한미일]]></title>
@@ -34,25 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427631?sid=104" class="nclicks(rig.secteco)" title="北 ICBM 발사 또 성공했지만 뾰족한 대안 없는 한미일">北 ICBM 발사 또 성공했지만 뾰족한 대안 없는 한미일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["美주권 위협""히스테리"…미·중 외교수장 각자 할말만 했다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003260652?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003260652?sid=104"/>
-        <updated>2023-02-19T07:13:12.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260652?sid=104" class="nclicks(rig.secteco)" title="&quot;美주권 위협&quot;&quot;히스테리&quot;…미·중 외교수장 각자 할말만 했다">"美주권 위협""히스테리"…미·중 외교수장 각자 할말만 했다</a>]]></content>
+        <title type="html"><![CDATA[“정찰풍선 NO” “미국 무력 남용 NO”...사사건건 각 세운 미중 외교수장]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000724297?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000724297?sid=104"/>
+        <updated>2023-02-19T08:17:45.282Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000724297?sid=104" class="nclicks(rig.secteco)" title="“정찰풍선 NO” “미국 무력 남용 NO”...사사건건 각 세운 미중 외교수장">“정찰풍선 NO” “미국 무력 남용 NO”...사사건건 각 세운 미중 외교수장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년 소주·맥주 등 술값 6%↑…올해 '소주 6천원' 현실화되나]]></title>
-        <id>https://n.news.naver.com/mnews/article/666/0000004122?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/666/0000004122?sid=101"/>
-        <updated>2023-02-19T07:13:12.900Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/666/0000004122?sid=101" class="nclicks(rig.secteco)" title="작년 소주·맥주 등 술값 6%↑…올해 '소주 6천원' 현실화되나">작년 소주·맥주 등 술값 6%↑…올해 '소주 6천원' 현실화되나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이오닉5, 獨유력지 평가서 벤츠 EQB 멀찍이 따돌렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004971209?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004971209?sid=101"/>
-        <updated>2023-02-19T07:13:12.906Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004971209?sid=101" class="nclicks(rig.secteco)" title="아이오닉5, 獨유력지 평가서 벤츠 EQB 멀찍이 따돌렸다">아이오닉5, 獨유력지 평가서 벤츠 EQB 멀찍이 따돌렸다</a>]]></content>
+        <title type="html"><![CDATA[이러다 소주 6,000원, 맥주 8,000원 기본.. '귀한 술' 되겠네]]></title>
+        <id>https://n.news.naver.com/mnews/article/661/0000020727?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/661/0000020727?sid=101"/>
+        <updated>2023-02-19T08:17:45.283Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000020727?sid=101" class="nclicks(rig.secteco)" title="이러다 소주 6,000원, 맥주 8,000원 기본.. '귀한 술' 되겠네">이러다 소주 6,000원, 맥주 8,000원 기본.. '귀한 술' 되겠네</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김병준에게 '소방수' 역할 맡긴 전경련…재계 갸우뚱[이슈포커스]]]></title>
@@ -62,18 +55,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427604?sid=101" class="nclicks(rig.secteco)" title="김병준에게 '소방수' 역할 맡긴 전경련…재계 갸우뚱[이슈포커스]">김병준에게 '소방수' 역할 맡긴 전경련…재계 갸우뚱[이슈포커스]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스코ICT, '포스코DX'로 이름 바꾼다…"산업용 로봇·스마트 물류 사업 키울 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000724275?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000724275?sid=105"/>
-        <updated>2023-02-19T07:13:12.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000724275?sid=105" class="nclicks(rig.secteco)" title="포스코ICT, '포스코DX'로 이름 바꾼다…&quot;산업용 로봇·스마트 물류 사업 키울 것&quot;">포스코ICT, '포스코DX'로 이름 바꾼다…"산업용 로봇·스마트 물류 사업 키울 것"</a>]]></content>
+        <title type="html"><![CDATA[원희룡 "눈물의 감사 프로모션 못할 망정"…대한항공 재차 직격]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013765987?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013765987?sid=101"/>
+        <updated>2023-02-19T08:17:45.284Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013765987?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;눈물의 감사 프로모션 못할 망정&quot;…대한항공 재차 직격">원희룡 "눈물의 감사 프로모션 못할 망정"…대한항공 재차 직격</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기정통부, 신산업 주파수 확보 아·태 공동협력 추진]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005219968?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005219968?sid=105"/>
-        <updated>2023-02-19T07:13:12.916Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005219968?sid=105" class="nclicks(rig.secteco)" title="과기정통부, 신산업 주파수 확보 아·태 공동협력 추진">과기정통부, 신산업 주파수 확보 아·태 공동협력 추진</a>]]></content>
+        <title type="html"><![CDATA[KT 차기 CEO에 KT 전·현직 대거 출사표…‘경륜’이냐 ‘패기’냐]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005427645?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005427645?sid=105"/>
+        <updated>2023-02-19T08:17:45.285Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427645?sid=105" class="nclicks(rig.secteco)" title="KT 차기 CEO에 KT 전·현직 대거 출사표…‘경륜’이냐 ‘패기’냐">KT 차기 CEO에 KT 전·현직 대거 출사표…‘경륜’이냐 ‘패기’냐</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포스코ICT 새 이름 '포스코DX']]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005090580?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005090580?sid=105"/>
+        <updated>2023-02-19T08:17:45.286Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005090580?sid=105" class="nclicks(rig.secteco)" title="포스코ICT 새 이름 '포스코DX'">포스코ICT 새 이름 '포스코DX'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘재수감 첫 검찰조사’ 김만배…추가 은닉자금·‘50억 클럽’ 밝혀내나]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002106028?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002106028?sid=102"/>
+        <updated>2023-02-19T08:17:45.288Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002106028?sid=102" class="nclicks(rig.secteco)" title="‘재수감 첫 검찰조사’ 김만배…추가 은닉자금·‘50억 클럽’ 밝혀내나">‘재수감 첫 검찰조사’ 김만배…추가 은닉자금·‘50억 클럽’ 밝혀내나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특전사동지회, 5·18 묘지 ‘기습 참배’…모두가 반기지는 않은 ‘화해’]]></title>
@@ -83,31 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002628048?sid=102" class="nclicks(rig.secteco)" title="특전사동지회, 5·18 묘지 ‘기습 참배’…모두가 반기지는 않은 ‘화해’">특전사동지회, 5·18 묘지 ‘기습 참배’…모두가 반기지는 않은 ‘화해’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김만배 다시 구치소로…이재명 '428억 약정' 수사 향배는]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005427611?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005427611?sid=102"/>
-        <updated>2023-02-19T07:13:12.917Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005427611?sid=102" class="nclicks(rig.secteco)" title="김만배 다시 구치소로…이재명 '428억 약정' 수사 향배는">김만배 다시 구치소로…이재명 '428억 약정' 수사 향배는</a>]]></content>
+        <title type="html"><![CDATA[경기도교육청 홈페이지 해킹에 개인정보 유출?…경찰, 수사]]></title>
+        <id>https://n.news.naver.com/mnews/article/666/0000004140?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/666/0000004140?sid=102"/>
+        <updated>2023-02-19T08:17:45.290Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/666/0000004140?sid=102" class="nclicks(rig.secteco)" title="경기도교육청 홈페이지 해킹에 개인정보 유출?…경찰, 수사">경기도교육청 홈페이지 해킹에 개인정보 유출?…경찰, 수사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국학력평가 응시생 개인정보 유출…교육청 "수사 의뢰"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000332735?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000332735?sid=102"/>
-        <updated>2023-02-19T07:13:12.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000332735?sid=102" class="nclicks(rig.secteco)" title="전국학력평가 응시생 개인정보 유출…교육청 &quot;수사 의뢰&quot;">전국학력평가 응시생 개인정보 유출…교육청 "수사 의뢰"</a>]]></content>
+        <title type="html"><![CDATA[아이오닉5, 캐나다 ‘올해의 유틸리티 차량’ 선정…독일 평가선 벤츠도 제쳐]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003480599?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003480599?sid=103"/>
+        <updated>2023-02-19T08:17:45.291Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003480599?sid=103" class="nclicks(rig.secteco)" title="아이오닉5, 캐나다 ‘올해의 유틸리티 차량’ 선정…독일 평가선 벤츠도 제쳐">아이오닉5, 캐나다 ‘올해의 유틸리티 차량’ 선정…독일 평가선 벤츠도 제쳐</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[70년간 전통 화살 만든 궁시장 유영기 선생 별세]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004158088?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004158088?sid=103"/>
-        <updated>2023-02-19T07:13:12.920Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004158088?sid=103" class="nclicks(rig.secteco)" title="70년간 전통 화살 만든 궁시장 유영기 선생 별세">70년간 전통 화살 만든 궁시장 유영기 선생 별세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글 쓰고 편집까지 30시간만에 끝…'수퍼 작가' 정체는 챗GPT]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003260653?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003260653?sid=103"/>
-        <updated>2023-02-19T07:13:12.923Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260653?sid=103" class="nclicks(rig.secteco)" title="글 쓰고 편집까지 30시간만에 끝…'수퍼 작가' 정체는 챗GPT">글 쓰고 편집까지 30시간만에 끝…'수퍼 작가' 정체는 챗GPT</a>]]></content>
+        <title type="html"><![CDATA[AI 작가·치료 등장···챗GPT 빅뱅 ‘피하지 못하면 같이 살 궁리’ [AI 스토밍]]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003205944?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003205944?sid=103"/>
+        <updated>2023-02-19T08:17:45.294Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003205944?sid=103" class="nclicks(rig.secteco)" title="AI 작가·치료 등장···챗GPT 빅뱅 ‘피하지 못하면 같이 살 궁리’ [AI 스토밍]">AI 작가·치료 등장···챗GPT 빅뱅 ‘피하지 못하면 같이 살 궁리’ [AI 스토밍]</a>]]></content>
     </entry>
 </feed>
