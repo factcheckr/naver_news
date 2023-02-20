@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-20T12:28:20.664Z</updated>
+    <updated>2023-02-20T13:23:37.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002382795?sid=100" class="nclicks(rig.secteco)" title="투기 의혹에 &quot;정치 생명&quot; 건 김기현, 정작 가격은 끝까지 안 밝혀">투기 의혹에 "정치 생명" 건 김기현, 정작 가격은 끝까지 안 밝혀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북 “남 비행장 타깃” 전술핵 방사포로 노골적 위협]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003206245?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003206245?sid=100"/>
-        <updated>2023-02-20T12:27:52.063Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003206245?sid=100" class="nclicks(rig.secteco)" title="북 “남 비행장 타깃” 전술핵 방사포로 노골적 위협">북 “남 비행장 타깃” 전술핵 방사포로 노골적 위협</a>]]></content>
+        <title type="html"><![CDATA[“방사포 4발이면 초토화”…한·미 공군 원점 타격 능력 과시]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003206251?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003206251?sid=100"/>
+        <updated>2023-02-20T13:23:08.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003206251?sid=100" class="nclicks(rig.secteco)" title="“방사포 4발이면 초토화”…한·미 공군 원점 타격 능력 과시">“방사포 4발이면 초토화”…한·미 공군 원점 타격 능력 과시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이든, 우크라 깜짝방문…"푸틴 틀렸다" 5억달러 군사원조 약속(종합)]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260948?sid=104" class="nclicks(rig.secteco)" title="지진 현장 첫날 다가온 노숙자…韓구호대 울컥하게 한 행동">지진 현장 첫날 다가온 노숙자…韓구호대 울컥하게 한 행동</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고객 반발·정부 압박…대한항공 ‘마일리지 개편’ 이륙도 못해]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003206269?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003206269?sid=101"/>
+        <updated>2023-02-20T13:23:08.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003206269?sid=101" class="nclicks(rig.secteco)" title="고객 반발·정부 압박…대한항공 ‘마일리지 개편’ 이륙도 못해">고객 반발·정부 압박…대한항공 ‘마일리지 개편’ 이륙도 못해</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플페이 등장에 오프라인 1위 삼성페이·온라인 1위 네이버페이가 손잡다]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000724534?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000724534?sid=101"/>
@@ -48,25 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000724534?sid=101" class="nclicks(rig.secteco)" title="애플페이 등장에 오프라인 1위 삼성페이·온라인 1위 네이버페이가 손잡다">애플페이 등장에 오프라인 1위 삼성페이·온라인 1위 네이버페이가 손잡다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["자세 틀려" 정부·여당 압박에‥대한항공 "전면 재검토하겠다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001255140?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001255140?sid=101"/>
-        <updated>2023-02-20T12:27:52.072Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001255140?sid=101" class="nclicks(rig.secteco)" title="&quot;자세 틀려&quot; 정부·여당 압박에‥대한항공 &quot;전면 재검토하겠다&quot;">"자세 틀려" 정부·여당 압박에‥대한항공 "전면 재검토하겠다"</a>]]></content>
+        <title type="html"><![CDATA[추경호 "노란봉투법 위헌 소지"… 법안 강행 巨野에 직격탄 [정부·재계, 노란봉투법 반대 호소]]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004971903?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004971903?sid=101"/>
+        <updated>2023-02-20T13:23:08.107Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004971903?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;노란봉투법 위헌 소지&quot;… 법안 강행 巨野에 직격탄 [정부·재계, 노란봉투법 반대 호소]">추경호 "노란봉투법 위헌 소지"… 법안 강행 巨野에 직격탄 [정부·재계, 노란봉투법 반대 호소]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노란봉투법 맞서… 尹·여권 ‘노조개혁’ 총공세]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003785275?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003785275?sid=101"/>
-        <updated>2023-02-20T11:12:46.182Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003785275?sid=101" class="nclicks(rig.secteco)" title="노란봉투법 맞서… 尹·여권 ‘노조개혁’ 총공세">노란봉투법 맞서… 尹·여권 ‘노조개혁’ 총공세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['KT 출신도 ICT 전문가도 아닌데' KT CEO에 도전장…회사 미래 이끌수 있나]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000042523?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000042523?sid=105"/>
-        <updated>2023-02-20T12:27:52.075Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000042523?sid=105" class="nclicks(rig.secteco)" title="'KT 출신도 ICT 전문가도 아닌데' KT CEO에 도전장…회사 미래 이끌수 있나">'KT 출신도 ICT 전문가도 아닌데' KT CEO에 도전장…회사 미래 이끌수 있나</a>]]></content>
+        <title type="html"><![CDATA[KT 차기 대표이사 자리에 34명 경쟁…여권 인사 대거 지원]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003480860?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003480860?sid=105"/>
+        <updated>2023-02-20T13:23:08.111Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003480860?sid=105" class="nclicks(rig.secteco)" title="KT 차기 대표이사 자리에 34명 경쟁…여권 인사 대거 지원">KT 차기 대표이사 자리에 34명 경쟁…여권 인사 대거 지원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓 6G 상용화 앞당긴다…'K-네트워크 2030 전략' 발표 (종합)]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003260940?sid=102" class="nclicks(rig.secteco)" title="전국학력평가 성적 유출…경찰은 수사 착수, 교육계도 진상조사">전국학력평가 성적 유출…경찰은 수사 착수, 교육계도 진상조사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회계자료 제출 거부에 지원금 중단·환수까지…노정갈등 최고조]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013768527?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013768527?sid=102"/>
-        <updated>2023-02-20T12:27:52.082Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013768527?sid=102" class="nclicks(rig.secteco)" title="회계자료 제출 거부에 지원금 중단·환수까지…노정갈등 최고조">회계자료 제출 거부에 지원금 중단·환수까지…노정갈등 최고조</a>]]></content>
+        <title type="html"><![CDATA[노동계 “정부, 흠집내기 위해 월권행위”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003206249?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003206249?sid=102"/>
+        <updated>2023-02-20T13:23:08.118Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003206249?sid=102" class="nclicks(rig.secteco)" title="노동계 “정부, 흠집내기 위해 월권행위”">노동계 “정부, 흠집내기 위해 월권행위”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그놈 DNA였다… ‘19년 미제’ 수원 장애인 성폭행 진범 붙잡혀]]></title>
