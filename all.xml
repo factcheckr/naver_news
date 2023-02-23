@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-23T19:12:42.420Z</updated>
+    <updated>2023-02-23T20:16:29.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 “K콘텐츠·푸드 키워 올 수출 6850억달러 달성” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748155?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748155?sid=100"/>
-        <updated>2023-02-23T19:12:14.287Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748155?sid=100" class="nclicks(rig.secteco)" title="尹대통령 “K콘텐츠·푸드 키워 올 수출 6850억달러 달성”">尹대통령 “K콘텐츠·푸드 키워 올 수출 6850억달러 달성”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[안철수 "차마 이재명 찍을 수 없었기에 우리에게"→ 이준석 "왜 尹을 디스…" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006649234?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006649234?sid=100"/>
         <updated>2023-02-23T19:12:14.288Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006649234?sid=100" class="nclicks(rig.secteco)" title="안철수 &quot;차마 이재명 찍을 수 없었기에 우리에게&quot;→ 이준석 &quot;왜 尹을 디스…&quot;">안철수 "차마 이재명 찍을 수 없었기에 우리에게"→ 이준석 "왜 尹을 디스…"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹대통령 "박정희, 수출전략회의 180회…정부가 기업 도와줘야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002686759?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002686759?sid=100"/>
+        <updated>2023-02-23T20:15:57.772Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002686759?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;박정희, 수출전략회의 180회…정부가 기업 도와줘야&quot;">尹대통령 "박정희, 수출전략회의 180회…정부가 기업 도와줘야"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 부승찬 압수수색 '천공' 때문 아니었다…"軍기밀 유출" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003261711?sid=100" class="nclicks(rig.secteco)" title="[단독] 부승찬 압수수색 '천공' 때문 아니었다…&quot;軍기밀 유출&quot;">[단독] 부승찬 압수수색 '천공' 때문 아니었다…"軍기밀 유출"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[푸틴 “3대 핵 증강 더 힘쓸 것” vs 바이든 “러 핵감축 중단 잘못” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003341687?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003341687?sid=104"/>
+        <updated>2023-02-23T20:15:57.779Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003341687?sid=104" class="nclicks(rig.secteco)" title="푸틴 “3대 핵 증강 더 힘쓸 것” vs 바이든 “러 핵감축 중단 잘못”">푸틴 “3대 핵 증강 더 힘쓸 것” vs 바이든 “러 핵감축 중단 잘못”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[옐런 美재무 "우크라에 100억달러 곧 추가 지원" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013776310?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013776310?sid=104"/>
@@ -33,32 +40,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013776310?sid=104" class="nclicks(rig.secteco)" title="옐런 美재무 &quot;우크라에 100억달러 곧 추가 지원&quot;">옐런 美재무 "우크라에 100억달러 곧 추가 지원"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로리다서 연쇄 총격 3명 사망…총격 취재하던 언론인도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011708662?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011708662?sid=104"/>
-        <updated>2023-02-23T17:14:08.865Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011708662?sid=104" class="nclicks(rig.secteco)" title="플로리다서 연쇄 총격 3명 사망…총격 취재하던 언론인도">플로리다서 연쇄 총격 3명 사망…총격 취재하던 언론인도</a>]]></content>
+        <title type="html"><![CDATA[기준금리 인상 사실상 끝?...연말 인하 가능성도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011708853?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011708853?sid=101"/>
+        <updated>2023-02-23T20:15:57.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011708853?sid=101" class="nclicks(rig.secteco)" title="기준금리 인상 사실상 끝?...연말 인하 가능성도">기준금리 인상 사실상 끝?...연말 인하 가능성도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일문일답]이창용 "한미 금리차 적정수준 없어…물가 보면서 결정" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005222299?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005222299?sid=101"/>
-        <updated>2023-02-23T19:12:14.298Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005222299?sid=101" class="nclicks(rig.secteco)" title="[일문일답]이창용 &quot;한미 금리차 적정수준 없어…물가 보면서 결정&quot;">[일문일답]이창용 "한미 금리차 적정수준 없어…물가 보면서 결정"</a>]]></content>
+        <title type="html"><![CDATA[공정위, 변협이 소비자 선택권 제한했다고 판단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003341658?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003341658?sid=101"/>
+        <updated>2023-02-23T20:15:57.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003341658?sid=101" class="nclicks(rig.secteco)" title="공정위, 변협이 소비자 선택권 제한했다고 판단">공정위, 변협이 소비자 선택권 제한했다고 판단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소비자 선택권 손들어줘… IT플랫폼 서비스 숨통 트이나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748168?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748168?sid=101"/>
-        <updated>2023-02-23T19:12:14.300Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748168?sid=101" class="nclicks(rig.secteco)" title="소비자 선택권 손들어줘… IT플랫폼 서비스 숨통 트이나">소비자 선택권 손들어줘… IT플랫폼 서비스 숨통 트이나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴대전화 보조금 2배로 늘리고 알뜰폰사업자 진입도 확대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748172?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748172?sid=101"/>
-        <updated>2023-02-23T18:18:40.905Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748172?sid=101" class="nclicks(rig.secteco)" title="휴대전화 보조금 2배로 늘리고 알뜰폰사업자 진입도 확대">휴대전화 보조금 2배로 늘리고 알뜰폰사업자 진입도 확대</a>]]></content>
+        <title type="html"><![CDATA[휴대전화 보조금·알뜰폰 사업자 확대… 통신 과점 깬다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003341666?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003341666?sid=101"/>
+        <updated>2023-02-23T20:15:57.780Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003341666?sid=101" class="nclicks(rig.secteco)" title="휴대전화 보조금·알뜰폰 사업자 확대… 통신 과점 깬다">휴대전화 보조금·알뜰폰 사업자 확대… 통신 과점 깬다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 구현모 KT 대표, 연임 포기…"MWC는 예정대로 참석"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004813936?sid=105" class="nclicks(rig.secteco)" title="[단독] 구현모 KT 대표, 연임 포기…&quot;MWC는 예정대로 참석&quot;(종합)">[단독] 구현모 KT 대표, 연임 포기…"MWC는 예정대로 참석"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공태양 5분간 1억도로 유지, 세계 첫 도전 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748177?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748177?sid=105"/>
-        <updated>2023-02-23T18:18:40.905Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748177?sid=105" class="nclicks(rig.secteco)" title="인공태양 5분간 1억도로 유지, 세계 첫 도전">인공태양 5분간 1억도로 유지, 세계 첫 도전</a>]]></content>
+        <title type="html"><![CDATA[[르포]"30년 뒤 인공태양 뜬다"…韓 'KSTAR' 가보니 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011708385?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011708385?sid=105"/>
+        <updated>2023-02-23T20:15:57.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011708385?sid=105" class="nclicks(rig.secteco)" title="[르포]&quot;30년 뒤 인공태양 뜬다&quot;…韓 'KSTAR' 가보니">[르포]"30년 뒤 인공태양 뜬다"…韓 'KSTAR' 가보니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘라임 김봉현 금품수수 혐의’ 野기동민·이수진 기소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748170?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748170?sid=102"/>
-        <updated>2023-02-23T19:12:14.309Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748170?sid=102" class="nclicks(rig.secteco)" title="‘라임 김봉현 금품수수 혐의’ 野기동민·이수진 기소">‘라임 김봉현 금품수수 혐의’ 野기동민·이수진 기소</a>]]></content>
+        <title type="html"><![CDATA[김봉현 정치자금 수수 혐의 전·현직 국회의원들 재판행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001589214?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001589214?sid=102"/>
+        <updated>2023-02-23T20:15:57.788Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001589214?sid=102" class="nclicks(rig.secteco)" title="김봉현 정치자금 수수 혐의  전·현직 국회의원들 재판행">김봉현 정치자금 수수 혐의 전·현직 국회의원들 재판행</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]김성태 “이재명과 최소 5회 통화”… 檢, ‘대북송금’ 경기도청 압수수색 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003481426?sid=102" class="nclicks(rig.secteco)" title="[단독]김성태 “이재명과 최소 5회 통화”… 檢, ‘대북송금’ 경기도청 압수수색">[단독]김성태 “이재명과 최소 5회 통화”… 檢, ‘대북송금’ 경기도청 압수수색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["내가 잡은 건 유아인 아니다" 식약처장이 밝힌 마약 적발 전말 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003261700?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003261700?sid=102"/>
-        <updated>2023-02-23T15:15:23.050Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003261700?sid=102" class="nclicks(rig.secteco)" title="&quot;내가 잡은 건 유아인 아니다&quot; 식약처장이 밝힌 마약 적발 전말">"내가 잡은 건 유아인 아니다" 식약처장이 밝힌 마약 적발 전말</a>]]></content>
+        <title type="html"><![CDATA[종이 대신 '디지털교과서'…그런데 '409만대 기기' 예산은 없다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003261879?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003261879?sid=102"/>
+        <updated>2023-02-23T20:15:57.789Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003261879?sid=102" class="nclicks(rig.secteco)" title="종이 대신 '디지털교과서'…그런데 '409만대 기기' 예산은 없다">종이 대신 '디지털교과서'…그런데 '409만대 기기' 예산은 없다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["사랑하는 나의 님은 갔습니다"…1억5100만원에 팔렸다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004814241?sid=103" class="nclicks(rig.secteco)" title="&quot;사랑하는 나의 님은 갔습니다&quot;…1억5100만원에 팔렸다">"사랑하는 나의 님은 갔습니다"…1억5100만원에 팔렸다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황달성 한국화랑협회장 연임…1표차 당선 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003741240?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003741240?sid=103"/>
-        <updated>2023-02-23T18:18:40.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003741240?sid=103" class="nclicks(rig.secteco)" title="황달성 한국화랑협회장 연임…1표차 당선">황달성 한국화랑협회장 연임…1표차 당선</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국 대부분 미세먼지 나쁨…오후부터 동해안 눈·비? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002298198?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002298198?sid=103"/>
+        <updated>2023-02-23T20:15:57.790Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002298198?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 대부분 미세먼지 나쁨…오후부터 동해안 눈·비?">[날씨] 전국 대부분 미세먼지 나쁨…오후부터 동해안 눈·비?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
