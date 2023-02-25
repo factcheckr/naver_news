@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-25T05:13:47.567Z</updated>
+    <updated>2023-02-25T06:18:05.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[이재명 영화 '다음 소희' 언급하며 "현장실습생, 교육·노동 이중 외면 받아" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002298319?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002298319?sid=100"/>
+        <updated>2023-02-25T06:17:34.440Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002298319?sid=100" class="nclicks(rig.secteco)" title="이재명 영화 '다음 소희' 언급하며 &quot;현장실습생, 교육·노동 이중 외면 받아&quot;">이재명 영화 '다음 소희' 언급하며 "현장실습생, 교육·노동 이중 외면 받아"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "국정원의 본질적 책무는 자유수호"…취임 뒤 첫 방문 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003262006?sid=100</id>
@@ -12,25 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003262006?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;국정원의 본질적 책무는 자유수호&quot;…취임 뒤 첫 방문">尹 "국정원의 본질적 책무는 자유수호"…취임 뒤 첫 방문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["비신사적" "우리도 예상못해"···野 '깜짝 부결'에 국회 파행 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004855425?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004855425?sid=100"/>
-        <updated>2023-02-25T01:09:52.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004855425?sid=100" class="nclicks(rig.secteco)" title="&quot;비신사적&quot; &quot;우리도 예상못해&quot;···野 '깜짝 부결'에 국회 파행">"비신사적" "우리도 예상못해"···野 '깜짝 부결'에 국회 파행</a>]]></content>
+        <title type="html"><![CDATA["더 글로리 현실판" 정치권 '발칵'‥여당서도 "정순신 즉각 사퇴하라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001256248?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001256248?sid=100"/>
+        <updated>2023-02-25T06:17:34.449Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001256248?sid=100" class="nclicks(rig.secteco)" title="&quot;더 글로리 현실판&quot; 정치권 '발칵'‥여당서도 &quot;정순신 즉각 사퇴하라&quot;">"더 글로리 현실판" 정치권 '발칵'‥여당서도 "정순신 즉각 사퇴하라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "더는 '다음 소희' 없어야…고교실습생제 개선 강구" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013778815?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013778815?sid=100"/>
-        <updated>2023-02-25T04:17:52.267Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013778815?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;더는 '다음 소희' 없어야…고교실습생제 개선 강구&quot;">이재명 "더는 '다음 소희' 없어야…고교실습생제 개선 강구"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라전쟁 1년..美. 러시아 제재 발표..알루미늄 관세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/660/0000028853?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/660/0000028853?sid=104"/>
-        <updated>2023-02-25T02:47:43.049Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000028853?sid=104" class="nclicks(rig.secteco)" title="우크라전쟁 1년..美. 러시아 제재 발표..알루미늄 관세">우크라전쟁 1년..美. 러시아 제재 발표..알루미늄 관세</a>]]></content>
+        <title type="html"><![CDATA[美, 광범위한 무더기 對러 제재 발표…알루미늄 관세 200% 인상(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013778484?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013778484?sid=104"/>
+        <updated>2023-02-25T06:17:34.452Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013778484?sid=104" class="nclicks(rig.secteco)" title="美, 광범위한 무더기 對러 제재 발표…알루미늄 관세 200% 인상(종합2보)">美, 광범위한 무더기 對러 제재 발표…알루미늄 관세 200% 인상(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[튀르키예·시리아 지진 사망자 5만명 넘어…이재민 60만명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,6 +40,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001085287?sid=104" class="nclicks(rig.secteco)" title="튀르키예·시리아 지진 사망자 5만명 넘어…이재민 60만명">튀르키예·시리아 지진 사망자 5만명 넘어…이재민 60만명</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[휘발윳값 오르고 경유는 하락...8개월 만에 재역전 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001854102?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001854102?sid=101"/>
+        <updated>2023-02-25T06:17:34.458Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001854102?sid=101" class="nclicks(rig.secteco)" title="휘발윳값 오르고 경유는 하락...8개월 만에 재역전">휘발윳값 오르고 경유는 하락...8개월 만에 재역전</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한전 32.6조 영업손실...천문학적 ‘빚더미’에 요금인상 ‘불가피?’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000202792?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/629/0000202792?sid=101"/>
@@ -47,18 +54,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000202792?sid=101" class="nclicks(rig.secteco)" title="한전 32.6조 영업손실...천문학적 ‘빚더미’에 요금인상 ‘불가피?’">한전 32.6조 영업손실...천문학적 ‘빚더미’에 요금인상 ‘불가피?’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[휘발유 가격, 다시 경유가 추월…8개월 만에 '재역전' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000333489?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000333489?sid=101"/>
-        <updated>2023-02-25T05:13:20.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000333489?sid=101" class="nclicks(rig.secteco)" title="휘발유 가격, 다시 경유가 추월…8개월 만에 '재역전'">휘발유 가격, 다시 경유가 추월…8개월 만에 '재역전'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM, '카카오 종속적인 계약' 비판한 하이브에 정면 반박 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003741668?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003741668?sid=101"/>
-        <updated>2023-02-25T03:18:40.683Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003741668?sid=101" class="nclicks(rig.secteco)" title="SM, '카카오 종속적인 계약' 비판한 하이브에 정면 반박">SM, '카카오 종속적인 계약' 비판한 하이브에 정면 반박</a>]]></content>
+        <title type="html"><![CDATA[K반도체, 수십조 쏟은 中 공장 투자·공정 막힐 판 [뒷북비즈] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004160546?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004160546?sid=101"/>
+        <updated>2023-02-25T06:17:34.459Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004160546?sid=101" class="nclicks(rig.secteco)" title="K반도체, 수십조 쏟은 中 공장 투자·공정 막힐 판 [뒷북비즈]">K반도체, 수십조 쏟은 中 공장 투자·공정 막힐 판 [뒷북비즈]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT가 불 지핀 AI 언어모델 대전에 메타도 참전… “가볍고 정확” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005431853?sid=102" class="nclicks(rig.secteco)" title="[단독]정순신 아들 학폭 판결문 보니…학교마저 &quot;반성을 전혀 안한다&quot;">[단독]정순신 아들 학폭 판결문 보니…학교마저 "반성을 전혀 안한다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 2대 국수본부장에 검사 출신 정순신 임명... 경찰 내부 술렁 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748212?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748212?sid=102"/>
-        <updated>2023-02-25T01:09:52.823Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003748212?sid=102" class="nclicks(rig.secteco)" title="[단독] 2대 국수본부장에 검사 출신 정순신 임명... 경찰 내부 술렁">[단독] 2대 국수본부장에 검사 출신 정순신 임명... 경찰 내부 술렁</a>]]></content>
+        <title type="html"><![CDATA[여든 넘은 ‘대도’ 조세형, 빈집 털다 또 실형 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011435140?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011435140?sid=102"/>
+        <updated>2023-02-25T06:17:34.463Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011435140?sid=102" class="nclicks(rig.secteco)" title="여든 넘은 ‘대도’ 조세형, 빈집 털다 또 실형 확정">여든 넘은 ‘대도’ 조세형, 빈집 털다 또 실형 확정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대도' 조세형, 여든 넘어서 또 빈집 털다 실형 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005431921?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005431921?sid=102"/>
-        <updated>2023-02-25T05:13:20.242Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005431921?sid=102" class="nclicks(rig.secteco)" title="'대도' 조세형, 여든 넘어서 또 빈집 털다 실형">'대도' 조세형, 여든 넘어서 또 빈집 털다 실형</a>]]></content>
+        <title type="html"><![CDATA[코로나 신규 확진자 1만55명…전주대비 663명 감소(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011710877?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011710877?sid=102"/>
+        <updated>2023-02-25T06:17:34.463Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011710877?sid=102" class="nclicks(rig.secteco)" title="코로나 신규 확진자 1만55명…전주대비 663명 감소(종합)">코로나 신규 확진자 1만55명…전주대비 663명 감소(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강원 20㎝ 폭설 온다 '대설 예비특보'…주말 서울 체감 -8도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003261913?sid=103" class="nclicks(rig.secteco)" title="강원 20㎝ 폭설 온다 '대설 예비특보'…주말 서울 체감 -8도">강원 20㎝ 폭설 온다 '대설 예비특보'…주말 서울 체감 -8도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 동해안 중심 많은 눈…내륙 맑고 건조한 날씨 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000585943?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000585943?sid=103"/>
-        <updated>2023-02-25T05:13:20.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000585943?sid=103" class="nclicks(rig.secteco)" title="[날씨] 동해안 중심 많은 눈…내륙 맑고 건조한 날씨">[날씨] 동해안 중심 많은 눈…내륙 맑고 건조한 날씨</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 주말 동해안 많은 눈…내륙 맑고 반짝 추위 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000585950?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000585950?sid=103"/>
+        <updated>2023-02-25T06:17:34.466Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000585950?sid=103" class="nclicks(rig.secteco)" title="[날씨] 주말 동해안 많은 눈…내륙 맑고 반짝 추위">[날씨] 주말 동해안 많은 눈…내륙 맑고 반짝 추위</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
