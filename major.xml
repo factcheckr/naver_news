@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-02-25T22:14:24.679Z</updated>
+    <updated>2023-02-25T23:15:10.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[국민의힘 "정순신 사의 존중"…민주당 "대통령 사과해야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001038436?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001038436?sid=100"/>
-        <updated>2023-02-25T22:13:54.053Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001038436?sid=100" class="nclicks(rig.secteco)" title="국민의힘 &quot;정순신 사의 존중&quot;…민주당 &quot;대통령 사과해야&quot;">국민의힘 "정순신 사의 존중"…민주당 "대통령 사과해야"</a>]]></content>
+        <title type="html"><![CDATA['아들 학폭' 정순신, 결국 사퇴···野 "尹 대통령, 인사 참사 사과해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000725434?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000725434?sid=100"/>
+        <updated>2023-02-25T23:14:41.046Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000725434?sid=100" class="nclicks(rig.secteco)" title="'아들 학폭' 정순신, 결국 사퇴···野 &quot;尹 대통령, 인사 참사 사과해야&quot;">'아들 학폭' 정순신, 결국 사퇴···野 "尹 대통령, 인사 참사 사과해야"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[與 전대 열흘 앞으로…金-安 양강구도 흔들리며 판세 '출렁']]></title>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001589425?sid=104" class="nclicks(rig.secteco)" title="‘토막 살인’ 홍콩 모델…‘前 시아버지’ 집 냉장고서 발견">‘토막 살인’ 홍콩 모델…‘前 시아버지’ 집 냉장고서 발견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[G20 재무장관회의, 우크라戰 이슈로 파열음…공동성명 불발 가능]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013778859?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013778859?sid=104"/>
-        <updated>2023-02-25T20:15:07.410Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013778859?sid=104" class="nclicks(rig.secteco)" title="G20 재무장관회의, 우크라戰 이슈로 파열음…공동성명 불발 가능">G20 재무장관회의, 우크라戰 이슈로 파열음…공동성명 불발 가능</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["상위 0.1% 연소득, 평균 18억원…중위소득자의 70배"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013778755?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013778755?sid=101"/>
-        <updated>2023-02-25T18:16:47.262Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013778755?sid=101" class="nclicks(rig.secteco)" title="&quot;상위 0.1% 연소득, 평균 18억원…중위소득자의 70배&quot;">"상위 0.1% 연소득, 평균 18억원…중위소득자의 70배"</a>]]></content>
+        <title type="html"><![CDATA[슈퍼개미 남석관 “글로벌 IT 기업들, 챗GPT 시장 선점 위해 혈안”]]></title>
+        <id>https://n.news.naver.com/mnews/article/037/0000031990?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/037/0000031990?sid=104"/>
+        <updated>2023-02-25T23:14:41.053Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/037/0000031990?sid=104" class="nclicks(rig.secteco)" title="슈퍼개미 남석관 “글로벌 IT 기업들, 챗GPT 시장  선점 위해 혈안”">슈퍼개미 남석관 “글로벌 IT 기업들, 챗GPT 시장 선점 위해 혈안”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['광고문구도 AI가'…현대百, 업계 최초 AI 카피라이터 도입]]></title>
@@ -55,39 +48,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005432047?sid=101" class="nclicks(rig.secteco)" title="'광고문구도 AI가'…현대百, 업계 최초 AI 카피라이터 도입">'광고문구도 AI가'…현대百, 업계 최초 AI 카피라이터 도입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔데믹의 봄…롯데백화점, 4년 만에 립스틱 특별전]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005432045?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005432045?sid=101"/>
-        <updated>2023-02-25T22:13:54.079Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005432045?sid=101" class="nclicks(rig.secteco)" title="엔데믹의 봄…롯데백화점, 4년 만에 립스틱 특별전">엔데믹의 봄…롯데백화점, 4년 만에 립스틱 특별전</a>]]></content>
+        <title type="html"><![CDATA["상위 0.1% 연소득, 평균 18억원…중위소득자의 70배"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013778755?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013778755?sid=101"/>
+        <updated>2023-02-25T18:16:47.262Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013778755?sid=101" class="nclicks(rig.secteco)" title="&quot;상위 0.1% 연소득, 평균 18억원…중위소득자의 70배&quot;">"상위 0.1% 연소득, 평균 18억원…중위소득자의 70배"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MWC] 최대 모바일 전시회 내일 개막…초연결·생성AI·中기술 주목]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013779226?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013779226?sid=105"/>
-        <updated>2023-02-25T22:13:54.081Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013779226?sid=105" class="nclicks(rig.secteco)" title="[MWC] 최대 모바일 전시회 내일 개막…초연결·생성AI·中기술 주목">[MWC] 최대 모바일 전시회 내일 개막…초연결·생성AI·中기술 주목</a>]]></content>
+        <title type="html"><![CDATA[[머니톡톡] 금리 숨 고르기, 투자전략은? “예금·채권·ELS 분산… 강달러 길지 않아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000880690?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000880690?sid=101"/>
+        <updated>2023-02-25T23:14:41.058Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000880690?sid=101" class="nclicks(rig.secteco)" title="[머니톡톡] 금리 숨 고르기, 투자전략은? “예금·채권·ELS 분산… 강달러 길지 않아”">[머니톡톡] 금리 숨 고르기, 투자전략은? “예금·채권·ELS 분산… 강달러 길지 않아”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[TF비즈토크<상>] 거센 외풍에 ‘KT맨’ 구현모 대표 끝내 연임 포기…차기는 누구?]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000202816?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000202816?sid=105"/>
-        <updated>2023-02-25T22:13:54.082Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000202816?sid=105" class="nclicks(rig.secteco)" title="[TF비즈토크] 거센 외풍에 ‘KT맨’ 구현모 대표 끝내 연임 포기…차기는 누구?">[TF비즈토크&lt;상&gt;] 거센 외풍에 ‘KT맨’ 구현모 대표 끝내 연임 포기…차기는 누구?</a>]]></content>
+        <title type="html"><![CDATA[[MWC 2023] 스페인서도 챗GPT 열풍… “AI, 메타버스에서 망사용료까지”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000880703?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000880703?sid=105"/>
+        <updated>2023-02-25T23:14:41.059Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000880703?sid=105" class="nclicks(rig.secteco)" title="[MWC 2023] 스페인서도 챗GPT 열풍… “AI, 메타버스에서 망사용료까지”">[MWC 2023] 스페인서도 챗GPT 열풍… “AI, 메타버스에서 망사용료까지”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['아들 학폭' 신임 국수본부장 사의…지휘 공백 불가피]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001038435?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001038435?sid=102"/>
-        <updated>2023-02-25T22:13:54.084Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001038435?sid=102" class="nclicks(rig.secteco)" title="'아들 학폭' 신임 국수본부장 사의…지휘 공백 불가피">'아들 학폭' 신임 국수본부장 사의…지휘 공백 불가피</a>]]></content>
+        <title type="html"><![CDATA["1년 적금보다 낫네"…'차세대 AI 대표주자'의 통큰 배당 [윤현주의 主食이 주식]]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004814734?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004814734?sid=105"/>
+        <updated>2023-02-25T23:14:41.062Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004814734?sid=105" class="nclicks(rig.secteco)" title="&quot;1년 적금보다 낫네&quot;…'차세대 AI 대표주자'의 통큰 배당 [윤현주의 主食이 주식]">"1년 적금보다 낫네"…'차세대 AI 대표주자'의 통큰 배당 [윤현주의 主食이 주식]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 유아인 모발 분석한 국과수, "마약류 3종류 양성"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001256185?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001256185?sid=102"/>
-        <updated>2023-02-25T22:13:54.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001256185?sid=102" class="nclicks(rig.secteco)" title="[단독] 유아인 모발 분석한 국과수, &quot;마약류 3종류 양성&quot;">[단독] 유아인 모발 분석한 국과수, "마약류 3종류 양성"</a>]]></content>
+        <title type="html"><![CDATA[“조국·곽상도와 뭐가 다르냐” ‘아들 학폭’ 정순신을 향한 비판]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001589422?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001589422?sid=102"/>
+        <updated>2023-02-25T23:14:41.064Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001589422?sid=102" class="nclicks(rig.secteco)" title="“조국·곽상도와 뭐가 다르냐” ‘아들 학폭’ 정순신을 향한 비판">“조국·곽상도와 뭐가 다르냐” ‘아들 학폭’ 정순신을 향한 비판</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["유아인, 1년간 프로포폴 73회 투약"…한 달에 6회꼴]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001085322?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001085322?sid=102"/>
+        <updated>2023-02-25T23:14:41.065Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001085322?sid=102" class="nclicks(rig.secteco)" title="&quot;유아인, 1년간 프로포폴 73회 투약&quot;…한 달에 6회꼴">"유아인, 1년간 프로포폴 73회 투약"…한 달에 6회꼴</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국수본부장 인선 새국면… 인사 검증 시스템 도마(종합)]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004855573?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] 아침 쌀쌀, 낮부터 포근…전국 곳곳 건조주의보">[내일 날씨] 아침 쌀쌀, 낮부터 포근…전국 곳곳 건조주의보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘폭행 논란’황영웅, “피해자께 깊이 사죄…살아갈 기회를 한번 주시길”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002109062?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002109062?sid=103"/>
-        <updated>2023-02-25T13:19:18.935Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002109062?sid=103" class="nclicks(rig.secteco)" title="‘폭행 논란’황영웅, “피해자께 깊이 사죄…살아갈 기회를 한번 주시길”">‘폭행 논란’황영웅, “피해자께 깊이 사죄…살아갈 기회를 한번 주시길”</a>]]></content>
+        <title type="html"><![CDATA[수면 습관, 이렇게 바꾸면 5년 더 삽니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002687198?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002687198?sid=103"/>
+        <updated>2023-02-25T23:14:41.073Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002687198?sid=103" class="nclicks(rig.secteco)" title="수면 습관, 이렇게 바꾸면 5년 더 삽니다">수면 습관, 이렇게 바꾸면 5년 더 삽니다</a>]]></content>
     </entry>
 </feed>
