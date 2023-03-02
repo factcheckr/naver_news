@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-02T05:14:38.012Z</updated>
+    <updated>2023-03-02T06:19:47.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["여러분의 새롬이가 되겠다" 김건희 여사, 서울맹학교 입학식 참석 [뉴시스Pic]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011719231?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011719231?sid=100"/>
+        <updated>2023-03-02T06:19:20.831Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011719231?sid=100" class="nclicks(rig.secteco)" title="&quot;여러분의 새롬이가 되겠다&quot; 김건희 여사, 서울맹학교 입학식 참석 [뉴시스Pic]">"여러분의 새롬이가 되겠다" 김건희 여사, 서울맹학교 입학식 참석 [뉴시스Pic]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령 3·1절 기념사에 "이완용과 무슨 차이냐" 분노]]></title>
         <id>https://n.news.naver.com/mnews/article/006/0000117044?sid=100</id>
@@ -13,32 +20,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000117044?sid=100" class="nclicks(rig.secteco)" title="윤석열 대통령 3·1절 기념사에 &quot;이완용과 무슨 차이냐&quot; 분노">윤석열 대통령 3·1절 기념사에 "이완용과 무슨 차이냐" 분노</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 "친윤 검찰공화국 스캐이캐슬"…野, '정순신 사태' 총공세]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000203548?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000203548?sid=100"/>
-        <updated>2023-03-02T05:14:11.275Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000203548?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;친윤 검찰공화국 스캐이캐슬&quot;…野, '정순신 사태' 총공세">이재명 "친윤 검찰공화국 스캐이캐슬"…野, '정순신 사태' 총공세</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 지지율 37%…부정 평가는 51% ㅣNBS 조사]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000334040?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000334040?sid=100"/>
+        <updated>2023-03-02T06:19:20.835Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000334040?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 지지율 37%…부정 평가는 51% ㅣNBS 조사">윤 대통령 지지율 37%…부정 평가는 51% ㅣNBS 조사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['그들만의 리그' 택한 KT…대통령실·여당 "이대론 안 돼"]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000053324?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000053324?sid=100"/>
-        <updated>2023-03-02T04:18:50.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000053324?sid=100" class="nclicks(rig.secteco)" title="'그들만의 리그' 택한 KT…대통령실·여당 &quot;이대론 안 돼&quot;">'그들만의 리그' 택한 KT…대통령실·여당 "이대론 안 돼"</a>]]></content>
+        <title type="html"><![CDATA[홍콩행 무료 항공권 50만장 배포…3000억 이벤트 관심 폭발]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004816344?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004816344?sid=104"/>
+        <updated>2023-03-02T06:19:20.835Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004816344?sid=104" class="nclicks(rig.secteco)" title="홍콩행 무료 항공권 50만장 배포…3000억 이벤트 관심 폭발">홍콩행 무료 항공권 50만장 배포…3000억 이벤트 관심 폭발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그리스 열차 충돌사고 사망자 43명으로 늘어...인재 지적에 민심 들끓어]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001855840?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001855840?sid=104"/>
-        <updated>2023-03-02T05:14:11.279Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001855840?sid=104" class="nclicks(rig.secteco)" title="그리스 열차 충돌사고 사망자 43명으로 늘어...인재 지적에 민심 들끓어">그리스 열차 충돌사고 사망자 43명으로 늘어...인재 지적에 민심 들끓어</a>]]></content>
+        <title type="html"><![CDATA["가도 됩니까""가세요" 160㎞로 충돌…43명 앗아간 역장의 오판]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003263129?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003263129?sid=104"/>
+        <updated>2023-03-02T06:19:20.837Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003263129?sid=104" class="nclicks(rig.secteco)" title="&quot;가도 됩니까&quot;&quot;가세요&quot; 160㎞로 충돌…43명 앗아간 역장의 오판">"가도 됩니까""가세요" 160㎞로 충돌…43명 앗아간 역장의 오판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美하원 외교위, '中틱톡 금지권 대통령에 부여' 법안 가결]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011719038?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011719038?sid=104"/>
-        <updated>2023-03-02T05:14:11.281Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011719038?sid=104" class="nclicks(rig.secteco)" title="美하원 외교위, '中틱톡 금지권 대통령에 부여' 법안 가결">美하원 외교위, '中틱톡 금지권 대통령에 부여' 법안 가결</a>]]></content>
+        <title type="html"><![CDATA["7급 공무원보다 낫다"…현대차 생산직 채용홈피 폭주]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005225236?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005225236?sid=101"/>
+        <updated>2023-03-02T06:19:20.844Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005225236?sid=101" class="nclicks(rig.secteco)" title="&quot;7급 공무원보다 낫다&quot;…현대차 생산직 채용홈피 폭주">"7급 공무원보다 낫다"…현대차 생산직 채용홈피 폭주</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이복현, SM 시세조종 의혹에 "무관용으로 책임 묻겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001257195?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001257195?sid=101"/>
+        <updated>2023-03-02T06:19:20.845Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001257195?sid=101" class="nclicks(rig.secteco)" title="이복현, SM 시세조종 의혹에 &quot;무관용으로 책임 묻겠다&quot;">이복현, SM 시세조종 의혹에 "무관용으로 책임 묻겠다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한은 “공공요금 인상·유가 상승에 물가 둔화 속도 더딜 수도”]]></title>
@@ -48,20 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000881828?sid=101" class="nclicks(rig.secteco)" title="한은 “공공요금 인상·유가 상승에 물가 둔화 속도 더딜 수도”">한은 “공공요금 인상·유가 상승에 물가 둔화 속도 더딜 수도”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[깊이보기] "나도 해봐?" 10년만 현대차 생산직 채용에 취준생·직장인 들썩]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000334007?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000334007?sid=101"/>
-        <updated>2023-03-02T04:18:50.247Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000334007?sid=101" class="nclicks(rig.secteco)" title="[깊이보기] &quot;나도 해봐?&quot; 10년만 현대차 생산직 채용에 취준생·직장인 들썩">[깊이보기] "나도 해봐?" 10년만 현대차 생산직 채용에 취준생·직장인 들썩</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이복현 "SM 경영권 다툼, 위법 있다면 무관용"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011718872?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011718872?sid=101"/>
-        <updated>2023-03-02T04:18:50.249Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011718872?sid=101" class="nclicks(rig.secteco)" title="이복현 &quot;SM 경영권 다툼, 위법 있다면 무관용&quot;(종합)">이복현 "SM 경영권 다툼, 위법 있다면 무관용"(종합)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[일문일답] 카카오 첫 헬스케어 ‘혈당관리’, 어떻게 수익모델 꾀할까?]]></title>
         <id>https://n.news.naver.com/mnews/article/138/0002143447?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/138/0002143447?sid=105"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002143447?sid=105" class="nclicks(rig.secteco)" title="[일문일답] 카카오 첫 헬스케어 ‘혈당관리’, 어떻게 수익모델 꾀할까?">[일문일답] 카카오 첫 헬스케어 ‘혈당관리’, 어떻게 수익모델 꾀할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI시대, 글로벌 협력 속도감…KT, 싱텔과 아태지역 디지털 전환 맞손]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005434365?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005434365?sid=105"/>
-        <updated>2023-03-02T05:14:11.289Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005434365?sid=105" class="nclicks(rig.secteco)" title="AI시대, 글로벌 협력 속도감…KT, 싱텔과 아태지역 디지털 전환 맞손">AI시대, 글로벌 협력 속도감…KT, 싱텔과 아태지역 디지털 전환 맞손</a>]]></content>
+        <title type="html"><![CDATA[與 "KT 사장 인선, '그들만의 리그'로 전락…사장 돌려막기 안돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005225242?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005225242?sid=105"/>
+        <updated>2023-03-02T06:19:20.847Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005225242?sid=105" class="nclicks(rig.secteco)" title="與 &quot;KT 사장 인선, '그들만의 리그'로 전락…사장 돌려막기 안돼&quot;">與 "KT 사장 인선, '그들만의 리그'로 전락…사장 돌려막기 안돼"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 檢, 김건희 여사 최종 무혐의…"코바나 협찬 위법 없다"]]></title>
@@ -83,18 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003263112?sid=102" class="nclicks(rig.secteco)" title="[단독] 檢, 김건희 여사 최종 무혐의…&quot;코바나 협찬 위법 없다&quot;">[단독] 檢, 김건희 여사 최종 무혐의…"코바나 협찬 위법 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금 작년 수익률 -8.22% '역대 최악'…80조원 평가손실(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013787946?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013787946?sid=102"/>
-        <updated>2023-03-02T05:14:11.292Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013787946?sid=102" class="nclicks(rig.secteco)" title="국민연금 작년 수익률 -8.22% '역대 최악'…80조원 평가손실(종합)">국민연금 작년 수익률 -8.22% '역대 최악'…80조원 평가손실(종합)</a>]]></content>
+        <title type="html"><![CDATA[“노후에 받을돈 줄어드려나”…국민연금 작년 수익률 -8.22%]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005095789?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005095789?sid=102"/>
+        <updated>2023-03-02T06:19:20.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005095789?sid=102" class="nclicks(rig.secteco)" title="“노후에 받을돈 줄어드려나”…국민연금 작년 수익률 -8.22%">“노후에 받을돈 줄어드려나”…국민연금 작년 수익률 -8.22%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울산경찰, 10조원대 불법 도박사이트 운영 조폭 등 152명 검거]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004976291?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004976291?sid=102"/>
-        <updated>2023-03-02T05:14:11.294Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004976291?sid=102" class="nclicks(rig.secteco)" title="울산경찰, 10조원대 불법 도박사이트 운영 조폭 등 152명 검거">울산경찰, 10조원대 불법 도박사이트 운영 조폭 등 152명 검거</a>]]></content>
+        <title type="html"><![CDATA[배우 유아인 모발서 코카인·케타민도 검출...마약류 4종 투약]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001855866?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001855866?sid=102"/>
+        <updated>2023-03-02T06:19:20.850Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001855866?sid=102" class="nclicks(rig.secteco)" title="배우 유아인 모발서 코카인·케타민도 검출...마약류 4종 투약">배우 유아인 모발서 코카인·케타민도 검출...마약류 4종 투약</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['픽업트럭 끝판왕' 포드 레인저 국내 상륙]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000014306?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000014306?sid=103"/>
+        <updated>2023-03-02T06:19:20.851Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000014306?sid=103" class="nclicks(rig.secteco)" title="'픽업트럭 끝판왕' 포드 레인저 국내 상륙">'픽업트럭 끝판왕' 포드 레인저 국내 상륙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["그곳이 차마 꿈엔들 잊힐리야!"…'국민 가곡 ‘향수’의 테너, 박인수 전 서울대교수 별세]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003263108?sid=103"/>
         <updated>2023-03-02T03:23:05.019Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003263108?sid=103" class="nclicks(rig.secteco)" title="&quot;그곳이 차마 꿈엔들 잊힐리야!&quot;…'국민 가곡 ‘향수’의 테너, 박인수 전 서울대교수 별세">"그곳이 차마 꿈엔들 잊힐리야!"…'국민 가곡 ‘향수’의 테너, 박인수 전 서울대교수 별세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMW의 차별화된 디지털 경험… 디젤 모델 '뉴 740d xDrive' 최대 1.6억]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000900001?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000900001?sid=103"/>
-        <updated>2023-03-02T05:14:11.298Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000900001?sid=103" class="nclicks(rig.secteco)" title="BMW의 차별화된 디지털 경험… 디젤 모델 '뉴 740d xDrive' 최대 1.6억">BMW의 차별화된 디지털 경험… 디젤 모델 '뉴 740d xDrive' 최대 1.6억</a>]]></content>
     </entry>
 </feed>
