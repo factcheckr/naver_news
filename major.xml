@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-04T19:12:15.696Z</updated>
+    <updated>2023-03-04T20:15:00.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005436019?sid=104" class="nclicks(rig.secteco)" title="'시진핑3기 공식 출범' 中양회 오늘 개막, 관전포인트4">'시진핑3기 공식 출범' 中양회 오늘 개막, 관전포인트4</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라전 374일…격전지 바흐무트서 접전 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011722818?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011722818?sid=104"/>
-        <updated>2023-03-04T19:11:49.239Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011722818?sid=104" class="nclicks(rig.secteco)" title="우크라전 374일…격전지 바흐무트서 접전 계속">우크라전 374일…격전지 바흐무트서 접전 계속</a>]]></content>
+        <title type="html"><![CDATA[영국 국방부 "우크라, 동부요충 바흐무트 수세"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001257642?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001257642?sid=104"/>
+        <updated>2023-03-04T20:14:31.013Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001257642?sid=104" class="nclicks(rig.secteco)" title="영국 국방부 &quot;우크라, 동부요충 바흐무트 수세&quot;">영국 국방부 "우크라, 동부요충 바흐무트 수세"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 지하 4층서 홀로 쓰러져 숨진 하청노동자... 금감원, 한달 넘게 '쉬쉬']]></title>
@@ -76,18 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000042654?sid=105" class="nclicks(rig.secteco)" title="공기업 아닌 '민영 기업' KT 향한 윤석열정부의 간섭…&quot;피해자는 국민&quot;">공기업 아닌 '민영 기업' KT 향한 윤석열정부의 간섭…"피해자는 국민"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아줌마” 소리에 열차 흉기 난동… 살인미수 아닌 특수상해?]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003749705?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003749705?sid=102"/>
-        <updated>2023-03-04T19:11:49.243Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003749705?sid=102" class="nclicks(rig.secteco)" title="“아줌마” 소리에 열차 흉기 난동… 살인미수 아닌 특수상해?">“아줌마” 소리에 열차 흉기 난동… 살인미수 아닌 특수상해?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 잠실 먹자골목 음주 운전자, 올림픽 국대 출신 女핸드볼 선수]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001257599?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001257599?sid=102"/>
-        <updated>2023-03-04T16:18:11.714Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001257599?sid=102" class="nclicks(rig.secteco)" title="[단독] 잠실 먹자골목 음주 운전자, 올림픽 국대 출신 女핸드볼 선수">[단독] 잠실 먹자골목 음주 운전자, 올림픽 국대 출신 女핸드볼 선수</a>]]></content>
+        <title type="html"><![CDATA[“아줌마, 휴대전화 소리 좀 줄여줘요” 말에 격분한 30대女, 전철 안 흉기 난동]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003789168?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003789168?sid=102"/>
+        <updated>2023-03-04T20:14:31.022Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003789168?sid=102" class="nclicks(rig.secteco)" title="“아줌마, 휴대전화 소리 좀 줄여줘요” 말에 격분한 30대女, 전철 안 흉기 난동">“아줌마, 휴대전화 소리 좀 줄여줘요” 말에 격분한 30대女, 전철 안 흉기 난동</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대구 송현동 앞산 산불 4시간여만에 진화…인명피해 없어(종합2보)]]></title>
@@ -97,11 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006664098?sid=102" class="nclicks(rig.secteco)" title="대구 송현동 앞산 산불 4시간여만에 진화…인명피해 없어(종합2보)">대구 송현동 앞산 산불 4시간여만에 진화…인명피해 없어(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘날씨]쌀쌀한 아침, 포근한 오후…중부내륙 미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011722288?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011722288?sid=103"/>
-        <updated>2023-03-04T15:13:38.327Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011722288?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨]쌀쌀한 아침, 포근한 오후…중부내륙 미세먼지 '나쁨'">[오늘날씨]쌀쌀한 아침, 포근한 오후…중부내륙 미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[인천 현대시장 큰불로 점포 55곳 피해…2시간 50분만에 완진(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013792442?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013792442?sid=102"/>
+        <updated>2023-03-04T20:14:31.025Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013792442?sid=102" class="nclicks(rig.secteco)" title="인천 현대시장 큰불로 점포 55곳 피해…2시간 50분만에 완진(종합2보)">인천 현대시장 큰불로 점포 55곳 피해…2시간 50분만에 완진(종합2보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 낮 최고 18도 포근한 봄 '성큼'… 미세먼지는 '나쁨']]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000900675?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000900675?sid=103"/>
+        <updated>2023-03-04T20:14:31.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000900675?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 낮 최고 18도 포근한 봄 '성큼'… 미세먼지는 '나쁨'">[오늘 날씨] 낮 최고 18도 포근한 봄 '성큼'… 미세먼지는 '나쁨'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일도 일교차 크지만 더 포근한 날씨…다음주 완전한 봄기운]]></title>
