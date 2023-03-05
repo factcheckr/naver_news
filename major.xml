@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-05T16:18:23.368Z</updated>
+    <updated>2023-03-05T17:13:00.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003789334?sid=100" class="nclicks(rig.secteco)" title="與 전대 투표율 ‘역대 최고’… 김기현도 안철수도 “내가 유리”">與 전대 투표율 ‘역대 최고’… 김기현도 안철수도 “내가 유리”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제3자 강제징용 해법…여 "과거 매몰 안돼" vs 야 "최악의 굴욕"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011723717?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011723717?sid=100"/>
-        <updated>2023-03-05T14:12:59.617Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011723717?sid=100" class="nclicks(rig.secteco)" title="제3자 강제징용 해법…여 &quot;과거 매몰 안돼&quot; vs 야 &quot;최악의 굴욕&quot;">제3자 강제징용 해법…여 "과거 매몰 안돼" vs 야 "최악의 굴욕"</a>]]></content>
+        <title type="html"><![CDATA[정부, 오늘 '강제징용' 해법 발표...'제3자 변제' 방식]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001857060?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001857060?sid=100"/>
+        <updated>2023-03-05T17:12:31.712Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001857060?sid=100" class="nclicks(rig.secteco)" title="정부, 오늘 '강제징용' 해법 발표...'제3자 변제' 방식">정부, 오늘 '강제징용' 해법 발표...'제3자 변제' 방식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]한일, 강제징용 해법 합의…6일 韓 이어 日 연쇄 발표]]></title>
