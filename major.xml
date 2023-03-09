@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-09T10:16:58.447Z</updated>
+    <updated>2023-03-09T11:13:27.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[尹대통령 16일 방일, 한일정상회담 열린다]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002788256?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002788256?sid=100"/>
-        <updated>2023-03-09T10:16:26.345Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002788256?sid=100" class="nclicks(rig.secteco)" title="尹대통령 16일 방일, 한일정상회담 열린다">尹대통령 16일 방일, 한일정상회담 열린다</a>]]></content>
+        <title type="html"><![CDATA[尹대통령, 16∼17일 첫 방일…기시다 총리와 정상회담(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013804334?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013804334?sid=100"/>
+        <updated>2023-03-09T11:13:00.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013804334?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 16∼17일 첫 방일…기시다 총리와 정상회담(종합)">尹대통령, 16∼17일 첫 방일…기시다 총리와 정상회담(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교육위, '정순신 子 학폭' 현안질의…"청문회 필요" vs "조민도 소송 남발"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011733933?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011733933?sid=100"/>
-        <updated>2023-03-09T10:16:26.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011733933?sid=100" class="nclicks(rig.secteco)" title="교육위, '정순신 子 학폭' 현안질의…&quot;청문회 필요&quot; vs &quot;조민도 소송 남발&quot;(종합)">교육위, '정순신 子 학폭' 현안질의…"청문회 필요" vs "조민도 소송 남발"(종합)</a>]]></content>
+        <title type="html"><![CDATA[“정순신 아들, 반성 않는데 학폭 기록 졸업 직전 삭제해 줘” [학폭 근절대책]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003790824?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003790824?sid=100"/>
+        <updated>2023-03-09T11:13:00.822Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003790824?sid=100" class="nclicks(rig.secteco)" title="“정순신 아들, 반성 않는데 학폭 기록 졸업 직전 삭제해 줘” [학폭 근절대책]">“정순신 아들, 반성 않는데 학폭 기록 졸업 직전 삭제해 줘” [학폭 근절대책]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주당 '김건희 특검법' 재발의…'쌍특검' 패스트트랙]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819196?sid=101" class="nclicks(rig.secteco)" title="이자폭탄에 &quot;빚부터 갚자&quot;…18년 만에 '디레버리징' 시작됐다">이자폭탄에 "빚부터 갚자"…18년 만에 '디레버리징' 시작됐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기정통부 "민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002285042?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002285042?sid=105"/>
-        <updated>2023-03-09T10:16:26.357Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002285042?sid=105" class="nclicks(rig.secteco)" title="과기정통부 &quot;민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력&quot;">과기정통부 "민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중소 게임 개발사 베스파, 매각 절차 돌입]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006675466?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006675466?sid=105"/>
@@ -76,32 +69,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006675466?sid=105" class="nclicks(rig.secteco)" title="중소 게임 개발사 베스파, 매각 절차 돌입">중소 게임 개발사 베스파, 매각 절차 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유동규 “김만배 대장동 지분 절반은 ‘이재명 대통령 만들기’ 정치자금”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003209912?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003209912?sid=102"/>
-        <updated>2023-03-09T10:16:26.361Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003209912?sid=102" class="nclicks(rig.secteco)" title="유동규 “김만배 대장동 지분 절반은 ‘이재명 대통령 만들기’ 정치자금”">유동규 “김만배 대장동 지분 절반은 ‘이재명 대통령 만들기’ 정치자금”</a>]]></content>
+        <title type="html"><![CDATA[과기정통부 "민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력"]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002285042?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002285042?sid=105"/>
+        <updated>2023-03-09T10:16:26.357Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002285042?sid=105" class="nclicks(rig.secteco)" title="과기정통부 &quot;민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력&quot;">과기정통부 "민간 기업 사이버 보안 역량이 곧 국가 전체 경쟁력"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잠실~뚝섬 한강에 '곤돌라'…잠수교는 차 없는 다리로 변신]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004819185?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004819185?sid=102"/>
-        <updated>2023-03-09T10:16:26.362Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819185?sid=102" class="nclicks(rig.secteco)" title="잠실~뚝섬 한강에 '곤돌라'…잠수교는 차 없는 다리로 변신">잠실~뚝섬 한강에 '곤돌라'…잠수교는 차 없는 다리로 변신</a>]]></content>
+        <title type="html"><![CDATA[JMS 끌어와 변심 계기 밝힌 유동규 "괘씸했다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002384685?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002384685?sid=102"/>
+        <updated>2023-03-09T11:13:00.845Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002384685?sid=102" class="nclicks(rig.secteco)" title="JMS 끌어와 변심 계기 밝힌 유동규 &quot;괘씸했다&quot;">JMS 끌어와 변심 계기 밝힌 유동규 "괘씸했다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['택시기사 폭행' 이용구 전 차관 2심도 집유]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004979715?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004979715?sid=102"/>
-        <updated>2023-03-09T10:16:26.362Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004979715?sid=102" class="nclicks(rig.secteco)" title="'택시기사 폭행' 이용구 전 차관 2심도 집유">'택시기사 폭행' 이용구 전 차관 2심도 집유</a>]]></content>
+        <title type="html"><![CDATA[‘한강르네상스’ 다시 띄운 오세훈 “성과 실증됐다”…과연?]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002630755?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002630755?sid=102"/>
+        <updated>2023-03-09T11:13:00.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002630755?sid=102" class="nclicks(rig.secteco)" title="‘한강르네상스’ 다시 띄운 오세훈 “성과 실증됐다”…과연?">‘한강르네상스’ 다시 띄운 오세훈 “성과 실증됐다”…과연?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 이용자 10명 중 6명 "계정공유 금지? 안 봐요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005228792?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005228792?sid=103"/>
-        <updated>2023-03-09T10:16:26.364Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005228792?sid=103" class="nclicks(rig.secteco)" title="넷플릭스 이용자 10명 중 6명 &quot;계정공유 금지? 안 봐요&quot;">넷플릭스 이용자 10명 중 6명 "계정공유 금지? 안 봐요"</a>]]></content>
+        <title type="html"><![CDATA[‘주69시간 근로’ 반발 확산… MZ노조도 “국제기준 어긋나”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003790831?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003790831?sid=102"/>
+        <updated>2023-03-09T11:13:00.851Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003790831?sid=102" class="nclicks(rig.secteco)" title="‘주69시간 근로’ 반발 확산… MZ노조도 “국제기준 어긋나”">‘주69시간 근로’ 반발 확산… MZ노조도 “국제기준 어긋나”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 계정 공유 제한하면? 62.8% "이용 중단하겠다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001858751?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001858751?sid=103"/>
+        <updated>2023-03-09T11:13:00.853Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001858751?sid=103" class="nclicks(rig.secteco)" title="넷플릭스 계정 공유 제한하면? 62.8% &quot;이용 중단하겠다&quot;">넷플릭스 계정 공유 제한하면? 62.8% "이용 중단하겠다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[내일날씨] 벌써 여름인가?… 10일 낮 최고기온 ‘26도’]]></title>
