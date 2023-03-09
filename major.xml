@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-09T03:23:12.743Z</updated>
+    <updated>2023-03-09T04:19:06.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보]민주, '김건희 특검법' 발의…주가조작·코바나 협찬의혹 진상규명]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000956841?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000956841?sid=100"/>
-        <updated>2023-03-09T03:22:38.748Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000956841?sid=100" class="nclicks(rig.secteco)" title="[속보]민주, '김건희 특검법' 발의…주가조작·코바나 협찬의혹 진상규명">[속보]민주, '김건희 특검법' 발의…주가조작·코바나 협찬의혹 진상규명</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현 "총선 압승·尹정부 성공이 임무…노동개혁 시급"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004860088?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004860088?sid=100"/>
-        <updated>2023-03-09T03:22:38.752Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004860088?sid=100" class="nclicks(rig.secteco)" title="김기현 &quot;총선 압승·尹정부 성공이 임무…노동개혁 시급&quot;">김기현 "총선 압승·尹정부 성공이 임무…노동개혁 시급"</a>]]></content>
+        <title type="html"><![CDATA["김건희만 무혐의? 국민 특검해야" 민주당 `金 특검법` 발의(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005439290?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005439290?sid=100"/>
+        <updated>2023-03-09T04:18:36.302Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005439290?sid=100" class="nclicks(rig.secteco)" title="&quot;김건희만 무혐의? 국민 특검해야&quot; 민주당 `金 특검법` 발의(종합)">"김건희만 무혐의? 국민 특검해야" 민주당 `金 특검법` 발의(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹, ‘샤힌 프로젝트로’로 ‘제2 중동붐’ 본격화…“외국인 투자 규제 과감히 개선”]]></title>
@@ -27,39 +20,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002114168?sid=100" class="nclicks(rig.secteco)" title="尹, ‘샤힌 프로젝트로’로 ‘제2 중동붐’ 본격화…“외국인 투자 규제 과감히 개선”">尹, ‘샤힌 프로젝트로’로 ‘제2 중동붐’ 본격화…“외국인 투자 규제 과감히 개선”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라, 바흐무트 넘기나…러 용병단, '동쪽 완전점령' 선언]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013802046?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013802046?sid=104"/>
-        <updated>2023-03-09T01:13:46.627Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013802046?sid=104" class="nclicks(rig.secteco)" title="우크라, 바흐무트 넘기나…러 용병단, '동쪽 완전점령' 선언">우크라, 바흐무트 넘기나…러 용병단, '동쪽 완전점령' 선언</a>]]></content>
+        <title type="html"><![CDATA[[속보] 김기현 직격 “日 강제징용 배상 문제, 文정권이 더 꼬이게 해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002788091?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002788091?sid=100"/>
+        <updated>2023-03-09T04:18:36.303Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002788091?sid=100" class="nclicks(rig.secteco)" title="[속보] 김기현 직격 “日 강제징용 배상 문제, 文정권이 더 꼬이게 해”">[속보] 김기현 직격 “日 강제징용 배상 문제, 文정권이 더 꼬이게 해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 방일 후 기시다 오나...日언론 "韓 지소미아 정상화 방침"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003264593?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003264593?sid=104"/>
-        <updated>2023-03-09T02:51:53.329Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264593?sid=104" class="nclicks(rig.secteco)" title="尹 방일 후 기시다 오나...日언론 &quot;韓 지소미아 정상화 방침&quot;">尹 방일 후 기시다 오나...日언론 "韓 지소미아 정상화 방침"</a>]]></content>
+        <title type="html"><![CDATA[러군, 우크라戰 최격전지 바흐무트 점령 임박... 서방 “중요치 않다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003750647?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003750647?sid=104"/>
+        <updated>2023-03-09T04:18:36.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003750647?sid=104" class="nclicks(rig.secteco)" title="러군, 우크라戰 최격전지 바흐무트 점령 임박... 서방 “중요치 않다”">러군, 우크라戰 최격전지 바흐무트 점령 임박... 서방 “중요치 않다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일문일답] "주담대도 온라인 갈아타기…심사 기간 1~2일로 당긴다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006674221?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006674221?sid=101"/>
-        <updated>2023-03-09T03:22:38.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006674221?sid=101" class="nclicks(rig.secteco)" title="[일문일답] &quot;주담대도 온라인 갈아타기…심사 기간 1~2일로 당긴다&quot;">[일문일답] "주담대도 온라인 갈아타기…심사 기간 1~2일로 당긴다"</a>]]></content>
+        <title type="html"><![CDATA[“우리의 완승”이라는 日 이번엔 “한국 지소미아 검토 주시할 것” 양보 강요]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003790625?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003790625?sid=104"/>
+        <updated>2023-03-09T04:18:36.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003790625?sid=104" class="nclicks(rig.secteco)" title="“우리의 완승”이라는 日 이번엔 “한국 지소미아 검토 주시할 것” 양보 강요">“우리의 완승”이라는 日 이번엔 “한국 지소미아 검토 주시할 것” 양보 강요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG엔솔·SK온, 인터배터리 참가…배터리 첨단기술 선보인다]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013802569?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013802569?sid=101"/>
-        <updated>2023-03-09T03:22:38.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013802569?sid=101" class="nclicks(rig.secteco)" title="LG엔솔·SK온, 인터배터리 참가…배터리 첨단기술 선보인다">LG엔솔·SK온, 인터배터리 참가…배터리 첨단기술 선보인다</a>]]></content>
+        <title type="html"><![CDATA[주택담보대출도 온라인 플랫폼에서 갈아탄다…연내 목표(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013802483?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013802483?sid=101"/>
+        <updated>2023-03-09T04:18:36.306Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013802483?sid=101" class="nclicks(rig.secteco)" title="주택담보대출도 온라인 플랫폼에서 갈아탄다…연내 목표(종합)">주택담보대출도 온라인 플랫폼에서 갈아탄다…연내 목표(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주택담보대출 두달 연속 감소... 가계대출도 5.4조 줄어]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000883683?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000883683?sid=101"/>
-        <updated>2023-03-09T03:22:38.779Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000883683?sid=101" class="nclicks(rig.secteco)" title="주택담보대출 두달 연속 감소... 가계대출도 5.4조 줄어">주택담보대출 두달 연속 감소... 가계대출도 5.4조 줄어</a>]]></content>
+        <title type="html"><![CDATA[2월 은행권 가계대출 2.7조 원↓…주담대 9년여 만에 감소]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011442187?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011442187?sid=101"/>
+        <updated>2023-03-09T04:18:36.307Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011442187?sid=101" class="nclicks(rig.secteco)" title="2월 은행권 가계대출 2.7조 원↓…주담대 9년여 만에 감소">2월 은행권 가계대출 2.7조 원↓…주담대 9년여 만에 감소</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배터리 패권 가르는 '錢의 전쟁'…美에 수십조 쏟지만 부메랑 우려도 [biz-플러스]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004164869?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004164869?sid=101"/>
+        <updated>2023-03-09T04:18:36.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004164869?sid=101" class="nclicks(rig.secteco)" title="배터리 패권 가르는 '錢의 전쟁'…美에 수십조 쏟지만 부메랑 우려도 [biz-플러스]">배터리 패권 가르는 '錢의 전쟁'…美에 수십조 쏟지만 부메랑 우려도 [biz-플러스]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어른만 남는 페북…月 이용자 1000만명선 붕괴]]></title>
@@ -76,25 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003209799?sid=105" class="nclicks(rig.secteco)" title="‘눈 달린 챗GPT’ AskUp 서비스, 카톡 출시 3일 만에 채널 친구 3만명">‘눈 달린 챗GPT’ AskUp 서비스, 카톡 출시 3일 만에 채널 친구 3만명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경남 합천 산불 20시간 만에 진화…“방화 가능성 있다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002114226?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002114226?sid=102"/>
-        <updated>2023-03-09T03:22:38.780Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002114226?sid=102" class="nclicks(rig.secteco)" title="경남 합천 산불 20시간 만에 진화…“방화 가능성 있다”">경남 합천 산불 20시간 만에 진화…“방화 가능성 있다”</a>]]></content>
+        <title type="html"><![CDATA[합천 산불, 축구장 230여개 면적 피해…대피주민 214명 귀가 중(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006674336?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006674336?sid=102"/>
+        <updated>2023-03-09T04:18:36.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006674336?sid=102" class="nclicks(rig.secteco)" title="합천 산불, 축구장 230여개 면적 피해…대피주민 214명 귀가 중(종합)">합천 산불, 축구장 230여개 면적 피해…대피주민 214명 귀가 중(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곤돌라 타고 한강 건너고 여의도엔 제2세종문화회관(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013802882?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013802882?sid=102"/>
-        <updated>2023-03-09T03:22:38.782Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013802882?sid=102" class="nclicks(rig.secteco)" title="곤돌라 타고 한강 건너고 여의도엔 제2세종문화회관(종합)">곤돌라 타고 한강 건너고 여의도엔 제2세종문화회관(종합)</a>]]></content>
+        <title type="html"><![CDATA[이달 중 '대중교통內 마스크' 풀릴 듯…내주 중대본서 결정]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003745627?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003745627?sid=102"/>
+        <updated>2023-03-09T04:18:36.314Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003745627?sid=102" class="nclicks(rig.secteco)" title="이달 중 '대중교통內 마스크' 풀릴 듯…내주 중대본서 결정">이달 중 '대중교통內 마스크' 풀릴 듯…내주 중대본서 결정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]방대본 "대중교통 마스크 의무 해제 검토…다음주 발표"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000956832?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000956832?sid=102"/>
-        <updated>2023-03-09T03:22:38.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000956832?sid=102" class="nclicks(rig.secteco)" title="[속보]방대본 &quot;대중교통 마스크 의무 해제 검토…다음주 발표&quot;">[속보]방대본 "대중교통 마스크 의무 해제 검토…다음주 발표"</a>]]></content>
+        <title type="html"><![CDATA["한강 위 곤돌라, 여의도 제2세종문화회관, 화려한 스카이라인"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005228599?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005228599?sid=102"/>
+        <updated>2023-03-09T04:18:36.314Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005228599?sid=102" class="nclicks(rig.secteco)" title="&quot;한강 위 곤돌라, 여의도 제2세종문화회관, 화려한 스카이라인&quot;(종합)">"한강 위 곤돌라, 여의도 제2세종문화회관, 화려한 스카이라인"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 계정공유 제한, 10명 중 3명은 "이용 중단" 예고]]></title>
