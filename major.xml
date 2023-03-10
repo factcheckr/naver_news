@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-10T07:14:12.255Z</updated>
+    <updated>2023-03-10T08:19:32.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이재명, 전 비서실장 사망에 "검찰의 미친 칼질 도저히 용서할 수 없다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000117171?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000117171?sid=100"/>
-        <updated>2023-03-10T04:17:48.525Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000117171?sid=100" class="nclicks(rig.secteco)" title="이재명, 전 비서실장 사망에 &quot;검찰의 미친 칼질 도저히 용서할 수 없다&quot;">이재명, 전 비서실장 사망에 "검찰의 미친 칼질 도저히 용서할 수 없다"</a>]]></content>
+        <title type="html"><![CDATA[前비서실장 사망에 위기 직면 이재명…檢 책임론으로 맞대응]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006677144?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006677144?sid=100"/>
+        <updated>2023-03-10T08:19:03.637Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006677144?sid=100" class="nclicks(rig.secteco)" title="前비서실장 사망에 위기 직면 이재명…檢 책임론으로 맞대응">前비서실장 사망에 위기 직면 이재명…檢 책임론으로 맞대응</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전문] 尹대통령 “한미 핵기획·실행체계 확립…북핵 확장억제 강화”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002114856?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002114856?sid=100"/>
+        <updated>2023-03-10T08:19:03.640Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002114856?sid=100" class="nclicks(rig.secteco)" title="[전문] 尹대통령 “한미 핵기획·실행체계 확립…북핵 확장억제 강화”">[전문] 尹대통령 “한미 핵기획·실행체계 확립…북핵 확장억제 강화”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 지지율 34%, 2%p↓…"강제동원 해법 반향"]]></title>
@@ -20,53 +27,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746108?sid=100" class="nclicks(rig.secteco)" title="尹 지지율 34%, 2%p↓…&quot;강제동원 해법 반향&quot;">尹 지지율 34%, 2%p↓…"강제동원 해법 반향"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령, 해사 졸업식 참석…"가짜평화 아닌 힘에 의한 평화"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013806074?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013806074?sid=100"/>
-        <updated>2023-03-10T07:13:44.474Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806074?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 해사 졸업식 참석…&quot;가짜평화 아닌 힘에 의한 평화&quot;">尹대통령, 해사 졸업식 참석…"가짜평화 아닌 힘에 의한 평화"</a>]]></content>
+        <title type="html"><![CDATA[외신 "대담해진 3연임 시진핑, 대만 장악 시도시 미중 군사대결"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013806359?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013806359?sid=104"/>
+        <updated>2023-03-10T08:19:03.643Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806359?sid=104" class="nclicks(rig.secteco)" title="외신 &quot;대담해진 3연임 시진핑, 대만 장악 시도시 미중 군사대결&quot;(종합)">외신 "대담해진 3연임 시진핑, 대만 장악 시도시 미중 군사대결"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시진핑 만장일치로 첫 국가주석 3연임…'1인 장기체제' 완성(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013805960?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013805960?sid=104"/>
-        <updated>2023-03-10T07:13:44.474Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013805960?sid=104" class="nclicks(rig.secteco)" title="시진핑 만장일치로 첫 국가주석 3연임…'1인 장기체제' 완성(종합2보)">시진핑 만장일치로 첫 국가주석 3연임…'1인 장기체제' 완성(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[일본은행, 내달 9일 신체제…10년만의 새 총재 인준안 통과(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013806354?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013806354?sid=104"/>
+        <updated>2023-03-10T08:19:03.645Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806354?sid=104" class="nclicks(rig.secteco)" title="일본은행, 내달 9일 신체제…10년만의 새 총재 인준안 통과(종합)">일본은행, 내달 9일 신체제…10년만의 새 총재 인준안 통과(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[통상교섭본부장 “美에 반도체법 보조금 요건, 기업 경영 개입 우려 전달”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003791093?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003791093?sid=104"/>
-        <updated>2023-03-10T07:13:44.479Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791093?sid=104" class="nclicks(rig.secteco)" title="통상교섭본부장 “美에 반도체법 보조금 요건, 기업 경영 개입 우려 전달”">통상교섭본부장 “美에 반도체법 보조금 요건, 기업 경영 개입 우려 전달”</a>]]></content>
+        <title type="html"><![CDATA[LG家 첫 상속 분쟁…'장자 승계' LG "경영권 흔들기 용납 안돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013806345?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013806345?sid=101"/>
+        <updated>2023-03-10T08:19:03.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806345?sid=101" class="nclicks(rig.secteco)" title="LG家 첫 상속 분쟁…'장자 승계' LG &quot;경영권 흔들기 용납 안돼&quot;">LG家 첫 상속 분쟁…'장자 승계' LG "경영권 흔들기 용납 안돼"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“전세사기 피해자 긴급지원주택 거주 후 공공임대 입주 가능”[일문일답]]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006676787?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006676787?sid=101"/>
-        <updated>2023-03-10T06:19:43.630Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006676787?sid=101" class="nclicks(rig.secteco)" title="“전세사기 피해자 긴급지원주택 거주 후 공공임대 입주 가능”[일문일답]">“전세사기 피해자 긴급지원주택 거주 후 공공임대 입주 가능”[일문일답]</a>]]></content>
+        <title type="html"><![CDATA[전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000335103?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000335103?sid=101"/>
+        <updated>2023-03-10T08:19:03.648Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000335103?sid=101" class="nclicks(rig.secteco)" title="전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지">전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG 구광모 회장에 가족이 상속회복소송…LG "합의따른 적법한 상속"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013805905?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013805905?sid=101"/>
-        <updated>2023-03-10T07:13:44.486Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013805905?sid=101" class="nclicks(rig.secteco)" title="LG 구광모 회장에 가족이 상속회복소송…LG &quot;합의따른 적법한 상속&quot;">LG 구광모 회장에 가족이 상속회복소송…LG "합의따른 적법한 상속"</a>]]></content>
+        <title type="html"><![CDATA[[단독] "2대 주주 현대차그룹마저 KT에 등 돌려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000053809?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000053809?sid=101"/>
+        <updated>2023-03-10T08:19:03.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000053809?sid=101" class="nclicks(rig.secteco)" title="[단독] &quot;2대 주주 현대차그룹마저 KT에 등 돌려&quot;">[단독] "2대 주주 현대차그룹마저 KT에 등 돌려"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1월 경상수지 적자 역대 최대..."연간으로는 260억달러 흑자 낼것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003264907?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003264907?sid=101"/>
-        <updated>2023-03-10T07:13:44.486Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264907?sid=101" class="nclicks(rig.secteco)" title="1월 경상수지 적자 역대 최대...&quot;연간으로는 260억달러 흑자 낼것&quot;">1월 경상수지 적자 역대 최대..."연간으로는 260억달러 흑자 낼것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 임승태 KT 사외이사 내정자 사퇴키로]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000587917?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000587917?sid=105"/>
-        <updated>2023-03-10T07:13:44.486Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000587917?sid=105" class="nclicks(rig.secteco)" title="[단독] 임승태 KT 사외이사 내정자 사퇴키로">[단독] 임승태 KT 사외이사 내정자 사퇴키로</a>]]></content>
+        <title type="html"><![CDATA[‘윤캠프’ 출신 KT 사외이사 후보 사의… 대표 이사 선임 진통 계속]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003345275?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003345275?sid=105"/>
+        <updated>2023-03-10T08:19:03.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003345275?sid=105" class="nclicks(rig.secteco)" title="‘윤캠프’ 출신 KT 사외이사 후보 사의… 대표 이사 선임 진통 계속">‘윤캠프’ 출신 KT 사외이사 후보 사의… 대표 이사 선임 진통 계속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '챗 GPT' 빗장 푼 한종희…삼성전자, 11일부터 사업장 內 도입]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000733430?sid=105" class="nclicks(rig.secteco)" title="[단독] '챗 GPT' 빗장 푼 한종희…삼성전자, 11일부터 사업장 內 도입">[단독] '챗 GPT' 빗장 푼 한종희…삼성전자, 11일부터 사업장 內 도입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 전 비서실장 사망으로 검찰 수사·재판에도 영향 불가피]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013805891?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013805891?sid=102"/>
-        <updated>2023-03-10T06:19:43.631Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013805891?sid=102" class="nclicks(rig.secteco)" title="이재명 전 비서실장 사망으로 검찰 수사·재판에도 영향 불가피">이재명 전 비서실장 사망으로 검찰 수사·재판에도 영향 불가피</a>]]></content>
+        <title type="html"><![CDATA[前 비서실장 유서에 “이제 정치 내려놓으시라”…李 “檢 압박수사 탓” 정면돌파]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003791110?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003791110?sid=102"/>
+        <updated>2023-03-10T08:19:03.654Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791110?sid=102" class="nclicks(rig.secteco)" title="前 비서실장 유서에 “이제 정치 내려놓으시라”…李 “檢 압박수사 탓” 정면돌파">前 비서실장 유서에 “이제 정치 내려놓으시라”…李 “檢 압박수사 탓” 정면돌파</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“검찰 수사로 사망” 주장에… 유동규 “이재명, 제발 남 핑계 대지 말라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003750935?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003750935?sid=102"/>
-        <updated>2023-03-10T07:13:44.486Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003750935?sid=102" class="nclicks(rig.secteco)" title="“검찰 수사로 사망” 주장에… 유동규 “이재명, 제발 남 핑계 대지 말라”">“검찰 수사로 사망” 주장에… 유동규 “이재명, 제발 남 핑계 대지 말라”</a>]]></content>
+        <title type="html"><![CDATA[이재명, 前 비서실장 사망에 "檢 때문"…유동규 "핑계 대지마"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003746174?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003746174?sid=102"/>
+        <updated>2023-03-10T08:19:03.656Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746174?sid=102" class="nclicks(rig.secteco)" title="이재명, 前 비서실장 사망에 &quot;檢 때문&quot;…유동규 &quot;핑계 대지마&quot;">이재명, 前 비서실장 사망에 "檢 때문"…유동규 "핑계 대지마"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어디서 뚫렸을까? 권총실탄이 어떻게 대한항공 기내까지]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005099819?sid=103" class="nclicks(rig.secteco)" title="“한국하면 ‘이것’ 떠올라”...외국인에 물어본 한국, 결과는">“한국하면 ‘이것’ 떠올라”...외국인에 물어본 한국, 결과는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BMW, 로드스터 '뉴 Z4' 부분변경 출시…7250만원부터]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002285123?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002285123?sid=103"/>
-        <updated>2023-03-10T07:13:44.488Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002285123?sid=103" class="nclicks(rig.secteco)" title="BMW, 로드스터 '뉴 Z4' 부분변경 출시…7250만원부터">BMW, 로드스터 '뉴 Z4' 부분변경 출시…7250만원부터</a>]]></content>
+        <title type="html"><![CDATA[벤츠, 버질 아블로 유작 ‘프로젝트 마이바흐’ 서울패션위크서 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005440215?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005440215?sid=103"/>
+        <updated>2023-03-10T08:19:03.661Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005440215?sid=103" class="nclicks(rig.secteco)" title="벤츠, 버질 아블로 유작 ‘프로젝트 마이바흐’ 서울패션위크서 공개">벤츠, 버질 아블로 유작 ‘프로젝트 마이바흐’ 서울패션위크서 공개</a>]]></content>
     </entry>
 </feed>
