@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-10T10:17:00.380Z</updated>
+    <updated>2023-03-10T11:13:26.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤석열 대통령, 해사 임관식 참석…"힘에 의한 진정한 평화 구축" [뉴시스Pic]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011735836?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011735836?sid=100"/>
-        <updated>2023-03-10T10:16:32.597Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011735836?sid=100" class="nclicks(rig.secteco)" title="윤석열 대통령, 해사 임관식 참석…&quot;힘에 의한 진정한 평화 구축&quot; [뉴시스Pic]">윤석열 대통령, 해사 임관식 참석…"힘에 의한 진정한 평화 구축" [뉴시스Pic]</a>]]></content>
+        <title type="html"><![CDATA[尹대통령, 해사 졸업식 참석…"가짜 평화 아닌 힘에 의한 평화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002788339?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002788339?sid=100"/>
+        <updated>2023-03-10T11:12:57.471Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002788339?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 해사 졸업식 참석…&quot;가짜 평화 아닌 힘에 의한 평화&quot;">尹대통령, 해사 졸업식 참석…"가짜 평화 아닌 힘에 의한 평화"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[측근 빈소 찾은 이재명, 유족 조문 거부로 6시간째 대기(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006677447?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006677447?sid=100"/>
+        <updated>2023-03-10T11:12:57.472Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006677447?sid=100" class="nclicks(rig.secteco)" title="측근 빈소 찾은 이재명, 유족 조문 거부로 6시간째 대기(종합)">측근 빈소 찾은 이재명, 유족 조문 거부로 6시간째 대기(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[스프] 오후 내내 조문 대기…이재명 대표의 긴 하루]]></title>
@@ -18,13 +25,6 @@
         <link href="https://n.news.naver.com/mnews/article/055/0001041627?sid=100"/>
         <updated>2023-03-10T10:16:32.599Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001041627?sid=100" class="nclicks(rig.secteco)" title="[스프] 오후 내내 조문 대기…이재명 대표의 긴 하루">[스프] 오후 내내 조문 대기…이재명 대표의 긴 하루</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교부 "日 피고기업 기금 참여 예상…韓日 지소미아 정상화"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004860775?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004860775?sid=100"/>
-        <updated>2023-03-10T09:15:06.723Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004860775?sid=100" class="nclicks(rig.secteco)" title="외교부 &quot;日 피고기업 기금 참여 예상…韓日 지소미아 정상화&quot;">외교부 "日 피고기업 기금 참여 예상…韓日 지소미아 정상화"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시진핑, '만장일치'로 국가주석 첫 3연임 확정]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264948?sid=101" class="nclicks(rig.secteco)" title="구광모, 상속회복 피소…LG &quot;적법 상속, 경영권 흔들기 안 돼&quot;">구광모, 상속회복 피소…LG "적법 상속, 경영권 흔들기 안 돼"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000335103?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000335103?sid=101"/>
-        <updated>2023-03-10T08:19:03.648Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000335103?sid=101" class="nclicks(rig.secteco)" title="전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지">전세사기 피해확인서 신속 발급…전셋집 낙찰받아도 생애최초 혜택 유지</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상품수지 -74.6억弗 '최악'…상반기 경상수지 적자 불가피]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004819576?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/015/0004819576?sid=101"/>
@@ -62,11 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819576?sid=101" class="nclicks(rig.secteco)" title="상품수지 -74.6억弗 '최악'…상반기 경상수지 적자 불가피">상품수지 -74.6억弗 '최악'…상반기 경상수지 적자 불가피</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사외이사 후보 사퇴에 검찰 수사까지…KT 주총 앞두고 더 거세진 외풍]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003264951?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003264951?sid=105"/>
-        <updated>2023-03-10T10:16:32.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264951?sid=105" class="nclicks(rig.secteco)" title="사외이사 후보 사퇴에 검찰 수사까지…KT 주총 앞두고 더 거세진 외풍">사외이사 후보 사퇴에 검찰 수사까지…KT 주총 앞두고 더 거세진 외풍</a>]]></content>
+        <title type="html"><![CDATA[국토부, '전세사기' 피해자 위한 추가 지원방안 마련]]></title>
+        <id>https://n.news.naver.com/mnews/article/310/0000104830?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/310/0000104830?sid=101"/>
+        <updated>2023-03-10T11:12:57.479Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000104830?sid=101" class="nclicks(rig.secteco)" title="국토부, '전세사기' 피해자 위한 추가 지원방안 마련">국토부, '전세사기' 피해자 위한 추가 지원방안 마련</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "2대 주주 현대차그룹마저 KT에 등 돌려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000053809?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000053809?sid=105"/>
+        <updated>2023-03-10T11:12:57.480Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000053809?sid=105" class="nclicks(rig.secteco)" title="[단독] &quot;2대 주주 현대차그룹마저 KT에 등 돌려&quot;">[단독] "2대 주주 현대차그룹마저 KT에 등 돌려"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이번엔 윤 대통령 고교 선배 KT스카이라이프 사장 내정 논란]]></title>
@@ -76,38 +76,38 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000117181?sid=105" class="nclicks(rig.secteco)" title="이번엔 윤 대통령 고교 선배 KT스카이라이프 사장 내정 논란">이번엔 윤 대통령 고교 선배 KT스카이라이프 사장 내정 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 경기지사 시절 초대 비서실장 숨지면서…주변인물 사망자 5명으로 늘어]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000802850?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000802850?sid=102"/>
-        <updated>2023-03-10T10:16:32.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000802850?sid=102" class="nclicks(rig.secteco)" title="이재명 경기지사 시절 초대 비서실장 숨지면서…주변인물 사망자 5명으로 늘어">이재명 경기지사 시절 초대 비서실장 숨지면서…주변인물 사망자 5명으로 늘어</a>]]></content>
+        <title type="html"><![CDATA[이재명 대표 전 비서실장 숨진 채 발견…주변 인물 5번째 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001727929?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001727929?sid=102"/>
+        <updated>2023-03-10T11:12:57.482Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001727929?sid=102" class="nclicks(rig.secteco)" title="이재명 대표 전 비서실장 숨진 채 발견…주변 인물 5번째 사망">이재명 대표 전 비서실장 숨진 채 발견…주변 인물 5번째 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["李, 이젠 내려놓으시라…더 희생 없어야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004819589?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004819589?sid=102"/>
-        <updated>2023-03-10T10:16:32.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819589?sid=102" class="nclicks(rig.secteco)" title="&quot;李, 이젠 내려놓으시라…더 희생 없어야&quot;">"李, 이젠 내려놓으시라…더 희생 없어야"</a>]]></content>
+        <title type="html"><![CDATA[李 향해 "정치 내려놓으시라"…비판인가, 충언인가]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003746252?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003746252?sid=102"/>
+        <updated>2023-03-10T11:12:57.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746252?sid=102" class="nclicks(rig.secteco)" title="李 향해 &quot;정치 내려놓으시라&quot;…비판인가, 충언인가">李 향해 "정치 내려놓으시라"…비판인가, 충언인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["JMS 사회고위층 깔려있다"…PD가 밝힌 알몸 편집 안 한 이유]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003264920?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003264920?sid=102"/>
-        <updated>2023-03-10T09:15:06.735Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264920?sid=102" class="nclicks(rig.secteco)" title="&quot;JMS 사회고위층 깔려있다&quot;…PD가 밝힌 알몸 편집 안 한 이유">"JMS 사회고위층 깔려있다"…PD가 밝힌 알몸 편집 안 한 이유</a>]]></content>
+        <title type="html"><![CDATA[법원, '총경 회의 주도' 류삼영 정직 처분 효력정지]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000727870?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000727870?sid=102"/>
+        <updated>2023-03-10T11:12:57.484Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000727870?sid=102" class="nclicks(rig.secteco)" title="법원, '총경 회의 주도' 류삼영 정직 처분 효력정지">법원, '총경 회의 주도' 류삼영 정직 처분 효력정지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주말날씨] 아침에 짙은 안개…日 눈·비 오며 5~10도 '뚝'(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006677399?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006677399?sid=103"/>
-        <updated>2023-03-10T10:16:32.626Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006677399?sid=103" class="nclicks(rig.secteco)" title="[주말날씨] 아침에 짙은 안개…日 눈·비 오며 5~10도 '뚝'(종합)">[주말날씨] 아침에 짙은 안개…日 눈·비 오며 5~10도 '뚝'(종합)</a>]]></content>
+        <title type="html"><![CDATA[초여름 날씨 이상하다 했더니, 주말 이후 강풍 동반 꽃샘추위]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004819606?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004819606?sid=103"/>
+        <updated>2023-03-10T11:12:57.485Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819606?sid=103" class="nclicks(rig.secteco)" title="초여름 날씨 이상하다 했더니, 주말 이후 강풍 동반 꽃샘추위">초여름 날씨 이상하다 했더니, 주말 이후 강풍 동반 꽃샘추위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한국하면 ‘이것’ 떠올라”...외국인에 물어본 한국, 결과는]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005099819?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005099819?sid=103"/>
-        <updated>2023-03-10T07:13:44.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005099819?sid=103" class="nclicks(rig.secteco)" title="“한국하면 ‘이것’ 떠올라”...외국인에 물어본 한국, 결과는">“한국하면 ‘이것’ 떠올라”...외국인에 물어본 한국, 결과는</a>]]></content>
+        <title type="html"><![CDATA[‘한국’하면 ‘K-팝’…IT강국서 문화강국으로]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002114643?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002114643?sid=103"/>
+        <updated>2023-03-10T11:12:57.486Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002114643?sid=103" class="nclicks(rig.secteco)" title="‘한국’하면 ‘K-팝’…IT강국서 문화강국으로">‘한국’하면 ‘K-팝’…IT강국서 문화강국으로</a>]]></content>
     </entry>
 </feed>
