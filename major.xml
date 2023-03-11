@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-11T12:24:27.507Z</updated>
+    <updated>2023-03-11T13:18:26.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002384851?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;전쟁범죄에 면죄부 준 윤석열... 한국, 일본의 '호갱' 됐다&quot;">이재명 "전쟁범죄에 면죄부 준 윤석열... 한국, 일본의 '호갱' 됐다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003210212?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003210212?sid=100"/>
-        <updated>2023-03-11T12:24:01.882Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003210212?sid=100" class="nclicks(rig.secteco)" title="민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음”">민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음”</a>]]></content>
+        <title type="html"><![CDATA[민주당 "정순신 사태, 검찰 장악 상태의 한 사례일 뿐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000205278?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000205278?sid=100"/>
+        <updated>2023-03-11T13:17:57.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000205278?sid=100" class="nclicks(rig.secteco)" title="민주당 &quot;정순신 사태, 검찰 장악 상태의 한 사례일 뿐&quot;">민주당 "정순신 사태, 검찰 장악 상태의 한 사례일 뿐"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여, “이재명 정치생명이 5명 생명보다 중한가”…홍준표 “마치 아수라, 악령같은 생명력”]]></title>
@@ -27,32 +27,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002560817?sid=100" class="nclicks(rig.secteco)" title="여, “이재명 정치생명이 5명 생명보다 중한가”…홍준표 “마치 아수라, 악령같은 생명력”">여, “이재명 정치생명이 5명 생명보다 중한가”…홍준표 “마치 아수라, 악령같은 생명력”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 SVB, 44시간 만에 '파산'…실리콘밸리 직원 수 만명 '급여' 못 받나]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000733616?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000733616?sid=104"/>
-        <updated>2023-03-11T12:24:01.884Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000733616?sid=104" class="nclicks(rig.secteco)" title="美 SVB, 44시간 만에 '파산'…실리콘밸리 직원 수 만명 '급여' 못 받나">美 SVB, 44시간 만에 '파산'…실리콘밸리 직원 수 만명 '급여' 못 받나</a>]]></content>
+        <title type="html"><![CDATA[세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004860899?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004860899?sid=104"/>
+        <updated>2023-03-11T13:17:57.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004860899?sid=104" class="nclicks(rig.secteco)" title="세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도">세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까?]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003746334?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003746334?sid=104"/>
-        <updated>2023-03-11T12:24:01.884Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746334?sid=104" class="nclicks(rig.secteco)" title="시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까?">시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까?</a>]]></content>
+        <title type="html"><![CDATA[경제사령탑이냐, 시진핑의 충복이냐…2인자 中리창 행보 주목]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013807331?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013807331?sid=104"/>
+        <updated>2023-03-11T13:17:57.655Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013807331?sid=104" class="nclicks(rig.secteco)" title="경제사령탑이냐, 시진핑의 충복이냐…2인자 中리창 행보 주목">경제사령탑이냐, 시진핑의 충복이냐…2인자 中리창 행보 주목</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SM 주가 부담됐나…치고받던 하이브·카카오, 전격 회동]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001041852?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001041852?sid=101"/>
-        <updated>2023-03-11T12:24:01.885Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001041852?sid=101" class="nclicks(rig.secteco)" title="SM 주가 부담됐나…치고받던 하이브·카카오, 전격 회동">SM 주가 부담됐나…치고받던 하이브·카카오, 전격 회동</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004165774?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004165774?sid=101"/>
-        <updated>2023-03-11T04:16:18.576Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004165774?sid=101" class="nclicks(rig.secteco)" title="“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]">“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]</a>]]></content>
+        <title type="html"><![CDATA[[단독]SM 인수 과열 부담?…카카오·하이브 협상 테이블 앉았다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003264987?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003264987?sid=101"/>
+        <updated>2023-03-11T13:17:57.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003264987?sid=101" class="nclicks(rig.secteco)" title="[단독]SM 인수 과열 부담?…카카오·하이브 협상 테이블 앉았다">[단독]SM 인수 과열 부담?…카카오·하이브 협상 테이블 앉았다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘휘발유’ 이러다 앞자리 바뀔까, 역전될까.. 벌써 1,700원 ‘훌쩍’]]></title>
@@ -60,6 +53,13 @@
         <link href="https://n.news.naver.com/mnews/article/661/0000021714?sid=101"/>
         <updated>2023-03-11T12:24:01.885Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000021714?sid=101" class="nclicks(rig.secteco)" title="‘휘발유’ 이러다 앞자리 바뀔까, 역전될까.. 벌써 1,700원  ‘훌쩍’">‘휘발유’ 이러다 앞자리 바뀔까, 역전될까.. 벌써 1,700원 ‘훌쩍’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004165774?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004165774?sid=101"/>
+        <updated>2023-03-11T04:16:18.576Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004165774?sid=101" class="nclicks(rig.secteco)" title="“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]">“3월 금리 CPI가 최종결정”…“SVB 영업정지 시스템 리스크X” [김영필의 3분 월스트리트]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '챗 GPT' 빗장 푼 한종희…삼성전자, 11일부터 사업장 內 도입]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004980151?sid=105" class="nclicks(rig.secteco)" title="&quot;구글에서 빙으로 갈아탄다&quot; 생성AI에 요동치는 '검색패권'">"구글에서 빙으로 갈아탄다" 생성AI에 요동치는 '검색패권'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경남 하동 화개 산불 46% 진화…주민 190여명 대피(종합1보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011736923?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011736923?sid=102"/>
-        <updated>2023-03-11T12:24:01.889Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011736923?sid=102" class="nclicks(rig.secteco)" title="경남 하동 화개 산불 46% 진화…주민 190여명 대피(종합1보)">경남 하동 화개 산불 46% 진화…주민 190여명 대피(종합1보)</a>]]></content>
+        <title type="html"><![CDATA[[속보]‘194명 대피’ 하동군 산불, 어두워져 헬기 철수…진화율 46%, 야간작업 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002560822?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002560822?sid=102"/>
+        <updated>2023-03-11T13:17:57.676Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002560822?sid=102" class="nclicks(rig.secteco)" title="[속보]‘194명 대피’ 하동군 산불, 어두워져 헬기 철수…진화율 46%, 야간작업 중">[속보]‘194명 대피’ 하동군 산불, 어두워져 헬기 철수…진화율 46%, 야간작업 중</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['친일 망언' 논란 김영환 충북지사 "문맥 보길…내 인격에 대한 모욕"]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013807640?sid=103" class="nclicks(rig.secteco)" title="[날씨] 천둥·번개 동반한 비…밤부터 영하권">[날씨] 천둥·번개 동반한 비…밤부터 영하권</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013806427?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013806427?sid=103"/>
-        <updated>2023-03-11T03:15:10.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806427?sid=103" class="nclicks(rig.secteco)" title="오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속">오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속</a>]]></content>
+        <title type="html"><![CDATA[선배 부상에 기회 잡은 POB의 차세대 간판, 새로운 '별' 등극(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006678489?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006678489?sid=103"/>
+        <updated>2023-03-11T13:17:57.699Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006678489?sid=103" class="nclicks(rig.secteco)" title="선배 부상에 기회 잡은 POB의 차세대 간판, 새로운 '별' 등극(종합)">선배 부상에 기회 잡은 POB의 차세대 간판, 새로운 '별' 등극(종합)</a>]]></content>
     </entry>
 </feed>
