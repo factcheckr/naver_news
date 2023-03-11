@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-11T08:17:25.312Z</updated>
+    <updated>2023-03-11T09:13:12.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[단독] 이재명, 조문 못 하고 대기만…'부검 논란'에 검찰 기각 방침 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001727935?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001727935?sid=100"/>
-        <updated>2023-03-11T03:15:10.287Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001727935?sid=100" class="nclicks(rig.secteco)" title="[단독] 이재명, 조문 못 하고 대기만…'부검 논란'에 검찰 기각 방침">[단독] 이재명, 조문 못 하고 대기만…'부검 논란'에 검찰 기각 방침</a>]]></content>
+        <title type="html"><![CDATA[민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003210212?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003210212?sid=100"/>
+        <updated>2023-03-11T09:12:44.136Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003210212?sid=100" class="nclicks(rig.secteco)" title="민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음”">민주 “검찰이 당·정·대 완전 장악···군부 세력 이후 처음”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스1 PICK]이재명, 6시간 40분 기다림 속 조문…유서 관련 질문에 '묵묵부답' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006677576?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006677576?sid=100"/>
+        <updated>2023-03-11T09:12:44.137Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006677576?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK]이재명, 6시간 40분 기다림 속 조문…유서 관련 질문에 '묵묵부답'">[뉴스1 PICK]이재명, 6시간 40분 기다림 속 조문…유서 관련 질문에 '묵묵부답'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["정치 내려 놓으시라"…李, 故 전형수 씨 '호소'에도 발인날 공개 정치로 '분주' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000733599?sid=100" class="nclicks(rig.secteco)" title="&quot;정치 내려 놓으시라&quot;…李, 故 전형수 씨 '호소'에도 발인날 공개 정치로 '분주'">"정치 내려 놓으시라"…李, 故 전형수 씨 '호소'에도 발인날 공개 정치로 '분주'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 민주 "윤석열 검사왕국 완성…수사 빙자 사법살인 멈춰라" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000034550?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000034550?sid=100"/>
-        <updated>2023-03-11T08:16:57.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000034550?sid=100" class="nclicks(rig.secteco)" title="[속보] 민주 &quot;윤석열 검사왕국 완성…수사 빙자 사법살인 멈춰라&quot;">[속보] 민주 "윤석열 검사왕국 완성…수사 빙자 사법살인 멈춰라"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004860899?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004860899?sid=104"/>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004860899?sid=104" class="nclicks(rig.secteco)" title="세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도">세상에 美은행이 망하다니…돈묶인 기업 발동동, 줄도산 우려도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中리창 총리 역할 주목…"경제사령탑이냐 충실한 집행자냐" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011736677?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011736677?sid=104"/>
-        <updated>2023-03-11T08:16:57.712Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011736677?sid=104" class="nclicks(rig.secteco)" title="中리창 총리 역할 주목…&quot;경제사령탑이냐 충실한 집행자냐&quot;">中리창 총리 역할 주목…"경제사령탑이냐 충실한 집행자냐"</a>]]></content>
+        <title type="html"><![CDATA[시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003746334?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003746334?sid=104"/>
+        <updated>2023-03-11T09:12:44.140Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746334?sid=104" class="nclicks(rig.secteco)" title="시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까?">시진핑 '비서 출신' 리창 총리 등극…리커창과 다를까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]SM 인수 과열 부담?…카카오·하이브 협상 테이블 앉았다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011736673?sid=102" class="nclicks(rig.secteco)" title="경남 하동 화개면 '산불 2단계' 발령…현재 진화율 10%(2보)">경남 하동 화개면 '산불 2단계' 발령…현재 진화율 10%(2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명에 "정치 내려놓으시라"…前비서실장 눈물 속 발인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003265011?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003265011?sid=102"/>
-        <updated>2023-03-11T07:12:00.458Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265011?sid=102" class="nclicks(rig.secteco)" title="이재명에 &quot;정치 내려놓으시라&quot;…前비서실장 눈물 속 발인">이재명에 "정치 내려놓으시라"…前비서실장 눈물 속 발인</a>]]></content>
+        <title type="html"><![CDATA['친일파 되련다' 글 논란 김영환…"애국 글이 친일로 변해, 탄식" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005229363?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005229363?sid=102"/>
+        <updated>2023-03-11T09:12:44.149Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005229363?sid=102" class="nclicks(rig.secteco)" title="'친일파 되련다' 글 논란 김영환…&quot;애국 글이 친일로 변해, 탄식&quot;">'친일파 되련다' 글 논란 김영환…"애국 글이 친일로 변해, 탄식"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘친일파 자처’ 논란 김영환…“조국에 대한 단심 확고” 반박 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002630942?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002630942?sid=102"/>
-        <updated>2023-03-11T08:16:57.722Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002630942?sid=102" class="nclicks(rig.secteco)" title="‘친일파 자처’ 논란 김영환…“조국에 대한 단심 확고” 반박">‘친일파 자처’ 논란 김영환…“조국에 대한 단심 확고” 반박</a>]]></content>
+        <title type="html"><![CDATA[“정치 내려놓으시라”…이재명 前비서실장, 눈물 속 비공개 발인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003484692?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003484692?sid=102"/>
+        <updated>2023-03-11T09:12:44.150Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484692?sid=102" class="nclicks(rig.secteco)" title="“정치 내려놓으시라”…이재명 前비서실장, 눈물 속 비공개 발인">“정치 내려놓으시라”…이재명 前비서실장, 눈물 속 비공개 발인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013806427?sid=103" class="nclicks(rig.secteco)" title="오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속">오늘 '기록적'으로 따뜻…내일까지는 이 날씨 계속</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전세계 0.18%뿐… 죽음의 먼지 안전지대는 어디? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/346/0000058940?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/346/0000058940?sid=103"/>
-        <updated>2023-03-11T05:12:36.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/346/0000058940?sid=103" class="nclicks(rig.secteco)" title="전세계 0.18%뿐… 죽음의 먼지 안전지대는 어디?">전세계 0.18%뿐… 죽음의 먼지 안전지대는 어디?</a>]]></content>
+        <title type="html"><![CDATA[일요일 전국에 비·눈… 기온도 ‘뚝’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000884233?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000884233?sid=103"/>
+        <updated>2023-03-11T09:12:44.158Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000884233?sid=103" class="nclicks(rig.secteco)" title="일요일 전국에 비·눈… 기온도 ‘뚝’">일요일 전국에 비·눈… 기온도 ‘뚝’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
