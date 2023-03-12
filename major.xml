@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-12T10:14:39.571Z</updated>
+    <updated>2023-03-12T11:11:16.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003751180?sid=100" class="nclicks(rig.secteco)" title="[단독] ‘이재명 부모 묘지 훼손’ 경찰 합동수사팀 내사 착수">[단독] ‘이재명 부모 묘지 훼손’ 경찰 합동수사팀 내사 착수</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹 "강제동원 해법, 공약 실천"…대통령실 "국제사회도 지지"]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000399399?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000399399?sid=100"/>
+        <updated>2023-03-12T11:10:47.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000399399?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;강제동원 해법, 공약 실천&quot;…대통령실 &quot;국제사회도 지지&quot;">尹 "강제동원 해법, 공약 실천"…대통령실 "국제사회도 지지"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[바이든, 尹에 ‘민주주의 정상회의’ 초청장]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003791464?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003791464?sid=100"/>
         <updated>2023-03-12T10:14:02.221Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791464?sid=100" class="nclicks(rig.secteco)" title="바이든, 尹에 ‘민주주의 정상회의’ 초청장">바이든, 尹에 ‘민주주의 정상회의’ 초청장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, 방일 앞서 '경제협력 복원' 매진... 강제동원 해법 홍보전도]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000728071?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000728071?sid=100"/>
-        <updated>2023-03-12T09:13:09.422Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000728071?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 방일 앞서 '경제협력 복원' 매진... 강제동원 해법 홍보전도">윤 대통령, 방일 앞서 '경제협력 복원' 매진... 강제동원 해법 홍보전도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["당장 월급 못줄판"…SVB 파산에 실리콘밸리 '줄도산' 공포]]></title>
@@ -48,32 +48,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819840?sid=101" class="nclicks(rig.secteco)" title="'승자의 저주' 우려에…하이브, SM엔터 경영권 대신 실리 택했다">'승자의 저주' 우려에…하이브, SM엔터 경영권 대신 실리 택했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금, SVB 주식 300억원 어치 보유...'주가 반토막']]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005229579?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005229579?sid=101"/>
-        <updated>2023-03-12T10:14:02.243Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005229579?sid=101" class="nclicks(rig.secteco)" title="국민연금, SVB 주식 300억원 어치 보유...'주가 반토막'">국민연금, SVB 주식 300억원 어치 보유...'주가 반토막'</a>]]></content>
+        <title type="html"><![CDATA[13일 검은 월요일 오나…'40년 역사' SVB 이틀만에 와르르]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265165?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265165?sid=101"/>
+        <updated>2023-03-12T11:10:47.647Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265165?sid=101" class="nclicks(rig.secteco)" title="13일 검은 월요일 오나…'40년 역사' SVB 이틀만에 와르르">13일 검은 월요일 오나…'40년 역사' SVB 이틀만에 와르르</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영세사업자에 더 가혹한 간편결제 수수료]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004819831?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004819831?sid=101"/>
-        <updated>2023-03-12T10:14:02.243Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004819831?sid=101" class="nclicks(rig.secteco)" title="영세사업자에 더 가혹한 간편결제 수수료">영세사업자에 더 가혹한 간편결제 수수료</a>]]></content>
+        <title type="html"><![CDATA[타워크레인 ‘고의 지연’도 면허정지…노조 불법행위 강력 경고]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000245502?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000245502?sid=101"/>
+        <updated>2023-03-12T11:10:47.650Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000245502?sid=101" class="nclicks(rig.secteco)" title="타워크레인 ‘고의 지연’도 면허정지…노조 불법행위 강력 경고">타워크레인 ‘고의 지연’도 면허정지…노조 불법행위 강력 경고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사외이사 후보 사퇴에 검찰수사까지… `첩첩산중` KT]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002788465?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002788465?sid=105"/>
-        <updated>2023-03-12T07:11:58.233Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002788465?sid=105" class="nclicks(rig.secteco)" title="사외이사 후보 사퇴에 검찰수사까지… `첩첩산중` KT">사외이사 후보 사퇴에 검찰수사까지… `첩첩산중` KT</a>]]></content>
+        <title type="html"><![CDATA[[비즈토크<상>] 닻 올리기 전 몰아치는 폭풍우…KT 윤경림호 무사히 출범할까]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000205331?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000205331?sid=105"/>
+        <updated>2023-03-12T11:10:47.658Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000205331?sid=105" class="nclicks(rig.secteco)" title="[비즈토크] 닻 올리기 전 몰아치는 폭풍우…KT 윤경림호 무사히 출범할까">[비즈토크&lt;상&gt;] 닻 올리기 전 몰아치는 폭풍우…KT 윤경림호 무사히 출범할까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 첫 HPC용 성능 갖춰… "이중화로 전원공급 장애 방어"[현장르포]]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004980406?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004980406?sid=105"/>
-        <updated>2023-03-12T10:14:02.245Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004980406?sid=105" class="nclicks(rig.secteco)" title="국내 첫 HPC용 성능 갖춰… &quot;이중화로 전원공급 장애 방어&quot;[현장르포]">국내 첫 HPC용 성능 갖춰… "이중화로 전원공급 장애 방어"[현장르포]</a>]]></content>
+        <title type="html"><![CDATA[‘뼈 깎는 변화’ 삼성SDS의 클라우드 접근법…간결함으로 ‘승부’]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000041529?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000041529?sid=105"/>
+        <updated>2023-03-12T11:10:47.659Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041529?sid=105" class="nclicks(rig.secteco)" title="‘뼈 깎는 변화’ 삼성SDS의 클라우드 접근법…간결함으로 ‘승부’">‘뼈 깎는 변화’ 삼성SDS의 클라우드 접근법…간결함으로 ‘승부’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘더 글로리’ 안길호 PD, 학폭 인정…“깊이 용서 구한다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003210319?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003210319?sid=102"/>
+        <updated>2023-03-12T11:10:47.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003210319?sid=102" class="nclicks(rig.secteco)" title="‘더 글로리’ 안길호 PD, 학폭 인정…“깊이 용서 구한다”">‘더 글로리’ 안길호 PD, 학폭 인정…“깊이 용서 구한다”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 윤서인 "공산주의 만화 그리신 분 답다" '검정고무신' 故 이우영 작가 '조롱']]></title>
@@ -83,18 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000733673?sid=102" class="nclicks(rig.secteco)" title="[단독] 윤서인 &quot;공산주의 만화 그리신 분 답다&quot; '검정고무신' 故 이우영 작가 '조롱'">[단독] 윤서인 "공산주의 만화 그리신 분 답다" '검정고무신' 故 이우영 작가 '조롱'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘더 글로리’ PD 과거 폭행 사실 인정…“용서 구해”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011443781?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011443781?sid=102"/>
-        <updated>2023-03-12T10:14:02.246Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011443781?sid=102" class="nclicks(rig.secteco)" title="‘더 글로리’ PD 과거 폭행 사실 인정…“용서 구해”">‘더 글로리’ PD 과거 폭행 사실 인정…“용서 구해”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정말 성실했는데"…하동산불 현장서 숨진 진화대원 동료들 눈물]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013808893?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013808893?sid=102"/>
-        <updated>2023-03-12T08:16:29.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013808893?sid=102" class="nclicks(rig.secteco)" title="&quot;정말 성실했는데&quot;…하동산불 현장서 숨진 진화대원 동료들 눈물">"정말 성실했는데"…하동산불 현장서 숨진 진화대원 동료들 눈물</a>]]></content>
+        <title type="html"><![CDATA["패딩 다시 꺼내라" 역대급 더위 뒤 내일 '체감 -7도' 추위 온다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265135?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265135?sid=102"/>
+        <updated>2023-03-12T11:10:47.662Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265135?sid=102" class="nclicks(rig.secteco)" title="&quot;패딩 다시 꺼내라&quot; 역대급 더위 뒤 내일 '체감 -7도' 추위 온다">"패딩 다시 꺼내라" 역대급 더위 뒤 내일 '체감 -7도' 추위 온다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘K바이올린계 대모’ 김남윤 교수 별세]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005440925?sid=103" class="nclicks(rig.secteco)" title="‘K바이올린계 대모’ 김남윤 교수 별세">‘K바이올린계 대모’ 김남윤 교수 별세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["연진아, 파트 2에 온 걸 환영해" 완벽한 폐허 그린 '더 글로리']]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000728026?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000728026?sid=103"/>
-        <updated>2023-03-12T10:14:02.259Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000728026?sid=103" class="nclicks(rig.secteco)" title="&quot;연진아, 파트 2에 온 걸 환영해&quot; 완벽한 폐허 그린 '더 글로리'">"연진아, 파트 2에 온 걸 환영해" 완벽한 폐허 그린 '더 글로리'</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내일 반짝 꽃샘추위...대부분 영하권]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001859836?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001859836?sid=103"/>
+        <updated>2023-03-12T11:10:47.665Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001859836?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 반짝 꽃샘추위...대부분 영하권">[날씨] 내일 반짝 꽃샘추위...대부분 영하권</a>]]></content>
     </entry>
 </feed>
