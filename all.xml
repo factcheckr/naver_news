@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-12T16:17:15.728Z</updated>
+    <updated>2023-03-12T17:12:51.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 대표 부모 산소 훼손…경찰내사착수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -12,13 +12,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002115199?sid=100" class="nclicks(rig.secteco)" title="이재명 대표 부모 산소 훼손…경찰내사착수">이재명 대표 부모 산소 훼손…경찰내사착수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 한·미 연합연습…김정은 주재 군사위 “중대 조치” 협박 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003265228?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003265228?sid=100"/>
-        <updated>2023-03-12T16:16:48.251Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265228?sid=100" class="nclicks(rig.secteco)" title="오늘부터 한·미 연합연습…김정은 주재 군사위 “중대 조치” 협박">오늘부터 한·미 연합연습…김정은 주재 군사위 “중대 조치” 협박</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김기현 체제 인선…尹 장악력 강화와 연·포·탕 조화 고심 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002691557?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/119/0002691557?sid=100"/>
@@ -26,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002691557?sid=100" class="nclicks(rig.secteco)" title="김기현 체제 인선…尹 장악력 강화와 연·포·탕 조화 고심">김기현 체제 인선…尹 장악력 강화와 연·포·탕 조화 고심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVB 구제금융에 선 그은 美정부…"15년 전과 다르다" 자신감 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013809207?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013809207?sid=104"/>
-        <updated>2023-03-12T16:16:48.255Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013809207?sid=104" class="nclicks(rig.secteco)" title="SVB 구제금융에 선 그은 美정부…&quot;15년 전과 다르다&quot; 자신감">SVB 구제금융에 선 그은 美정부…"15년 전과 다르다" 자신감</a>]]></content>
+        <title type="html"><![CDATA[[한반도 브리핑] 한미 다음주 '자유의 방패' 연습…김여정 위협 담화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000588182?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000588182?sid=100"/>
+        <updated>2023-03-12T17:12:19.784Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000588182?sid=100" class="nclicks(rig.secteco)" title="[한반도 브리핑] 한미 다음주 '자유의 방패' 연습…김여정 위협 담화">[한반도 브리핑] 한미 다음주 '자유의 방패' 연습…김여정 위협 담화</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美재무 "SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013809209?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013809209?sid=104"/>
+        <updated>2023-03-12T17:12:19.785Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013809209?sid=104" class="nclicks(rig.secteco)" title="美재무 &quot;SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력&quot;(종합2보)">美재무 "SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력"(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자산 277조 SVB 파산…‘제2 리먼 사태’ 경고등 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791553?sid=105" class="nclicks(rig.secteco)" title="삼성SDS “하이브리드로 기업용 클라우드 공략”">삼성SDS “하이브리드로 기업용 클라우드 공략”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(속보) 한국타이어 대전 공장에서 큰불…5명 병원 이송 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002384919?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002384919?sid=102"/>
-        <updated>2023-03-12T16:16:48.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002384919?sid=102" class="nclicks(rig.secteco)" title="(속보) 한국타이어 대전 공장에서 큰불…5명 병원 이송">(속보) 한국타이어 대전 공장에서 큰불…5명 병원 이송</a>]]></content>
+        <title type="html"><![CDATA[한국타이어 대전공장 큰 불…고속도로 통제, KTX 일부 운행중단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265249?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265249?sid=102"/>
+        <updated>2023-03-12T17:12:19.799Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265249?sid=102" class="nclicks(rig.secteco)" title="한국타이어 대전공장 큰 불…고속도로 통제, KTX 일부 운행중단">한국타이어 대전공장 큰 불…고속도로 통제, KTX 일부 운행중단</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['더 글로리' PD, 학폭 인정…“용서 구한다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002144057?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002144057?sid=102"/>
-        <updated>2023-03-12T15:13:23.964Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002144057?sid=102" class="nclicks(rig.secteco)" title="'더 글로리' PD, 학폭 인정…“용서 구한다”">'더 글로리' PD, 학폭 인정…“용서 구한다”</a>]]></content>
+        <title type="html"><![CDATA["학폭 기억없다"던 '더 글로리' 안길호 PD "용서 구한다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265152?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265152?sid=102"/>
+        <updated>2023-03-12T17:12:19.803Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265152?sid=102" class="nclicks(rig.secteco)" title="&quot;학폭 기억없다&quot;던 '더 글로리' 안길호 PD &quot;용서 구한다&quot;">"학폭 기억없다"던 '더 글로리' 안길호 PD "용서 구한다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하동 지리산 산불 22시간 만 진화…민가 3동 불 타고 진화대원 1명 숨져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265087?sid=102" class="nclicks(rig.secteco)" title="하동 지리산 산불 22시간 만 진화…민가 3동 불 타고 진화대원 1명 숨져">하동 지리산 산불 22시간 만 진화…민가 3동 불 타고 진화대원 1명 숨져</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꽃샘추위에 한파특보...13일 서울 출근길 영하 3도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003751197?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003751197?sid=103"/>
-        <updated>2023-03-12T16:16:48.275Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003751197?sid=103" class="nclicks(rig.secteco)" title="꽃샘추위에 한파특보...13일 서울 출근길 영하 3도">꽃샘추위에 한파특보...13일 서울 출근길 영하 3도</a>]]></content>
+        <title type="html"><![CDATA["패딩 다시 꺼내라" 역대급 더위 뒤 내일 '체감 -7도' 추위 온다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265135?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265135?sid=103"/>
+        <updated>2023-03-12T17:12:19.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265135?sid=103" class="nclicks(rig.secteco)" title="&quot;패딩 다시 꺼내라&quot; 역대급 더위 뒤 내일 '체감 -7도' 추위 온다">"패딩 다시 꺼내라" 역대급 더위 뒤 내일 '체감 -7도' 추위 온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[임병선의 메멘토 모리] 바이올린 대모 김남윤 교수와 만둣국 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003345492?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003345492?sid=103"/>
-        <updated>2023-03-12T12:24:22.242Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003345492?sid=103" class="nclicks(rig.secteco)" title="[임병선의 메멘토 모리] 바이올린 대모 김남윤 교수와 만둣국">[임병선의 메멘토 모리] 바이올린 대모 김남윤 교수와 만둣국</a>]]></content>
+        <title type="html"><![CDATA[[삶과 추억] K클래식 기반 다진 ‘바이올린 대모’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265197?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265197?sid=103"/>
+        <updated>2023-03-12T17:12:19.816Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265197?sid=103" class="nclicks(rig.secteco)" title="[삶과 추억] K클래식 기반 다진 ‘바이올린 대모’">[삶과 추억] K클래식 기반 다진 ‘바이올린 대모’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
