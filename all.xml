@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-12T18:16:53.549Z</updated>
+    <updated>2023-03-12T19:11:44.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이재명 대표 부모 산소 훼손…경찰내사착수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -12,13 +12,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002115199?sid=100" class="nclicks(rig.secteco)" title="이재명 대표 부모 산소 훼손…경찰내사착수">이재명 대표 부모 산소 훼손…경찰내사착수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003484788?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003484788?sid=100"/>
-        <updated>2023-03-12T18:16:22.185Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484788?sid=100" class="nclicks(rig.secteco)" title="김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진">김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美핵항모, 한미훈련 직후 한반도 출동… 北은 “공세 중대조치” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003484789?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003484789?sid=100"/>
@@ -26,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484789?sid=100" class="nclicks(rig.secteco)" title="美핵항모, 한미훈련 직후 한반도 출동… 北은 “공세 중대조치”">美핵항모, 한미훈련 직후 한반도 출동… 北은 “공세 중대조치”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美재무 "SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013809209?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013809209?sid=104"/>
-        <updated>2023-03-12T17:12:19.785Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013809209?sid=104" class="nclicks(rig.secteco)" title="美재무 &quot;SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력&quot;(종합2보)">美재무 "SVB 구제금융 고려 안해…규제당국과 적절 대응책 협력"(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003484788?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003484788?sid=100"/>
+        <updated>2023-03-12T18:16:22.185Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484788?sid=100" class="nclicks(rig.secteco)" title="김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진">김기현, 오늘 尹과 만찬… 안철수 등 당권경쟁자 회동도 추진</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVB 파산 '제2 리먼 사태' 경고등...옐런 "구제금융 고려 안해" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000326615?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000326615?sid=104"/>
+        <updated>2023-03-12T19:11:12.800Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000326615?sid=104" class="nclicks(rig.secteco)" title="SVB 파산 '제2 리먼 사태' 경고등...옐런 &quot;구제금융 고려 안해&quot;">SVB 파산 '제2 리먼 사태' 경고등...옐런 "구제금융 고려 안해"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘실리콘밸리 돈줄’ 파산… 블랙먼데이 공포 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,6 +61,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002115222?sid=101" class="nclicks(rig.secteco)" title="국민연금, '파산 SVB그룹' 주식 300억 보유…투자금 어쩌나">국민연금, '파산 SVB그룹' 주식 300억 보유…투자금 어쩌나</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[초고속·대용량 연산… 특수 냉각기술로 전력 효율 ‘세계 최고’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003751267?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003751267?sid=105"/>
+        <updated>2023-03-12T19:11:12.810Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003751267?sid=105" class="nclicks(rig.secteco)" title="초고속·대용량 연산… 특수 냉각기술로 전력 효율 ‘세계 최고’">초고속·대용량 연산… 특수 냉각기술로 전력 효율 ‘세계 최고’</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤정식 KT스카이라이프 대표 내정자 사의 표명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003484802?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003484802?sid=105"/>
@@ -68,18 +75,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484802?sid=105" class="nclicks(rig.secteco)" title="윤정식 KT스카이라이프 대표 내정자 사의 표명">윤정식 KT스카이라이프 대표 내정자 사의 표명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외부 찬바람 활용해 서버 냉각… 삼성SDS 동탄 데이터센터 가동 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003484841?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003484841?sid=105"/>
-        <updated>2023-03-12T18:16:22.197Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484841?sid=105" class="nclicks(rig.secteco)" title="외부 찬바람 활용해 서버 냉각… 삼성SDS 동탄 데이터센터 가동">외부 찬바람 활용해 서버 냉각… 삼성SDS 동탄 데이터센터 가동</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대전 한국타이어 불로 연기·유독가스 인근 아파트 뒤덮어 혼란 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013809229?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013809229?sid=102"/>
-        <updated>2023-03-12T18:16:22.198Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013809229?sid=102" class="nclicks(rig.secteco)" title="대전 한국타이어 불로 연기·유독가스 인근 아파트 뒤덮어 혼란">대전 한국타이어 불로 연기·유독가스 인근 아파트 뒤덮어 혼란</a>]]></content>
+        <title type="html"><![CDATA[대전 한국타이어 공장서 큰불…11명 연기 마셔 병원 이송(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013809231?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013809231?sid=102"/>
+        <updated>2023-03-12T19:11:12.814Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013809231?sid=102" class="nclicks(rig.secteco)" title="대전 한국타이어 공장서 큰불…11명 연기 마셔 병원 이송(종합2보)">대전 한국타이어 공장서 큰불…11명 연기 마셔 병원 이송(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["학폭 기억없다"던 '더 글로리' 안길호 PD "용서 구한다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265135?sid=103" class="nclicks(rig.secteco)" title="&quot;패딩 다시 꺼내라&quot; 역대급 더위 뒤 내일 '체감 -7도' 추위 온다">"패딩 다시 꺼내라" 역대급 더위 뒤 내일 '체감 -7도' 추위 온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 ‘바이올린계 대모’ 김남윤 교수 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003484774?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003484774?sid=103"/>
-        <updated>2023-03-12T18:16:22.202Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003484774?sid=103" class="nclicks(rig.secteco)" title="한국 ‘바이올린계 대모’ 김남윤 교수 별세">한국 ‘바이올린계 대모’ 김남윤 교수 별세</a>]]></content>
+        <title type="html"><![CDATA[K 바이올린 대모 김남윤 한예종 명예교수 별세 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265141?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265141?sid=103"/>
+        <updated>2023-03-12T19:11:12.825Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265141?sid=103" class="nclicks(rig.secteco)" title="K 바이올린 대모 김남윤 한예종 명예교수 별세">K 바이올린 대모 김남윤 한예종 명예교수 별세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
