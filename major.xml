@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-13T23:15:04.989Z</updated>
+    <updated>2023-03-14T01:00:55.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] 美 정찰기 코브라볼, 동해서 北 탄도미사일 실시간 추적]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000399652?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000399652?sid=100"/>
+        <updated>2023-03-14T01:00:26.022Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000399652?sid=100" class="nclicks(rig.secteco)" title="[단독] 美 정찰기 코브라볼, 동해서 北 탄도미사일 실시간 추적">[단독] 美 정찰기 코브라볼, 동해서 北 탄도미사일 실시간 추적</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]尹 "K칩스법 민주당도 결국 찬성, 당이 정책·홍보 앞장서달라"]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004166561?sid=100</id>
@@ -13,53 +20,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004166561?sid=100" class="nclicks(rig.secteco)" title="[단독]尹 &quot;K칩스법 민주당도 결국 찬성, 당이 정책·홍보 앞장서달라&quot;">[단독]尹 "K칩스법 민주당도 결국 찬성, 당이 정책·홍보 앞장서달라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한·미 'FS 훈련' vs 北, SLCM 발사… ‘강대강’ 대치 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003791965?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003791965?sid=100"/>
-        <updated>2023-03-13T23:14:30.505Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791965?sid=100" class="nclicks(rig.secteco)" title="한·미 'FS 훈련' vs 北, SLCM 발사… ‘강대강’ 대치 본격화">한·미 'FS 훈련' vs 北, SLCM 발사… ‘강대강’ 대치 본격화</a>]]></content>
+        <title type="html"><![CDATA[전광훈 앞에서 “5·18 정신 헌법 수록 반대… 불가능하다”던 김재원 “개인 의견”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003792022?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003792022?sid=100"/>
+        <updated>2023-03-14T01:00:26.024Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003792022?sid=100" class="nclicks(rig.secteco)" title="전광훈 앞에서 “5·18 정신 헌법 수록 반대… 불가능하다”던 김재원 “개인 의견”">전광훈 앞에서 “5·18 정신 헌법 수록 반대… 불가능하다”던 김재원 “개인 의견”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김남국, 김재원 직격…“전광훈 목사·극우 유튜버들과 어울리는 게 與 지도부?”]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002788782?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002788782?sid=100"/>
-        <updated>2023-03-13T23:14:30.510Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002788782?sid=100" class="nclicks(rig.secteco)" title="김남국, 김재원 직격…“전광훈 목사·극우 유튜버들과 어울리는 게 與 지도부?”">김남국, 김재원 직격…“전광훈 목사·극우 유튜버들과 어울리는 게 與 지도부?”</a>]]></content>
+        <title type="html"><![CDATA[바이든, "미 은행 시스템 안전" SVB 사태 진화 나섰다]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002385074?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002385074?sid=104"/>
+        <updated>2023-03-14T01:00:26.025Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002385074?sid=104" class="nclicks(rig.secteco)" title="바이든, &quot;미 은행 시스템 안전&quot; SVB 사태 진화 나섰다">바이든, "미 은행 시스템 안전" SVB 사태 진화 나섰다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이든, "美 은행시스템 안전하다…SVB 사태 재발 않도록 금융규제 강화할 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002299622?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002299622?sid=104"/>
-        <updated>2023-03-13T23:14:30.510Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002299622?sid=104" class="nclicks(rig.secteco)" title="바이든, &quot;美 은행시스템 안전하다…SVB 사태 재발 않도록 금융규제 강화할 것&quot;">바이든, "美 은행시스템 안전하다…SVB 사태 재발 않도록 금융규제 강화할 것"</a>]]></content>
+        <title type="html"><![CDATA[“시진핑, ‘전쟁 중재’ 위해 푸틴·젤렌스키와 연속 회담”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002631261?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002631261?sid=104"/>
+        <updated>2023-03-14T01:00:26.026Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002631261?sid=104" class="nclicks(rig.secteco)" title="“시진핑, ‘전쟁 중재’ 위해 푸틴·젤렌스키와 연속 회담”">“시진핑, ‘전쟁 중재’ 위해 푸틴·젤렌스키와 연속 회담”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시진핑, 러·우크라 중재하나···백악관 “시 주석에 젤렌스키와 만남 권장”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003210656?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003210656?sid=104"/>
-        <updated>2023-03-13T23:14:30.511Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003210656?sid=104" class="nclicks(rig.secteco)" title="시진핑, 러·우크라 중재하나···백악관 “시 주석에 젤렌스키와 만남 권장”">시진핑, 러·우크라 중재하나···백악관 “시 주석에 젤렌스키와 만남 권장”</a>]]></content>
+        <title type="html"><![CDATA[추경호 "SVB 사태 여파 예측 어려워…필요시 안정조치"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013811893?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013811893?sid=101"/>
+        <updated>2023-03-14T01:00:26.027Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013811893?sid=101" class="nclicks(rig.secteco)" title="추경호 &quot;SVB 사태 여파 예측 어려워…필요시 안정조치&quot;(종합)">추경호 "SVB 사태 여파 예측 어려워…필요시 안정조치"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[굿모닝경제] 무역적자 200억 달러 돌파/ 한국 신용등급 'AA-' / 고물가에 안 입고 안 먹어]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001728450?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001728450?sid=101"/>
-        <updated>2023-03-13T23:14:30.512Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001728450?sid=101" class="nclicks(rig.secteco)" title="[굿모닝경제] 무역적자 200억 달러 돌파/ 한국 신용등급 'AA-' / 고물가에 안 입고 안 먹어">[굿모닝경제] 무역적자 200억 달러 돌파/ 한국 신용등급 'AA-' / 고물가에 안 입고 안 먹어</a>]]></content>
+        <title type="html"><![CDATA[비트코인, 미 은행 흔들리자 급등…3100만원대]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011740669?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011740669?sid=101"/>
+        <updated>2023-03-14T01:00:26.028Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011740669?sid=101" class="nclicks(rig.secteco)" title="비트코인, 미 은행 흔들리자 급등…3100만원대">비트코인, 미 은행 흔들리자 급등…3100만원대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[파고들기]하이브 인수 중단…카카오 품 속 SM의 미래는]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003746985?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003746985?sid=101"/>
-        <updated>2023-03-13T23:14:30.513Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746985?sid=101" class="nclicks(rig.secteco)" title="[파고들기]하이브 인수 중단…카카오 품 속 SM의 미래는">[파고들기]하이브 인수 중단…카카오 품 속 SM의 미래는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 은행주 폭락 속 혼조 마감 ‘퍼스트 리퍼블릭 62%↓’…유가 하락·비트코인 급등 [출근전 꼭 글로벌브리핑]]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001088513?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001088513?sid=101"/>
-        <updated>2023-03-13T23:14:30.515Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001088513?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 은행주 폭락 속 혼조 마감 ‘퍼스트 리퍼블릭 62%↓’…유가 하락·비트코인 급등 [출근전 꼭 글로벌브리핑]">뉴욕증시, 은행주 폭락 속 혼조 마감 ‘퍼스트 리퍼블릭 62%↓’…유가 하락·비트코인 급등 [출근전 꼭 글로벌브리핑]</a>]]></content>
+        <title type="html"><![CDATA[반도체 약세보다 '강달러' 효과 컸다..수출입물가 넉달만에 상승 전환]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004981065?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004981065?sid=101"/>
+        <updated>2023-03-14T01:00:26.029Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004981065?sid=101" class="nclicks(rig.secteco)" title="반도체 약세보다 '강달러' 효과 컸다..수출입물가 넉달만에 상승 전환">반도체 약세보다 '강달러' 효과 컸다..수출입물가 넉달만에 상승 전환</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT 이사회 의장 “윤경림 후보가 주주가치 확대 최고 적임자”]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005441823?sid=105" class="nclicks(rig.secteco)" title="KT 이사회 의장 “윤경림 후보가 주주가치 확대 최고 적임자”">KT 이사회 의장 “윤경림 후보가 주주가치 확대 최고 적임자”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["카톡 익명채팅방 DB 추출" 주장…불안감 부추긴 '떴다방' 불법업체]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004820330?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004820330?sid=105"/>
-        <updated>2023-03-13T21:12:52.749Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004820330?sid=105" class="nclicks(rig.secteco)" title="&quot;카톡 익명채팅방 DB 추출&quot; 주장…불안감 부추긴 '떴다방' 불법업체">"카톡 익명채팅방 DB 추출" 주장…불안감 부추긴 '떴다방' 불법업체</a>]]></content>
+        <title type="html"><![CDATA[삼성 심장부서 도발하는 애플…31일 강남점 열고 韓 공략 고삐]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000733983?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000733983?sid=105"/>
+        <updated>2023-03-14T01:00:26.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000733983?sid=105" class="nclicks(rig.secteco)" title="삼성 심장부서 도발하는 애플…31일 강남점 열고 韓 공략 고삐">삼성 심장부서 도발하는 애플…31일 강남점 열고 韓 공략 고삐</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국타이어 대전공장 잔불 정리 중…진화 작업 사흘째 이어져]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003746992?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003746992?sid=102"/>
-        <updated>2023-03-13T23:14:30.521Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003746992?sid=102" class="nclicks(rig.secteco)" title="한국타이어 대전공장 잔불 정리 중…진화 작업 사흘째 이어져">한국타이어 대전공장 잔불 정리 중…진화 작업 사흘째 이어져</a>]]></content>
+        <title type="html"><![CDATA[타이어 21만개 불탄 한국타이어…공장 철골도 처참히 붕괴 [르포]]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265360?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265360?sid=102"/>
+        <updated>2023-03-14T01:00:26.031Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265360?sid=102" class="nclicks(rig.secteco)" title="타이어 21만개 불탄 한국타이어…공장 철골도 처참히 붕괴 [르포]">타이어 21만개 불탄 한국타이어…공장 철골도 처참히 붕괴 [르포]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["굶어 죽어도 돈 안 받아"…강제동원 생존 피해자, ‘제3자 변제' 거부]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791967?sid=102" class="nclicks(rig.secteco)" title="&quot;굶어 죽어도 돈 안 받아&quot;…강제동원 생존 피해자, ‘제3자 변제' 거부">"굶어 죽어도 돈 안 받아"…강제동원 생존 피해자, ‘제3자 변제' 거부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘뇌전증 병역비리’ 등 137명 기소… 16억 추징]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003791986?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003791986?sid=102"/>
-        <updated>2023-03-13T23:14:30.524Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791986?sid=102" class="nclicks(rig.secteco)" title="‘뇌전증 병역비리’ 등 137명 기소… 16억 추징">‘뇌전증 병역비리’ 등 137명 기소… 16억 추징</a>]]></content>
+        <title type="html"><![CDATA["고속철 하나 남았다"…육·해·공 교통수단 갖추고 '글로벌 관광도시' 꿈꾸는 속초]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006682394?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006682394?sid=102"/>
+        <updated>2023-03-14T01:00:26.034Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006682394?sid=102" class="nclicks(rig.secteco)" title="&quot;고속철 하나 남았다&quot;…육·해·공 교통수단 갖추고 '글로벌 관광도시' 꿈꾸는 속초">"고속철 하나 남았다"…육·해·공 교통수단 갖추고 '글로벌 관광도시' 꿈꾸는 속초</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023년 오스카 키워드는 ‘인생역전’… “황금기 지났다는 말 믿지마세요”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003791963?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003791963?sid=103"/>
-        <updated>2023-03-13T23:14:30.526Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003791963?sid=103" class="nclicks(rig.secteco)" title="2023년 오스카 키워드는 ‘인생역전’… “황금기 지났다는 말 믿지마세요”">2023년 오스카 키워드는 ‘인생역전’… “황금기 지났다는 말 믿지마세요”</a>]]></content>
+        <title type="html"><![CDATA[낮 기온 12~19도, 꽃샘추위 끝…미세먼지 '좋음']]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011740583?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011740583?sid=103"/>
+        <updated>2023-03-14T01:00:26.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011740583?sid=103" class="nclicks(rig.secteco)" title="낮 기온 12~19도, 꽃샘추위 끝…미세먼지 '좋음'">낮 기온 12~19도, 꽃샘추위 끝…미세먼지 '좋음'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 오전 쌀쌀하다가 오후에 풀려...일교차 커 서울 낮 15도]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000335436?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000335436?sid=103"/>
-        <updated>2023-03-13T23:14:30.527Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000335436?sid=103" class="nclicks(rig.secteco)" title="전국 오전 쌀쌀하다가 오후에 풀려...일교차 커 서울 낮 15도">전국 오전 쌀쌀하다가 오후에 풀려...일교차 커 서울 낮 15도</a>]]></content>
+        <title type="html"><![CDATA[양자경 "황금기 지났단 말 믿지말라"…인간승리 돋보인 오스카]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003265429?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003265429?sid=103"/>
+        <updated>2023-03-14T01:00:26.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265429?sid=103" class="nclicks(rig.secteco)" title="양자경 &quot;황금기 지났단 말 믿지말라&quot;…인간승리 돋보인 오스카">양자경 "황금기 지났단 말 믿지말라"…인간승리 돋보인 오스카</a>]]></content>
     </entry>
 </feed>
