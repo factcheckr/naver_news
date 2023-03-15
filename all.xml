@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-15T15:15:36.335Z</updated>
+    <updated>2023-03-15T16:20:37.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[“최대 노동시간 ‘캡’ 씌울 필요”…당정, ‘주 69시간제’ 변경 착수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002631591?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002631591?sid=100"/>
-        <updated>2023-03-15T15:15:04.753Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002631591?sid=100" class="nclicks(rig.secteco)" title="“최대 노동시간 ‘캡’ 씌울 필요”…당정, ‘주 69시간제’ 변경 착수">“최대 노동시간 ‘캡’ 씌울 필요”…당정, ‘주 69시간제’ 변경 착수</a>]]></content>
+        <title type="html"><![CDATA[대통령실 "주당 최대 근로시간, 여론 듣고 방향 잡을 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001861360?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001861360?sid=100"/>
+        <updated>2023-03-15T16:20:11.033Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861360?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;주당 최대 근로시간, 여론 듣고 방향 잡을 것&quot;">대통령실 "주당 최대 근로시간, 여론 듣고 방향 잡을 것"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹, 오늘 일본으로 출국...오후에 기시다와 정상회담 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001861336?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001861336?sid=100"/>
+        <updated>2023-03-15T16:20:11.037Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861336?sid=100" class="nclicks(rig.secteco)" title="尹, 오늘 일본으로 출국...오후에 기시다와 정상회담">尹, 오늘 일본으로 출국...오후에 기시다와 정상회담</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명 빼고 다…민주당 최대 의원모임 "전면적 인적쇄신" 요구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,13 +26,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002692787?sid=100" class="nclicks(rig.secteco)" title="이재명 빼고 다…민주당 최대 의원모임 &quot;전면적 인적쇄신&quot; 요구">이재명 빼고 다…민주당 최대 의원모임 "전면적 인적쇄신" 요구</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 첫 방일, 일본과 신뢰 구축…미래지향적 발전 도모[신 한일관계] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011744954?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011744954?sid=100"/>
-        <updated>2023-03-15T13:22:23.265Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011744954?sid=100" class="nclicks(rig.secteco)" title="尹 첫 방일, 일본과 신뢰 구축…미래지향적 발전 도모[신 한일관계]">尹 첫 방일, 일본과 신뢰 구축…미래지향적 발전 도모[신 한일관계]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[러, 흑해에 군함·잠수함 늘려...美와 충돌 가능성 커져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003751927?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003751927?sid=104"/>
@@ -33,11 +33,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003751927?sid=104" class="nclicks(rig.secteco)" title="러, 흑해에 군함·잠수함 늘려...美와 충돌 가능성 커져">러, 흑해에 군함·잠수함 늘려...美와 충돌 가능성 커져</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽 덮친 은행 파산 공포…CS 주가 30% 폭락 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004821333?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004821333?sid=104"/>
-        <updated>2023-03-15T15:15:04.761Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004821333?sid=104" class="nclicks(rig.secteco)" title="유럽 덮친 은행 파산 공포…CS 주가 30% 폭락">유럽 덮친 은행 파산 공포…CS 주가 30% 폭락</a>]]></content>
+        <title type="html"><![CDATA[미 도매물가 예상밖 0.1%↓…연준 금리 동결론 부상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005443457?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005443457?sid=104"/>
+        <updated>2023-03-15T16:20:11.042Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005443457?sid=104" class="nclicks(rig.secteco)" title="미 도매물가 예상밖 0.1%↓…연준 금리 동결론 부상">미 도매물가 예상밖 0.1%↓…연준 금리 동결론 부상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 “수도권에 300조 세계 최대 ‘시스템 반도체 클러스터’ 조성”…그린벨트도 확 푼다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,18 +47,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003346309?sid=101" class="nclicks(rig.secteco)" title="尹 “수도권에 300조 세계 최대 ‘시스템 반도체 클러스터’ 조성”…그린벨트도 확 푼다">尹 “수도권에 300조 세계 최대 ‘시스템 반도체 클러스터’ 조성”…그린벨트도 확 푼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVB 여파에 코픽스까지 더 하락...대출금리 안정되나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001861314?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001861314?sid=101"/>
-        <updated>2023-03-15T15:15:04.763Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861314?sid=101" class="nclicks(rig.secteco)" title="SVB 여파에 코픽스까지 더 하락...대출금리 안정되나">SVB 여파에 코픽스까지 더 하락...대출금리 안정되나</a>]]></content>
+        <title type="html"><![CDATA[코픽스 3개월 연속 하락…변동금리 '영끌족' 한시름 던다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005443406?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005443406?sid=101"/>
+        <updated>2023-03-15T16:20:11.046Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005443406?sid=101" class="nclicks(rig.secteco)" title="코픽스 3개월 연속 하락…변동금리 '영끌족' 한시름 던다">코픽스 3개월 연속 하락…변동금리 '영끌족' 한시름 던다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[르포]머스탱부터 볼보 트럭까지 채운 'K-배터리'…인터배터리 신기술 집합 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005231410?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005231410?sid=101"/>
-        <updated>2023-03-15T12:27:04.833Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005231410?sid=101" class="nclicks(rig.secteco)" title="[르포]머스탱부터 볼보 트럭까지 채운 'K-배터리'…인터배터리 신기술 집합">[르포]머스탱부터 볼보 트럭까지 채운 'K-배터리'…인터배터리 신기술 집합</a>]]></content>
+        <title type="html"><![CDATA[[인터배터리 2023]'K배터리' 3총사 제대로 붙었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000014668?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000014668?sid=101"/>
+        <updated>2023-03-15T16:20:11.047Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000014668?sid=101" class="nclicks(rig.secteco)" title="[인터배터리 2023]'K배터리' 3총사 제대로 붙었다">[인터배터리 2023]'K배터리' 3총사 제대로 붙었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[방은주의 AI 이야기] 마침내 발표된 GPT4···어떤 '물건'인가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,11 +89,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211050?sid=102" class="nclicks(rig.secteco)" title="[속보]“열쇠 못 줘” 개포자이 프레지던스, 내일부터 입주재개">[속보]“열쇠 못 줘” 개포자이 프레지던스, 내일부터 입주재개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전두환 손자 "할아버지는 학살자...연희동 자택 금고엔 엄청난 비자금" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001861294?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001861294?sid=102"/>
-        <updated>2023-03-15T15:15:04.771Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861294?sid=102" class="nclicks(rig.secteco)" title="전두환 손자 &quot;할아버지는 학살자...연희동 자택 금고엔 엄청난 비자금&quot;">전두환 손자 "할아버지는 학살자...연희동 자택 금고엔 엄청난 비자금"</a>]]></content>
+        <title type="html"><![CDATA[전두환 손자 ‘폭로’ 파장…“할아버지는 학살자, 가족은 ‘검은 돈’ 호화” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005443459?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005443459?sid=102"/>
+        <updated>2023-03-15T16:20:11.056Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005443459?sid=102" class="nclicks(rig.secteco)" title="전두환 손자 ‘폭로’ 파장…“할아버지는 학살자, 가족은 ‘검은 돈’ 호화”">전두환 손자 ‘폭로’ 파장…“할아버지는 학살자, 가족은 ‘검은 돈’ 호화”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방시혁, SM 인수 중단에 "졌잘싸?...결과에 아주 만족" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001861319?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001861319?sid=103"/>
+        <updated>2023-03-15T16:20:11.057Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861319?sid=103" class="nclicks(rig.secteco)" title="방시혁, SM 인수 중단에 &quot;졌잘싸?...결과에 아주 만족&quot;">방시혁, SM 인수 중단에 "졌잘싸?...결과에 아주 만족"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제2의 ‘검정고무신 사태’ 막는다…정부, 저작권 보호 강화 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -101,13 +108,6 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005442890?sid=103"/>
         <updated>2023-03-15T15:15:04.773Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005442890?sid=103" class="nclicks(rig.secteco)" title="제2의 ‘검정고무신 사태’ 막는다…정부, 저작권 보호 강화">제2의 ‘검정고무신 사태’ 막는다…정부, 저작권 보호 강화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SM 인수전서 발 뺀 방시혁 "전쟁으로 본적 없어…난 만족한다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003265921?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003265921?sid=103"/>
-        <updated>2023-03-15T15:15:04.778Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003265921?sid=103" class="nclicks(rig.secteco)" title="SM 인수전서 발 뺀 방시혁 &quot;전쟁으로 본적 없어…난 만족한다&quot;">SM 인수전서 발 뺀 방시혁 "전쟁으로 본적 없어…난 만족한다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
