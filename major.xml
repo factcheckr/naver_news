@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-16T22:14:27.707Z</updated>
+    <updated>2023-03-16T23:15:11.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[12년 만에 셔틀외교 복원... 尹·기시다 "미래지향적 협력 관계로 가자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000728987?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000728987?sid=100"/>
-        <updated>2023-03-16T20:16:23.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000728987?sid=100" class="nclicks(rig.secteco)" title="12년 만에 셔틀외교 복원... 尹·기시다 &quot;미래지향적 협력 관계로 가자&quot;">12년 만에 셔틀외교 복원... 尹·기시다 "미래지향적 협력 관계로 가자"</a>]]></content>
+        <title type="html"><![CDATA[尹-기시다 "셔틀외교·경제안보 협력 복원…미래 번영 파트너"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011747568?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011747568?sid=100"/>
+        <updated>2023-03-16T23:14:39.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011747568?sid=100" class="nclicks(rig.secteco)" title="尹-기시다 &quot;셔틀외교·경제안보 협력 복원…미래 번영 파트너&quot;(종합)">尹-기시다 "셔틀외교·경제안보 협력 복원…미래 번영 파트너"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹-기시다, 도쿄 스키야키 식당서 부부동반 만찬…2차 ‘생맥주 독대’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003793265?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003793265?sid=100"/>
+        <updated>2023-03-16T23:14:39.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003793265?sid=100" class="nclicks(rig.secteco)" title="尹-기시다, 도쿄 스키야키 식당서 부부동반 만찬…2차 ‘생맥주 독대’">尹-기시다, 도쿄 스키야키 식당서 부부동반 만찬…2차 ‘생맥주 독대’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓 반도체 볕드나…300조 투자 이어 K칩스법도 속도]]></title>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011747690?sid=100" class="nclicks(rig.secteco)" title="韓 반도체 볕드나…300조 투자 이어 K칩스법도 속도">韓 반도체 볕드나…300조 투자 이어 K칩스법도 속도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4년 만에 지소미아 완전 정상화 선언…대북 공조 가속화 전망]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000589038?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000589038?sid=100"/>
-        <updated>2023-03-16T22:13:56.164Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000589038?sid=100" class="nclicks(rig.secteco)" title="4년 만에 지소미아 완전 정상화 선언…대북 공조 가속화 전망">4년 만에 지소미아 완전 정상화 선언…대북 공조 가속화 전망</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECB, 은행권 파산 사태에도 ‘빅스텝’ 고수…6회 연속 인상]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002117570?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/016/0002117570?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002117570?sid=104" class="nclicks(rig.secteco)" title="ECB, 은행권 파산 사태에도 ‘빅스텝’ 고수…6회 연속 인상">ECB, 은행권 파산 사태에도 ‘빅스텝’ 고수…6회 연속 인상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프랑스 연금개혁법 최종안 상원 통과]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003793233?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003793233?sid=104"/>
-        <updated>2023-03-16T22:13:56.166Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003793233?sid=104" class="nclicks(rig.secteco)" title="프랑스 연금개혁법 최종안 상원 통과">프랑스 연금개혁법 최종안 상원 통과</a>]]></content>
+        <title type="html"><![CDATA[美, '전투기·무인기 충돌'영상 공개하며 "러와 분쟁 추구 안해"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013820240?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013820240?sid=104"/>
+        <updated>2023-03-16T23:14:39.026Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013820240?sid=104" class="nclicks(rig.secteco)" title="美, '전투기·무인기 충돌'영상 공개하며 &quot;러와 분쟁 추구 안해&quot;(종합)">美, '전투기·무인기 충돌'영상 공개하며 "러와 분쟁 추구 안해"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日, 반도체 핵심 3종 수출규제 해제…무역수지 개선될까]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011747664?sid=101" class="nclicks(rig.secteco)" title="日, 반도체 핵심 3종 수출규제 해제…무역수지 개선될까">日, 반도체 핵심 3종 수출규제 해제…무역수지 개선될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대 “결혼해야” 35%뿐… 혼인 건수 4년 연속 ‘역대 최저’]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001594314?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001594314?sid=101"/>
-        <updated>2023-03-16T21:12:43.862Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001594314?sid=101" class="nclicks(rig.secteco)" title="20대 “결혼해야” 35%뿐… 혼인 건수 4년 연속 ‘역대 최저’">20대 “결혼해야” 35%뿐… 혼인 건수 4년 연속 ‘역대 최저’</a>]]></content>
+        <title type="html"><![CDATA[[뉴욕증시]퍼스트리퍼블릭 따라 흔들…구제 조치 '안도 랠리']]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005444348?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005444348?sid=101"/>
+        <updated>2023-03-16T23:14:39.055Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444348?sid=101" class="nclicks(rig.secteco)" title="[뉴욕증시]퍼스트리퍼블릭 따라 흔들…구제 조치 '안도 랠리'">[뉴욕증시]퍼스트리퍼블릭 따라 흔들…구제 조치 '안도 랠리'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[한일 정상회담] 양국 재계 '미래 파트너십 기금' 각각 창설(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013819091?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013819091?sid=101"/>
-        <updated>2023-03-16T22:13:56.171Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013819091?sid=101" class="nclicks(rig.secteco)" title="[한일 정상회담] 양국 재계 '미래 파트너십 기금' 각각 창설(종합2보)">[한일 정상회담] 양국 재계 '미래 파트너십 기금' 각각 창설(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[“결혼은 선택이죠” 바뀐 가치관… 지난해 혼인 19만건 역대 최저[인구가 모든 것의 모든 것이다]]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003346768?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003346768?sid=101"/>
+        <updated>2023-03-16T23:14:39.058Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003346768?sid=101" class="nclicks(rig.secteco)" title="“결혼은 선택이죠” 바뀐 가치관… 지난해 혼인 19만건 역대 최저[인구가 모든 것의 모든 것이다]">“결혼은 선택이죠” 바뀐 가치관… 지난해 혼인 19만건 역대 최저[인구가 모든 것의 모든 것이다]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 원주민 삶 개선?... '범죄 도구'로 악용된 일론 머스크의 '스타링크']]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000728895?sid=105" class="nclicks(rig.secteco)" title="아마존 원주민 삶 개선?... '범죄 도구'로 악용된 일론 머스크의 '스타링크'">아마존 원주민 삶 개선?... '범죄 도구'로 악용된 일론 머스크의 '스타링크'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공학한림원 대상에 한종희 삼성전자 부회장]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005444070?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005444070?sid=105"/>
-        <updated>2023-03-16T19:12:28.648Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444070?sid=105" class="nclicks(rig.secteco)" title="공학한림원 대상에 한종희 삼성전자 부회장">공학한림원 대상에 한종희 삼성전자 부회장</a>]]></content>
+        <title type="html"><![CDATA[냉장고 사진 주면 '요거트 파르페' 요리법 뚝딱…영리해진 챗GPT]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004821919?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004821919?sid=105"/>
+        <updated>2023-03-16T23:14:39.065Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004821919?sid=105" class="nclicks(rig.secteco)" title="냉장고 사진 주면 '요거트 파르페' 요리법 뚝딱…영리해진 챗GPT">냉장고 사진 주면 '요거트 파르페' 요리법 뚝딱…영리해진 챗GPT</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민 "나름 최선 다했다" 말에…정유라 "더는 못 봐주겠네"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004821914?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004821914?sid=102"/>
-        <updated>2023-03-16T22:13:56.176Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004821914?sid=102" class="nclicks(rig.secteco)" title="조민 &quot;나름 최선 다했다&quot; 말에…정유라 &quot;더는 못 봐주겠네&quot;">조민 "나름 최선 다했다" 말에…정유라 "더는 못 봐주겠네"</a>]]></content>
+        <title type="html"><![CDATA["표창장 준다기에 그러려니" 조민에…정유라 "더는 못 봐주겠네"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005444368?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005444368?sid=102"/>
+        <updated>2023-03-16T23:14:39.068Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444368?sid=102" class="nclicks(rig.secteco)" title="&quot;표창장 준다기에 그러려니&quot; 조민에…정유라 &quot;더는 못 봐주겠네&quot;">"표창장 준다기에 그러려니" 조민에…정유라 "더는 못 봐주겠네"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경북 상주 산불 이틀째…진화율 70%]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011447207?sid=102" class="nclicks(rig.secteco)" title="경북 상주 산불 이틀째…진화율 70%">경북 상주 산불 이틀째…진화율 70%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이인규 “문재인, 노무현 주검 위에서 대통령 됐다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003793237?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003793237?sid=102"/>
-        <updated>2023-03-16T22:13:56.179Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003793237?sid=102" class="nclicks(rig.secteco)" title="이인규 “문재인, 노무현 주검 위에서 대통령 됐다”">이인규 “문재인, 노무현 주검 위에서 대통령 됐다”</a>]]></content>
+        <title type="html"><![CDATA[도피성 외유 논란 이인규의 노무현 수사 비화]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000035090?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000035090?sid=102"/>
+        <updated>2023-03-16T23:14:39.075Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000035090?sid=102" class="nclicks(rig.secteco)" title="도피성 외유 논란 이인규의 노무현 수사 비화">도피성 외유 논란 이인규의 노무현 수사 비화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 아침까지 '반짝 추위'… 낮부터 풀려요]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000904341?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 아침까지 '반짝 추위'… 낮부터 풀려요">[오늘 날씨] 아침까지 '반짝 추위'… 낮부터 풀려요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 아침까지 차가운 날씨, 낮부터 추위 풀려…전국 곳곳에 건조특보]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003748349?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003748349?sid=103"/>
-        <updated>2023-03-16T15:15:49.643Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003748349?sid=103" class="nclicks(rig.secteco)" title="내일 아침까지 차가운 날씨, 낮부터 추위 풀려…전국 곳곳에 건조특보">내일 아침까지 차가운 날씨, 낮부터 추위 풀려…전국 곳곳에 건조특보</a>]]></content>
+        <title type="html"><![CDATA[[단독] 조성진, 빌보드 정상…‘더 헨델 프로젝트’ 발매 한달 만에]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002631682?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002631682?sid=103"/>
+        <updated>2023-03-16T23:14:39.081Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002631682?sid=103" class="nclicks(rig.secteco)" title="[단독] 조성진, 빌보드 정상…‘더 헨델 프로젝트’ 발매 한달 만에">[단독] 조성진, 빌보드 정상…‘더 헨델 프로젝트’ 발매 한달 만에</a>]]></content>
     </entry>
 </feed>
