@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-16T15:16:22.745Z</updated>
+    <updated>2023-03-16T16:22:39.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861801?sid=100" class="nclicks(rig.secteco)" title="여야, 반도체 지원 'K칩스법' 합의...대기업 세액공제 15%">여야, 반도체 지원 'K칩스법' 합의...대기업 세액공제 15%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹-기시다, 셔틀외교·지소미아·수출규제 '빅딜'…"新한일협력"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006689575?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006689575?sid=100"/>
-        <updated>2023-03-16T14:14:20.761Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006689575?sid=100" class="nclicks(rig.secteco)" title="尹-기시다, 셔틀외교·지소미아·수출규제 '빅딜'…&quot;新한일협력&quot;(종합)">尹-기시다, 셔틀외교·지소미아·수출규제 '빅딜'…"新한일협력"(종합)</a>]]></content>
+        <title type="html"><![CDATA[한·일, 지소미아·셔틀외교 복원]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003266490?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003266490?sid=100"/>
+        <updated>2023-03-16T16:22:10.496Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266490?sid=100" class="nclicks(rig.secteco)" title="한·일, 지소미아·셔틀외교 복원">한·일, 지소미아·셔틀외교 복원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECB, 기준금리 0.5%P 인상…SVB·CS 사태에도 '빅스텝'(종합)]]></title>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013820159?sid=104" class="nclicks(rig.secteco)" title="ECB, 기준금리 0.5%P 인상…SVB·CS 사태에도 '빅스텝'(종합)">ECB, 기준금리 0.5%P 인상…SVB·CS 사태에도 '빅스텝'(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융시장의 문제아 CS, 제2의 리먼 브러더스가 될까]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004862832?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004862832?sid=104"/>
-        <updated>2023-03-16T15:15:49.634Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004862832?sid=104" class="nclicks(rig.secteco)" title="금융시장의 문제아 CS, 제2의 리먼 브러더스가 될까">금융시장의 문제아 CS, 제2의 리먼 브러더스가 될까</a>]]></content>
+        <title type="html"><![CDATA[크레디트스위스 주가 30% 급등…유동성 공급 발표 영향]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011747632?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011747632?sid=104"/>
+        <updated>2023-03-16T16:22:10.506Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011747632?sid=104" class="nclicks(rig.secteco)" title="크레디트스위스 주가 30% 급등…유동성 공급 발표 영향">크레디트스위스 주가 30% 급등…유동성 공급 발표 영향</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본, 반도체 소재 수출규제 해제...교류 활성화 기대]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001861761?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001861761?sid=101"/>
-        <updated>2023-03-16T15:15:49.635Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861761?sid=101" class="nclicks(rig.secteco)" title="일본, 반도체 소재 수출규제 해제...교류 활성화 기대">일본, 반도체 소재 수출규제 해제...교류 활성화 기대</a>]]></content>
+        <title type="html"><![CDATA[[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013819483?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013819483?sid=101"/>
+        <updated>2023-03-16T16:22:10.506Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013819483?sid=101" class="nclicks(rig.secteco)" title="[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)">[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한일 재계 '미래 파트너십 기금' 각각 창설...피고기업 참여는 미지수]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001861811?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001861811?sid=101"/>
-        <updated>2023-03-16T15:15:49.636Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001861811?sid=101" class="nclicks(rig.secteco)" title="한일 재계 '미래 파트너십 기금' 각각 창설...피고기업 참여는 미지수">한일 재계 '미래 파트너십 기금' 각각 창설...피고기업 참여는 미지수</a>]]></content>
+        <title type="html"><![CDATA[전경련·게이단렌 ‘미래 파트너십 기금’ 창설 합의]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003266486?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003266486?sid=101"/>
+        <updated>2023-03-16T16:22:10.513Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266486?sid=101" class="nclicks(rig.secteco)" title="전경련·게이단렌 ‘미래 파트너십 기금’ 창설 합의">전경련·게이단렌 ‘미래 파트너십 기금’ 창설 합의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결혼한 부부 또 줄었다…19만으로 역대 최소 [아있세]]]></title>
@@ -69,25 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000335884?sid=105" class="nclicks(rig.secteco)" title="머스크의 위성인터넷 '스타링크'가 온다고? 한국법인 설립확인">머스크의 위성인터넷 '스타링크'가 온다고? 한국법인 설립확인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“내 정보 서비스 원하는 곳 보내 활용… 혁신 비즈니스 창출 가능”[박현갑의 뉴스아이]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003346528?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003346528?sid=105"/>
-        <updated>2023-03-16T15:15:49.638Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003346528?sid=105" class="nclicks(rig.secteco)" title="“내 정보 서비스 원하는 곳 보내 활용… 혁신 비즈니스 창출 가능”[박현갑의 뉴스아이]">“내 정보 서비스 원하는 곳 보내 활용… 혁신 비즈니스 창출 가능”[박현갑의 뉴스아이]</a>]]></content>
+        <title type="html"><![CDATA[카톡 오픈채팅 ‘이용자 식별번호’ 털렸는데…개인정보 아니야?]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002631609?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002631609?sid=105"/>
+        <updated>2023-03-16T16:22:10.518Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002631609?sid=105" class="nclicks(rig.secteco)" title="카톡 오픈채팅 ‘이용자 식별번호’ 털렸는데…개인정보 아니야?">카톡 오픈채팅 ‘이용자 식별번호’ 털렸는데…개인정보 아니야?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민 측 “입학취소 내릴 만큼 부정한 행위 아냐” vs 부산대 “허위경력 기재, 충분”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003793149?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003793149?sid=102"/>
-        <updated>2023-03-16T14:14:20.769Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003793149?sid=102" class="nclicks(rig.secteco)" title="조민 측 “입학취소 내릴 만큼 부정한 행위 아냐” vs 부산대 “허위경력 기재, 충분”">조민 측 “입학취소 내릴 만큼 부정한 행위 아냐” vs 부산대 “허위경력 기재, 충분”</a>]]></content>
+        <title type="html"><![CDATA[조민 “나름 최선 다했다” 정유라 “더는 못 봐주겠네”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003752209?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003752209?sid=102"/>
+        <updated>2023-03-16T16:22:10.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003752209?sid=102" class="nclicks(rig.secteco)" title="조민 “나름 최선 다했다” 정유라 “더는 못 봐주겠네”">조민 “나름 최선 다했다” 정유라 “더는 못 봐주겠네”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경북 상주서 ‘산불 2단계’ 발령…야간 진화 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011447030?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011447030?sid=102"/>
-        <updated>2023-03-16T15:15:49.640Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011447030?sid=102" class="nclicks(rig.secteco)" title="경북 상주서 ‘산불 2단계’ 발령…야간 진화 중">경북 상주서 ‘산불 2단계’ 발령…야간 진화 중</a>]]></content>
+        <title type="html"><![CDATA[경북 상주 산불...주민이 뿌린 재 속 불씨가 화근]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003752208?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003752208?sid=102"/>
+        <updated>2023-03-16T16:22:10.523Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003752208?sid=102" class="nclicks(rig.secteco)" title="경북 상주 산불...주민이 뿌린 재 속 불씨가 화근">경북 상주 산불...주민이 뿌린 재 속 불씨가 화근</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경찰학교까지 번진 학폭 사태]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003748349?sid=103" class="nclicks(rig.secteco)" title="내일 아침까지 차가운 날씨, 낮부터 추위 풀려…전국 곳곳에 건조특보">내일 아침까지 차가운 날씨, 낮부터 추위 풀려…전국 곳곳에 건조특보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 산불 등 화재 주의…내일 중부 낮기온 올라]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011447119?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011447119?sid=103"/>
-        <updated>2023-03-16T14:14:20.774Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011447119?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 산불 등 화재 주의…내일 중부 낮기온 올라">[뉴스9 날씨] 산불 등 화재 주의…내일 중부 낮기온 올라</a>]]></content>
+        <title type="html"><![CDATA[조성진, 美 빌보드 클래식 차트 1위…“애호가 아니라도 소구하는 좋은 음악”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002117569?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002117569?sid=103"/>
+        <updated>2023-03-16T16:22:10.528Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002117569?sid=103" class="nclicks(rig.secteco)" title="조성진, 美 빌보드 클래식 차트 1위…“애호가 아니라도 소구하는 좋은 음악”">조성진, 美 빌보드 클래식 차트 1위…“애호가 아니라도 소구하는 좋은 음악”</a>]]></content>
     </entry>
 </feed>
