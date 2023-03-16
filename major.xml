@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-16T07:15:03.655Z</updated>
+    <updated>2023-03-16T08:19:11.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[합참, 北 쏜 ICBM '화성-17형' 유사...최근 '이틀에 한번' 미사일 도발(종합2)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004982674?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004982674?sid=100"/>
-        <updated>2023-03-16T07:14:30.869Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004982674?sid=100" class="nclicks(rig.secteco)" title="합참, 北 쏜 ICBM '화성-17형' 유사...최근 '이틀에 한번' 미사일 도발(종합2)">합참, 北 쏜 ICBM '화성-17형' 유사...최근 '이틀에 한번' 미사일 도발(종합2)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령 ‘주 60시간 상한’ 말했는데…與는 “상한 적용 논의는 아직”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000885589?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000885589?sid=100"/>
-        <updated>2023-03-16T06:18:46.901Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000885589?sid=100" class="nclicks(rig.secteco)" title="尹대통령 ‘주 60시간 상한’ 말했는데…與는 “상한 적용 논의는 아직”">尹대통령 ‘주 60시간 상한’ 말했는데…與는 “상한 적용 논의는 아직”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[재일동포 만난 윤석열 대통령 부부 [뉴시스Pic]]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011746946?sid=100</id>
@@ -27,39 +13,53 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011746946?sid=100" class="nclicks(rig.secteco)" title="재일동포 만난 윤석열 대통령 부부 [뉴시스Pic]">재일동포 만난 윤석열 대통령 부부 [뉴시스Pic]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SVB 불길, 글로벌IB 크레디트스위스로 번져…세계금융 불안 증폭]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013818377?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013818377?sid=104"/>
-        <updated>2023-03-16T07:14:30.879Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013818377?sid=104" class="nclicks(rig.secteco)" title="SVB 불길, 글로벌IB 크레디트스위스로 번져…세계금융 불안 증폭">SVB 불길, 글로벌IB 크레디트스위스로 번져…세계금융 불안 증폭</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 “주 60시간 이상은 무리”···근로시간 개편안 보완 가이드라인 제시]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003211284?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003211284?sid=100"/>
+        <updated>2023-03-16T08:18:39.684Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211284?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 “주 60시간 이상은 무리”···근로시간 개편안 보완 가이드라인 제시">윤 대통령 “주 60시간 이상은 무리”···근로시간 개편안 보완 가이드라인 제시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“담배 물고 맨발로 자근자근”…中 불결한 배추공장 폭로 [포착]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003346603?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003346603?sid=104"/>
-        <updated>2023-03-16T07:14:30.879Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003346603?sid=104" class="nclicks(rig.secteco)" title="“담배 물고 맨발로 자근자근”…中 불결한 배추공장 폭로 [포착]">“담배 물고 맨발로 자근자근”…中 불결한 배추공장 폭로 [포착]</a>]]></content>
+        <title type="html"><![CDATA[尹 '코드원' 이륙 두 시간 전에, 北 기다렸다는 듯 동해로 ICBM 쐈다]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000728882?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000728882?sid=100"/>
+        <updated>2023-03-16T08:18:39.685Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000728882?sid=100" class="nclicks(rig.secteco)" title="尹 '코드원' 이륙 두 시간 전에, 北 기다렸다는 듯 동해로 ICBM 쐈다">尹 '코드원' 이륙 두 시간 전에, 北 기다렸다는 듯 동해로 ICBM 쐈다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한일 '미래 파트너십 기금' 20억부터…"참여 기업, 필요 따라 모집"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006688900?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006688900?sid=101"/>
-        <updated>2023-03-16T07:14:30.879Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006688900?sid=101" class="nclicks(rig.secteco)" title="한일 '미래 파트너십 기금' 20억부터…&quot;참여 기업, 필요 따라 모집&quot;(종합)">한일 '미래 파트너십 기금' 20억부터…"참여 기업, 필요 따라 모집"(종합)</a>]]></content>
+        <title type="html"><![CDATA[크레디트스위스 "중앙은행서 최대 70조원 대출"…위기진화 시도(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013819493?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013819493?sid=104"/>
+        <updated>2023-03-16T08:18:39.685Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013819493?sid=104" class="nclicks(rig.secteco)" title="크레디트스위스 &quot;중앙은행서 최대 70조원 대출&quot;…위기진화 시도(종합2보)">크레디트스위스 "중앙은행서 최대 70조원 대출"…위기진화 시도(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 방일 맞춰, 日수출규제 4년 만에 풀렸다…WTO 제소도 취하]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003266306?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003266306?sid=101"/>
-        <updated>2023-03-16T07:14:30.879Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266306?sid=101" class="nclicks(rig.secteco)" title="尹 방일 맞춰, 日수출규제 4년 만에 풀렸다…WTO 제소도 취하">尹 방일 맞춰, 日수출규제 4년 만에 풀렸다…WTO 제소도 취하</a>]]></content>
+        <title type="html"><![CDATA[NASA, 반세기만의 ‘문 워킹’ 때 입을 새 우주복 공개… “여성도 고려해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000885625?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000885625?sid=104"/>
+        <updated>2023-03-16T08:18:39.685Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000885625?sid=104" class="nclicks(rig.secteco)" title="NASA,  반세기만의  ‘문 워킹’ 때 입을 새 우주복 공개… “여성도  고려해”">NASA, 반세기만의 ‘문 워킹’ 때 입을 새 우주복 공개… “여성도 고려해”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지난해 결혼 ‘역대 최저’ 19만2천쌍…초혼연령은 가장 높았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002631670?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002631670?sid=101"/>
-        <updated>2023-03-16T07:14:30.883Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002631670?sid=101" class="nclicks(rig.secteco)" title="지난해 결혼 ‘역대 최저’ 19만2천쌍…초혼연령은 가장 높았다">지난해 결혼 ‘역대 최저’ 19만2천쌍…초혼연령은 가장 높았다</a>]]></content>
+        <title type="html"><![CDATA[[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013819483?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013819483?sid=101"/>
+        <updated>2023-03-16T08:18:39.686Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013819483?sid=101" class="nclicks(rig.secteco)" title="[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)">[한일 정상회담] 한일, 수출규제 해제·WTO 제소 취하 합의(종합2보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 도착한 윤 대통령, 북한 ICBM 상황 점검부터... 본격 일정 시작]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002385473?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002385473?sid=101"/>
+        <updated>2023-03-16T08:18:39.687Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002385473?sid=101" class="nclicks(rig.secteco)" title="일본 도착한 윤 대통령, 북한 ICBM 상황 점검부터... 본격 일정 시작">일본 도착한 윤 대통령, 북한 ICBM 상황 점검부터... 본격 일정 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난해 경기도내 혼인건수 5만4천건 '역대 최저'… 남녀 초혼연령도↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/666/0000006302?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/666/0000006302?sid=101"/>
+        <updated>2023-03-16T08:18:39.697Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/666/0000006302?sid=101" class="nclicks(rig.secteco)" title="지난해 경기도내 혼인건수 5만4천건 '역대 최저'… 남녀 초혼연령도↑">지난해 경기도내 혼인건수 5만4천건 '역대 최저'… 남녀 초혼연령도↑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["1등 못할 이유 없다"…MMO 노하우 결집 '나이트 크로우' 4월 출격(종합)]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011746581?sid=105" class="nclicks(rig.secteco)" title="&quot;1등 못할 이유 없다&quot;…MMO 노하우 결집 '나이트 크로우' 4월 출격(종합)">"1등 못할 이유 없다"…MMO 노하우 결집 '나이트 크로우' 4월 출격(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학계·소비자, "제4이통사에 주파수 대가 등 우대 조치 필수"]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003084825?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003084825?sid=105"/>
-        <updated>2023-03-16T07:14:30.889Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003084825?sid=105" class="nclicks(rig.secteco)" title="학계·소비자, &quot;제4이통사에 주파수 대가 등 우대 조치 필수&quot;">학계·소비자, "제4이통사에 주파수 대가 등 우대 조치 필수"</a>]]></content>
+        <title type="html"><![CDATA[2분기 28㎓ 주파수 할당방안 공고…제4이통사 과연? (종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002144416?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002144416?sid=105"/>
+        <updated>2023-03-16T08:18:39.700Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002144416?sid=105" class="nclicks(rig.secteco)" title="2분기 28㎓ 주파수 할당방안 공고…제4이통사 과연? (종합)">2분기 28㎓ 주파수 할당방안 공고…제4이통사 과연? (종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민, 눈물 글썽이며 "남들만큼 최선 다했다"…"총장과 카톡, '표창장 감사하다' 했더니 '어, 그래' 답변"]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000803852?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000803852?sid=102"/>
-        <updated>2023-03-16T07:14:30.889Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000803852?sid=102" class="nclicks(rig.secteco)" title="조민, 눈물 글썽이며 &quot;남들만큼 최선 다했다&quot;…&quot;총장과 카톡, '표창장 감사하다' 했더니 '어, 그래' 답변&quot;">조민, 눈물 글썽이며 "남들만큼 최선 다했다"…"총장과 카톡, '표창장 감사하다' 했더니 '어, 그래' 답변"</a>]]></content>
+        <title type="html"><![CDATA[조민 “동양대 표창장, 그러려니 생각…총장에 감사인사도”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003346686?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003346686?sid=102"/>
+        <updated>2023-03-16T08:18:39.702Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003346686?sid=102" class="nclicks(rig.secteco)" title="조민 “동양대 표창장, 그러려니 생각…총장에 감사인사도”">조민 “동양대 표창장, 그러려니 생각…총장에 감사인사도”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“친일파 되겠다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명]]></title>
+        <title type="html"><![CDATA[[속보]경북 상주서 산불…대응 2단계 발령]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000245798?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000245798?sid=102"/>
+        <updated>2023-03-16T08:18:39.705Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000245798?sid=102" class="nclicks(rig.secteco)" title="[속보]경북 상주서 산불…대응 2단계 발령">[속보]경북 상주서 산불…대응 2단계 발령</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“친일파 되련다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003792987?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003792987?sid=102"/>
         <updated>2023-03-16T07:14:30.894Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003792987?sid=102" class="nclicks(rig.secteco)" title="“친일파 되겠다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명">“친일파 되겠다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003792987?sid=102" class="nclicks(rig.secteco)" title="“친일파 되련다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명">“친일파 되련다”던 김영환 “尹 외로운 결단에 공감 보낸 것” 해명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반려견 21마리 학대하고 죽인 40대 법정구속…비인간적 수법(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013818803?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013818803?sid=102"/>
-        <updated>2023-03-16T07:14:30.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013818803?sid=102" class="nclicks(rig.secteco)" title="반려견 21마리 학대하고 죽인 40대 법정구속…비인간적 수법(종합)">반려견 21마리 학대하고 죽인 40대 법정구속…비인간적 수법(종합)</a>]]></content>
+        <title type="html"><![CDATA[쌍용차, U100 차명 ‘토레스 EVX’ 확정…실차 사진 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005102475?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005102475?sid=103"/>
+        <updated>2023-03-16T08:18:39.709Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005102475?sid=103" class="nclicks(rig.secteco)" title="쌍용차, U100 차명 ‘토레스 EVX’ 확정…실차 사진 공개">쌍용차, U100 차명 ‘토레스 EVX’ 확정…실차 사진 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쌍용차, ‘토레스 전기차’ 이미지 공개···30일 실물 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003211262?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003211262?sid=103"/>
-        <updated>2023-03-16T07:14:30.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211262?sid=103" class="nclicks(rig.secteco)" title="쌍용차, ‘토레스 전기차’ 이미지 공개···30일 실물 공개">쌍용차, ‘토레스 전기차’ 이미지 공개···30일 실물 공개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국토요타, '안나의 집'에 기부금·봉사활동 성료]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002285692?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002285692?sid=103"/>
-        <updated>2023-03-16T07:14:30.895Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002285692?sid=103" class="nclicks(rig.secteco)" title="한국토요타, '안나의 집'에 기부금·봉사활동 성료">한국토요타, '안나의 집'에 기부금·봉사활동 성료</a>]]></content>
+        <title type="html"><![CDATA[폭스바겐, 3000만원대 소형 전기차 ID.2 첫 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005444108?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005444108?sid=103"/>
+        <updated>2023-03-16T08:18:39.711Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444108?sid=103" class="nclicks(rig.secteco)" title="폭스바겐, 3000만원대 소형 전기차 ID.2 첫 공개">폭스바겐, 3000만원대 소형 전기차 ID.2 첫 공개</a>]]></content>
     </entry>
 </feed>
