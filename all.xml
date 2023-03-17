@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-17T03:15:27.993Z</updated>
+    <updated>2023-03-17T04:17:36.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[이재명, 尹 맹비난 "오므라이스 한 그릇에 나라 팔았다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002279412?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002279412?sid=100"/>
-        <updated>2023-03-17T03:15:00.083Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002279412?sid=100" class="nclicks(rig.secteco)" title="이재명, 尹 맹비난 &quot;오므라이스 한 그릇에 나라 팔았다&quot;">이재명, 尹 맹비난 "오므라이스 한 그릇에 나라 팔았다"</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김정은 "핵에는 핵으로 답할 것"…ICBM 쏜 뒤 공개한 사진은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003266563?sid=100</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266563?sid=100" class="nclicks(rig.secteco)" title="김정은 &quot;핵에는 핵으로 답할 것&quot;…ICBM 쏜 뒤 공개한 사진은">김정은 "핵에는 핵으로 답할 것"…ICBM 쏜 뒤 공개한 사진은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 소주에 일본 맥주 섞었다...尹·기시다 ‘폭탄주’ 건배 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005102911?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005102911?sid=100"/>
-        <updated>2023-03-17T03:15:00.088Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005102911?sid=100" class="nclicks(rig.secteco)" title="한국 소주에 일본 맥주 섞었다...尹·기시다 ‘폭탄주’ 건배">한국 소주에 일본 맥주 섞었다...尹·기시다 ‘폭탄주’ 건배</a>]]></content>
+        <title type="html"><![CDATA[이재명, 尹 맹비난 "오므라이스 한 그릇에 나라 팔았다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002279412?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002279412?sid=100"/>
+        <updated>2023-03-17T03:15:00.083Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002279412?sid=100" class="nclicks(rig.secteco)" title="이재명, 尹 맹비난 &quot;오므라이스 한 그릇에 나라 팔았다&quot;">이재명, 尹 맹비난 "오므라이스 한 그릇에 나라 팔았다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹-기시다, 만찬 후 2차 독대…소주·맥주로 '화합주' 마셨다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003266545?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003266545?sid=100"/>
+        <updated>2023-03-17T04:17:09.564Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266545?sid=100" class="nclicks(rig.secteco)" title="尹-기시다, 만찬 후 2차 독대…소주·맥주로 '화합주' 마셨다">尹-기시다, 만찬 후 2차 독대…소주·맥주로 '화합주' 마셨다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[프랑스 연금개혁 Q&A] 128만명이 거리로 나온 까닭은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,11 +40,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444596?sid=104" class="nclicks(rig.secteco)" title="美 흑해 충돌 영상 공개…&quot;러와 분쟁 고조 추구하지 않는다&quot;">美 흑해 충돌 영상 공개…"러와 분쟁 고조 추구하지 않는다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스코홀딩스, 본사 주소지 서울→포항 이전 확정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005444527?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005444527?sid=101"/>
-        <updated>2023-03-17T03:15:00.093Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005444527?sid=101" class="nclicks(rig.secteco)" title="포스코홀딩스, 본사 주소지 서울→포항 이전 확정">포스코홀딩스, 본사 주소지 서울→포항 이전 확정</a>]]></content>
+        <title type="html"><![CDATA[[현장] 주주들에게도 문 닫은 포스코홀딩스 주총 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011748293?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011748293?sid=101"/>
+        <updated>2023-03-17T04:17:09.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011748293?sid=101" class="nclicks(rig.secteco)" title="[현장] 주주들에게도 문 닫은 포스코홀딩스 주총">[현장] 주주들에게도 문 닫은 포스코홀딩스 주총</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["퍼스트 리퍼블릭에 300억 달러" 美 은행 11곳, 백기사로 투입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,46 +54,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005232389?sid=101" class="nclicks(rig.secteco)" title="&quot;퍼스트 리퍼블릭에 300억 달러&quot; 美 은행 11곳, 백기사로 투입">"퍼스트 리퍼블릭에 300억 달러" 美 은행 11곳, 백기사로 투입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제3국 의존도 낮춘 EU 원자재법...분주해진 국내 배터리·완성차 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002117838?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002117838?sid=101"/>
-        <updated>2023-03-17T03:15:00.096Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002117838?sid=101" class="nclicks(rig.secteco)" title="제3국 의존도 낮춘 EU 원자재법...분주해진 국내 배터리·완성차">제3국 의존도 낮춘 EU 원자재법...분주해진 국내 배터리·완성차</a>]]></content>
+        <title type="html"><![CDATA[유럽, CRMA로 ‘中 의존 탈피’ 선언…“韓 2차전지 업체 유럽行 가속도” [투자360] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002117898?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002117898?sid=101"/>
+        <updated>2023-03-17T04:17:09.576Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002117898?sid=101" class="nclicks(rig.secteco)" title="유럽, CRMA로 ‘中 의존 탈피’ 선언…“韓 2차전지 업체 유럽行 가속도” [투자360]">유럽, CRMA로 ‘中 의존 탈피’ 선언…“韓 2차전지 업체 유럽行 가속도” [투자360]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“고객이 직접 상품 설계, 챗GPT도 검토”…LG유플러스, 주총 가보니 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005102897?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005102897?sid=105"/>
-        <updated>2023-03-17T03:15:00.098Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005102897?sid=105" class="nclicks(rig.secteco)" title="“고객이 직접 상품 설계, 챗GPT도 검토”…LG유플러스, 주총 가보니">“고객이 직접 상품 설계, 챗GPT도 검토”…LG유플러스, 주총 가보니</a>]]></content>
+        <title type="html"><![CDATA[[주총]'성과급 반토막' LGU+ "경쟁사比 성과 낮아…직원들 죄송"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006690125?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006690125?sid=105"/>
+        <updated>2023-03-17T04:17:09.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006690125?sid=105" class="nclicks(rig.secteco)" title="[주총]'성과급 반토막' LGU+ &quot;경쟁사比 성과 낮아…직원들 죄송&quot;(종합)">[주총]'성과급 반토막' LGU+ "경쟁사比 성과 낮아…직원들 죄송"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쫌아는기자들] “AI, 엑셀 차트 만들어” MS 코파일럿 등장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003752351?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003752351?sid=105"/>
-        <updated>2023-03-17T03:15:00.099Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003752351?sid=105" class="nclicks(rig.secteco)" title="[쫌아는기자들] “AI, 엑셀 차트 만들어” MS 코파일럿 등장">[쫌아는기자들] “AI, 엑셀 차트 만들어” MS 코파일럿 등장</a>]]></content>
+        <title type="html"><![CDATA["PPT 만들어줘" AI가 뚝딱 생성…MS 365 '코파일럿' 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011748495?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011748495?sid=105"/>
+        <updated>2023-03-17T04:17:09.583Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011748495?sid=105" class="nclicks(rig.secteco)" title="&quot;PPT 만들어줘&quot; AI가 뚝딱 생성…MS 365 '코파일럿' 공개">"PPT 만들어줘" AI가 뚝딱 생성…MS 365 '코파일럿' 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, '김문기 몰랐다' 두 번째 재판 출석…말없이 법정으로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001729317?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001729317?sid=102"/>
-        <updated>2023-03-17T03:15:00.101Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001729317?sid=102" class="nclicks(rig.secteco)" title="이재명, '김문기 몰랐다' 두 번째 재판 출석…말없이 법정으로">이재명, '김문기 몰랐다' 두 번째 재판 출석…말없이 법정으로</a>]]></content>
+        <title type="html"><![CDATA[“김문기 모른다” 이재명 대표 선거법 재판 2차 출석 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011447503?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011447503?sid=102"/>
+        <updated>2023-03-17T04:17:09.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011447503?sid=102" class="nclicks(rig.secteco)" title="“김문기 모른다” 이재명 대표 선거법 재판 2차 출석">“김문기 모른다” 이재명 대표 선거법 재판 2차 출석</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“무섭다, 살려주세요”…웃통 벗은 전두환 손자, 마약 생중계 ‘충격’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005102918?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005102918?sid=102"/>
-        <updated>2023-03-17T03:15:00.103Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005102918?sid=102" class="nclicks(rig.secteco)" title="“무섭다, 살려주세요”…웃통 벗은 전두환 손자, 마약 생중계 ‘충격’">“무섭다, 살려주세요”…웃통 벗은 전두환 손자, 마약 생중계 ‘충격’</a>]]></content>
+        <title type="html"><![CDATA[전두환 손자, 유튜브 방송 중 "마약 자수"…의식불명인듯(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013821035?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013821035?sid=102"/>
+        <updated>2023-03-17T04:17:09.586Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013821035?sid=102" class="nclicks(rig.secteco)" title="전두환 손자, 유튜브 방송 중 &quot;마약 자수&quot;…의식불명인듯(종합2보)">전두환 손자, 유튜브 방송 중 "마약 자수"…의식불명인듯(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경북 산불 가해자 19명 검거…불법 소각행위가 산불로 번져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003211459?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003211459?sid=102"/>
-        <updated>2023-03-17T02:35:49.528Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211459?sid=102" class="nclicks(rig.secteco)" title="경북 산불 가해자 19명 검거…불법 소각행위가 산불로 번져">경북 산불 가해자 19명 검거…불법 소각행위가 산불로 번져</a>]]></content>
+        <title type="html"><![CDATA[‘상주 산불’ 17시간여 만에 큰불 잡아…산불영향구역 86ha (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011447504?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011447504?sid=102"/>
+        <updated>2023-03-17T04:17:09.589Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011447504?sid=102" class="nclicks(rig.secteco)" title="‘상주 산불’ 17시간여 만에 큰불 잡아…산불영향구역 86ha">‘상주 산불’ 17시간여 만에 큰불 잡아…산불영향구역 86ha</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["꽃구경 가자" 4월 첫 주 인파 몰린다…전국 벚꽃 개화 시기는? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
