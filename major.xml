@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-19T11:12:23.788Z</updated>
+    <updated>2023-03-19T12:25:15.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美B-1B, 韓·日과 동해서 각각 연합훈련…北, 탄도미사일 발사(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013823612?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013823612?sid=100"/>
+        <updated>2023-03-19T12:24:49.753Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013823612?sid=100" class="nclicks(rig.secteco)" title="美B-1B, 韓·日과 동해서 각각 연합훈련…北, 탄도미사일 발사(종합)">美B-1B, 韓·日과 동해서 각각 연합훈련…北, 탄도미사일 발사(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령의 방일·한일 정상회담 "커다란 성공"…대통령실 자평]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000804229?sid=100</id>
@@ -13,25 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000804229?sid=100" class="nclicks(rig.secteco)" title="윤 대통령의 방일·한일 정상회담 &quot;커다란 성공&quot;…대통령실 자평">윤 대통령의 방일·한일 정상회담 "커다란 성공"…대통령실 자평</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한, 美B-1B 한반도 진입 직전에 탄도미사일 쐈다]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013823560?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013823560?sid=100"/>
-        <updated>2023-03-19T10:14:01.019Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013823560?sid=100" class="nclicks(rig.secteco)" title="북한, 美B-1B 한반도 진입 직전에 탄도미사일 쐈다">북한, 美B-1B 한반도 진입 직전에 탄도미사일 쐈다</a>]]></content>
+        <title type="html"><![CDATA[대통령 비서실장 "'주 69시간'에 극단적 프레임 씌워져 진의 전달 안 돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001729656?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001729656?sid=100"/>
+        <updated>2023-03-19T12:24:49.756Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001729656?sid=100" class="nclicks(rig.secteco)" title="대통령 비서실장 &quot;'주 69시간'에 극단적 프레임 씌워져 진의 전달 안 돼&quot;">대통령 비서실장 "'주 69시간'에 극단적 프레임 씌워져 진의 전달 안 돼"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김대기 "주 69시간 극단적 프레임 씌어져…진의 전달되지 않았다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003748952?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003748952?sid=100"/>
-        <updated>2023-03-19T11:11:50.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003748952?sid=100" class="nclicks(rig.secteco)" title="김대기 &quot;주 69시간 극단적 프레임 씌어져…진의 전달되지 않았다&quot;">김대기 "주 69시간 극단적 프레임 씌어져…진의 전달되지 않았다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부동산PF발 `제2금융 위기` 조짐] `구원투수` 나선 다이먼과 워런 버핏]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002789743?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002789743?sid=104"/>
-        <updated>2023-03-19T11:11:50.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002789743?sid=104" class="nclicks(rig.secteco)" title="[부동산PF발 `제2금융 위기` 조짐] `구원투수` 나선 다이먼과 워런 버핏">[부동산PF발 `제2금융 위기` 조짐] `구원투수` 나선 다이먼과 워런 버핏</a>]]></content>
+        <title type="html"><![CDATA[버핏, 은행위기 소방수 되나…"미 고위관리들과 투자 논의"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013823635?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013823635?sid=104"/>
+        <updated>2023-03-19T12:24:49.758Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013823635?sid=104" class="nclicks(rig.secteco)" title="버핏, 은행위기 소방수 되나…&quot;미 고위관리들과 투자 논의&quot;(종합)">버핏, 은행위기 소방수 되나…"미 고위관리들과 투자 논의"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[G7 "북 ICBM에 안보리 조치없어 유감"…외교장관 성명(종합)]]></title>
@@ -62,25 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005103626?sid=101" class="nclicks(rig.secteco)" title="20대가 많은줄 알았는데…코인 주 투자자는 ‘이들’">20대가 많은줄 알았는데…코인 주 투자자는 ‘이들’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생각과 좀 다른 ‘날렵한’ 거북선…18세기 바다 누빈 모습 복원, 신빙성은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000041949?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000041949?sid=105"/>
-        <updated>2023-03-19T11:11:50.633Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041949?sid=105" class="nclicks(rig.secteco)" title="생각과 좀 다른 ‘날렵한’ 거북선…18세기 바다 누빈 모습 복원, 신빙성은?">생각과 좀 다른 ‘날렵한’ 거북선…18세기 바다 누빈 모습 복원, 신빙성은?</a>]]></content>
+        <title type="html"><![CDATA[이게 진짜 거북선?···"지붕 전체가 철갑 거북등 아냐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000729326?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000729326?sid=105"/>
+        <updated>2023-03-19T12:24:49.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000729326?sid=105" class="nclicks(rig.secteco)" title="이게 진짜 거북선?···&quot;지붕 전체가 철갑 거북등 아냐&quot;">이게 진짜 거북선?···"지붕 전체가 철갑 거북등 아냐"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[챗GPT한테 내가 누구인지 물었더니… [SDF다이어리]]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001043585?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001043585?sid=105"/>
-        <updated>2023-03-19T11:11:50.642Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001043585?sid=105" class="nclicks(rig.secteco)" title="챗GPT한테 내가 누구인지 물었더니… [SDF다이어리]">챗GPT한테 내가 누구인지 물었더니… [SDF다이어리]</a>]]></content>
+        <title type="html"><![CDATA[말만 잘하던 챗GPT ‘눈’도 떴다…개발사 수장 “위대한 기술, 두렵다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000041946?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000041946?sid=105"/>
+        <updated>2023-03-19T12:24:49.763Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041946?sid=105" class="nclicks(rig.secteco)" title="말만 잘하던 챗GPT ‘눈’도 떴다…개발사 수장 “위대한 기술, 두렵다”">말만 잘하던 챗GPT ‘눈’도 떴다…개발사 수장 “위대한 기술, 두렵다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[송도국제도시 아파트에 쇠구슬 쏜 60대 구속…"도주우려"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011750790?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011750790?sid=102"/>
-        <updated>2023-03-19T11:11:50.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011750790?sid=102" class="nclicks(rig.secteco)" title="송도국제도시 아파트에 쇠구슬 쏜 60대 구속…&quot;도주우려&quot;">송도국제도시 아파트에 쇠구슬 쏜 60대 구속…"도주우려"</a>]]></content>
+        <title type="html"><![CDATA[호기심에 쇠구슬 발사… 이웃집 유리창 3차례 깨트린 60대 구속]]></title>
+        <id>https://n.news.naver.com/mnews/article/082/0001203127?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/082/0001203127?sid=102"/>
+        <updated>2023-03-19T12:24:49.764Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001203127?sid=102" class="nclicks(rig.secteco)" title="호기심에 쇠구슬 발사… 이웃집 유리창 3차례 깨트린 60대 구속">호기심에 쇠구슬 발사… 이웃집 유리창 3차례 깨트린 60대 구속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 마스크 벗는다…2년 5개월 만에 달라지는 일상]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011750779?sid=102" class="nclicks(rig.secteco)" title="검찰, 이재명 금주 중 기소…'428억 약정 의혹' 일단 제외될 듯">검찰, 이재명 금주 중 기소…'428억 약정 의혹' 일단 제외될 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차가 게처럼 옆으로 이동하는 시대 온다…현대모비스 ‘인휠 시스템’ 개발]]></title>
-        <id>https://n.news.naver.com/mnews/article/243/0000041948?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/243/0000041948?sid=103"/>
-        <updated>2023-03-19T09:13:45.955Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041948?sid=103" class="nclicks(rig.secteco)" title="차가 게처럼 옆으로 이동하는 시대 온다…현대모비스 ‘인휠 시스템’ 개발">차가 게처럼 옆으로 이동하는 시대 온다…현대모비스 ‘인휠 시스템’ 개발</a>]]></content>
+        <title type="html"><![CDATA[미래차는 게처럼 옆으로도 주행한다… 현대모비스, 네 바퀴 독립제어 ‘인휠시스템’ 개발 성공]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003486171?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003486171?sid=103"/>
+        <updated>2023-03-19T12:24:49.766Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003486171?sid=103" class="nclicks(rig.secteco)" title="미래차는 게처럼 옆으로도 주행한다… 현대모비스, 네 바퀴 독립제어 ‘인휠시스템’ 개발 성공">미래차는 게처럼 옆으로도 주행한다… 현대모비스, 네 바퀴 독립제어 ‘인휠시스템’ 개발 성공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 일교차 큰 봄 날씨...전국 미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001862644?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001862644?sid=103"/>
-        <updated>2023-03-19T11:11:50.653Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001862644?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 일교차 큰 봄 날씨...전국 미세먼지 '나쁨'">[날씨] 내일 일교차 큰 봄 날씨...전국 미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 월요일 큰 일교차…전국 대부분 공기 탁해]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000589436?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000589436?sid=103"/>
+        <updated>2023-03-19T12:24:49.768Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000589436?sid=103" class="nclicks(rig.secteco)" title="[날씨] 월요일 큰 일교차…전국 대부분 공기 탁해">[날씨] 월요일 큰 일교차…전국 대부분 공기 탁해</a>]]></content>
     </entry>
 </feed>
