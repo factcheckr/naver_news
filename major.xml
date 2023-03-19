@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-19T02:45:34.910Z</updated>
+    <updated>2023-03-19T03:16:37.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003266746?sid=100" class="nclicks(rig.secteco)" title="[속보] 軍 “북한, 동해상으로 탄도미사일 발사”">[속보] 軍 “북한, 동해상으로 탄도미사일 발사”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박용진 "文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'"]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000804140?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000804140?sid=100"/>
-        <updated>2023-03-19T02:45:06.892Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000804140?sid=100" class="nclicks(rig.secteco)" title="박용진 &quot;文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'&quot;">박용진 "文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김기현, 한·일 정상회담 비판한 민주당에 “수구꼴통 같은 반일 선동질”]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003211653?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003211653?sid=100"/>
@@ -27,67 +20,74 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211653?sid=100" class="nclicks(rig.secteco)" title="김기현, 한·일 정상회담 비판한 민주당에 “수구꼴통 같은 반일 선동질”">김기현, 한·일 정상회담 비판한 민주당에 “수구꼴통 같은 반일 선동질”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요미우리 “기시다, 5월 G7 정상회의에 윤 대통령 초청 최종 조율”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003211660?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003211660?sid=104"/>
-        <updated>2023-03-19T02:45:06.899Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003211660?sid=104" class="nclicks(rig.secteco)" title="요미우리 “기시다, 5월 G7 정상회의에 윤 대통령 초청 최종 조율”">요미우리 “기시다, 5월 G7 정상회의에 윤 대통령 초청 최종 조율”</a>]]></content>
+        <title type="html"><![CDATA[박용진 "文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000804140?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000804140?sid=100"/>
+        <updated>2023-03-19T02:45:06.892Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000804140?sid=100" class="nclicks(rig.secteco)" title="박용진 &quot;文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'&quot;">박용진 "文, '민주당 달라지고 화합하면 내년 총선 국민 신뢰 얻을 수 있어'"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트럼프 "다음주 체포 가능성, 시위 촉구"…의회난동 악몽(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006692343?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006692343?sid=104"/>
-        <updated>2023-03-19T02:45:06.901Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006692343?sid=104" class="nclicks(rig.secteco)" title="트럼프 &quot;다음주 체포 가능성, 시위 촉구&quot;…의회난동 악몽(종합)">트럼프 "다음주 체포 가능성, 시위 촉구"…의회난동 악몽(종합)</a>]]></content>
+        <title type="html"><![CDATA[尹, G7 정상회의 참석?…기시다, 5월 히로시마 초청 조율]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000327659?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000327659?sid=104"/>
+        <updated>2023-03-19T03:16:10.556Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000327659?sid=104" class="nclicks(rig.secteco)" title="尹, G7 정상회의 참석?…기시다, 5월 히로시마 초청 조율">尹, G7 정상회의 참석?…기시다, 5월 히로시마 초청 조율</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UBS, '위기의 CS' 인수 초읽기…"20일 개장 전 마무리"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004863792?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004863792?sid=101"/>
-        <updated>2023-03-19T02:45:06.905Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004863792?sid=101" class="nclicks(rig.secteco)" title="UBS, '위기의 CS' 인수 초읽기…&quot;20일 개장 전 마무리&quot;">UBS, '위기의 CS' 인수 초읽기…"20일 개장 전 마무리"</a>]]></content>
+        <title type="html"><![CDATA[[속보] 에콰도르 지진 사상자 확대, 최소 14명 사망 "페루서도 1명 숨져"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000804146?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000804146?sid=104"/>
+        <updated>2023-03-19T03:16:10.559Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000804146?sid=104" class="nclicks(rig.secteco)" title="[속보] 에콰도르 지진 사상자 확대, 최소 14명 사망 &quot;페루서도 1명 숨져&quot;">[속보] 에콰도르 지진 사상자 확대, 최소 14명 사망 "페루서도 1명 숨져"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에코프로 또 내부자거래…코스닥 신뢰 붕괴 위기[선데이머니카페]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004168655?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004168655?sid=101"/>
-        <updated>2023-03-19T02:45:06.906Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004168655?sid=101" class="nclicks(rig.secteco)" title="에코프로 또 내부자거래…코스닥 신뢰 붕괴 위기[선데이머니카페]">에코프로 또 내부자거래…코스닥 신뢰 붕괴 위기[선데이머니카페]</a>]]></content>
+        <title type="html"><![CDATA[UBS, 위기의 크레디트스위스 인수 임박…19일 결론낸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005445255?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005445255?sid=101"/>
+        <updated>2023-03-19T03:16:10.561Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005445255?sid=101" class="nclicks(rig.secteco)" title="UBS, 위기의 크레디트스위스 인수 임박…19일 결론낸다">UBS, 위기의 크레디트스위스 인수 임박…19일 결론낸다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LGD OLED TV 패널, 英 카본 트러스트 탄소발자국 인증...'업계 최초']]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002693661?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002693661?sid=101"/>
-        <updated>2023-03-19T02:45:06.908Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002693661?sid=101" class="nclicks(rig.secteco)" title="LGD OLED TV 패널, 英 카본 트러스트 탄소발자국 인증...'업계 최초'">LGD OLED TV 패널, 英 카본 트러스트 탄소발자국 인증...'업계 최초'</a>]]></content>
+        <title type="html"><![CDATA["돈 빌리려면 알몸사진 보내"…신종 '성착취 추심' 기승]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004168678?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004168678?sid=101"/>
+        <updated>2023-03-19T03:16:10.565Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004168678?sid=101" class="nclicks(rig.secteco)" title="&quot;돈 빌리려면 알몸사진 보내&quot;…신종 '성착취 추심' 기승">"돈 빌리려면 알몸사진 보내"…신종 '성착취 추심' 기승</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 갤S23울트라, 유럽서 '최상위 평가']]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004983422?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004983422?sid=105"/>
-        <updated>2023-03-19T02:45:06.910Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004983422?sid=105" class="nclicks(rig.secteco)" title="삼성 갤S23울트라, 유럽서 '최상위 평가'">삼성 갤S23울트라, 유럽서 '최상위 평가'</a>]]></content>
+        <title type="html"><![CDATA[한파 불어닥친 국내 가상자산 시장…작년 하반기 시가총액 4兆 증발]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000886271?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000886271?sid=101"/>
+        <updated>2023-03-19T03:16:10.566Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000886271?sid=101" class="nclicks(rig.secteco)" title="한파 불어닥친 국내 가상자산 시장…작년 하반기 시가총액 4兆 증발">한파 불어닥친 국내 가상자산 시장…작년 하반기 시가총액 4兆 증발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 구글 vs MS `AI 전쟁`… 카카오는 이걸 선택했다]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002789594?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002789594?sid=105"/>
-        <updated>2023-03-19T02:45:06.912Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002789594?sid=105" class="nclicks(rig.secteco)" title="[단독] 구글 vs MS `AI 전쟁`… 카카오는 이걸 선택했다">[단독] 구글 vs MS `AI 전쟁`… 카카오는 이걸 선택했다</a>]]></content>
+        <title type="html"><![CDATA[[지금은 과학] 왜군 괴멸시켰던 거북선…228년만에 CG로 복원]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000735117?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000735117?sid=105"/>
+        <updated>2023-03-19T03:16:10.566Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000735117?sid=105" class="nclicks(rig.secteco)" title="[지금은 과학] 왜군 괴멸시켰던 거북선…228년만에 CG로 복원">[지금은 과학] 왜군 괴멸시켰던 거북선…228년만에 CG로 복원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일부터 버스·지하철 노마스크…약국·병원은?]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003486122?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003486122?sid=102"/>
-        <updated>2023-03-19T01:14:21.302Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003486122?sid=102" class="nclicks(rig.secteco)" title="내일부터 버스·지하철 노마스크…약국·병원은?">내일부터 버스·지하철 노마스크…약국·병원은?</a>]]></content>
+        <title type="html"><![CDATA[갤S23 울트라, 유럽 주요 7개국 소비자연맹지 평가서 1위]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002285894?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002285894?sid=105"/>
+        <updated>2023-03-19T03:16:10.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002285894?sid=105" class="nclicks(rig.secteco)" title="갤S23 울트라, 유럽 주요 7개국 소비자연맹지 평가서 1위">갤S23 울트라, 유럽 주요 7개국 소비자연맹지 평가서 1위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 학원 여학생 얼굴에…합성사진 배포한 중학생의 최후]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004863780?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004863780?sid=102"/>
-        <updated>2023-03-19T02:45:06.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004863780?sid=102" class="nclicks(rig.secteco)" title="같은 학원 여학생 얼굴에…합성사진 배포한 중학생의 최후">같은 학원 여학생 얼굴에…합성사진 배포한 중학생의 최후</a>]]></content>
+        <title type="html"><![CDATA[일상회복 "보이네" 내일부터 대중교통서 '노마스크'.. 병원은? "아직"]]></title>
+        <id>https://n.news.naver.com/mnews/article/661/0000022033?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/661/0000022033?sid=102"/>
+        <updated>2023-03-19T03:16:10.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000022033?sid=102" class="nclicks(rig.secteco)" title="일상회복 &quot;보이네&quot; 내일부터 대중교통서 '노마스크'.. 병원은? &quot;아직&quot;">일상회복 "보이네" 내일부터 대중교통서 '노마스크'.. 병원은? "아직"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여학생 나체 합성사진...같은 학원 남중생이 뿌려, 법정구속]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005103416?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005103416?sid=102"/>
+        <updated>2023-03-19T03:16:10.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005103416?sid=102" class="nclicks(rig.secteco)" title="여학생 나체 합성사진...같은 학원 남중생이 뿌려, 법정구속">여학생 나체 합성사진...같은 학원 남중생이 뿌려, 법정구속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['MZ 핫플'의 대변신…서울시, '한국판 실리콘밸리' 만든다]]></title>
