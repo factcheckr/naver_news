@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-20T19:12:36.207Z</updated>
+    <updated>2023-03-20T20:14:03.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['주 60시간 덫'에 갇힌 정부…프레임 안 바꾸면 근로시간 개혁 필패 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -12,6 +12,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004822996?sid=100" class="nclicks(rig.secteco)" title="'주 60시간 덫'에 갇힌 정부…프레임 안 바꾸면 근로시간 개혁 필패">'주 60시간 덫'에 갇힌 정부…프레임 안 바꾸면 근로시간 개혁 필패</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모의 핵탄두 800m 상공에서 터뜨린 北... 南 대도시 겨냥해 피해 최대화 노렸나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000729555?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000729555?sid=100"/>
+        <updated>2023-03-20T20:13:37.571Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000729555?sid=100" class="nclicks(rig.secteco)" title="모의 핵탄두 800m 상공에서 터뜨린 北... 南 대도시 겨냥해 피해 최대화 노렸나">모의 핵탄두 800m 상공에서 터뜨린 北... 南 대도시 겨냥해 피해 최대화 노렸나</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대통령실 “독도-위안부 논의안해… 日 왜곡보도에 유감 표명” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003486438?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003486438?sid=100"/>
@@ -19,25 +26,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003486438?sid=100" class="nclicks(rig.secteco)" title="대통령실 “독도-위안부 논의안해… 日 왜곡보도에 유감 표명”">대통령실 “독도-위안부 논의안해… 日 왜곡보도에 유감 표명”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[北, 南전역 타격 전술핵 800m 상공서 폭발시험… 살상능력 극대화 위협 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003486425?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003486425?sid=100"/>
-        <updated>2023-03-20T18:17:40.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003486425?sid=100" class="nclicks(rig.secteco)" title="北, 南전역 타격 전술핵 800m 상공서 폭발시험… 살상능력 극대화 위협">北, 南전역 타격 전술핵 800m 상공서 폭발시험… 살상능력 극대화 위협</a>]]></content>
+        <title type="html"><![CDATA["공동 목표 있다" 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013826226?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013826226?sid=104"/>
+        <updated>2023-03-20T20:13:37.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013826226?sid=104" class="nclicks(rig.secteco)" title="&quot;공동 목표 있다&quot; 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합)">"공동 목표 있다" 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모스크바 간 시진핑 “요동치는 세계서 러와 함께할 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003752929?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003752929?sid=104"/>
-        <updated>2023-03-20T18:17:40.404Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003752929?sid=104" class="nclicks(rig.secteco)" title="모스크바 간 시진핑 “요동치는 세계서 러와 함께할 것”">모스크바 간 시진핑 “요동치는 세계서 러와 함께할 것”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기시다 “5월 G7 정상회의에 윤 대통령 초청” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003267172?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003267172?sid=104"/>
-        <updated>2023-03-20T16:20:22.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003267172?sid=104" class="nclicks(rig.secteco)" title="기시다 “5월 G7 정상회의에 윤 대통령 초청”">기시다 “5월 G7 정상회의에 윤 대통령 초청”</a>]]></content>
+        <title type="html"><![CDATA[기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001595069?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001595069?sid=104"/>
+        <updated>2023-03-20T20:13:37.580Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001595069?sid=104" class="nclicks(rig.secteco)" title="기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성">기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,11 +47,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446167?sid=101" class="nclicks(rig.secteco)" title="베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개">베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포스코케미칼, ‘퓨처엠’ 날개 달고 이차전지 소재 박차 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005445926?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005445926?sid=101"/>
-        <updated>2023-03-20T19:12:03.216Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005445926?sid=101" class="nclicks(rig.secteco)" title="포스코케미칼, ‘퓨처엠’ 날개 달고 이차전지 소재 박차">포스코케미칼, ‘퓨처엠’ 날개 달고 이차전지 소재 박차</a>]]></content>
+        <title type="html"><![CDATA[케미칼 → 퓨처엠… 포스코에 ‘리브랜딩’ 열풍 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001595075?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001595075?sid=101"/>
+        <updated>2023-03-20T20:13:37.584Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001595075?sid=101" class="nclicks(rig.secteco)" title="케미칼 → 퓨처엠… 포스코에 ‘리브랜딩’ 열풍">케미칼 → 퓨처엠… 포스코에 ‘리브랜딩’ 열풍</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플페이 오늘부터 결제… 삼성은 ‘네·카 동맹’ 맞불 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,11 +61,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003752927?sid=101" class="nclicks(rig.secteco)" title="애플페이 오늘부터 결제… 삼성은 ‘네·카 동맹’ 맞불">애플페이 오늘부터 결제… 삼성은 ‘네·카 동맹’ 맞불</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013826202?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013826202?sid=105"/>
-        <updated>2023-03-20T18:17:40.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013826202?sid=105" class="nclicks(rig.secteco)" title="우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호">우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호</a>]]></content>
+        <title type="html"><![CDATA[민간 우주발사체 '한빛-TLV'의 성공…"상업 발사 기반 마련"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005446189?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005446189?sid=105"/>
+        <updated>2023-03-20T20:13:37.588Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446189?sid=105" class="nclicks(rig.secteco)" title="민간 우주발사체 '한빛-TLV'의 성공…&quot;상업 발사 기반 마련&quot;(종합)">민간 우주발사체 '한빛-TLV'의 성공…"상업 발사 기반 마련"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041951?sid=105" class="nclicks(rig.secteco)" title="[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작">[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘노 마스크’ 거의 없는 지하철… “남들 다 써서” “미세먼지 탓” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003486459?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003486459?sid=102"/>
-        <updated>2023-03-20T18:17:40.420Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003486459?sid=102" class="nclicks(rig.secteco)" title="‘노 마스크’ 거의 없는 지하철… “남들 다 써서” “미세먼지 탓”">‘노 마스크’ 거의 없는 지하철… “남들 다 써서” “미세먼지 탓”</a>]]></content>
+        <title type="html"><![CDATA[출근길 열에 아홉은 아직 착용… 마스크와 헤어지기 쉽지 않네 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001595078?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001595078?sid=102"/>
+        <updated>2023-03-20T20:13:37.593Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001595078?sid=102" class="nclicks(rig.secteco)" title="출근길 열에 아홉은 아직 착용… 마스크와 헤어지기 쉽지 않네">출근길 열에 아홉은 아직 착용… 마스크와 헤어지기 쉽지 않네</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기후변화 최종경고…"근미래 지구 전지역서 기후재앙 늘어난다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013826144?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013826144?sid=102"/>
-        <updated>2023-03-20T19:12:03.241Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013826144?sid=102" class="nclicks(rig.secteco)" title="기후변화 최종경고…&quot;근미래 지구 전지역서 기후재앙 늘어난다&quot;">기후변화 최종경고…"근미래 지구 전지역서 기후재앙 늘어난다"</a>]]></content>
+        <title type="html"><![CDATA[“지구 17년내 1.5도 상승” 국경 초월 기후재난 경고 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001595093?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001595093?sid=102"/>
+        <updated>2023-03-20T20:13:37.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001595093?sid=102" class="nclicks(rig.secteco)" title="“지구 17년내 1.5도 상승” 국경 초월 기후재난 경고">“지구 17년내 1.5도 상승” 국경 초월 기후재난 경고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘급발진 의심 사고’ 손자 잃은 할머니, 경찰 출석…子 “끔찍 기억 불러내야” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003749452?sid=103" class="nclicks(rig.secteco)" title="갈수록 봄기온 완연…내일 4월하순의 따뜻한 봄날씨">갈수록 봄기온 완연…내일 4월하순의 따뜻한 봄날씨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005446091?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005446091?sid=103"/>
-        <updated>2023-03-20T16:20:22.896Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446091?sid=103" class="nclicks(rig.secteco)" title="낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨]">낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨]</a>]]></content>
+        <title type="html"><![CDATA[제5회 김종철문학상에 시인 황인숙 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005445873?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005445873?sid=103"/>
+        <updated>2023-03-20T20:13:37.602Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005445873?sid=103" class="nclicks(rig.secteco)" title="제5회 김종철문학상에 시인 황인숙">제5회 김종철문학상에 시인 황인숙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
