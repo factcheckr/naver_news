@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-20T08:19:39.527Z</updated>
+    <updated>2023-03-20T09:16:23.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]대통령실, 후쿠시마 수산물 논의 묻자 "정상간 대화 공개할 수 없다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000958976?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000958976?sid=100"/>
+        <updated>2023-03-20T09:15:52.362Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000958976?sid=100" class="nclicks(rig.secteco)" title="[속보]대통령실, 후쿠시마 수산물 논의 묻자 &quot;정상간 대화 공개할 수 없다”">[속보]대통령실, 후쿠시마 수산물 논의 묻자 "정상간 대화 공개할 수 없다”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령실 "주60시간, 尹 가이드라인아냐…의견 수렴할 것"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006695128?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006695128?sid=100"/>
+        <updated>2023-03-20T09:15:52.368Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006695128?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;주60시간, 尹 가이드라인아냐…의견 수렴할 것&quot;(종합)">대통령실 "주60시간, 尹 가이드라인아냐…의견 수렴할 것"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유승민 “日마음 열었다? 피해자가 왜 가해자 마음 여나”]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003347376?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003347376?sid=100"/>
         <updated>2023-03-20T08:19:11.680Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003347376?sid=100" class="nclicks(rig.secteco)" title="유승민 “日마음 열었다? 피해자가 왜 가해자 마음 여나”">유승민 “日마음 열었다? 피해자가 왜 가해자 마음 여나”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]대통령실 "尹대통령 '주 60시간 이상 무리' 언급 가이드라인 아냐…독도·위안부 논의안돼"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000958960?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000958960?sid=100"/>
-        <updated>2023-03-20T08:19:11.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000958960?sid=100" class="nclicks(rig.secteco)" title="[속보]대통령실 &quot;尹대통령 '주 60시간 이상 무리' 언급 가이드라인 아냐…독도·위안부 논의안돼&quot;">[속보]대통령실 "尹대통령 '주 60시간 이상 무리' 언급 가이드라인 아냐…독도·위안부 논의안돼"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 "독도·위안부 논의안해…日왜곡보도 유감표시"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003749352?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003749352?sid=100"/>
-        <updated>2023-03-20T08:19:11.681Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003749352?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;독도·위안부 논의안해…日왜곡보도 유감표시&quot;">대통령실 "독도·위안부 논의안해…日왜곡보도 유감표시"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시진핑과 푸틴 '브로맨스'…중러 밀착에 10년 전 '케미' 싹텄다]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013825601?sid=104" class="nclicks(rig.secteco)" title="시진핑과 푸틴 '브로맨스'…중러 밀착에 10년 전 '케미' 싹텄다">시진핑과 푸틴 '브로맨스'…중러 밀착에 10년 전 '케미' 싹텄다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["승자는 UBS…패자는 CS 주주·채권보유자, 그리고 스위스 당국"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004864207?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004864207?sid=104"/>
-        <updated>2023-03-20T07:13:38.181Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004864207?sid=104" class="nclicks(rig.secteco)" title="&quot;승자는 UBS…패자는 CS 주주·채권보유자, 그리고 스위스 당국&quot;">"승자는 UBS…패자는 CS 주주·채권보유자, 그리고 스위스 당국"</a>]]></content>
+        <title type="html"><![CDATA[UBS의 CS 인수에도 아시아증시 약세…"더 큰 위기 우려"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013825859?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013825859?sid=104"/>
+        <updated>2023-03-20T09:15:52.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013825859?sid=104" class="nclicks(rig.secteco)" title="UBS의 CS 인수에도 아시아증시 약세…&quot;더 큰 위기 우려&quot;(종합)">UBS의 CS 인수에도 아시아증시 약세…"더 큰 위기 우려"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포스코케미칼, ‘퓨처엠’ 날개 달고 이차전지 소재 박차]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004984005?sid=101" class="nclicks(rig.secteco)" title="광주광역시-삼성전자, '인공지능(AI) 벤처 스타트업' 육성">광주광역시-삼성전자, '인공지능(AI) 벤처 스타트업' 육성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금감원 "SVB·CS사태, 저축은행·카드사·상호금융 영향 제한적"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005445954?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005445954?sid=101"/>
-        <updated>2023-03-20T08:19:11.685Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005445954?sid=101" class="nclicks(rig.secteco)" title="금감원 &quot;SVB·CS사태, 저축은행·카드사·상호금융 영향 제한적&quot;">금감원 "SVB·CS사태, 저축은행·카드사·상호금융 영향 제한적"</a>]]></content>
+        <title type="html"><![CDATA[애플페이 내일부터 쓴다…간편결제 전쟁 서막?]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013825847?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013825847?sid=101"/>
+        <updated>2023-03-20T09:15:52.380Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013825847?sid=101" class="nclicks(rig.secteco)" title="애플페이 내일부터 쓴다…간편결제 전쟁 서막?">애플페이 내일부터 쓴다…간편결제 전쟁 서막?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000041951?sid=105" class="nclicks(rig.secteco)" title="[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작">[단독] 카카오 ‘한국형 GPT’ 베일 벗었다…챗봇 ‘다다음’ 오픈베타 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[업스테이지, GTP-4 기술 결합한 비즈니스용 AskUp 출시]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002118866?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002118866?sid=105"/>
-        <updated>2023-03-20T08:19:11.687Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002118866?sid=105" class="nclicks(rig.secteco)" title="업스테이지, GTP-4 기술 결합한 비즈니스용 AskUp 출시">업스테이지, GTP-4 기술 결합한 비즈니스용 AskUp 출시</a>]]></content>
+        <title type="html"><![CDATA[[단독] 야당, 뜬금없는 대체입법 추진… '우주항공청 사천행' 발목 잡나]]></title>
+        <id>https://n.news.naver.com/mnews/article/082/0001203082?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/082/0001203082?sid=105"/>
+        <updated>2023-03-20T09:15:52.383Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001203082?sid=105" class="nclicks(rig.secteco)" title="[단독] 야당, 뜬금없는 대체입법 추진… '우주항공청 사천행' 발목 잡나">[단독] 야당, 뜬금없는 대체입법 추진… '우주항공청 사천행' 발목 잡나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이근, 무단 출국 재판뒤…앙숙 유튜버에 "살이나 빼" 욕설 폭행 [영상]]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003267008?sid=102" class="nclicks(rig.secteco)" title="이근, 무단 출국 재판뒤…앙숙 유튜버에 &quot;살이나 빼&quot; 욕설 폭행 [영상]">이근, 무단 출국 재판뒤…앙숙 유튜버에 "살이나 빼" 욕설 폭행 [영상]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢 주요 수사권 '부활' 여부, 23일 결론…기로에 선 검수완박]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011752720?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011752720?sid=102"/>
-        <updated>2023-03-20T08:19:11.690Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011752720?sid=102" class="nclicks(rig.secteco)" title="檢 주요 수사권 '부활' 여부, 23일 결론…기로에 선 검수완박">檢 주요 수사권 '부활' 여부, 23일 결론…기로에 선 검수완박</a>]]></content>
+        <title type="html"><![CDATA['검수완박' 운명 가를 쟁점 2가지…위장 탈당 '꼼수'·檢수사권 제한]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006694653?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006694653?sid=102"/>
+        <updated>2023-03-20T09:15:52.386Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006694653?sid=102" class="nclicks(rig.secteco)" title="'검수완박' 운명 가를 쟁점 2가지…위장 탈당 '꼼수'·檢수사권 제한">'검수완박' 운명 가를 쟁점 2가지…위장 탈당 '꼼수'·檢수사권 제한</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[심층] 대중교통 마스크 착용 의무 해제됐지만···"아직은 눈치 보여"]]></title>
-        <id>https://n.news.naver.com/mnews/article/657/0000013197?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/657/0000013197?sid=102"/>
-        <updated>2023-03-20T08:19:11.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/657/0000013197?sid=102" class="nclicks(rig.secteco)" title="[심층] 대중교통 마스크 착용 의무 해제됐지만···&quot;아직은 눈치 보여&quot;">[심층] 대중교통 마스크 착용 의무 해제됐지만···"아직은 눈치 보여"</a>]]></content>
+        <title type="html"><![CDATA[“눈치 보여서, 얼굴노출 싫어서”…해제 첫날 ‘마스크 그대로’]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005446052?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005446052?sid=102"/>
+        <updated>2023-03-20T09:15:52.387Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446052?sid=102" class="nclicks(rig.secteco)" title="“눈치 보여서, 얼굴노출 싫어서”…해제 첫날 ‘마스크 그대로’">“눈치 보여서, 얼굴노출 싫어서”…해제 첫날 ‘마스크 그대로’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강원랜드, 2년 만의 흑자 전환 성공…역대 최고 배당 추진]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005445904?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005445904?sid=103"/>
-        <updated>2023-03-20T07:13:38.199Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005445904?sid=103" class="nclicks(rig.secteco)" title="강원랜드, 2년 만의 흑자 전환 성공…역대 최고 배당 추진">강원랜드, 2년 만의 흑자 전환 성공…역대 최고 배당 추진</a>]]></content>
+        <title type="html"><![CDATA[낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005446091?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005446091?sid=103"/>
+        <updated>2023-03-20T09:15:52.389Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446091?sid=103" class="nclicks(rig.secteco)" title="낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨]">낮 최고 23도 ‘따뜻’…일교차 크고 미세먼지 ‘나쁨’[내일날씨]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤틀리·람보르기니 덕분에… 아우디 그룹, 2022년 최대실적 달성]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000905225?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000905225?sid=103"/>
-        <updated>2023-03-20T08:19:11.693Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000905225?sid=103" class="nclicks(rig.secteco)" title="벤틀리·람보르기니 덕분에… 아우디 그룹, 2022년 최대실적 달성">벤틀리·람보르기니 덕분에… 아우디 그룹, 2022년 최대실적 달성</a>]]></content>
+        <title type="html"><![CDATA[제21회 지훈문학상에 황인숙 시인]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005446088?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005446088?sid=103"/>
+        <updated>2023-03-20T09:15:52.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446088?sid=103" class="nclicks(rig.secteco)" title="제21회 지훈문학상에 황인숙 시인">제21회 지훈문학상에 황인숙 시인</a>]]></content>
     </entry>
 </feed>
