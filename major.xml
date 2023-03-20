@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-20T22:13:06.942Z</updated>
+    <updated>2023-03-20T23:14:10.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001595069?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001595069?sid=100"/>
+        <updated>2023-03-20T23:13:39.876Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001595069?sid=100" class="nclicks(rig.secteco)" title="기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성">기시다, 5월 G7에 윤 대통령 초청… 한·미·일 정상회담 가능성</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["주60시간 이상 무리"→"가이드라인 아냐"…개편안 연일 혼란]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011753154?sid=100</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003794334?sid=100" class="nclicks(rig.secteco)" title="800m 상공서 모의 탄두 폭발… 北 전술핵 어디까지 왔나">800m 상공서 모의 탄두 폭발… 北 전술핵 어디까지 왔나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령실 “독도·위안부 문제 논의된 적 없다… 日에 왜곡보도 항의”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003794352?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003794352?sid=100"/>
-        <updated>2023-03-20T22:12:37.609Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003794352?sid=100" class="nclicks(rig.secteco)" title="대통령실 “독도·위안부 문제 논의된 적 없다… 日에 왜곡보도 항의”">대통령실 “독도·위안부 문제 논의된 적 없다… 日에 왜곡보도 항의”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["공동 목표 있다" 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013826226?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013826226?sid=104"/>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013826226?sid=104" class="nclicks(rig.secteco)" title="&quot;공동 목표 있다&quot; 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합)">"공동 목표 있다" 시진핑, 러 국빈방문 첫날 푸틴과 공조 과시(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기시다 "5월 G7에 윤 대통령 초청"... 한국 등 8개국 정상초청]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002385879?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002385879?sid=104"/>
-        <updated>2023-03-20T22:12:37.610Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002385879?sid=104" class="nclicks(rig.secteco)" title="기시다 &quot;5월 G7에 윤 대통령 초청&quot;... 한국 등 8개국 정상초청">기시다 "5월 G7에 윤 대통령 초청"... 한국 등 8개국 정상초청</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005446167?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005446167?sid=101"/>
-        <updated>2023-03-20T19:12:03.215Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446167?sid=101" class="nclicks(rig.secteco)" title="베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개">베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개</a>]]></content>
+        <title type="html"><![CDATA[프랑스, 연금개혁 법안 통과 …전국 각지 “루이 16세” 외치며 항의시위 계속]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003212083?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003212083?sid=104"/>
+        <updated>2023-03-20T23:13:39.895Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003212083?sid=104" class="nclicks(rig.secteco)" title="프랑스, 연금개혁 법안 통과 …전국 각지 “루이 16세” 외치며 항의시위 계속">프랑스, 연금개혁 법안 통과 …전국 각지 “루이 16세” 외치며 항의시위 계속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["애플페이 한국 상륙작전" 현대카드가 베어 문 사과…약일까 독일까]]></title>
@@ -55,25 +48,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006695528?sid=101" class="nclicks(rig.secteco)" title="&quot;애플페이 한국 상륙작전&quot; 현대카드가 베어 문 사과…약일까 독일까">"애플페이 한국 상륙작전" 현대카드가 베어 문 사과…약일까 독일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일문일답] "긴급생계비 대출 신청 누가, 어떻게 받나요?"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006695519?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006695519?sid=101"/>
-        <updated>2023-03-20T22:12:37.614Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006695519?sid=101" class="nclicks(rig.secteco)" title="[일문일답] &quot;긴급생계비 대출 신청 누가, 어떻게 받나요?&quot;">[일문일답] "긴급생계비 대출 신청 누가, 어떻게 받나요?"</a>]]></content>
+        <title type="html"><![CDATA[[Q&A]긴급생계비 받을 수 있는 조건은...이자는 얼마?]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011753171?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011753171?sid=101"/>
+        <updated>2023-03-20T23:13:39.899Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011753171?sid=101" class="nclicks(rig.secteco)" title="[Q&amp;A]긴급생계비 받을 수 있는 조건은...이자는 얼마?">[Q&amp;A]긴급생계비 받을 수 있는 조건은...이자는 얼마?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013826202?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013826202?sid=105"/>
-        <updated>2023-03-20T22:12:37.615Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013826202?sid=105" class="nclicks(rig.secteco)" title="우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호">우리도 '뉴 스페이스' 시대 열었다…발사서비스 시장합류 청신호</a>]]></content>
+        <title type="html"><![CDATA[베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005446167?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005446167?sid=101"/>
+        <updated>2023-03-20T19:12:03.215Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446167?sid=101" class="nclicks(rig.secteco)" title="베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개">베일벗은 기아 콘셉트 EV5..중국서 세계 최초 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]카카오 AI 다다음, 서비스 개시 하루만에 '재정비']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006694898?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006694898?sid=105"/>
-        <updated>2023-03-20T22:12:37.616Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006694898?sid=105" class="nclicks(rig.secteco)" title="[단독]카카오 AI 다다음, 서비스 개시 하루만에 '재정비'">[단독]카카오 AI 다다음, 서비스 개시 하루만에 '재정비'</a>]]></content>
+        <title type="html"><![CDATA[한국 첫 민간 우주발사체 발사 성공…뉴스페이스 열렸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004169339?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004169339?sid=105"/>
+        <updated>2023-03-20T23:13:39.906Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004169339?sid=105" class="nclicks(rig.secteco)" title="한국 첫 민간 우주발사체 발사 성공…뉴스페이스 열렸다">한국 첫 민간 우주발사체 발사 성공…뉴스페이스 열렸다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오 'AI 챗봇' 오픈하자 1만3000명 구름떼…하루만에 중단]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005233589?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005233589?sid=105"/>
+        <updated>2023-03-20T23:13:39.908Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005233589?sid=105" class="nclicks(rig.secteco)" title="카카오 'AI 챗봇' 오픈하자 1만3000명 구름떼…하루만에 중단">카카오 'AI 챗봇' 오픈하자 1만3000명 구름떼…하루만에 중단</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지구 온도 2100년까지 2.8도 상승, "기회는 아직 있지만 부족"]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003267197?sid=102" class="nclicks(rig.secteco)" title="&quot;거리 나앉게 생겼다&quot; 절규…되레 '노마스크'가 무섭다는 그들">"거리 나앉게 생겼다" 절규…되레 '노마스크'가 무섭다는 그들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[급발진 의심 사고, 12살 손자 잃은 60대 할머니 측 “국과수 조사 부실”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003794348?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003794348?sid=102"/>
-        <updated>2023-03-20T22:12:37.622Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003794348?sid=102" class="nclicks(rig.secteco)" title="급발진 의심 사고, 12살 손자 잃은 60대 할머니 측 “국과수 조사 부실”">급발진 의심 사고, 12살 손자 잃은 60대 할머니 측 “국과수 조사 부실”</a>]]></content>
+        <title type="html"><![CDATA[‘급발진 의심 사고’ 손자 잃은 할머니, 경찰 출석…子 “끔찍 기억 불러내야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003347336?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003347336?sid=102"/>
+        <updated>2023-03-20T23:13:39.924Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003347336?sid=102" class="nclicks(rig.secteco)" title="‘급발진 의심 사고’ 손자 잃은 할머니, 경찰 출석…子 “끔찍 기억 불러내야”">‘급발진 의심 사고’ 손자 잃은 할머니, 경찰 출석…子 “끔찍 기억 불러내야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갈수록 봄기온 완연…내일 4월하순의 따뜻한 봄날씨]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003749452?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003749452?sid=103"/>
-        <updated>2023-03-20T17:13:18.664Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003749452?sid=103" class="nclicks(rig.secteco)" title="갈수록 봄기온 완연…내일 4월하순의 따뜻한 봄날씨">갈수록 봄기온 완연…내일 4월하순의 따뜻한 봄날씨</a>]]></content>
+        <title type="html"><![CDATA[수도권·중부 희뿌연 미세먼지 계속…남부·제주도는 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002118978?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002118978?sid=103"/>
+        <updated>2023-03-20T23:13:39.929Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002118978?sid=103" class="nclicks(rig.secteco)" title="수도권·중부 희뿌연 미세먼지 계속…남부·제주도는 비">수도권·중부 희뿌연 미세먼지 계속…남부·제주도는 비</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘몸에 좋다고…’ 무분별 약 복용, 간 손상 부른다]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001594816?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001594816?sid=103"/>
-        <updated>2023-03-20T22:12:37.626Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001594816?sid=103" class="nclicks(rig.secteco)" title="‘몸에 좋다고…’ 무분별 약 복용, 간 손상 부른다">‘몸에 좋다고…’ 무분별 약 복용, 간 손상 부른다</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 절기 춘분, 한낮 봄 기운 가득…서쪽 공기 탁해]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000589675?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000589675?sid=103"/>
+        <updated>2023-03-20T23:13:39.934Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000589675?sid=103" class="nclicks(rig.secteco)" title="[날씨] 절기 춘분, 한낮 봄 기운 가득…서쪽 공기 탁해">[날씨] 절기 춘분, 한낮 봄 기운 가득…서쪽 공기 탁해</a>]]></content>
     </entry>
 </feed>
