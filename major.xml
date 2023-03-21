@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-21T13:14:12.898Z</updated>
+    <updated>2023-03-21T14:11:30.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003753075?sid=100" class="nclicks(rig.secteco)" title="민주당 방송법 본회의 직회부에 ... “공영방송 영구 장악법” 방송계 비판 잇따라">민주당 방송법 본회의 직회부에 ... “공영방송 영구 장악법” 방송계 비판 잇따라</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[속보]尹 "최악 한일관계 방치 안돼...현재·과거 싸우면 미래 놓쳐"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003267237?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003267237?sid=100"/>
+        <updated>2023-03-21T14:11:03.641Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003267237?sid=100" class="nclicks(rig.secteco)" title="[속보]尹 &quot;최악 한일관계 방치 안돼...현재·과거 싸우면 미래 놓쳐&quot;">[속보]尹 "최악 한일관계 방치 안돼...현재·과거 싸우면 미래 놓쳐"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘69↓’ ‘60↓’ ‘60↑’ ‘60↓’ 혼선…근로시간 정책 조율 난맥]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003212249?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003212249?sid=100"/>
@@ -20,18 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003212249?sid=100" class="nclicks(rig.secteco)" title="‘69↓’ ‘60↓’ ‘60↑’ ‘60↓’ 혼선…근로시간 정책 조율 난맥">‘69↓’ ‘60↓’ ‘60↑’ ‘60↓’ 혼선…근로시간 정책 조율 난맥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[스프] 또 제동 걸린 '주 69시간'…민주당은 '주 4.5일'로 공세 고삐]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001044410?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001044410?sid=100"/>
-        <updated>2023-03-21T13:13:42.715Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001044410?sid=100" class="nclicks(rig.secteco)" title="[스프] 또 제동 걸린 '주 69시간'…민주당은 '주 4.5일'로 공세 고삐">[스프] 또 제동 걸린 '주 69시간'…민주당은 '주 4.5일'로 공세 고삐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘중재자 자청’ 시진핑, 국제사회 존재감 부각…서방은 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005446973?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005446973?sid=104"/>
-        <updated>2023-03-21T12:24:44.815Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005446973?sid=104" class="nclicks(rig.secteco)" title="‘중재자 자청’ 시진핑, 국제사회 존재감 부각…서방은 우려">‘중재자 자청’ 시진핑, 국제사회 존재감 부각…서방은 우려</a>]]></content>
+        <title type="html"><![CDATA[[속보] 시진핑·푸틴, 공식 정상회담 시작]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003347780?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003347780?sid=104"/>
+        <updated>2023-03-21T14:11:03.651Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003347780?sid=104" class="nclicks(rig.secteco)" title="[속보] 시진핑·푸틴, 공식 정상회담 시작">[속보] 시진핑·푸틴, 공식 정상회담 시작</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불타는 대통령 모형... 국민연금 노린 거대기업 있었다 [목수정의 바스티유 광장]]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001044437?sid=101" class="nclicks(rig.secteco)" title="윤 정부 첫 온실가스 감축 방안 공개…산업계에만 혜택?">윤 정부 첫 온실가스 감축 방안 공개…산업계에만 혜택?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘세계 1위 부자’ 마중나간 신동빈·정지선, ‘특급의전’ 한 이유 [언박싱]]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002119489?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002119489?sid=101"/>
-        <updated>2023-03-21T13:13:42.730Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002119489?sid=101" class="nclicks(rig.secteco)" title="‘세계 1위 부자’ 마중나간 신동빈·정지선, ‘특급의전’ 한 이유 [언박싱]">‘세계 1위 부자’ 마중나간 신동빈·정지선, ‘특급의전’ 한 이유 [언박싱]</a>]]></content>
+        <title type="html"><![CDATA[[단독] '디올' 휘감은 아르노 장녀…프로포즈백 들고 활보]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006697755?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006697755?sid=101"/>
+        <updated>2023-03-21T14:11:03.654Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006697755?sid=101" class="nclicks(rig.secteco)" title="[단독] '디올' 휘감은 아르노 장녀…프로포즈백 들고 활보">[단독] '디올' 휘감은 아르노 장녀…프로포즈백 들고 활보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['적도 사투' 넉달, 하늘이 도왔다…한국 첫 민간 발사체 성공]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003267329?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003267329?sid=105"/>
-        <updated>2023-03-21T13:13:42.733Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003267329?sid=105" class="nclicks(rig.secteco)" title="'적도 사투' 넉달, 하늘이 도왔다…한국 첫 민간 발사체 성공">'적도 사투' 넉달, 하늘이 도왔다…한국 첫 민간 발사체 성공</a>]]></content>
+        <title type="html"><![CDATA[‘한빛 - TLV’ 우주와 터치… 韓, ‘뉴 스페이스’ 시대로 발 디뎠다]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003794683?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003794683?sid=105"/>
+        <updated>2023-03-21T14:11:03.654Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003794683?sid=105" class="nclicks(rig.secteco)" title="‘한빛 - TLV’ 우주와 터치… 韓, ‘뉴 스페이스’ 시대로 발 디뎠다">‘한빛 - TLV’ 우주와 터치… 韓, ‘뉴 스페이스’ 시대로 발 디뎠다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 백악관 우주위 고위급 방한… 한미 ‘우주동맹’ 본궤도]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001261111?sid=102" class="nclicks(rig.secteco)" title="&quot;쌍방울에 방북비용 대납요구&quot; 이화영 기소‥이재명만 남았다">"쌍방울에 방북비용 대납요구" 이화영 기소‥이재명만 남았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002119074?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002119074?sid=102"/>
-        <updated>2023-03-21T13:13:42.741Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002119074?sid=102" class="nclicks(rig.secteco)" title="[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호">[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['구급차 뺑뺑이' 없애 응급사망 10% 줄인다]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003749970?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003749970?sid=102"/>
         <updated>2023-03-21T10:14:45.092Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003749970?sid=102" class="nclicks(rig.secteco)" title="'구급차 뺑뺑이' 없애 응급사망 10% 줄인다">'구급차 뺑뺑이' 없애 응급사망 10% 줄인다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002119074?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002119074?sid=102"/>
+        <updated>2023-03-21T13:13:42.741Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002119074?sid=102" class="nclicks(rig.secteco)" title="[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호">[단독] 김기현 1호 공약 ‘TK신공항’, 부처 간 재정 지원 방식 합의…3월 처리 청신호</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 내일(22일) 전국 흐리고 곳곳 봄비…낮 20도 '봄 날씨']]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000735679?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일(22일) 전국 흐리고 곳곳 봄비…낮 20도 '봄 날씨'">[날씨] 내일(22일) 전국 흐리고 곳곳 봄비…낮 20도 '봄 날씨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[화보] '尹 방일 직후' 일본 여고생들 3년만의 한국 수학여행]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000804609?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000804609?sid=103"/>
-        <updated>2023-03-21T10:14:45.096Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000804609?sid=103" class="nclicks(rig.secteco)" title="[화보] '尹 방일 직후' 일본 여고생들 3년만의 한국 수학여행">[화보] '尹 방일 직후' 일본 여고생들 3년만의 한국 수학여행</a>]]></content>
+        <title type="html"><![CDATA[일본 고교생들 "4년만에 한국 수학여행 왔어요"]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002119512?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002119512?sid=103"/>
+        <updated>2023-03-21T14:11:03.663Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002119512?sid=103" class="nclicks(rig.secteco)" title="일본 고교생들 &quot;4년만에 한국 수학여행 왔어요&quot;">일본 고교생들 "4년만에 한국 수학여행 왔어요"</a>]]></content>
     </entry>
 </feed>
