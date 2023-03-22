@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-22T22:11:34.271Z</updated>
+    <updated>2023-03-22T23:12:03.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[野, 기소된 이재명 당직 유지키로…사법리스크 다시 고개]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003750492?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003750492?sid=100"/>
-        <updated>2023-03-22T22:11:06.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003750492?sid=100" class="nclicks(rig.secteco)" title="野, 기소된 이재명 당직 유지키로…사법리스크 다시 고개">野, 기소된 이재명 당직 유지키로…사법리스크 다시 고개</a>]]></content>
+        <title type="html"><![CDATA[이재명 대표직 유지도 '답정'이었다.. '기소시 당직정지' 조항 무력화]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004985571?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004985571?sid=100"/>
+        <updated>2023-03-22T23:11:28.987Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004985571?sid=100" class="nclicks(rig.secteco)" title="이재명 대표직 유지도 '답정'이었다.. '기소시 당직정지' 조항 무력화">이재명 대표직 유지도 '답정'이었다.. '기소시 당직정지' 조항 무력화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 北, 해안 절벽 인근서 ‘북한판 토마호크’ 추정 미사일 발사]]></title>
@@ -20,25 +20,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003753276?sid=100" class="nclicks(rig.secteco)" title="[단독] 北, 해안 절벽 인근서 ‘북한판 토마호크’ 추정 미사일 발사">[단독] 北, 해안 절벽 인근서 ‘북한판 토마호크’ 추정 미사일 발사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지역구 축소방안 등 구체 논의 없이 '의원 정원 300명'만 못박은 정개특위]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002280008?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002280008?sid=100"/>
-        <updated>2023-03-22T22:11:06.535Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002280008?sid=100" class="nclicks(rig.secteco)" title="지역구 축소방안 등 구체 논의 없이 '의원 정원 300명'만 못박은 정개특위">지역구 축소방안 등 구체 논의 없이 '의원 정원 300명'만 못박은 정개특위</a>]]></content>
+        <title type="html"><![CDATA[선거제 논의 위한 '전원위 구성' 오늘 의결…20년만에 열린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003750497?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003750497?sid=100"/>
+        <updated>2023-03-22T23:11:28.996Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003750497?sid=100" class="nclicks(rig.secteco)" title="선거제 논의 위한 '전원위 구성' 오늘 의결…20년만에 열린다">선거제 논의 위한 '전원위 구성' 오늘 의결…20년만에 열린다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크롱 “인기 잃어도 연말 연금개혁 시행···내가 즐기는 것처럼 보이나”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003212592?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003212592?sid=104"/>
+        <updated>2023-03-22T23:11:28.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003212592?sid=104" class="nclicks(rig.secteco)" title="마크롱 “인기 잃어도 연말 연금개혁 시행···내가 즐기는 것처럼 보이나”">마크롱 “인기 잃어도 연말 연금개혁 시행···내가 즐기는 것처럼 보이나”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황사 불어닥친 베이징 "미세먼지 농도 30배 초과"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000590027?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000590027?sid=104"/>
+        <updated>2023-03-22T23:11:28.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000590027?sid=104" class="nclicks(rig.secteco)" title="황사 불어닥친 베이징 &quot;미세먼지 농도 30배 초과&quot;">황사 불어닥친 베이징 "미세먼지 농도 30배 초과"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美, 금리 0.25%P 또 올려 5% 진입…한미 금리차 역대 최대 1.5%P(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013831624?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013831624?sid=104"/>
-        <updated>2023-03-22T22:11:06.536Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013831624?sid=104" class="nclicks(rig.secteco)" title="美, 금리 0.25%P 또 올려 5% 진입…한미 금리차 역대 최대 1.5%P(종합2보)">美, 금리 0.25%P 또 올려 5% 진입…한미 금리차 역대 최대 1.5%P(종합2보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["인기 잃어도 국익 선택"...마크롱 연금개혁 정면돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001864137?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001864137?sid=104"/>
-        <updated>2023-03-22T21:11:58.685Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001864137?sid=104" class="nclicks(rig.secteco)" title="&quot;인기 잃어도 국익 선택&quot;...마크롱 연금개혁 정면돌파">"인기 잃어도 국익 선택"...마크롱 연금개혁 정면돌파</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/001/0013831624?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013831624?sid=101"/>
+        <updated>2023-03-22T23:11:28.997Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013831624?sid=101" class="nclicks(rig.secteco)" title="美, 금리 0.25%P 또 올려 5% 진입…한미 금리차 역대 최대 1.5%P(종합2보)">美, 금리 0.25%P 또 올려 5% 진입…한미 금리차 역대 최대 1.5%P(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공동주택 공시가 역대 최대 하락…재산세·건보료 부담 완화]]></title>
@@ -46,13 +53,6 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003795238?sid=101"/>
         <updated>2023-03-22T22:11:06.551Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003795238?sid=101" class="nclicks(rig.secteco)" title="공동주택 공시가 역대 최대 하락…재산세·건보료 부담 완화">공동주택 공시가 역대 최대 하락…재산세·건보료 부담 완화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게 힘든 사람이 많았나" 100만원 긴급대출 사전예약 첫날 신청 폭주]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000906043?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000906043?sid=101"/>
-        <updated>2023-03-22T20:14:40.160Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000906043?sid=101" class="nclicks(rig.secteco)" title="&quot;이렇게 힘든 사람이 많았나&quot; 100만원 긴급대출 사전예약 첫날 신청 폭주">"이렇게 힘든 사람이 많았나" 100만원 긴급대출 사전예약 첫날 신청 폭주</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반도체 제한적 증설 허용됐지만… 中 현지생산 ‘고차 방정식’ 숙제]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000887042?sid=105" class="nclicks(rig.secteco)" title="“삼성전자 주총 가서 배워라”… 네이버 주주 송곳 지적에 진땀 뺀 최수연 대표">“삼성전자 주총 가서 배워라”… 네이버 주주 송곳 지적에 진땀 뺀 최수연 대표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003795242?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003795242?sid=102"/>
-        <updated>2023-03-22T22:11:06.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003795242?sid=102" class="nclicks(rig.secteco)" title="檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”">檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘TV조선 심사 의혹’ 한상혁 위원장 14시간 조사…“위법 지시 안 했다”]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011450887?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011450887?sid=102"/>
@@ -90,18 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011450887?sid=102" class="nclicks(rig.secteco)" title="‘TV조선 심사 의혹’ 한상혁 위원장 14시간 조사…“위법 지시 안 했다”">‘TV조선 심사 의혹’ 한상혁 위원장 14시간 조사…“위법 지시 안 했다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 백신, 독감처럼 1년에 한 번씩 맞는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003795235?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003795235?sid=102"/>
-        <updated>2023-03-22T22:11:06.557Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003795235?sid=102" class="nclicks(rig.secteco)" title="코로나 백신, 독감처럼 1년에 한 번씩 맞는다">코로나 백신, 독감처럼 1년에 한 번씩 맞는다</a>]]></content>
+        <title type="html"><![CDATA[檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003795242?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003795242?sid=102"/>
+        <updated>2023-03-22T22:11:06.555Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003795242?sid=102" class="nclicks(rig.secteco)" title="檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”">檢, ‘대장동·성남FC 의혹’ 이재명 기소… 李 “법정서 진실 가려질 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수도권 등 황사로 미세먼지 '나쁨'…전국 봄비, 서울 낮에 22도]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000336584?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000336584?sid=103"/>
-        <updated>2023-03-22T22:11:06.559Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000336584?sid=103" class="nclicks(rig.secteco)" title="수도권 등 황사로 미세먼지 '나쁨'…전국 봄비, 서울 낮에 22도">수도권 등 황사로 미세먼지 '나쁨'…전국 봄비, 서울 낮에 22도</a>]]></content>
+        <title type="html"><![CDATA[전장연 '지하철 탑승시위' 두달 만에 재개…서울시 "관용은 없다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006700486?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006700486?sid=102"/>
+        <updated>2023-03-22T23:11:29.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006700486?sid=102" class="nclicks(rig.secteco)" title="전장연 '지하철 탑승시위' 두달 만에 재개…서울시 &quot;관용은 없다&quot;">전장연 '지하철 탑승시위' 두달 만에 재개…서울시 "관용은 없다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오후부터 일부지역 중국발 황사 영향권…수도권 1㎜내외 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006700583?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006700583?sid=103"/>
+        <updated>2023-03-22T23:11:29.020Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006700583?sid=103" class="nclicks(rig.secteco)" title="오후부터 일부지역 중국발 황사 영향권…수도권 1㎜내외 비">오후부터 일부지역 중국발 황사 영향권…수도권 1㎜내외 비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["한국 위상 높였다"…역대 최고가 '60억' 조선백자 나왔다]]></title>
