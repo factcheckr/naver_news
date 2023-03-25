@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-25T15:12:59.529Z</updated>
+    <updated>2023-03-25T16:16:42.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이원욱 악마 사진' 진화 나선 이재명 "설마 우리 지지자일까…금도 넘는 행동"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000805326?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000805326?sid=100"/>
+        <updated>2023-03-25T16:16:12.960Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000805326?sid=100" class="nclicks(rig.secteco)" title="'이원욱 악마 사진' 진화 나선 이재명 &quot;설마 우리 지지자일까…금도 넘는 행동&quot;">'이원욱 악마 사진' 진화 나선 이재명 "설마 우리 지지자일까…금도 넘는 행동"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검수완박법' 유지 공방…야 "한동훈, 자격상실" 여 "야, 탈우주급 뻔뻔"]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011763260?sid=100</id>
@@ -13,18 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011763260?sid=100" class="nclicks(rig.secteco)" title="'검수완박법' 유지 공방…야 &quot;한동훈, 자격상실&quot; 여 &quot;야, 탈우주급 뻔뻔&quot;">'검수완박법' 유지 공방…야 "한동훈, 자격상실" 여 "야, 탈우주급 뻔뻔"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, 개딸 향해 "자당 의원 명예훼손 행위, 단호히 조치"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003751537?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003751537?sid=100"/>
-        <updated>2023-03-25T12:23:06.059Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003751537?sid=100" class="nclicks(rig.secteco)" title="이재명, 개딸 향해 &quot;자당 의원 명예훼손 행위, 단호히 조치&quot;">이재명, 개딸 향해 "자당 의원 명예훼손 행위, 단호히 조치"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 전 대통령, 4·3 추념일에 제주 찾을 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001865232?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001865232?sid=100"/>
-        <updated>2023-03-25T15:12:32.391Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001865232?sid=100" class="nclicks(rig.secteco)" title="문재인 전 대통령, 4·3 추념일에 제주 찾을 듯">문재인 전 대통령, 4·3 추념일에 제주 찾을 듯</a>]]></content>
+        <title type="html"><![CDATA[[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005235986?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100"/>
+        <updated>2023-03-25T16:16:12.971Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100" class="nclicks(rig.secteco)" title="[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획">[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['반도체 신화' 고든 무어 인텔 창립자 별세…향년 94세 [종합]]]></title>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449573?sid=104" class="nclicks(rig.secteco)" title="“中·애플, 함께 성장” 팀쿡vs 말아낀 이재용…대조적 행보">“中·애플, 함께 성장” 팀쿡vs 말아낀 이재용…대조적 행보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년 만에 中 찾은 이재용, 핵심거점 톈진시 서기 만나 논의]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003753944?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003753944?sid=101"/>
-        <updated>2023-03-25T15:12:32.404Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003753944?sid=101" class="nclicks(rig.secteco)" title="3년 만에 中 찾은 이재용, 핵심거점 톈진시 서기 만나 논의">3년 만에 中 찾은 이재용, 핵심거점 톈진시 서기 만나 논의</a>]]></content>
+        <title type="html"><![CDATA[[단독] 톈진 향한 이재용…美압박 속 글로벌 총수들 中 모였다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003268289?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003268289?sid=101"/>
+        <updated>2023-03-25T16:16:12.981Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003268289?sid=101" class="nclicks(rig.secteco)" title="[단독] 톈진 향한 이재용…美압박 속 글로벌 총수들 中 모였다">[단독] 톈진 향한 이재용…美압박 속 글로벌 총수들 中 모였다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍']]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000022346?sid=101" class="nclicks(rig.secteco)" title="&quot;더 안 떨어지나&quot; 휘발유 꺾였지만, 경유는 더 하락.. 100원 차  '훌쩍'">"더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['도이체방크 위기' 갑론을박…알 수 없는 공포 더 무섭다(재종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005449455?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005449455?sid=101"/>
-        <updated>2023-03-25T13:15:22.495Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449455?sid=101" class="nclicks(rig.secteco)" title="'도이체방크 위기' 갑론을박…알 수 없는 공포 더 무섭다(재종합)">'도이체방크 위기' 갑론을박…알 수 없는 공포 더 무섭다(재종합)</a>]]></content>
+        <title type="html"><![CDATA[하이브, 남은 SM 주식 처분 어떻게…주가하락 땐 평가손 가능성]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013836939?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013836939?sid=101"/>
+        <updated>2023-03-25T16:16:12.984Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013836939?sid=101" class="nclicks(rig.secteco)" title="하이브, 남은 SM 주식 처분 어떻게…주가하락 땐 평가손 가능성">하이브, 남은 SM 주식 처분 어떻게…주가하락 땐 평가손 가능성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['괴물의 진화' GPT-4, 빨라진 '천지개벽 시계' [탐사보도 뉴스프리즘]]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013836374?sid=103" class="nclicks(rig.secteco)" title="황사 내일까지 남아있어…전국 미세먼지 '나쁨'">황사 내일까지 남아있어…전국 미세먼지 '나쁨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 내일 미세먼지 농도 다소 낮아져…새벽까지 비 조금]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011452625?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011452625?sid=103"/>
-        <updated>2023-03-25T13:15:22.507Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011452625?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일 미세먼지 농도 다소 낮아져…새벽까지 비 조금">[뉴스9 날씨] 내일 미세먼지 농도 다소 낮아져…새벽까지 비 조금</a>]]></content>
+        <title type="html"><![CDATA[주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003751415?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003751415?sid=103"/>
+        <updated>2023-03-25T16:16:12.998Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003751415?sid=103" class="nclicks(rig.secteco)" title="주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락">주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락</a>]]></content>
     </entry>
 </feed>
