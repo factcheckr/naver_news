@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-25T21:12:12.863Z</updated>
+    <updated>2023-03-25T22:13:26.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[이재명 “총선 승리 장애는 분열·갈등…저는 힘 모아 총선 승리 책임 있어” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003796119?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003796119?sid=100"/>
-        <updated>2023-03-25T20:13:21.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003796119?sid=100" class="nclicks(rig.secteco)" title="이재명 “총선 승리 장애는 분열·갈등…저는 힘 모아 총선 승리 책임 있어”">이재명 “총선 승리 장애는 분열·갈등…저는 힘 모아 총선 승리 책임 있어”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005235986?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100"/>
-        <updated>2023-03-25T21:11:40.548Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100" class="nclicks(rig.secteco)" title="[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획">[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획</a>]]></content>
+        <title type="html"><![CDATA['이원욱 악마 사진' 진화 나선 이재명 "설마 우리 지지자일까…금도 넘는 행동" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000805326?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000805326?sid=100"/>
+        <updated>2023-03-25T22:12:59.167Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000805326?sid=100" class="nclicks(rig.secteco)" title="'이원욱 악마 사진' 진화 나선 이재명 &quot;설마 우리 지지자일까…금도 넘는 행동&quot;">'이원욱 악마 사진' 진화 나선 이재명 "설마 우리 지지자일까…금도 넘는 행동"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 한일 정상회담에 대해 “퍼주기는 잔뜩 했지만 받아온 건 없다” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,39 +19,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003796120?sid=100" class="nclicks(rig.secteco)" title="이재명, 한일 정상회담에 대해 “퍼주기는 잔뜩 했지만 받아온 건 없다”">이재명, 한일 정상회담에 대해 “퍼주기는 잔뜩 했지만 받아온 건 없다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회색 추리닝 입고 잡힌 권도형… 韓 송환될까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000906938?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000906938?sid=104"/>
-        <updated>2023-03-25T21:11:40.555Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000906938?sid=104" class="nclicks(rig.secteco)" title="회색 추리닝 입고 잡힌 권도형… 韓 송환될까">회색 추리닝 입고 잡힌 권도형… 韓 송환될까</a>]]></content>
+        <title type="html"><![CDATA[[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005235986?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100"/>
+        <updated>2023-03-25T21:11:40.548Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005235986?sid=100" class="nclicks(rig.secteco)" title="[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획">[단독] 문재인 전 대통령 '제주4·3 추념일' 오후 별도 참배 계획</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용 회장, 3년만에 중국 방문 外[금주의 산업계 이슈] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011762939?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011762939?sid=104"/>
-        <updated>2023-03-25T21:11:40.566Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011762939?sid=104" class="nclicks(rig.secteco)" title="이재용 회장, 3년만에 중국 방문 外[금주의 산업계 이슈]">이재용 회장, 3년만에 중국 방문 外[금주의 산업계 이슈]</a>]]></content>
+        <title type="html"><![CDATA[권도형 변호사 위조 여권 사용 혐의 부인 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006706241?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006706241?sid=104"/>
+        <updated>2023-03-25T22:12:59.170Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006706241?sid=104" class="nclicks(rig.secteco)" title="권도형 변호사 위조 여권 사용 혐의 부인">권도형 변호사 위조 여권 사용 혐의 부인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/661/0000022346?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/661/0000022346?sid=101"/>
-        <updated>2023-03-25T12:23:06.072Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000022346?sid=101" class="nclicks(rig.secteco)" title="&quot;더 안 떨어지나&quot; 휘발유 꺾였지만, 경유는 더 하락.. 100원 차  '훌쩍'">"더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍'</a>]]></content>
+        <title type="html"><![CDATA[이재용, 삼성 공장 있는 텐진 방문…천민얼 서기와 면담 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005236023?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005236023?sid=104"/>
+        <updated>2023-03-25T22:12:59.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005236023?sid=104" class="nclicks(rig.secteco)" title="이재용, 삼성 공장 있는 텐진 방문…천민얼 서기와 면담">이재용, 삼성 공장 있는 텐진 방문…천민얼 서기와 면담</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[깜빡깜빡하고 멍하니 한 곳 응시…치매 아닌 ‘뇌전증’일수도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001596297?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001596297?sid=101"/>
-        <updated>2023-03-25T20:13:21.940Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001596297?sid=101" class="nclicks(rig.secteco)" title="깜빡깜빡하고 멍하니 한 곳 응시…치매 아닌 ‘뇌전증’일수도">깜빡깜빡하고 멍하니 한 곳 응시…치매 아닌 ‘뇌전증’일수도</a>]]></content>
+        <title type="html"><![CDATA[애플페이 확산, 결제 단말기 보급 속도가 '변수' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013837499?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013837499?sid=101"/>
+        <updated>2023-03-25T22:12:59.172Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013837499?sid=101" class="nclicks(rig.secteco)" title="애플페이 확산, 결제 단말기 보급 속도가 '변수'">애플페이 확산, 결제 단말기 보급 속도가 '변수'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["에계, 정부 급전 대출 50만원?"…이 돈 없어 나체사진 협박도 당했다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004866445?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004866445?sid=101"/>
-        <updated>2023-03-25T21:11:40.574Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004866445?sid=101" class="nclicks(rig.secteco)" title="&quot;에계, 정부 급전 대출 50만원?&quot;…이 돈 없어 나체사진 협박도 당했다">"에계, 정부 급전 대출 50만원?"…이 돈 없어 나체사진 협박도 당했다</a>]]></content>
+        <title type="html"><![CDATA[롯데百, 봄맞이 프로모션 '그린 브리즈' 개최 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005236019?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005236019?sid=101"/>
+        <updated>2023-03-25T22:12:59.173Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005236019?sid=101" class="nclicks(rig.secteco)" title="롯데百, 봄맞이 프로모션 '그린 브리즈' 개최">롯데百, 봄맞이 프로모션 '그린 브리즈' 개최</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200조 시장 잡아라…삼성·현대차·LG 갈고닦는 로봇 기술 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002696017?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002696017?sid=101"/>
+        <updated>2023-03-25T22:12:59.175Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002696017?sid=101" class="nclicks(rig.secteco)" title="200조 시장 잡아라…삼성·현대차·LG 갈고닦는 로봇 기술">200조 시장 잡아라…삼성·현대차·LG 갈고닦는 로봇 기술</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS, 블리자드 인수 '청신호'…英 당국, '경쟁 제한' 입장 바꿔 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,11 +68,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013836891?sid=105" class="nclicks(rig.secteco)" title="MS, 블리자드 인수 '청신호'…英 당국, '경쟁 제한' 입장 바꿔">MS, 블리자드 인수 '청신호'…英 당국, '경쟁 제한' 입장 바꿔</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스팀, '넥슨 프로젝트 유출 의혹' 다크 앤 다커 페이지 폐쇄 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013837036?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013837036?sid=105"/>
-        <updated>2023-03-25T21:11:40.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013837036?sid=105" class="nclicks(rig.secteco)" title="스팀, '넥슨 프로젝트 유출 의혹' 다크 앤 다커 페이지 폐쇄">스팀, '넥슨 프로젝트 유출 의혹' 다크 앤 다커 페이지 폐쇄</a>]]></content>
+        <title type="html"><![CDATA[더 악랄해진 北해커 '킴수키'…피싱메일로 표적 공격 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011762896?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011762896?sid=105"/>
+        <updated>2023-03-25T22:12:59.177Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011762896?sid=105" class="nclicks(rig.secteco)" title="더 악랄해진 北해커 '킴수키'…피싱메일로 표적 공격">더 악랄해진 北해커 '킴수키'…피싱메일로 표적 공격</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마약 투약·밀수 전력에도…구속 면한 남경필 전 지사 장남 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006706073?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 광화문광장에 모인 태권도인 1만2000여명…'기네스 기록 도전'">[뉴스1 PICK] 광화문광장에 모인 태권도인 1만2000여명…'기네스 기록 도전'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003751415?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003751415?sid=103"/>
-        <updated>2023-03-25T16:16:12.998Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003751415?sid=103" class="nclicks(rig.secteco)" title="주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락">주말인 내일도 황사, 미세먼지 '매우 나쁨'…남부지방 비 오락가락</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 황사 영향 대기 질 '나쁨', 오후부터 곳곳 비 조금 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001865093?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001865093?sid=103"/>
+        <updated>2023-03-25T22:12:59.183Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001865093?sid=103" class="nclicks(rig.secteco)" title="[날씨] 황사 영향 대기 질 '나쁨', 오후부터 곳곳 비 조금">[날씨] 황사 영향 대기 질 '나쁨', 오후부터 곳곳 비 조금</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[호텔업계에 불붙은 '친환경' 마케팅 경쟁… 이유는? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005449422?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005449422?sid=103"/>
-        <updated>2023-03-25T20:13:21.951Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449422?sid=103" class="nclicks(rig.secteco)" title="호텔업계에 불붙은 '친환경' 마케팅 경쟁… 이유는?">호텔업계에 불붙은 '친환경' 마케팅 경쟁… 이유는?</a>]]></content>
+        <title type="html"><![CDATA[[콕!건강]OECD 결핵 유병률 1위 한국… 원인은 '잠복결핵' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005235966?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005235966?sid=103"/>
+        <updated>2023-03-25T22:12:59.184Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005235966?sid=103" class="nclicks(rig.secteco)" title="[콕!건강]OECD 결핵 유병률 1위 한국… 원인은 '잠복결핵'">[콕!건강]OECD 결핵 유병률 1위 한국… 원인은 '잠복결핵'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
