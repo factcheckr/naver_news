@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-25T06:17:20.026Z</updated>
+    <updated>2023-03-25T07:12:30.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 "'한동훈 탄핵·민형배 복당' 외치는 野, 탈우주급 뻔뻔함"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013837264?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013837264?sid=100"/>
+        <updated>2023-03-25T07:11:59.801Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013837264?sid=100" class="nclicks(rig.secteco)" title="與 &quot;'한동훈 탄핵·민형배 복당' 외치는 野, 탈우주급 뻔뻔함&quot;(종합)">與 "'한동훈 탄핵·민형배 복당' 외치는 野, 탈우주급 뻔뻔함"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전부 19, 20살"…서해용사 앞에 터진 '대통령의 눈물']]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004866241?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004866241?sid=100" class="nclicks(rig.secteco)" title="&quot;전부 19, 20살&quot;…서해용사 앞에 터진 '대통령의 눈물'">"전부 19, 20살"…서해용사 앞에 터진 '대통령의 눈물'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여, 야 '한동훈 탄핵' 주장에 "탈우주급 뻔뻔함…부끄럽지 않나"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011763133?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011763133?sid=100"/>
-        <updated>2023-03-25T06:16:44.820Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011763133?sid=100" class="nclicks(rig.secteco)" title="여, 야 '한동훈 탄핵' 주장에 &quot;탈우주급 뻔뻔함…부끄럽지 않나&quot;(종합)">여, 야 '한동훈 탄핵' 주장에 "탈우주급 뻔뻔함…부끄럽지 않나"(종합)</a>]]></content>
+        <title type="html"><![CDATA[北, 수중·공중·지상서 핵 실전력 과시…"킬체인 무력화 노려"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013835111?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013835111?sid=100"/>
+        <updated>2023-03-25T07:11:59.815Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013835111?sid=100" class="nclicks(rig.secteco)" title="北, 수중·공중·지상서 핵 실전력 과시…&quot;킬체인 무력화 노려&quot;(종합)">北, 수중·공중·지상서 핵 실전력 과시…"킬체인 무력화 노려"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한 수중 핵폭발 시험 한국군 대비하고 있나? "글쎄"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000207879?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000207879?sid=100"/>
-        <updated>2023-03-25T04:15:50.400Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000207879?sid=100" class="nclicks(rig.secteco)" title="북한 수중 핵폭발 시험 한국군 대비하고 있나? &quot;글쎄&quot;">북한 수중 핵폭발 시험 한국군 대비하고 있나? "글쎄"</a>]]></content>
+        <title type="html"><![CDATA[美 퇴출위기 맞은 틱톡… "바이든 최측근 고용했다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000906904?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000906904?sid=104"/>
+        <updated>2023-03-25T07:11:59.816Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000906904?sid=104" class="nclicks(rig.secteco)" title="美 퇴출위기 맞은 틱톡… &quot;바이든 최측근 고용했다&quot;">美 퇴출위기 맞은 틱톡… "바이든 최측근 고용했다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 퇴출위기 맞은 中틱톡…"바이든 측근 로비스트 고용해 총력전"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004866485?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004866485?sid=104"/>
-        <updated>2023-03-25T06:16:44.825Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004866485?sid=104" class="nclicks(rig.secteco)" title="美 퇴출위기 맞은 中틱톡…&quot;바이든 측근 로비스트 고용해 총력전&quot;">美 퇴출위기 맞은 中틱톡…"바이든 측근 로비스트 고용해 총력전"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인텔 공동 창립자 고든 무어 별세···향년 94세]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003213085?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003213085?sid=104"/>
-        <updated>2023-03-25T06:16:44.828Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003213085?sid=104" class="nclicks(rig.secteco)" title="인텔 공동 창립자 고든 무어 별세···향년 94세">인텔 공동 창립자 고든 무어 별세···향년 94세</a>]]></content>
+        <title type="html"><![CDATA['무어의 법칙' 남긴 반도체 전설…고든 무어 인텔 창립자 별세]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004866487?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004866487?sid=104"/>
+        <updated>2023-03-25T07:11:59.825Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004866487?sid=104" class="nclicks(rig.secteco)" title="'무어의 법칙' 남긴 반도체 전설…고든 무어 인텔 창립자 별세">'무어의 법칙' 남긴 반도체 전설…고든 무어 인텔 창립자 별세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['도이체방크 위기' 갑론을박…알 수 없는 공포 더 무섭다(재종합)]]></title>
@@ -55,39 +55,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000207656?sid=101" class="nclicks(rig.secteco)" title="[엔터Biz] &quot;사상 처음 있는 일&quot;…SM 공개매수 임박 영업점 풍경은">[엔터Biz] "사상 처음 있는 일"…SM 공개매수 임박 영업점 풍경은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍']]></title>
-        <id>https://n.news.naver.com/mnews/article/661/0000022346?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/661/0000022346?sid=101"/>
-        <updated>2023-03-25T05:12:02.005Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000022346?sid=101" class="nclicks(rig.secteco)" title="&quot;더 안 떨어지나&quot; 휘발유 꺾였지만, 경유는 더 하락.. 100원 차  '훌쩍'">"더 안 떨어지나" 휘발유 꺾였지만, 경유는 더 하락.. 100원 차 '훌쩍'</a>]]></content>
+        <title type="html"><![CDATA[휘발유·경유 가격 동반 하락…“다음주엔 더 떨어질 듯”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002632961?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002632961?sid=101"/>
+        <updated>2023-03-25T07:11:59.830Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002632961?sid=101" class="nclicks(rig.secteco)" title="휘발유·경유 가격 동반 하락…“다음주엔 더 떨어질 듯”">휘발유·경유 가격 동반 하락…“다음주엔 더 떨어질 듯”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이언메이스 “넥슨, 최근 팬들에 침해행위 중지 요구 서한 보내”]]></title>
-        <id>https://n.news.naver.com/mnews/article/138/0002145000?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/138/0002145000?sid=105"/>
-        <updated>2023-03-25T06:16:44.833Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002145000?sid=105" class="nclicks(rig.secteco)" title="아이언메이스 “넥슨, 최근 팬들에 침해행위 중지 요구 서한 보내”">아이언메이스 “넥슨, 최근 팬들에 침해행위 중지 요구 서한 보내”</a>]]></content>
+        <title type="html"><![CDATA[MS의 블리자드 인수 ‘파란불’…英 경쟁당국 ‘입장 선회’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003796083?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003796083?sid=105"/>
+        <updated>2023-03-25T07:11:59.832Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003796083?sid=105" class="nclicks(rig.secteco)" title="MS의 블리자드 인수 ‘파란불’…英 경쟁당국 ‘입장 선회’">MS의 블리자드 인수 ‘파란불’…英 경쟁당국 ‘입장 선회’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["청소년 3명 중 1명, 게임·카톡·SNS서 언어폭력 당해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011761556?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011761556?sid=105"/>
-        <updated>2023-03-25T06:16:44.834Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011761556?sid=105" class="nclicks(rig.secteco)" title="&quot;청소년 3명 중 1명, 게임·카톡·SNS서 언어폭력 당해&quot;">"청소년 3명 중 1명, 게임·카톡·SNS서 언어폭력 당해"</a>]]></content>
+        <title type="html"><![CDATA[넥슨과 분쟁 겪던 '다크앤다커', 美저작권법 조치로 스팀서 퇴출]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003086558?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003086558?sid=105"/>
+        <updated>2023-03-25T07:11:59.835Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003086558?sid=105" class="nclicks(rig.secteco)" title="넥슨과 분쟁 겪던 '다크앤다커', 美저작권법 조치로 스팀서 퇴출">넥슨과 분쟁 겪던 '다크앤다커', 美저작권법 조치로 스팀서 퇴출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['테라ㆍ루나' 권도형 수갑찬 채로 법정 출두..외신 포착]]></title>
-        <id>https://n.news.naver.com/mnews/article/660/0000030927?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/660/0000030927?sid=102"/>
-        <updated>2023-03-25T06:16:44.835Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000030927?sid=102" class="nclicks(rig.secteco)" title="'테라ㆍ루나' 권도형 수갑찬 채로 법정 출두..외신 포착">'테라ㆍ루나' 권도형 수갑찬 채로 법정 출두..외신 포착</a>]]></content>
+        <title type="html"><![CDATA['테라 사태' 권도형, 국내 송환은 여전히 미지수(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011763192?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011763192?sid=102"/>
+        <updated>2023-03-25T07:11:59.838Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011763192?sid=102" class="nclicks(rig.secteco)" title="'테라 사태' 권도형, 국내 송환은 여전히 미지수(종합)">'테라 사태' 권도형, 국내 송환은 여전히 미지수(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, '필로폰 투약' 남경필 전 지사 장남 구속영장 신청]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013837063?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013837063?sid=102"/>
-        <updated>2023-03-25T06:16:44.838Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013837063?sid=102" class="nclicks(rig.secteco)" title="경찰, '필로폰 투약' 남경필 전 지사 장남 구속영장 신청">경찰, '필로폰 투약' 남경필 전 지사 장남 구속영장 신청</a>]]></content>
+        <title type="html"><![CDATA[남경필 전 지사 아들, 필로폰 투약 혐의 영장실질심사 출석]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000336898?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000336898?sid=102"/>
+        <updated>2023-03-25T07:11:59.840Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000336898?sid=102" class="nclicks(rig.secteco)" title="남경필 전 지사 아들, 필로폰 투약 혐의 영장실질심사 출석">남경필 전 지사 아들, 필로폰 투약 혐의 영장실질심사 출석</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한상혁 방통위원장 "말할 수 없이 억울…무고함 적극 소명할 것"]]></title>
