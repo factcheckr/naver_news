@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-26T14:11:50.961Z</updated>
+    <updated>2023-03-26T15:14:30.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[울컥한 윤 대통령 “꽃다운 나이에 산화한 장병, 어찌 평정 유지하겠나”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003213195?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003213195?sid=100"/>
-        <updated>2023-03-26T13:15:15.186Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003213195?sid=100" class="nclicks(rig.secteco)" title="울컥한 윤 대통령 “꽃다운 나이에 산화한 장병, 어찌 평정 유지하겠나”">울컥한 윤 대통령 “꽃다운 나이에 산화한 장병, 어찌 평정 유지하겠나”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]野 강행 양곡법 "허망하게 재정 사용, 미래세대에 부담" 尹 거부권 시사]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004171406?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/011/0004171406?sid=100"/>
         <updated>2023-03-26T14:11:24.898Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004171406?sid=100" class="nclicks(rig.secteco)" title="[단독]野 강행 양곡법 &quot;허망하게 재정 사용, 미래세대에 부담&quot; 尹 거부권 시사">[단독]野 강행 양곡법 "허망하게 재정 사용, 미래세대에 부담" 尹 거부권 시사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 "청춘들 생각나 나도 모르게 눈물"…서해용사 '롤콜' 소회(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013838418?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013838418?sid=100"/>
+        <updated>2023-03-26T15:14:04.223Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013838418?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;청춘들 생각나 나도 모르게 눈물&quot;…서해용사 '롤콜' 소회(종합)">尹 "청춘들 생각나 나도 모르게 눈물"…서해용사 '롤콜' 소회(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[野, '검수완박 헌재 유효' 기세 몰아 '한동훈 탄핵'까지?]]></title>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003753992?sid=104" class="nclicks(rig.secteco)" title="푸틴 “벨라루스에 핵 배치”…美의원은 “한국에 전술핵 재배치 고려를”">푸틴 “벨라루스에 핵 배치”…美의원은 “한국에 전술핵 재배치 고려를”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바이든, '토네이도 강타' 미시시피주에 비상사태 선포]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004171501?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004171501?sid=104"/>
-        <updated>2023-03-26T14:11:24.912Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004171501?sid=104" class="nclicks(rig.secteco)" title="바이든, '토네이도 강타' 미시시피주에 비상사태 선포">바이든, '토네이도 강타' 미시시피주에 비상사태 선포</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005449681?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005449681?sid=101"/>
-        <updated>2023-03-26T14:11:24.914Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449681?sid=101" class="nclicks(rig.secteco)" title="JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개">JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개</a>]]></content>
+        <title type="html"><![CDATA[회오리 바람에 터지는 번개…토네이도 덮친 美 미시시피, 비상사태 선포]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003754004?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003754004?sid=104"/>
+        <updated>2023-03-26T15:14:04.225Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003754004?sid=104" class="nclicks(rig.secteco)" title="회오리 바람에 터지는 번개…토네이도 덮친 美 미시시피, 비상사태 선포">회오리 바람에 터지는 번개…토네이도 덮친 美 미시시피, 비상사태 선포</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“우리 때는 둘은 낳았는데…” 신생아 없는데 둘째는 더 없다]]></title>
@@ -53,6 +46,13 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005107019?sid=101"/>
         <updated>2023-03-26T12:23:35.357Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005107019?sid=101" class="nclicks(rig.secteco)" title="“우리 때는 둘은 낳았는데…” 신생아 없는데 둘째는 더 없다">“우리 때는 둘은 낳았는데…” 신생아 없는데 둘째는 더 없다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005449681?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005449681?sid=101"/>
+        <updated>2023-03-26T14:11:24.914Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449681?sid=101" class="nclicks(rig.secteco)" title="JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개">JY 中서 '초격차 광폭행보'…글로벌 리더 교류+현장경영 재개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“대기업 다니는 친구 부럽네”…평균연봉 2억원이라는 이곳들]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000888074?sid=105" class="nclicks(rig.secteco)" title="과기정통부, 한·일 전파국장 회의 4년만에 재개… 정상회담 일환">과기정통부, 한·일 전파국장 회의 4년만에 재개… 정상회담 일환</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KIST "악취가스 제거 효율 최대 38배 높인 활성탄 개발"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013838509?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013838509?sid=105"/>
-        <updated>2023-03-26T13:15:15.202Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013838509?sid=105" class="nclicks(rig.secteco)" title="KIST &quot;악취가스 제거 효율 최대 38배 높인 활성탄 개발&quot;">KIST "악취가스 제거 효율 최대 38배 높인 활성탄 개발"</a>]]></content>
+        <title type="html"><![CDATA[더 글로리와 불법 사이트 "누누티비 막으면 도둑티비 사라질까"]]></title>
+        <id>https://n.news.naver.com/mnews/article/665/0000000682?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/665/0000000682?sid=105"/>
+        <updated>2023-03-26T15:14:04.230Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/665/0000000682?sid=105" class="nclicks(rig.secteco)" title="더 글로리와 불법 사이트 &quot;누누티비 막으면 도둑티비 사라질까&quot;">더 글로리와 불법 사이트 "누누티비 막으면 도둑티비 사라질까"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입]]></title>
+        <title type="html"><![CDATA[강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입]]></title>
         <id>https://n.news.naver.com/mnews/article/087/0000960184?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/087/0000960184?sid=102"/>
         <updated>2023-03-26T13:15:15.204Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000960184?sid=102" class="nclicks(rig.secteco)" title="[속보]강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입">[속보]강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000960184?sid=102" class="nclicks(rig.secteco)" title="강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입">강화도 마니산 산불 민가 확산 방지선 구축…야간 진화체제 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전두환 손자 "모레 한국 입국...5·18 유족에 사죄"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001865450?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001865450?sid=102"/>
-        <updated>2023-03-26T14:11:24.919Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001865450?sid=102" class="nclicks(rig.secteco)" title="전두환 손자 &quot;모레 한국 입국...5·18 유족에 사죄&quot;">전두환 손자 "모레 한국 입국...5·18 유족에 사죄"</a>]]></content>
+        <title type="html"><![CDATA[전두환 손자 전우원 "28일 한국 가서 5·18 유가족 분에게 사과하고 싶다"…경찰, 마약 의혹 조사 방침]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000960182?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000960182?sid=102"/>
+        <updated>2023-03-26T15:14:04.236Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000960182?sid=102" class="nclicks(rig.secteco)" title="전두환 손자 전우원 &quot;28일 한국 가서 5·18 유가족 분에게 사과하고 싶다&quot;…경찰, 마약 의혹 조사 방침">전두환 손자 전우원 "28일 한국 가서 5·18 유가족 분에게 사과하고 싶다"…경찰, 마약 의혹 조사 방침</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]2대 국수본부장, 내부서 발탁…우종수 경기남부청장 내정]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005236084?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005236084?sid=102"/>
-        <updated>2023-03-26T13:15:15.207Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005236084?sid=102" class="nclicks(rig.secteco)" title="[단독]2대 국수본부장, 내부서 발탁…우종수 경기남부청장 내정">[단독]2대 국수본부장, 내부서 발탁…우종수 경기남부청장 내정</a>]]></content>
+        <title type="html"><![CDATA[국가수사본부장에 우종수 내정…정순신 낙마 뒤 경찰 내부 선발]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003268535?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003268535?sid=102"/>
+        <updated>2023-03-26T15:14:04.237Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003268535?sid=102" class="nclicks(rig.secteco)" title="국가수사본부장에 우종수 내정…정순신 낙마 뒤 경찰 내부 선발">국가수사본부장에 우종수 내정…정순신 낙마 뒤 경찰 내부 선발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꽃샘추위…전국 곳곳 한파주의보]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004825145?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004825145?sid=103"/>
-        <updated>2023-03-26T14:11:24.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004825145?sid=103" class="nclicks(rig.secteco)" title="꽃샘추위…전국 곳곳 한파주의보">꽃샘추위…전국 곳곳 한파주의보</a>]]></content>
+        <title type="html"><![CDATA[미세먼지 걷힌 주말, 벚꽃 나들이…밤부터는 곳곳 '한파주의보']]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000336945?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000336945?sid=103"/>
+        <updated>2023-03-26T15:14:04.238Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000336945?sid=103" class="nclicks(rig.secteco)" title="미세먼지 걷힌 주말, 벚꽃 나들이…밤부터는 곳곳 '한파주의보'">미세먼지 걷힌 주말, 벚꽃 나들이…밤부터는 곳곳 '한파주의보'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스9 날씨] 내일, 꽃샘 추위…건조한 날씨 계속]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011452811?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011452811?sid=103"/>
-        <updated>2023-03-26T14:11:24.922Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011452811?sid=103" class="nclicks(rig.secteco)" title="[뉴스9 날씨] 내일, 꽃샘 추위…건조한 날씨 계속">[뉴스9 날씨] 내일, 꽃샘 추위…건조한 날씨 계속</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 내일 아침 '반짝' 꽃샘추위... 수도권 건조주의보 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001865485?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001865485?sid=103"/>
+        <updated>2023-03-26T15:14:04.239Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001865485?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 아침 '반짝' 꽃샘추위... 수도권 건조주의보 확대">[날씨] 내일 아침 '반짝' 꽃샘추위... 수도권 건조주의보 확대</a>]]></content>
     </entry>
 </feed>
