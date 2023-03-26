@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-26T19:11:33.590Z</updated>
+    <updated>2023-03-26T20:13:56.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서해용사 부르며 운 尹…“청춘들 생각나 나도 모르게”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001596547?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001596547?sid=100"/>
+        <updated>2023-03-26T20:13:30.312Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001596547?sid=100" class="nclicks(rig.secteco)" title="서해용사 부르며 운 尹…“청춘들 생각나 나도 모르게”">서해용사 부르며 운 尹…“청춘들 생각나 나도 모르게”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]野 강행 양곡법 "허망하게 재정 사용, 미래세대에 부담" 尹 거부권 시사]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004171406?sid=100</id>
@@ -13,67 +20,60 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004171406?sid=100" class="nclicks(rig.secteco)" title="[단독]野 강행 양곡법 &quot;허망하게 재정 사용, 미래세대에 부담&quot; 尹 거부권 시사">[단독]野 강행 양곡법 "허망하게 재정 사용, 미래세대에 부담" 尹 거부권 시사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 "청춘들 생각나 나도 모르게 눈물"…서해용사 '롤콜' 소회(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013838418?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013838418?sid=100"/>
-        <updated>2023-03-26T15:14:04.223Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013838418?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;청춘들 생각나 나도 모르게 눈물&quot;…서해용사 '롤콜' 소회(종합)">尹 "청춘들 생각나 나도 모르게 눈물"…서해용사 '롤콜' 소회(종합)</a>]]></content>
+        <title type="html"><![CDATA[李도 못말리는 개딸…박지현 “절연 안하면 2030 떠난다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001596545?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001596545?sid=100"/>
+        <updated>2023-03-26T20:13:30.315Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001596545?sid=100" class="nclicks(rig.secteco)" title="李도 못말리는 개딸…박지현 “절연 안하면 2030 떠난다”">李도 못말리는 개딸…박지현 “절연 안하면 2030 떠난다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[통제 안되는 개딸들… 이재명 “내게도 변했다며 손절 전화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003487592?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003487592?sid=100"/>
-        <updated>2023-03-26T18:15:25.079Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003487592?sid=100" class="nclicks(rig.secteco)" title="통제 안되는 개딸들… 이재명 “내게도 변했다며 손절 전화”">통제 안되는 개딸들… 이재명 “내게도 변했다며 손절 전화”</a>]]></content>
+        <title type="html"><![CDATA[푸틴, 나토 코앞 “벨라루스에 전술핵 배치” 위협]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003348938?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003348938?sid=104"/>
+        <updated>2023-03-26T20:13:30.317Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003348938?sid=104" class="nclicks(rig.secteco)" title="푸틴, 나토 코앞 “벨라루스에 전술핵 배치” 위협">푸틴, 나토 코앞 “벨라루스에 전술핵 배치” 위협</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나토 "러 핵위협 위험·무책임…핵태세 조정 불필요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011764358?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011764358?sid=104"/>
-        <updated>2023-03-26T19:11:00.902Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011764358?sid=104" class="nclicks(rig.secteco)" title="나토 &quot;러 핵위협 위험·무책임…핵태세 조정 불필요&quot;">나토 "러 핵위협 위험·무책임…핵태세 조정 불필요"</a>]]></content>
+        <title type="html"><![CDATA[美 미시시피주 토네이도 강타… 바이든 비상사태 선포]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003348940?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003348940?sid=104"/>
+        <updated>2023-03-26T20:13:30.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003348940?sid=104" class="nclicks(rig.secteco)" title="美 미시시피주 토네이도 강타… 바이든 비상사태 선포">美 미시시피주 토네이도 강타… 바이든 비상사태 선포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상] “마을이 사라졌다”…한밤중 최소 25명 사망, 美 미시시피에 무슨 일이?]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002121295?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002121295?sid=104"/>
-        <updated>2023-03-26T19:11:00.906Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002121295?sid=104" class="nclicks(rig.secteco)" title="[영상] “마을이 사라졌다”…한밤중 최소 25명 사망, 美 미시시피에 무슨 일이?">[영상] “마을이 사라졌다”…한밤중 최소 25명 사망, 美 미시시피에 무슨 일이?</a>]]></content>
+        <title type="html"><![CDATA[첫째아 비중 62.7% ‘최대’… 노산이라, 키울 돈 없어 “둘째는 안 낳아”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003348910?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003348910?sid=101"/>
+        <updated>2023-03-26T20:13:30.322Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003348910?sid=101" class="nclicks(rig.secteco)" title="첫째아 비중 62.7% ‘최대’… 노산이라, 키울 돈 없어 “둘째는 안 낳아”">첫째아 비중 62.7% ‘최대’… 노산이라, 키울 돈 없어 “둘째는 안 낳아”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년에 태어난 아기, 첫째가 역대 최고 63%]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003754015?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003754015?sid=101"/>
-        <updated>2023-03-26T19:11:00.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003754015?sid=101" class="nclicks(rig.secteco)" title="작년에 태어난 아기, 첫째가 역대 최고 63%">작년에 태어난 아기, 첫째가 역대 최고 63%</a>]]></content>
+        <title type="html"><![CDATA[비공개 현장 데이터까지 제공한다...LG가 '청년 AI 인재' 기르는 데 공들인 까닭은]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000730578?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000730578?sid=101"/>
+        <updated>2023-03-26T20:13:30.325Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000730578?sid=101" class="nclicks(rig.secteco)" title="비공개 현장 데이터까지 제공한다...LG가 '청년 AI 인재' 기르는 데 공들인 까닭은">비공개 현장 데이터까지 제공한다...LG가 '청년 AI 인재' 기르는 데 공들인 까닭은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘평균연봉 2억’ 대기업 나왔다… SK스퀘어 등 3곳]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003487607?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003487607?sid=101"/>
-        <updated>2023-03-26T18:15:25.084Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003487607?sid=101" class="nclicks(rig.secteco)" title="‘평균연봉 2억’ 대기업 나왔다… SK스퀘어 등 3곳">‘평균연봉 2억’ 대기업 나왔다… SK스퀘어 등 3곳</a>]]></content>
+        <title type="html"><![CDATA[숙박·KTX 할인…해외 여행수요 국내로 돌린다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005449849?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005449849?sid=101"/>
+        <updated>2023-03-26T20:13:30.327Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005449849?sid=101" class="nclicks(rig.secteco)" title="숙박·KTX 할인…해외 여행수요 국내로 돌린다">숙박·KTX 할인…해외 여행수요 국내로 돌린다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재용, 3년만에 訪中… 현지 사업장 점검]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003487661?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003487661?sid=101"/>
-        <updated>2023-03-26T18:15:25.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003487661?sid=101" class="nclicks(rig.secteco)" title="이재용, 3년만에 訪中… 현지 사업장 점검">이재용, 3년만에 訪中… 현지 사업장 점검</a>]]></content>
+        <title type="html"><![CDATA[한·일 전파국장 회의 4년만에 재개…정상회담 후속 조치]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002145029?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002145029?sid=105"/>
+        <updated>2023-03-26T20:13:30.333Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002145029?sid=105" class="nclicks(rig.secteco)" title="한·일 전파국장 회의 4년만에 재개…정상회담 후속 조치">한·일 전파국장 회의 4년만에 재개…정상회담 후속 조치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기부, 5년만에 한일 장차관 협의체 회의 추진]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003487652?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003487652?sid=105"/>
-        <updated>2023-03-26T18:15:25.086Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003487652?sid=105" class="nclicks(rig.secteco)" title="과기부, 5년만에 한일 장차관 협의체 회의 추진">과기부, 5년만에 한일 장차관 협의체 회의 추진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘동영상 김선달’ 누누티비, 인기작은 두고 일부만 삭제]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003754023?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003754023?sid=105"/>
-        <updated>2023-03-26T18:15:25.089Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003754023?sid=105" class="nclicks(rig.secteco)" title="‘동영상 김선달’ 누누티비, 인기작은 두고 일부만 삭제">‘동영상 김선달’ 누누티비, 인기작은 두고 일부만 삭제</a>]]></content>
+        <title type="html"><![CDATA[더 글로리와 불법 사이트 "누누티비 막으면 도둑티비 사라질까"]]></title>
+        <id>https://n.news.naver.com/mnews/article/665/0000000682?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/665/0000000682?sid=105"/>
+        <updated>2023-03-26T20:13:30.335Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/665/0000000682?sid=105" class="nclicks(rig.secteco)" title="더 글로리와 불법 사이트 &quot;누누티비 막으면 도둑티비 사라질까&quot;">더 글로리와 불법 사이트 "누누티비 막으면 도둑티비 사라질까"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강화도 마니산 산불 야간 진화 돌입…열화상 드론 투입]]></title>
