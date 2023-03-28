@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-28T09:15:04.765Z</updated>
+    <updated>2023-03-28T10:15:51.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013843342?sid=100" class="nclicks(rig.secteco)" title="日초등교과서 '징병' 강제성 희석…독도 영유권 주장 강화(종합)">日초등교과서 '징병' 강제성 희석…독도 영유권 주장 강화(종합)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹, 저출산위 주재 "15년간 280조…왜 실패인지 파악해야"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013843442?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013843442?sid=100"/>
+        <updated>2023-03-28T10:15:23.539Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013843442?sid=100" class="nclicks(rig.secteco)" title="尹, 저출산위 주재 &quot;15년간 280조…왜 실패인지 파악해야&quot;(종합)">尹, 저출산위 주재 "15년간 280조…왜 실패인지 파악해야"(종합)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[영상] ‘5·18’ ‘조상묘’ ‘우파통일’…못 말리는 ‘김재원의 입’]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011454126?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011454126?sid=100"/>
@@ -20,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011454126?sid=100" class="nclicks(rig.secteco)" title="[영상] ‘5·18’ ‘조상묘’ ‘우파통일’…못 말리는 ‘김재원의 입’">[영상] ‘5·18’ ‘조상묘’ ‘우파통일’…못 말리는 ‘김재원의 입’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령 “北 퍼주기 중단…핵개발 상황선 1원도 못 줘”(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005451245?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005451245?sid=100"/>
-        <updated>2023-03-28T08:18:48.646Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005451245?sid=100" class="nclicks(rig.secteco)" title="尹대통령 “北 퍼주기 중단…핵개발 상황선 1원도 못 줘”(종합)">尹대통령 “北 퍼주기 중단…핵개발 상황선 1원도 못 줘”(종합)</a>]]></content>
+        <title type="html"><![CDATA['보아오로, 베이징으로'... '리오프닝 효과' 재미 보는 중국]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000730960?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000730960?sid=104"/>
+        <updated>2023-03-28T10:15:23.541Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000730960?sid=104" class="nclicks(rig.secteco)" title="'보아오로, 베이징으로'... '리오프닝 효과' 재미 보는 중국">'보아오로, 베이징으로'... '리오프닝 효과' 재미 보는 중국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘개방·포용’ 내건 亞다보스 '보아오포럼' 개막]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005451369?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005451369?sid=104"/>
-        <updated>2023-03-28T09:14:36.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005451369?sid=104" class="nclicks(rig.secteco)" title="‘개방·포용’ 내건 亞다보스 '보아오포럼' 개막">‘개방·포용’ 내건 亞다보스 '보아오포럼' 개막</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권도형, 도피 와중에 '가상화폐 천국' 세르비아서 법인 설립]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013842737?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013842737?sid=104"/>
-        <updated>2023-03-28T09:14:36.520Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013842737?sid=104" class="nclicks(rig.secteco)" title="권도형, 도피 와중에 '가상화폐 천국' 세르비아서 법인 설립">권도형, 도피 와중에 '가상화폐 천국' 세르비아서 법인 설립</a>]]></content>
+        <title type="html"><![CDATA[반정부 시위 20만명…한발 물러난 네타냐후 "사법개혁 입법 연기"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003269055?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003269055?sid=104"/>
+        <updated>2023-03-28T10:15:23.541Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003269055?sid=104" class="nclicks(rig.secteco)" title="반정부 시위 20만명…한발 물러난 네타냐후 &quot;사법개혁 입법 연기&quot;">반정부 시위 20만명…한발 물러난 네타냐후 "사법개혁 입법 연기"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT&G, 주총서 압승…행동주의펀드 결정적 패착은]]></title>
@@ -48,60 +48,60 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005451403?sid=101" class="nclicks(rig.secteco)" title="KT&amp;G, 주총서 압승…행동주의펀드 결정적 패착은">KT&amp;G, 주총서 압승…행동주의펀드 결정적 패착은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이 정도면 비상 사태” 성난 주주 앞에 고개 숙인 서정진]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000888754?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000888754?sid=101"/>
-        <updated>2023-03-28T09:14:36.522Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000888754?sid=101" class="nclicks(rig.secteco)" title="“이 정도면 비상 사태” 성난 주주 앞에 고개 숙인 서정진">“이 정도면 비상 사태” 성난 주주 앞에 고개 숙인 서정진</a>]]></content>
+        <title type="html"><![CDATA[서정진 돌아왔다…"해외 진출 확대·3사 합병 본격 돌입"]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000015026?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000015026?sid=101"/>
+        <updated>2023-03-28T10:15:23.544Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000015026?sid=101" class="nclicks(rig.secteco)" title="서정진 돌아왔다…&quot;해외 진출 확대·3사 합병 본격 돌입&quot;">서정진 돌아왔다…"해외 진출 확대·3사 합병 본격 돌입"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중공업 떼더니 계열사 간판도 싹 교체…'정기선號' HD현대 가속]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006711821?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006711821?sid=101"/>
-        <updated>2023-03-28T09:14:36.523Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006711821?sid=101" class="nclicks(rig.secteco)" title="중공업 떼더니 계열사 간판도 싹 교체…'정기선號' HD현대 가속">중공업 떼더니 계열사 간판도 싹 교체…'정기선號' HD현대 가속</a>]]></content>
+        <title type="html"><![CDATA["종합검진 문진표인 줄"…도 넘은 美 요구에 반도체업계 '격앙']]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004826019?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004826019?sid=101"/>
+        <updated>2023-03-28T10:15:23.546Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004826019?sid=101" class="nclicks(rig.secteco)" title="&quot;종합검진 문진표인 줄&quot;…도 넘은 美 요구에 반도체업계 '격앙'">"종합검진 문진표인 줄"…도 넘은 美 요구에 반도체업계 '격앙'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] KT, 박종욱 사장 직무대행 전환…김대유·유희열 사외이사 사임]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004172314?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004172314?sid=105"/>
-        <updated>2023-03-28T09:14:36.524Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004172314?sid=105" class="nclicks(rig.secteco)" title="[속보] KT, 박종욱 사장 직무대행 전환…김대유·유희열 사외이사 사임">[속보] KT, 박종욱 사장 직무대행 전환…김대유·유희열 사외이사 사임</a>]]></content>
+        <title type="html"><![CDATA[구현모·사외이사 2명도 줄사퇴…“KT, 5개월 이상 비상경영 해야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003269112?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003269112?sid=105"/>
+        <updated>2023-03-28T10:15:23.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003269112?sid=105" class="nclicks(rig.secteco)" title="구현모·사외이사 2명도 줄사퇴…“KT, 5개월 이상 비상경영 해야”">구현모·사외이사 2명도 줄사퇴…“KT, 5개월 이상 비상경영 해야”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 진심인 SKT…이사진도, 사업도 'AI'(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002696850?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002696850?sid=105"/>
-        <updated>2023-03-28T08:18:48.663Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002696850?sid=105" class="nclicks(rig.secteco)" title="AI 진심인 SKT…이사진도, 사업도 'AI'(종합)">AI 진심인 SKT…이사진도, 사업도 'AI'(종합)</a>]]></content>
+        <title type="html"><![CDATA[이사회부터 이동통신, 미래사업까지…SKT "모든 역량 AI에"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005451073?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005451073?sid=105"/>
+        <updated>2023-03-28T10:15:23.548Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005451073?sid=105" class="nclicks(rig.secteco)" title="이사회부터 이동통신, 미래사업까지…SKT &quot;모든 역량 AI에&quot;">이사회부터 이동통신, 미래사업까지…SKT "모든 역량 AI에"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조민 "가세연, 공부 안하고 포르쉐 탄다는 이미지 만들어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004825920?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004825920?sid=102"/>
-        <updated>2023-03-28T09:14:36.530Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004825920?sid=102" class="nclicks(rig.secteco)" title="조민 &quot;가세연, 공부 안하고 포르쉐 탄다는 이미지 만들어&quot;">조민 "가세연, 공부 안하고 포르쉐 탄다는 이미지 만들어"</a>]]></content>
+        <title type="html"><![CDATA['증인 출석' 조민 "강용석·김세의·김용호 명예훼손 혐의 처벌 원해"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002386837?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002386837?sid=102"/>
+        <updated>2023-03-28T10:15:23.551Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002386837?sid=102" class="nclicks(rig.secteco)" title="'증인 출석' 조민 &quot;강용석·김세의·김용호 명예훼손 혐의 처벌 원해&quot;">'증인 출석' 조민 "강용석·김세의·김용호 명예훼손 혐의 처벌 원해"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 권도형 변호인 "국내 송환 논의 단계 아니다...기소중지 가능성도"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001866286?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001866286?sid=102"/>
-        <updated>2023-03-28T09:14:36.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001866286?sid=102" class="nclicks(rig.secteco)" title="[단독] 권도형 변호인 &quot;국내 송환 논의 단계 아니다...기소중지 가능성도&quot;">[단독] 권도형 변호인 "국내 송환 논의 단계 아니다...기소중지 가능성도"</a>]]></content>
+        <title type="html"><![CDATA[권도형, 미국 가야 형량 더 높다?…"오히려 무죄 나올 수도"]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004172392?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004172392?sid=102"/>
+        <updated>2023-03-28T10:15:23.551Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004172392?sid=102" class="nclicks(rig.secteco)" title="권도형, 미국 가야 형량 더 높다?…&quot;오히려 무죄 나올 수도&quot;">권도형, 미국 가야 형량 더 높다?…"오히려 무죄 나올 수도"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대전역·평택지제역 등 4곳 미래형 교통환승센터로 변신]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003487948?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003487948?sid=102"/>
-        <updated>2023-03-28T09:14:36.532Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003487948?sid=102" class="nclicks(rig.secteco)" title="대전역·평택지제역 등 4곳 미래형 교통환승센터로 변신">대전역·평택지제역 등 4곳 미래형 교통환승센터로 변신</a>]]></content>
+        <title type="html"><![CDATA[자녀 12세까지 근로단축 확대·임금 보전… 경력단절 고리 끊는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003349530?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003349530?sid=102"/>
+        <updated>2023-03-28T10:15:23.552Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003349530?sid=102" class="nclicks(rig.secteco)" title="자녀 12세까지 근로단축 확대·임금 보전… 경력단절 고리 끊는다">자녀 12세까지 근로단축 확대·임금 보전… 경력단절 고리 끊는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[롤스로이스 타는 거 아니었어?…지드래곤 BMW '깜짝 홍보']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004825857?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004825857?sid=103"/>
-        <updated>2023-03-28T08:18:48.675Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004825857?sid=103" class="nclicks(rig.secteco)" title="롤스로이스 타는 거 아니었어?…지드래곤 BMW '깜짝 홍보'">롤스로이스 타는 거 아니었어?…지드래곤 BMW '깜짝 홍보'</a>]]></content>
+        <title type="html"><![CDATA[지드래곤도 푹 빠졌다...우아하고 강인한 ‘BMW 뉴 XM’]]></title>
+        <id>https://n.news.naver.com/mnews/article/243/0000042486?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/243/0000042486?sid=103"/>
+        <updated>2023-03-28T10:15:23.553Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/243/0000042486?sid=103" class="nclicks(rig.secteco)" title="지드래곤도 푹 빠졌다...우아하고 강인한  ‘BMW 뉴 XM’">지드래곤도 푹 빠졌다...우아하고 강인한 ‘BMW 뉴 XM’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내일 내륙 중심 일교차 20도 이상…아침엔 춥고 낮엔 포근]]></title>
