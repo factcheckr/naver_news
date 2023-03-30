@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-03-30T22:13:30.077Z</updated>
+    <updated>2023-03-30T23:14:37.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004868986?sid=100" class="nclicks(rig.secteco)" title="하영제 의원 체포안 가결...與 &quot;이재명은?&quot; 野 &quot;상황 달라&quot;">하영제 의원 체포안 가결...與 "이재명은?" 野 "상황 달라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국회의원 87% 재산 늘어…1억원 이상 증가 206명]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000337525?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000337525?sid=100"/>
-        <updated>2023-03-30T22:12:58.412Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000337525?sid=100" class="nclicks(rig.secteco)" title="국회의원 87% 재산 늘어…1억원 이상 증가 206명">국회의원 87% 재산 늘어…1억원 이상 증가 206명</a>]]></content>
+        <title type="html"><![CDATA[국회의원 재산 1등, '1347억원' 안철수... 최하위는 진선미]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004989811?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004989811?sid=100"/>
+        <updated>2023-03-30T23:14:07.891Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004989811?sid=100" class="nclicks(rig.secteco)" title="국회의원 재산 1등, '1347억원' 안철수... 최하위는 진선미">국회의원 재산 1등, '1347억원' 안철수... 최하위는 진선미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“北,남한 영상물 본 청소년 집단총살”]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011456226?sid=104" class="nclicks(rig.secteco)" title="러, WSJ 기자 간첩 혐의로 구금…미 “강력 규탄…용납할 수 없는 일”">러, WSJ 기자 간첩 혐의로 구금…미 “강력 규탄…용납할 수 없는 일”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 "러, 식량 대가로 北서 탄약 추가획득 시도"…무기거래 관여 개인 제재(종합2보)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006718028?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006718028?sid=104"/>
-        <updated>2023-03-30T22:12:58.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006718028?sid=104" class="nclicks(rig.secteco)" title="美 &quot;러, 식량 대가로 北서 탄약 추가획득 시도&quot;…무기거래 관여 개인 제재(종합2보)">美 "러, 식량 대가로 北서 탄약 추가획득 시도"…무기거래 관여 개인 제재(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[美 “러시아, 北 무기·군수품 확보 추진…식량 제공·대표단 파견도 검토” [특파원+]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003798090?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003798090?sid=104"/>
+        <updated>2023-03-30T23:14:07.900Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003798090?sid=104" class="nclicks(rig.secteco)" title="美 “러시아, 北 무기·군수품 확보 추진…식량 제공·대표단 파견도 검토” [특파원+]">美 “러시아, 北 무기·군수품 확보 추진…식량 제공·대표단 파견도 검토” [특파원+]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[K칩스법 통과…업계, 반도체 한파 속 국회 지원에 '든든']]></title>
@@ -76,25 +76,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011774639?sid=105" class="nclicks(rig.secteco)" title="네이버, 사우디아라비아 도시전역 디지털트윈 맡는다">네이버, 사우디아라비아 도시전역 디지털트윈 맡는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추미애 폭발 “김건희 여사 ‘주가 조작 특검’ 무마하려 ‘박영수 카드’를 슬며시…”]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002792150?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002792150?sid=102"/>
-        <updated>2023-03-30T22:12:58.424Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002792150?sid=102" class="nclicks(rig.secteco)" title="추미애 폭발 “김건희 여사 ‘주가 조작 특검’ 무마하려 ‘박영수 카드’를 슬며시…”">추미애 폭발 “김건희 여사 ‘주가 조작 특검’ 무마하려 ‘박영수 카드’를 슬며시…”</a>]]></content>
+        <title type="html"><![CDATA[[단독] 檢, 박영수 대장동·우리銀 연결 대가로 ‘200억 약속’ 정황 포착]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003350235?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003350235?sid=102"/>
+        <updated>2023-03-30T23:14:07.924Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003350235?sid=102" class="nclicks(rig.secteco)" title="[단독] 檢, 박영수 대장동·우리銀 연결 대가로 ‘200억 약속’ 정황 포착">[단독] 檢, 박영수 대장동·우리銀 연결 대가로 ‘200억 약속’ 정황 포착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신현성 두 번째 구속영장도 기각…“방어권 보장”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011456224?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011456224?sid=102"/>
-        <updated>2023-03-30T22:12:58.425Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011456224?sid=102" class="nclicks(rig.secteco)" title="신현성 두 번째 구속영장도 기각…“방어권 보장”">신현성 두 번째 구속영장도 기각…“방어권 보장”</a>]]></content>
+        <title type="html"><![CDATA['테라·루나 사태' 신현성 또 구속영장 기각… "도주 우려 없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004869005?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004869005?sid=102"/>
+        <updated>2023-03-30T23:14:07.926Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004869005?sid=102" class="nclicks(rig.secteco)" title="'테라·루나 사태' 신현성 또 구속영장 기각… &quot;도주 우려 없어&quot;">'테라·루나 사태' 신현성 또 구속영장 기각… "도주 우려 없어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘계엄령 문건’ 조현천 구속영장 청구…내란 음모 혐의는 빠져]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011456223?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011456223?sid=102"/>
-        <updated>2023-03-30T22:12:58.428Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011456223?sid=102" class="nclicks(rig.secteco)" title="‘계엄령 문건’ 조현천 구속영장 청구…내란 음모 혐의는 빠져">‘계엄령 문건’ 조현천 구속영장 청구…내란 음모 혐의는 빠져</a>]]></content>
+        <title type="html"><![CDATA[檢 계엄 문건 주도 조현천 구속하기로...탱크 동원, 언론 검열 계획]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000037024?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000037024?sid=102"/>
+        <updated>2023-03-30T23:14:07.927Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000037024?sid=102" class="nclicks(rig.secteco)" title="檢 계엄 문건 주도 조현천 구속하기로...탱크 동원, 언론 검열 계획">檢 계엄 문건 주도 조현천 구속하기로...탱크 동원, 언론 검열 계획</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31일 날씨 ‘미세먼지 나쁨’ 원인은 대기 정체... 짙은 바다안개도 유의]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002145423?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002145423?sid=103"/>
+        <updated>2023-03-30T23:14:07.929Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002145423?sid=103" class="nclicks(rig.secteco)" title="31일 날씨 ‘미세먼지 나쁨’ 원인은 대기 정체... 짙은 바다안개도 유의">31일 날씨 ‘미세먼지 나쁨’ 원인은 대기 정체... 짙은 바다안개도 유의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동여도 품은 희귀 대동여지도 돌아왔다… 울릉도 배편도 기록]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001597797?sid=103"/>
         <updated>2023-03-30T20:14:23.702Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001597797?sid=103" class="nclicks(rig.secteco)" title="동여도 품은 희귀 대동여지도 돌아왔다… 울릉도 배편도 기록">동여도 품은 희귀 대동여지도 돌아왔다… 울릉도 배편도 기록</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낮 최고 27도, 포근한 봄 날씨…미세먼지는 ‘나쁨’]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000889631?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000889631?sid=103"/>
-        <updated>2023-03-30T22:12:58.438Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000889631?sid=103" class="nclicks(rig.secteco)" title="낮 최고 27도, 포근한 봄 날씨…미세먼지는 ‘나쁨’">낮 최고 27도, 포근한 봄 날씨…미세먼지는 ‘나쁨’</a>]]></content>
     </entry>
 </feed>
