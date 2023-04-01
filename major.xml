@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-01T16:15:50.771Z</updated>
+    <updated>2023-04-01T17:11:25.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[100주년 서문시장 찾은 尹, "기득권 아닌 땀흘리는 국민이 잘 살아야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003754346?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003754346?sid=100"/>
-        <updated>2023-04-01T15:12:17.914Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003754346?sid=100" class="nclicks(rig.secteco)" title="100주년 서문시장 찾은 尹, &quot;기득권 아닌 땀흘리는 국민이 잘 살아야&quot;">100주년 서문시장 찾은 尹, "기득권 아닌 땀흘리는 국민이 잘 살아야"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006720925?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006720925?sid=100"/>
-        <updated>2023-04-01T15:12:17.915Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006720925?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장">[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장</a>]]></content>
+        <title type="html"><![CDATA["왜 정치 시작했나"…尹대통령 부부, 대구서 주말 '초심 행보']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004869513?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004869513?sid=100"/>
+        <updated>2023-04-01T17:10:57.991Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004869513?sid=100" class="nclicks(rig.secteco)" title="&quot;왜 정치 시작했나&quot;…尹대통령 부부, 대구서 주말 '초심 행보'">"왜 정치 시작했나"…尹대통령 부부, 대구서 주말 '초심 행보'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹, 대구서 프로야구 개막전 시구… 韓日 정상, 피칭 대결의 승자는?]]></title>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003755403?sid=100" class="nclicks(rig.secteco)" title="尹, 대구서 프로야구 개막전 시구… 韓日 정상, 피칭 대결의 승자는?">尹, 대구서 프로야구 개막전 시구… 韓日 정상, 피칭 대결의 승자는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기소 트럼프에 하루 새 후원금 52억 원 모여]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001868051?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001868051?sid=104"/>
-        <updated>2023-04-01T14:11:08.833Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001868051?sid=104" class="nclicks(rig.secteco)" title="기소 트럼프에 하루 새 후원금 52억 원 모여">기소 트럼프에 하루 새 후원금 52억 원 모여</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006720925?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006720925?sid=100"/>
+        <updated>2023-04-01T15:12:17.915Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006720925?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장">[뉴스1 PICK] 고(故) 박원순 묘소, 전태일 열사 묻힌 모란공원 민주열사 묘역 이장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트럼프 임명 前법무 "기소는 검찰권 남용…범죄 아닌 사람 쫓아"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013853414?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013853414?sid=104"/>
+        <updated>2023-04-01T17:10:57.998Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013853414?sid=104" class="nclicks(rig.secteco)" title="트럼프 임명 前법무 &quot;기소는 검찰권 남용…범죄 아닌 사람 쫓아&quot;">트럼프 임명 前법무 "기소는 검찰권 남용…범죄 아닌 사람 쫓아"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI 위험 현실화?…안면인식 기술 오류 탓 절도범 누명 쓴 美남성]]></title>
@@ -69,25 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013852649?sid=105" class="nclicks(rig.secteco)" title="네이버, 세 번째 데이터센터는 달에 짓는다고?…'각 문' 공개">네이버, 세 번째 데이터센터는 달에 짓는다고?…'각 문' 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토마토 5일 물 안 줬더니…1시간 동안 50번 소리 질러 무슨 일?]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000037103?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000037103?sid=105"/>
-        <updated>2023-04-01T13:14:15.176Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000037103?sid=105" class="nclicks(rig.secteco)" title="토마토 5일 물 안 줬더니…1시간 동안 50번 소리 질러 무슨 일?">토마토 5일 물 안 줬더니…1시간 동안 50번 소리 질러 무슨 일?</a>]]></content>
+        <title type="html"><![CDATA[[오늘과학] 식물도 스트레스 받으면 '울음소리' 낸다]]></title>
+        <id>https://n.news.naver.com/mnews/article/584/0000022518?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/584/0000022518?sid=105"/>
+        <updated>2023-04-01T17:10:58.006Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/584/0000022518?sid=105" class="nclicks(rig.secteco)" title="[오늘과학] 식물도 스트레스 받으면 '울음소리' 낸다">[오늘과학] 식물도 스트레스 받으면 '울음소리' 낸다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“40대女 강남 납치·살해”…경찰, 피의자 3명 구속영장 신청]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003350567?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003350567?sid=102"/>
-        <updated>2023-04-01T15:12:17.930Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003350567?sid=102" class="nclicks(rig.secteco)" title="“40대女 강남 납치·살해”…경찰, 피의자 3명 구속영장 신청">“40대女 강남 납치·살해”…경찰, 피의자 3명 구속영장 신청</a>]]></content>
+        <title type="html"><![CDATA[강남 살인 사건, 금전 노린 범죄? 청부살해?]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000035413?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000035413?sid=102"/>
+        <updated>2023-04-01T17:10:58.011Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000035413?sid=102" class="nclicks(rig.secteco)" title="강남 살인 사건, 금전 노린 범죄? 청부살해?">강남 살인 사건, 금전 노린 범죄? 청부살해?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['필로폰 투약' 남경필 전 지사 장남, 두 번 영장심사 끝에 구속]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001868033?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001868033?sid=102"/>
-        <updated>2023-04-01T14:11:08.859Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001868033?sid=102" class="nclicks(rig.secteco)" title="'필로폰 투약' 남경필 전 지사 장남, 두 번 영장심사 끝에 구속">'필로폰 투약' 남경필 전 지사 장남, 두 번 영장심사 끝에 구속</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK] 남경필 장남, 일주일 새 또 '필로폰 투약']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006720895?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006720895?sid=102"/>
+        <updated>2023-04-01T17:10:58.012Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006720895?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 남경필 장남, 일주일 새 또 '필로폰 투약'">[뉴스1 PICK] 남경필 장남, 일주일 새 또 '필로폰 투약'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 부부·부처 장관 등 대거 참석…2023순천만국제정원박람회 개막]]></title>
