@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-04-03T03:14:24.956Z</updated>
+    <updated>2023-04-03T04:16:45.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000037143?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000037143?sid=001"/>
+        <updated>2023-04-03T04:16:20.805Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020. 1. 8. 자 "1년전 휴대전화 바꾼 이후 낯선 사람이 나의 비밀을…" 제목 기사 관련 정정 및 반론보도문]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003755268?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003755268?sid=001"/>
+        <updated>2023-04-03T04:16:20.808Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이충상 국가인권위원' 기사 관련 반론보도문]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003349252?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003349252?sid=001"/>
+        <updated>2023-04-03T04:16:20.811Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[※ 바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/087/0000956404?sid=001</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003183288?sid=001"/>
         <updated>2022-12-22T06:17:42.075Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고침] 문화( [이태원 참사] 언론 현업단체들…)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013546888?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013546888?sid=001"/>
-        <updated>2022-11-16T17:21:30.113Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 10월 31일자 A35면 사설 '고질적 안전 불감증이 부른 이태원 참사…통렬한 사회적 반성 있어야']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004769548?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004769548?sid=001"/>
-        <updated>2023-03-10T12:28:24.828Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다[꼬다리]]]></title>
-        <id>https://n.news.naver.com/mnews/article/033/0000044779?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/033/0000044779?sid=001"/>
-        <updated>2023-03-10T12:28:24.830Z</updated>
-        <content type="html"><![CDATA[주간경향]]></content>
     </entry>
 </feed>
