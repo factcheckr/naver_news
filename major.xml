@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-05T17:13:58.557Z</updated>
+    <updated>2023-04-05T18:19:43.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹, 바이든과 정상회담 다음날 美상하원 합동 연설]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489691?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489691?sid=100"/>
+        <updated>2023-04-05T18:19:13.326Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489691?sid=100" class="nclicks(rig.secteco)" title="尹, 바이든과 정상회담 다음날 美상하원 합동 연설">尹, 바이든과 정상회담 다음날 美상하원 합동 연설</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학교폭력 기록, 대입정시-취업에도 반영 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489721?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489721?sid=100"/>
+        <updated>2023-04-05T18:19:13.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489721?sid=100" class="nclicks(rig.secteco)" title="학교폭력 기록, 대입정시-취업에도 반영 추진">학교폭력 기록, 대입정시-취업에도 반영 추진</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양곡관리법 반대 조수진의 대안 "밥 한공기 다 비우기 하자"]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002387731?sid=100</id>
@@ -13,46 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002387731?sid=100" class="nclicks(rig.secteco)" title="양곡관리법 반대 조수진의 대안 &quot;밥 한공기 다 비우기 하자&quot;">양곡관리법 반대 조수진의 대안 "밥 한공기 다 비우기 하자"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 27일 미 의회서 ‘한·미동맹 70주년’ 연설]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271163?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271163?sid=100"/>
-        <updated>2023-04-05T17:13:24.572Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271163?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 27일 미 의회서 ‘한·미동맹 70주년’ 연설">윤 대통령, 27일 미 의회서 ‘한·미동맹 70주년’ 연설</a>]]></content>
+        <title type="html"><![CDATA[트럼프, 34개 중범죄혐의 모두 부인… 두쪽 난 美]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489679?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489679?sid=104"/>
+        <updated>2023-04-05T18:19:13.338Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489679?sid=104" class="nclicks(rig.secteco)" title="트럼프, 34개 중범죄혐의 모두 부인… 두쪽 난 美">트럼프, 34개 중범죄혐의 모두 부인… 두쪽 난 美</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당정 “학폭, 대입정시·취업 때도 불이익 검토”]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271172?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271172?sid=100"/>
-        <updated>2023-04-05T16:20:41.397Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271172?sid=100" class="nclicks(rig.secteco)" title="당정 “학폭, 대입정시·취업 때도 불이익 검토”">당정 “학폭, 대입정시·취업 때도 불이익 검토”</a>]]></content>
+        <title type="html"><![CDATA[美하원의장, LA서 대만 총통과 회동…미국내 만남 최초(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013862816?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013862816?sid=104"/>
+        <updated>2023-04-05T18:19:13.339Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013862816?sid=104" class="nclicks(rig.secteco)" title="美하원의장, LA서 대만 총통과 회동…미국내 만남 최초(종합)">美하원의장, LA서 대만 총통과 회동…미국내 만남 최초(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Q&A]트럼프 34개 혐의는 무엇…‘내년 봄 재판’ 고집 속셈은]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271035?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271035?sid=104"/>
-        <updated>2023-04-05T17:13:24.580Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271035?sid=104" class="nclicks(rig.secteco)" title="[Q&amp;A]트럼프 34개 혐의는 무엇…‘내년 봄 재판’ 고집 속셈은">[Q&amp;A]트럼프 34개 혐의는 무엇…‘내년 봄 재판’ 고집 속셈은</a>]]></content>
+        <title type="html"><![CDATA[압구정-목동-여의도-성수 토지거래허가구역 연장]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489718?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489718?sid=101"/>
+        <updated>2023-04-05T18:19:13.341Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489718?sid=101" class="nclicks(rig.secteco)" title="압구정-목동-여의도-성수 토지거래허가구역 연장">압구정-목동-여의도-성수 토지거래허가구역 연장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차이잉원-매카시 회동에 中 항공모함 동원해 무력시위]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003756002?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003756002?sid=104"/>
-        <updated>2023-04-05T15:15:48.507Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003756002?sid=104" class="nclicks(rig.secteco)" title="차이잉원-매카시 회동에 中 항공모함 동원해 무력시위">차이잉원-매카시 회동에 中 항공모함 동원해 무력시위</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[압구정·목동·여의도·성수, 토지거래허가구역 1년 더 연장]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271084?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271084?sid=101"/>
-        <updated>2023-04-05T17:13:24.583Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271084?sid=101" class="nclicks(rig.secteco)" title="압구정·목동·여의도·성수, 토지거래허가구역 1년 더 연장">압구정·목동·여의도·성수, 토지거래허가구역 1년 더 연장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K원전도 제동 걸리나…체코 수출 앞두고 미국발 악재]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271154?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271154?sid=101"/>
-        <updated>2023-04-05T15:15:48.510Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271154?sid=101" class="nclicks(rig.secteco)" title="K원전도 제동 걸리나…체코 수출 앞두고 미국발 악재">K원전도 제동 걸리나…체코 수출 앞두고 미국발 악재</a>]]></content>
+        <title type="html"><![CDATA[경기침체 우려 속…나스닥 0.52%↓[뉴스새벽배송]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005456402?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005456402?sid=101"/>
+        <updated>2023-04-05T18:19:13.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005456402?sid=101" class="nclicks(rig.secteco)" title="경기침체 우려 속…나스닥 0.52%↓[뉴스새벽배송]">경기침체 우려 속…나스닥 0.52%↓[뉴스새벽배송]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기아의 전기차 자신감… 글로벌 전기차 판매목표 30% 상향]]></title>
@@ -69,25 +69,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002126518?sid=105" class="nclicks(rig.secteco)" title="“이건 닮아도 너무 닮았다?” 카카오에 뿔난 ‘택진형’, 소송까지 간다">“이건 닮아도 너무 닮았다?” 카카오에 뿔난 ‘택진형’, 소송까지 간다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거센 비바람도 엑스포유치 열기 못 막았다]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000037499?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000037499?sid=105"/>
-        <updated>2023-04-05T13:25:50.828Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000037499?sid=105" class="nclicks(rig.secteco)" title="거센 비바람도 엑스포유치 열기 못 막았다">거센 비바람도 엑스포유치 열기 못 막았다</a>]]></content>
+        <title type="html"><![CDATA[실사단, UAM 타고 ‘2030년 부산’ 가상 탐방… 4D체험에 ‘엄지척’]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489706?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489706?sid=105"/>
+        <updated>2023-04-05T18:19:13.349Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489706?sid=105" class="nclicks(rig.secteco)" title="실사단, UAM 타고 ‘2030년 부산’ 가상 탐방… 4D체험에 ‘엄지척’">실사단, UAM 타고 ‘2030년 부산’ 가상 탐방… 4D체험에 ‘엄지척’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 강남 살인 배후 지목된 부부 압수수색…용인서 남편 체포]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271011?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271011?sid=102"/>
-        <updated>2023-04-05T15:15:48.518Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271011?sid=102" class="nclicks(rig.secteco)" title="[단독] 강남 살인 배후 지목된 부부 압수수색…용인서 남편 체포">[단독] 강남 살인 배후 지목된 부부 압수수색…용인서 남편 체포</a>]]></content>
+        <title type="html"><![CDATA[[단독]‘강남 살인’ 윗선 의혹 부부중 남편 체포]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489713?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489713?sid=102"/>
+        <updated>2023-04-05T18:19:13.350Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489713?sid=102" class="nclicks(rig.secteco)" title="[단독]‘강남 살인’ 윗선 의혹 부부중 남편 체포">[단독]‘강남 살인’ 윗선 의혹 부부중 남편 체포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]고교생에 마약음료 건넨 여성 "마약 몰랐다, 알바인 줄"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003270939?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003270939?sid=102"/>
-        <updated>2023-04-05T14:13:48.581Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003270939?sid=102" class="nclicks(rig.secteco)" title="[단독]고교생에 마약음료 건넨 여성 &quot;마약 몰랐다, 알바인 줄&quot;">[단독]고교생에 마약음료 건넨 여성 "마약 몰랐다, 알바인 줄"</a>]]></content>
+        <title type="html"><![CDATA[강남 학원가 ‘마약 음료’ 쇼크… 고교생 6명 당했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003489678?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003489678?sid=102"/>
+        <updated>2023-04-05T18:19:13.352Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489678?sid=102" class="nclicks(rig.secteco)" title="강남 학원가 ‘마약 음료’ 쇼크… 고교생 6명 당했다">강남 학원가 ‘마약 음료’ 쇼크… 고교생 6명 당했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경찰 '강남 납치·살해' 이경우·황대한·연지호 신상공개]]></title>
