@@ -2,36 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-07T06:17:54.496Z</updated>
+    <updated>2023-04-07T07:13:00.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK] 국민의힘, 새 원내사령탑에 윤재옥 의원 선출]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006733818?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006733818?sid=100"/>
-        <updated>2023-04-07T06:17:25.933Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006733818?sid=100" class="nclicks(rig.secteco)" title="[뉴스1 PICK] 국민의힘, 새 원내사령탑에 윤재옥 의원 선출">[뉴스1 PICK] 국민의힘, 새 원내사령탑에 윤재옥 의원 선출</a>]]></content>
+        <title type="html"><![CDATA[윤재옥 “국민의힘, 중도·젊은층 지지율 낮아… 이준석도 원팀”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002127495?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002127495?sid=100"/>
+        <updated>2023-04-07T07:12:26.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002127495?sid=100" class="nclicks(rig.secteco)" title="윤재옥 “국민의힘, 중도·젊은층 지지율 낮아… 이준석도 원팀”">윤재옥 “국민의힘, 중도·젊은층 지지율 낮아… 이준석도 원팀”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미일, 북핵대표 공동성명…北 아킬레스건 ‘돈줄·인권' 때렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003271577?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003271577?sid=100"/>
-        <updated>2023-04-07T06:17:25.933Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271577?sid=100" class="nclicks(rig.secteco)" title="한미일, 북핵대표 공동성명…北 아킬레스건 ‘돈줄·인권' 때렸다">한미일, 북핵대표 공동성명…北 아킬레스건 ‘돈줄·인권' 때렸다</a>]]></content>
+        <title type="html"><![CDATA[[단독] 尹대통령, 새 외교 1차관에 장호진 주러대사 내정]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000403749?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000403749?sid=100"/>
+        <updated>2023-04-07T07:12:26.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000403749?sid=100" class="nclicks(rig.secteco)" title="[단독] 尹대통령, 새 외교 1차관에 장호진 주러대사 내정">[단독] 尹대통령, 새 외교 1차관에 장호진 주러대사 내정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[현장] 이재명 부모 산소에 묻힌 '生明氣' 미스터리]]></title>
-        <id>https://n.news.naver.com/mnews/article/053/0000035535?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/053/0000035535?sid=100"/>
-        <updated>2023-04-07T06:17:25.934Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000035535?sid=100" class="nclicks(rig.secteco)" title="[현장] 이재명 부모 산소에 묻힌 '生明氣' 미스터리">[현장] 이재명 부모 산소에 묻힌 '生明氣' 미스터리</a>]]></content>
+        <title type="html"><![CDATA[한미일 북핵대표 공동성명..."北 해외 노동자 송환해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001870574?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001870574?sid=100"/>
+        <updated>2023-04-07T07:12:26.051Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001870574?sid=100" class="nclicks(rig.secteco)" title="한미일 북핵대표 공동성명...&quot;北 해외 노동자 송환해야&quot;">한미일 북핵대표 공동성명..."北 해외 노동자 송환해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中항모 산둥함 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다]]></title>
+        <title type="html"><![CDATA[中항모 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003756510?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003756510?sid=104"/>
         <updated>2023-04-07T06:17:25.934Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756510?sid=104" class="nclicks(rig.secteco)" title="中항모 산둥함 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다">中항모 산둥함 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756510?sid=104" class="nclicks(rig.secteco)" title="中항모 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다">中항모 대만해협 무력시위하자... 美핵항모 니미츠호 나타났다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["알몸 남성 봤다" 테슬라 카메라 비밀 폭로…직원도 "난 안 사"]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271579?sid=101" class="nclicks(rig.secteco)" title="삼성전자 14년만의 최악 실적....결국 '메모리 감산카드' 꺼냈다">삼성전자 14년만의 최악 실적....결국 '메모리 감산카드' 꺼냈다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['11년 만의' 경상수지 두달 연속 적자…'상저하고' 자신한 당국(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005458380?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005458380?sid=101"/>
-        <updated>2023-04-07T04:15:46.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005458380?sid=101" class="nclicks(rig.secteco)" title="'11년 만의' 경상수지 두달 연속 적자…'상저하고' 자신한 당국(종합)">'11년 만의' 경상수지 두달 연속 적자…'상저하고' 자신한 당국(종합)</a>]]></content>
+        <title type="html"><![CDATA[[종합] "LG에 지다니"…자존심 구긴 삼성, '최악' 실적에 반도체 '감산']]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000739600?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000739600?sid=101"/>
+        <updated>2023-04-07T07:12:26.058Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000739600?sid=101" class="nclicks(rig.secteco)" title="[종합] &quot;LG에 지다니&quot;…자존심 구긴 삼성, '최악' 실적에 반도체 '감산'">[종합] "LG에 지다니"…자존심 구긴 삼성, '최악' 실적에 반도체 '감산'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['반도체 쇼크' 삼성전자의 굴욕…LG전자·엔솔에 영업익 밀려]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013866505?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013866505?sid=101"/>
-        <updated>2023-04-07T06:17:25.936Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013866505?sid=101" class="nclicks(rig.secteco)" title="'반도체 쇼크' 삼성전자의 굴욕…LG전자·엔솔에 영업익 밀려">'반도체 쇼크' 삼성전자의 굴욕…LG전자·엔솔에 영업익 밀려</a>]]></content>
+        <title type="html"><![CDATA[[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001264905?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001264905?sid=101"/>
+        <updated>2023-04-07T07:12:26.060Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001264905?sid=101" class="nclicks(rig.secteco)" title="[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자">[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오게임즈, '아키에이지 워' 표절 논란에 "장르 일반적 요소일 뿐" 반박]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003756759?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈, '아키에이지 워' 표절 논란에 &quot;장르 일반적 요소일 뿐&quot; 반박">카카오게임즈, '아키에이지 워' 표절 논란에 "장르 일반적 요소일 뿐" 반박</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나로우주센터 현장 찾은 과기정통부 "누리호 3차 발사 준비 이상 무"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001734172?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001734172?sid=105"/>
-        <updated>2023-04-07T06:17:25.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001734172?sid=105" class="nclicks(rig.secteco)" title="나로우주센터 현장 찾은 과기정통부 &quot;누리호 3차 발사 준비 이상 무&quot;">나로우주센터 현장 찾은 과기정통부 "누리호 3차 발사 준비 이상 무"</a>]]></content>
+        <title type="html"><![CDATA[나로우주센터 차세대 발사체 시험장 화재 원인은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002288148?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002288148?sid=105"/>
+        <updated>2023-04-07T07:12:26.065Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002288148?sid=105" class="nclicks(rig.secteco)" title="나로우주센터 차세대 발사체 시험장 화재 원인은?">나로우주센터 차세대 발사체 시험장 화재 원인은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경찰, '정자교 붕괴사고' 관련 성남시·분당구 압수수색(종합)]]></title>
@@ -90,11 +90,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489949?sid=102" class="nclicks(rig.secteco)" title="[단독]“중학교 교문 앞에서도 ‘마약 음료’ 나눠줬다”">[단독]“중학교 교문 앞에서도 ‘마약 음료’ 나눠줬다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['학폭 재판 불출석' 권경애, 유족에 "9천만원 갚겠다" 각서 쓰고 돌연 잠적]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002301968?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002301968?sid=102"/>
-        <updated>2023-04-07T06:17:25.944Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002301968?sid=102" class="nclicks(rig.secteco)" title="'학폭 재판 불출석' 권경애, 유족에 &quot;9천만원 갚겠다&quot; 각서 쓰고 돌연 잠적">'학폭 재판 불출석' 권경애, 유족에 "9천만원 갚겠다" 각서 쓰고 돌연 잠적</a>]]></content>
+        <title type="html"><![CDATA[학원가 ‘마약 음료’ 건넨 일당 전원 검거… 배후에 ‘마약 피싱’ 세력 있나]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003800427?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003800427?sid=102"/>
+        <updated>2023-04-07T07:12:26.072Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003800427?sid=102" class="nclicks(rig.secteco)" title="학원가 ‘마약 음료’ 건넨 일당 전원 검거… 배후에 ‘마약 피싱’ 세력 있나">학원가 ‘마약 음료’ 건넨 일당 전원 검거… 배후에 ‘마약 피싱’ 세력 있나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['물처럼 부드럽고 여리게'...광주비엔날레 개막]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002388050?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002388050?sid=103"/>
+        <updated>2023-04-07T07:12:26.074Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002388050?sid=103" class="nclicks(rig.secteco)" title="'물처럼 부드럽고 여리게'...광주비엔날레 개막">'물처럼 부드럽고 여리게'...광주비엔날레 개막</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[故 현미 빈소 조문 시작…조카 한상진 오열·尹 대통령 근조화환]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005113178?sid=103"/>
         <updated>2023-04-07T06:17:25.945Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005113178?sid=103" class="nclicks(rig.secteco)" title="故 현미 빈소 조문 시작…조카 한상진 오열·尹 대통령 근조화환">故 현미 빈소 조문 시작…조카 한상진 오열·尹 대통령 근조화환</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006732661?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006732661?sid=103"/>
-        <updated>2023-04-07T06:17:25.948Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006732661?sid=103" class="nclicks(rig.secteco)" title="여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가'">여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가'</a>]]></content>
     </entry>
 </feed>
