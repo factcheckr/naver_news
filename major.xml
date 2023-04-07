@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-07T17:11:43.636Z</updated>
+    <updated>2023-04-07T18:16:16.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[PK 당대표에 TK 원내대표…“도로 영남당 됐다” 우려도]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000044673?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000044673?sid=100"/>
-        <updated>2023-04-07T17:11:14.147Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000044673?sid=100" class="nclicks(rig.secteco)" title="PK 당대표에 TK 원내대표…“도로 영남당 됐다” 우려도">PK 당대표에 TK 원내대표…“도로 영남당 됐다” 우려도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北 남북 간 전면 통신 중단...남북연락사무소·군통신선 모두 불통(종합2)?]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004993698?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004993698?sid=100"/>
-        <updated>2023-04-07T17:11:14.151Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004993698?sid=100" class="nclicks(rig.secteco)" title="北 남북 간 전면 통신 중단...남북연락사무소·군통신선 모두 불통(종합2)?">北 남북 간 전면 통신 중단...남북연락사무소·군통신선 모두 불통(종합2)?</a>]]></content>
+        <title type="html"><![CDATA[與 새 원내대표 윤재옥… “巨野 폭주 막아낼 것”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003490188?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003490188?sid=100"/>
+        <updated>2023-04-07T18:15:47.088Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003490188?sid=100" class="nclicks(rig.secteco)" title="與 새 원내대표 윤재옥… “巨野 폭주 막아낼 것”">與 새 원내대표 윤재옥… “巨野 폭주 막아낼 것”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] ‘산불 골프’ 김진태, 술자리까지]]></title>
@@ -27,39 +20,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011461322?sid=100" class="nclicks(rig.secteco)" title="[단독] ‘산불 골프’ 김진태, 술자리까지">[단독] ‘산불 골프’ 김진태, 술자리까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국, '미국 방문' 차이잉원 귀국하자 "대만 해협서 군사훈련" 예고]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000732960?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000732960?sid=104"/>
-        <updated>2023-04-07T17:11:14.155Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000732960?sid=104" class="nclicks(rig.secteco)" title="중국, '미국 방문' 차이잉원 귀국하자 &quot;대만 해협서 군사훈련&quot; 예고">중국, '미국 방문' 차이잉원 귀국하자 "대만 해협서 군사훈련" 예고</a>]]></content>
+        <title type="html"><![CDATA[北, 남북연락사무소-軍통신선 모두 응답 안해]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003490192?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003490192?sid=100"/>
+        <updated>2023-04-07T18:15:47.092Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003490192?sid=100" class="nclicks(rig.secteco)" title="北, 남북연락사무소-軍통신선 모두 응답 안해">北, 남북연락사무소-軍통신선 모두 응답 안해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주 "후쿠시마 현지 주민도 방류 반대"…원전 검증은 못해]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000338485?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000338485?sid=104"/>
-        <updated>2023-04-07T17:11:14.156Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000338485?sid=104" class="nclicks(rig.secteco)" title="민주 &quot;후쿠시마 현지 주민도 방류 반대&quot;…원전 검증은 못해">민주 "후쿠시마 현지 주민도 방류 반대"…원전 검증은 못해</a>]]></content>
+        <title type="html"><![CDATA[中 “주미 대만대표 종신 제재”… 美, 항모 vs 항모 맞불]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003490194?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003490194?sid=104"/>
+        <updated>2023-04-07T18:15:47.094Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003490194?sid=104" class="nclicks(rig.secteco)" title="中 “주미 대만대표 종신 제재”… 美, 항모 vs 항모 맞불">中 “주미 대만대표 종신 제재”… 美, 항모 vs 항모 맞불</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘실적 충격’ 삼성전자, 외환위기 후 첫 감산]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000044676?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000044676?sid=101"/>
-        <updated>2023-04-07T17:11:14.158Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000044676?sid=101" class="nclicks(rig.secteco)" title="‘실적 충격’ 삼성전자, 외환위기 후 첫 감산">‘실적 충격’ 삼성전자, 외환위기 후 첫 감산</a>]]></content>
+        <title type="html"><![CDATA[마크롱 중국서 아이돌급 환영 받아…외교·경제 실익은]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867359?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867359?sid=104"/>
+        <updated>2023-04-07T18:15:47.095Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867359?sid=104" class="nclicks(rig.secteco)" title="마크롱 중국서 아이돌급 환영 받아…외교·경제 실익은">마크롱 중국서 아이돌급 환영 받아…외교·경제 실익은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG전자 1분기 영업익 1조5000억, 14년 만에 삼성전자 제쳤다]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000044675?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000044675?sid=101"/>
-        <updated>2023-04-07T17:11:14.160Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/353/0000044675?sid=101" class="nclicks(rig.secteco)" title="LG전자 1분기 영업익 1조5000억, 14년 만에 삼성전자 제쳤다">LG전자 1분기 영업익 1조5000억, 14년 만에 삼성전자 제쳤다</a>]]></content>
+        <title type="html"><![CDATA[‘메모리 세계1위’ 삼성도 반도체 감산]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003490185?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003490185?sid=101"/>
+        <updated>2023-04-07T18:15:47.096Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003490185?sid=101" class="nclicks(rig.secteco)" title="‘메모리 세계1위’ 삼성도 반도체 감산">‘메모리 세계1위’ 삼성도 반도체 감산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001264905?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001264905?sid=101"/>
-        <updated>2023-04-07T17:11:14.162Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001264905?sid=101" class="nclicks(rig.secteco)" title="[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자">[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자</a>]]></content>
+        <title type="html"><![CDATA[LG전자, 1분기 영업이익 1조4974억… LG엔솔은 6332억 선방]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003756599?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003756599?sid=101"/>
+        <updated>2023-04-07T18:15:47.098Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756599?sid=101" class="nclicks(rig.secteco)" title="LG전자, 1분기 영업이익 1조4974억… LG엔솔은 6332억 선방">LG전자, 1분기 영업이익 1조4974억… LG엔솔은 6332억 선방</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경상수지 또 적자]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003756641?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003756641?sid=101"/>
+        <updated>2023-04-07T18:15:47.099Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756641?sid=101" class="nclicks(rig.secteco)" title="경상수지 또 적자">경상수지 또 적자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NHN 김해 연구개발센터 문 열어…데이터센터 준공 전 임시운영]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002288115?sid=105" class="nclicks(rig.secteco)" title="에픽게임즈코리아 &quot;언리얼엔진5, 월간 활성사용자 75만 명 돌파&quot;">에픽게임즈코리아 "언리얼엔진5, 월간 활성사용자 75만 명 돌파"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003800336?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003800336?sid=102"/>
-        <updated>2023-04-07T13:15:22.225Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003800336?sid=102" class="nclicks(rig.secteco)" title="尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나">尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독]“강남살인 교사혐의 재력가, ‘사람 처리 가능’ 말해”…법원, 구속영장 발부]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003490184?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003490184?sid=102"/>
@@ -90,11 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003490184?sid=102" class="nclicks(rig.secteco)" title="[단독]“강남살인 교사혐의 재력가, ‘사람 처리 가능’ 말해”…법원, 구속영장 발부">[단독]“강남살인 교사혐의 재력가, ‘사람 처리 가능’ 말해”…법원, 구속영장 발부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['정자교 붕괴 후폭풍'…압수수색과 기자회견 뒤엉킨 성남시]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003756831?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003756831?sid=102"/>
-        <updated>2023-04-07T16:16:41.730Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003756831?sid=102" class="nclicks(rig.secteco)" title="'정자교 붕괴 후폭풍'…압수수색과 기자회견 뒤엉킨 성남시">'정자교 붕괴 후폭풍'…압수수색과 기자회견 뒤엉킨 성남시</a>]]></content>
+        <title type="html"><![CDATA[[단독]권경애 "변론 기회 달라" 요청해놓고…기일에는 불출석]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003756904?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003756904?sid=102"/>
+        <updated>2023-04-07T18:15:47.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003756904?sid=102" class="nclicks(rig.secteco)" title="[단독]권경애 &quot;변론 기회 달라&quot; 요청해놓고…기일에는 불출석">[단독]권경애 "변론 기회 달라" 요청해놓고…기일에는 불출석</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003800336?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003800336?sid=102"/>
+        <updated>2023-04-07T13:15:22.225Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003800336?sid=102" class="nclicks(rig.secteco)" title="尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나">尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[故현미 조카 한상진, 빈소서 오열…노사연 "이모는 멋진 큰 별"]]></title>
