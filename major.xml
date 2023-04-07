@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-07T13:15:53.866Z</updated>
+    <updated>2023-04-07T14:12:35.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[국민의힘 새 원내대표에 ‘TK’ 윤재옥]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003216023?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003216023?sid=100"/>
-        <updated>2023-04-07T13:15:22.214Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216023?sid=100" class="nclicks(rig.secteco)" title="국민의힘 새 원내대표에 ‘TK’ 윤재옥">국민의힘 새 원내대표에 ‘TK’ 윤재옥</a>]]></content>
+        <title type="html"><![CDATA[與 '원내 수장' TK 윤재옥...거야 상대·지지율 회복 과제]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001870737?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001870737?sid=100"/>
+        <updated>2023-04-07T14:12:02.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001870737?sid=100" class="nclicks(rig.secteco)" title="與 '원내 수장' TK 윤재옥...거야 상대·지지율 회복 과제">與 '원내 수장' TK 윤재옥...거야 상대·지지율 회복 과제</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北 우리 통화 무응답…의도적 차단?]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000037716?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000037716?sid=100"/>
+        <updated>2023-04-07T14:12:02.552Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000037716?sid=100" class="nclicks(rig.secteco)" title="北 우리 통화 무응답…의도적 차단?">北 우리 통화 무응답…의도적 차단?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] ‘산불 와중 골프 연습’ 김진태, 술자리까지]]></title>
@@ -20,25 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011461416?sid=100" class="nclicks(rig.secteco)" title="[단독] ‘산불 와중 골프 연습’ 김진태, 술자리까지">[단독] ‘산불 와중 골프 연습’ 김진태, 술자리까지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남북연락사무소·군 통신선, 북과 통화 안 돼…의도적 무응답 가능성]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003216031?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003216031?sid=100"/>
-        <updated>2023-04-07T13:15:22.218Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216031?sid=100" class="nclicks(rig.secteco)" title="남북연락사무소·군 통신선, 북과 통화 안 돼…의도적 무응답 가능성">남북연락사무소·군 통신선, 북과 통화 안 돼…의도적 무응답 가능성</a>]]></content>
+        <title type="html"><![CDATA[차이잉원 "대만, 세계와 교류 멈추지 않을 것"…방미 후 귀국]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867323?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867323?sid=104"/>
+        <updated>2023-04-07T14:12:02.556Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867323?sid=104" class="nclicks(rig.secteco)" title="차이잉원 &quot;대만, 세계와 교류 멈추지 않을 것&quot;…방미 후 귀국">차이잉원 "대만, 세계와 교류 멈추지 않을 것"…방미 후 귀국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한판 붙어볼래?”...남의 나라 바다에서 으르렁 대는 미중]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005113472?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005113472?sid=104"/>
-        <updated>2023-04-07T12:23:14.279Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005113472?sid=104" class="nclicks(rig.secteco)" title="“한판 붙어볼래?”...남의 나라 바다에서 으르렁 대는 미중">“한판 붙어볼래?”...남의 나라 바다에서 으르렁 대는 미중</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 현장은 못가고...野의원들, 日 극좌단체 찾아가]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003756566?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003756566?sid=104"/>
-        <updated>2023-04-07T13:15:22.220Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756566?sid=104" class="nclicks(rig.secteco)" title="후쿠시마 원전 현장은 못가고...野의원들, 日 극좌단체 찾아가">후쿠시마 원전 현장은 못가고...野의원들, 日 극좌단체 찾아가</a>]]></content>
+        <title type="html"><![CDATA[마크롱에 지극정성 시진핑, 2천km 떨어진 광저우서 2차회동]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867322?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867322?sid=104"/>
+        <updated>2023-04-07T14:12:02.558Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867322?sid=104" class="nclicks(rig.secteco)" title="마크롱에 지극정성 시진핑, 2천km 떨어진 광저우서 2차회동">마크롱에 지극정성 시진핑, 2천km 떨어진 광저우서 2차회동</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, 14년 만에 최악 실적…결국 반도체 감산 선언]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003800336?sid=102" class="nclicks(rig.secteco)" title="尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나">尹 대통령, 공권력 총동원 ‘마약과의 전쟁’ 지시… 검경 다시 손잡나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] ‘빗썸 상장 뒷돈 배달사고’ 의혹 프로골퍼 안성현 영장 기각]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002634906?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002634906?sid=102"/>
-        <updated>2023-04-07T11:11:03.977Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002634906?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘빗썸 상장 뒷돈 배달사고’ 의혹 프로골퍼 안성현 영장 기각">[단독] ‘빗썸 상장 뒷돈 배달사고’ 의혹 프로골퍼 안성현 영장 기각</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[경찰, ‘정자교 붕괴’ 관련 성남시청·분당구청 압수수색]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003216053?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003216053?sid=102"/>
@@ -97,17 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216053?sid=102" class="nclicks(rig.secteco)" title="경찰, ‘정자교 붕괴’ 관련 성남시청·분당구청 압수수색">경찰, ‘정자교 붕괴’ 관련 성남시청·분당구청 압수수색</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故 현미 장남 "혼자 가시게 해…자주 뵙기 위해 美에 모실 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001734291?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001734291?sid=103"/>
-        <updated>2023-04-07T13:15:22.236Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001734291?sid=103" class="nclicks(rig.secteco)" title="故 현미 장남 &quot;혼자 가시게 해…자주 뵙기 위해 美에 모실 것&quot;">故 현미 장남 "혼자 가시게 해…자주 뵙기 위해 美에 모실 것"</a>]]></content>
+        <title type="html"><![CDATA[[단독]‘핑클’ 성유리 남편 프로골퍼 안성현 구속영장 청구]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002565430?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002565430?sid=102"/>
+        <updated>2023-04-07T14:12:02.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002565430?sid=102" class="nclicks(rig.secteco)" title="[단독]‘핑클’ 성유리 남편 프로골퍼 안성현 구속영장 청구">[단독]‘핑클’ 성유리 남편 프로골퍼 안성현 구속영장 청구</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["앞이 안보여" 실명에 극단선택…"첫 진단 6개월내 5배"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011789647?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011789647?sid=103"/>
-        <updated>2023-04-07T11:11:03.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011789647?sid=103" class="nclicks(rig.secteco)" title="&quot;앞이 안보여&quot; 실명에 극단선택…&quot;첫 진단 6개월내 5배&quot;">"앞이 안보여" 실명에 극단선택…"첫 진단 6개월내 5배"</a>]]></content>
+        <title type="html"><![CDATA[故현미 조카 한상진, 빈소서 오열…노사연 "이모는 멋진 큰 별"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003271640?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003271640?sid=103"/>
+        <updated>2023-04-07T14:12:02.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271640?sid=103" class="nclicks(rig.secteco)" title="故현미 조카 한상진, 빈소서 오열…노사연 &quot;이모는 멋진 큰 별&quot;">故현미 조카 한상진, 빈소서 오열…노사연 "이모는 멋진 큰 별"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006732661?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006732661?sid=103"/>
+        <updated>2023-04-07T14:12:02.573Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006732661?sid=103" class="nclicks(rig.secteco)" title="여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가'">여기서는 일단 멈춤…광주비엔날레 '주목, 이 작가'</a>]]></content>
     </entry>
 </feed>
