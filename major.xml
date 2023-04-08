@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-08T03:13:34.628Z</updated>
+    <updated>2023-04-08T04:15:14.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[北, 사거리 1000㎞ ‘핵어뢰 해일-2’ 시험…“수소폭탄 탑재가 최종 목표일 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002565619?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002565619?sid=100"/>
-        <updated>2023-04-08T01:00:48.330Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002565619?sid=100" class="nclicks(rig.secteco)" title="北, 사거리 1000㎞ ‘핵어뢰 해일-2’ 시험…“수소폭탄 탑재가 최종 목표일 것”">北, 사거리 1000㎞ ‘핵어뢰 해일-2’ 시험…“수소폭탄 탑재가 최종 목표일 것”</a>]]></content>
+        <title type="html"><![CDATA[北 '핵어뢰' 잠항시간·거리 연장…'한미 감시망 우회' 노리나]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867488?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867488?sid=100"/>
+        <updated>2023-04-08T04:14:44.396Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867488?sid=100" class="nclicks(rig.secteco)" title="北 '핵어뢰' 잠항시간·거리 연장…'한미 감시망 우회' 노리나">北 '핵어뢰' 잠항시간·거리 연장…'한미 감시망 우회' 노리나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["단디하겠다" TK 윤재옥 '與넘버2'로…巨野 맞설 노련한 협상가]]></title>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004872454?sid=100" class="nclicks(rig.secteco)" title="&quot;단디하겠다&quot; TK 윤재옥 '與넘버2'로…巨野 맞설 노련한 협상가">"단디하겠다" TK 윤재옥 '與넘버2'로…巨野 맞설 노련한 협상가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남북 통신 이틀째 불통… 軍 "모든 가능성 열어놓고 있어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000911065?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000911065?sid=100"/>
-        <updated>2023-04-08T03:13:02.479Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000911065?sid=100" class="nclicks(rig.secteco)" title="남북 통신 이틀째 불통… 軍 &quot;모든 가능성 열어놓고 있어&quot;">남북 통신 이틀째 불통… 軍 "모든 가능성 열어놓고 있어"</a>]]></content>
+        <title type="html"><![CDATA[남북 '연락사무소·군통신선' 모두 불통…北, 의도적 차단 했나?]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003271608?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003271608?sid=100"/>
+        <updated>2023-04-08T04:14:44.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271608?sid=100" class="nclicks(rig.secteco)" title="남북 '연락사무소·군통신선' 모두 불통…北, 의도적 차단 했나?">남북 '연락사무소·군통신선' 모두 불통…北, 의도적 차단 했나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]중국 “오늘부터 3일간 대만포위 훈련”…차이-매카시 회동에 보복]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002565628?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002565628?sid=104"/>
-        <updated>2023-04-08T03:13:02.492Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002565628?sid=104" class="nclicks(rig.secteco)" title="[속보]중국 “오늘부터 3일간 대만포위 훈련”…차이-매카시 회동에 보복">[속보]중국 “오늘부터 3일간 대만포위 훈련”…차이-매카시 회동에 보복</a>]]></content>
+        <title type="html"><![CDATA[中, 대만포위 군사훈련 돌입…차이-매카시 회동에 보복(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867533?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867533?sid=104"/>
+        <updated>2023-04-08T04:14:44.398Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867533?sid=104" class="nclicks(rig.secteco)" title="中, 대만포위 군사훈련 돌입…차이-매카시 회동에 보복(종합)">中, 대만포위 군사훈련 돌입…차이-매카시 회동에 보복(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[특파원 리포트] 중국이 프랑스에 베푼 ‘특급 의전’과 ‘통 큰 선물’이 남긴 것]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011461661?sid=104" class="nclicks(rig.secteco)" title="[특파원 리포트] 중국이 프랑스에 베푼 ‘특급 의전’과 ‘통 큰 선물’이 남긴 것">[특파원 리포트] 중국이 프랑스에 베푼 ‘특급 의전’과 ‘통 큰 선물’이 남긴 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“9만 삼성전자 갈 것”…목표주가 올리는 증권가]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005459027?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005459027?sid=101"/>
-        <updated>2023-04-08T03:13:02.492Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005459027?sid=101" class="nclicks(rig.secteco)" title="“9만 삼성전자 갈 것”…목표주가 올리는 증권가">“9만 삼성전자 갈 것”…목표주가 올리는 증권가</a>]]></content>
+        <title type="html"><![CDATA[사상 최악 실적인데 삼성전자 주가가 오른 이유는?]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002793569?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002793569?sid=101"/>
+        <updated>2023-04-08T04:14:44.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002793569?sid=101" class="nclicks(rig.secteco)" title="사상 최악 실적인데 삼성전자 주가가 오른 이유는?">사상 최악 실적인데 삼성전자 주가가 오른 이유는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[휘발윳값 4달 만에 리터당 1천600원 돌파…경유 20주 하락세]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000330765?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000330765?sid=101"/>
-        <updated>2023-04-08T02:02:04.385Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000330765?sid=101" class="nclicks(rig.secteco)" title="휘발윳값 4달 만에 리터당 1천600원 돌파…경유 20주 하락세">휘발윳값 4달 만에 리터당 1천600원 돌파…경유 20주 하락세</a>]]></content>
+        <title type="html"><![CDATA[“디젤차 다시 타볼까”...휘발유 4개월만에 1600원 돌파]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004993739?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004993739?sid=101"/>
+        <updated>2023-04-08T04:14:44.400Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004993739?sid=101" class="nclicks(rig.secteco)" title="“디젤차 다시 타볼까”...휘발유 4개월만에 1600원 돌파">“디젤차 다시 타볼까”...휘발유 4개월만에 1600원 돌파</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001264905?sid=101" class="nclicks(rig.secteco)" title="[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자">[뉴스외전 경제 '쏙'] 삼성전자 '어닝쇼크'‥경상수지 두 달 연속 적자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주민번호가 구글에…공공기관에 제출한 정보 4년간 노출]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005242630?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005242630?sid=105"/>
-        <updated>2023-04-08T02:02:04.387Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005242630?sid=105" class="nclicks(rig.secteco)" title="주민번호가 구글에…공공기관에 제출한 정보 4년간 노출">주민번호가 구글에…공공기관에 제출한 정보 4년간 노출</a>]]></content>
+        <title type="html"><![CDATA[개인정보위, 30개 부처와 공공부문 개인정보보호 협력]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004872296?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004872296?sid=105"/>
+        <updated>2023-04-08T04:14:44.402Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004872296?sid=105" class="nclicks(rig.secteco)" title="개인정보위, 30개 부처와 공공부문 개인정보보호 협력">개인정보위, 30개 부처와 공공부문 개인정보보호 협력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 주도권 내줬다고? '구글제국' 역습나선다[양철민의 아알못]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004176718?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004176718?sid=105"/>
-        <updated>2023-04-08T03:13:02.498Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004176718?sid=105" class="nclicks(rig.secteco)" title="AI 주도권 내줬다고? '구글제국' 역습나선다[양철민의 아알못]">AI 주도권 내줬다고? '구글제국' 역습나선다[양철민의 아알못]</a>]]></content>
+        <title type="html"><![CDATA[구글 CEO "AI 발전은 위협 아닌 기회…검색엔진에 AI 챗봇 추가"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004829786?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004829786?sid=105"/>
+        <updated>2023-04-08T04:14:44.403Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004829786?sid=105" class="nclicks(rig.secteco)" title="구글 CEO &quot;AI 발전은 위협 아닌 기회…검색엔진에 AI 챗봇 추가&quot;">구글 CEO "AI 발전은 위협 아닌 기회…검색엔진에 AI 챗봇 추가"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '강남 납치·살해 배후' 아내 체포..."지난해 9월부터 범행 공모"]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001870850?sid=102" class="nclicks(rig.secteco)" title="[단독] '강남 납치·살해 배후' 아내 체포...&quot;지난해 9월부터 범행 공모&quot;">[단독] '강남 납치·살해 배후' 아내 체포..."지난해 9월부터 범행 공모"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엠폭스 국내 6번째 환자 발생…첫 지역사회 감염 사례(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013867476?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013867476?sid=102"/>
+        <updated>2023-04-08T04:14:44.405Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013867476?sid=102" class="nclicks(rig.secteco)" title="엠폭스 국내 6번째 환자 발생…첫 지역사회 감염 사례(종합)">엠폭스 국내 6번째 환자 발생…첫 지역사회 감염 사례(종합)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]“중학교 교문 앞에서도 ‘마약 음료’ 나눠줬다”]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003489949?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003489949?sid=102"/>
         <updated>2023-04-07T19:10:32.761Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003489949?sid=102" class="nclicks(rig.secteco)" title="[단독]“중학교 교문 앞에서도 ‘마약 음료’ 나눠줬다”">[단독]“중학교 교문 앞에서도 ‘마약 음료’ 나눠줬다”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠폭스 국내 6번째 환자 발생…첫 '지역 감염' 사례 추정]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000338541?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000338541?sid=102"/>
-        <updated>2023-04-08T03:13:02.501Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000338541?sid=102" class="nclicks(rig.secteco)" title="엠폭스 국내 6번째 환자 발생…첫 '지역 감염' 사례 추정">엠폭스 국내 6번째 환자 발생…첫 '지역 감염' 사례 추정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바람 강하고 꽃샘추위…오후엔 미세먼지 '나쁨']]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003756985?sid=103" class="nclicks(rig.secteco)" title="바람 강하고 꽃샘추위…오후엔 미세먼지 '나쁨'">바람 강하고 꽃샘추위…오후엔 미세먼지 '나쁨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故 현미 빈소에 가요계 추모 발길…조카 노사연 "이모 보며 가수 꿈 키워"]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002127592?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002127592?sid=103"/>
-        <updated>2023-04-08T03:13:02.503Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002127592?sid=103" class="nclicks(rig.secteco)" title="故 현미 빈소에 가요계 추모 발길…조카 노사연 &quot;이모 보며 가수 꿈 키워&quot;">故 현미 빈소에 가요계 추모 발길…조카 노사연 "이모 보며 가수 꿈 키워"</a>]]></content>
+        <title type="html"><![CDATA[“지금도 들리는 울림있는 목소리”…현미 빈소 향하는 추모의 발길]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002127663?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002127663?sid=103"/>
+        <updated>2023-04-08T04:14:44.409Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002127663?sid=103" class="nclicks(rig.secteco)" title="“지금도 들리는 울림있는 목소리”…현미 빈소 향하는 추모의 발길">“지금도 들리는 울림있는 목소리”…현미 빈소 향하는 추모의 발길</a>]]></content>
     </entry>
 </feed>
