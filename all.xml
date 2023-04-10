@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-09T23:13:10.198Z</updated>
+    <updated>2023-04-10T01:02:38.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[“무슨 낯짝으로!”…이낙연 장인상 빈소서 이재명 곤욕 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001599935?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001599935?sid=100"/>
-        <updated>2023-04-09T21:10:42.379Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001599935?sid=100" class="nclicks(rig.secteco)" title="“무슨 낯짝으로!”…이낙연 장인상 빈소서 이재명 곤욕">“무슨 낯짝으로!”…이낙연 장인상 빈소서 이재명 곤욕</a>]]></content>
+        <title type="html"><![CDATA[尹대통령 지지율 0.3%p↓ 36.4%…4주연속 36%대[리얼미터] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013869244?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013869244?sid=100"/>
+        <updated>2023-04-10T01:02:07.360Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013869244?sid=100" class="nclicks(rig.secteco)" title="尹대통령 지지율 0.3%p↓ 36.4%…4주연속 36%대[리얼미터]">尹대통령 지지율 0.3%p↓ 36.4%…4주연속 36%대[리얼미터]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남북 통신선 나흘째 불통…연락사무소 · 군 통신선 모두 안 받아 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001049177?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001049177?sid=100"/>
+        <updated>2023-04-10T01:02:07.363Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001049177?sid=100" class="nclicks(rig.secteco)" title="남북 통신선 나흘째 불통…연락사무소 · 군 통신선 모두 안 받아">남북 통신선 나흘째 불통…연락사무소 · 군 통신선 모두 안 받아</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[총선 1년 앞으로] 비례대표 룰 게임 시작됐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,95 +26,88 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000035582?sid=100" class="nclicks(rig.secteco)" title="[총선 1년 앞으로] 비례대표 룰 게임 시작됐다">[총선 1년 앞으로] 비례대표 룰 게임 시작됐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김진태, '18일 산불 때도 골프' 허위보도…KBS기자 고소 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002302036?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002302036?sid=100"/>
-        <updated>2023-04-09T23:12:31.984Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002302036?sid=100" class="nclicks(rig.secteco)" title="김진태, '18일 산불 때도 골프' 허위보도…KBS기자 고소">김진태, '18일 산불 때도 골프' 허위보도…KBS기자 고소</a>]]></content>
+        <title type="html"><![CDATA['탈중국' 엇박자…?테슬라 "상하이에 초대형 배터리 공장 건설" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000733183?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000733183?sid=104"/>
+        <updated>2023-04-10T01:02:07.366Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000733183?sid=104" class="nclicks(rig.secteco)" title="'탈중국' 엇박자…?테슬라 &quot;상하이에 초대형 배터리 공장 건설&quot;">'탈중국' 엇박자…?테슬라 "상하이에 초대형 배터리 공장 건설"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['탈중국' 엇박자 내는 테슬라…"상하이에 '메가팩' 공장 건설" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004872764?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004872764?sid=104"/>
-        <updated>2023-04-09T23:12:31.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004872764?sid=104" class="nclicks(rig.secteco)" title="'탈중국' 엇박자 내는 테슬라…&quot;상하이에 '메가팩' 공장 건설&quot;">'탈중국' 엇박자 내는 테슬라…"상하이에 '메가팩' 공장 건설"</a>]]></content>
+        <title type="html"><![CDATA[우크라 대반격 계획 털렸다…‘기밀문건’ 美 스파이 활동 들통 [월드뷰] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003352484?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003352484?sid=104"/>
+        <updated>2023-04-10T01:02:07.369Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003352484?sid=104" class="nclicks(rig.secteco)" title="우크라 대반격 계획 털렸다…‘기밀문건’ 美 스파이 활동 들통 [월드뷰]">우크라 대반격 계획 털렸다…‘기밀문건’ 美 스파이 활동 들통 [월드뷰]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감청사태 파문 "미국정부, 한국정부를 집중 감시했다니…" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003757179?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003757179?sid=104"/>
-        <updated>2023-04-09T23:12:31.987Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003757179?sid=104" class="nclicks(rig.secteco)" title="감청사태 파문 &quot;미국정부, 한국정부를 집중 감시했다니…&quot;">감청사태 파문 "미국정부, 한국정부를 집중 감시했다니…"</a>]]></content>
+        <title type="html"><![CDATA[월급과 워라밸 중 뭘 선호하세요?...취준생 MZ세대의 선택은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005113938?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005113938?sid=101"/>
+        <updated>2023-04-10T01:02:07.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005113938?sid=101" class="nclicks(rig.secteco)" title="월급과 워라밸 중 뭘 선호하세요?...취준생 MZ세대의 선택은">월급과 워라밸 중 뭘 선호하세요?...취준생 MZ세대의 선택은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자 '메모리 감산'…3가지 핵심 포인트는? [biz-플러스] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004176999?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004176999?sid=101"/>
-        <updated>2023-04-09T23:12:31.988Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004176999?sid=101" class="nclicks(rig.secteco)" title="삼성전자 '메모리 감산'…3가지 핵심 포인트는? [biz-플러스]">삼성전자 '메모리 감산'…3가지 핵심 포인트는? [biz-플러스]</a>]]></content>
+        <title type="html"><![CDATA[대한항공·아시아나, 결합 심사 속도…"남은 3개국과 긴밀한 협의" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000739808?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000739808?sid=101"/>
+        <updated>2023-04-10T01:02:07.371Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000739808?sid=101" class="nclicks(rig.secteco)" title="대한항공·아시아나, 결합 심사 속도…&quot;남은 3개국과 긴밀한 협의&quot;">대한항공·아시아나, 결합 심사 속도…"남은 3개국과 긴밀한 협의"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“회장님 말고 재용님” 신입한테 외국어 어려움 토로도…MZ는 이런 리더 원한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002127887?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002127887?sid=101"/>
-        <updated>2023-04-09T23:12:31.989Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002127887?sid=101" class="nclicks(rig.secteco)" title="“회장님 말고 재용님” 신입한테 외국어 어려움 토로도…MZ는 이런 리더 원한다">“회장님 말고 재용님” 신입한테 외국어 어려움 토로도…MZ는 이런 리더 원한다</a>]]></content>
+        <title type="html"><![CDATA['9만전자' 간다…14년 만의 '최악 실적'에도 개미들 환호 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004830490?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004830490?sid=101"/>
+        <updated>2023-04-10T01:02:07.372Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004830490?sid=101" class="nclicks(rig.secteco)" title="'9만전자' 간다…14년 만의 '최악 실적'에도 개미들 환호">'9만전자' 간다…14년 만의 '최악 실적'에도 개미들 환호</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[찐부자들의 MBTI는? [한강로 경제브리핑] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003800889?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003800889?sid=101"/>
-        <updated>2023-04-09T23:12:31.995Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003800889?sid=101" class="nclicks(rig.secteco)" title="찐부자들의 MBTI는? [한강로 경제브리핑]">찐부자들의 MBTI는? [한강로 경제브리핑]</a>]]></content>
+        <title type="html"><![CDATA[LG U+, 누빅스·글래스돔과 '탄소배출 관리 플랫폼' 제공 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005459821?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005459821?sid=105"/>
+        <updated>2023-04-10T01:02:07.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005459821?sid=105" class="nclicks(rig.secteco)" title="LG U+, 누빅스·글래스돔과 '탄소배출 관리 플랫폼' 제공">LG U+, 누빅스·글래스돔과 '탄소배출 관리 플랫폼' 제공</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["0대1에서 3대1로"…젠지, kt 꺾고 스프링 결승서 T1과 맞대결 [현장+] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000043280?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000043280?sid=105"/>
-        <updated>2023-04-09T20:13:06.982Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043280?sid=105" class="nclicks(rig.secteco)" title="&quot;0대1에서 3대1로&quot;…젠지, kt 꺾고 스프링 결승서 T1과 맞대결 [현장+]">"0대1에서 3대1로"…젠지, kt 꺾고 스프링 결승서 T1과 맞대결 [현장+]</a>]]></content>
+        <title type="html"><![CDATA[네이버웹툰·삼성카드, ‘네이버웹툰 삼성 iD 카드’ 출시 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005242990?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005242990?sid=105"/>
+        <updated>2023-04-10T01:02:07.374Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005242990?sid=105" class="nclicks(rig.secteco)" title="네이버웹툰·삼성카드, ‘네이버웹툰 삼성 iD 카드’ 출시">네이버웹툰·삼성카드, ‘네이버웹툰 삼성 iD 카드’ 출시</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["AI가 일자리 빼앗아 갈 것"..'챗GPT' 열풍에 국민 60%가 보인 반응 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004994071?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004994071?sid=105"/>
-        <updated>2023-04-09T22:11:39.976Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004994071?sid=105" class="nclicks(rig.secteco)" title="&quot;AI가 일자리 빼앗아 갈 것&quot;..'챗GPT' 열풍에 국민 60%가 보인 반응">"AI가 일자리 빼앗아 갈 것"..'챗GPT' 열풍에 국민 60%가 보인 반응</a>]]></content>
+        <title type="html"><![CDATA[[단독]'마약음료 협박' 일당, 학부모에 1억 요구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002127953?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002127953?sid=102"/>
+        <updated>2023-04-10T01:02:07.375Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002127953?sid=102" class="nclicks(rig.secteco)" title="[단독]'마약음료 협박' 일당, 학부모에 1억 요구">[단독]'마약음료 협박' 일당, 학부모에 1억 요구</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] ‘마약 시음회’ 총책은 中보이스피싱 조직원 2명 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003756849?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003756849?sid=102"/>
-        <updated>2023-04-09T20:13:06.983Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003756849?sid=102" class="nclicks(rig.secteco)" title="[단독] ‘마약 시음회’ 총책은 中보이스피싱 조직원 2명">[단독] ‘마약 시음회’ 총책은 中보이스피싱 조직원 2명</a>]]></content>
+        <title type="html"><![CDATA['강남 납치·살인 배후 의혹' 재력가 부부 아내 황모씨, 오늘 구속심사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0004994118?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0004994118?sid=102"/>
+        <updated>2023-04-10T01:02:07.378Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004994118?sid=102" class="nclicks(rig.secteco)" title="'강남 납치·살인 배후 의혹' 재력가 부부 아내 황모씨, 오늘 구속심사">'강남 납치·살인 배후 의혹' 재력가 부부 아내 황모씨, 오늘 구속심사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]강남 납치·살해 피해자 생전 “나는 증거가 너무 많아”…‘배후’ 지목된 유씨 부부 범행 동기? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003216133?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003216133?sid=102"/>
-        <updated>2023-04-09T20:13:06.984Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216133?sid=102" class="nclicks(rig.secteco)" title="[단독]강남 납치·살해 피해자 생전 “나는 증거가 너무 많아”…‘배후’ 지목된 유씨 부부 범행 동기?">[단독]강남 납치·살해 피해자 생전 “나는 증거가 너무 많아”…‘배후’ 지목된 유씨 부부 범행 동기?</a>]]></content>
+        <title type="html"><![CDATA["코인으로 권총 샀다, 尹 죽여 나라 구하겠다"…게시자 추적 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003271935?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003271935?sid=102"/>
+        <updated>2023-04-10T01:02:07.379Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003271935?sid=102" class="nclicks(rig.secteco)" title="&quot;코인으로 권총 샀다, 尹 죽여 나라 구하겠다&quot;…게시자 추적">"코인으로 권총 샀다, 尹 죽여 나라 구하겠다"…게시자 추적</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2026년 서울항 생긴다…서해까지 배 타고 2시간 만에 도착 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004176998?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004176998?sid=102"/>
-        <updated>2023-04-09T23:12:32.063Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004176998?sid=102" class="nclicks(rig.secteco)" title="2026년 서울항 생긴다…서해까지 배 타고 2시간 만에 도착">2026년 서울항 생긴다…서해까지 배 타고 2시간 만에 도착</a>]]></content>
+        <title type="html"><![CDATA[“청소년 진로 찾아주러 출동”…기아, ‘미래테크 진로탐구’ 학생 모집 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005113954?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005113954?sid=103"/>
+        <updated>2023-04-10T01:02:07.380Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005113954?sid=103" class="nclicks(rig.secteco)" title="“청소년 진로 찾아주러 출동”…기아, ‘미래테크 진로탐구’ 학생 모집">“청소년 진로 찾아주러 출동”…기아, ‘미래테크 진로탐구’ 학생 모집</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낮 최고 18~24도, 강원 영동 강풍·대기 건조…산불 등 화재 주의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000037106?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000037106?sid=103"/>
-        <updated>2023-04-09T23:12:32.066Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000037106?sid=103" class="nclicks(rig.secteco)" title="낮 최고 18~24도, 강원 영동 강풍·대기 건조…산불 등 화재 주의">낮 최고 18~24도, 강원 영동 강풍·대기 건조…산불 등 화재 주의</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침 최저 0도 꽃샘추위… 낮 최고 16∼24도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000892124?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000892124?sid=103"/>
-        <updated>2023-04-09T22:11:39.987Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000892124?sid=103" class="nclicks(rig.secteco)" title="아침 최저 0도 꽃샘추위… 낮 최고 16∼24도">아침 최저 0도 꽃샘추위… 낮 최고 16∼24도</a>]]></content>
+        <title type="html"><![CDATA["테슬라 '48V 아키텍처' 도입, 車기업들에 추격 부담 지울 것" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002700911?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002700911?sid=103"/>
+        <updated>2023-04-10T01:02:07.381Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002700911?sid=103" class="nclicks(rig.secteco)" title="&quot;테슬라 '48V 아키텍처' 도입, 車기업들에 추격 부담 지울 것&quot;">"테슬라 '48V 아키텍처' 도입, 車기업들에 추격 부담 지울 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
