@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-11T10:15:06.396Z</updated>
+    <updated>2023-04-11T11:11:32.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,25 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004873766?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 반려견 위한 콘셉트카 보고 &quot;우리 집은 6마리라…&quot;">尹대통령, 반려견 위한 콘셉트카 보고 "우리 집은 6마리라…"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중재안에 자리 박차고 나간 간호사협…의협과 간무협은 "긍정적"]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003272391?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003272391?sid=100"/>
-        <updated>2023-04-11T10:14:31.645Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272391?sid=100" class="nclicks(rig.secteco)" title="중재안에 자리 박차고 나간 간호사협…의협과 간무협은 &quot;긍정적&quot;">중재안에 자리 박차고 나간 간호사협…의협과 간무협은 "긍정적"</a>]]></content>
+        <title type="html"><![CDATA[간호법·의료법 중재안에 간호협회 "수용 불가"…‘제2의 양곡법’ 될까]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005461388?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005461388?sid=100"/>
+        <updated>2023-04-11T11:11:03.628Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005461388?sid=100" class="nclicks(rig.secteco)" title="간호법·의료법 중재안에 간호협회 &quot;수용 불가&quot;…‘제2의 양곡법’ 될까">간호법·의료법 중재안에 간호협회 "수용 불가"…‘제2의 양곡법’ 될까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 김기현, 4월 19일 박근혜 전 대통령 예방한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001734961?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001734961?sid=100"/>
-        <updated>2023-04-11T07:13:17.219Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001734961?sid=100" class="nclicks(rig.secteco)" title="[단독] 김기현, 4월 19일 박근혜 전 대통령 예방한다">[단독] 김기현, 4월 19일 박근혜 전 대통령 예방한다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만 흑곰 '곰돌이 푸우' 얼굴 강타 배지, 대만서 선풍적 인기]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011797470?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011797470?sid=104"/>
-        <updated>2023-04-11T10:14:31.649Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011797470?sid=104" class="nclicks(rig.secteco)" title="대만 흑곰 '곰돌이 푸우' 얼굴 강타 배지, 대만서 선풍적 인기">대만 흑곰 '곰돌이 푸우' 얼굴 강타 배지, 대만서 선풍적 인기</a>]]></content>
+        <title type="html"><![CDATA[‘역사 인식 계승’ 쏙 빼고 독도 또 억지 주장… 성의 없는 日]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003801519?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003801519?sid=100"/>
+        <updated>2023-04-11T11:11:03.629Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003801519?sid=100" class="nclicks(rig.secteco)" title="‘역사 인식 계승’ 쏙 빼고 독도 또 억지 주장… 성의 없는 日">‘역사 인식 계승’ 쏙 빼고 독도 또 억지 주장… 성의 없는 日</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['中의 오랜 친구' 룰라 브라질 대통령 방중…우크라 해법 등 논의]]></title>
@@ -41,11 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272331?sid=104" class="nclicks(rig.secteco)" title="'中의 오랜 친구' 룰라 브라질 대통령 방중…우크라 해법 등 논의">'中의 오랜 친구' 룰라 브라질 대통령 방중…우크라 해법 등 논의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘금리인하’ 점치는 시장에… 한은 "최종금리 3.75% 될 수도" [한은, 금리 3.5% 또 동결]]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004995369?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004995369?sid=101"/>
-        <updated>2023-04-11T10:14:31.652Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004995369?sid=101" class="nclicks(rig.secteco)" title="‘금리인하’ 점치는 시장에… 한은 &quot;최종금리 3.75% 될 수도&quot; [한은, 금리 3.5% 또 동결]">‘금리인하’ 점치는 시장에… 한은 "최종금리 3.75% 될 수도" [한은, 금리 3.5% 또 동결]</a>]]></content>
+        <title type="html"><![CDATA['곰돌이 푸' 얼굴에 강펀치...시진핑 풍자에 주문 폭증]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001872041?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001872041?sid=104"/>
+        <updated>2023-04-11T11:11:03.631Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001872041?sid=104" class="nclicks(rig.secteco)" title="'곰돌이 푸' 얼굴에 강펀치...시진핑 풍자에 주문 폭증">'곰돌이 푸' 얼굴에 강펀치...시진핑 풍자에 주문 폭증</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이창용 “2월보다 침체에 무게 … 금리 인하 언급은 부적절” [기준금리 2연속 동결]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003801514?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003801514?sid=101"/>
+        <updated>2023-04-11T11:11:03.632Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003801514?sid=101" class="nclicks(rig.secteco)" title="이창용 “2월보다 침체에 무게 … 금리 인하 언급은 부적절” [기준금리 2연속 동결]">이창용 “2월보다 침체에 무게 … 금리 인하 언급은 부적절” [기준금리 2연속 동결]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 "韓앱마켓 루저 만들자"… 2년간 신작게임 입점 막아]]></title>
@@ -55,11 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005114956?sid=101" class="nclicks(rig.secteco)" title="구글 &quot;韓앱마켓 루저 만들자&quot;… 2년간 신작게임 입점 막아">구글 "韓앱마켓 루저 만들자"… 2년간 신작게임 입점 막아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['친환경 선박·폐목재 수소'...지역 신산업, 규제 풀어 키운다]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004873645?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004873645?sid=101"/>
-        <updated>2023-04-11T10:14:31.654Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004873645?sid=101" class="nclicks(rig.secteco)" title="'친환경 선박·폐목재 수소'...지역 신산업, 규제 풀어 키운다">'친환경 선박·폐목재 수소'...지역 신산업, 규제 풀어 키운다</a>]]></content>
+        <title type="html"><![CDATA[“방치된 목제로 수소 생산” 강원·전남 새 규제자유특구 지정]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002635378?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002635378?sid=101"/>
+        <updated>2023-04-11T11:11:03.634Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002635378?sid=101" class="nclicks(rig.secteco)" title="“방치된 목제로 수소 생산” 강원·전남 새 규제자유특구 지정">“방치된 목제로 수소 생산” 강원·전남 새 규제자유특구 지정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호 3차 발사는 5월 24일···실제 상용위성 궤도 투입 첫 시도]]></title>
+        <id>https://n.news.naver.com/mnews/article/092/0002288450?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/092/0002288450?sid=105"/>
+        <updated>2023-04-11T11:11:03.635Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002288450?sid=105" class="nclicks(rig.secteco)" title="누리호 3차 발사는 5월 24일···실제 상용위성 궤도 투입 첫 시도">누리호 3차 발사는 5월 24일···실제 상용위성 궤도 투입 첫 시도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까]]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272403?sid=105" class="nclicks(rig.secteco)" title="[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까">[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누리호 3차 발사는 다음달 24일…사실상 첫 실전]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000593366?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000593366?sid=105"/>
-        <updated>2023-04-11T10:14:31.656Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000593366?sid=105" class="nclicks(rig.secteco)" title="누리호 3차 발사는 다음달 24일…사실상 첫 실전">누리호 3차 발사는 다음달 24일…사실상 첫 실전</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[강릉산불] '8시간 사투' 끝에 주불 진화…축구장 530개 잿더미(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013874044?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013874044?sid=102"/>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013874044?sid=102" class="nclicks(rig.secteco)" title="[강릉산불] '8시간 사투' 끝에 주불 진화…축구장 530개 잿더미(종합)">[강릉산불] '8시간 사투' 끝에 주불 진화…축구장 530개 잿더미(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[강릉 산불] 초속 30m 강풍 타고 삽시간에 번져…단비가 확산 막았다]]></title>
+        <title type="html"><![CDATA[[강릉 산불] 초속 30m 돌풍에 불길 삽시간에 번져…단비가 확산 막았다]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004177886?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/011/0004177886?sid=102"/>
         <updated>2023-04-11T10:14:31.658Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004177886?sid=102" class="nclicks(rig.secteco)" title="[강릉 산불] 초속 30m 강풍 타고 삽시간에 번져…단비가 확산 막았다">[강릉 산불] 초속 30m 강풍 타고 삽시간에 번져…단비가 확산 막았다</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004177886?sid=102" class="nclicks(rig.secteco)" title="[강릉 산불] 초속 30m 돌풍에 불길 삽시간에 번져…단비가 확산 막았다">[강릉 산불] 초속 30m 돌풍에 불길 삽시간에 번져…단비가 확산 막았다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 유아인 '졸피뎀' 과다 투약…다섯번째 '마약류']]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000593367?sid=102" class="nclicks(rig.secteco)" title="[단독] 유아인 '졸피뎀' 과다 투약…다섯번째 '마약류'">[단독] 유아인 '졸피뎀' 과다 투약…다섯번째 '마약류'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“지역과 사회의 문제, 문화로 해결한다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002128922?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002128922?sid=103"/>
-        <updated>2023-04-11T07:13:17.236Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002128922?sid=103" class="nclicks(rig.secteco)" title="“지역과 사회의 문제, 문화로 해결한다”">“지역과 사회의 문제, 문화로 해결한다”</a>]]></content>
+        <title type="html"><![CDATA['이야기 할머니' 배틀 방송 스타 발굴…'제2차 문화진흥 기본계획' 발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011796514?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011796514?sid=103"/>
+        <updated>2023-04-11T11:11:03.641Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011796514?sid=103" class="nclicks(rig.secteco)" title="'이야기 할머니' 배틀 방송 스타 발굴…'제2차 문화진흥 기본계획' 발표">'이야기 할머니' 배틀 방송 스타 발굴…'제2차 문화진흥 기본계획' 발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BMW도 수소차 드라이브.."순수전기차와 시너지"]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005461349?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005461349?sid=103"/>
-        <updated>2023-04-11T10:14:31.662Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005461349?sid=103" class="nclicks(rig.secteco)" title="BMW도 수소차 드라이브..&quot;순수전기차와 시너지&quot;">BMW도 수소차 드라이브.."순수전기차와 시너지"</a>]]></content>
+        <title type="html"><![CDATA["수소, 정의부터 다시 하자"…패권 경쟁 뜨겁다]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005244041?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005244041?sid=103"/>
+        <updated>2023-04-11T11:11:03.645Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005244041?sid=103" class="nclicks(rig.secteco)" title="&quot;수소, 정의부터 다시 하자&quot;…패권 경쟁 뜨겁다">"수소, 정의부터 다시 하자"…패권 경쟁 뜨겁다</a>]]></content>
     </entry>
 </feed>
