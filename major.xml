@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-11T15:14:19.510Z</updated>
+    <updated>2023-04-11T16:17:48.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003758208?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;정부가 현대차 적극 지원… 2030년까지 글로벌 미래차 3강으로&quot;">尹 "정부가 현대차 적극 지원… 2030년까지 글로벌 미래차 3강으로"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘한국 양보’ 더 파고드는 일본…‘독도 분쟁화’ 속내 노골화]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003216704?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003216704?sid=100"/>
-        <updated>2023-04-11T13:16:50.448Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216704?sid=100" class="nclicks(rig.secteco)" title="‘한국 양보’ 더 파고드는 일본…‘독도 분쟁화’ 속내 노골화">‘한국 양보’ 더 파고드는 일본…‘독도 분쟁화’ 속내 노골화</a>]]></content>
+        <title type="html"><![CDATA[日, 외교청서로 또 '독도 몽니'…외교부 "부당한 주장 철회하라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003272325?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003272325?sid=100"/>
+        <updated>2023-04-11T16:17:16.220Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272325?sid=100" class="nclicks(rig.secteco)" title="日, 외교청서로 또 '독도 몽니'…외교부 &quot;부당한 주장 철회하라&quot;">日, 외교청서로 또 '독도 몽니'…외교부 "부당한 주장 철회하라"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박근혜, 총선 딱 1년 앞두고 움직임 재개…'예사롭지 않네']]></title>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002701781?sid=100" class="nclicks(rig.secteco)" title="박근혜, 총선 딱 1년 앞두고 움직임 재개…'예사롭지 않네'">박근혜, 총선 딱 1년 앞두고 움직임 재개…'예사롭지 않네'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘푸’ 얼굴에 어퍼컷, 판다 뒤통수에 스매시…대만의 中상징물 풍자]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002566146?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002566146?sid=104"/>
-        <updated>2023-04-11T15:13:49.766Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002566146?sid=104" class="nclicks(rig.secteco)" title="‘푸’ 얼굴에 어퍼컷, 판다 뒤통수에 스매시…대만의 中상징물 풍자">‘푸’ 얼굴에 어퍼컷, 판다 뒤통수에 스매시…대만의 中상징물 풍자</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마크롱 '대만 발언' EU로 불똥…"대만 현상 변경 반대입장 확고"]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013874519?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013874519?sid=104"/>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013874519?sid=104" class="nclicks(rig.secteco)" title="마크롱 '대만 발언' EU로 불똥…&quot;대만 현상 변경 반대입장 확고&quot;">마크롱 '대만 발언' EU로 불똥…"대만 현상 변경 반대입장 확고"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002794227?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002794227?sid=101"/>
-        <updated>2023-04-11T14:13:48.845Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002794227?sid=101" class="nclicks(rig.secteco)" title="[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`">[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`</a>]]></content>
+        <title type="html"><![CDATA[‘시진핑 이렇게 때려줄거야’…푸 때리는 곰, 대만서 인기]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001600498?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001600498?sid=104"/>
+        <updated>2023-04-11T16:17:16.221Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001600498?sid=104" class="nclicks(rig.secteco)" title="‘시진핑 이렇게 때려줄거야’…푸 때리는 곰, 대만서 인기">‘시진핑 이렇게 때려줄거야’…푸 때리는 곰, 대만서 인기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수출 감소세·소비회복 둔화 … ‘경기 침체 그늘’ 장기화 우려]]></title>
@@ -53,6 +46,13 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003801569?sid=101"/>
         <updated>2023-04-11T15:13:49.772Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003801569?sid=101" class="nclicks(rig.secteco)" title="수출 감소세·소비회복 둔화 … ‘경기 침체 그늘’ 장기화 우려">수출 감소세·소비회복 둔화 … ‘경기 침체 그늘’ 장기화 우려</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002794227?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002794227?sid=101"/>
+        <updated>2023-04-11T14:13:48.845Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002794227?sid=101" class="nclicks(rig.secteco)" title="[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`">[韓 기준금리 2연속 동결] 수출·투자 내리막… 경기부양 카드마저 쓸 수 없는 `사면초가`</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[구글 앱마켓 독점]구글이 원스토어 왕따시킨 방법…"리니지 메인에 올려줄게"]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002288450?sid=105" class="nclicks(rig.secteco)" title="누리호 3차 발사는 5월 24일···실제 상용위성 궤도 투입 첫 시도">누리호 3차 발사는 5월 24일···실제 상용위성 궤도 투입 첫 시도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003272403?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003272403?sid=105"/>
-        <updated>2023-04-11T10:14:31.655Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272403?sid=105" class="nclicks(rig.secteco)" title="[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까">[팩플] LGU+도 중간요금제 추가…5G 가입자, 3000만 문턱 넘을까</a>]]></content>
+        <title type="html"><![CDATA[통신3사 5G 상용 5년 만에 '중간요금제'로 이용자 확보 2차전]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000211161?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000211161?sid=105"/>
+        <updated>2023-04-11T16:17:16.232Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000211161?sid=105" class="nclicks(rig.secteco)" title="통신3사 5G 상용 5년 만에 '중간요금제'로 이용자 확보 2차전">통신3사 5G 상용 5년 만에 '중간요금제'로 이용자 확보 2차전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경포 해안가까지 덮친 산불 '8시간 사투'…특별재난지역 건의(종합)]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003758202?sid=102" class="nclicks(rig.secteco)" title="경포 해안가까지 덮친 산불 '8시간 사투'…특별재난지역 건의(종합)">경포 해안가까지 덮친 산불 '8시간 사투'…특별재난지역 건의(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50억 퇴직금 무죄 뒤집나?‥"곽상도 아들도 뇌물 피의자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001265657?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001265657?sid=102"/>
-        <updated>2023-04-11T15:13:49.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001265657?sid=102" class="nclicks(rig.secteco)" title="50억 퇴직금 무죄 뒤집나?‥&quot;곽상도 아들도 뇌물 피의자&quot;">50억 퇴직금 무죄 뒤집나?‥"곽상도 아들도 뇌물 피의자"</a>]]></content>
+        <title type="html"><![CDATA[검찰, ‘50억 수수 곽상도와 공범’ 아들 병채씨 입건]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003216728?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003216728?sid=102"/>
+        <updated>2023-04-11T16:17:16.246Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003216728?sid=102" class="nclicks(rig.secteco)" title="검찰, ‘50억 수수 곽상도와 공범’ 아들 병채씨 입건">검찰, ‘50억 수수 곽상도와 공범’ 아들 병채씨 입건</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] “유아인, 모델·방송인과 매주 이태원 클럽…마약 의심”]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003757213?sid=103" class="nclicks(rig.secteco)" title="세계 최고 금속활자 ‘직지’, 프랑스서 50년만에 실물 공개">세계 최고 금속활자 ‘직지’, 프랑스서 50년만에 실물 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 전국 미세먼지 농도 '매우 나쁨'…곳곳 한파주의보]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001049741?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001049741?sid=103"/>
-        <updated>2023-04-11T14:13:48.854Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001049741?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 미세먼지 농도 '매우 나쁨'…곳곳 한파주의보">[날씨] 전국 미세먼지 농도 '매우 나쁨'…곳곳 한파주의보</a>]]></content>
+        <title type="html"><![CDATA[내일 아침기온 5도 밑으로…'초고농도 황사' 전국 뒤덮어]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013873962?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013873962?sid=103"/>
+        <updated>2023-04-11T16:17:16.246Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013873962?sid=103" class="nclicks(rig.secteco)" title="내일 아침기온 5도 밑으로…'초고농도 황사' 전국 뒤덮어">내일 아침기온 5도 밑으로…'초고농도 황사' 전국 뒤덮어</a>]]></content>
     </entry>
 </feed>
