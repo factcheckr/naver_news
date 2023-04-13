@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-13T15:14:05.666Z</updated>
+    <updated>2023-04-13T16:16:32.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802396?sid=100" class="nclicks(rig.secteco)" title="‘尹 거부권’ 양곡관리법 부결…국민 10명 중 5명 “거부권 문제 있어”">‘尹 거부권’ 양곡관리법 부결…국민 10명 중 5명 “거부권 문제 있어”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[스프] '전광훈 손절' 요구하다 '손절' 당한 홍준표, SNS서 '부글부글']]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001050300?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001050300?sid=100"/>
-        <updated>2023-04-13T15:13:36.575Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050300?sid=100" class="nclicks(rig.secteco)" title="[스프] '전광훈 손절' 요구하다 '손절' 당한 홍준표, SNS서 '부글부글'">[스프] '전광훈 손절' 요구하다 '손절' 당한 홍준표, SNS서 '부글부글'</a>]]></content>
+        <title type="html"><![CDATA["두 개의 태양은 없다"…홍준표에 칼 빼든 김기현]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002702659?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002702659?sid=100"/>
+        <updated>2023-04-13T16:16:03.195Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002702659?sid=100" class="nclicks(rig.secteco)" title="&quot;두 개의 태양은 없다&quot;…홍준표에 칼 빼든 김기현">"두 개의 태양은 없다"…홍준표에 칼 빼든 김기현</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['킬체인 무력화' 北 고체연료 ICBM 쏘나…중거리 미사일까지 발사]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003272983?sid=100" class="nclicks(rig.secteco)" title="'킬체인 무력화' 北 고체연료 ICBM 쏘나…중거리 미사일까지 발사">'킬체인 무력화' 北 고체연료 ICBM 쏘나…중거리 미사일까지 발사</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[바이든 "유출 문서 전면 조사…현재 상황이 담겨있지 않다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/087/0000964234?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/087/0000964234?sid=104"/>
+        <updated>2023-04-13T14:12:46.842Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000964234?sid=104" class="nclicks(rig.secteco)" title="바이든 &quot;유출 문서 전면 조사…현재 상황이 담겨있지 않다&quot;">바이든 "유출 문서 전면 조사…현재 상황이 담겨있지 않다"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독]시진핑 中국가주석, LG디스플레이 광저우 공장방문]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004874357?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/008/0004874357?sid=104"/>
         <updated>2023-04-13T15:13:36.578Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004874357?sid=104" class="nclicks(rig.secteco)" title="[단독]시진핑 中국가주석, LG디스플레이 광저우 공장방문">[단독]시진핑 中국가주석, LG디스플레이 광저우 공장방문</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보]바이든 "유출 문서 전면 조사…현재 상황이 담겨있지 않다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000964234?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000964234?sid=104"/>
-        <updated>2023-04-13T14:12:46.842Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000964234?sid=104" class="nclicks(rig.secteco)" title="[속보]바이든 &quot;유출 문서 전면 조사…현재 상황이 담겨있지 않다&quot;">[속보]바이든 "유출 문서 전면 조사…현재 상황이 담겨있지 않다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성·SK·현대차·LG·롯데, 강릉 산불 피해 복구에 성금 100억]]></title>
@@ -55,11 +55,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006746813?sid=101" class="nclicks(rig.secteco)" title="[일문일답] 은행지점 함부로 못 줄인다는데…어떻게 바뀌나?">[일문일답] 은행지점 함부로 못 줄인다는데…어떻게 바뀌나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 경북서 '소부장' 기반 유니콘 키운다]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011801843?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011801843?sid=101"/>
-        <updated>2023-04-13T15:13:36.584Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011801843?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 경북서 '소부장' 기반 유니콘 키운다">삼성전자, 경북서 '소부장' 기반 유니콘 키운다</a>]]></content>
+        <title type="html"><![CDATA[“지역 스타트업 키운다”… 경북도-삼성전자 ‘맞손’]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003802469?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003802469?sid=101"/>
+        <updated>2023-04-13T16:16:03.206Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802469?sid=101" class="nclicks(rig.secteco)" title="“지역 스타트업 키운다”… 경북도-삼성전자 ‘맞손’">“지역 스타트업 키운다”… 경북도-삼성전자 ‘맞손’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불법 스트리밍사이트 '누누티비', 결국 서비스 종료]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000339265?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000339265?sid=105"/>
+        <updated>2023-04-13T16:16:03.222Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000339265?sid=105" class="nclicks(rig.secteco)" title="불법 스트리밍사이트 '누누티비', 결국 서비스 종료">불법 스트리밍사이트 '누누티비', 결국 서비스 종료</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, '경쟁 없는' 통신요금 규제 또 손본다…인가제→유보제→?]]></title>
@@ -69,32 +76,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011802574?sid=105" class="nclicks(rig.secteco)" title="정부, '경쟁 없는' 통신요금 규제 또 손본다…인가제→유보제→?">정부, '경쟁 없는' 통신요금 규제 또 손본다…인가제→유보제→?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누누티비, 결국 백기 들었다… “14일 0시 서비스 종료”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003757689?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003757689?sid=105"/>
-        <updated>2023-04-13T14:12:46.854Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003757689?sid=105" class="nclicks(rig.secteco)" title="누누티비, 결국 백기 들었다… “14일 0시 서비스 종료”">누누티비, 결국 백기 들었다… “14일 0시 서비스 종료”</a>]]></content>
+        <title type="html"><![CDATA[충주서 이스라엘 관광객 탄 버스 넘어져…1명 사망·34명 중경상(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013879683?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013879683?sid=102"/>
+        <updated>2023-04-13T16:16:03.226Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013879683?sid=102" class="nclicks(rig.secteco)" title="충주서 이스라엘 관광객 탄 버스 넘어져…1명 사망·34명 중경상(종합2보)">충주서 이스라엘 관광객 탄 버스 넘어져…1명 사망·34명 중경상(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충주서 이스라엘 관광객 태운 버스 전도…1명 사망-34명 중경상]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003491278?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003491278?sid=102"/>
-        <updated>2023-04-13T15:13:36.589Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491278?sid=102" class="nclicks(rig.secteco)" title="충주서 이스라엘 관광객 태운 버스 전도…1명 사망-34명 중경상">충주서 이스라엘 관광객 태운 버스 전도…1명 사망-34명 중경상</a>]]></content>
+        <title type="html"><![CDATA[송영길 캠프, 의원 10여명에 6000만원 전달 정황]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003273150?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003273150?sid=102"/>
+        <updated>2023-04-13T16:16:03.229Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003273150?sid=102" class="nclicks(rig.secteco)" title="송영길 캠프, 의원 10여명에 6000만원 전달 정황">송영길 캠프, 의원 10여명에 6000만원 전달 정황</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "지지세 지키려면 돈 뿌려야" 영장 적시…검찰 칼끝 어디로? (풀영상)]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001050324?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001050324?sid=102"/>
-        <updated>2023-04-13T15:13:36.591Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050324?sid=102" class="nclicks(rig.secteco)" title="[단독] &quot;지지세 지키려면 돈 뿌려야&quot; 영장 적시…검찰 칼끝 어디로? (풀영상)">[단독] "지지세 지키려면 돈 뿌려야" 영장 적시…검찰 칼끝 어디로? (풀영상)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 군공항 이전·TK통합신공항 건설 날개 달았다(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006746974?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006746974?sid=102"/>
-        <updated>2023-04-13T15:13:36.592Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006746974?sid=102" class="nclicks(rig.secteco)" title="광주 군공항 이전·TK통합신공항 건설 날개 달았다(종합)">광주 군공항 이전·TK통합신공항 건설 날개 달았다(종합)</a>]]></content>
+        <title type="html"><![CDATA[광주 군공항 특별법 국회 통과…이전사업 추진 '박차']]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002388768?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002388768?sid=102"/>
+        <updated>2023-04-13T16:16:03.231Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002388768?sid=102" class="nclicks(rig.secteco)" title="광주 군공항 특별법 국회 통과…이전사업 추진 '박차'">광주 군공항 특별법 국회 통과…이전사업 추진 '박차'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국발 최악 황사, 내일 오전까지 우리나라 맴돌아]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013878293?sid=103" class="nclicks(rig.secteco)" title="중국발 최악 황사, 내일 오전까지 우리나라 맴돌아">중국발 최악 황사, 내일 오전까지 우리나라 맴돌아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 고농도 황사 오후부터 밀려나‥남부·제주 차츰 비]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001266207?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001266207?sid=103"/>
-        <updated>2023-04-13T14:12:46.865Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001266207?sid=103" class="nclicks(rig.secteco)" title="[날씨] 고농도 황사 오후부터 밀려나‥남부·제주 차츰 비">[날씨] 고농도 황사 오후부터 밀려나‥남부·제주 차츰 비</a>]]></content>
+        <title type="html"><![CDATA[문 정부 임명 윤범모 현대미술관장, 임기 2년여 남기고 '사의 표명']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004874910?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004874910?sid=103"/>
+        <updated>2023-04-13T16:16:03.236Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004874910?sid=103" class="nclicks(rig.secteco)" title="문 정부 임명 윤범모 현대미술관장, 임기 2년여 남기고 '사의 표명'">문 정부 임명 윤범모 현대미술관장, 임기 2년여 남기고 '사의 표명'</a>]]></content>
     </entry>
 </feed>
