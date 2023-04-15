@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-14T23:13:27.792Z</updated>
+    <updated>2023-04-15T01:04:01.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[급진전하는 北 미사일 기술… 韓美, 공군 연합훈련으로 맞대응 [뉴스분석]]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003802865?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003802865?sid=100"/>
+        <updated>2023-04-15T01:03:31.551Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802865?sid=100" class="nclicks(rig.secteco)" title="급진전하는 北 미사일 기술… 韓美, 공군 연합훈련으로 맞대응 [뉴스분석]">급진전하는 北 미사일 기술… 韓美, 공군 연합훈련으로 맞대응 [뉴스분석]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아까우니까 하나 더"...김건희 여사의 유쾌한 대전 시장 쇼핑]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004875383?sid=100</id>
@@ -13,25 +20,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004875383?sid=100" class="nclicks(rig.secteco)" title="&quot;아까우니까 하나 더&quot;...김건희 여사의 유쾌한 대전 시장 쇼핑">"아까우니까 하나 더"...김건희 여사의 유쾌한 대전 시장 쇼핑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[킬체인 뒤흔든 北 고체연료 ICBM... 軍 "중간단계 시험발사"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000734228?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000734228?sid=100"/>
-        <updated>2023-04-14T20:13:20.379Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000734228?sid=100" class="nclicks(rig.secteco)" title="킬체인 뒤흔든 北 고체연료 ICBM... 軍 &quot;중간단계 시험발사&quot;">킬체인 뒤흔든 北 고체연료 ICBM... 軍 "중간단계 시험발사"</a>]]></content>
+        <title type="html"><![CDATA['정순신 없는 정순신 청문회' 종료…왜 했을까?]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000211856?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000211856?sid=100"/>
+        <updated>2023-04-15T01:03:31.556Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000211856?sid=100" class="nclicks(rig.secteco)" title="'정순신 없는 정순신 청문회' 종료…왜 했을까?">'정순신 없는 정순신 청문회' 종료…왜 했을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정순신 없는 '정순신 청문회'…여당은 '맞불' 간담회]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001050677?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001050677?sid=100"/>
-        <updated>2023-04-14T23:12:58.037Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050677?sid=100" class="nclicks(rig.secteco)" title="정순신 없는 '정순신 청문회'…여당은 '맞불' 간담회">정순신 없는 '정순신 청문회'…여당은 '맞불' 간담회</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극우성향 美일병, 기밀 무제한 접근-350건 유출… “최대 수백년형”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003491591?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003491591?sid=104"/>
-        <updated>2023-04-14T23:12:58.040Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491591?sid=104" class="nclicks(rig.secteco)" title="극우성향 美일병, 기밀 무제한 접근-350건 유출… “최대 수백년형”">극우성향 美일병, 기밀 무제한 접근-350건 유출… “최대 수백년형”</a>]]></content>
+        <title type="html"><![CDATA[어린 병사의 ‘과시욕’과 허술한 시스템… 美 기밀 문건 유출 전말]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003802864?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003802864?sid=104"/>
+        <updated>2023-04-15T01:03:31.558Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802864?sid=104" class="nclicks(rig.secteco)" title="어린 병사의 ‘과시욕’과 허술한 시스템… 美 기밀 문건 유출 전말">어린 병사의 ‘과시욕’과 허술한 시스템… 美 기밀 문건 유출 전말</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[佛 연금개혁법 '합헌'…마크롱 정면돌파 드디어 결실(종합)]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002130610?sid=101" class="nclicks(rig.secteco)" title="[단독]'순천김씨' 한화 김승연 회장 본관에 우주발사체 단조립장">[단독]'순천김씨' 한화 김승연 회장 본관에 우주발사체 단조립장</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[`휘발유 다음 주도 오른다` 이번주 30원이나 상승]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002794784?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002794784?sid=101"/>
+        <updated>2023-04-15T01:03:31.563Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002794784?sid=101" class="nclicks(rig.secteco)" title="`휘발유 다음 주도 오른다` 이번주 30원이나 상승">`휘발유 다음 주도 오른다` 이번주 30원이나 상승</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['에루샤', 작년 한국서 4조 매출 올려…루이비통 기부금은 '0']]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011804893?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011804893?sid=101"/>
@@ -55,18 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011804893?sid=101" class="nclicks(rig.secteco)" title="'에루샤', 작년 한국서 4조 매출 올려…루이비통 기부금은 '0'">'에루샤', 작년 한국서 4조 매출 올려…루이비통 기부금은 '0'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“시간 허비? 완공 시기 놓쳤다”…결국 무산된 쿠팡 함양 물류센터 갑론을박 [일상톡톡 플러스]]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003802857?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003802857?sid=101"/>
-        <updated>2023-04-14T23:12:58.052Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802857?sid=101" class="nclicks(rig.secteco)" title="“시간 허비? 완공 시기 놓쳤다”…결국 무산된 쿠팡 함양 물류센터 갑론을박 [일상톡톡 플러스]">“시간 허비? 완공 시기 놓쳤다”…결국 무산된 쿠팡 함양 물류센터 갑론을박 [일상톡톡 플러스]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] ‘정부용 챗GPT’ 나오고 1500개 행정 서비스 통합…윤곽 드러낸 디지털플랫폼정부]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003273310?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003273310?sid=105"/>
-        <updated>2023-04-14T22:12:05.605Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003273310?sid=105" class="nclicks(rig.secteco)" title="[팩플] ‘정부용 챗GPT’ 나오고 1500개 행정 서비스 통합…윤곽 드러낸 디지털플랫폼정부">[팩플] ‘정부용 챗GPT’ 나오고 1500개 행정 서비스 통합…윤곽 드러낸 디지털플랫폼정부</a>]]></content>
+        <title type="html"><![CDATA[첨부서류 제로, 초거대 AI 4천억 투입...'디지털플랫폼정부' 청사진]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004875106?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004875106?sid=105"/>
+        <updated>2023-04-15T01:03:31.567Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004875106?sid=105" class="nclicks(rig.secteco)" title="첨부서류 제로, 초거대 AI 4천억 투입...'디지털플랫폼정부' 청사진">첨부서류 제로, 초거대 AI 4천억 투입...'디지털플랫폼정부' 청사진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“산불 복구 돕자” 강릉에 기부 행렬]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003273092?sid=105" class="nclicks(rig.secteco)" title="“산불 복구 돕자” 강릉에 기부 행렬">“산불 복구 돕자” 강릉에 기부 행렬</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 김포 골드라인으로 신경전 벌인 대권 잠룡, 원희룡-오세훈 15일 비밀회동]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005116681?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005116681?sid=102"/>
-        <updated>2023-04-14T23:12:58.056Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005116681?sid=102" class="nclicks(rig.secteco)" title="[단독] 김포 골드라인으로 신경전 벌인 대권 잠룡, 원희룡-오세훈 15일 비밀회동">[단독] 김포 골드라인으로 신경전 벌인 대권 잠룡, 원희룡-오세훈 15일 비밀회동</a>]]></content>
+        <title type="html"><![CDATA[김포철도는 어쩌다 지옥철이 됐나…2량 열차 밀어붙인 배경은]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013882080?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013882080?sid=102"/>
+        <updated>2023-04-15T01:03:31.570Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013882080?sid=102" class="nclicks(rig.secteco)" title="김포철도는 어쩌다 지옥철이 됐나…2량 열차 밀어붙인 배경은">김포철도는 어쩌다 지옥철이 됐나…2량 열차 밀어붙인 배경은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['백현동 로비스트' 김인섭 구속‥"수사 급물살?"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001266536?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001266536?sid=102"/>
-        <updated>2023-04-14T23:12:58.058Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001266536?sid=102" class="nclicks(rig.secteco)" title="'백현동 로비스트' 김인섭 구속‥&quot;수사 급물살?&quot;">'백현동 로비스트' 김인섭 구속‥"수사 급물살?"</a>]]></content>
+        <title type="html"><![CDATA['백현동 의혹' 첫 구속…檢수사, 정진상 거쳐 이재명 향하나]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011804962?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011804962?sid=102"/>
+        <updated>2023-04-15T01:03:31.572Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011804962?sid=102" class="nclicks(rig.secteco)" title="'백현동 의혹' 첫 구속…檢수사, 정진상 거쳐 이재명 향하나">'백현동 의혹' 첫 구속…檢수사, 정진상 거쳐 이재명 향하나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 전우원 마약 '양성' 확인…폭로 지인들 '입국 시 통보']]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001735818?sid=102" class="nclicks(rig.secteco)" title="[단독] 전우원 마약 '양성' 확인…폭로 지인들 '입국 시 통보'">[단독] 전우원 마약 '양성' 확인…폭로 지인들 '입국 시 통보'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전국 흐림 속 ‘비소식’… 수도권 미세먼지 ‘나쁨’[오늘날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005464276?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005464276?sid=103"/>
-        <updated>2023-04-14T23:12:58.061Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464276?sid=103" class="nclicks(rig.secteco)" title="전국 흐림 속 ‘비소식’… 수도권 미세먼지 ‘나쁨’[오늘날씨]">전국 흐림 속 ‘비소식’… 수도권 미세먼지 ‘나쁨’[오늘날씨]</a>]]></content>
+        <title type="html"><![CDATA[[내일 날씨] 전국 최대 20㎜ 봄비…황사 영향 미세먼지 '매우나쁨']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006749243?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006749243?sid=103"/>
+        <updated>2023-04-15T01:03:31.577Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006749243?sid=103" class="nclicks(rig.secteco)" title="[내일 날씨] 전국 최대 20㎜ 봄비…황사 영향 미세먼지 '매우나쁨'">[내일 날씨] 전국 최대 20㎜ 봄비…황사 영향 미세먼지 '매우나쁨'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 전국 곳곳 비‥또 황사 영향, 중부 미세먼지 '나쁨']]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001266541?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001266541?sid=103"/>
-        <updated>2023-04-14T23:12:58.062Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001266541?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 곳곳 비‥또 황사 영향, 중부 미세먼지 '나쁨'">[날씨] 전국 곳곳 비‥또 황사 영향, 중부 미세먼지 '나쁨'</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 오늘 전국 봄비...오후부터 미세먼지·황사 유입]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001873620?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001873620?sid=103"/>
+        <updated>2023-04-15T01:03:31.581Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001873620?sid=103" class="nclicks(rig.secteco)" title="[날씨] 오늘 전국 봄비...오후부터 미세먼지·황사 유입">[날씨] 오늘 전국 봄비...오후부터 미세먼지·황사 유입</a>]]></content>
     </entry>
 </feed>
