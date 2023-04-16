@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-16T18:15:05.615Z</updated>
+    <updated>2023-04-16T19:11:25.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[北경비정, 서해NLL 침범 우리軍 경고사격에 퇴각]]></title>
+        <title type="html"><![CDATA[北경비정, 서해NLL 침범…우리軍 경고사격에 퇴각]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003491673?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003491673?sid=100"/>
         <updated>2023-04-16T18:14:38.087Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491673?sid=100" class="nclicks(rig.secteco)" title="北경비정, 서해NLL 침범 우리軍 경고사격에 퇴각">北경비정, 서해NLL 침범 우리軍 경고사격에 퇴각</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491673?sid=100" class="nclicks(rig.secteco)" title="北경비정, 서해NLL 침범…우리軍 경고사격에 퇴각">北경비정, 서해NLL 침범…우리軍 경고사격에 퇴각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[승아양 참변에…'스쿨존 인명사고' 음주운전자 신상 공개 추진]]></title>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003802920?sid=100" class="nclicks(rig.secteco)" title="최근 일주일 일정만 4개… 존재감 키우는 김건희 여사 [이슈+]">최근 일주일 일정만 4개… 존재감 키우는 김건희 여사 [이슈+]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘아베 악몽’에 빠진 일본···기시다 공격 동기는 오리무중]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003217568?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003217568?sid=104"/>
+        <updated>2023-04-16T19:10:55.383Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003217568?sid=104" class="nclicks(rig.secteco)" title="‘아베 악몽’에 빠진 일본···기시다 공격 동기는 오리무중">‘아베 악몽’에 빠진 일본···기시다 공격 동기는 오리무중</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수단, 정부군-반군 교전… 민간인 최소 56명 사망]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003491737?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003491737?sid=104"/>
@@ -34,18 +41,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491737?sid=104" class="nclicks(rig.secteco)" title="수단, 정부군-반군 교전… 민간인 최소 56명 사망">수단, 정부군-반군 교전… 민간인 최소 56명 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 기시다에 폭탄 투척… 아베 피격 9개월만에 또 테러]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003491676?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003491676?sid=104"/>
-        <updated>2023-04-16T18:14:38.091Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491676?sid=104" class="nclicks(rig.secteco)" title="日 기시다에 폭탄 투척… 아베 피격 9개월만에 또 테러">日 기시다에 폭탄 투척… 아베 피격 9개월만에 또 테러</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추경호 “국제유가·민생부담 고려” 유류세 인하 연장에 무게]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003273513?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003273513?sid=101"/>
-        <updated>2023-04-16T16:15:44.356Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003273513?sid=101" class="nclicks(rig.secteco)" title="추경호 “국제유가·민생부담 고려” 유류세 인하 연장에 무게">추경호 “국제유가·민생부담 고려” 유류세 인하 연장에 무게</a>]]></content>
+        <title type="html"><![CDATA[유류세 조정여부 이번주 결정…추경호 "민생부담 진지하게 고려"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013883011?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013883011?sid=101"/>
+        <updated>2023-04-16T19:10:55.411Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013883011?sid=101" class="nclicks(rig.secteco)" title="유류세 조정여부 이번주 결정…추경호 &quot;민생부담 진지하게 고려&quot;">유류세 조정여부 이번주 결정…추경호 "민생부담 진지하게 고려"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]구광모 회장, 상속세 완납 앞두고…국세청에 "일부 돌려달라" 소송]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050936?sid=102" class="nclicks(rig.secteco)" title="[단독] 강래구 소환…&quot;돈 봉투 받은 현역의원 20명 특정&quot;">[단독] 강래구 소환…"돈 봉투 받은 현역의원 20명 특정"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“부자니까 킹크랩 사와”…새신랑 앗아간 ‘농협 갑질’ 사실이었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003803086?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003803086?sid=102"/>
-        <updated>2023-04-16T15:12:18.965Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003803086?sid=102" class="nclicks(rig.secteco)" title="“부자니까 킹크랩 사와”…새신랑 앗아간 ‘농협 갑질’ 사실이었다">“부자니까 킹크랩 사와”…새신랑 앗아간 ‘농협 갑질’ 사실이었다</a>]]></content>
+        <title type="html"><![CDATA[“킹크랩 사와” 직장내 괴롭힘]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003491733?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003491733?sid=102"/>
+        <updated>2023-04-16T19:10:55.425Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491733?sid=102" class="nclicks(rig.secteco)" title="“킹크랩 사와” 직장내 괴롭힘">“킹크랩 사와” 직장내 괴롭힘</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]“김인섭, 백현동 개발 추진시기 수감 상태서 업자에 억대 받아”]]></title>
