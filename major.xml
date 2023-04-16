@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-16T11:11:06.418Z</updated>
+    <updated>2023-04-16T12:23:30.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003491623?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100"/>
+        <updated>2023-04-16T12:22:59.210Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100" class="nclicks(rig.secteco)" title="[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각">[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["9년 세월 앞 우리는 여전히 죄인" 세월호 추모식 참석한 여야]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003273491?sid=100</id>
@@ -13,32 +20,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003273491?sid=100" class="nclicks(rig.secteco)" title="&quot;9년 세월 앞 우리는 여전히 죄인&quot; 세월호 추모식 참석한 여야">"9년 세월 앞 우리는 여전히 죄인" 세월호 추모식 참석한 여야</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령실 “김건희 여사에 행사 참석 요청 많아…선별해 간다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002635990?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002635990?sid=100"/>
-        <updated>2023-04-16T11:10:35.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002635990?sid=100" class="nclicks(rig.secteco)" title="대통령실 “김건희 여사에 행사 참석 요청 많아…선별해 간다”">대통령실 “김건희 여사에 행사 참석 요청 많아…선별해 간다”</a>]]></content>
+        <title type="html"><![CDATA[김건희 여사 광폭 행보에…"화보 찍나" vs "정상 활동"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001050949?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001050949?sid=100"/>
+        <updated>2023-04-16T12:22:59.211Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050949?sid=100" class="nclicks(rig.secteco)" title="김건희 여사 광폭 행보에…&quot;화보 찍나&quot; vs &quot;정상 활동&quot;">김건희 여사 광폭 행보에…"화보 찍나" vs "정상 활동"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령실 "세월호 행사에 총리 등 참석…정부 입장 충분히 전달"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013883623?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013883623?sid=100"/>
-        <updated>2023-04-16T11:10:35.920Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013883623?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;세월호 행사에 총리 등 참석…정부 입장 충분히 전달&quot;">대통령실 "세월호 행사에 총리 등 참석…정부 입장 충분히 전달"</a>]]></content>
+        <title type="html"><![CDATA[[시간대별 상황] 50초가 기시다 구했다...폭발물, 바닥 구르다 뒤늦게 "펑"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000734391?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000734391?sid=104"/>
+        <updated>2023-04-16T12:22:59.212Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000734391?sid=104" class="nclicks(rig.secteco)" title="[시간대별 상황] 50초가 기시다 구했다...폭발물, 바닥 구르다 뒤늦게 &quot;펑&quot;">[시간대별 상황] 50초가 기시다 구했다...폭발물, 바닥 구르다 뒤늦게 "펑"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[또 日총리 노렸다… 새달 G7정상회의 ‘비상’]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003354100?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003354100?sid=104"/>
-        <updated>2023-04-16T11:10:35.923Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003354100?sid=104" class="nclicks(rig.secteco)" title="또 日총리 노렸다… 새달 G7정상회의 ‘비상’">또 日총리 노렸다… 새달 G7정상회의 ‘비상’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["일본 폭발물 테러, 쇠파이프 폭탄 가능성" 수사 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000339506?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000339506?sid=104"/>
-        <updated>2023-04-16T11:10:35.925Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000339506?sid=104" class="nclicks(rig.secteco)" title="&quot;일본 폭발물 테러, 쇠파이프 폭탄 가능성&quot; 수사 본격화">"일본 폭발물 테러, 쇠파이프 폭탄 가능성" 수사 본격화</a>]]></content>
+        <title type="html"><![CDATA[수단 반군·정부군 교전 최소 56명 사망...반군 “공항·대통령궁 장악”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003758110?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003758110?sid=104"/>
+        <updated>2023-04-16T12:22:59.224Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758110?sid=104" class="nclicks(rig.secteco)" title="수단 반군·정부군 교전 최소 56명 사망...반군 “공항·대통령궁 장악”">수단 반군·정부군 교전 최소 56명 사망...반군 “공항·대통령궁 장악”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[또 뛰는 기름값… 세수냐 민생이냐 `유류세 딜레마`]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002794937?sid=101" class="nclicks(rig.secteco)" title="또 뛰는 기름값… 세수냐 민생이냐 `유류세 딜레마`">또 뛰는 기름값… 세수냐 민생이냐 `유류세 딜레마`</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]구광모 회장, 상속세 완납 앞두고…국세청에 "일부 돌려달라" 소송]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005464821?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005464821?sid=101"/>
-        <updated>2023-04-16T08:15:23.308Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464821?sid=101" class="nclicks(rig.secteco)" title="[단독]구광모 회장, 상속세 완납 앞두고…국세청에 &quot;일부 돌려달라&quot; 소송">[단독]구광모 회장, 상속세 완납 앞두고…국세청에 "일부 돌려달라" 소송</a>]]></content>
+        <title type="html"><![CDATA["상속세 과해" 구광모 LG 회장, 과세 당국에 소송 제기]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000211962?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000211962?sid=101"/>
+        <updated>2023-04-16T12:22:59.224Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000211962?sid=101" class="nclicks(rig.secteco)" title="&quot;상속세 과해&quot; 구광모 LG 회장, 과세 당국에 소송 제기">"상속세 과해" 구광모 LG 회장, 과세 당국에 소송 제기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대출금리 ‘뚝’ 주담대 ‘들썩’]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003759752?sid=105" class="nclicks(rig.secteco)" title="안랩 &quot;'이메일 답장' 가장한 악성 코드 주의해야&quot;">안랩 "'이메일 답장' 가장한 악성 코드 주의해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정보보호 신속확인제품 첫 출시…"규제 개선·산업발전"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003759740?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003759740?sid=105"/>
-        <updated>2023-04-16T10:12:59.316Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003759740?sid=105" class="nclicks(rig.secteco)" title="정보보호 신속확인제품 첫 출시…&quot;규제 개선·산업발전&quot;">정보보호 신속확인제품 첫 출시…"규제 개선·산업발전"</a>]]></content>
+        <title type="html"><![CDATA[스페이스X, 국내 통신3사에 위성통신 판매 협력 제안]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013883934?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013883934?sid=105"/>
+        <updated>2023-04-16T12:22:59.236Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013883934?sid=105" class="nclicks(rig.secteco)" title="스페이스X, 국내 통신3사에 위성통신 판매 협력 제안">스페이스X, 국내 통신3사에 위성통신 판매 협력 제안</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘돈봉투 20개’ 의원 규명 관건… 이정근, 스스로 ‘로비스트’ 지칭]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003803017?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003803017?sid=102"/>
-        <updated>2023-04-16T10:12:59.324Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003803017?sid=102" class="nclicks(rig.secteco)" title="‘돈봉투 20개’ 의원 규명 관건… 이정근, 스스로 ‘로비스트’ 지칭">‘돈봉투 20개’ 의원 규명 관건… 이정근, 스스로 ‘로비스트’ 지칭</a>]]></content>
+        <title type="html"><![CDATA[[단독] 강래구 소환…"돈 봉투 받은 현역의원 20명 특정"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001050936?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001050936?sid=102"/>
+        <updated>2023-04-16T12:22:59.238Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001050936?sid=102" class="nclicks(rig.secteco)" title="[단독] 강래구 소환…&quot;돈 봉투 받은 현역의원 20명 특정&quot;">[단독] 강래구 소환…"돈 봉투 받은 현역의원 20명 특정"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새신랑 극단적 선택 내몬 ‘킹크랩 갑질’ 사실로 드러나]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002566851?sid=102" class="nclicks(rig.secteco)" title="새신랑 극단적 선택 내몬 ‘킹크랩 갑질’  사실로 드러나">새신랑 극단적 선택 내몬 ‘킹크랩 갑질’ 사실로 드러나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벌써 아홉번째 봄…세월호 참사 유족들 "잊혀질까 무서워"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003759796?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003759796?sid=102"/>
-        <updated>2023-04-16T11:10:35.942Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003759796?sid=102" class="nclicks(rig.secteco)" title="벌써 아홉번째 봄…세월호 참사 유족들 &quot;잊혀질까 무서워&quot;">벌써 아홉번째 봄…세월호 참사 유족들 "잊혀질까 무서워"</a>]]></content>
+        <title type="html"><![CDATA[[단독] 왕래 없다더니…'백현동 브로커' 김인섭, 2016년 이재명과 안동 동행 정황]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000405018?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000405018?sid=102"/>
+        <updated>2023-04-16T12:22:59.244Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000405018?sid=102" class="nclicks(rig.secteco)" title="[단독] 왕래 없다더니…'백현동 브로커' 김인섭, 2016년 이재명과 안동 동행 정황">[단독] 왕래 없다더니…'백현동 브로커' 김인섭, 2016년 이재명과 안동 동행 정황</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독도를 품은 울릉군, 100억 들여 '가고 싶은 섬' 육성]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002130913?sid=103" class="nclicks(rig.secteco)" title="독도를 품은 울릉군, 100억 들여 '가고 싶은 섬' 육성">독도를 품은 울릉군, 100억 들여 '가고 싶은 섬' 육성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 쌀쌀한 출근길... 오후 미세먼지 완화]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001873953?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001873953?sid=103"/>
-        <updated>2023-04-16T11:10:35.946Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001873953?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 쌀쌀한 출근길... 오후 미세먼지 완화">[날씨] 내일 쌀쌀한 출근길... 오후 미세먼지 완화</a>]]></content>
+        <title type="html"><![CDATA[[시승기-트랙스 크로스오버] 작지만 알찬 ‘가성비 갑’…생애 첫 차 찾고있다면]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002130669?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002130669?sid=103"/>
+        <updated>2023-04-16T12:22:59.249Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002130669?sid=103" class="nclicks(rig.secteco)" title="[시승기-트랙스 크로스오버] 작지만 알찬 ‘가성비 갑’…생애 첫 차 찾고있다면">[시승기-트랙스 크로스오버] 작지만 알찬 ‘가성비 갑’…생애 첫 차 찾고있다면</a>]]></content>
     </entry>
 </feed>
