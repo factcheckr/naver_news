@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-16T02:35:34.272Z</updated>
+    <updated>2023-04-16T03:14:05.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[세월호 참사 9주기…野 "안전한 대한민국 만들어야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006750004?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006750004?sid=100"/>
-        <updated>2023-04-16T02:35:05.367Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006750004?sid=100" class="nclicks(rig.secteco)" title="세월호 참사 9주기…野 &quot;안전한 대한민국 만들어야&quot;">세월호 참사 9주기…野 "안전한 대한민국 만들어야"</a>]]></content>
+        <title type="html"><![CDATA[[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003491623?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100"/>
+        <updated>2023-04-16T02:35:05.372Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100" class="nclicks(rig.secteco)" title="[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각">[단독]北 경비정, 15일 서해 NLL 침범…軍 경고사격 받고 퇴각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野, 세월호 참사 9주기에 "정치 무능한 탓…참사 되풀이 안 돼"]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011805710?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011805710?sid=100"/>
+        <updated>2023-04-16T03:13:35.309Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011805710?sid=100" class="nclicks(rig.secteco)" title="野, 세월호 참사 9주기에 &quot;정치 무능한 탓…참사 되풀이 안 돼&quot;">野, 세월호 참사 9주기에 "정치 무능한 탓…참사 되풀이 안 돼"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피랍됐다가 풀려난 '한국인 탑승' 선박, 코트디부아르 도착]]></title>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013882914?sid=100" class="nclicks(rig.secteco)" title="피랍됐다가 풀려난 '한국인 탑승' 선박, 코트디부아르 도착">피랍됐다가 풀려난 '한국인 탑승' 선박, 코트디부아르 도착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]北 경비정, 15일 서해 NLL 침범했다가 軍 경고사격 받고 퇴각]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003491623?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100"/>
-        <updated>2023-04-16T02:35:05.372Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003491623?sid=100" class="nclicks(rig.secteco)" title="[단독]北 경비정, 15일 서해 NLL 침범했다가 軍 경고사격 받고 퇴각">[단독]北 경비정, 15일 서해 NLL 침범했다가 軍 경고사격 받고 퇴각</a>]]></content>
+        <title type="html"><![CDATA["중국발 황사? 우리도 피해자다" 발끈…中의 적반하장]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004833166?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004833166?sid=104"/>
+        <updated>2023-04-16T03:13:35.313Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004833166?sid=104" class="nclicks(rig.secteco)" title="&quot;중국발 황사? 우리도 피해자다&quot; 발끈…中의 적반하장">"중국발 황사? 우리도 피해자다" 발끈…中의 적반하장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수단 유혈사태…군벌간 무력충돌 격화해 사상자 속출(종합)]]></title>
@@ -34,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013882846?sid=104" class="nclicks(rig.secteco)" title="수단 유혈사태…군벌간 무력충돌 격화해 사상자 속출(종합)">수단 유혈사태…군벌간 무력충돌 격화해 사상자 속출(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국, '중국발 황사' 표현에 불쾌감…"몽골에서 시작"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013882866?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013882866?sid=104"/>
-        <updated>2023-04-16T02:35:05.374Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013882866?sid=104" class="nclicks(rig.secteco)" title="중국, '중국발 황사' 표현에 불쾌감…&quot;몽골에서 시작&quot;">중국, '중국발 황사' 표현에 불쾌감…"몽골에서 시작"</a>]]></content>
+        <title type="html"><![CDATA[올 2Q 소매유통업 체감경기 전망, 1년 만에 반등]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005464813?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005464813?sid=101"/>
+        <updated>2023-04-16T03:13:35.319Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464813?sid=101" class="nclicks(rig.secteco)" title="올 2Q 소매유통업 체감경기 전망, 1년 만에 반등">올 2Q 소매유통업 체감경기 전망, 1년 만에 반등</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민 3명 중 2명 "韓美동맹 없었다면 韓경제대국 불가능"]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005464771?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005464771?sid=101"/>
+        <updated>2023-04-16T03:13:35.320Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464771?sid=101" class="nclicks(rig.secteco)" title="국민 3명 중 2명 &quot;韓美동맹 없었다면 韓경제대국 불가능&quot;">국민 3명 중 2명 "韓美동맹 없었다면 韓경제대국 불가능"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LG전자 조주완의 임원승진 비법…"상사 3명 진급시키고 따르는 후배 5명 둬라"]]></title>
@@ -46,20 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005464729?sid=101"/>
         <updated>2023-04-16T02:35:05.375Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464729?sid=101" class="nclicks(rig.secteco)" title="LG전자 조주완의 임원승진 비법…&quot;상사 3명 진급시키고 따르는 후배 5명 둬라&quot;">LG전자 조주완의 임원승진 비법…"상사 3명 진급시키고 따르는 후배 5명 둬라"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 65% "한미동맹 없이 경제대국 불가"]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002288948?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002288948?sid=101"/>
-        <updated>2023-04-16T02:35:05.376Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002288948?sid=101" class="nclicks(rig.secteco)" title="국민 65% &quot;한미동맹 없이 경제대국 불가&quot;">국민 65% "한미동맹 없이 경제대국 불가"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 전국 아파트 분양단지 60% 미달…'서울 쏠림' 심화]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013882739?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013882739?sid=101"/>
-        <updated>2023-04-16T01:05:48.451Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013882739?sid=101" class="nclicks(rig.secteco)" title="1분기 전국 아파트 분양단지 60% 미달…'서울 쏠림' 심화">1분기 전국 아파트 분양단지 60% 미달…'서울 쏠림' 심화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구독 대신 광고 택한 LG U+…'LG 채널'에 콘텐츠 서비스]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002794845?sid=105" class="nclicks(rig.secteco)" title="`갤워치5`로 체성분 측정하고 맞춤형 식품 구매…삼성, `헬스 콜라보 프로젝트` 진행">`갤워치5`로 체성분 측정하고 맞춤형 식품 구매…삼성, `헬스 콜라보 프로젝트` 진행</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국 안전대전환…서울시 60일간 2389곳 집중점검]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006750018?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006750018?sid=102"/>
-        <updated>2023-04-16T02:35:05.379Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006750018?sid=102" class="nclicks(rig.secteco)" title="대한민국 안전대전환…서울시 60일간 2389곳 집중점검">대한민국 안전대전환…서울시 60일간 2389곳 집중점검</a>]]></content>
+        <title type="html"><![CDATA[서울시 ‘2023 집중 안전점검’···다중이용시설, 노후건물 등 2389곳 점검]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003217529?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003217529?sid=102"/>
+        <updated>2023-04-16T03:13:35.339Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003217529?sid=102" class="nclicks(rig.secteco)" title="서울시 ‘2023 집중 안전점검’···다중이용시설, 노후건물 등 2389곳 점검">서울시 ‘2023 집중 안전점검’···다중이용시설, 노후건물 등 2389곳 점검</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경찰, 모텔·보도방 연계 성매매 알선 50명 적발…49명 송치]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464727?sid=102" class="nclicks(rig.secteco)" title="경찰, 모텔·보도방 연계 성매매 알선 50명 적발…49명 송치">경찰, 모텔·보도방 연계 성매매 알선 50명 적발…49명 송치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이근 제안에” 참전하러 우크라 간 30대가 선고받은 벌금 액수]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003354014?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003354014?sid=102"/>
-        <updated>2023-04-16T02:35:05.381Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003354014?sid=102" class="nclicks(rig.secteco)" title="“이근 제안에” 참전하러 우크라 간 30대가 선고받은 벌금 액수">“이근 제안에” 참전하러 우크라 간 30대가 선고받은 벌금 액수</a>]]></content>
+        <title type="html"><![CDATA[“정부 대책 실망” 유서 남기고…인천 ‘건축왕’ 피해자 또 숨져]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002635924?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002635924?sid=102"/>
+        <updated>2023-04-16T03:13:35.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002635924?sid=102" class="nclicks(rig.secteco)" title="“정부 대책 실망” 유서 남기고…인천 ‘건축왕’ 피해자 또 숨져">“정부 대책 실망” 유서 남기고…인천 ‘건축왕’ 피해자 또 숨져</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘한국 원조 3대 테너’ 신영조 교수 별세]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005464753?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005464753?sid=103"/>
-        <updated>2023-04-16T02:35:05.383Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005464753?sid=103" class="nclicks(rig.secteco)" title="‘한국 원조 3대 테너’ 신영조 교수 별세">‘한국 원조 3대 테너’ 신영조 교수 별세</a>]]></content>
+        <title type="html"><![CDATA[‘산노을’을 부른 성악가 신영조 별세]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002635925?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002635925?sid=103"/>
+        <updated>2023-04-16T03:13:35.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002635925?sid=103" class="nclicks(rig.secteco)" title="‘산노을’을 부른 성악가 신영조 별세">‘산노을’을 부른 성악가 신영조 별세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흐리고 곳곳 비…외출할 때 마스크 쓰세요!]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000331751?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000331751?sid=103"/>
-        <updated>2023-04-16T02:35:05.384Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000331751?sid=103" class="nclicks(rig.secteco)" title="흐리고 곳곳 비…외출할 때 마스크 쓰세요!">흐리고 곳곳 비…외출할 때 마스크 쓰세요!</a>]]></content>
+        <title type="html"><![CDATA[전국 곳곳에 비…수도권 미세먼지 ‘매우나쁨’]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000247774?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000247774?sid=103"/>
+        <updated>2023-04-16T03:13:35.342Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000247774?sid=103" class="nclicks(rig.secteco)" title="전국 곳곳에 비…수도권 미세먼지 ‘매우나쁨’">전국 곳곳에 비…수도권 미세먼지 ‘매우나쁨’</a>]]></content>
     </entry>
 </feed>
