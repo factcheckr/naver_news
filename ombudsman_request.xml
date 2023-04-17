@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-04-17T06:17:59.535Z</updated>
+    <updated>2023-04-17T07:13:40.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['갑질 의혹' 파출소장 전임지에서도 감찰내사]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002387618</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002387618"/>
+        <updated>2023-04-17T07:13:25.521Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '간부들의 무덤' 광주 동부경찰서에서 또 '갑질 의혹']]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002387136</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002387136"/>
+        <updated>2023-04-17T07:13:25.522Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법정 가득 메운 안정권 지지자들…보석심리만 진행(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006402451</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003524749"/>
         <updated>2022-11-16T17:21:37.941Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현직 국회의원 비서관의 배우자 “남편 가정폭력에 인생 망가져”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003004567</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003004567"/>
-        <updated>2022-11-16T17:21:37.949Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 국회의원의 비서관, 가정폭력 혐의 등으로 경찰에 입건]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000488835</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000488835"/>
-        <updated>2022-11-16T17:21:37.950Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
