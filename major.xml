@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-18T05:13:14.699Z</updated>
+    <updated>2023-04-18T06:17:53.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]尹대통령, 전세사기 대책으로 ‘경매 절차 중단’ 지시]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003492085?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003492085?sid=100"/>
+        <updated>2023-04-18T06:17:25.100Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003492085?sid=100" class="nclicks(rig.secteco)" title="[단독]尹대통령, 전세사기 대책으로 ‘경매 절차 중단’ 지시">[단독]尹대통령, 전세사기 대책으로 ‘경매 절차 중단’ 지시</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "미래세대 착취 근절"…재정부터 마약까지 단호]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004876371?sid=100</id>
@@ -13,25 +20,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004876371?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;미래세대 착취 근절&quot;…재정부터 마약까지 단호">尹대통령 "미래세대 착취 근절"…재정부터 마약까지 단호</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["인천 전세사기 60%가 경매 넘어갔다"…대책위, 경매 중지 시급]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011809844?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011809844?sid=100"/>
-        <updated>2023-04-18T05:12:43.117Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011809844?sid=100" class="nclicks(rig.secteco)" title="&quot;인천 전세사기 60%가 경매 넘어갔다&quot;…대책위, 경매 중지 시급">"인천 전세사기 60%가 경매 넘어갔다"…대책위, 경매 중지 시급</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마약하면 반드시 처벌" 범정부 마약퇴치 역량 총집결]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0004998682?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0004998682?sid=100"/>
-        <updated>2023-04-18T05:12:43.120Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0004998682?sid=100" class="nclicks(rig.secteco)" title="&quot;마약하면 반드시 처벌&quot; 범정부 마약퇴치 역량 총집결">"마약하면 반드시 처벌" 범정부 마약퇴치 역량 총집결</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기시다에 폭발물 던진 용의자, '연령 제한' 선거제도에 불만]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002389218?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002389218?sid=104"/>
-        <updated>2023-04-18T05:12:43.120Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002389218?sid=104" class="nclicks(rig.secteco)" title="기시다에 폭발물 던진 용의자, '연령 제한' 선거제도에 불만">기시다에 폭발물 던진 용의자, '연령 제한' 선거제도에 불만</a>]]></content>
+        <title type="html"><![CDATA[윤석열 대통령 “마약과의 전쟁 반드시 승리”···마약과의 전면전 선포]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003218036?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003218036?sid=100"/>
+        <updated>2023-04-18T06:17:25.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218036?sid=100" class="nclicks(rig.secteco)" title="윤석열 대통령 “마약과의 전쟁 반드시 승리”···마약과의 전면전 선포">윤석열 대통령 “마약과의 전쟁 반드시 승리”···마약과의 전면전 선포</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국 1분기 경제성장률 4.5%…'위드코로나 효과'로 전망치 상회(종합2보)]]></title>
@@ -41,25 +34,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013887523?sid=104" class="nclicks(rig.secteco)" title="중국 1분기 경제성장률 4.5%…'위드코로나 효과'로 전망치 상회(종합2보)">중국 1분기 경제성장률 4.5%…'위드코로나 효과'로 전망치 상회(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 전기차 보조금서 '쏙' 빠진 현대차·기아…돌파구는?]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003760546?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003760546?sid=101"/>
-        <updated>2023-04-18T05:12:43.120Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003760546?sid=101" class="nclicks(rig.secteco)" title="美 전기차 보조금서 '쏙' 빠진 현대차·기아…돌파구는?">美 전기차 보조금서 '쏙' 빠진 현대차·기아…돌파구는?</a>]]></content>
+        <title type="html"><![CDATA[日폭탄테러범 "아베 국장 강행 용서 못해"…기시다에 불만(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011810072?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011810072?sid=104"/>
+        <updated>2023-04-18T06:17:25.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011810072?sid=104" class="nclicks(rig.secteco)" title="日폭탄테러범 &quot;아베 국장 강행 용서 못해&quot;…기시다에 불만(종합)">日폭탄테러범 "아베 국장 강행 용서 못해"…기시다에 불만(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['시즌2' 여는 카카오뱅크…윤호영 "포용 혁신 위한 노력 지속"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000212317?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000212317?sid=101"/>
-        <updated>2023-04-18T04:15:34.473Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000212317?sid=101" class="nclicks(rig.secteco)" title="'시즌2' 여는 카카오뱅크…윤호영 &quot;포용 혁신 위한 노력 지속&quot;">'시즌2' 여는 카카오뱅크…윤호영 "포용 혁신 위한 노력 지속"</a>]]></content>
+        <title type="html"><![CDATA[브레이크 걸린 현대차의 전기차 드라이브…尹대통령 해법 있나]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000056199?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000056199?sid=101"/>
+        <updated>2023-04-18T06:17:25.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000056199?sid=101" class="nclicks(rig.secteco)" title="브레이크 걸린 현대차의 전기차 드라이브…尹대통령 해법 있나">브레이크 걸린 현대차의 전기차 드라이브…尹대통령 해법 있나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년 실손보험 적자 1조5천억원…과잉진료 방지대책에 손익 개선]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013887468?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013887468?sid=101"/>
-        <updated>2023-04-18T05:12:43.127Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013887468?sid=101" class="nclicks(rig.secteco)" title="작년 실손보험 적자 1조5천억원…과잉진료 방지대책에 손익 개선">작년 실손보험 적자 1조5천억원…과잉진료 방지대책에 손익 개선</a>]]></content>
+        <title type="html"><![CDATA["이런 적금 기다렸다"…첫 날부터 트위터 달군 카뱅 '최애적금']]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000043499?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000043499?sid=101"/>
+        <updated>2023-04-18T06:17:25.101Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043499?sid=101" class="nclicks(rig.secteco)" title="&quot;이런 적금 기다렸다&quot;…첫 날부터 트위터 달군 카뱅 '최애적금'">"이런 적금 기다렸다"…첫 날부터 트위터 달군 카뱅 '최애적금'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[근로자 5명 중 1명 월급 400만원↑…200만원 미만은 23% '역대 최저']]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006754256?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006754256?sid=101"/>
+        <updated>2023-04-18T06:17:25.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006754256?sid=101" class="nclicks(rig.secteco)" title="근로자 5명 중 1명 월급 400만원↑…200만원 미만은 23% '역대 최저'">근로자 5명 중 1명 월급 400만원↑…200만원 미만은 23% '역대 최저'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KT클라우드 "리벨리온 AI칩 5월 말 적용…초거대AI 비용 절감 효과"]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000741475?sid=105" class="nclicks(rig.secteco)" title="KT클라우드 &quot;리벨리온 AI칩 5월 말 적용…초거대AI 비용 절감 효과&quot;">KT클라우드 "리벨리온 AI칩 5월 말 적용…초거대AI 비용 절감 효과"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경북도-구글 클라우드, 글로벌 인공지능 인재 양성 '맞손']]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000809468?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000809468?sid=105"/>
-        <updated>2023-04-18T05:12:43.128Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000809468?sid=105" class="nclicks(rig.secteco)" title="경북도-구글 클라우드, 글로벌 인공지능 인재 양성 '맞손'">경북도-구글 클라우드, 글로벌 인공지능 인재 양성 '맞손'</a>]]></content>
+        <title type="html"><![CDATA[정부, 이음5G 융합 사업 공모…'28GHz' 뺏긴 통신 3사는 제외]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005247189?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005247189?sid=105"/>
+        <updated>2023-04-18T06:17:25.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005247189?sid=105" class="nclicks(rig.secteco)" title="정부, 이음5G 융합 사업 공모…'28GHz' 뺏긴 통신 3사는 제외">정부, 이음5G 융합 사업 공모…'28GHz' 뺏긴 통신 3사는 제외</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지옥철 '김포골드라인'에 BRT 투입…김포한강로~올림픽대로(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006754461?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006754461?sid=102"/>
-        <updated>2023-04-18T05:12:43.130Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006754461?sid=102" class="nclicks(rig.secteco)" title="지옥철 '김포골드라인'에 BRT 투입…김포한강로~올림픽대로(종합)">지옥철 '김포골드라인'에 BRT 투입…김포한강로~올림픽대로(종합)</a>]]></content>
+        <title type="html"><![CDATA[[속보] 해외 안 나간 3명 또 엠폭스 확진...11일 새 환자 11명 발생]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000734713?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000734713?sid=102"/>
+        <updated>2023-04-18T06:17:25.104Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000734713?sid=102" class="nclicks(rig.secteco)" title="[속보] 해외 안 나간 3명 또 엠폭스 확진...11일 새 환자 11명 발생">[속보] 해외 안 나간 3명 또 엠폭스 확진...11일 새 환자 11명 발생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부경대 '2023년 캠퍼스혁신파크 사업' 선정]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003760552?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003760552?sid=102"/>
-        <updated>2023-04-18T05:12:43.136Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003760552?sid=102" class="nclicks(rig.secteco)" title="부경대 '2023년 캠퍼스혁신파크 사업' 선정">부경대 '2023년 캠퍼스혁신파크 사업' 선정</a>]]></content>
+        <title type="html"><![CDATA[김포골드라인 ‘긴급재해’ 지정됐다…전세버스·수요응답버스 조기 투입]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000894475?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000894475?sid=102"/>
+        <updated>2023-04-18T06:17:25.110Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000894475?sid=102" class="nclicks(rig.secteco)" title="김포골드라인 ‘긴급재해’ 지정됐다…전세버스·수요응답버스 조기 투입">김포골드라인 ‘긴급재해’ 지정됐다…전세버스·수요응답버스 조기 투입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘제주공항에 폭탄 설치’ 거짓 사진 전파...범인은 수학여행 고교생]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758459?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758459?sid=102"/>
-        <updated>2023-04-18T05:12:43.137Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758459?sid=102" class="nclicks(rig.secteco)" title="‘제주공항에 폭탄 설치’ 거짓 사진 전파...범인은 수학여행 고교생">‘제주공항에 폭탄 설치’ 거짓 사진 전파...범인은 수학여행 고교생</a>]]></content>
+        <title type="html"><![CDATA[[단독]'전세사기' 주거지원 고작 9건…"내가 될까요" 포기하는 사람들]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004876415?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004876415?sid=102"/>
+        <updated>2023-04-18T06:17:25.111Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004876415?sid=102" class="nclicks(rig.secteco)" title="[단독]'전세사기' 주거지원 고작 9건…&quot;내가 될까요&quot; 포기하는 사람들">[단독]'전세사기' 주거지원 고작 9건…"내가 될까요" 포기하는 사람들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차·기아, '고성능+전기차'로 中시장 재도전]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005247093?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005247093?sid=103"/>
-        <updated>2023-04-18T04:15:34.489Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005247093?sid=103" class="nclicks(rig.secteco)" title="현대차·기아, '고성능+전기차'로 中시장 재도전">현대차·기아, '고성능+전기차'로 中시장 재도전</a>]]></content>
+        <title type="html"><![CDATA[현대차·기아, 中 시장 재도약 카드로 ‘고성능’·‘전기차’]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005466473?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005466473?sid=103"/>
+        <updated>2023-04-18T06:17:25.112Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005466473?sid=103" class="nclicks(rig.secteco)" title="현대차·기아, 中 시장 재도약 카드로 ‘고성능’·‘전기차’">현대차·기아, 中 시장 재도약 카드로 ‘고성능’·‘전기차’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기아 EV5 콘셉트 실제로 보니...스위블링 시트가 핵심 [2023 상하이오토쇼]]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000043498?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000043498?sid=103"/>
-        <updated>2023-04-18T05:12:43.139Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043498?sid=103" class="nclicks(rig.secteco)" title="기아 EV5 콘셉트 실제로 보니...스위블링 시트가 핵심 [2023 상하이오토쇼]">기아 EV5 콘셉트 실제로 보니...스위블링 시트가 핵심 [2023 상하이오토쇼]</a>]]></content>
+        <title type="html"><![CDATA[오영수 문학상에 정지아 작가 '말의 온도']]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000734722?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000734722?sid=103"/>
+        <updated>2023-04-18T06:17:25.113Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000734722?sid=103" class="nclicks(rig.secteco)" title="오영수 문학상에 정지아 작가 '말의 온도'">오영수 문학상에 정지아 작가 '말의 온도'</a>]]></content>
     </entry>
 </feed>
