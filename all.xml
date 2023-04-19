@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-19T19:11:12.826Z</updated>
+    <updated>2023-04-19T20:14:45.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[“피로 지킨 민주주의, 사기꾼에 농락당해선 안 돼” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758857?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758857?sid=100"/>
-        <updated>2023-04-19T18:16:57.315Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758857?sid=100" class="nclicks(rig.secteco)" title="“피로 지킨 민주주의, 사기꾼에 농락당해선 안 돼”">“피로 지킨 민주주의, 사기꾼에 농락당해선 안 돼”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北 “군사정찰위성 완성… 계획된 시일 내에 발사” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758849?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758849?sid=100"/>
-        <updated>2023-04-19T18:16:57.319Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758849?sid=100" class="nclicks(rig.secteco)" title="北 “군사정찰위성 완성… 계획된 시일 내에 발사”">北 “군사정찰위성 완성… 계획된 시일 내에 발사”</a>]]></content>
+        <title type="html"><![CDATA[尹 “피로 지켜낸 자유·민주주의, 사기꾼에 농락 당해선 안돼” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001602551?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001602551?sid=100"/>
+        <updated>2023-04-19T20:14:16.888Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001602551?sid=100" class="nclicks(rig.secteco)" title="尹 “피로 지켜낸 자유·민주주의, 사기꾼에 농락 당해선 안돼”">尹 “피로 지켜낸 자유·민주주의, 사기꾼에 농락 당해선 안돼”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,11 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003804361?sid=100" class="nclicks(rig.secteco)" title="[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈">[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹 ‘우크라 무기지원’ 가능성 시사… 러 “전쟁 개입” 반발 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003492425?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003492425?sid=104"/>
-        <updated>2023-04-19T18:16:57.321Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003492425?sid=104" class="nclicks(rig.secteco)" title="尹 ‘우크라 무기지원’ 가능성 시사… 러 “전쟁 개입” 반발">尹 ‘우크라 무기지원’ 가능성 시사… 러 “전쟁 개입” 반발</a>]]></content>
+        <title type="html"><![CDATA[김정은 "계획대로 발사하라"…尹·바이든 정상회담 맞춰 쏘나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003274232?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003274232?sid=100"/>
+        <updated>2023-04-19T20:14:16.894Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274232?sid=100" class="nclicks(rig.secteco)" title="김정은 &quot;계획대로 발사하라&quot;…尹·바이든 정상회담 맞춰 쏘나">김정은 "계획대로 발사하라"…尹·바이든 정상회담 맞춰 쏘나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹, 우크라 무기지원 가능성 시사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001602602?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001602602?sid=104"/>
+        <updated>2023-04-19T20:14:16.896Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001602602?sid=104" class="nclicks(rig.secteco)" title="尹, 우크라 무기지원 가능성 시사">尹, 우크라 무기지원 가능성 시사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국, '21명 사망' 병원 화재 영상 삭제…검색어도 사라져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -61,13 +61,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758863?sid=101" class="nclicks(rig.secteco)" title="뒤늦게 나선 여당 “전세 사기 피해자에 주택 우선매수권 검토”">뒤늦게 나선 여당 “전세 사기 피해자에 주택 우선매수권 검토”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003804283?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003804283?sid=105"/>
-        <updated>2023-04-19T15:13:52.228Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003804283?sid=105" class="nclicks(rig.secteco)" title="‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작">‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/293/0000043539?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105"/>
@@ -75,11 +68,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105" class="nclicks(rig.secteco)" title="입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]">입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘돈봉투 조달 혐의’ 강래구 영장 청구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758866?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758866?sid=102"/>
-        <updated>2023-04-19T19:10:42.893Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758866?sid=102" class="nclicks(rig.secteco)" title="‘돈봉투 조달 혐의’ 강래구 영장 청구">‘돈봉투 조달 혐의’ 강래구 영장 청구</a>]]></content>
+        <title type="html"><![CDATA[333억 벌고 떠나나 했더니…사흘만에 "컴백" 돌변한 누누티비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003274026?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003274026?sid=105"/>
+        <updated>2023-04-19T20:14:16.907Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274026?sid=105" class="nclicks(rig.secteco)" title="333억 벌고 떠나나 했더니…사흘만에 &quot;컴백&quot; 돌변한 누누티비">333억 벌고 떠나나 했더니…사흘만에 "컴백" 돌변한 누누티비</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['민주당 돈 봉투' 강래구 구속영장...9,400만 원 살포 혐의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001875446?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001875446?sid=102"/>
+        <updated>2023-04-19T20:14:16.909Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001875446?sid=102" class="nclicks(rig.secteco)" title="'민주당 돈 봉투' 강래구 구속영장...9,400만 원 살포 혐의">'민주당 돈 봉투' 강래구 구속영장...9,400만 원 살포 혐의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 삼성전자, 동탄 250채 '전세 사기' 피해직원 조사 나섰다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -103,11 +103,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274311?sid=103" class="nclicks(rig.secteco)" title="챗GPT가 겁나는 건, 인간만이 해온 &quot;이야기&quot;를 만들기 때문">챗GPT가 겁나는 건, 인간만이 해온 "이야기"를 만들기 때문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘청와대, 세계인의 버킷리스트로’ K-관광 랜드마크 선포식 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758846?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758846?sid=103"/>
-        <updated>2023-04-19T18:16:57.339Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758846?sid=103" class="nclicks(rig.secteco)" title="‘청와대, 세계인의 버킷리스트로’ K-관광 랜드마크 선포식">‘청와대, 세계인의 버킷리스트로’ K-관광 랜드마크 선포식</a>]]></content>
+        <title type="html"><![CDATA[청와대, K-관광 랜드마크 선포…박보균 "세계인 버킷리스트로"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011812272?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011812272?sid=103"/>
+        <updated>2023-04-19T20:14:16.921Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011812272?sid=103" class="nclicks(rig.secteco)" title="청와대, K-관광 랜드마크 선포…박보균 &quot;세계인 버킷리스트로&quot;(종합)">청와대, K-관광 랜드마크 선포…박보균 "세계인 버킷리스트로"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
