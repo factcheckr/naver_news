@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-19T14:13:30.254Z</updated>
+    <updated>2023-04-19T15:14:21.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[`사기꾼`·`돈으로 매수`… 尹, 4·19 기념식서 강경발언]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002795752?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002795752?sid=100"/>
-        <updated>2023-04-19T14:13:00.960Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002795752?sid=100" class="nclicks(rig.secteco)" title="`사기꾼`·`돈으로 매수`… 尹, 4·19 기념식서 강경발언">`사기꾼`·`돈으로 매수`… 尹, 4·19 기념식서 강경발언</a>]]></content>
+        <title type="html"><![CDATA['산토끼 잡자'...尹대통령·김기현, 4·19 기념식 총출동]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002704500?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002704500?sid=100"/>
+        <updated>2023-04-19T15:13:52.224Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002704500?sid=100" class="nclicks(rig.secteco)" title="'산토끼 잡자'...尹대통령·김기현, 4·19 기념식 총출동">'산토끼 잡자'...尹대통령·김기현, 4·19 기념식 총출동</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003804361?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003804361?sid=100"/>
+        <updated>2023-04-19T15:13:52.224Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003804361?sid=100" class="nclicks(rig.secteco)" title="[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈">[단독] 한·미 항공우주분야도 맞손… ‘첨단기술 협력’ 세일즈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김정은 "계획대로 발사하라"…尹·바이든 정상회담 맞춰 쏘나]]></title>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274232?sid=100" class="nclicks(rig.secteco)" title="김정은 &quot;계획대로 발사하라&quot;…尹·바이든 정상회담 맞춰 쏘나">김정은 "계획대로 발사하라"…尹·바이든 정상회담 맞춰 쏘나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['1호 영업사원' 尹대통령, 이재용 등 122명 기업인과 美국빈방문]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004877108?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004877108?sid=100"/>
-        <updated>2023-04-19T14:13:00.964Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004877108?sid=100" class="nclicks(rig.secteco)" title="'1호 영업사원' 尹대통령, 이재용 등 122명 기업인과 美국빈방문">'1호 영업사원' 尹대통령, 이재용 등 122명 기업인과 美국빈방문</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[尹 '우크라 무기지원' 가능성 시사, 러 '전쟁개입' 반발…관계급랭(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006758364?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006758364?sid=104"/>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006758364?sid=104" class="nclicks(rig.secteco)" title="尹 '우크라 무기지원' 가능성 시사, 러 '전쟁개입' 반발…관계급랭(종합)">尹 '우크라 무기지원' 가능성 시사, 러 '전쟁개입' 반발…관계급랭(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29명 숨진 병원 화재…中 당국, SNS서 영상·글 삭제한 듯]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000405566?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000405566?sid=104"/>
-        <updated>2023-04-19T13:18:03.798Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000405566?sid=104" class="nclicks(rig.secteco)" title="29명 숨진 병원 화재…中 당국, SNS서 영상·글 삭제한 듯">29명 숨진 병원 화재…中 당국, SNS서 영상·글 삭제한 듯</a>]]></content>
+        <title type="html"><![CDATA[중국, '21명 사망' 병원 화재 영상 삭제…검색어도 사라져]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013889614?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013889614?sid=104"/>
+        <updated>2023-04-19T15:13:52.226Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013889614?sid=104" class="nclicks(rig.secteco)" title="중국, '21명 사망' 병원 화재 영상 삭제…검색어도 사라져">중국, '21명 사망' 병원 화재 영상 삭제…검색어도 사라져</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]“전세사기 주택 2083채 경매 넘어가”]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003492165?sid=101" class="nclicks(rig.secteco)" title="[단독]“전세사기 주택 2083채 경매 넘어가”">[단독]“전세사기 주택 2083채 경매 넘어가”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['2차전지' 뜨거운 포스코, 광양에 4.4조 베팅]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001096559?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001096559?sid=101"/>
-        <updated>2023-04-19T14:13:00.965Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001096559?sid=101" class="nclicks(rig.secteco)" title="'2차전지' 뜨거운 포스코, 광양에 4.4조 베팅">'2차전지' 뜨거운 포스코, 광양에 4.4조 베팅</a>]]></content>
+        <title type="html"><![CDATA[포스코, 놀리던 땅에 4.4조 투자…'광양 동호안' 천지개벽한다]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004834932?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004834932?sid=101"/>
+        <updated>2023-04-19T15:13:52.226Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004834932?sid=101" class="nclicks(rig.secteco)" title="포스코, 놀리던 땅에 4.4조 투자…'광양 동호안' 천지개벽한다">포스코, 놀리던 땅에 4.4조 투자…'광양 동호안' 천지개벽한다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원희룡 “전세사기 주택 경매유예·소송비 지원…공공매입은 어렵다”[부동산360]]]></title>
@@ -62,18 +62,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002132660?sid=101" class="nclicks(rig.secteco)" title="원희룡 “전세사기 주택 경매유예·소송비 지원…공공매입은 어렵다”[부동산360]">원희룡 “전세사기 주택 경매유예·소송비 지원…공공매입은 어렵다”[부동산360]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마일게이트 권혁빈 배우자 "10조 지분중 절반 달라"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013891359?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013891359?sid=105"/>
-        <updated>2023-04-19T11:11:25.596Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013891359?sid=105" class="nclicks(rig.secteco)" title="스마일게이트 권혁빈 배우자 &quot;10조 지분중 절반 달라&quot;(종합)">스마일게이트 권혁빈 배우자 "10조 지분중 절반 달라"(종합)</a>]]></content>
+        <title type="html"><![CDATA[‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003804283?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003804283?sid=105"/>
+        <updated>2023-04-19T15:13:52.228Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003804283?sid=105" class="nclicks(rig.secteco)" title="‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작">‘국내 5위 부호’ 스마일게이트 권혁빈, 10조원대 이혼 소송 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000043539?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105"/>
-        <updated>2023-04-19T13:18:03.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105" class="nclicks(rig.secteco)" title="입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]">입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]</a>]]></content>
+        <title type="html"><![CDATA[333억 벌고 떠나나 했더니…사흘만에 "컴백" 돌변한 누누티비]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003274026?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003274026?sid=105"/>
+        <updated>2023-04-19T15:13:52.229Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274026?sid=105" class="nclicks(rig.secteco)" title="333억 벌고 떠나나 했더니…사흘만에 &quot;컴백&quot; 돌변한 누누티비">333억 벌고 떠나나 했더니…사흘만에 "컴백" 돌변한 누누티비</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돈봉투 조달책' 강래구 2차소환…檢, 구속영장 검토(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013891566?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013891566?sid=102"/>
+        <updated>2023-04-19T15:13:52.230Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013891566?sid=102" class="nclicks(rig.secteco)" title="'돈봉투 조달책' 강래구 2차소환…檢, 구속영장 검토(종합2보)">'돈봉투 조달책' 강래구 2차소환…檢, 구속영장 검토(종합2보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미추홀 전세사기 대책도 벅찬데…이번엔 동탄 오피스텔 '쑥대밭']]></title>
@@ -83,18 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005119051?sid=102" class="nclicks(rig.secteco)" title="미추홀 전세사기 대책도 벅찬데…이번엔 동탄 오피스텔 '쑥대밭'">미추홀 전세사기 대책도 벅찬데…이번엔 동탄 오피스텔 '쑥대밭'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[창원 시내버스 노조 `파업 철회`…20일 첫 차부터 정상운행]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005467576?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005467576?sid=102"/>
-        <updated>2023-04-19T14:13:00.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005467576?sid=102" class="nclicks(rig.secteco)" title="창원 시내버스 노조 `파업 철회`…20일 첫 차부터 정상운행">창원 시내버스 노조 `파업 철회`…20일 첫 차부터 정상운행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이불로 싸매서 환자들 탈출시켜"…긴박했던 요양병원 화재(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013891320?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013891320?sid=102"/>
-        <updated>2023-04-19T14:13:00.968Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013891320?sid=102" class="nclicks(rig.secteco)" title="&quot;이불로 싸매서 환자들 탈출시켜&quot;…긴박했던 요양병원 화재(종합)">"이불로 싸매서 환자들 탈출시켜"…긴박했던 요양병원 화재(종합)</a>]]></content>
+        <title type="html"><![CDATA[창원 시내버스 파업 철회…내일 정상운행]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011813463?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011813463?sid=102"/>
+        <updated>2023-04-19T15:13:52.231Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011813463?sid=102" class="nclicks(rig.secteco)" title="창원 시내버스 파업 철회…내일 정상운행">창원 시내버스 파업 철회…내일 정상운행</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유발 하라리 “이야기는 인류 문명의 원천, AI에게 맡겨 둘 순 없어”]]></title>
