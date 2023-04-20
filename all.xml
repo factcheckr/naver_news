@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T04:16:23.704Z</updated>
+    <updated>2023-04-20T05:13:33.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[尹대통령, 내주 5박7일 국빈방미…26일 정상회담·27일 의회연설(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013892626?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013892626?sid=100"/>
-        <updated>2023-04-20T04:15:54.817Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013892626?sid=100" class="nclicks(rig.secteco)" title="尹대통령, 내주 5박7일 국빈방미…26일 정상회담·27일 의회연설(종합)">尹대통령, 내주 5박7일 국빈방미…26일 정상회담·27일 의회연설(종합)</a>]]></content>
+        <title type="html"><![CDATA[백악관, 한밤중에 '尹 국빈방문' 상세일정 공개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003761497?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003761497?sid=100"/>
+        <updated>2023-04-20T05:13:03.680Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003761497?sid=100" class="nclicks(rig.secteco)" title="백악관, 한밤중에 '尹 국빈방문' 상세일정 공개">백악관, 한밤중에 '尹 국빈방문' 상세일정 공개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령실 "우크라 지원, 향후 러시아 행동에 달렸다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002389489?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002389489?sid=100"/>
+        <updated>2023-04-20T05:13:03.684Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002389489?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;우크라 지원, 향후 러시아 행동에 달렸다&quot;">대통령실 "우크라 지원, 향후 러시아 행동에 달렸다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]전세사기 임차인 '경매낙찰자금' 대출 최대 2억원 지원받는다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -17,13 +24,6 @@
         <link href="https://n.news.naver.com/mnews/article/421/0006759181?sid=100"/>
         <updated>2023-04-20T04:15:54.818Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006759181?sid=100" class="nclicks(rig.secteco)" title="[단독]전세사기 임차인 '경매낙찰자금' 대출 최대 2억원 지원받는다">[단독]전세사기 임차인 '경매낙찰자금' 대출 최대 2억원 지원받는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 "尹대통령 원론적 발언…韓대응, 러시아에 달려"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013892627?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013892627?sid=100"/>
-        <updated>2023-04-20T04:15:54.820Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013892627?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;尹대통령 원론적 발언…韓대응, 러시아에 달려&quot;(종합)">대통령실 "尹대통령 원론적 발언…韓대응, 러시아에 달려"(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 우크라 무기지원 ‘낀 한국’ 딜레마…미 “철통 동맹” vs 러 “북한 괜찮나?” [월드뷰] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,11 +40,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011814626?sid=104" class="nclicks(rig.secteco)" title="9달러 받으려 아수라장…구호소 앞 예멘군중 85명 압사(영상)">9달러 받으려 아수라장…구호소 앞 예멘군중 85명 압사(영상)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002132892?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002132892?sid=101"/>
-        <updated>2023-04-20T03:13:42.300Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002132892?sid=101" class="nclicks(rig.secteco)" title="[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용">[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용</a>]]></content>
+        <title type="html"><![CDATA[금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002133047?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002133047?sid=101"/>
+        <updated>2023-04-20T04:15:54.827Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002133047?sid=101" class="nclicks(rig.secteco)" title="금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니]">금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벤처·스타트업에 10.5兆 추가 지원… 은행 벤처펀드 출자 한도 2배 확대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,32 +54,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000895120?sid=101" class="nclicks(rig.secteco)" title="벤처·스타트업에 10.5兆 추가 지원… 은행 벤처펀드 출자 한도 2배 확대">벤처·스타트업에 10.5兆 추가 지원… 은행 벤처펀드 출자 한도 2배 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002133047?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002133047?sid=101"/>
-        <updated>2023-04-20T04:15:54.827Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002133047?sid=101" class="nclicks(rig.secteco)" title="금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니]">금융당국, 전세사기 피해자 LTV·DSR 한시적 푼다…오늘부터 경매 유예도[종합][머니뭐니]</a>]]></content>
+        <title type="html"><![CDATA[[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002132892?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002132892?sid=101"/>
+        <updated>2023-04-20T03:13:42.300Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002132892?sid=101" class="nclicks(rig.secteco)" title="[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용">[단독]당국, 전세사기 피해자에 LTV·DSR 풀어준다…가계대출 규제 예외적용</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SK텔레콤, 서울대병원 손잡고 AI로 영유아 자폐 장애 조기 진단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003758904?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003758904?sid=105"/>
-        <updated>2023-04-20T04:15:54.828Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003758904?sid=105" class="nclicks(rig.secteco)" title="SK텔레콤, 서울대병원 손잡고 AI로 영유아 자폐 장애 조기 진단">SK텔레콤, 서울대병원 손잡고 AI로 영유아 자폐 장애 조기 진단</a>]]></content>
+        <title type="html"><![CDATA[입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000043539?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105"/>
+        <updated>2023-04-20T05:13:03.694Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043539?sid=105" class="nclicks(rig.secteco)" title="입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]">입소문 탄 '모두의마블2', ITU로 A3 유저까지 흡수할까 [N플레이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갤럭시워치, ‘월경 주기 예측 기능’ 추가 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003218564?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003218564?sid=105"/>
-        <updated>2023-04-20T04:15:54.829Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218564?sid=105" class="nclicks(rig.secteco)" title="갤럭시워치, ‘월경 주기 예측 기능’ 추가">갤럭시워치, ‘월경 주기 예측 기능’ 추가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한샘 등 가구업체 9년간 2.3조 짬짜미…"분양가 상승에 영향"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006759313?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006759313?sid=102"/>
-        <updated>2023-04-20T04:15:54.830Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006759313?sid=102" class="nclicks(rig.secteco)" title="한샘 등 가구업체 9년간 2.3조 짬짜미…&quot;분양가 상승에 영향&quot;(종합)">한샘 등 가구업체 9년간 2.3조 짬짜미…"분양가 상승에 영향"(종합)</a>]]></content>
+        <title type="html"><![CDATA[AI로 ‘자폐 스펙트럼 장애’ 조기진단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002132941?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002132941?sid=105"/>
+        <updated>2023-04-20T05:13:03.695Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002132941?sid=105" class="nclicks(rig.secteco)" title="AI로 ‘자폐 스펙트럼 장애’ 조기진단">AI로 ‘자폐 스펙트럼 장애’ 조기진단</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['이정근의 입' 어디까지 열릴까…'돈봉투' 수사 급물살 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -89,6 +82,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000056315?sid=102" class="nclicks(rig.secteco)" title="'이정근의 입' 어디까지 열릴까…'돈봉투' 수사 급물살">'이정근의 입' 어디까지 열릴까…'돈봉투' 수사 급물살</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[영상]"노래방에 우리 도우미 안 써?"…조선족 조직의 폭행이 시작됐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004877478?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004877478?sid=102"/>
+        <updated>2023-04-20T05:13:03.698Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004877478?sid=102" class="nclicks(rig.secteco)" title="[영상]&quot;노래방에 우리 도우미 안 써?&quot;…조선족 조직의 폭행이 시작됐다">[영상]"노래방에 우리 도우미 안 써?"…조선족 조직의 폭행이 시작됐다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[전장연, 탑승시위 재개...출근길 지하철 또 지연 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002133054?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/016/0002133054?sid=102"/>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002133054?sid=102" class="nclicks(rig.secteco)" title="전장연, 탑승시위 재개...출근길 지하철 또 지연">전장연, 탑승시위 재개...출근길 지하철 또 지연</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차, 달까지 누빈다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002567635?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002567635?sid=103"/>
-        <updated>2023-04-20T03:13:42.310Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002567635?sid=103" class="nclicks(rig.secteco)" title="현대차, 달까지 누빈다">현대차, 달까지 누빈다</a>]]></content>
+        <title type="html"><![CDATA['이젠 오빠차' 신형 쏘나타 사전계약…얼마부터? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000332422?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000332422?sid=103"/>
+        <updated>2023-04-20T05:13:03.701Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000332422?sid=103" class="nclicks(rig.secteco)" title="'이젠 오빠차' 신형 쏘나타 사전계약…얼마부터?">'이젠 오빠차' 신형 쏘나타 사전계약…얼마부터?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[티빙 ‘몸값’, 칸 시리즈 페스티벌서 각본상…한국 드라마 최초 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002636540?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002636540?sid=103"/>
-        <updated>2023-04-20T04:15:54.836Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002636540?sid=103" class="nclicks(rig.secteco)" title="티빙 ‘몸값’, 칸 시리즈 페스티벌서 각본상…한국 드라마 최초">티빙 ‘몸값’, 칸 시리즈 페스티벌서 각본상…한국 드라마 최초</a>]]></content>
+        <title type="html"><![CDATA[티빙 '몸값', 칸 국제 페스티벌 각본상 수상 쾌거…한국 최초 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002146916?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002146916?sid=103"/>
+        <updated>2023-04-20T05:13:03.702Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002146916?sid=103" class="nclicks(rig.secteco)" title="티빙 '몸값', 칸 국제 페스티벌 각본상 수상 쾌거…한국 최초">티빙 '몸값', 칸 국제 페스티벌 각본상 수상 쾌거…한국 최초</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
