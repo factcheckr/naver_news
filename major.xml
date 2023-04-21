@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-21T22:12:39.326Z</updated>
+    <updated>2023-04-21T23:12:57.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[中 외교대변인에 외교부장까지… 尹 겨냥 “대만 문제, 불장난 말라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/123/0002303307?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/123/0002303307?sid=100"/>
-        <updated>2023-04-21T22:12:09.460Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002303307?sid=100" class="nclicks(rig.secteco)" title="中 외교대변인에 외교부장까지… 尹 겨냥 “대만 문제, 불장난 말라”">中 외교대변인에 외교부장까지… 尹 겨냥 “대만 문제, 불장난 말라”</a>]]></content>
+        <title type="html"><![CDATA[중국, 尹대통령 방미 앞 "대만 갖고 불장난 마라" 경고…한미 동시 겨냥]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006763044?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006763044?sid=100"/>
+        <updated>2023-04-21T23:12:24.180Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006763044?sid=100" class="nclicks(rig.secteco)" title="중국, 尹대통령 방미 앞 &quot;대만 갖고 불장난 마라&quot; 경고…한미 동시 겨냥">중국, 尹대통령 방미 앞 "대만 갖고 불장난 마라" 경고…한미 동시 겨냥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필로폰 한 방이 피자 한 판 값?···마약, 왜 싸졌을까]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004878215?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004878215?sid=100"/>
+        <updated>2023-04-21T23:12:24.181Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004878215?sid=100" class="nclicks(rig.secteco)" title="필로폰 한 방이 피자 한 판 값?···마약, 왜 싸졌을까">필로폰 한 방이 피자 한 판 값?···마약, 왜 싸졌을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정부, '무력 충돌' 수단 체류 우리 국민 철수에 군 수송기·병력 투입키로]]></title>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000965818?sid=100" class="nclicks(rig.secteco)" title="정부, '무력 충돌' 수단 체류 우리 국민 철수에 군 수송기·병력 투입키로">정부, '무력 충돌' 수단 체류 우리 국민 철수에 군 수송기·병력 투입키로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈 “‘돈 봉투’ 檢 수사가 정치 탄압? 승부 조작 수사는 스포츠 탄압인가”]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002796169?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002796169?sid=100"/>
-        <updated>2023-04-21T21:11:31.183Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002796169?sid=100" class="nclicks(rig.secteco)" title="한동훈 “‘돈 봉투’ 檢 수사가 정치 탄압? 승부 조작 수사는 스포츠 탄압인가”">한동훈 “‘돈 봉투’ 檢 수사가 정치 탄압? 승부 조작 수사는 스포츠 탄압인가”</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기시다 일 총리, 야스쿠니에 공물... 의원 90여명 집단참배]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002389663?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002389663?sid=104"/>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002389663?sid=104" class="nclicks(rig.secteco)" title="기시다 일 총리, 야스쿠니에 공물... 의원 90여명 집단참배">기시다 일 총리, 야스쿠니에 공물... 의원 90여명 집단참배</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["G7, 러시아 전면 수출 금지 검토"...다음달 정상회의서 다룬다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003274858?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003274858?sid=104"/>
-        <updated>2023-04-21T21:11:31.186Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274858?sid=104" class="nclicks(rig.secteco)" title="&quot;G7, 러시아 전면 수출 금지 검토&quot;...다음달 정상회의서 다룬다">"G7, 러시아 전면 수출 금지 검토"...다음달 정상회의서 다룬다</a>]]></content>
+        <title type="html"><![CDATA[권도형, 몬테네그로서 구금 연장‥5월 11일 재판]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001268083?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001268083?sid=104"/>
+        <updated>2023-04-21T23:12:24.184Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001268083?sid=104" class="nclicks(rig.secteco)" title="권도형, 몬테네그로서 구금 연장‥5월 11일 재판">권도형, 몬테네그로서 구금 연장‥5월 11일 재판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우선매수권·저리대출 효과 '미미'…공공매입, 근본 해결책 될까]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002705388?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002705388?sid=101"/>
-        <updated>2023-04-21T22:12:09.470Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002705388?sid=101" class="nclicks(rig.secteco)" title="우선매수권·저리대출 효과 '미미'…공공매입, 근본 해결책 될까">우선매수권·저리대출 효과 '미미'…공공매입, 근본 해결책 될까</a>]]></content>
+        <title type="html"><![CDATA[피해 주택 LH가 매입‥하루 만에 입장 선회]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001268078?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001268078?sid=101"/>
+        <updated>2023-04-21T23:12:24.185Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001268078?sid=101" class="nclicks(rig.secteco)" title="피해 주택 LH가 매입‥하루 만에 입장 선회">피해 주택 LH가 매입‥하루 만에 입장 선회</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전세사기 비극…은행들 "피해자 돕겠다" 이자감면 꺼낸 배경엔]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896185?sid=102" class="nclicks(rig.secteco)" title="러시아 어선 화재 13시간 만에 진화…선원 4명 사망(종합)">러시아 어선 화재 13시간 만에 진화…선원 4명 사망(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 측근 정진상, '전자장치 부착' 조건 석방…보석 인용]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011816845?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011816845?sid=102"/>
-        <updated>2023-04-21T22:12:09.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011816845?sid=102" class="nclicks(rig.secteco)" title="이재명 측근 정진상, '전자장치 부착' 조건 석방…보석 인용">이재명 측근 정진상, '전자장치 부착' 조건 석방…보석 인용</a>]]></content>
+        <title type="html"><![CDATA[이재명 측근 정진상, 5개월 만에 '전자장치 석방'…재판부 속내는]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011817958?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011817958?sid=102"/>
+        <updated>2023-04-21T23:12:24.192Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011817958?sid=102" class="nclicks(rig.secteco)" title="이재명 측근 정진상, 5개월 만에 '전자장치 석방'…재판부 속내는">이재명 측근 정진상, 5개월 만에 '전자장치 석방'…재판부 속내는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황사 영향권, 미세먼지 '나쁨'…아침 쌀쌀[오늘날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011817899?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011817899?sid=103"/>
-        <updated>2023-04-21T22:12:09.490Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011817899?sid=103" class="nclicks(rig.secteco)" title="황사 영향권, 미세먼지 '나쁨'…아침 쌀쌀[오늘날씨]">황사 영향권, 미세먼지 '나쁨'…아침 쌀쌀[오늘날씨]</a>]]></content>
+        <title type="html"><![CDATA[주말 또 황사…22일 전국 미세먼지 '나쁨' 수준]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000810260?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000810260?sid=103"/>
+        <updated>2023-04-21T23:12:24.194Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000810260?sid=103" class="nclicks(rig.secteco)" title="주말 또 황사…22일 전국 미세먼지 '나쁨' 수준">주말 또 황사…22일 전국 미세먼지 '나쁨' 수준</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[황사 유입 내일도 마스크 필요…낮동안 포근한 봄날씨]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003762216?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003762216?sid=103"/>
-        <updated>2023-04-21T17:11:53.087Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003762216?sid=103" class="nclicks(rig.secteco)" title="황사 유입 내일도 마스크 필요…낮동안 포근한 봄날씨">황사 유입 내일도 마스크 필요…낮동안 포근한 봄날씨</a>]]></content>
+        <title type="html"><![CDATA[[날씨] 전국 황사 영향‥주말 탁한 공기]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001268084?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001268084?sid=103"/>
+        <updated>2023-04-21T23:12:24.194Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001268084?sid=103" class="nclicks(rig.secteco)" title="[날씨] 전국 황사 영향‥주말 탁한 공기">[날씨] 전국 황사 영향‥주말 탁한 공기</a>]]></content>
     </entry>
 </feed>
