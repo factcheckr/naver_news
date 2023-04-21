@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-21T12:25:29.766Z</updated>
+    <updated>2023-04-21T13:16:09.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중, 윤 대통령 겨냥 “불타 죽을 것”···외교부 “언행 신중하라” 경고 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -19,18 +19,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003805156?sid=100" class="nclicks(rig.secteco)" title="군 수송기 투입해 교민 철수까지…수단, 얼마나 심각하길래? [뉴스+]">군 수송기 투입해 교민 철수까지…수단, 얼마나 심각하길래? [뉴스+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈 “돈 봉투 수사가 야당탄압? 승부조작 수사하면 스포츠 탄압인가” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003805153?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003805153?sid=100"/>
-        <updated>2023-04-21T12:24:56.216Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003805153?sid=100" class="nclicks(rig.secteco)" title="한동훈 “돈 봉투 수사가 야당탄압? 승부조작 수사하면 스포츠 탄압인가”">한동훈 “돈 봉투 수사가 야당탄압? 승부조작 수사하면 스포츠 탄압인가”</a>]]></content>
+        <title type="html"><![CDATA[한동훈 “말같지 않은 소리” 발언에... 이재명 “쓰읍” 하더니 침묵 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003759273?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003759273?sid=100"/>
+        <updated>2023-04-21T13:15:40.007Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003759273?sid=100" class="nclicks(rig.secteco)" title="한동훈 “말같지 않은 소리” 발언에... 이재명 “쓰읍” 하더니 침묵">한동훈 “말같지 않은 소리” 발언에... 이재명 “쓰읍” 하더니 침묵</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013896079?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013896079?sid=104"/>
-        <updated>2023-04-21T10:14:21.253Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896079?sid=104" class="nclicks(rig.secteco)" title="'불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은">'불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 ‘대만 발언’에 한·중 관계 급속 냉각···무엇이 문제됐나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003218889?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003218889?sid=104"/>
+        <updated>2023-04-21T13:15:40.008Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218889?sid=104" class="nclicks(rig.secteco)" title="윤 대통령 ‘대만 발언’에 한·중 관계 급속 냉각···무엇이 문제됐나">윤 대통령 ‘대만 발언’에 한·중 관계 급속 냉각···무엇이 문제됐나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기시다 야스쿠니에 공물 ·의원 87명 참배...정부 "깊은 실망과 유감" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -40,11 +40,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001876226?sid=104" class="nclicks(rig.secteco)" title="기시다 야스쿠니에 공물 ·의원 87명 참배...정부 &quot;깊은 실망과 유감&quot;">기시다 야스쿠니에 공물 ·의원 87명 참배...정부 "깊은 실망과 유감"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013896071?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013896071?sid=101"/>
-        <updated>2023-04-21T10:14:21.261Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896071?sid=101" class="nclicks(rig.secteco)" title="전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대">전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대</a>]]></content>
+        <title type="html"><![CDATA[전세사기 주택, 공공매입해 피해자에 임대... 최대 3만5천가구 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/666/0000009415?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/666/0000009415?sid=101"/>
+        <updated>2023-04-21T13:15:40.010Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/666/0000009415?sid=101" class="nclicks(rig.secteco)" title="전세사기 주택, 공공매입해 피해자에 임대... 최대 3만5천가구">전세사기 주택, 공공매입해 피해자에 임대... 최대 3만5천가구</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['전기요금 인상' 위해 다시 엎드린 한전 "임직원 임금 인상분 반납도 검토" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000735398?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000735398?sid=101"/>
+        <updated>2023-04-21T13:15:40.010Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000735398?sid=101" class="nclicks(rig.secteco)" title="'전기요금 인상' 위해 다시 엎드린 한전 &quot;임직원 임금 인상분 반납도 검토&quot;">'전기요금 인상' 위해 다시 엎드린 한전 "임직원 임금 인상분 반납도 검토"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 전세 사기 피해자 '잔여 대출금' 10년간 나눠 상환한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,13 +61,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004181474?sid=101" class="nclicks(rig.secteco)" title="[단독] 전세 사기 피해자 '잔여 대출금' 10년간 나눠 상환한다">[단독] 전세 사기 피해자 '잔여 대출금' 10년간 나눠 상환한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한달 무료 체험 뒤 ‘슬쩍’ 결제” “사진 무료라더니 ‘촬영만 무료’”… 이런 상술 명확한 ‘위법’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000895498?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000895498?sid=101"/>
-        <updated>2023-04-21T12:24:56.219Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000895498?sid=101" class="nclicks(rig.secteco)" title="“한달 무료 체험 뒤 ‘슬쩍’ 결제” “사진 무료라더니 ‘촬영만 무료’”… 이런 상술 명확한 ‘위법’">“한달 무료 체험 뒤 ‘슬쩍’ 결제” “사진 무료라더니 ‘촬영만 무료’”… 이런 상술 명확한 ‘위법’</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["우주 강국 위상 공고히"…과학·정보통신의 날, '누리호 공신' 110명 정부포상 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/138/0002147022?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/138/0002147022?sid=105"/>
@@ -68,25 +68,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002147022?sid=105" class="nclicks(rig.secteco)" title="&quot;우주 강국 위상 공고히&quot;…과학·정보통신의 날, '누리호 공신' 110명 정부포상">"우주 강국 위상 공고히"…과학·정보통신의 날, '누리호 공신' 110명 정부포상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['리브엠' 승인 후폭풍… KMDA "규제 마련 못한 금융위, 직무유기" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000915016?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000915016?sid=105"/>
-        <updated>2023-04-21T10:14:21.269Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000915016?sid=105" class="nclicks(rig.secteco)" title="'리브엠' 승인 후폭풍… KMDA &quot;규제 마련 못한 금융위, 직무유기&quot;">'리브엠' 승인 후폭풍… KMDA "규제 마련 못한 금융위, 직무유기"</a>]]></content>
+        <title type="html"><![CDATA[휴대폰 대리점 "은행 알뜰폰 사업, 규제 마련돼야" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000015710?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000015710?sid=105"/>
+        <updated>2023-04-21T13:15:40.014Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000015710?sid=105" class="nclicks(rig.secteco)" title="휴대폰 대리점 &quot;은행 알뜰폰 사업, 규제 마련돼야&quot;">휴대폰 대리점 "은행 알뜰폰 사업, 규제 마련돼야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 어선 화재 13시간 만에 진화…선원 4명 사망(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013896185?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013896185?sid=102"/>
-        <updated>2023-04-21T11:11:39.741Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896185?sid=102" class="nclicks(rig.secteco)" title="러시아 어선 화재 13시간 만에 진화…선원 4명 사망(종합)">러시아 어선 화재 13시간 만에 진화…선원 4명 사망(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회계제출 거부' 노조 현장조사 무산…정부 "과태료 부과"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011817811?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011817811?sid=102"/>
-        <updated>2023-04-21T12:24:56.226Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011817811?sid=102" class="nclicks(rig.secteco)" title="'회계제출 거부' 노조 현장조사 무산…정부 &quot;과태료 부과&quot;(종합2보)">'회계제출 거부' 노조 현장조사 무산…정부 "과태료 부과"(종합2보)</a>]]></content>
+        <title type="html"><![CDATA[울산 앞바다 러시아 어선 화재‥21명 구조·4명 사망 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001268038?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001268038?sid=102"/>
+        <updated>2023-04-21T13:15:40.015Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001268038?sid=102" class="nclicks(rig.secteco)" title="울산 앞바다 러시아 어선 화재‥21명 구조·4명 사망">울산 앞바다 러시아 어선 화재‥21명 구조·4명 사망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[석방된 정진상 "방어권 보장 감사…더 성실히 재판"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +89,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896149?sid=102" class="nclicks(rig.secteco)" title="석방된 정진상 &quot;방어권 보장 감사…더 성실히 재판&quot;(종합)">석방된 정진상 "방어권 보장 감사…더 성실히 재판"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[점차 건조해지고 바람 세져 불조심…내일 전국 황사 영향 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013895915?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013895915?sid=103"/>
-        <updated>2023-04-21T09:13:19.428Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013895915?sid=103" class="nclicks(rig.secteco)" title="점차 건조해지고 바람 세져 불조심…내일 전국 황사 영향">점차 건조해지고 바람 세져 불조심…내일 전국 황사 영향</a>]]></content>
+        <title type="html"><![CDATA[노동부, 노조 8곳 회계자료 행정조사…양대노총 "부당한 개입"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013896190?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013896190?sid=102"/>
+        <updated>2023-04-21T13:15:40.018Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896190?sid=102" class="nclicks(rig.secteco)" title="노동부, 노조 8곳 회계자료 행정조사…양대노총 &quot;부당한 개입&quot;(종합2보)">노동부, 노조 8곳 회계자료 행정조사…양대노총 "부당한 개입"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[퇴근길 날씨] 주말 동안 황사 영향…미세먼지 더 짙어져 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011470526?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011470526?sid=103"/>
-        <updated>2023-04-21T12:24:56.232Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011470526?sid=103" class="nclicks(rig.secteco)" title="[퇴근길 날씨] 주말 동안 황사 영향…미세먼지 더 짙어져">[퇴근길 날씨] 주말 동안 황사 영향…미세먼지 더 짙어져</a>]]></content>
+        <title type="html"><![CDATA[부산·대구·울산 순 황사·미세먼지 '매우나쁨' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000810243?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000810243?sid=103"/>
+        <updated>2023-04-21T13:15:40.019Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000810243?sid=103" class="nclicks(rig.secteco)" title="부산·대구·울산 순 황사·미세먼지 '매우나쁨'">부산·대구·울산 순 황사·미세먼지 '매우나쁨'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 주말 공기질 악화…미세먼지농도 나쁨~매우 나쁨 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000595096?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000595096?sid=103"/>
+        <updated>2023-04-21T13:15:40.021Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000595096?sid=103" class="nclicks(rig.secteco)" title="[날씨] 주말 공기질 악화…미세먼지농도 나쁨~매우 나쁨">[날씨] 주말 공기질 악화…미세먼지농도 나쁨~매우 나쁨</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
