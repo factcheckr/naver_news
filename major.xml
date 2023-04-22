@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-22T14:11:41.804Z</updated>
+    <updated>2023-04-22T15:13:37.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘돈 봉투 의혹’ 송영길 “정치적 책임지고 민주당 탈당”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003493056?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003493056?sid=100"/>
+        <updated>2023-04-22T15:13:06.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003493056?sid=100" class="nclicks(rig.secteco)" title="‘돈 봉투 의혹’ 송영길 “정치적 책임지고 민주당 탈당”">‘돈 봉투 의혹’ 송영길 “정치적 책임지고 민주당 탈당”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수단 교민 29명 이송작전' 군 수송기, 현지 도착…대피준비 작전 돌입(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/014/0005000846?sid=100</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011470946?sid=100" class="nclicks(rig.secteco)" title="수단에 청해부대 급파 지시…군 수송기 인접국 도착">수단에 청해부대 급파 지시…군 수송기 인접국 도착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["자해 외교" vs "중국 심기 경호"…윤 대통령 '대만 발언' 공방 가열]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001737518?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001737518?sid=100"/>
-        <updated>2023-04-22T09:12:06.629Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001737518?sid=100" class="nclicks(rig.secteco)" title="&quot;자해 외교&quot; vs &quot;중국 심기 경호&quot;…윤 대통령 '대만 발언' 공방 가열">"자해 외교" vs "중국 심기 경호"…윤 대통령 '대만 발언' 공방 가열</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日 방위상 “북한이 위성쏘면 격추”…오키나와에 패트리엇 배치]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005120276?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005120276?sid=104"/>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005120276?sid=104" class="nclicks(rig.secteco)" title="日 방위상 “북한이 위성쏘면 격추”…오키나와에 패트리엇 배치">日 방위상 “북한이 위성쏘면 격추”…오키나와에 패트리엇 배치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 원전 오염수 방류, D-2개월?…해양방류 강행하는 이유[여기는 일본]]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003355785?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003355785?sid=104"/>
-        <updated>2023-04-22T14:11:12.398Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003355785?sid=104" class="nclicks(rig.secteco)" title="日 원전 오염수 방류, D-2개월?…해양방류 강행하는 이유[여기는 일본]">日 원전 오염수 방류, D-2개월?…해양방류 강행하는 이유[여기는 일본]</a>]]></content>
+        <title type="html"><![CDATA['군벌 간 무력 충돌' 수단서 유엔 직원 또 피격 사망]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003762251?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003762251?sid=104"/>
+        <updated>2023-04-22T15:13:06.661Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003762251?sid=104" class="nclicks(rig.secteco)" title="'군벌 간 무력 충돌' 수단서 유엔 직원 또 피격 사망">'군벌 간 무력 충돌' 수단서 유엔 직원 또 피격 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불황 중에…삼성전자, 미 특허소송서 4천억 원 배상 평결]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001052517?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001052517?sid=101"/>
-        <updated>2023-04-22T12:22:44.089Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001052517?sid=101" class="nclicks(rig.secteco)" title="불황 중에…삼성전자, 미 특허소송서 4천억 원 배상 평결">불황 중에…삼성전자, 미 특허소송서 4천억 원 배상 평결</a>]]></content>
+        <title type="html"><![CDATA[코인원, 강남 살인 사건 발단 ‘P코인’ 상장폐지]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005469308?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005469308?sid=101"/>
+        <updated>2023-04-22T15:13:06.669Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005469308?sid=101" class="nclicks(rig.secteco)" title="코인원, 강남 살인 사건 발단 ‘P코인’ 상장폐지">코인원, 강남 살인 사건 발단 ‘P코인’ 상장폐지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 4천억원 특허침해 소송 패소]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003762285?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003762285?sid=101"/>
+        <updated>2023-04-22T15:13:06.671Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003762285?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 4천억원 특허침해 소송 패소">삼성전자, 4천억원 특허침해 소송 패소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["공공매입 없다"던 정부, 전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000965814?sid=101" class="nclicks(rig.secteco)" title="&quot;공공매입 없다&quot;던 정부, 전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대">"공공매입 없다"던 정부, 전세사기 주택 LH가 우선매수…피해자에 시세 30∼50%에 임대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제유가 하락에도 주유소 기름값 상승 왜?]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005000847?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005000847?sid=101"/>
-        <updated>2023-04-22T14:11:12.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005000847?sid=101" class="nclicks(rig.secteco)" title="국제유가 하락에도 주유소 기름값 상승 왜?">국제유가 하락에도 주유소 기름값 상승 왜?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005119903?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005119903?sid=105"/>
@@ -69,32 +69,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005119903?sid=105" class="nclicks(rig.secteco)" title="한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개">한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넘쳐나는 스마트폰 요금제…"내게 딱 맞는 상품 어떻게 찾지?"[슬기로운 통신생활⑫]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011818024?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011818024?sid=105"/>
-        <updated>2023-04-22T14:11:12.404Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011818024?sid=105" class="nclicks(rig.secteco)" title="넘쳐나는 스마트폰 요금제…&quot;내게 딱 맞는 상품 어떻게 찾지?&quot;[슬기로운 통신생활⑫]">넘쳐나는 스마트폰 요금제…"내게 딱 맞는 상품 어떻게 찾지?"[슬기로운 통신생활⑫]</a>]]></content>
+        <title type="html"><![CDATA[[팩플] 골목상권 침해에 기술 탈취 논란까지…구설수 단골된 카카오VX]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003274874?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003274874?sid=105"/>
+        <updated>2023-04-22T15:13:06.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003274874?sid=105" class="nclicks(rig.secteco)" title="[팩플] 골목상권 침해에 기술 탈취 논란까지…구설수 단골된 카카오VX">[팩플] 골목상권 침해에 기술 탈취 논란까지…구설수 단골된 카카오VX</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강래구 구속영장 기각‥열흘 만에 수사 속도조절]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001268131?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001268131?sid=102"/>
-        <updated>2023-04-22T13:14:17.745Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001268131?sid=102" class="nclicks(rig.secteco)" title="강래구 구속영장 기각‥열흘 만에 수사 속도조절">강래구 구속영장 기각‥열흘 만에 수사 속도조절</a>]]></content>
+        <title type="html"><![CDATA['TV조선 재승인 의혹' 심사위원장 2박3일 구속집행정지]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000117760?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000117760?sid=102"/>
+        <updated>2023-04-22T15:13:06.682Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/006/0000117760?sid=102" class="nclicks(rig.secteco)" title="'TV조선 재승인 의혹' 심사위원장 2박3일 구속집행정지">'TV조선 재승인 의혹' 심사위원장 2박3일 구속집행정지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도 특사경, 파주시 육견농장 ‘전기 쇠꼬챙이’ 도살 현장 적발]]></title>
-        <id>https://n.news.naver.com/mnews/article/666/0000009431?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/666/0000009431?sid=102"/>
-        <updated>2023-04-22T14:11:12.406Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/666/0000009431?sid=102" class="nclicks(rig.secteco)" title="경기도 특사경, 파주시 육견농장 ‘전기 쇠꼬챙이’ 도살 현장 적발">경기도 특사경, 파주시 육견농장 ‘전기 쇠꼬챙이’ 도살 현장 적발</a>]]></content>
+        <title type="html"><![CDATA[생후 9개월 아들 방치해 심정지 이르게 한 친모 징역 10년 구형]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013895867?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013895867?sid=102"/>
+        <updated>2023-04-22T15:13:06.684Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013895867?sid=102" class="nclicks(rig.secteco)" title="생후 9개월 아들 방치해 심정지 이르게 한 친모 징역 10년 구형">생후 9개월 아들 방치해 심정지 이르게 한 친모 징역 10년 구형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우회전 '일시정지' 단속 첫날..."헷갈리면 일단 멈추세요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001876484?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001876484?sid=102"/>
-        <updated>2023-04-22T14:11:12.407Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001876484?sid=102" class="nclicks(rig.secteco)" title="우회전 '일시정지' 단속 첫날...&quot;헷갈리면 일단 멈추세요&quot;">우회전 '일시정지' 단속 첫날..."헷갈리면 일단 멈추세요"</a>]]></content>
+        <title type="html"><![CDATA[[단독]“대마 피워보자” 의기투합한 중학교 동창 5명, 거래 추적에 덜미]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002133640?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002133640?sid=102"/>
+        <updated>2023-04-22T15:13:06.686Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002133640?sid=102" class="nclicks(rig.secteco)" title="[단독]“대마 피워보자” 의기투합한 중학교 동창 5명, 거래 추적에 덜미">[단독]“대마 피워보자” 의기투합한 중학교 동창 5명, 거래 추적에 덜미</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[책마을] 신발 없는 나이키 광고…"우린 감정을 디자인한다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004835834?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004835834?sid=103"/>
+        <updated>2023-04-22T15:13:06.688Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004835834?sid=103" class="nclicks(rig.secteco)" title="[책마을] 신발 없는 나이키 광고…&quot;우린 감정을 디자인한다&quot;">[책마을] 신발 없는 나이키 광고…"우린 감정을 디자인한다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003218826?sid=103"/>
         <updated>2023-04-22T13:14:17.750Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218826?sid=103" class="nclicks(rig.secteco)" title="주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝">주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002636819?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002636819?sid=103"/>
-        <updated>2023-04-22T13:14:17.751Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002636819?sid=103" class="nclicks(rig.secteco)" title="BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로">BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로</a>]]></content>
     </entry>
 </feed>
