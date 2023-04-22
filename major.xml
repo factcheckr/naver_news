@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-22T07:11:43.690Z</updated>
+    <updated>2023-04-22T08:15:48.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, '유혈충돌' 아프리카 수단에 청해부대 급파 지시]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000340296?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000340296?sid=100"/>
-        <updated>2023-04-22T05:11:48.487Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000340296?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, '유혈충돌' 아프리카 수단에 청해부대 급파 지시">윤 대통령, '유혈충돌' 아프리카 수단에 청해부대 급파 지시</a>]]></content>
+        <title type="html"><![CDATA[尹, 청해부대도 급파 지시...군 수송기 오늘 오후 수단 인근 도착]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001876425?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001876425?sid=100"/>
+        <updated>2023-04-22T08:15:19.692Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001876425?sid=100" class="nclicks(rig.secteco)" title="尹, 청해부대도 급파 지시...군 수송기 오늘 오후 수단 인근 도착">尹, 청해부대도 급파 지시...군 수송기 오늘 오후 수단 인근 도착</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 전광훈 "전당대회 때 김기현이 도와달라 했다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/053/0000035806?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/053/0000035806?sid=100"/>
-        <updated>2023-04-22T01:03:00.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000035806?sid=100" class="nclicks(rig.secteco)" title="[단독] 전광훈 &quot;전당대회 때 김기현이 도와달라 했다&quot;">[단독] 전광훈 "전당대회 때 김기현이 도와달라 했다"</a>]]></content>
+        <title type="html"><![CDATA[여 "민주당은 중국과 '원팀'"…야 "윤 대통령 '자해외교'" 주말 신경전]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000038267?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000038267?sid=100"/>
+        <updated>2023-04-22T08:15:19.693Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000038267?sid=100" class="nclicks(rig.secteco)" title="여 &quot;민주당은 중국과 '원팀'&quot;…야 &quot;윤 대통령 '자해외교'&quot; 주말 신경전">여 "민주당은 중국과 '원팀'"…야 "윤 대통령 '자해외교'" 주말 신경전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한동훈 “피자보다 싼 마약, 文정부 탓…우린 강하게 처벌”]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003493048?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003493048?sid=100"/>
-        <updated>2023-04-22T06:16:30.939Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003493048?sid=100" class="nclicks(rig.secteco)" title="한동훈 “피자보다 싼 마약, 文정부 탓…우린 강하게 처벌”">한동훈 “피자보다 싼 마약, 文정부 탓…우린 강하게 처벌”</a>]]></content>
+        <title type="html"><![CDATA[한동훈 "피자 한판 값 된 마약, 文정부 탓...우린 `악`소리 나게 잡을 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002796199?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002796199?sid=100"/>
+        <updated>2023-04-22T08:15:19.694Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002796199?sid=100" class="nclicks(rig.secteco)" title="한동훈 &quot;피자 한판 값 된 마약, 文정부 탓...우린 `악`소리 나게 잡을 것&quot;">한동훈 "피자 한판 값 된 마약, 文정부 탓...우린 `악`소리 나게 잡을 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은]]></title>
@@ -34,25 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013896079?sid=104" class="nclicks(rig.secteco)" title="'불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은">'불장난'·'말참견'…中 한미정상회담 전 거친 발언 배경은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['1주째 묵비권' 日 총리 테러 용의자 정신감정 추진]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001876412?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001876412?sid=104"/>
-        <updated>2023-04-22T06:16:30.940Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001876412?sid=104" class="nclicks(rig.secteco)" title="'1주째 묵비권' 日 총리 테러 용의자 정신감정 추진">'1주째 묵비권' 日 총리 테러 용의자 정신감정 추진</a>]]></content>
+        <title type="html"><![CDATA[입 닫은 기시다 테러범, 범행동기 '물음표'…결국 정신감정 추진]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004878280?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004878280?sid=104"/>
+        <updated>2023-04-22T08:15:19.697Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004878280?sid=104" class="nclicks(rig.secteco)" title="입 닫은 기시다 테러범, 범행동기 '물음표'…결국 정신감정 추진">입 닫은 기시다 테러범, 범행동기 '물음표'…결국 정신감정 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["LH가 전세사기 물량 매입 후 임대"…세입자 그대로 거주]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000405927?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000405927?sid=101"/>
-        <updated>2023-04-22T06:16:30.940Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000405927?sid=101" class="nclicks(rig.secteco)" title="&quot;LH가 전세사기 물량 매입 후 임대&quot;…세입자 그대로 거주">"LH가 전세사기 물량 매입 후 임대"…세입자 그대로 거주</a>]]></content>
+        <title type="html"><![CDATA[[종합] 삼성전자, 美 특허소송서 4천억원 배상금 지불 평결]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000742389?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000742389?sid=101"/>
+        <updated>2023-04-22T08:15:19.703Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000742389?sid=101" class="nclicks(rig.secteco)" title="[종합] 삼성전자, 美 특허소송서 4천억원 배상금 지불 평결">[종합] 삼성전자, 美 특허소송서 4천억원 배상금 지불 평결</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 미 특허소송서 4000억원 배상 평결]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003759398?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003759398?sid=101"/>
-        <updated>2023-04-22T07:11:15.870Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003759398?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 미 특허소송서 4000억원 배상 평결">삼성전자, 미 특허소송서 4000억원 배상 평결</a>]]></content>
+        <title type="html"><![CDATA[내일 정부-여당 고위당정협의회, 전세사기 피해지원 방안 논의]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003218957?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003218957?sid=101"/>
+        <updated>2023-04-22T08:15:19.704Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218957?sid=101" class="nclicks(rig.secteco)" title="내일 정부-여당 고위당정협의회, 전세사기 피해지원 방안 논의">내일 정부-여당 고위당정협의회, 전세사기 피해지원 방안 논의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휘발유 28원↑, 경유 12원↑ 기름값 상승세 지속…국제유가는 하락 전환]]></title>
@@ -69,45 +69,45 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005468926?sid=105" class="nclicks(rig.secteco)" title="박근혜 정부부터 시작 '과학·IT의 날'···“존재감 발휘하자”">박근혜 정부부터 시작 '과학·IT의 날'···“존재감 발휘하자”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005119903?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005119903?sid=105"/>
-        <updated>2023-04-22T03:13:31.456Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005119903?sid=105" class="nclicks(rig.secteco)" title="한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개">한국e스포츠協, 항저우 아시안게임 국가대표 예비엔트리 공개</a>]]></content>
+        <title type="html"><![CDATA[머스크와 알트만, 누가 인류 멸망 막을 ‘AI 지배자’ 감인가[딥다이브]]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003493025?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003493025?sid=105"/>
+        <updated>2023-04-22T08:15:19.711Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003493025?sid=105" class="nclicks(rig.secteco)" title="머스크와 알트만, 누가 인류 멸망 막을 ‘AI 지배자’ 감인가[딥다이브]">머스크와 알트만, 누가 인류 멸망 막을 ‘AI 지배자’ 감인가[딥다이브]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['민주당 돈봉투' 강래구 구속영장 기각…검찰, 재청구 방침]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004835918?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004835918?sid=102"/>
-        <updated>2023-04-22T07:11:15.872Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004835918?sid=102" class="nclicks(rig.secteco)" title="'민주당 돈봉투' 강래구 구속영장 기각…검찰, 재청구 방침">'민주당 돈봉투' 강래구 구속영장 기각…검찰, 재청구 방침</a>]]></content>
+        <title type="html"><![CDATA['돈봉투 의혹' 강래구 구속영장 기각…'윗선' 수사 제동 걸리나]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006763372?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006763372?sid=102"/>
+        <updated>2023-04-22T08:15:19.712Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006763372?sid=102" class="nclicks(rig.secteco)" title="'돈봉투 의혹' 강래구 구속영장 기각…'윗선' 수사 제동 걸리나">'돈봉투 의혹' 강래구 구속영장 기각…'윗선' 수사 제동 걸리나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김동연 경기도지사 "도민들 협조로 동물 구해... 신고 나서달라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002389745?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002389745?sid=102"/>
-        <updated>2023-04-22T07:11:15.872Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002389745?sid=102" class="nclicks(rig.secteco)" title="김동연 경기도지사 &quot;도민들 협조로 동물 구해... 신고 나서달라&quot;">김동연 경기도지사 "도민들 협조로 동물 구해... 신고 나서달라"</a>]]></content>
+        <title type="html"><![CDATA['전기 쇠꼬챙이'로 도살할 때 급습…잔인한 육견농장, 잠복수사로 적발]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004878285?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004878285?sid=102"/>
+        <updated>2023-04-22T08:15:19.714Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004878285?sid=102" class="nclicks(rig.secteco)" title="'전기 쇠꼬챙이'로 도살할 때 급습…잔인한 육견농장, 잠복수사로 적발">'전기 쇠꼬챙이'로 도살할 때 급습…잔인한 육견농장, 잠복수사로 적발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 신규확진 1만3793명…1주 전보다 2100여 명 증가]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000038954?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000038954?sid=102"/>
-        <updated>2023-04-22T07:11:15.874Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000038954?sid=102" class="nclicks(rig.secteco)" title="코로나 신규확진 1만3793명…1주 전보다 2100여 명 증가">코로나 신규확진 1만3793명…1주 전보다 2100여 명 증가</a>]]></content>
+        <title type="html"><![CDATA[신규확진 1만3596명, 전일 대비 498명 감소… 전주 대비 1900여명↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000914839?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000914839?sid=102"/>
+        <updated>2023-04-22T08:15:19.715Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000914839?sid=102" class="nclicks(rig.secteco)" title="신규확진 1만3596명, 전일 대비 498명 감소… 전주 대비 1900여명↑">신규확진 1만3596명, 전일 대비 498명 감소… 전주 대비 1900여명↑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[내일날씨] 전국 곳곳 미세먼지 '나쁨'…낮 최고 22도]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002705440?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002705440?sid=103"/>
-        <updated>2023-04-22T07:11:15.875Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002705440?sid=103" class="nclicks(rig.secteco)" title="[내일날씨] 전국 곳곳 미세먼지 '나쁨'…낮 최고 22도">[내일날씨] 전국 곳곳 미세먼지 '나쁨'…낮 최고 22도</a>]]></content>
+        <title type="html"><![CDATA[주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003218826?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003218826?sid=103"/>
+        <updated>2023-04-22T08:15:19.716Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003218826?sid=103" class="nclicks(rig.secteco)" title="주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝">주말 뿌연 하늘, 나들이 고민되네···찬 공기 유입에 기온은 뚝</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTS 슈가, 솔로 앨범 첫날 107만장 넘겼다…최고 기록 경신]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002636889?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002636889?sid=103"/>
-        <updated>2023-04-22T05:11:48.514Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002636889?sid=103" class="nclicks(rig.secteco)" title="BTS 슈가, 솔로 앨범 첫날 107만장 넘겼다…최고 기록 경신">BTS 슈가, 솔로 앨범 첫날 107만장 넘겼다…최고 기록 경신</a>]]></content>
+        <title type="html"><![CDATA[BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002636819?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002636819?sid=103"/>
+        <updated>2023-04-22T08:15:19.717Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002636819?sid=103" class="nclicks(rig.secteco)" title="BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로">BTS 슈가 신곡…K팝 후배·꿈꾸는 청춘에 들려준 위로</a>]]></content>
     </entry>
 </feed>
