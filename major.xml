@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-24T07:13:50.324Z</updated>
+    <updated>2023-04-24T08:17:53.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['귀국' 송영길 "모르는 사안 많아 상황 파악할 것…해결에 앞장"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013899934?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013899934?sid=100"/>
+        <updated>2023-04-24T08:17:24.301Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013899934?sid=100" class="nclicks(rig.secteco)" title="'귀국' 송영길 &quot;모르는 사안 많아 상황 파악할 것…해결에 앞장&quot;(종합)">'귀국' 송영길 "모르는 사안 많아 상황 파악할 것…해결에 앞장"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹대통령 "100년전 일로 日 무릎 꿇어야 한다는 생각 못받아들여"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013899834?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013899834?sid=100"/>
+        <updated>2023-04-24T08:17:24.301Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013899834?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;100년전 일로 日 무릎 꿇어야 한다는 생각 못받아들여&quot;(종합)">尹대통령 "100년전 일로 日 무릎 꿇어야 한다는 생각 못받아들여"(종합)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓 대통령 이름도 모르면서 초대?…“‘운 대통령’과 양자회담” 말실수]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003356110?sid=100</id>
@@ -13,39 +27,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003356110?sid=100" class="nclicks(rig.secteco)" title="韓 대통령 이름도 모르면서 초대?…“‘운 대통령’과 양자회담” 말실수">韓 대통령 이름도 모르면서 초대?…“‘운 대통령’과 양자회담” 말실수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 “사람 죽고 사는 문제…정부, 과감한 대책 내놓아야”]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005120878?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005120878?sid=100"/>
-        <updated>2023-04-24T07:13:20.918Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005120878?sid=100" class="nclicks(rig.secteco)" title="이재명 “사람 죽고 사는 문제…정부, 과감한 대책 내놓아야”">이재명 “사람 죽고 사는 문제…정부, 과감한 대책 내놓아야”</a>]]></content>
+        <title type="html"><![CDATA["中반도체 부족 메우지 말라"는 美…리스크 커진 삼성·SK[이슈분석]]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005471049?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005471049?sid=104"/>
+        <updated>2023-04-24T08:17:24.304Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005471049?sid=104" class="nclicks(rig.secteco)" title="&quot;中반도체 부족 메우지 말라&quot;는 美…리스크 커진 삼성·SK[이슈분석]">"中반도체 부족 메우지 말라"는 美…리스크 커진 삼성·SK[이슈분석]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['밥 한 공기 논란' 조수진 "민생119, 매달 현장 찾아갈 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000056541?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000056541?sid=100"/>
-        <updated>2023-04-24T07:13:20.921Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000056541?sid=100" class="nclicks(rig.secteco)" title="'밥 한 공기 논란' 조수진 &quot;민생119, 매달 현장 찾아갈 것&quot;">'밥 한 공기 논란' 조수진 "민생119, 매달 현장 찾아갈 것"</a>]]></content>
+        <title type="html"><![CDATA[지난해 전 세계 군사비 지출 사상 최고…러시아의 우크라 침공 이후 높아져]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002283611?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002283611?sid=104"/>
+        <updated>2023-04-24T08:17:24.304Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002283611?sid=104" class="nclicks(rig.secteco)" title="지난해 전 세계 군사비 지출 사상 최고…러시아의 우크라 침공 이후 높아져">지난해 전 세계 군사비 지출 사상 최고…러시아의 우크라 침공 이후 높아져</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령에 미리 보낸 청구서? "삼성·SK, 미국 대신 중국에 반도체 팔지 말라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000735713?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000735713?sid=104"/>
-        <updated>2023-04-24T07:13:20.924Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000735713?sid=104" class="nclicks(rig.secteco)" title="윤 대통령에 미리 보낸 청구서? &quot;삼성·SK, 미국 대신 중국에 반도체 팔지 말라&quot;">윤 대통령에 미리 보낸 청구서? "삼성·SK, 미국 대신 중국에 반도체 팔지 말라"</a>]]></content>
+        <title type="html"><![CDATA[원희룡 국토부 장관 "전세사기 피해금 국가가 떠안는 선례 남길 수 없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001876992?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001876992?sid=101"/>
+        <updated>2023-04-24T08:17:24.305Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001876992?sid=101" class="nclicks(rig.secteco)" title="원희룡 국토부 장관 &quot;전세사기 피해금 국가가 떠안는 선례 남길 수 없어&quot;">원희룡 국토부 장관 "전세사기 피해금 국가가 떠안는 선례 남길 수 없어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“일본까지 제칠 줄 몰랐다”…세계 9위 한국, 얼마나 많이 썼길래]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005120758?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005120758?sid=104"/>
-        <updated>2023-04-24T07:13:20.927Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005120758?sid=104" class="nclicks(rig.secteco)" title="“일본까지 제칠 줄 몰랐다”…세계 9위 한국, 얼마나 많이 썼길래">“일본까지 제칠 줄 몰랐다”…세계 9위 한국, 얼마나 많이 썼길래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원희룡 "국가가 사기 피해금 대납 못해…선 넘으면 안돼"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011820627?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011820627?sid=101"/>
-        <updated>2023-04-24T07:13:20.929Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011820627?sid=101" class="nclicks(rig.secteco)" title="원희룡 &quot;국가가 사기 피해금 대납 못해…선 넘으면 안돼&quot;">원희룡 "국가가 사기 피해금 대납 못해…선 넘으면 안돼"</a>]]></content>
+        <title type="html"><![CDATA[더 커진 이자이익…우리금융, 올 1분기 당기순이익 9113억 원]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004182552?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004182552?sid=101"/>
+        <updated>2023-04-24T08:17:24.308Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004182552?sid=101" class="nclicks(rig.secteco)" title="더 커진 이자이익…우리금융, 올 1분기 당기순이익 9113억 원">더 커진 이자이익…우리금융, 올 1분기 당기순이익 9113억 원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SK온, 대전에 4700억 베팅…배터리 양대 거점으로 키운다]]></title>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/050/0000065071?sid=101" class="nclicks(rig.secteco)" title="SK온, 대전에 4700억 베팅…배터리 양대 거점으로 키운다">SK온, 대전에 4700억 베팅…배터리 양대 거점으로 키운다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[철도역 위로 임대주택 짓는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001097364?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001097364?sid=101"/>
-        <updated>2023-04-24T07:13:20.935Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001097364?sid=101" class="nclicks(rig.secteco)" title="철도역 위로 임대주택 짓는다">철도역 위로 임대주택 짓는다</a>]]></content>
+        <title type="html"><![CDATA[6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000896155?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000896155?sid=105"/>
+        <updated>2023-04-24T07:13:20.940Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000896155?sid=105" class="nclicks(rig.secteco)" title="6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁">6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그땐 몰랐네 ‘흑역사’ 될 줄…어릴 적 올린 게시물 지워준다]]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002637059?sid=105" class="nclicks(rig.secteco)" title="그땐 몰랐네 ‘흑역사’ 될 줄…어릴 적 올린 게시물 지워준다">그땐 몰랐네 ‘흑역사’ 될 줄…어릴 적 올린 게시물 지워준다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000896155?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000896155?sid=105"/>
-        <updated>2023-04-24T07:13:20.940Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000896155?sid=105" class="nclicks(rig.secteco)" title="6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁">6G 시대 준비하는 통신사… ‘차세대 안테나’ 기술 선점 경쟁</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엠폭스 10명 추가확진·누적 30명…"전원 국내 밀접접촉"]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003762738?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003762738?sid=102"/>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003762738?sid=102" class="nclicks(rig.secteco)" title="엠폭스 10명 추가확진·누적 30명…&quot;전원 국내 밀접접촉&quot;">엠폭스 10명 추가확진·누적 30명…"전원 국내 밀접접촉"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[곽상도 아들 ‘50억 퇴직금’ 추가 압수수색…호반건설·산은]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002637068?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002637068?sid=102"/>
-        <updated>2023-04-24T07:13:20.945Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002637068?sid=102" class="nclicks(rig.secteco)" title="곽상도 아들 ‘50억 퇴직금’ 추가 압수수색…호반건설·산은">곽상도 아들 ‘50억 퇴직금’ 추가 압수수색…호반건설·산은</a>]]></content>
+        <title type="html"><![CDATA[2027년까지 교사 2359명 덜 뽑는다...교·사대도 정원 감축 불가피]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003356145?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003356145?sid=102"/>
+        <updated>2023-04-24T08:17:24.314Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003356145?sid=102" class="nclicks(rig.secteco)" title="2027년까지 교사 2359명 덜 뽑는다...교·사대도 정원 감축 불가피">2027년까지 교사 2359명 덜 뽑는다...교·사대도 정원 감축 불가피</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["김건희, '조명' 없었다" 경찰, 장경태 송치...'외교공관' 우상호도]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005470802?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005470802?sid=102"/>
-        <updated>2023-04-24T07:13:20.948Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005470802?sid=102" class="nclicks(rig.secteco)" title="&quot;김건희, '조명' 없었다&quot; 경찰, 장경태 송치...'외교공관' 우상호도">"김건희, '조명' 없었다" 경찰, 장경태 송치...'외교공관' 우상호도</a>]]></content>
+        <title type="html"><![CDATA[檢 '곽상도 의혹' 호반건설·산은 압수수색…변호인 반발(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011820970?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011820970?sid=102"/>
+        <updated>2023-04-24T08:17:24.316Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011820970?sid=102" class="nclicks(rig.secteco)" title="檢 '곽상도 의혹' 호반건설·산은 압수수색…변호인 반발(종합)">檢 '곽상도 의혹' 호반건설·산은 압수수색…변호인 반발(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불꽃놀이·디제이 파티…레고랜드, 28일부터 ‘한국 맞춤’ 야간 개장]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002637060?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002637060?sid=103"/>
-        <updated>2023-04-24T07:13:20.965Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002637060?sid=103" class="nclicks(rig.secteco)" title="불꽃놀이·디제이 파티…레고랜드, 28일부터 ‘한국 맞춤’ 야간 개장">불꽃놀이·디제이 파티…레고랜드, 28일부터 ‘한국 맞춤’ 야간 개장</a>]]></content>
+        <title type="html"><![CDATA[“김지하의 문학과 실천, 사상은 우리의 자산이자 힘”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002637077?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002637077?sid=103"/>
+        <updated>2023-04-24T08:17:24.318Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002637077?sid=103" class="nclicks(rig.secteco)" title="“김지하의 문학과 실천, 사상은 우리의 자산이자 힘”">“김지하의 문학과 실천, 사상은 우리의 자산이자 힘”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올 늦봄·초여름 평년보다 더울 듯, 5월에 때 이른 여름…7월엔 많은 비]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003219249?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003219249?sid=103"/>
-        <updated>2023-04-24T07:13:20.969Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003219249?sid=103" class="nclicks(rig.secteco)" title="올 늦봄·초여름 평년보다 더울 듯, 5월에 때 이른 여름…7월엔 많은 비">올 늦봄·초여름 평년보다 더울 듯, 5월에 때 이른 여름…7월엔 많은 비</a>]]></content>
+        <title type="html"><![CDATA[뜨거운 봄 오더니 5월부터 ‘초여름’ 더위 온다]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002637102?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002637102?sid=103"/>
+        <updated>2023-04-24T08:17:24.319Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002637102?sid=103" class="nclicks(rig.secteco)" title="뜨거운 봄 오더니 5월부터 ‘초여름’ 더위 온다">뜨거운 봄 오더니 5월부터 ‘초여름’ 더위 온다</a>]]></content>
     </entry>
 </feed>
