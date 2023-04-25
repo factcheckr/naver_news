@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-25T22:13:09.315Z</updated>
+    <updated>2023-04-25T23:13:55.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[미NSC "尹, 우크라 침공 반대 감사…지원 여부는 주권 사안" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003275687?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003275687?sid=100"/>
-        <updated>2023-04-25T20:13:45.546Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003275687?sid=100" class="nclicks(rig.secteco)" title="미NSC &quot;尹, 우크라 침공 반대 감사…지원 여부는 주권 사안&quot;">미NSC "尹, 우크라 침공 반대 감사…지원 여부는 주권 사안"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 "한미동맹, 우주안보로 확대되길"…해리스 "우주동맹에 韓과 한팀"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011823869?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011823869?sid=100"/>
-        <updated>2023-04-25T22:12:36.730Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011823869?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;한미동맹, 우주안보로 확대되길&quot;…해리스 &quot;우주동맹에 韓과 한팀&quot;(종합)">尹 "한미동맹, 우주안보로 확대되길"…해리스 "우주동맹에 韓과 한팀"(종합)</a>]]></content>
+        <title type="html"><![CDATA[尹, 부통령 해리스와 나사 방문…美 유인 달탐사 계획에 본격 참여(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013902995?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013902995?sid=100"/>
+        <updated>2023-04-25T23:13:19.362Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013902995?sid=100" class="nclicks(rig.secteco)" title="尹, 부통령 해리스와 나사 방문…美 유인 달탐사 계획에 본격 참여(종합)">尹, 부통령 해리스와 나사 방문…美 유인 달탐사 계획에 본격 참여(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 文다큐, 크라우드 펀딩 열흘만에 후원금 14억원 모았다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,39 +19,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003275815?sid=100" class="nclicks(rig.secteco)" title="[단독] 文다큐, 크라우드 펀딩 열흘만에 후원금 14억원 모았다">[단독] 文다큐, 크라우드 펀딩 열흘만에 후원금 14억원 모았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이제 일을 끝내자”… 바이든, 내년 대권 재도전 공식 선언 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003356592?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003356592?sid=104"/>
-        <updated>2023-04-25T21:11:36.759Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003356592?sid=104" class="nclicks(rig.secteco)" title="“이제 일을 끝내자”… 바이든, 내년 대권 재도전 공식 선언">“이제 일을 끝내자”… 바이든, 내년 대권 재도전 공식 선언</a>]]></content>
+        <title type="html"><![CDATA['1호 영업사원' 尹, 이틀새 44억 달러 세일즈…"한미 경제 시너지"(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011823904?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011823904?sid=100"/>
+        <updated>2023-04-25T23:13:19.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011823904?sid=100" class="nclicks(rig.secteco)" title="'1호 영업사원' 尹, 이틀새 44억 달러 세일즈…&quot;한미 경제 시너지&quot;(종합)">'1호 영업사원' 尹, 이틀새 44억 달러 세일즈…"한미 경제 시너지"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원전수 방류 초읽기…초유 사태에 세계가 불안 [오염수가 온다①] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002706472?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002706472?sid=104"/>
-        <updated>2023-04-25T22:12:36.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002706472?sid=104" class="nclicks(rig.secteco)" title="원전수 방류 초읽기…초유 사태에 세계가 불안 [오염수가 온다①]">원전수 방류 초읽기…초유 사태에 세계가 불안 [오염수가 온다①]</a>]]></content>
+        <title type="html"><![CDATA[내년 재선 도전한 80세 바이든…고령 우려 극복할까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002303599?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002303599?sid=104"/>
+        <updated>2023-04-25T23:13:19.368Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002303599?sid=104" class="nclicks(rig.secteco)" title="내년 재선 도전한 80세 바이든…고령 우려 극복할까">내년 재선 도전한 80세 바이든…고령 우려 극복할까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차의 변신, 고수익 브랜드 됐다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003760031?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003760031?sid=101"/>
-        <updated>2023-04-25T22:12:36.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003760031?sid=101" class="nclicks(rig.secteco)" title="현대차의 변신, 고수익 브랜드 됐다">현대차의 변신, 고수익 브랜드 됐다</a>]]></content>
+        <title type="html"><![CDATA[美 "담배업체 BAT, 대북제재 위반 8천400여억원 이상 벌금 부과"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013902989?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013902989?sid=104"/>
+        <updated>2023-04-25T23:13:19.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013902989?sid=104" class="nclicks(rig.secteco)" title="美 &quot;담배업체 BAT, 대북제재 위반 8천400여억원 이상 벌금 부과&quot;(종합2보)">美 "담배업체 BAT, 대북제재 위반 8천400여억원 이상 벌금 부과"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韓·美, 자동차·배터리 기업간 연대… 공급망 협력으로 ‘IRA 파고’ 넘는다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003806486?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003806486?sid=101"/>
-        <updated>2023-04-25T22:12:36.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003806486?sid=101" class="nclicks(rig.secteco)" title="韓·美, 자동차·배터리 기업간 연대… 공급망 협력으로 ‘IRA 파고’ 넘는다">韓·美, 자동차·배터리 기업간 연대… 공급망 협력으로 ‘IRA 파고’ 넘는다</a>]]></content>
+        <title type="html"><![CDATA[“돌아온 은행공포 퍼스트 -49%”…“알파벳·MS 어닝 전망 깼다” [김영필의 3분 월스트리트] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004183331?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004183331?sid=101"/>
+        <updated>2023-04-25T23:13:19.372Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004183331?sid=101" class="nclicks(rig.secteco)" title="“돌아온 은행공포 퍼스트 -49%”…“알파벳·MS 어닝 전망 깼다” [김영필의 3분 월스트리트]">“돌아온 은행공포 퍼스트 -49%”…“알파벳·MS 어닝 전망 깼다” [김영필의 3분 월스트리트]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빚투폭탄에 화들짝…증권사들 대출중단 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004879605?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004879605?sid=101"/>
-        <updated>2023-04-25T21:11:36.764Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004879605?sid=101" class="nclicks(rig.secteco)" title="빚투폭탄에 화들짝…증권사들 대출중단">빚투폭탄에 화들짝…증권사들 대출중단</a>]]></content>
+        <title type="html"><![CDATA[현대차, 매달 1조원 넘게 벌었다…'최대 실적' 비결 살펴보니 [biz-플러스] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004183336?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004183336?sid=101"/>
+        <updated>2023-04-25T23:13:19.374Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004183336?sid=101" class="nclicks(rig.secteco)" title="현대차, 매달 1조원 넘게 벌었다…'최대 실적' 비결 살펴보니 [biz-플러스]">현대차, 매달 1조원 넘게 벌었다…'최대 실적' 비결 살펴보니 [biz-플러스]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘 기업·사람] 알파벳·MS·아마존·메타·현대차·SK·GM·삼성·넷플릭스·디즈니+ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000333191?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000333191?sid=101"/>
+        <updated>2023-04-25T23:13:19.376Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000333191?sid=101" class="nclicks(rig.secteco)" title="[김대호 박사의 오늘 기업·사람] 알파벳·MS·아마존·메타·현대차·SK·GM·삼성·넷플릭스·디즈니+">[김대호 박사의 오늘 기업·사람] 알파벳·MS·아마존·메타·현대차·SK·GM·삼성·넷플릭스·디즈니+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[일문일답] 애플·아마존도 따라하는 네이버웹툰 수익모델, 10년새 87배 ‘쑥’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003806461?sid=102" class="nclicks(rig.secteco)" title="‘전대 돈봉투 의혹’ 송영길, 피의자 전환… 檢 소환 언제쯤">‘전대 돈봉투 의혹’ 송영길, 피의자 전환… 檢 소환 언제쯤</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['방문 간호' 확대가 간호법 돌파구 될까? (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001877629?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001877629?sid=102"/>
-        <updated>2023-04-25T22:12:36.763Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001877629?sid=102" class="nclicks(rig.secteco)" title="'방문 간호' 확대가 간호법 돌파구 될까?">'방문 간호' 확대가 간호법 돌파구 될까?</a>]]></content>
+        <title type="html"><![CDATA[간호법 본회의 앞두고 전격 발표…논란 예고한 '간호인력 대책' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005250630?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005250630?sid=102"/>
+        <updated>2023-04-25T23:13:19.384Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005250630?sid=102" class="nclicks(rig.secteco)" title="간호법 본회의 앞두고 전격 발표…논란 예고한 '간호인력 대책'">간호법 본회의 앞두고 전격 발표…논란 예고한 '간호인력 대책'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양쪽에서 판 밀자 동해 지진 '쿵'…지진해일 덮치나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006769709?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006769709?sid=102"/>
-        <updated>2023-04-25T21:11:36.770Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006769709?sid=102" class="nclicks(rig.secteco)" title="양쪽에서 판 밀자 동해 지진 '쿵'…지진해일 덮치나">양쪽에서 판 밀자 동해 지진 '쿵'…지진해일 덮치나</a>]]></content>
+        <title type="html"><![CDATA[강원 동해 해역서 또 지진 발생..나흘새 18번 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/660/0000033340?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/660/0000033340?sid=102"/>
+        <updated>2023-04-25T23:13:19.386Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000033340?sid=102" class="nclicks(rig.secteco)" title="강원 동해 해역서 또 지진 발생..나흘새 18번">강원 동해 해역서 또 지진 발생..나흘새 18번</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스1 PICK]일제가 훼손한 광화문 월대 현장 공개…“10월까지 복원 마무리” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
