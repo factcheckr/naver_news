@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-26T10:14:17.898Z</updated>
+    <updated>2023-04-26T11:11:42.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000340835?sid=100" class="nclicks(rig.secteco)" title="'돈봉투 의혹' 시끄러운 와중에…'민형배 복당' 결정한 민주당">'돈봉투 의혹' 시끄러운 와중에…'민형배 복당' 결정한 민주당</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[韓美, 나토식 핵협의그룹 신설…확장억제 '워싱턴선언' 발표키로]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013905505?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013905505?sid=100"/>
+        <updated>2023-04-26T11:11:12.139Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013905505?sid=100" class="nclicks(rig.secteco)" title="韓美, 나토식 핵협의그룹 신설…확장억제 '워싱턴선언' 발표키로">韓美, 나토식 핵협의그룹 신설…확장억제 '워싱턴선언' 발표키로</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주스 가져가는 尹에 "제로콜라 드시라"…취향까지 배려한 바이든]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004837589?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/015/0004837589?sid=100"/>
         <updated>2023-04-26T10:13:49.797Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004837589?sid=100" class="nclicks(rig.secteco)" title="주스 가져가는 尹에 &quot;제로콜라 드시라&quot;…취향까지 배려한 바이든">주스 가져가는 尹에 "제로콜라 드시라"…취향까지 배려한 바이든</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장경태 "화동 볼 입맞춤한 尹, 성적학대" 주장…與 "포르노 생각 뿐"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004880132?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004880132?sid=100"/>
-        <updated>2023-04-26T10:13:49.799Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004880132?sid=100" class="nclicks(rig.secteco)" title="장경태 &quot;화동 볼 입맞춤한 尹, 성적학대&quot; 주장…與 &quot;포르노 생각 뿐&quot;">장경태 "화동 볼 입맞춤한 尹, 성적학대" 주장…與 "포르노 생각 뿐"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애연가 김정은이 좋아한 ‘던힐’…美에 8400억 벌금 내게 된 죄목은]]></title>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005122298?sid=104" class="nclicks(rig.secteco)" title="애연가 김정은이 좋아한 ‘던힐’…美에 8400억 벌금 내게 된 죄목은">애연가 김정은이 좋아한 ‘던힐’…美에 8400억 벌금 내게 된 죄목은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['마약=사형' 싱가포르, 대마초 교수형 집행…작년 11명]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005472727?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005472727?sid=104"/>
-        <updated>2023-04-26T08:20:01.186Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005472727?sid=104" class="nclicks(rig.secteco)" title="'마약=사형' 싱가포르, 대마초 교수형 집행…작년 11명">'마약=사형' 싱가포르, 대마초 교수형 집행…작년 11명</a>]]></content>
+        <title type="html"><![CDATA['다운증후군' 바비 인형 나왔다…"포용적인 세상에 도움 되길"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004837597?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004837597?sid=104"/>
+        <updated>2023-04-26T11:11:12.142Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004837597?sid=104" class="nclicks(rig.secteco)" title="'다운증후군' 바비 인형 나왔다…&quot;포용적인 세상에 도움 되길&quot;">'다운증후군' 바비 인형 나왔다…"포용적인 세상에 도움 되길"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['신기록 질주' 현대차·기아… 영업익 첫 6兆 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005003274?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005003274?sid=101"/>
-        <updated>2023-04-26T10:13:49.809Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005003274?sid=101" class="nclicks(rig.secteco)" title="'신기록 질주' 현대차·기아… 영업익 첫 6兆 돌파">'신기록 질주' 현대차·기아… 영업익 첫 6兆 돌파</a>]]></content>
+        <title type="html"><![CDATA[현대차그룹 영업이익 6조, 글로벌 1위 도요타도 제쳤다]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003806768?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003806768?sid=101"/>
+        <updated>2023-04-26T11:11:12.144Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003806768?sid=101" class="nclicks(rig.secteco)" title="현대차그룹 영업이익 6조, 글로벌 1위 도요타도 제쳤다">현대차그룹 영업이익 6조, 글로벌 1위 도요타도 제쳤다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK하이닉스, 1분기 3.4조 적자… “2분기 반등 기대”]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003806770?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003806770?sid=101"/>
+        <updated>2023-04-26T11:11:12.152Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003806770?sid=101" class="nclicks(rig.secteco)" title="SK하이닉스, 1분기 3.4조 적자… “2분기 반등 기대”">SK하이닉스, 1분기 3.4조 적자… “2분기 반등 기대”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 쌍용차 품은 KG그룹, 이번엔 에디슨모터스 인수 추진]]></title>
@@ -55,18 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004183651?sid=101" class="nclicks(rig.secteco)" title="[단독] 쌍용차 품은 KG그룹, 이번엔 에디슨모터스 인수 추진">[단독] 쌍용차 품은 KG그룹, 이번엔 에디슨모터스 인수 추진</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['벤처업계 숙원' 복수의결권, 3년 만에 법사위 넘었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004837581?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004837581?sid=101"/>
-        <updated>2023-04-26T10:13:49.813Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004837581?sid=101" class="nclicks(rig.secteco)" title="'벤처업계 숙원' 복수의결권, 3년 만에 법사위 넘었다">'벤처업계 숙원' 복수의결권, 3년 만에 법사위 넘었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] KT도 중간요금제 출시…80개 넘는 5G 요금제, 나만 어려워?]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003276005?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003276005?sid=105"/>
-        <updated>2023-04-26T10:13:49.813Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276005?sid=105" class="nclicks(rig.secteco)" title="[팩플] KT도 중간요금제 출시…80개 넘는 5G 요금제, 나만 어려워?">[팩플] KT도 중간요금제 출시…80개 넘는 5G 요금제, 나만 어려워?</a>]]></content>
+        <title type="html"><![CDATA[휴대전화 중간요금제 있으나마나…데이터당 단가 오히려 비싸]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011473425?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011473425?sid=105"/>
+        <updated>2023-04-26T11:11:12.157Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011473425?sid=105" class="nclicks(rig.secteco)" title="휴대전화 중간요금제 있으나마나…데이터당 단가 오히려 비싸">휴대전화 중간요금제 있으나마나…데이터당 단가 오히려 비싸</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개인정보보호법 개정에 통신·OTT업계 "공식 소통 창구와 명확한 가이드 필요"]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005472807?sid=102" class="nclicks(rig.secteco)" title="'2심도 무기징역' 이은해는 어떤 인생을 살다 살인범이 됐나">'2심도 무기징역' 이은해는 어떤 인생을 살다 살인범이 됐나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['중대재해 2호' CEO 법정구속…경영 리스크 현실로 닥쳤다]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004837608?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004837608?sid=102"/>
-        <updated>2023-04-26T10:13:49.815Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004837608?sid=102" class="nclicks(rig.secteco)" title="'중대재해 2호' CEO 법정구속…경영 리스크 현실로 닥쳤다">'중대재해 2호' CEO 법정구속…경영 리스크 현실로 닥쳤다</a>]]></content>
+        <title type="html"><![CDATA["결국 사망사고로"...중대재해 원청 대표 구속, 이것이 갈랐다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003275967?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003275967?sid=102"/>
+        <updated>2023-04-26T11:11:12.166Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003275967?sid=102" class="nclicks(rig.secteco)" title="&quot;결국 사망사고로&quot;...중대재해 원청 대표 구속, 이것이 갈랐다">"결국 사망사고로"...중대재해 원청 대표 구속, 이것이 갈랐다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[檢, '박영수 50억클럽' 우리은행 또 압수수색…조만간 소환]]></title>
