@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-27T17:12:38.344Z</updated>
+    <updated>2023-04-27T18:16:39.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276524?sid=100" class="nclicks(rig.secteco)" title="간호법 크게 좋아할 것도 문제될 것도 아닌데…결국 국민 피해 [뉴스분석]">간호법 크게 좋아할 것도 문제될 것도 아닌데…결국 국민 피해 [뉴스분석]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尹, 美의회서 영어연설... “세계 도처서 거짓 정보가 민주주의 위협”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003760517?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003760517?sid=100"/>
+        <updated>2023-04-27T18:16:07.958Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003760517?sid=100" class="nclicks(rig.secteco)" title="尹, 美의회서 영어연설... “세계 도처서 거짓 정보가 민주주의 위협”">尹, 美의회서 영어연설... “세계 도처서 거짓 정보가 민주주의 위협”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[與 퇴장 속 野 단독 '쌍특검' 패트 통과…또 극한 대치]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000214207?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/629/0000214207?sid=100"/>
@@ -20,53 +27,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000214207?sid=100" class="nclicks(rig.secteco)" title="與 퇴장 속 野 단독 '쌍특검' 패트 통과…또 극한 대치">與 퇴장 속 野 단독 '쌍특검' 패트 통과…또 극한 대치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 미 의회 연설 “민주주의 위기···거짓 위장 세력에 힘 합쳐 싸워야”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003220240?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003220240?sid=100"/>
-        <updated>2023-04-27T17:12:10.616Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003220240?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 미 의회 연설 “민주주의 위기···거짓 위장 세력에 힘 합쳐 싸워야”">윤 대통령, 미 의회 연설 “민주주의 위기···거짓 위장 세력에 힘 합쳐 싸워야”</a>]]></content>
+        <title type="html"><![CDATA[소비 둔화·은행 위기 겹쳐…美, 하반기엔 '1%대 성장'도 위태]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004838327?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004838327?sid=104"/>
+        <updated>2023-04-27T18:16:07.972Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004838327?sid=104" class="nclicks(rig.secteco)" title="소비 둔화·은행 위기 겹쳐…美, 하반기엔 '1%대 성장'도 위태">소비 둔화·은행 위기 겹쳐…美, 하반기엔 '1%대 성장'도 위태</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예상 밑돈 美1분기 성장률 1.1%...고금리에 투자 둔화 직격탄(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005251997?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005251997?sid=104"/>
-        <updated>2023-04-27T17:12:10.619Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005251997?sid=104" class="nclicks(rig.secteco)" title="예상 밑돈 美1분기 성장률 1.1%...고금리에 투자 둔화 직격탄(종합)">예상 밑돈 美1분기 성장률 1.1%...고금리에 투자 둔화 직격탄(종합)</a>]]></content>
+        <title type="html"><![CDATA[韓美 “印太지역 일방적 현상변경 반대”… 中 “위험한 길 가지말라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494249?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494249?sid=104"/>
+        <updated>2023-04-27T18:16:07.973Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494249?sid=104" class="nclicks(rig.secteco)" title="韓美 “印太지역 일방적 현상변경 반대”… 中 “위험한 길 가지말라”">韓美 “印太지역 일방적 현상변경 반대”… 中 “위험한 길 가지말라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미정상회담 대만 언급에…中 "위험한 길로 가지말라"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011829427?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011829427?sid=104"/>
-        <updated>2023-04-27T17:12:10.620Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011829427?sid=104" class="nclicks(rig.secteco)" title="한미정상회담 대만 언급에…中 &quot;위험한 길로 가지말라&quot;">한미정상회담 대만 언급에…中 "위험한 길로 가지말라"</a>]]></content>
+        <title type="html"><![CDATA[정부 ‘전세사기 특별법’ 발의… 피해자 경매자금 전액 대출]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494223?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494223?sid=101"/>
+        <updated>2023-04-27T18:16:07.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494223?sid=101" class="nclicks(rig.secteco)" title="정부 ‘전세사기 특별법’ 발의… 피해자 경매자금 전액 대출">정부 ‘전세사기 특별법’ 발의… 피해자 경매자금 전액 대출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, 전세사기 특별법 공개…피해자에 살던 집 우선매수권 준다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003276505?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003276505?sid=101"/>
-        <updated>2023-04-27T16:17:06.126Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276505?sid=101" class="nclicks(rig.secteco)" title="정부, 전세사기 특별법 공개…피해자에 살던 집 우선매수권 준다">정부, 전세사기 특별법 공개…피해자에 살던 집 우선매수권 준다</a>]]></content>
+        <title type="html"><![CDATA[대우조선 품은 한화, 방산-에너지 양날개 활짝]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494290?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494290?sid=101"/>
+        <updated>2023-04-27T18:16:07.977Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494290?sid=101" class="nclicks(rig.secteco)" title="대우조선 품은 한화, 방산-에너지 양날개 활짝">대우조선 품은 한화, 방산-에너지 양날개 활짝</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한화-대우조선 기업결합 완료…‘한국판 록히드마틴’ 나온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003276256?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003276256?sid=101"/>
-        <updated>2023-04-27T17:12:10.624Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276256?sid=101" class="nclicks(rig.secteco)" title="한화-대우조선 기업결합 완료…‘한국판 록히드마틴’ 나온다">한화-대우조선 기업결합 완료…‘한국판 록히드마틴’ 나온다</a>]]></content>
+        <title type="html"><![CDATA[프리미엄 제품이 불황 뚫었다… LG전자 1분기 영업익 1.5조]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494302?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494302?sid=101"/>
+        <updated>2023-04-27T18:16:07.979Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494302?sid=101" class="nclicks(rig.secteco)" title="프리미엄 제품이 불황 뚫었다… LG전자 1분기 영업익 1.5조">프리미엄 제품이 불황 뚫었다… LG전자 1분기 영업익 1.5조</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG전자, 생활가전 이익 첫 '1조' 달성…글로벌 불황 돌파(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011829162?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011829162?sid=101"/>
-        <updated>2023-04-27T17:12:10.625Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011829162?sid=101" class="nclicks(rig.secteco)" title="LG전자, 생활가전 이익 첫 '1조' 달성…글로벌 불황 돌파(종합)">LG전자, 생활가전 이익 첫 '1조' 달성…글로벌 불황 돌파(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30만명 고객 정보 유출 LGU+, 보안 조치 미흡했다…“실시간 감시, 외부 노출 차단 필요”]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000897152?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000897152?sid=105"/>
-        <updated>2023-04-27T16:17:06.130Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000897152?sid=105" class="nclicks(rig.secteco)" title="30만명 고객 정보 유출 LGU+, 보안 조치 미흡했다…“실시간 감시, 외부 노출 차단 필요”">30만명 고객 정보 유출 LGU+, 보안 조치 미흡했다…“실시간 감시, 외부 노출 차단 필요”</a>]]></content>
+        <title type="html"><![CDATA[“정보유출 LGU+, 웹관리 초기 비번 그대로 써”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494300?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494300?sid=105"/>
+        <updated>2023-04-27T18:16:07.980Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494300?sid=105" class="nclicks(rig.secteco)" title="“정보유출 LGU+, 웹관리 초기 비번 그대로 써”">“정보유출 LGU+, 웹관리 초기 비번 그대로 써”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물에 띄우기만 하면 수소 만드는 친환경 광촉매 기술 나왔다]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000897444?sid=105" class="nclicks(rig.secteco)" title="물에 띄우기만 하면 수소 만드는 친환경 광촉매 기술 나왔다">물에 띄우기만 하면 수소 만드는 친환경 광촉매 기술 나왔다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI·반도체 ‘첨단학과’ 정원 늘린다…서울대도 30년만에 순증]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003276277?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003276277?sid=102"/>
-        <updated>2023-04-27T16:17:06.131Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276277?sid=102" class="nclicks(rig.secteco)" title="AI·반도체 ‘첨단학과’ 정원 늘린다…서울대도 30년만에 순증">AI·반도체 ‘첨단학과’ 정원 늘린다…서울대도 30년만에 순증</a>]]></content>
+        <title type="html"><![CDATA[반도체-AI 등 첨단기술 학과 정원 1829명 늘어나]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494275?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494275?sid=102"/>
+        <updated>2023-04-27T18:16:07.985Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494275?sid=102" class="nclicks(rig.secteco)" title="반도체-AI 등 첨단기술 학과 정원 1829명 늘어나">반도체-AI 등 첨단기술 학과 정원 1829명 늘어나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“임창정, 부인 서하얀과 주가조작 일당 ‘1조 파티’ 참석”]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003357201?sid=102" class="nclicks(rig.secteco)" title="“임창정, 부인 서하얀과 주가조작 일당 ‘1조 파티’ 참석”">“임창정, 부인 서하얀과 주가조작 일당 ‘1조 파티’ 참석”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘신당역 살인’ 전주환, 항소심서도 사형 구형]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000897439?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000897439?sid=102"/>
-        <updated>2023-04-27T15:18:05.826Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000897439?sid=102" class="nclicks(rig.secteco)" title="‘신당역 살인’ 전주환, 항소심서도 사형 구형">‘신당역 살인’ 전주환, 항소심서도 사형 구형</a>]]></content>
+        <title type="html"><![CDATA[검찰, '신당역 살인' 전주환 항소심서도 사형 구형]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011829251?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011829251?sid=102"/>
+        <updated>2023-04-27T18:16:07.987Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011829251?sid=102" class="nclicks(rig.secteco)" title="검찰, '신당역 살인' 전주환 항소심서도 사형 구형">검찰, '신당역 살인' 전주환 항소심서도 사형 구형</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일본식 명칭 '문화재'→'국가유산' 변경…국가유산기본법 국회 통과]]></title>
