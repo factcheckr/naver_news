@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-28T23:13:34.756Z</updated>
+    <updated>2023-04-29T01:02:11.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,32 +13,46 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003764905?sid=100" class="nclicks(rig.secteco)" title="'안정' 택한 민주당…원내대표 박광온 앞 '돈 봉투' 등 과제 산적">'안정' 택한 민주당…원내대표 박광온 앞 '돈 봉투' 등 과제 산적</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['사실상 핵공유'는 성과 부풀리기? 대통령실 "용어 집착할 필요 없어"]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002390590?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002390590?sid=100"/>
-        <updated>2023-04-28T23:13:02.370Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002390590?sid=100" class="nclicks(rig.secteco)" title="'사실상 핵공유'는 성과 부풀리기? 대통령실 &quot;용어 집착할 필요 없어&quot;">'사실상 핵공유'는 성과 부풀리기? 대통령실 "용어 집착할 필요 없어"</a>]]></content>
+        <title type="html"><![CDATA[日 언론 "기시다, 5월 7~8일 방한 추진…정상회담 조율 중"]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000333784?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000333784?sid=100"/>
+        <updated>2023-04-29T01:01:42.584Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000333784?sid=100" class="nclicks(rig.secteco)" title="日 언론 &quot;기시다, 5월 7~8일 방한 추진…정상회담 조율 중&quot;">日 언론 "기시다, 5월 7~8일 방한 추진…정상회담 조율 중"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤 대통령, 하버드대 연설‥"자유·민주주의 위기"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001269617?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001269617?sid=100"/>
-        <updated>2023-04-28T23:13:02.372Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001269617?sid=100" class="nclicks(rig.secteco)" title="윤 대통령, 하버드대 연설‥&quot;자유·민주주의 위기&quot;">윤 대통령, 하버드대 연설‥"자유·민주주의 위기"</a>]]></content>
+        <title type="html"><![CDATA[김여정, '北 정권 종말' 언급 바이든에 "늙은이 망언" 막말 비난]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003276730?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003276730?sid=100"/>
+        <updated>2023-04-29T01:01:42.584Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276730?sid=100" class="nclicks(rig.secteco)" title="김여정, '北 정권 종말' 언급 바이든에 &quot;늙은이 망언&quot; 막말 비난">김여정, '北 정권 종말' 언급 바이든에 "늙은이 망언" 막말 비난</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수출규제 해제 절차 개시‥규제 푸는 일본]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001269621?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001269621?sid=104"/>
-        <updated>2023-04-28T23:13:02.375Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001269621?sid=104" class="nclicks(rig.secteco)" title="수출규제 해제 절차 개시‥규제 푸는 일본">수출규제 해제 절차 개시‥규제 푸는 일본</a>]]></content>
+        <title type="html"><![CDATA[日, 4년 만에 對韓 수출 규제 푼다]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003807724?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003807724?sid=104"/>
+        <updated>2023-04-29T01:01:42.584Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003807724?sid=104" class="nclicks(rig.secteco)" title="日, 4년 만에 對韓 수출 규제 푼다">日, 4년 만에 對韓 수출 규제 푼다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 한국, 美세탁기 세이프가드 분쟁 승소 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004184909?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004184909?sid=104"/>
-        <updated>2023-04-28T18:15:40.810Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004184909?sid=104" class="nclicks(rig.secteco)" title="[속보] 한국, 美세탁기 세이프가드 분쟁 승소 확정">[속보] 한국, 美세탁기 세이프가드 분쟁 승소 확정</a>]]></content>
+        <title type="html"><![CDATA[미 퍼스트리퍼블릭 SVB 전철 밟나? FDIC 법정관리 임박]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000333779?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000333779?sid=104"/>
+        <updated>2023-04-29T01:01:42.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000333779?sid=104" class="nclicks(rig.secteco)" title="미 퍼스트리퍼블릭 SVB 전철 밟나? FDIC 법정관리 임박">미 퍼스트리퍼블릭 SVB 전철 밟나? FDIC 법정관리 임박</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1분기 국세 24조 감소… 세수 결손 우려 증폭]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003807723?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003807723?sid=101"/>
+        <updated>2023-04-29T01:01:42.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003807723?sid=101" class="nclicks(rig.secteco)" title="1분기 국세 24조 감소… 세수 결손 우려 증폭">1분기 국세 24조 감소… 세수 결손 우려 증폭</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부채비율 급등 '한전·가스公' 영향…연료비 폭등 직격탄[2022 공공기관③]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011831818?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011831818?sid=101"/>
+        <updated>2023-04-29T01:01:42.585Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011831818?sid=101" class="nclicks(rig.secteco)" title="부채비율 급등 '한전·가스公' 영향…연료비 폭등 직격탄[2022 공공기관③]">부채비율 급등 '한전·가스公' 영향…연료비 폭등 직격탄[2022 공공기관③]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]"최대 높이 200m"…여의도 아파트 60층까지 올린다[집슐랭]]]></title>
@@ -46,20 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004184549?sid=101"/>
         <updated>2023-04-28T20:13:37.618Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004184549?sid=101" class="nclicks(rig.secteco)" title="[단독]&quot;최대 높이 200m&quot;…여의도 아파트 60층까지 올린다[집슐랭]">[단독]"최대 높이 200m"…여의도 아파트 60층까지 올린다[집슐랭]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 물가 5% 안팎서 잘 안떨어진다…인플레 장기화 우려(재종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005475389?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005475389?sid=101"/>
-        <updated>2023-04-28T22:11:49.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005475389?sid=101" class="nclicks(rig.secteco)" title="미 물가 5% 안팎서 잘 안떨어진다…인플레 장기화 우려(재종합)">미 물가 5% 안팎서 잘 안떨어진다…인플레 장기화 우려(재종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전·가스公 신규채용, 1년전 반토막…女비중 30% 미만[2022 공공기관②]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011831765?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011831765?sid=101"/>
-        <updated>2023-04-28T23:13:02.387Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011831765?sid=101" class="nclicks(rig.secteco)" title="한전·가스公 신규채용, 1년전 반토막…女비중 30% 미만[2022 공공기관②]">한전·가스公 신규채용, 1년전 반토막…女비중 30% 미만[2022 공공기관②]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차세대 유전자 가위, AI로 안전하게 설계한다]]></title>
@@ -83,31 +83,31 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003807703?sid=102" class="nclicks(rig.secteco)" title="유동규, 이재명에 “형님 정신병원 집어넣게 시켰잖아요!”…법정서 충돌">유동규, 이재명에 “형님 정신병원 집어넣게 시켰잖아요!”…법정서 충돌</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년만에 의료대란 재현?…의사·간호조무사, 5월 4일 부분파업 예고]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006777725?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006777725?sid=102"/>
-        <updated>2023-04-28T23:13:02.395Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006777725?sid=102" class="nclicks(rig.secteco)" title="3년만에 의료대란 재현?…의사·간호조무사, 5월 4일 부분파업 예고">3년만에 의료대란 재현?…의사·간호조무사, 5월 4일 부분파업 예고</a>]]></content>
+        <title type="html"><![CDATA[‘간호법’에 둘로 쪼개진 의료계… 보건 위기 가시화]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003807728?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003807728?sid=102"/>
+        <updated>2023-04-29T01:01:42.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003807728?sid=102" class="nclicks(rig.secteco)" title="‘간호법’에 둘로 쪼개진 의료계… 보건 위기 가시화">‘간호법’에 둘로 쪼개진 의료계… 보건 위기 가시화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 병원에 차량 돌진‥'지진 재난문자' 오발송]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001269624?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001269624?sid=102"/>
-        <updated>2023-04-28T23:13:02.397Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001269624?sid=102" class="nclicks(rig.secteco)" title="대학 병원에 차량 돌진‥'지진 재난문자' 오발송">대학 병원에 차량 돌진‥'지진 재난문자' 오발송</a>]]></content>
+        <title type="html"><![CDATA[주말 천둥·번개 동반 최대 60㎜ 비…중부지방 강풍특보 예상]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003276607?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003276607?sid=102"/>
+        <updated>2023-04-29T01:01:42.594Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276607?sid=102" class="nclicks(rig.secteco)" title="주말 천둥·번개 동반 최대 60㎜ 비…중부지방 강풍특보 예상">주말 천둥·번개 동반 최대 60㎜ 비…중부지방 강풍특보 예상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['암세포만 정밀타격' 중입자치료 시대 활짝...치료비는 아직 부담]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001878999?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001878999?sid=103"/>
-        <updated>2023-04-28T22:11:49.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001878999?sid=103" class="nclicks(rig.secteco)" title="'암세포만 정밀타격' 중입자치료 시대 활짝...치료비는 아직 부담">'암세포만 정밀타격' 중입자치료 시대 활짝...치료비는 아직 부담</a>]]></content>
+        <title type="html"><![CDATA["후유증 적다는 말에 선택" 중입자치료 1호는 환자 소감 들어보니 [헬시타임]]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004184937?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004184937?sid=103"/>
+        <updated>2023-04-29T01:01:42.596Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004184937?sid=103" class="nclicks(rig.secteco)" title="&quot;후유증 적다는 말에 선택&quot; 중입자치료 1호는 환자 소감 들어보니 [헬시타임]">"후유증 적다는 말에 선택" 중입자치료 1호는 환자 소감 들어보니 [헬시타임]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[故 서세원 유가족 "사인 납득 안돼"…장례는 코미디언협회장]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003764842?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003764842?sid=103"/>
-        <updated>2023-04-28T21:10:59.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003764842?sid=103" class="nclicks(rig.secteco)" title="故 서세원 유가족 &quot;사인 납득 안돼&quot;…장례는 코미디언협회장">故 서세원 유가족 "사인 납득 안돼"…장례는 코미디언협회장</a>]]></content>
+        <title type="html"><![CDATA[오늘 전국 흐리고 곳곳 비소식…오후에 대부분 그쳐]]></title>
+        <id>https://n.news.naver.com/mnews/article/374/0000333785?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/374/0000333785?sid=103"/>
+        <updated>2023-04-29T01:01:42.597Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000333785?sid=103" class="nclicks(rig.secteco)" title="오늘 전국 흐리고 곳곳 비소식…오후에 대부분 그쳐">오늘 전국 흐리고 곳곳 비소식…오후에 대부분 그쳐</a>]]></content>
     </entry>
 </feed>
