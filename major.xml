@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-04-30T18:14:52.623Z</updated>
+    <updated>2023-04-30T19:10:38.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000024294?sid=100" class="nclicks(rig.secteco)" title="'4.3' 발언 등 막말 콤비에, 국힘 윤리위 '칼' 빼들까?.. 민주 &quot;징계로 품격 되찾길&quot;">'4.3' 발언 등 막말 콤비에, 국힘 윤리위 '칼' 빼들까?.. 민주 "징계로 품격 되찾길"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美 환대에 日도 호응… 주도권 잡은 ‘尹 외교’]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003760991?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003760991?sid=104"/>
+        <updated>2023-04-30T19:10:08.461Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003760991?sid=104" class="nclicks(rig.secteco)" title="美 환대에 日도 호응… 주도권 잡은 ‘尹 외교’">美 환대에 日도 호응… 주도권 잡은 ‘尹 외교’</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英 찰스3세 70년만의 대관식, 행렬 줄이고 다양한 인종 포용]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003494691?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/020/0003494691?sid=104"/>
         <updated>2023-04-30T18:14:23.508Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494691?sid=104" class="nclicks(rig.secteco)" title="英 찰스3세 70년만의 대관식, 행렬 줄이고 다양한 인종 포용">英 찰스3세 70년만의 대관식, 행렬 줄이고 다양한 인종 포용</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기시다 내주 방한 유력…식민지배 사죄 언급 촉각]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000039653?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000039653?sid=104"/>
-        <updated>2023-04-30T18:14:23.509Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/658/0000039653?sid=104" class="nclicks(rig.secteco)" title="기시다 내주 방한 유력…식민지배 사죄 언급 촉각">기시다 내주 방한 유력…식민지배 사죄 언급 촉각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다가구 전세사기 피해땐, 모든 세입자 동의해야 우선매수 가능]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003760972?sid=101" class="nclicks(rig.secteco)" title="한국판 ‘버핏과의 점심’ 정의선·박재욱·노홍철, MZ세대 30명 만난다">한국판 ‘버핏과의 점심’ 정의선·박재욱·노홍철, MZ세대 30명 만난다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과기정통부, NIA와 AI 학습용 데이터 개방한다]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005004887?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005004887?sid=105"/>
-        <updated>2023-04-30T10:13:14.533Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005004887?sid=105" class="nclicks(rig.secteco)" title="과기정통부, NIA와 AI 학습용 데이터 개방한다">과기정통부, NIA와 AI 학습용 데이터 개방한다</a>]]></content>
+        <title type="html"><![CDATA[AI용 데이터 15억건 개방… 7월까지 역대 최대규모]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003494706?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003494706?sid=105"/>
+        <updated>2023-04-30T19:10:08.468Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003494706?sid=105" class="nclicks(rig.secteco)" title="AI용 데이터 15억건 개방… 7월까지 역대 최대규모">AI용 데이터 15억건 개방… 7월까지 역대 최대규모</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“기지국 데이터로 감염병 관리”…KT, 게이츠재단 연구성과 공개]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005475735?sid=105" class="nclicks(rig.secteco)" title="“기지국 데이터로 감염병 관리”…KT, 게이츠재단 연구성과 공개">“기지국 데이터로 감염병 관리”…KT, 게이츠재단 연구성과 공개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["쿠르릉하더니 흔들" 충북 잦은 지진에 주민 불안 고조]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003765073?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003765073?sid=102"/>
-        <updated>2023-04-30T16:15:13.353Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003765073?sid=102" class="nclicks(rig.secteco)" title="&quot;쿠르릉하더니 흔들&quot; 충북 잦은 지진에 주민 불안 고조">"쿠르릉하더니 흔들" 충북 잦은 지진에 주민 불안 고조</a>]]></content>
+        <title type="html"><![CDATA[충북 옥천 동쪽에서 규모 3.1 지진 발생...피해 접수 없어]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001879430?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001879430?sid=102"/>
+        <updated>2023-04-30T19:10:08.470Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001879430?sid=102" class="nclicks(rig.secteco)" title="충북 옥천 동쪽에서 규모 3.1 지진 발생...피해 접수 없어">충북 옥천 동쪽에서 규모 3.1 지진 발생...피해 접수 없어</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['간호법 저지' 의사·간호조무사 '총파업' 예고…의료대란 우려]]></title>
