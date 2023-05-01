@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-01T13:15:50.087Z</updated>
+    <updated>2023-05-01T14:12:08.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003220834?sid=100" class="nclicks(rig.secteco)" title="회초리냐, 솜방망이냐…국민의힘, ‘설화’ 태영호·김재원 의원 징계 절차 착수">회초리냐, 솜방망이냐…국민의힘, ‘설화’ 태영호·김재원 의원 징계 절차 착수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전세사기 특별법 합의 불발…3일 다시 머리 맞댄다]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005476655?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005476655?sid=100"/>
-        <updated>2023-05-01T13:15:20.800Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005476655?sid=100" class="nclicks(rig.secteco)" title="전세사기 특별법 합의 불발…3일 다시 머리 맞댄다">전세사기 특별법 합의 불발…3일 다시 머리 맞댄다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[친명계, 갓 취임 박광온 흔들기…강성 지지층은 '사퇴 청원']]></title>
         <id>https://n.news.naver.com/mnews/article/448/0000407208?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/448/0000407208?sid=100"/>
@@ -27,18 +20,32 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000407208?sid=100" class="nclicks(rig.secteco)" title="친명계, 갓 취임 박광온 흔들기…강성 지지층은 '사퇴 청원'">친명계, 갓 취임 박광온 흔들기…강성 지지층은 '사퇴 청원'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 은행위기 급한 불 끄기…손실 보전해 매각]]></title>
+        <title type="html"><![CDATA[尹 "'프라미스' 성공, 외교 역량의 성과…日국민 이송, 당연한 일"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011834393?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011834393?sid=100"/>
+        <updated>2023-05-01T14:11:39.218Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011834393?sid=100" class="nclicks(rig.secteco)" title="尹 &quot;'프라미스' 성공, 외교 역량의 성과…日국민 이송, 당연한 일&quot;(종합)">尹 "'프라미스' 성공, 외교 역량의 성과…日국민 이송, 당연한 일"(종합)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美, 부실대출 줄여 재매각…은행부담 최소화]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005124353?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005124353?sid=104"/>
         <updated>2023-05-01T13:15:20.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005124353?sid=104" class="nclicks(rig.secteco)" title="美 은행위기 급한 불 끄기…손실 보전해 매각">美 은행위기 급한 불 끄기…손실 보전해 매각</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005124353?sid=104" class="nclicks(rig.secteco)" title="美, 부실대출 줄여 재매각…은행부담 최소화">美, 부실대출 줄여 재매각…은행부담 최소화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日 언론 "기시다, 7일~8일 한국 방문 확정적"...호응조치 주목]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001879757?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001879757?sid=104"/>
-        <updated>2023-05-01T13:15:20.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001879757?sid=104" class="nclicks(rig.secteco)" title="日 언론 &quot;기시다, 7일~8일 한국 방문 확정적&quot;...호응조치 주목">日 언론 "기시다, 7일~8일 한국 방문 확정적"...호응조치 주목</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/052/0001879743?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001879743?sid=104"/>
+        <updated>2023-05-01T14:11:39.222Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001879743?sid=104" class="nclicks(rig.secteco)" title="日 언론 &quot;기시다, 7일~8일 한국 방문 확정적&quot;...호응조치 주목">日 언론 "기시다, 7일~8일 한국 방문 확정적"...호응조치 주목</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보증금 4억5000만원까지…전세사기 피해자 요건 6개→4개로 축소]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004185515?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004185515?sid=101"/>
+        <updated>2023-05-01T14:11:39.223Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004185515?sid=101" class="nclicks(rig.secteco)" title="보증금 4억5000만원까지…전세사기 피해자 요건 6개→4개로 축소">보증금 4억5000만원까지…전세사기 피해자 요건 6개→4개로 축소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반도체 부진에 3조5000억 적자…수출 14개월 연속 적신호, 해법은[정다운의 뉴스톡]]]></title>
@@ -48,32 +55,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003765313?sid=101" class="nclicks(rig.secteco)" title="반도체 부진에 3조5000억 적자…수출 14개월 연속 적신호, 해법은[정다운의 뉴스톡]">반도체 부진에 3조5000억 적자…수출 14개월 연속 적신호, 해법은[정다운의 뉴스톡]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 라덕연 "내가 아니라 공매도가 주가 띄워…김익래 회장 '몰라'"]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004185371?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004185371?sid=101"/>
-        <updated>2023-05-01T13:15:20.806Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004185371?sid=101" class="nclicks(rig.secteco)" title="[단독] 라덕연 &quot;내가 아니라 공매도가 주가 띄워…김익래 회장 '몰라'&quot;">[단독] 라덕연 "내가 아니라 공매도가 주가 띄워…김익래 회장 '몰라'"</a>]]></content>
+        <title type="html"><![CDATA[검찰, 라덕연·골퍼 안모씨 등 SG사태 핵심들 입건...본격 수사 착수]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003761104?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003761104?sid=101"/>
+        <updated>2023-05-01T14:11:39.225Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761104?sid=101" class="nclicks(rig.secteco)" title="검찰, 라덕연·골퍼 안모씨 등 SG사태 핵심들 입건...본격 수사 착수">검찰, 라덕연·골퍼 안모씨 등 SG사태 핵심들 입건...본격 수사 착수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산업장관 "한전·가스공사 자구노력 전제…곧 요금조정 마무리"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013915084?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013915084?sid=101"/>
-        <updated>2023-05-01T12:24:06.461Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013915084?sid=101" class="nclicks(rig.secteco)" title="산업장관 &quot;한전·가스공사 자구노력 전제…곧 요금조정 마무리&quot;(종합)">산업장관 "한전·가스공사 자구노력 전제…곧 요금조정 마무리"(종합)</a>]]></content>
+        <title type="html"><![CDATA[4.8만원, 110GB…SKT 다이렉트5G로 바꿨더니]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005476656?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005476656?sid=105"/>
+        <updated>2023-05-01T14:11:39.226Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005476656?sid=105" class="nclicks(rig.secteco)" title="4.8만원, 110GB…SKT 다이렉트5G로 바꿨더니">4.8만원, 110GB…SKT 다이렉트5G로 바꿨더니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알뜰폰, 5G 중간 요금제 ‘돌풍’ 예고]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003220872?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003220872?sid=105"/>
-        <updated>2023-05-01T13:15:20.808Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003220872?sid=105" class="nclicks(rig.secteco)" title="알뜰폰, 5G 중간 요금제 ‘돌풍’ 예고">알뜰폰, 5G 중간 요금제 ‘돌풍’ 예고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAIST, 전북대 공동연구로 '코로나19' 증식 차단 '급소' 발견]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005476338?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005476338?sid=105"/>
-        <updated>2023-05-01T13:15:20.809Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005476338?sid=105" class="nclicks(rig.secteco)" title="KAIST, 전북대 공동연구로 '코로나19' 증식 차단 '급소' 발견">KAIST, 전북대 공동연구로 '코로나19' 증식 차단 '급소' 발견</a>]]></content>
+        <title type="html"><![CDATA[업스테이지 '아숙업', 개인 영양사도 된다…두잉랩 ‘푸드렌즈’ 적용]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002708165?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002708165?sid=105"/>
+        <updated>2023-05-01T14:11:39.227Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002708165?sid=105" class="nclicks(rig.secteco)" title="업스테이지 '아숙업', 개인 영양사도 된다…두잉랩 ‘푸드렌즈’ 적용">업스테이지 '아숙업', 개인 영양사도 된다…두잉랩 ‘푸드렌즈’ 적용</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광화문 메운 노동자 6만명 “노조탄압 윤석열 정권 심판”]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003220842?sid=102" class="nclicks(rig.secteco)" title="광화문 메운 노동자 6만명 “노조탄압 윤석열 정권 심판”">광화문 메운 노동자 6만명 “노조탄압 윤석열 정권 심판”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민 39% “엠폭스 정보 정확히 몰라”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003808316?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003808316?sid=102"/>
-        <updated>2023-05-01T12:24:06.464Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003808316?sid=102" class="nclicks(rig.secteco)" title="국민 39% “엠폭스 정보 정확히 몰라”">국민 39% “엠폭스 정보 정확히 몰라”</a>]]></content>
+        <title type="html"><![CDATA[엠폭스 주말에도 5명 추가확진·누적 47명…전원 국내 감염]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003765240?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003765240?sid=102"/>
+        <updated>2023-05-01T14:11:39.230Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003765240?sid=102" class="nclicks(rig.secteco)" title="엠폭스 주말에도 5명 추가확진·누적 47명…전원 국내 감염">엠폭스 주말에도 5명 추가확진·누적 47명…전원 국내 감염</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[檢 “송영길 금품살포 수혜자이자 공여자”… 영장에 공범 적시]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003808307?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003808307?sid=102"/>
-        <updated>2023-05-01T12:24:06.466Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003808307?sid=102" class="nclicks(rig.secteco)" title="檢 “송영길 금품살포 수혜자이자 공여자”… 영장에 공범 적시">檢 “송영길 금품살포 수혜자이자 공여자”… 영장에 공범 적시</a>]]></content>
+        <title type="html"><![CDATA[천화동인 6호 실소유 의혹 조우형 구속영장…검찰 “대장동 공범”]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002638104?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002638104?sid=102"/>
+        <updated>2023-05-01T14:11:39.231Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002638104?sid=102" class="nclicks(rig.secteco)" title="천화동인 6호 실소유 의혹 조우형 구속영장…검찰 “대장동 공범”">천화동인 6호 실소유 의혹 조우형 구속영장…검찰 “대장동 공범”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["등산객인데 내요?" 조계종 국가문화재 관람료 4일부터 면제]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003276992?sid=103" class="nclicks(rig.secteco)" title="&quot;등산객인데 내요?&quot; 조계종 국가문화재 관람료 4일부터 면제">"등산객인데 내요?" 조계종 국가문화재 관람료 4일부터 면제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[날씨] 내일 더 따뜻, 동쪽 대기 매우 건조‥바람도 강해]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001270012?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001270012?sid=103"/>
-        <updated>2023-05-01T13:15:20.819Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001270012?sid=103" class="nclicks(rig.secteco)" title="[날씨] 내일 더 따뜻, 동쪽 대기 매우 건조‥바람도 강해">[날씨] 내일 더 따뜻, 동쪽 대기 매우 건조‥바람도 강해</a>]]></content>
+        <title type="html"><![CDATA[3년 라니냐 가고 '강한 엘니뇨' 온다…한반도 영향은?]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000596584?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000596584?sid=103"/>
+        <updated>2023-05-01T14:11:39.234Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000596584?sid=103" class="nclicks(rig.secteco)" title="3년 라니냐 가고 '강한 엘니뇨' 온다…한반도 영향은?">3년 라니냐 가고 '강한 엘니뇨' 온다…한반도 영향은?</a>]]></content>
     </entry>
 </feed>
