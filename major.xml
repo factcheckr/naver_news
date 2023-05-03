@@ -2,99 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-03T05:13:38.729Z</updated>
+    <updated>2023-05-03T06:17:03.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[이재명, 윤관석·이성만 탈당 질문에 “태영호 녹취는요?”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003761500?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003761500?sid=100"/>
-        <updated>2023-05-03T05:13:11.137Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761500?sid=100" class="nclicks(rig.secteco)" title="이재명, 윤관석·이성만 탈당 질문에 “태영호 녹취는요?”">이재명, 윤관석·이성만 탈당 질문에 “태영호 녹취는요?”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘韓의원 독도 방문’ 항의한 일본…외교부 “부당한 주장 일축”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003358387?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003358387?sid=100"/>
-        <updated>2023-05-03T05:13:11.138Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003358387?sid=100" class="nclicks(rig.secteco)" title="‘韓의원 독도 방문’ 항의한 일본…외교부 “부당한 주장 일축”">‘韓의원 독도 방문’ 항의한 일본…외교부 “부당한 주장 일축”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임금체불 한해 1조3천억원…상습체불 사업주 신용대출 제한(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013919121?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013919121?sid=100"/>
-        <updated>2023-05-03T05:13:11.141Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013919121?sid=100" class="nclicks(rig.secteco)" title="임금체불 한해 1조3천억원…상습체불 사업주 신용대출 제한(종합)">임금체불 한해 1조3천억원…상습체불 사업주 신용대출 제한(종합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국서 침 묻은 꼬치로 판매 음식 푹푹 찌른 일본인?뭇매]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000737382?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000737382?sid=104"/>
-        <updated>2023-05-03T05:13:11.142Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000737382?sid=104" class="nclicks(rig.secteco)" title="한국서 침 묻은 꼬치로 판매 음식 푹푹 찌른 일본인?뭇매">한국서 침 묻은 꼬치로 판매 음식 푹푹 찌른 일본인?뭇매</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 부채가 더 걱정…백악관 “협상 불가’ 재천명, 디폴트 우려 고조]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002138482?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002138482?sid=104"/>
-        <updated>2023-05-03T05:13:11.144Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002138482?sid=104" class="nclicks(rig.secteco)" title="美 부채가 더 걱정…백악관 “협상 불가’ 재천명, 디폴트 우려 고조">美 부채가 더 걱정…백악관 “협상 불가’ 재천명, 디폴트 우려 고조</a>]]></content>
+        <title type="html"><![CDATA[민주 윤관석·이성만, '돈봉투 의혹'에 탈당 결정]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000744368?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000744368?sid=100"/>
+        <updated>2023-05-03T06:16:34.632Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000744368?sid=100" class="nclicks(rig.secteco)" title="민주 윤관석·이성만, '돈봉투 의혹'에 탈당 결정">민주 윤관석·이성만, '돈봉투 의혹'에 탈당 결정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹대통령 "ADB 회원국과 함께 세계 공동 번영 '연대의 길' 걷겠다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000215015?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000215015?sid=101"/>
-        <updated>2023-05-03T04:15:03.157Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000215015?sid=101" class="nclicks(rig.secteco)" title="尹대통령 &quot;ADB 회원국과 함께 세계 공동 번영 '연대의 길' 걷겠다&quot;">尹대통령 "ADB 회원국과 함께 세계 공동 번영 '연대의 길' 걷겠다"</a>]]></content>
+        <id>https://n.news.naver.com/mnews/article/629/0000215015?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000215015?sid=100"/>
+        <updated>2023-05-03T06:16:34.633Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000215015?sid=100" class="nclicks(rig.secteco)" title="尹대통령 &quot;ADB 회원국과 함께 세계 공동 번영 '연대의 길' 걷겠다&quot;">尹대통령 "ADB 회원국과 함께 세계 공동 번영 '연대의 길' 걷겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]라덕연 "김익래, 불장난 하다 산 태워"...키움측은 라덕연 고소]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005006089?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005006089?sid=101"/>
-        <updated>2023-05-03T05:13:11.145Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005006089?sid=101" class="nclicks(rig.secteco)" title="[단독]라덕연 &quot;김익래, 불장난 하다 산 태워&quot;...키움측은 라덕연 고소">[단독]라덕연 "김익래, 불장난 하다 산 태워"...키움측은 라덕연 고소</a>]]></content>
+        <title type="html"><![CDATA["독도 방문에 일본 정부 허락 필요? 윤 정부의 비겁한 침묵"]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002391021?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002391021?sid=100"/>
+        <updated>2023-05-03T06:16:34.635Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002391021?sid=100" class="nclicks(rig.secteco)" title="&quot;독도 방문에 일본 정부 허락 필요? 윤 정부의 비겁한 침묵&quot;">"독도 방문에 일본 정부 허락 필요? 윤 정부의 비겁한 침묵"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한항공, 부산세계박람회 유치 기원 특별 항공기 공개]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004882800?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004882800?sid=101"/>
-        <updated>2023-05-03T05:13:11.146Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004882800?sid=101" class="nclicks(rig.secteco)" title="대한항공, 부산세계박람회 유치 기원 특별 항공기 공개">대한항공, 부산세계박람회 유치 기원 특별 항공기 공개</a>]]></content>
+        <title type="html"><![CDATA[사용한 꼬치로 매대 음식 ‘푹’… 망원시장 간 日방송인, 위생 논란]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003761517?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003761517?sid=104"/>
+        <updated>2023-05-03T06:16:34.636Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761517?sid=104" class="nclicks(rig.secteco)" title="사용한 꼬치로 매대 음식 ‘푹’… 망원시장 간 日방송인, 위생 논란">사용한 꼬치로 매대 음식 ‘푹’… 망원시장 간 日방송인, 위생 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['오딘-아키에이지 워' 카니발 없다…2분기 기대하는 카카오게임즈]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004882827?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004882827?sid=105"/>
-        <updated>2023-05-03T05:13:11.147Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004882827?sid=105" class="nclicks(rig.secteco)" title="'오딘-아키에이지 워' 카니발 없다…2분기 기대하는 카카오게임즈">'오딘-아키에이지 워' 카니발 없다…2분기 기대하는 카카오게임즈</a>]]></content>
+        <title type="html"><![CDATA[외로움, 하루 담배 15개피 만큼 해롭다]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005254219?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005254219?sid=104"/>
+        <updated>2023-05-03T06:16:34.637Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005254219?sid=104" class="nclicks(rig.secteco)" title="외로움, 하루 담배 15개피 만큼 해롭다">외로움, 하루 담배 15개피 만큼 해롭다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, '갤럭시X월드 디제이 페스티벌' 초청 이벤트 진행]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003765899?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003765899?sid=105"/>
-        <updated>2023-05-03T05:13:11.148Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003765899?sid=105" class="nclicks(rig.secteco)" title="삼성전자, '갤럭시X월드 디제이 페스티벌' 초청 이벤트 진행">삼성전자, '갤럭시X월드 디제이 페스티벌' 초청 이벤트 진행</a>]]></content>
+        <title type="html"><![CDATA[[뉴스1 PICK]부산 엑스포 유치 위해 ‘블랙핑크’ 비행기 뜬다… 대한항공 특별기 등장]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006785038?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006785038?sid=101"/>
+        <updated>2023-05-03T06:16:34.638Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006785038?sid=101" class="nclicks(rig.secteco)" title="[뉴스1 PICK]부산 엑스포 유치 위해 ‘블랙핑크’ 비행기 뜬다…  대한항공 특별기 등장">[뉴스1 PICK]부산 엑스포 유치 위해 ‘블랙핑크’ 비행기 뜬다… 대한항공 특별기 등장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건설노동자 분신 사망에 "尹 정부, '건폭' 신조어까지 만들어 노조 매도하더니…"]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002284613?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002284613?sid=102"/>
-        <updated>2023-05-03T04:15:03.201Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/002/0002284613?sid=102" class="nclicks(rig.secteco)" title="건설노동자 분신 사망에 &quot;尹 정부, '건폭' 신조어까지 만들어 노조 매도하더니…&quot;">건설노동자 분신 사망에 "尹 정부, '건폭' 신조어까지 만들어 노조 매도하더니…"</a>]]></content>
+        <title type="html"><![CDATA[성장 가속도 내는 대웅제약…보톡스 수출·신약 2종 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003096150?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003096150?sid=101"/>
+        <updated>2023-05-03T06:16:34.639Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003096150?sid=101" class="nclicks(rig.secteco)" title="성장 가속도 내는 대웅제약…보톡스 수출·신약 2종 확대">성장 가속도 내는 대웅제약…보톡스 수출·신약 2종 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 엠폭스 확진자 대다수 '20~40대 男'…"익명 성접촉 감염 많아"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004882824?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004882824?sid=102"/>
-        <updated>2023-05-03T05:13:11.151Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004882824?sid=102" class="nclicks(rig.secteco)" title="국내 엠폭스 확진자 대다수 '20~40대 男'…&quot;익명 성접촉 감염 많아&quot;">국내 엠폭스 확진자 대다수 '20~40대 男'…"익명 성접촉 감염 많아"</a>]]></content>
+        <title type="html"><![CDATA[산업은행 '부산 이전 공공기관' 지정…부산시 "끝까지 협조 당부"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003766110?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003766110?sid=101"/>
+        <updated>2023-05-03T06:16:34.640Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003766110?sid=101" class="nclicks(rig.secteco)" title="산업은행 '부산 이전 공공기관' 지정…부산시 &quot;끝까지 협조 당부&quot;">산업은행 '부산 이전 공공기관' 지정…부산시 "끝까지 협조 당부"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰, 송영길 前보좌관 박모씨 소환…“돈봉투 본 적도 없다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002138672?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002138672?sid=102"/>
-        <updated>2023-05-03T04:15:03.200Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002138672?sid=102" class="nclicks(rig.secteco)" title="검찰, 송영길 前보좌관 박모씨 소환…“돈봉투 본 적도 없다”">검찰, 송영길 前보좌관 박모씨 소환…“돈봉투 본 적도 없다”</a>]]></content>
+        <title type="html"><![CDATA[카카오게임즈, 2분기 아닌 3분기가 진짜인 이유 [오~컬쳐]]]></title>
+        <id>https://n.news.naver.com/mnews/article/293/0000043860?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/293/0000043860?sid=105"/>
+        <updated>2023-05-03T06:16:34.641Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043860?sid=105" class="nclicks(rig.secteco)" title="카카오게임즈, 2분기 아닌 3분기가 진짜인 이유 [오~컬쳐]">카카오게임즈, 2분기 아닌 3분기가 진짜인 이유 [오~컬쳐]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS코리아, 코로나 딛고 4년 만에 'AWS 서밋 서울' 개최]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003495217?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003495217?sid=105"/>
+        <updated>2023-05-03T06:16:34.642Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003495217?sid=105" class="nclicks(rig.secteco)" title="AWS코리아, 코로나 딛고 4년 만에 'AWS 서밋 서울' 개최">AWS코리아, 코로나 딛고 4년 만에 'AWS 서밋 서울' 개최</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 엠폭스 확진 대다수 20~40대 남성…"대부분 익명인과 성접촉"]]></title>
+        <id>https://n.news.naver.com/mnews/article/584/0000022917?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/584/0000022917?sid=102"/>
+        <updated>2023-05-03T06:16:34.643Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/584/0000022917?sid=102" class="nclicks(rig.secteco)" title="국내 엠폭스 확진 대다수 20~40대 남성…&quot;대부분 익명인과 성접촉&quot;">국내 엠폭스 확진 대다수 20~40대 남성…"대부분 익명인과 성접촉"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["분신 사망 건설노조 간부 '건폭몰이' 희생자…尹 정권, 노조탄압 중단하라"]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003766099?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003766099?sid=102"/>
+        <updated>2023-05-03T06:16:34.645Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003766099?sid=102" class="nclicks(rig.secteco)" title="&quot;분신 사망 건설노조 간부 '건폭몰이' 희생자…尹 정권, 노조탄압 중단하라&quot;">"분신 사망 건설노조 간부 '건폭몰이' 희생자…尹 정권, 노조탄압 중단하라"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“주님을 지키며 잠을 자라” JMS 정명석 성폭행 도운 2인자 등 구속기소]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003221243?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003221243?sid=102"/>
+        <updated>2023-05-03T06:16:34.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003221243?sid=102" class="nclicks(rig.secteco)" title="“주님을 지키며 잠을 자라” JMS 정명석 성폭행 도운 2인자 등 구속기소">“주님을 지키며 잠을 자라” JMS 정명석 성폭행 도운 2인자 등 구속기소</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토레스 흥행 이을까… KG모빌리티, '렉스턴 뉴 아레나·스포츠&칸 쿨멘' 출시]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000918086?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000918086?sid=103"/>
+        <updated>2023-05-03T06:16:34.646Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000918086?sid=103" class="nclicks(rig.secteco)" title="토레스 흥행 이을까… KG모빌리티, '렉스턴 뉴 아레나·스포츠&amp;칸 쿨멘' 출시">토레스 흥행 이을까… KG모빌리티, '렉스턴 뉴 아레나·스포츠&amp;칸 쿨멘' 출시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 중부 초여름 더위…내일 전국 '비소식']]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/422/0000596819?sid=103"/>
         <updated>2023-05-03T04:15:03.204Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000596819?sid=103" class="nclicks(rig.secteco)" title="[날씨] 중부 초여름 더위…내일 전국 '비소식'">[날씨] 중부 초여름 더위…내일 전국 '비소식'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KG 모빌리티, '렉스턴 뉴 아레나·스포츠&칸 쿨멘' 출격]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005477970?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005477970?sid=103"/>
-        <updated>2023-05-03T05:13:11.155Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005477970?sid=103" class="nclicks(rig.secteco)" title="KG 모빌리티, '렉스턴 뉴 아레나·스포츠&amp;칸 쿨멘' 출격">KG 모빌리티, '렉스턴 뉴 아레나·스포츠&amp;칸 쿨멘' 출격</a>]]></content>
     </entry>
 </feed>
