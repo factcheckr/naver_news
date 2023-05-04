@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-04T11:11:58.353Z</updated>
+    <updated>2023-05-04T12:24:21.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[미래 방점 기시다 '과거 사죄' 끌어내라...윤 정부 '작전' 바꿨다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003277885?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003277885?sid=100"/>
-        <updated>2023-05-04T11:11:30.034Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003277885?sid=100" class="nclicks(rig.secteco)" title="미래 방점 기시다 '과거 사죄' 끌어내라...윤 정부 '작전' 바꿨다">미래 방점 기시다 '과거 사죄' 끌어내라...윤 정부 '작전' 바꿨다</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "尹-박광온 먼저 만나도 돼"…당은 "갈라치기"라는데 왜 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003277932?sid=100</id>
@@ -19,11 +12,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003277932?sid=100" class="nclicks(rig.secteco)" title="이재명 &quot;尹-박광온 먼저 만나도 돼&quot;…당은 &quot;갈라치기&quot;라는데 왜">이재명 "尹-박광온 먼저 만나도 돼"…당은 "갈라치기"라는데 왜</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['금단의 땅' 120년 만에 열렸다...용산 어린이정원 개방 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001881157?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001881157?sid=100"/>
-        <updated>2023-05-04T11:11:30.044Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001881157?sid=100" class="nclicks(rig.secteco)" title="'금단의 땅' 120년 만에 열렸다...용산 어린이정원 개방">'금단의 땅' 120년 만에 열렸다...용산 어린이정원 개방</a>]]></content>
+        <title type="html"><![CDATA[52일 만에 마주앉는 한-일 정상…‘퍼주기 외교’ 비판 끝낼까 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002638622?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002638622?sid=100"/>
+        <updated>2023-05-04T12:23:51.755Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002638622?sid=100" class="nclicks(rig.secteco)" title="52일 만에 마주앉는 한-일 정상…‘퍼주기 외교’ 비판 끝낼까">52일 만에 마주앉는 한-일 정상…‘퍼주기 외교’ 비판 끝낼까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스하이킥] "용산어린이정원? 尹을 위한, 尹에 의한 쇼!" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001270540?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001270540?sid=100"/>
+        <updated>2023-05-04T12:23:51.757Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001270540?sid=100" class="nclicks(rig.secteco)" title="[뉴스하이킥] &quot;용산어린이정원? 尹을 위한, 尹에 의한 쇼!&quot;">[뉴스하이킥] "용산어린이정원? 尹을 위한, 尹에 의한 쇼!"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 러 "크렘린궁 드론 공격 배후는 미국"…'보복' 시사 러, 자폭드론 24기로 키이우 등 공격 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -33,18 +33,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000812552?sid=104" class="nclicks(rig.secteco)" title="[속보] 러 &quot;크렘린궁 드론 공격 배후는 미국&quot;…'보복' 시사 러, 자폭드론 24기로 키이우 등 공격">[속보] 러 "크렘린궁 드론 공격 배후는 미국"…'보복' 시사 러, 자폭드론 24기로 키이우 등 공격</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中 외교부, 尹 대북제재 동참 요구에 “이미 성실히 국제 의무 이행 중” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003358862?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003358862?sid=104"/>
-        <updated>2023-05-04T10:14:04.460Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003358862?sid=104" class="nclicks(rig.secteco)" title="中 외교부,  尹 대북제재 동참 요구에 “이미 성실히 국제 의무 이행 중”">中 외교부, 尹 대북제재 동참 요구에 “이미 성실히 국제 의무 이행 중”</a>]]></content>
+        <title type="html"><![CDATA[中, 대북제재 불참여 지적에 "국제의무 성실 이행" 주장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011841884?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011841884?sid=104"/>
+        <updated>2023-05-04T12:23:51.759Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011841884?sid=104" class="nclicks(rig.secteco)" title="中, 대북제재 불참여 지적에 &quot;국제의무 성실 이행&quot; 주장">中, 대북제재 불참여 지적에 "국제의무 성실 이행" 주장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김익래 다우키움그룹 회장 사퇴... “605억 사회환원” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003761793?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003761793?sid=101"/>
-        <updated>2023-05-04T11:11:30.048Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761793?sid=101" class="nclicks(rig.secteco)" title="김익래 다우키움그룹 회장 사퇴... “605억 사회환원”">김익래 다우키움그룹 회장 사퇴... “605억 사회환원”</a>]]></content>
+        <title type="html"><![CDATA['폭락 직전 매도' 김익래 다우키움그룹 회장 사퇴…"605억 사회환원" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003277938?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003277938?sid=101"/>
+        <updated>2023-05-04T12:23:51.760Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003277938?sid=101" class="nclicks(rig.secteco)" title="'폭락 직전 매도' 김익래 다우키움그룹 회장 사퇴…&quot;605억 사회환원&quot;">'폭락 직전 매도' 김익래 다우키움그룹 회장 사퇴…"605억 사회환원"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 금리인상 사실상 ‘라스트 스텝’...파월, 6월 동결 가능성 시사 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003761803?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003761803?sid=101"/>
+        <updated>2023-05-04T12:23:51.762Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761803?sid=101" class="nclicks(rig.secteco)" title="美 금리인상 사실상 ‘라스트 스텝’...파월, 6월 동결 가능성 시사">美 금리인상 사실상 ‘라스트 스텝’...파월, 6월 동결 가능성 시사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김소영 “은행, 합리적·투명한 금리산정 필요…산정체계 개선할 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,25 +61,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002304442?sid=101" class="nclicks(rig.secteco)" title="김소영 “은행, 합리적·투명한 금리산정 필요…산정체계 개선할 것”">김소영 “은행, 합리적·투명한 금리산정 필요…산정체계 개선할 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한·미 금리 차 1.75%P 역대 최고치… 한은, 깊어지는 고민 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/082/0001210793?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/082/0001210793?sid=101"/>
-        <updated>2023-05-04T11:11:30.051Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/082/0001210793?sid=101" class="nclicks(rig.secteco)" title="한·미 금리 차 1.75%P 역대 최고치… 한은, 깊어지는 고민">한·미 금리 차 1.75%P 역대 최고치… 한은, 깊어지는 고민</a>]]></content>
+        <title type="html"><![CDATA[카카오, 포털 '다음' 사내독립기업으로 분리 운영(종합) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013922788?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013922788?sid=105"/>
+        <updated>2023-05-04T12:23:51.764Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013922788?sid=105" class="nclicks(rig.secteco)" title="카카오, 포털 '다음' 사내독립기업으로 분리 운영(종합)">카카오, 포털 '다음' 사내독립기업으로 분리 운영(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['포털 신화' 다음, 부진 벗어나려 따로 살림 차린다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000737677?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000737677?sid=105"/>
-        <updated>2023-05-04T11:11:30.053Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000737677?sid=105" class="nclicks(rig.secteco)" title="'포털 신화' 다음, 부진 벗어나려 따로 살림 차린다">'포털 신화' 다음, 부진 벗어나려 따로 살림 차린다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ ENM, 1분기 영업손실 503억…수익성 개선에 집중 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005478793?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005478793?sid=105"/>
-        <updated>2023-05-04T11:11:30.054Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005478793?sid=105" class="nclicks(rig.secteco)" title="CJ ENM, 1분기 영업손실 503억…수익성 개선에 집중">CJ ENM, 1분기 영업손실 503억…수익성 개선에 집중</a>]]></content>
+        <title type="html"><![CDATA[[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003761789?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003761789?sid=105"/>
+        <updated>2023-05-04T12:23:51.766Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761789?sid=105" class="nclicks(rig.secteco)" title="[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입">[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[울먹인 건설노동자 동료들 "윤석열·원희룡이 인간사냥" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003277883?sid=102" class="nclicks(rig.secteco)" title="&quot;부끄러운 일 없다&quot; 전면 부인한 은수미…2심도 징역 2년">"부끄러운 일 없다" 전면 부인한 은수미…2심도 징역 2년</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비 모레 낮까지…어린이날 오후부턴 전국에 장대비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013922736?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013922736?sid=103"/>
-        <updated>2023-05-04T09:13:11.531Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013922736?sid=103" class="nclicks(rig.secteco)" title="비 모레 낮까지…어린이날 오후부턴 전국에 장대비">비 모레 낮까지…어린이날 오후부턴 전국에 장대비</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘하늘을 나는 말’ 9년 만에 외출... 천마도 4점 첫 만남 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003761795?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003761795?sid=103"/>
         <updated>2023-05-04T11:11:30.062Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761795?sid=103" class="nclicks(rig.secteco)" title="‘하늘을 나는 말’ 9년 만에 외출... 천마도 4점 첫 만남">‘하늘을 나는 말’ 9년 만에 외출... 천마도 4점 첫 만남</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비 모레 낮까지…어린이날 오후부턴 전국에 장대비 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013922736?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013922736?sid=103"/>
+        <updated>2023-05-04T09:13:11.531Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013922736?sid=103" class="nclicks(rig.secteco)" title="비 모레 낮까지…어린이날 오후부턴 전국에 장대비">비 모레 낮까지…어린이날 오후부턴 전국에 장대비</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
