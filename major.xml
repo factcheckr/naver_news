@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-05T20:14:25.234Z</updated>
+    <updated>2023-05-05T21:11:32.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003762050?sid=100" class="nclicks(rig.secteco)" title="“주식 팔아 코인했다”는 김남국, 규모와 행방은 안 밝혀">“주식 팔아 코인했다”는 김남국, 규모와 행방은 안 밝혀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명 양보에…박광온 “그래도 李 먼저”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003809811?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003809811?sid=100"/>
-        <updated>2023-05-05T20:13:52.784Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003809811?sid=100" class="nclicks(rig.secteco)" title="이재명 양보에…박광온 “그래도 李 먼저”">이재명 양보에…박광온 “그래도 李 먼저”</a>]]></content>
+        <title type="html"><![CDATA[박광온 “尹, 이재명 먼저 만나는게 순리” 회동 또 거절]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003495711?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003495711?sid=100"/>
+        <updated>2023-05-05T21:11:02.789Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003495711?sid=100" class="nclicks(rig.secteco)" title="박광온 “尹, 이재명 먼저 만나는게 순리” 회동 또 거절">박광온 “尹, 이재명 먼저 만나는게 순리” 회동 또 거절</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹 “비만 안 왔으면 대통령 할아버지가 일하는 용산 잔디마당서 같이 뛰어놀았을 텐데”]]></title>
@@ -48,25 +48,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003495705?sid=101" class="nclicks(rig.secteco)" title="美팩웨스트, 재정 건전한데도 주가 급락… “은행 신뢰 깨져 더 문제”">美팩웨스트, 재정 건전한데도 주가 급락… “은행 신뢰 깨져 더 문제”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 휩쓴 이곳, 팀쿡도 공 들인다…'매출 효자' 아이폰 맹추격]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003278102?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003278102?sid=101"/>
-        <updated>2023-05-05T20:13:52.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278102?sid=101" class="nclicks(rig.secteco)" title="삼성 휩쓴 이곳, 팀쿡도 공 들인다…'매출 효자' 아이폰 맹추격">삼성 휩쓴 이곳, 팀쿡도 공 들인다…'매출 효자' 아이폰 맹추격</a>]]></content>
+        <title type="html"><![CDATA[[속보]애플發 빅테크 강세가 증시 살렸다…팩웨스트 82%↑]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005479575?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005479575?sid=101"/>
+        <updated>2023-05-05T21:11:02.792Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005479575?sid=101" class="nclicks(rig.secteco)" title="[속보]애플發 빅테크 강세가 증시 살렸다…팩웨스트 82%↑">[속보]애플發 빅테크 강세가 증시 살렸다…팩웨스트 82%↑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["냉방비 폭탄 맞을라" 에어컨, 이러다 계속 묵힐 수도..한전 압박 속, 인상 수위 '촉각']]></title>
-        <id>https://n.news.naver.com/mnews/article/661/0000024573?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/661/0000024573?sid=101"/>
-        <updated>2023-05-05T16:16:28.823Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000024573?sid=101" class="nclicks(rig.secteco)" title="&quot;냉방비 폭탄 맞을라&quot; 에어컨, 이러다 계속 묵힐 수도..한전 압박 속, 인상 수위  '촉각'">"냉방비 폭탄 맞을라" 에어컨, 이러다 계속 묵힐 수도..한전 압박 속, 인상 수위 '촉각'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 구글 첫 '접는 폰' 공개…IT업계 "가격 225만원 예상"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000341910?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000341910?sid=105"/>
-        <updated>2023-05-05T20:13:52.819Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000341910?sid=105" class="nclicks(rig.secteco)" title="[영상] 구글 첫 '접는 폰' 공개…IT업계 &quot;가격 225만원 예상&quot;">[영상] 구글 첫 '접는 폰' 공개…IT업계 "가격 225만원 예상"</a>]]></content>
+        <title type="html"><![CDATA[美 증시 이정표 될 애플 실적…900억달러 자사주 매입 계속할까[오미주]]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004883572?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004883572?sid=101"/>
+        <updated>2023-05-05T21:11:02.792Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004883572?sid=101" class="nclicks(rig.secteco)" title="美 증시 이정표 될 애플 실적…900억달러 자사주 매입 계속할까[오미주]">美 증시 이정표 될 애플 실적…900억달러 자사주 매입 계속할까[오미주]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입]]></title>
@@ -74,6 +67,13 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003761789?sid=105"/>
         <updated>2023-05-05T19:10:43.163Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003761789?sid=105" class="nclicks(rig.secteco)" title="[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입">[단독] SKT, 국내 통신업계 최초로 ‘챗GPT’ 정식 도입</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카이스트 홍승훈 교수 연구팀, ‘ICLR’ 학술대회서 韓최초 최우수논문상]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005479215?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005479215?sid=105"/>
+        <updated>2023-05-05T21:11:02.793Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005479215?sid=105" class="nclicks(rig.secteco)" title="카이스트 홍승훈 교수 연구팀, ‘ICLR’ 학술대회서 韓최초 최우수논문상">카이스트 홍승훈 교수 연구팀, ‘ICLR’ 학술대회서 韓최초 최우수논문상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신종범죄 '학원가 마약 음료'…'최고 사형' 조항 적용도 1호]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278120?sid=102" class="nclicks(rig.secteco)" title="흙탕물 찬 지하철역 '무정차 통과'…광주·전남 폭우피해 속출">흙탕물 찬 지하철역 '무정차 통과'…광주·전남 폭우피해 속출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] "외출시 조심하세요"… 전국적으로 많은 비 예보]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000918662?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000918662?sid=103"/>
-        <updated>2023-05-05T20:13:52.821Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000918662?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] &quot;외출시 조심하세요&quot;… 전국적으로 많은 비 예보">[오늘 날씨] "외출시 조심하세요"… 전국적으로 많은 비 예보</a>]]></content>
+        <title type="html"><![CDATA[[오늘날씨] 전국 대부분 지역 많은 비…오후부터 차차 그쳐]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006789593?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006789593?sid=103"/>
+        <updated>2023-05-05T21:11:02.802Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006789593?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] 전국 대부분 지역 많은 비…오후부터 차차 그쳐">[오늘날씨] 전국 대부분 지역 많은 비…오후부터 차차 그쳐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린이날 전국에 비바람…내일 오후 중부지방부터 맑아져]]></title>
