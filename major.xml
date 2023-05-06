@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-06T18:16:02.759Z</updated>
+    <updated>2023-05-06T19:10:38.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001055878?sid=100" class="nclicks(rig.secteco)" title="[단독] 김남국 &quot;일부 현금화&quot;…'이해 충돌'엔 무응답">[단독] 김남국 "일부 현금화"…'이해 충돌'엔 무응답</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한일, 12년 만의 정상 '셔틀외교' 복원…'성의 있는 호응' 나올까?]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000215429?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000215429?sid=100"/>
-        <updated>2023-05-06T16:15:15.332Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000215429?sid=100" class="nclicks(rig.secteco)" title="한일, 12년 만의 정상 '셔틀외교' 복원…'성의 있는 호응' 나올까?">한일, 12년 만의 정상 '셔틀외교' 복원…'성의 있는 호응' 나올까?</a>]]></content>
+        <title type="html"><![CDATA[대통령실 “과거사 사과, 기시다 응답할 차례”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003495698?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003495698?sid=100"/>
+        <updated>2023-05-06T19:10:05.189Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003495698?sid=100" class="nclicks(rig.secteco)" title="대통령실 “과거사 사과, 기시다 응답할 차례”">대통령실 “과거사 사과, 기시다 응답할 차례”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태영호 "'녹취 유출·후원자 개인정보 유출' 수사 의뢰"]]></title>
