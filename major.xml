@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-07T02:35:35.483Z</updated>
+    <updated>2023-05-07T03:14:21.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤석열-기시다, 52일만 정상회담…12년 만에 ‘셔틀외교’ 재개]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005126450?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005126450?sid=100"/>
-        <updated>2023-05-07T02:35:06.974Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005126450?sid=100" class="nclicks(rig.secteco)" title="윤석열-기시다, 52일만 정상회담…12년 만에 ‘셔틀외교’ 재개">윤석열-기시다, 52일만 정상회담…12년 만에 ‘셔틀외교’ 재개</a>]]></content>
+        <title type="html"><![CDATA[[LIVE] 오늘 12년만 한일 셔틀외교...서울 도착 기시다, 현충원 방문]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003278226?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003278226?sid=100"/>
+        <updated>2023-05-07T03:13:44.580Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278226?sid=100" class="nclicks(rig.secteco)" title="[LIVE] 오늘 12년만 한일 셔틀외교...서울 도착 기시다, 현충원 방문">[LIVE] 오늘 12년만 한일 셔틀외교...서울 도착 기시다, 현충원 방문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기시다 방한에 이재명 “대일 굴종외교를 바로잡을 마지막 기회”]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002570376?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002570376?sid=100"/>
-        <updated>2023-05-07T02:35:06.979Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002570376?sid=100" class="nclicks(rig.secteco)" title="기시다 방한에 이재명 “대일 굴종외교를 바로잡을 마지막 기회”">기시다 방한에 이재명 “대일 굴종외교를 바로잡을 마지막 기회”</a>]]></content>
+        <title type="html"><![CDATA[이재명 “간, 쓸개 다 내주는 굴욕외교 반복 안돼”]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000737902?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000737902?sid=100"/>
+        <updated>2023-05-07T03:13:44.586Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000737902?sid=100" class="nclicks(rig.secteco)" title="이재명 “간, 쓸개 다 내주는 굴욕외교 반복 안돼”">이재명 “간, 쓸개 다 내주는 굴욕외교 반복 안돼”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日 언론 "강제징용 생존자 1명, 尹정부 3자 변제안 수용 의향"]]></title>
-        <id>https://n.news.naver.com/mnews/article/374/0000334641?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/374/0000334641?sid=100"/>
-        <updated>2023-05-07T02:35:06.981Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/374/0000334641?sid=100" class="nclicks(rig.secteco)" title="日 언론 &quot;강제징용 생존자 1명, 尹정부 3자 변제안 수용 의향&quot;">日 언론 "강제징용 생존자 1명, 尹정부 3자 변제안 수용 의향"</a>]]></content>
+        <title type="html"><![CDATA[與 “김남국 60억 코인 재테크…이재명 키즈답다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002139739?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002139739?sid=100"/>
+        <updated>2023-05-07T03:13:44.587Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002139739?sid=100" class="nclicks(rig.secteco)" title="與 “김남국 60억 코인 재테크…이재명 키즈답다”">與 “김남국 60억 코인 재테크…이재명 키즈답다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 텍사스몰 총기 난사로 여러 명 사망...5살 등 9명 부상]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000342030?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000342030?sid=104"/>
-        <updated>2023-05-07T02:35:06.983Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000342030?sid=104" class="nclicks(rig.secteco)" title="[속보] 텍사스몰 총기 난사로 여러 명 사망...5살 등 9명 부상">[속보] 텍사스몰 총기 난사로 여러 명 사망...5살 등 9명 부상</a>]]></content>
+        <title type="html"><![CDATA[美텍사스 쇼핑몰에서 총기난사…"9명 사망, 부상자 중 5살도"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013925089?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013925089?sid=104"/>
+        <updated>2023-05-07T03:13:44.591Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013925089?sid=104" class="nclicks(rig.secteco)" title="美텍사스 쇼핑몰에서 총기난사…&quot;9명 사망, 부상자 중 5살도&quot;(종합)">美텍사스 쇼핑몰에서 총기난사…"9명 사망, 부상자 중 5살도"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['투자 달인' 버핏 "AI, 인간 못이겨…SVB 놔뒀다면 재앙됐을 것"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013924913?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013924913?sid=104"/>
-        <updated>2023-05-07T02:35:06.985Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013924913?sid=104" class="nclicks(rig.secteco)" title="'투자 달인' 버핏 &quot;AI, 인간 못이겨…SVB 놔뒀다면 재앙됐을 것&quot;(종합)">'투자 달인' 버핏 "AI, 인간 못이겨…SVB 놔뒀다면 재앙됐을 것"(종합)</a>]]></content>
+        <title type="html"><![CDATA[우크라 "러, 바흐무트에 '악마의 무기' 백린탄 퍼부었다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004841354?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004841354?sid=104"/>
+        <updated>2023-05-07T03:13:44.592Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004841354?sid=104" class="nclicks(rig.secteco)" title="우크라 &quot;러, 바흐무트에 '악마의 무기' 백린탄 퍼부었다&quot;">우크라 "러, 바흐무트에 '악마의 무기' 백린탄 퍼부었다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 유튜버 수입, 대기업 연봉 7배 넘는다]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005479822?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005479822?sid=101"/>
+        <updated>2023-05-07T03:13:44.593Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005479822?sid=101" class="nclicks(rig.secteco)" title="유명 유튜버 수입, 대기업 연봉 7배 넘는다">유명 유튜버 수입, 대기업 연봉 7배 넘는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재용 “바이오는 제2의 반도체”...미국서 바이오 CEO들과 연쇄 회동]]></title>
@@ -48,32 +55,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003762137?sid=101" class="nclicks(rig.secteco)" title="이재용 “바이오는 제2의 반도체”...미국서 바이오 CEO들과 연쇄 회동">이재용 “바이오는 제2의 반도체”...미국서 바이오 CEO들과 연쇄 회동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['1% 유튜버'는 7억 넘게 버는데…절반은 年 40만원 번다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003278209?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003278209?sid=101"/>
-        <updated>2023-05-07T01:09:18.817Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278209?sid=101" class="nclicks(rig.secteco)" title="'1% 유튜버'는 7억 넘게 버는데…절반은 年 40만원 번다">'1% 유튜버'는 7억 넘게 버는데…절반은 年 40만원 번다</a>]]></content>
+        <title type="html"><![CDATA['아침 한끼 단돈 1000원'…농식품부, 참여 대학 41→145개교 확대]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011843593?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011843593?sid=101"/>
+        <updated>2023-05-07T03:13:44.597Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011843593?sid=101" class="nclicks(rig.secteco)" title="'아침 한끼 단돈 1000원'…농식품부, 참여 대학 41→145개교 확대">'아침 한끼 단돈 1000원'…농식품부, 참여 대학 41→145개교 확대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“집값 오를때까지 버텨”...전세사기 피해자한테 집 사라는 정부 [나기자의 데이터로 세상읽기]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005126426?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005126426?sid=101"/>
-        <updated>2023-05-06T23:12:52.652Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005126426?sid=101" class="nclicks(rig.secteco)" title="“집값 오를때까지 버텨”...전세사기 피해자한테 집 사라는 정부 [나기자의 데이터로 세상읽기]">“집값 오를때까지 버텨”...전세사기 피해자한테 집 사라는 정부 [나기자의 데이터로 세상읽기]</a>]]></content>
+        <title type="html"><![CDATA["아리아 살려줘"…독거노인 500명 살린 AI 스피커는 '누구']]></title>
+        <id>https://n.news.naver.com/mnews/article/648/0000016094?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/648/0000016094?sid=105"/>
+        <updated>2023-05-07T03:13:44.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000016094?sid=105" class="nclicks(rig.secteco)" title="&quot;아리아 살려줘&quot;…독거노인 500명 살린 AI 스피커는 '누구'">"아리아 살려줘"…독거노인 500명 살린 AI 스피커는 '누구'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“아리아, 살려줘” SKT AI 스피커 ‘누구’ 이용한 긴급 구조 사례 500건 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003221888?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003221888?sid=105"/>
-        <updated>2023-05-07T02:35:06.992Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003221888?sid=105" class="nclicks(rig.secteco)" title="“아리아, 살려줘” SKT AI 스피커 ‘누구’ 이용한 긴급 구조 사례 500건 돌파">“아리아, 살려줘” SKT AI 스피커 ‘누구’ 이용한 긴급 구조 사례 500건 돌파</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGU+, 부가서비스·단말 골라 쓰는 인터넷 요금제 출시]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004841350?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004841350?sid=105"/>
-        <updated>2023-05-07T02:35:06.994Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004841350?sid=105" class="nclicks(rig.secteco)" title="LGU+, 부가서비스·단말 골라 쓰는 인터넷 요금제 출시">LGU+, 부가서비스·단말 골라 쓰는 인터넷 요금제 출시</a>]]></content>
+        <title type="html"><![CDATA[LG유플러스, 인터넷 속도 높을수록 부가서비스 혜택 느는 요금제 출시]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006790448?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006790448?sid=105"/>
+        <updated>2023-05-07T03:13:44.603Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006790448?sid=105" class="nclicks(rig.secteco)" title="LG유플러스, 인터넷 속도 높을수록 부가서비스 혜택 느는 요금제 출시">LG유플러스, 인터넷 속도 높을수록 부가서비스 혜택 느는 요금제 출시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['한강 멍때리기 대회'가 돌아왔다…8일부터 참가자 모집]]></title>
@@ -83,18 +83,25 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006790440?sid=102" class="nclicks(rig.secteco)" title="'한강 멍때리기 대회'가 돌아왔다…8일부터 참가자 모집">'한강 멍때리기 대회'가 돌아왔다…8일부터 참가자 모집</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별거 기간에 연금 달라는 배우자…法 "부부생활 없었다면 부당"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011843436?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011843436?sid=102"/>
-        <updated>2023-05-07T02:35:07.001Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011843436?sid=102" class="nclicks(rig.secteco)" title="별거 기간에 연금 달라는 배우자…法 &quot;부부생활 없었다면 부당&quot;">별거 기간에 연금 달라는 배우자…法 "부부생활 없었다면 부당"</a>]]></content>
+        <title type="html"><![CDATA[서울시, 벤처 투자시장 자금 수혈…4년간 5조원 조성]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011843612?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011843612?sid=102"/>
+        <updated>2023-05-07T03:13:44.608Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011843612?sid=102" class="nclicks(rig.secteco)" title="서울시, 벤처 투자시장 자금 수혈…4년간 5조원 조성">서울시, 벤처 투자시장 자금 수혈…4년간 5조원 조성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]‘우울증갤러리’ 또 극단적 선택 시도…폐쇄 논란 재점화]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000249072?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000249072?sid=102"/>
-        <updated>2023-05-07T02:35:07.004Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000249072?sid=102" class="nclicks(rig.secteco)" title="[단독]‘우울증갤러리’ 또 극단적 선택 시도…폐쇄 논란 재점화">[단독]‘우울증갤러리’ 또 극단적 선택 시도…폐쇄 논란 재점화</a>]]></content>
+        <title type="html"><![CDATA['가뭄 심각' 광주·전남, 닷새간 호우로 식수원 저수율 30% 돌파]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013925003?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013925003?sid=102"/>
+        <updated>2023-05-07T03:13:44.611Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013925003?sid=102" class="nclicks(rig.secteco)" title="'가뭄 심각' 광주·전남, 닷새간 호우로 식수원 저수율 30% 돌파">'가뭄 심각' 광주·전남, 닷새간 호우로 식수원 저수율 30% 돌파</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포]'전기차 치료·예방의 핵심'…제주 전기차진단센터 가보니]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005479830?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005479830?sid=103"/>
+        <updated>2023-05-07T03:13:44.613Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005479830?sid=103" class="nclicks(rig.secteco)" title="[르포]'전기차 치료·예방의 핵심'…제주 전기차진단센터 가보니">[르포]'전기차 치료·예방의 핵심'…제주 전기차진단센터 가보니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[캐딜락, 최초 전기차 ‘리릭’ 하반기 국내 출시]]></title>
@@ -102,12 +109,5 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005479817?sid=103"/>
         <updated>2023-05-07T02:35:07.005Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005479817?sid=103" class="nclicks(rig.secteco)" title="캐딜락, 최초 전기차 ‘리릭’ 하반기 국내 출시">캐딜락, 최초 전기차 ‘리릭’ 하반기 국내 출시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["바람 불어 추워요"...시속 55km 이상 강한 바람 분다]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001740422?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001740422?sid=103"/>
-        <updated>2023-05-07T01:09:18.829Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001740422?sid=103" class="nclicks(rig.secteco)" title="&quot;바람 불어 추워요&quot;...시속 55km 이상 강한 바람 분다">"바람 불어 추워요"...시속 55km 이상 강한 바람 분다</a>]]></content>
     </entry>
 </feed>
