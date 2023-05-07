@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-07T20:13:24.812Z</updated>
+    <updated>2023-05-07T21:12:26.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[日 언론 "한국 시찰단, 23일 일본 후쿠시마 원전 방문" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005008186?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005008186?sid=100"/>
+        <updated>2023-05-07T21:11:57.825Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005008186?sid=100" class="nclicks(rig.secteco)" title="日 언론 &quot;한국 시찰단, 23일 일본 후쿠시마 원전 방문&quot;">日 언론 "한국 시찰단, 23일 일본 후쿠시마 원전 방문"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기시다 “혹독한 환경서 고통, 마음 아파” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003495829?sid=100</id>
@@ -17,13 +24,6 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004884076?sid=100"/>
         <updated>2023-05-07T20:12:53.760Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004884076?sid=100" class="nclicks(rig.secteco)" title="尹대통령·김건희 여사, 기시다 부부와 2시간 '관저 만찬' 어떻게?">尹대통령·김건희 여사, 기시다 부부와 2시간 '관저 만찬' 어떻게?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일 후쿠시마 오염수 관련 한국 시찰단 파견 합의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/654/0000039458?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/654/0000039458?sid=100"/>
-        <updated>2023-05-07T20:12:53.761Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000039458?sid=100" class="nclicks(rig.secteco)" title="일 후쿠시마 오염수 관련 한국 시찰단 파견 합의">일 후쿠시마 오염수 관련 한국 시찰단 파견 합의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여성·흑인·다종교 등장한 ‘찰스 3세 대관식’… 군주제 논란 숙제도 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -47,13 +47,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003359339?sid=101" class="nclicks(rig.secteco)" title="“바이오는 제2반도체”… 이재용, 글로벌 제약사와 연쇄 회동">“바이오는 제2반도체”… 이재용, 글로벌 제약사와 연쇄 회동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부 "용산어린이정원 안전성 문제없다…중앙박물관과 비슷" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013925884?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013925884?sid=101"/>
-        <updated>2023-05-07T18:14:25.134Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013925884?sid=101" class="nclicks(rig.secteco)" title="정부 &quot;용산어린이정원 안전성 문제없다…중앙박물관과 비슷&quot;">정부 "용산어린이정원 안전성 문제없다…중앙박물관과 비슷"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[단독] "아직 정신 못 차렸나"... 부동산업자 앱에 '깡통전세 매물 여전' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000737997?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000737997?sid=101"/>
@@ -61,11 +54,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000737997?sid=101" class="nclicks(rig.secteco)" title="[단독] &quot;아직 정신 못 차렸나&quot;... 부동산업자 앱에 '깡통전세 매물 여전'">[단독] "아직 정신 못 차렸나"... 부동산업자 앱에 '깡통전세 매물 여전'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['진짜 손님' 8명 싣고 우주 향하는 누리호…24일 다시 난다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003766959?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003766959?sid=105"/>
-        <updated>2023-05-07T20:12:53.775Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003766959?sid=105" class="nclicks(rig.secteco)" title="'진짜 손님' 8명 싣고 우주 향하는 누리호…24일 다시 난다">'진짜 손님' 8명 싣고 우주 향하는 누리호…24일 다시 난다</a>]]></content>
+        <title type="html"><![CDATA[정부 "용산어린이정원 안전성 문제없다…중앙박물관과 비슷" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013925884?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013925884?sid=101"/>
+        <updated>2023-05-07T18:14:25.134Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013925884?sid=101" class="nclicks(rig.secteco)" title="정부 &quot;용산어린이정원 안전성 문제없다…중앙박물관과 비슷&quot;">정부 "용산어린이정원 안전성 문제없다…중앙박물관과 비슷"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호, 이제 진짜 실전… 첫 ‘승객’ 싣고 우주로 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001606718?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001606718?sid=105"/>
+        <updated>2023-05-07T21:11:57.844Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001606718?sid=105" class="nclicks(rig.secteco)" title="누리호, 이제 진짜 실전… 첫 ‘승객’ 싣고 우주로">누리호, 이제 진짜 실전… 첫 ‘승객’ 싣고 우주로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SKT, AI 돌봄 긴급 구조 500건 돌파 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004883985?sid=102" class="nclicks(rig.secteco)" title="코로나19 일상 회복 초읽기…격리 의무 줄고, 임시 선별검사소 사라질까">코로나19 일상 회복 초읽기…격리 의무 줄고, 임시 선별검사소 사라질까</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[민주당 지도부 “김남국 코인, 당 차원 조사 불가피” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003495828?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003495828?sid=102"/>
+        <updated>2023-05-07T21:11:57.847Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003495828?sid=102" class="nclicks(rig.secteco)" title="민주당 지도부 “김남국 코인, 당 차원 조사 불가피”">민주당 지도부 “김남국 코인, 당 차원 조사 불가피”</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원희룡 장관 “노후계획도시특별법 국회 조속 통과 노력할 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003359284?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003359284?sid=102"/>
@@ -89,25 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003359284?sid=102" class="nclicks(rig.secteco)" title="원희룡 장관 “노후계획도시특별법 국회 조속 통과 노력할 것”">원희룡 장관 “노후계획도시특별법 국회 조속 통과 노력할 것”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사죄가 먼저" "환영"…기시다 온 용산, 진보·보수 뒤엉켰다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003278276?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003278276?sid=102"/>
-        <updated>2023-05-07T19:10:26.941Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278276?sid=102" class="nclicks(rig.secteco)" title="&quot;사죄가 먼저&quot; &quot;환영&quot;…기시다 온 용산, 진보·보수 뒤엉켰다">"사죄가 먼저" "환영"…기시다 온 용산, 진보·보수 뒤엉켰다</a>]]></content>
+        <title type="html"><![CDATA[[오늘날씨] '맑은 어버이날' 비 그쳤지만 출근길 최저 4도 '쌀쌀' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006791361?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006791361?sid=103"/>
+        <updated>2023-05-07T21:11:57.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006791361?sid=103" class="nclicks(rig.secteco)" title="[오늘날씨] '맑은 어버이날' 비 그쳤지만 출근길 최저 4도 '쌀쌀'">[오늘날씨] '맑은 어버이날' 비 그쳤지만 출근길 최저 4도 '쌀쌀'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘 날씨] 어버이날, 전국 맑고 쾌청… 큰 일교차 주의 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000918847?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000918847?sid=103"/>
-        <updated>2023-05-07T20:12:53.783Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000918847?sid=103" class="nclicks(rig.secteco)" title="[오늘 날씨] 어버이날, 전국 맑고 쾌청… 큰 일교차 주의">[오늘 날씨] 어버이날, 전국 맑고 쾌청… 큰 일교차 주의</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故 강수연 1주기 추모전..."영화롭게, 오랫동안" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001881965?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001881965?sid=103"/>
-        <updated>2023-05-07T20:12:53.785Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001881965?sid=103" class="nclicks(rig.secteco)" title="故 강수연 1주기 추모전...&quot;영화롭게, 오랫동안&quot;">故 강수연 1주기 추모전..."영화롭게, 오랫동안"</a>]]></content>
+        <title type="html"><![CDATA["누님" 봉준호도 떠올렸다…영화인들 몰려간 강수연 1주기 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003278292?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003278292?sid=103"/>
+        <updated>2023-05-07T21:11:57.850Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278292?sid=103" class="nclicks(rig.secteco)" title="&quot;누님&quot; 봉준호도 떠올렸다…영화인들 몰려간 강수연 1주기">"누님" 봉준호도 떠올렸다…영화인들 몰려간 강수연 1주기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
