@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-08T14:14:40.191Z</updated>
+    <updated>2023-05-08T15:13:50.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003810254?sid=104" class="nclicks(rig.secteco)" title="[단독] 美 텍사스 총기 난사 사건으로 한인 가족 3명 사망">[단독] 美 텍사스 총기 난사 사건으로 한인 가족 3명 사망</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맞붙은 주중 한국대사관과 중국 관영지…중국 당국 “중국 민심”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011480639?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011480639?sid=104"/>
-        <updated>2023-05-08T13:15:56.054Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011480639?sid=104" class="nclicks(rig.secteco)" title="맞붙은 주중 한국대사관과 중국 관영지…중국 당국 “중국 민심”">맞붙은 주중 한국대사관과 중국 관영지…중국 당국 “중국 민심”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003810501?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003810501?sid=101"/>
-        <updated>2023-05-08T12:25:34.196Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003810501?sid=101" class="nclicks(rig.secteco)" title="‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰">‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰</a>]]></content>
+        <title type="html"><![CDATA[中외교부, 한국 비난한 관영매체 보도에 "민의 반영…한국 측 노력 희망"]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000813073?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000813073?sid=104"/>
+        <updated>2023-05-08T15:13:20.071Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/088/0000813073?sid=104" class="nclicks(rig.secteco)" title="中외교부, 한국 비난한 관영매체 보도에 &quot;민의 반영…한국 측 노력 희망&quot;">中외교부, 한국 비난한 관영매체 보도에 "민의 반영…한국 측 노력 희망"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재계 “일본과 자원·에너지 협력” 기시다 “기업이 먼저 나서 달라”]]></title>
@@ -53,6 +46,13 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003278545?sid=101"/>
         <updated>2023-05-08T11:11:29.777Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278545?sid=101" class="nclicks(rig.secteco)" title="재계 “일본과 자원·에너지 협력” 기시다 “기업이 먼저 나서 달라”">재계 “일본과 자원·에너지 협력” 기시다 “기업이 먼저 나서 달라”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003810501?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003810501?sid=101"/>
+        <updated>2023-05-08T12:25:34.196Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003810501?sid=101" class="nclicks(rig.secteco)" title="‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰">‘한화오션’ 출범 초읽기… 육해공 통합 방산기업 토대 갖춰</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘혼외자 논란’ 서정진 공식 사과…“비난 화살은 저에게만”]]></title>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002291475?sid=105" class="nclicks(rig.secteco)" title="실적 전망 웃돈 네이버·밑돈 카카오 모두 ‘초거대 AI’ 방점">실적 전망 웃돈 네이버·밑돈 카카오 모두 ‘초거대 AI’ 방점</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[속보] ‘돈봉투 핵심’ 강래구 구속... 검찰에 ‘깡통 폰’ 냈다]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003762410?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003762410?sid=102"/>
+        <updated>2023-05-08T15:13:20.079Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003762410?sid=102" class="nclicks(rig.secteco)" title="[속보] ‘돈봉투 핵심’ 강래구 구속... 검찰에 ‘깡통 폰’ 냈다">[속보] ‘돈봉투 핵심’ 강래구 구속... 검찰에 ‘깡통 폰’ 냈다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[단독] “이달부터 격리 권고로”…방역 완화 빨라진다]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011480718?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011480718?sid=102"/>
@@ -88,13 +95,6 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003810534?sid=102"/>
         <updated>2023-05-08T13:15:56.062Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003810534?sid=102" class="nclicks(rig.secteco)" title="“국민 100명 중 1명이 마약사범 가능성”… 검찰총장 “다음은 없다”">“국민 100명 중 1명이 마약사범 가능성”… 검찰총장 “다음은 없다”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금연' 안내에 커피 쏟고 "잘 치워봐"…경찰, 추적 나섰다]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001056296?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001056296?sid=102"/>
-        <updated>2023-05-08T13:15:56.066Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001056296?sid=102" class="nclicks(rig.secteco)" title="'금연' 안내에 커피 쏟고 &quot;잘 치워봐&quot;…경찰, 추적 나섰다">'금연' 안내에 커피 쏟고 "잘 치워봐"…경찰, 추적 나섰다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[따뜻한 봄 날씨…미세먼지 ‘좋음’ 수준[내일날씨]]]></title>
