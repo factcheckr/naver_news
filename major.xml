@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-08T07:13:05.167Z</updated>
+    <updated>2023-05-08T08:17:39.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재외동포청 ‘이원 설치’…본청은 인천, 민원센터는 광화문]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003278484?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003278484?sid=100"/>
+        <updated>2023-05-08T08:17:12.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278484?sid=100" class="nclicks(rig.secteco)" title="재외동포청 ‘이원 설치’…본청은 인천, 민원센터는 광화문">재외동포청 ‘이원 설치’…본청은 인천, 민원센터는 광화문</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김남국 “평생 짠돌이로 살았는데 어떻게 서민 코스프레인가”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003359533?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003359533?sid=100"/>
+        <updated>2023-05-08T08:17:12.182Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003359533?sid=100" class="nclicks(rig.secteco)" title="김남국 “평생 짠돌이로 살았는데 어떻게 서민 코스프레인가”">김남국 “평생 짠돌이로 살았는데 어떻게 서민 코스프레인가”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文 책방, 자원봉사자에 왜 교통비 안줄까?…실비 주면 최저임금 지급의무 발생 가능성]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000899715?sid=100</id>
@@ -13,53 +27,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000899715?sid=100" class="nclicks(rig.secteco)" title="文 책방, 자원봉사자에 왜 교통비 안줄까?…실비 주면 최저임금 지급의무 발생 가능성">文 책방, 자원봉사자에 왜 교통비 안줄까?…실비 주면 최저임금 지급의무 발생 가능성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재외동포청 본청 인천에 설치…통합민원실은 서울 광화문에]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013927528?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013927528?sid=100"/>
-        <updated>2023-05-08T07:12:36.741Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013927528?sid=100" class="nclicks(rig.secteco)" title="재외동포청 본청 인천에 설치…통합민원실은 서울 광화문에">재외동포청 본청 인천에 설치…통합민원실은 서울 광화문에</a>]]></content>
+        <title type="html"><![CDATA[美텍사스 총기난사 희생자에 한인교포 일가족 3명 포함(종합2보)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013927326?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013927326?sid=104"/>
+        <updated>2023-05-08T08:17:12.186Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013927326?sid=104" class="nclicks(rig.secteco)" title="美텍사스 총기난사 희생자에 한인교포 일가족 3명 포함(종합2보)">美텍사스 총기난사 희생자에 한인교포 일가족 3명 포함(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코인 논란 김남국 “서민 코스프레 비판, 동의 어렵다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002638873?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002638873?sid=100"/>
-        <updated>2023-05-08T07:12:36.742Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002638873?sid=100" class="nclicks(rig.secteco)" title="코인 논란 김남국 “서민 코스프레 비판, 동의 어렵다”">코인 논란 김남국 “서민 코스프레 비판, 동의 어렵다”</a>]]></content>
+        <title type="html"><![CDATA[中 관영지, 尹대통령 방미 보도 둘러싸고 韓 대사관과 '공방전']]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000057290?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000057290?sid=104"/>
+        <updated>2023-05-08T08:17:12.188Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000057290?sid=104" class="nclicks(rig.secteco)" title="中 관영지, 尹대통령 방미 보도 둘러싸고 韓 대사관과 '공방전'">中 관영지, 尹대통령 방미 보도 둘러싸고 韓 대사관과 '공방전'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美텍사스 총기난사로 3세 아이 등 한인 일가족 3명 희생]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000968963?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000968963?sid=104"/>
-        <updated>2023-05-08T06:17:26.591Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/087/0000968963?sid=104" class="nclicks(rig.secteco)" title="美텍사스 총기난사로 3세 아이 등 한인 일가족 3명 희생">美텍사스 총기난사로 3세 아이 등 한인 일가족 3명 희생</a>]]></content>
+        <title type="html"><![CDATA[대우조선해양마저 ‘대우’ 뗀다… 건설·車에서만 명맥]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000899719?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000899719?sid=101"/>
+        <updated>2023-05-08T08:17:12.190Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000899719?sid=101" class="nclicks(rig.secteco)" title="대우조선해양마저 ‘대우’ 뗀다… 건설·車에서만 명맥">대우조선해양마저 ‘대우’ 뗀다… 건설·車에서만 명맥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국왕 대관식 옆 '리퍼블릭' 체포... 누구 결정이었을까 [권신영의 해리포터 너머의 영국]]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002391427?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002391427?sid=104"/>
-        <updated>2023-05-08T07:12:36.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002391427?sid=104" class="nclicks(rig.secteco)" title="국왕 대관식 옆 '리퍼블릭' 체포... 누구 결정이었을까 [권신영의 해리포터 너머의 영국]">국왕 대관식 옆 '리퍼블릭' 체포... 누구 결정이었을까 [권신영의 해리포터 너머의 영국]</a>]]></content>
+        <title type="html"><![CDATA[기시다 "과거 불편 빨리 털어야…한일 함께하면 얻을것 많아"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013928088?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013928088?sid=101"/>
+        <updated>2023-05-08T08:17:12.192Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013928088?sid=101" class="nclicks(rig.secteco)" title="기시다 &quot;과거 불편 빨리 털어야…한일 함께하면 얻을것 많아&quot;(종합)">기시다 "과거 불편 빨리 털어야…한일 함께하면 얻을것 많아"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제6단체장, 기시다 총리와 간담회…"韓日 경제협력"]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003767367?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003767367?sid=101"/>
-        <updated>2023-05-08T07:12:36.745Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003767367?sid=101" class="nclicks(rig.secteco)" title="경제6단체장, 기시다 총리와 간담회…&quot;韓日 경제협력&quot;">경제6단체장, 기시다 총리와 간담회…"韓日 경제협력"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SG발' 폭락?, 억울한 SG증권… "CFD 창구역할만 한 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004884374?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004884374?sid=101"/>
-        <updated>2023-05-08T07:12:36.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004884374?sid=101" class="nclicks(rig.secteco)" title="'SG발' 폭락?, 억울한 SG증권… &quot;CFD 창구역할만 한 것&quot;">'SG발' 폭락?, 억울한 SG증권… "CFD 창구역할만 한 것"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDI, 반도체 수출 감소에 석 달째 ‘경기부진’ 진단…내수는 소비 중심으로 부진 완화]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003810277?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003810277?sid=101"/>
-        <updated>2023-05-08T07:12:36.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003810277?sid=101" class="nclicks(rig.secteco)" title="KDI, 반도체 수출 감소에 석 달째 ‘경기부진’ 진단…내수는 소비 중심으로 부진 완화">KDI, 반도체 수출 감소에 석 달째 ‘경기부진’ 진단…내수는 소비 중심으로 부진 완화</a>]]></content>
+        <title type="html"><![CDATA[CJ그룹株, 올 들어 시가총액 2조원 증발…힘없는 약세 지속]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004884440?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004884440?sid=101"/>
+        <updated>2023-05-08T08:17:12.194Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004884440?sid=101" class="nclicks(rig.secteco)" title="CJ그룹株, 올 들어 시가총액 2조원 증발…힘없는 약세 지속">CJ그룹株, 올 들어 시가총액 2조원 증발…힘없는 약세 지속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카카오톡 또 먹통됐다...대국민 사과 7개월 만에]]></title>
@@ -76,11 +76,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000899664?sid=105" class="nclicks(rig.secteco)" title="네이버, 1분기 실적 선방했지만… 검색매출 부진·규제 리스크 우려">네이버, 1분기 실적 선방했지만… 검색매출 부진·규제 리스크 우려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘엠폭스’ 확진자 60명…질병청 “모르는 사람과 ‘성접촉’ 삼가”]]></title>
-        <id>https://n.news.naver.com/mnews/article/662/0000019607?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/662/0000019607?sid=102"/>
-        <updated>2023-05-08T07:12:36.753Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/662/0000019607?sid=102" class="nclicks(rig.secteco)" title="‘엠폭스’ 확진자 60명…질병청 “모르는 사람과 ‘성접촉’ 삼가”">‘엠폭스’ 확진자 60명…질병청 “모르는 사람과 ‘성접촉’ 삼가”</a>]]></content>
+        <title type="html"><![CDATA[5월 첫주 엠폭스 확진자 16명...부산·광주서도 첫 확진 사례]]></title>
+        <id>https://n.news.naver.com/mnews/article/661/0000024704?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/661/0000024704?sid=102"/>
+        <updated>2023-05-08T08:17:12.200Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/661/0000024704?sid=102" class="nclicks(rig.secteco)" title="5월 첫주 엠폭스 확진자 16명...부산·광주서도 첫 확진 사례">5월 첫주 엠폭스 확진자 16명...부산·광주서도 첫 확진 사례</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['택배마약' 충격에 軍 종합대책 낸다…"영내 마약범죄 구속수사"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013928118?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013928118?sid=102"/>
+        <updated>2023-05-08T08:17:12.201Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013928118?sid=102" class="nclicks(rig.secteco)" title="'택배마약' 충격에 軍 종합대책 낸다…&quot;영내 마약범죄 구속수사&quot;">'택배마약' 충격에 軍 종합대책 낸다…"영내 마약범죄 구속수사"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['돈봉투' 강래구 또 구속 갈림길…"판사님께 잘 말하겠다"]]></title>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013927372?sid=102" class="nclicks(rig.secteco)" title="'돈봉투' 강래구 또 구속 갈림길…&quot;판사님께 잘 말하겠다&quot;">'돈봉투' 강래구 또 구속 갈림길…"판사님께 잘 말하겠다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출근길 ‘지옥철’ 탄 오세훈…9호선 신규열차 올해말 조기 투입]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003359479?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003359479?sid=102"/>
-        <updated>2023-05-08T07:12:36.756Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003359479?sid=102" class="nclicks(rig.secteco)" title="출근길 ‘지옥철’ 탄 오세훈…9호선 신규열차 올해말 조기 투입">출근길 ‘지옥철’ 탄 오세훈…9호선 신규열차 올해말 조기 투입</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[청와대 연중 프로그램…대통령 일상 엿보고 야간관람·한복체험]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0013927310?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/001/0013927310?sid=103"/>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013927310?sid=103" class="nclicks(rig.secteco)" title="청와대 연중 프로그램…대통령 일상 엿보고 야간관람·한복체험">청와대 연중 프로그램…대통령 일상 엿보고 야간관람·한복체험</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참신한 아이디어로 부산 매력 알릴 관광스타트업 32개 선정]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003767383?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003767383?sid=103"/>
-        <updated>2023-05-08T07:12:36.758Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003767383?sid=103" class="nclicks(rig.secteco)" title="참신한 아이디어로 부산 매력 알릴 관광스타트업 32개 선정">참신한 아이디어로 부산 매력 알릴 관광스타트업 32개 선정</a>]]></content>
+        <title type="html"><![CDATA[문체부에 'K-관광 영업사원' 등장…'관광수출전략추진단' 신설]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006793242?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006793242?sid=103"/>
+        <updated>2023-05-08T08:17:12.208Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006793242?sid=103" class="nclicks(rig.secteco)" title="문체부에 'K-관광 영업사원' 등장…'관광수출전략추진단' 신설">문체부에 'K-관광 영업사원' 등장…'관광수출전략추진단' 신설</a>]]></content>
     </entry>
 </feed>
