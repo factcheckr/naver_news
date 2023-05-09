@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-09T22:12:20.116Z</updated>
+    <updated>2023-05-09T23:13:09.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['자진사퇴·탈당 압박' 김재원·태영호 징계 수위 오늘 결정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000039715?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000039715?sid=100"/>
+        <updated>2023-05-09T23:12:41.069Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000039715?sid=100" class="nclicks(rig.secteco)" title="'자진사퇴·탈당 압박' 김재원·태영호 징계 수위 오늘 결정">'자진사퇴·탈당 압박' 김재원·태영호 징계 수위 오늘 결정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선 긋는 일본 "시찰단 안전성 평가 안 한다" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001271722?sid=100</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001271722?sid=100"/>
         <updated>2023-05-09T22:11:52.245Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001271722?sid=100" class="nclicks(rig.secteco)" title="선 긋는 일본 &quot;시찰단 안전성 평가 안 한다&quot;">선 긋는 일본 "시찰단 안전성 평가 안 한다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재원·태영호 '운명의 날'…'당원권 정지' 중징계 유력 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006796554?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006796554?sid=100"/>
-        <updated>2023-05-09T22:11:52.250Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006796554?sid=100" class="nclicks(rig.secteco)" title="김재원·태영호 '운명의 날'…'당원권 정지' 중징계 유력">김재원·태영호 '운명의 날'…'당원권 정지' 중징계 유력</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[尹, 취임 1주년 맞아 '文정부 실패' 강조하며 '고강도 개혁' 주문 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -26,11 +26,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006796515?sid=100" class="nclicks(rig.secteco)" title="尹, 취임 1주년 맞아 '文정부 실패' 강조하며 '고강도 개혁' 주문">尹, 취임 1주년 맞아 '文정부 실패' 강조하며 '고강도 개혁' 주문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] “성폭행 아니어도 성추행”…민사패소 트럼프, 66억원 배상해야 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005127859?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005127859?sid=104"/>
-        <updated>2023-05-09T22:11:52.252Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005127859?sid=104" class="nclicks(rig.secteco)" title="[속보] “성폭행 아니어도 성추행”…민사패소 트럼프, 66억원 배상해야">[속보] “성폭행 아니어도 성추행”…민사패소 트럼프, 66억원 배상해야</a>]]></content>
+        <title type="html"><![CDATA[트럼프, 성범죄자 됐다…"성추행 맞아" 66억 배상 판결 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004842555?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004842555?sid=104"/>
+        <updated>2023-05-09T23:12:41.073Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004842555?sid=104" class="nclicks(rig.secteco)" title="트럼프, 성범죄자 됐다…&quot;성추행 맞아&quot; 66억 배상 판결">트럼프, 성범죄자 됐다…"성추행 맞아" 66억 배상 판결</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[푸틴 “러시아 상대 실제 전쟁 벌어졌지만, 안보 지킬 것” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -54,18 +54,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000919560?sid=101" class="nclicks(rig.secteco)" title="전기요금 인상안 발표 임박… ㎾h당 '10원 미만' 유력">전기요금 인상안 발표 임박… ㎾h당 '10원 미만' 유력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인천아파트 주차장 붕괴 원인? “기둥 철근 30곳 빼고 지어”…GS건설, 사과 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002141065?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002141065?sid=101"/>
-        <updated>2023-05-09T22:11:52.261Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002141065?sid=101" class="nclicks(rig.secteco)" title="인천아파트 주차장 붕괴 원인? “기둥 철근 30곳 빼고 지어”…GS건설, 사과">인천아파트 주차장 붕괴 원인? “기둥 철근 30곳 빼고 지어”…GS건설, 사과</a>]]></content>
+        <title type="html"><![CDATA[쿠팡, 1Q 최대 영업익…김범석 "지구상 최고 서비스 만들 것"(종합2보) (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005256739?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005256739?sid=101"/>
+        <updated>2023-05-09T23:12:41.083Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005256739?sid=101" class="nclicks(rig.secteco)" title="쿠팡, 1Q 최대 영업익…김범석 &quot;지구상 최고 서비스 만들 것&quot;(종합2보)">쿠팡, 1Q 최대 영업익…김범석 "지구상 최고 서비스 만들 것"(종합2보)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크래프톤, 반등 성공한 이유?…"아직은 배그" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000043977?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000043977?sid=105"/>
-        <updated>2023-05-09T18:15:49.437Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000043977?sid=105" class="nclicks(rig.secteco)" title="크래프톤, 반등 성공한 이유?…&quot;아직은 배그&quot;">크래프톤, 반등 성공한 이유?…"아직은 배그"</a>]]></content>
+        <title type="html"><![CDATA[크래프톤, PC게임 성수기 효과 증대 전망…목표가↑-대신 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005481981?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005481981?sid=105"/>
+        <updated>2023-05-09T23:12:41.084Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005481981?sid=105" class="nclicks(rig.secteco)" title="크래프톤, PC게임 성수기 효과 증대 전망…목표가↑-대신">크래프톤, PC게임 성수기 효과 증대 전망…목표가↑-대신</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위메이드 4분기 연속 적자…2분기 반전 노린다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -82,11 +82,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/079/0003768032?sid=102" class="nclicks(rig.secteco)" title="라덕연 체포한 檢 '주가조작 주범 판단'…수사 방향은?">라덕연 체포한 檢 '주가조작 주범 판단'…수사 방향은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스1 PICK]"파면 소추로 국정 차질 발생해 송구"…탄핵심판 출석한 이상민 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006795229?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006795229?sid=102"/>
-        <updated>2023-05-09T21:11:14.423Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006795229?sid=102" class="nclicks(rig.secteco)" title="[뉴스1 PICK]&quot;파면 소추로 국정 차질 발생해 송구&quot;…탄핵심판 출석한 이상민">[뉴스1 PICK]"파면 소추로 국정 차질 발생해 송구"…탄핵심판 출석한 이상민</a>]]></content>
+        <title type="html"><![CDATA[이상민 탄핵심판 첫 변론…"의무 방임" vs "예측 못한 참사" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001741113?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001741113?sid=102"/>
+        <updated>2023-05-09T23:12:41.089Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001741113?sid=102" class="nclicks(rig.secteco)" title="이상민 탄핵심판 첫 변론…&quot;의무 방임&quot; vs &quot;예측 못한 참사&quot;">이상민 탄핵심판 첫 변론…"의무 방임" vs "예측 못한 참사"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 코로나 7일 격리 의무→5일 격리 권고…종식 선언한다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278965?sid=102" class="nclicks(rig.secteco)" title="[단독] 코로나 7일 격리 의무→5일 격리 권고…종식 선언한다">[단독] 코로나 7일 격리 의무→5일 격리 권고…종식 선언한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낮 최고 기온 26도 …수도권 미세먼지 ‘나쁨’[오늘날씨] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005481949?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005481949?sid=103"/>
-        <updated>2023-05-09T22:11:52.275Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005481949?sid=103" class="nclicks(rig.secteco)" title="낮 최고 기온 26도 …수도권 미세먼지 ‘나쁨’[오늘날씨]">낮 최고 기온 26도 …수도권 미세먼지 ‘나쁨’[오늘날씨]</a>]]></content>
+        <title type="html"><![CDATA[서울 한낮 26도 초여름 날씨…일교차 20도↑ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000249270?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000249270?sid=103"/>
+        <updated>2023-05-09T23:12:41.091Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000249270?sid=103" class="nclicks(rig.secteco)" title="서울 한낮 26도 초여름 날씨…일교차 20도↑">서울 한낮 26도 초여름 날씨…일교차 20도↑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베를린필 지휘봉 잡는 김은선…동양 여성 지휘자 최초 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002639009?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002639009?sid=103"/>
-        <updated>2023-05-09T22:11:52.277Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002639009?sid=103" class="nclicks(rig.secteco)" title="베를린필 지휘봉 잡는 김은선…동양 여성 지휘자 최초">베를린필 지휘봉 잡는 김은선…동양 여성 지휘자 최초</a>]]></content>
+        <title type="html"><![CDATA[아침엔 쌀쌀·오후엔 더워…낮 최고 26도·미세먼지 '보통' (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/654/0000039714?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/654/0000039714?sid=103"/>
+        <updated>2023-05-09T23:12:41.092Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/654/0000039714?sid=103" class="nclicks(rig.secteco)" title="아침엔 쌀쌀·오후엔 더워…낮 최고 26도·미세먼지 '보통'">아침엔 쌀쌀·오후엔 더워…낮 최고 26도·미세먼지 '보통'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
