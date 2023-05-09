@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-09T04:15:48.198Z</updated>
+    <updated>2023-05-09T05:12:27.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002391601?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 자화자찬 &quot;외교·안보만큼 큰 변화 이룬 분야 없다&quot;">윤 대통령 자화자찬 "외교·안보만큼 큰 변화 이룬 분야 없다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한미일, 北미사일 정보 실시간 공유 협의…요격망 구축까지 가나]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013929276?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013929276?sid=104"/>
-        <updated>2023-05-09T03:14:09.422Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013929276?sid=104" class="nclicks(rig.secteco)" title="한미일, 北미사일 정보 실시간 공유 협의…요격망 구축까지 가나">한미일, 北미사일 정보 실시간 공유 협의…요격망 구축까지 가나</a>]]></content>
+        <title type="html"><![CDATA[한ㆍ미ㆍ일 미사일 정보 실시간 공유 ‘가속도’]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003278732?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003278732?sid=104"/>
+        <updated>2023-05-09T05:11:59.035Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278732?sid=104" class="nclicks(rig.secteco)" title="한ㆍ미ㆍ일 미사일 정보 실시간 공유 ‘가속도’">한ㆍ미ㆍ일 미사일 정보 실시간 공유 ‘가속도’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아메리칸드림 자부심 컸던 '美 총기참변' 한인 가족…"아이 생일 선물 바꾸려다"]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004188034?sid=104" class="nclicks(rig.secteco)" title="아메리칸드림 자부심 컸던 '美 총기참변' 한인 가족…&quot;아이 생일 선물 바꾸려다&quot;">아메리칸드림 자부심 컸던 '美 총기참변' 한인 가족…"아이 생일 선물 바꾸려다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GS건설이 철근 빼돌리고 공사?…검단신도시 주차장 붕괴사고]]></title>
+        <title type="html"><![CDATA[충격의 검단신도시 주차장 붕괴…"GS건설이 철근 빼먹었다"]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003278726?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003278726?sid=101"/>
         <updated>2023-05-09T04:15:18.684Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278726?sid=101" class="nclicks(rig.secteco)" title="GS건설이 철근 빼돌리고 공사?…검단신도시 주차장 붕괴사고">GS건설이 철근 빼돌리고 공사?…검단신도시 주차장 붕괴사고</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278726?sid=101" class="nclicks(rig.secteco)" title="충격의 검단신도시 주차장 붕괴…&quot;GS건설이 철근 빼먹었다&quot;">충격의 검단신도시 주차장 붕괴…"GS건설이 철근 빼먹었다"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국인 모시기에 '진심'인 K-금융...이복현 금감원장도 지원사격]]></title>
+        <id>https://n.news.naver.com/mnews/article/123/0002304759?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/123/0002304759?sid=101"/>
+        <updated>2023-05-09T05:11:59.040Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/123/0002304759?sid=101" class="nclicks(rig.secteco)" title="외국인 모시기에 '진심'인 K-금융...이복현 금감원장도 지원사격">외국인 모시기에 '진심'인 K-금융...이복현 금감원장도 지원사격</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김포-부천 급행철도 타당성조사…철도기지 광명 이전 무산]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013929371?sid=101" class="nclicks(rig.secteco)" title="김포-부천 급행철도 타당성조사…철도기지 광명 이전 무산">김포-부천 급행철도 타당성조사…철도기지 광명 이전 무산</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동남아 3국 찾은 이복현…韓금융 세일즈 나섰다]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011847704?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011847704?sid=101"/>
-        <updated>2023-05-09T04:15:18.688Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011847704?sid=101" class="nclicks(rig.secteco)" title="동남아 3국 찾은 이복현…韓금융 세일즈 나섰다">동남아 3국 찾은 이복현…韓금융 세일즈 나섰다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LGU+, 숭실대와 '정보보호학과' 신설...사이버보안 인재 육성]]></title>
         <id>https://n.news.naver.com/mnews/article/092/0002291548?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/092/0002291548?sid=105"/>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002291548?sid=105" class="nclicks(rig.secteco)" title="LGU+, 숭실대와 '정보보호학과' 신설...사이버보안 인재 육성">LGU+, 숭실대와 '정보보호학과' 신설...사이버보안 인재 육성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NHN클라우드, 광주 연구개발센터 개소…인공지능 연구 집중]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000899829?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000899829?sid=105"/>
-        <updated>2023-05-09T04:15:18.691Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000899829?sid=105" class="nclicks(rig.secteco)" title="NHN클라우드, 광주 연구개발센터 개소…인공지능 연구 집중">NHN클라우드, 광주 연구개발센터 개소…인공지능 연구 집중</a>]]></content>
+        <title type="html"><![CDATA[광주 NHN 연구개발센터 개소…"AI 교육과 채용 강화"]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000408299?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000408299?sid=105"/>
+        <updated>2023-05-09T05:11:59.044Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000408299?sid=105" class="nclicks(rig.secteco)" title="광주 NHN 연구개발센터 개소…&quot;AI 교육과 채용 강화&quot;">광주 NHN 연구개발센터 개소…"AI 교육과 채용 강화"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] '주가하락 사태' 라덕연, 오전 자택서 검찰에 체포됐다]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278700?sid=102" class="nclicks(rig.secteco)" title="[단독] '주가하락 사태' 라덕연, 오전 자택서 검찰에 체포됐다">[단독] '주가하락 사태' 라덕연, 오전 자택서 검찰에 체포됐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[론스타 배상금 6억여원 줄었다…"판정문 취소 신청 적극 검토"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006794516?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006794516?sid=102"/>
-        <updated>2023-05-09T03:14:09.436Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006794516?sid=102" class="nclicks(rig.secteco)" title="론스타 배상금 6억여원 줄었다…&quot;판정문 취소 신청 적극 검토&quot;(종합)">론스타 배상금 6억여원 줄었다…"판정문 취소 신청 적극 검토"(종합)</a>]]></content>
+        <title type="html"><![CDATA[송유관 30㎝ 앞서 딱 걸렸다…모텔 지하 7개월 '삽질 작전' [영상]]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003278710?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003278710?sid=102"/>
+        <updated>2023-05-09T05:11:59.046Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278710?sid=102" class="nclicks(rig.secteco)" title="송유관 30㎝ 앞서 딱 걸렸다…모텔 지하 7개월 '삽질 작전' [영상]">송유관 30㎝ 앞서 딱 걸렸다…모텔 지하 7개월 '삽질 작전' [영상]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 경찰, 신한은행 본점 압수수색…자본시장법 위반 혐의]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011481099?sid=102" class="nclicks(rig.secteco)" title="[단독] 경찰, 신한은행 본점 압수수색…자본시장법 위반 혐의">[단독] 경찰, 신한은행 본점 압수수색…자본시장법 위반 혐의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사회에 페미·미투 계엄령 발동돼" 박원순 성폭력 부정 다큐 나온다]]></title>
-        <id>https://n.news.naver.com/mnews/article/310/0000106544?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/310/0000106544?sid=103"/>
-        <updated>2023-05-09T04:15:18.697Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/310/0000106544?sid=103" class="nclicks(rig.secteco)" title="&quot;사회에 페미·미투 계엄령 발동돼&quot; 박원순 성폭력 부정 다큐 나온다">"사회에 페미·미투 계엄령 발동돼" 박원순 성폭력 부정 다큐 나온다</a>]]></content>
+        <title type="html"><![CDATA[박원순 다큐 7월 개봉...또 다시 2차 가해 논란]]></title>
+        <id>https://n.news.naver.com/mnews/article/053/0000036117?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/053/0000036117?sid=103"/>
+        <updated>2023-05-09T05:11:59.049Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/053/0000036117?sid=103" class="nclicks(rig.secteco)" title="박원순 다큐 7월 개봉...또 다시 2차 가해 논란">박원순 다큐 7월 개봉...또 다시 2차 가해 논란</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베를린 필하모닉 지휘봉 잡는 김은선…동양 여성 지휘자 최초]]></title>
