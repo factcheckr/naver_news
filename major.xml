@@ -2,43 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-10T15:14:49.509Z</updated>
+    <updated>2023-05-10T16:17:56.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[與김재원 당원권 정지 1년, 태영호 3개월…"반복된 설화는 자해"(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0013934254?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0013934254?sid=100"/>
-        <updated>2023-05-10T15:14:15.384Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013934254?sid=100" class="nclicks(rig.secteco)" title="與김재원 당원권 정지 1년, 태영호 3개월…&quot;반복된 설화는 자해&quot;(종합)">與김재원 당원권 정지 1년, 태영호 3개월…"반복된 설화는 자해"(종합)</a>]]></content>
+        <title type="html"><![CDATA[김재원 당원권 정지 1년 '공천 불가'…자진사퇴 태영호 3개월]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003279143?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003279143?sid=100"/>
+        <updated>2023-05-10T16:17:26.963Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279143?sid=100" class="nclicks(rig.secteco)" title="김재원 당원권 정지 1년 '공천 불가'…자진사퇴 태영호 3개월">김재원 당원권 정지 1년 '공천 불가'…자진사퇴 태영호 3개월</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독]'김남국 코인' 진상조사팀, 11일 첫 모임 갖는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011851408?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011851408?sid=100"/>
-        <updated>2023-05-10T09:13:16.437Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011851408?sid=100" class="nclicks(rig.secteco)" title="[단독]'김남국 코인' 진상조사팀, 11일 첫 모임 갖는다">[단독]'김남국 코인' 진상조사팀, 11일 첫 모임 갖는다</a>]]></content>
+        <title type="html"><![CDATA[“김남국 해명할수록 더 꼬여” 민주당 지도부, 코인 매각 권유]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003279163?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003279163?sid=100"/>
+        <updated>2023-05-10T16:17:26.965Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279163?sid=100" class="nclicks(rig.secteco)" title="“김남국 해명할수록 더 꼬여” 민주당 지도부, 코인 매각 권유">“김남국 해명할수록 더 꼬여” 민주당 지도부, 코인 매각 권유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 정부 1주년, 이재명 ‘영남행’…문재인·홍준표 ‘대화’ 강조]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011482451?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011482451?sid=100"/>
-        <updated>2023-05-10T15:14:15.388Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011482451?sid=100" class="nclicks(rig.secteco)" title="윤석열 정부 1주년, 이재명 ‘영남행’…문재인·홍준표 ‘대화’ 강조">윤석열 정부 1주년, 이재명 ‘영남행’…문재인·홍준표 ‘대화’ 강조</a>]]></content>
+        <title type="html"><![CDATA[이재명, '尹정부 1주년' 영남행…홍준표·문재인 만난 이유]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000216149?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000216149?sid=100"/>
+        <updated>2023-05-10T16:17:26.967Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000216149?sid=100" class="nclicks(rig.secteco)" title="이재명, '尹정부 1주년' 영남행…홍준표·문재인 만난 이유">이재명, '尹정부 1주년' 영남행…홍준표·문재인 만난 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美CPI 2년내 최소폭 상승…힘 실리는 '금리인상 중단'(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005257324?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/277/0005257324?sid=104"/>
-        <updated>2023-05-10T15:14:15.399Z</updated>
+        <updated>2023-05-10T16:17:26.968Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005257324?sid=104" class="nclicks(rig.secteco)" title="美CPI 2년내 최소폭 상승…힘 실리는 '금리인상 중단'(종합)">美CPI 2년내 최소폭 상승…힘 실리는 '금리인상 중단'(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사진 속 피해 여성을 아내로 착각…트럼프, 성추행 66억 배상 패인은]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003278971?sid=104</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003278971?sid=104"/>
-        <updated>2023-05-10T15:14:15.400Z</updated>
+        <updated>2023-05-10T16:17:26.969Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003278971?sid=104" class="nclicks(rig.secteco)" title="사진 속 피해 여성을 아내로 착각…트럼프, 성추행 66억 배상 패인은">사진 속 피해 여성을 아내로 착각…트럼프, 성추행 66억 배상 패인은</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기요금 인상 막판 진통...'10원 미만' 유력]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001883365?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001883365?sid=101"/>
+        <updated>2023-05-10T16:17:26.970Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001883365?sid=101" class="nclicks(rig.secteco)" title="전기요금 인상 막판 진통...'10원 미만' 유력">전기요금 인상 막판 진통...'10원 미만' 유력</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[韓日 재계, '미래파트너십 기금' 출범…전범기업 참여는 미정(종합)]]></title>
@@ -48,66 +55,59 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005482485?sid=101" class="nclicks(rig.secteco)" title="韓日 재계, '미래파트너십 기금' 출범…전범기업 참여는 미정(종합)">韓日 재계, '미래파트너십 기금' 출범…전범기업 참여는 미정(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전기요금 인상 발표 또 연기…11일 당정협의 무산]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005257317?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005257317?sid=101"/>
-        <updated>2023-05-10T15:14:15.403Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005257317?sid=101" class="nclicks(rig.secteco)" title="전기요금 인상 발표 또 연기…11일 당정협의 무산">전기요금 인상 발표 또 연기…11일 당정협의 무산</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[경상수지 석달 만에 흑자 전환…한은 "4월도 균형 수준"[일문일답]]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005482207?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005482207?sid=101"/>
-        <updated>2023-05-10T15:14:15.404Z</updated>
+        <updated>2023-05-10T16:17:26.973Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005482207?sid=101" class="nclicks(rig.secteco)" title="경상수지 석달 만에 흑자 전환…한은 &quot;4월도 균형 수준&quot;[일문일답]">경상수지 석달 만에 흑자 전환…한은 "4월도 균형 수준"[일문일답]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘단톡방’ 몰래 나갈 수 있다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003222797?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003222797?sid=105"/>
-        <updated>2023-05-10T15:14:15.405Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003222797?sid=105" class="nclicks(rig.secteco)" title="‘단톡방’ 몰래 나갈 수 있다">‘단톡방’ 몰래 나갈 수 있다</a>]]></content>
+        <title type="html"><![CDATA[카톡의 '갓 패치'…단톡방 '조용히 나가기' 추가(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011850216?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011850216?sid=105"/>
+        <updated>2023-05-10T16:17:26.974Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011850216?sid=105" class="nclicks(rig.secteco)" title="카톡의 '갓 패치'…단톡방 '조용히 나가기' 추가(종합)">카톡의 '갓 패치'…단톡방 '조용히 나가기' 추가(종합)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국토교통부·서울대병원, 공공기관 첫 개인정보법 위반 과징금 낸다]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0011850626?sid=105</id>
         <link href="https://n.news.naver.com/mnews/article/003/0011850626?sid=105"/>
-        <updated>2023-05-10T15:14:15.406Z</updated>
+        <updated>2023-05-10T16:17:26.975Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011850626?sid=105" class="nclicks(rig.secteco)" title="국토교통부·서울대병원, 공공기관 첫 개인정보법 위반 과징금 낸다">국토교통부·서울대병원, 공공기관 첫 개인정보법 위반 과징금 낸다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커피 던진 흡연男 알고 보니 자영업자…“손 미끄러져 그랬다” 해명]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004188865?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004188865?sid=102"/>
-        <updated>2023-05-10T15:14:15.409Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004188865?sid=102" class="nclicks(rig.secteco)" title="커피 던진 흡연男 알고 보니 자영업자…“손 미끄러져 그랬다” 해명">커피 던진 흡연男 알고 보니 자영업자…“손 미끄러져 그랬다” 해명</a>]]></content>
+        <title type="html"><![CDATA[검찰, '주가조작 의혹' 라덕연 대표 구속영장 청구]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001883370?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001883370?sid=102"/>
+        <updated>2023-05-10T16:17:26.975Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001883370?sid=102" class="nclicks(rig.secteco)" title="검찰, '주가조작 의혹' 라덕연 대표 구속영장 청구">검찰, '주가조작 의혹' 라덕연 대표 구속영장 청구</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인천 카페 흡연 진상’ 60대 결국 경찰행 “술김에…”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001607579?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001607579?sid=102"/>
+        <updated>2023-05-10T16:17:26.976Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001607579?sid=102" class="nclicks(rig.secteco)" title="‘인천 카페 흡연 진상’ 60대 결국 경찰행 “술김에…”">‘인천 카페 흡연 진상’ 60대 결국 경찰행 “술김에…”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['우회전 사고'로 오늘에만 초등생 등 2명 사망·그제 초등생 1명 중상(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006799118?sid=102</id>
         <link href="https://n.news.naver.com/mnews/article/421/0006799118?sid=102"/>
-        <updated>2023-05-10T15:14:15.411Z</updated>
+        <updated>2023-05-10T16:17:26.977Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006799118?sid=102" class="nclicks(rig.secteco)" title="'우회전 사고'로 오늘에만 초등생 등 2명 사망·그제 초등생 1명 중상(종합)">'우회전 사고'로 오늘에만 초등생 등 2명 사망·그제 초등생 1명 중상(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['김남국 코인' 추적 영장, 법원이 작년 두 차례 기각했다 왜]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003279134?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003279134?sid=102"/>
-        <updated>2023-05-10T15:14:15.413Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279134?sid=102" class="nclicks(rig.secteco)" title="'김남국 코인' 추적 영장, 법원이 작년 두 차례 기각했다 왜">'김남국 코인' 추적 영장, 법원이 작년 두 차례 기각했다 왜</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일교차 큰 초여름 날씨…인천 미세먼지 '나쁨'[내일날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011851352?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011851352?sid=103"/>
-        <updated>2023-05-10T15:14:15.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011851352?sid=103" class="nclicks(rig.secteco)" title="일교차 큰 초여름 날씨…인천 미세먼지 '나쁨'[내일날씨]">일교차 큰 초여름 날씨…인천 미세먼지 '나쁨'[내일날씨]</a>]]></content>
+        <title type="html"><![CDATA[[오늘의 날씨] 낮 최고 27도 '초여름'…아침엔 쌀쌀]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000216140?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000216140?sid=103"/>
+        <updated>2023-05-10T16:17:26.978Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000216140?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 낮 최고 27도 '초여름'…아침엔 쌀쌀">[오늘의 날씨] 낮 최고 27도 '초여름'…아침엔 쌀쌀</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광주비엔날레 '박서보예술상' 폐지…후원금은 반납]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000216082?sid=103</id>
         <link href="https://n.news.naver.com/mnews/article/629/0000216082?sid=103"/>
-        <updated>2023-05-10T15:14:15.416Z</updated>
+        <updated>2023-05-10T16:17:26.979Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000216082?sid=103" class="nclicks(rig.secteco)" title="광주비엔날레 '박서보예술상' 폐지…후원금은 반납">광주비엔날레 '박서보예술상' 폐지…후원금은 반납</a>]]></content>
     </entry>
 </feed>
