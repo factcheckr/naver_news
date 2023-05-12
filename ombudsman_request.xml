@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-05-12T04:15:38.752Z</updated>
+    <updated>2023-05-12T05:13:03.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진보당 대표가 돈 받은 곳은 GS건설 오포자이 현장 협력업체]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011812973</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011812973"/>
+        <updated>2023-05-12T05:12:49.033Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['갑질 의혹' 파출소장 전임지에서도 감찰내사]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002387618</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/081/0003083691"/>
         <updated>2022-11-16T17:21:37.937Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내남편은 與의원 비서관...목 조르고 강간·낙태 강요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003524749</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003524749"/>
-        <updated>2022-11-16T17:21:37.941Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
