@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-05-14T15:14:02.170Z</updated>
+    <updated>2023-05-14T16:15:44.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000216725?sid=100" class="nclicks(rig.secteco)" title="尹, '간호법 제정안' 거부권 행사 임박…부담 커질 듯">尹, '간호법 제정안' 거부권 행사 임박…부담 커질 듯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尹대통령, '세번째' 한미일 정상회담…출범 2년차 외교 본격화]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004886931?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004886931?sid=100"/>
-        <updated>2023-05-14T15:13:31.822Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004886931?sid=100" class="nclicks(rig.secteco)" title="尹대통령, '세번째' 한미일 정상회담…출범 2년차 외교 본격화">尹대통령, '세번째' 한미일 정상회담…출범 2년차 외교 본격화</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 G7 참석…19~21일 방일, 한·미·일 회담 예정]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003279922?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003279922?sid=100"/>
+        <updated>2023-05-14T16:15:15.887Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279922?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 G7 참석…19~21일 방일, 한·미·일 회담 예정">윤 대통령 G7 참석…19~21일 방일, 한·미·일 회담 예정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈당이 만능 치트키? 논란마다 탈당하는 의원들 [뉴스+]]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003812425?sid=100" class="nclicks(rig.secteco)" title="탈당이 만능 치트키? 논란마다 탈당하는 의원들 [뉴스+]">탈당이 만능 치트키? 논란마다 탈당하는 의원들 [뉴스+]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태국 총선 사전여론조사 “탁신계 야당, 과반에 크게 못 미쳐”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003763572?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003763572?sid=104"/>
-        <updated>2023-05-14T14:11:00.798Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003763572?sid=104" class="nclicks(rig.secteco)" title="태국 총선 사전여론조사 “탁신계 야당, 과반에 크게 못 미쳐”">태국 총선 사전여론조사 “탁신계 야당, 과반에 크게 못 미쳐”</a>]]></content>
+        <title type="html"><![CDATA[泰총선 출구조사 1위 '탁신 딸'…2위는 하버드대 출신 'MZ영웅']]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003279849?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003279849?sid=104"/>
+        <updated>2023-05-14T16:15:15.888Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279849?sid=104" class="nclicks(rig.secteco)" title="泰총선 출구조사 1위 '탁신 딸'…2위는 하버드대 출신 'MZ영웅'">泰총선 출구조사 1위 '탁신 딸'…2위는 하버드대 출신 'MZ영웅'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에르도안 20년 철권 끝낼까… 野 단일후보 지지율 49% ‘1위’ [세계는 지금]]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/660/0000035068?sid=101" class="nclicks(rig.secteco)" title="내일(15일) 전기요금 인상 결정…㎾h당 8원↑잠정 확정">내일(15일) 전기요금 인상 결정…㎾h당 8원↑잠정 확정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대출금리 하락·투자 수요 회복에 가계대출 ‘들썩’…경제 부담 우려]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003223432?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003223432?sid=101"/>
-        <updated>2023-05-14T15:13:31.830Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003223432?sid=101" class="nclicks(rig.secteco)" title="대출금리 하락·투자 수요 회복에 가계대출 ‘들썩’…경제 부담 우려">대출금리 하락·투자 수요 회복에 가계대출 ‘들썩’…경제 부담 우려</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼성전자, 일본에 첨단 반도체 시제품 라인 구축하나]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003279875?sid=101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003279875?sid=101"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003279875?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 일본에 첨단 반도체 시제품 라인 구축하나">삼성전자, 일본에 첨단 반도체 시제품 라인 구축하나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011856747?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011856747?sid=105"/>
-        <updated>2023-05-14T13:13:49.543Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011856747?sid=105" class="nclicks(rig.secteco)" title="챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]">챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]</a>]]></content>
+        <title type="html"><![CDATA[시장은 이미 긴축 끝…금리 19개월전 뒷걸음에 새 가계대출 2배]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0013939650?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0013939650?sid=101"/>
+        <updated>2023-05-14T16:15:15.901Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0013939650?sid=101" class="nclicks(rig.secteco)" title="시장은 이미 긴축 끝…금리 19개월전 뒷걸음에 새 가계대출 2배">시장은 이미 긴축 끝…금리 19개월전 뒷걸음에 새 가계대출 2배</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성·LG, 新사업 ‘헬스케어’로 전장 확대]]></title>
@@ -74,6 +67,13 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005485216?sid=105"/>
         <updated>2023-05-14T14:11:00.814Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005485216?sid=105" class="nclicks(rig.secteco)" title="삼성·LG, 新사업 ‘헬스케어’로 전장 확대">삼성·LG, 新사업 ‘헬스케어’로 전장 확대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011856747?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011856747?sid=105"/>
+        <updated>2023-05-14T13:13:49.543Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011856747?sid=105" class="nclicks(rig.secteco)" title="챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]">챗GPT 대항마 ‘바드’에 한국어 우선 지원...구글의 속내는[사이다IT]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[증평 한우 농장서도 구제역…청주 외 지역서 첫 발생]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001608333?sid=102" class="nclicks(rig.secteco)" title="씁쓸한 스승의 날… ‘교사 때려치우고 싶다’ 무려 87%">씁쓸한 스승의 날… ‘교사 때려치우고 싶다’ 무려 87%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 맑고 초여름 더위…한낮 최고 29도]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000216726?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000216726?sid=103"/>
-        <updated>2023-05-14T15:13:31.842Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000216726?sid=103" class="nclicks(rig.secteco)" title="[오늘의 날씨] 맑고 초여름 더위…한낮 최고 29도">[오늘의 날씨] 맑고 초여름 더위…한낮 최고 29도</a>]]></content>
+        <title type="html"><![CDATA[아침 9~14도 일교차 커…오후부터 요란한 소나기[오늘날씨]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0011856712?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0011856712?sid=103"/>
+        <updated>2023-05-14T16:15:15.907Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011856712?sid=103" class="nclicks(rig.secteco)" title="아침 9~14도 일교차 커…오후부터 요란한 소나기[오늘날씨]">아침 9~14도 일교차 커…오후부터 요란한 소나기[오늘날씨]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버 ‘실검’ 부활 움직임에 정부 “우려 주시”…與 “선동 놀이터 안돼”]]></title>
