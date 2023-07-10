@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-07-10T05:14:48.586Z</updated>
+    <updated>2023-07-10T06:19:57.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -25,6 +25,76 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001889504"/>
         <updated>2023-07-10T05:14:41.621Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원, '차명투자 의혹' 존리 전 대표 중징계 처분]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003774274</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003774274"/>
+        <updated>2023-07-10T06:19:50.111Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고성으로 얼룩진 '김태흠 충남지사-태안군민' 대화]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002391033</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002391033"/>
+        <updated>2023-07-10T06:19:50.112Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청렴도 하위' 경찰청, 3년간 비위 적발 징계처분 1390명]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002391102</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002391102"/>
+        <updated>2023-07-10T06:19:50.114Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이정근 노트]"김기문 중소기업중앙회장, 중소기업 대출 알선 등 처리"]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000056791</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000056791"/>
+        <updated>2023-07-10T06:19:50.115Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이정근 노트] "친문 자금책" 홈앤쇼핑, 1000억원대 비자금 의혹]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000057184</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000057184"/>
+        <updated>2023-07-10T06:19:50.115Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 젠투파트너스 의혹 일파만파…자전거래·돌려막기 정황도]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004377080</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004377080"/>
+        <updated>2023-07-10T06:19:50.117Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["1.3조원 펀드 환매 중단한 젠투, 자전거래·돌려막기 의심"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004377325</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004377325"/>
+        <updated>2023-07-10T06:19:50.117Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1.3兆 젠투 펀드마저 '파국' 치닫나…금감원, 판매사 신한금투 전격 조…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004374750</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004374750"/>
+        <updated>2023-07-10T06:19:50.118Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안전한 채권형마저…꼬리무는 사모펀드 환매연기說]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004367009</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004367009"/>
+        <updated>2023-07-10T06:19:50.120Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]“나라 넘어갈 뻔했다”… 檢 ‘간첩단’ 수사팀 11명으로 증원]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003473117</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003473117"/>
+        <updated>2023-07-10T06:19:50.121Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김문기 전 국회의원 별세]]></title>
@@ -144,75 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003128830"/>
         <updated>2023-07-10T01:19:40.892Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울대 음대 교수, 제자 성추행 이어 '인건비 유용' 수사]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003412354</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003412354"/>
-        <updated>2023-07-10T01:19:40.894Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외서 입국 후 시설 격리 지침 어긴 기획재정부 직원 입건]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011078260</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011078260"/>
-        <updated>2023-07-10T01:19:40.896Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 공정 외친 스포츠윤리센터의 '민낯'…뒤바뀐 합격자·셀프 채용 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/477/0000335327</id>
-        <link href="https://n.news.naver.com/mnews/article/477/0000335327"/>
-        <updated>2023-07-10T01:19:40.898Z</updated>
-        <content type="html"><![CDATA[스포티비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재파일] 스포츠윤리센터 '채용 비리' 논란의 나비효과]]></title>
-        <id>https://n.news.naver.com/mnews/article/477/0000337207</id>
-        <link href="https://n.news.naver.com/mnews/article/477/0000337207"/>
-        <updated>2023-07-10T01:19:40.901Z</updated>
-        <content type="html"><![CDATA[스포티비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '年15% 이자' 내걸고 P2P대출 '돌려막기']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004351730</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004351730"/>
-        <updated>2023-07-10T01:19:40.903Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 차 살때마다 KBS-MBC에 3만원씩 내고 있다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003291568</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003291568"/>
-        <updated>2023-07-10T01:19:40.905Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텅빈 인천공항서… 뜬금없는 '카트 파업']]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003544313</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003544313"/>
-        <updated>2023-07-10T01:19:40.907Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고춧가루 냄새에 고통 호소하는 주민들, 관할 지자체 향해 '원성']]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002270497</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002270497"/>
-        <updated>2023-07-10T01:19:40.909Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코로나 확진' 통장이 돌린 마스크 논란…게다가 '무허가']]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000234726</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000234726"/>
-        <updated>2023-07-10T01:19:40.911Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] "세상 희한하게 돌아간다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003537181</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003537181"/>
-        <updated>2023-07-10T01:19:40.914Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
