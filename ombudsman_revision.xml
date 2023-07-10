@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-07-10T04:18:13.911Z</updated>
+    <updated>2023-07-10T05:14:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금감원, 존리에 직무정지 중징계…과징금·과태료 10억]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004195104</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004195104"/>
+        <updated>2023-07-10T05:14:41.616Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안혜리의 시선]공직으로 간 아가동산 변호사들]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003266169</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003266169"/>
+        <updated>2023-07-10T05:14:41.620Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원, '차명투자 의혹' 존리 직무정지 중징계]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001889504</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001889504"/>
+        <updated>2023-07-10T05:14:41.621Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김문기 전 국회의원 별세]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003160307</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003537181"/>
         <updated>2023-07-10T01:19:40.914Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靑민정, 최종건 비서관 조사說…‘정의용·문정인 갈등’ 심화?]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002365838</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002365838"/>
-        <updated>2023-07-10T01:19:40.916Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법률구조공단 "임기제 변호사 등 효율적 공단 운영 필요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004212691</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004212691"/>
-        <updated>2023-07-10T01:19:40.919Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]서울시 대우건설에 1조짜리 민자사업계획 특혜변경]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003006450</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003006450"/>
-        <updated>2023-07-10T01:19:40.921Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
