@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-07-10T01:19:48.866Z</updated>
+    <updated>2023-07-10T03:01:26.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김문기 전 국회의원 별세]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003160307</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003160307"/>
+        <updated>2023-07-10T03:01:17.846Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰, 수렵 단체 협박해 광고비 갈취한 혐의로 일간지 기자 입건]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0010933425</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0010933425"/>
+        <updated>2023-07-10T03:01:17.847Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고]호주제 폐지 이끈 김주수 前교수 外]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003400704</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003400704"/>
+        <updated>2023-07-10T03:01:17.849Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "장애인 단체는 싸워 이길 상대"...서울교통공사 대응 논란]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001714533</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001714533"/>
+        <updated>2023-07-10T03:01:17.851Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국립대 채용’ 떨어뜨리기 위해 최저점 의혹]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011193684</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011193684"/>
+        <updated>2023-07-10T03:01:17.852Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국립대 채용’ 떨어뜨리기 위해 최저점 의혹]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011193842</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011193842"/>
+        <updated>2023-07-10T03:01:17.854Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국립대 채용’ 떨어뜨리기 위해 최저점 의혹]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011193678</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011193678"/>
+        <updated>2023-07-10T03:01:17.854Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독]치료감호소 의사 집단 사표에 법무부 진상조사…무슨 일 있었길래]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003126872</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003126872"/>
+        <updated>2023-07-10T03:01:17.855Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치료감호소 의사 집단 퇴직…법무부, 진상조사]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0012964856</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0012964856"/>
+        <updated>2023-07-10T03:01:17.857Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공영방송 이사회는 해고된 방송작가 논의 왜 못하나]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002341785</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002341785"/>
+        <updated>2023-07-10T03:01:17.858Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학원 원장 폭언·체벌은 ‘아이스 브레이킹’?… 아동학대 사각지대 ‘사교…]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000780898</id>
@@ -144,75 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003006450"/>
         <updated>2023-07-10T01:19:40.921Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다산 칼럼] 법치로 미래 열어야]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004325721</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004325721"/>
-        <updated>2023-07-10T01:19:40.923Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성소수자 전용 헬스장도 휴업…주변 상인들 "불안해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0009861848</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0009861848"/>
-        <updated>2023-07-10T01:19:40.926Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수강 학생 183명 중 40명 F학점 …중앙대 경영학과 시끌]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0011505254</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0011505254"/>
-        <updated>2023-07-10T01:19:40.929Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태영소프트, 영업비밀 및 저작권 침해 유죄 판결]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0002879127</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0002879127"/>
-        <updated>2023-07-10T01:19:40.931Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 경찰, 與후보 지원유세 나선 임종석 전 비서실장 '경호']]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002394187</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002394187"/>
-        <updated>2023-07-10T01:19:40.933Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[급식직원들 싸움에 1600명 초등생 점심 굶어…학부모들 '분통']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0004331753</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0004331753"/>
-        <updated>2023-07-10T01:19:40.936Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘脫원전 - 한수원 적자 인과관계’ 조직적 은폐 시도 드러나]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002423503</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002423503"/>
-        <updated>2023-07-10T01:19:40.938Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔들리는 참여연대… "관변단체 전락" 두달새 660명 탈퇴]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003511947</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003511947"/>
-        <updated>2023-07-10T01:19:40.941Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 여행사 따라 떠났다가 ‘호텔 격리’…돌아올 길도 막혔다]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002490112</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002490112"/>
-        <updated>2023-07-10T01:19:40.951Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장기자] “희귀 약품 수급 원활하다”…의문스러운 답변 하는 식약처]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001308930</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001308930"/>
-        <updated>2023-07-10T01:19:40.951Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
