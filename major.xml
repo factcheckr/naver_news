@@ -2,64 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-07-12T08:20:07.595Z</updated>
+    <updated>2023-07-12T09:14:31.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보] 윤 대통령 “北 불법엔 대가 따라…한미 NCG 통해 확장억제 강화”]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005157313?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005157313?sid=100"/>
-        <updated>2023-07-12T08:19:37.750Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005157313?sid=100" class="nclicks(rig.secteco)" title="[속보] 윤 대통령 “北 불법엔 대가 따라…한미 NCG 통해 확장억제 강화”">[속보] 윤 대통령 “北 불법엔 대가 따라…한미 NCG 통해 확장억제 강화”</a>]]></content>
+        <title type="html"><![CDATA[김기현 "후쿠시마 오염수 주권적 판단…美와 논의 이유없어"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014060133?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014060133?sid=100"/>
+        <updated>2023-07-12T09:14:00.365Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014060133?sid=100" class="nclicks(rig.secteco)" title="김기현 &quot;후쿠시마 오염수 주권적 판단…美와 논의 이유없어&quot;">김기현 "후쿠시마 오염수 주권적 판단…美와 논의 이유없어"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[권영준 청문회서 '전현직 대법원장' 공방…조국·이재명도 소환(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014059406?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014059406?sid=100"/>
-        <updated>2023-07-12T08:19:37.753Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014059406?sid=100" class="nclicks(rig.secteco)" title="권영준 청문회서 '전현직 대법원장' 공방…조국·이재명도 소환(종합)">권영준 청문회서 '전현직 대법원장' 공방…조국·이재명도 소환(종합)</a>]]></content>
+        <title type="html"><![CDATA[한총리, 집중호우 인명피해에 "매우 유감"…관계기관 '질책']]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014060641?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014060641?sid=100"/>
+        <updated>2023-07-12T09:14:00.367Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014060641?sid=100" class="nclicks(rig.secteco)" title="한총리, 집중호우 인명피해에 &quot;매우 유감&quot;…관계기관 '질책'">한총리, 집중호우 인명피해에 "매우 유감"…관계기관 '질책'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 총리, 호우 인명 피해 발생에 관계 기관 강한 질책]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0011967983?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0011967983?sid=100"/>
-        <updated>2023-07-12T08:19:37.758Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0011967983?sid=100" class="nclicks(rig.secteco)" title="한 총리, 호우 인명 피해 발생에 관계 기관 강한 질책">한 총리, 호우 인명 피해 발생에 관계 기관 강한 질책</a>]]></content>
+        <title type="html"><![CDATA[日야당의원 만난 민주당 `오염수 여론전` 올인]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002812750?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002812750?sid=100"/>
+        <updated>2023-07-12T09:14:00.370Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002812750?sid=100" class="nclicks(rig.secteco)" title="日야당의원 만난 민주당 `오염수 여론전` 올인">日야당의원 만난 민주당 `오염수 여론전` 올인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국, 나토 공동성명에 “편견에 가득한 먹칠” 반발]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003235638?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003235638?sid=104"/>
-        <updated>2023-07-12T08:19:37.764Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003235638?sid=104" class="nclicks(rig.secteco)" title="중국, 나토 공동성명에 “편견에 가득한 먹칠” 반발">중국, 나토 공동성명에 “편견에 가득한 먹칠” 반발</a>]]></content>
+        <title type="html"><![CDATA[나토, 우크라에 시간표 없는 모호한 약속…바이든 구상 반영]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001622849?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001622849?sid=104"/>
+        <updated>2023-07-12T09:14:00.373Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001622849?sid=104" class="nclicks(rig.secteco)" title="나토, 우크라에 시간표 없는 모호한 약속…바이든 구상 반영">나토, 우크라에 시간표 없는 모호한 약속…바이든 구상 반영</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['가입자 1억 돌파' 스레드…대학로에 나가 발빠른 사용자들 만나봤더니[현장잇슈]]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000608225?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000608225?sid=102"/>
-        <updated>2023-07-12T08:19:37.770Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000608225?sid=102" class="nclicks(rig.secteco)" title=" '가입자 1억 돌파' 스레드…대학로에 나가 발빠른 사용자들 만나봤더니[현장잇슈]"> '가입자 1억 돌파' 스레드…대학로에 나가 발빠른 사용자들 만나봤더니[현장잇슈]</a>]]></content>
+        <title type="html"><![CDATA[캐나다 토론토 호수가 인류에게 보여준 ‘지구적 시간’]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005157251?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005157251?sid=104"/>
+        <updated>2023-07-12T09:14:00.376Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005157251?sid=104" class="nclicks(rig.secteco)" title="캐나다 토론토 호수가 인류에게 보여준 ‘지구적 시간’">캐나다 토론토 호수가 인류에게 보여준 ‘지구적 시간’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유통업계도 아스파탐 대응 분주‥이마트 "PB 상품 원료 대체"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001285354?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001285354?sid=101"/>
-        <updated>2023-07-12T08:19:37.774Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001285354?sid=101" class="nclicks(rig.secteco)" title="유통업계도 아스파탐 대응 분주‥이마트 &quot;PB 상품 원료 대체&quot;">유통업계도 아스파탐 대응 분주‥이마트 "PB 상품 원료 대체"</a>]]></content>
+        <title type="html"><![CDATA[하나금융·SKT "인공지능 스타트업 성장지원" 초협력]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004910888?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004910888?sid=101"/>
+        <updated>2023-07-12T09:14:00.379Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004910888?sid=101" class="nclicks(rig.secteco)" title="하나금융·SKT &quot;인공지능 스타트업 성장지원&quot; 초협력">하나금융·SKT "인공지능 스타트업 성장지원" 초협력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신한은행, 모바일 전용 `연금라운지` 오픈]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002813032?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002813032?sid=101"/>
-        <updated>2023-07-12T08:19:37.777Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002813032?sid=101" class="nclicks(rig.secteco)" title="신한은행, 모바일 전용 `연금라운지` 오픈">신한은행, 모바일 전용 `연금라운지` 오픈</a>]]></content>
+        <title type="html"><![CDATA[영끌족의 귀환?…주담대 한달새 7조 급증→가계대출 '역대 최대']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004911157?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004911157?sid=101"/>
+        <updated>2023-07-12T09:14:00.383Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004911157?sid=101" class="nclicks(rig.secteco)" title="영끌족의 귀환?…주담대 한달새 7조 급증→가계대출 '역대 최대'">영끌족의 귀환?…주담대 한달새 7조 급증→가계대출 '역대 최대'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주담대, 한 달새 7조원↑…은행 가계대출 잔액 1062조 '역대 최대']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004911120?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004911120?sid=101"/>
-        <updated>2023-07-12T08:19:37.780Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004911120?sid=101" class="nclicks(rig.secteco)" title="주담대, 한 달새 7조원↑…은행 가계대출 잔액 1062조 '역대 최대'">주담대, 한 달새 7조원↑…은행 가계대출 잔액 1062조 '역대 최대'</a>]]></content>
+        <title type="html"><![CDATA[LG전자, 2030년 매출 100조원…'50조 투자' 사업 대전환]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001112945?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001112945?sid=101"/>
+        <updated>2023-07-12T09:14:00.387Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001112945?sid=101" class="nclicks(rig.secteco)" title="LG전자, 2030년 매출 100조원…'50조 투자' 사업 대전환">LG전자, 2030년 매출 100조원…'50조 투자' 사업 대전환</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['개인정보 60만 건 유출' LG유플러스에 과징금 68억]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000417969?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000417969?sid=100"/>
+        <updated>2023-07-12T09:14:00.390Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/448/0000417969?sid=100" class="nclicks(rig.secteco)" title="'개인정보 60만 건 유출' LG유플러스에 과징금 68억">'개인정보 60만 건 유출' LG유플러스에 과징금 68억</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11번가, 투명폰 '낫싱 폰투' 사전예약 판매…단독 할인혜택]]></title>
@@ -69,45 +76,38 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006921979?sid=101" class="nclicks(rig.secteco)" title="11번가, 투명폰 '낫싱 폰투' 사전예약 판매…단독 할인혜택">11번가, 투명폰 '낫싱 폰투' 사전예약 판매…단독 할인혜택</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 언급된 '매드엔진 합병설', 변수는 '나이트크로우 글로벌' [게임라운지]]]></title>
-        <id>https://n.news.naver.com/mnews/article/293/0000045822?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/293/0000045822?sid=105"/>
-        <updated>2023-07-12T08:19:37.785Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/293/0000045822?sid=105" class="nclicks(rig.secteco)" title="다시 언급된 '매드엔진 합병설', 변수는 '나이트크로우 글로벌' [게임라운지]">다시 언급된 '매드엔진 합병설', 변수는 '나이트크로우 글로벌' [게임라운지]</a>]]></content>
+        <title type="html"><![CDATA[현대차 노조, 5년만에 부분파업…생산라인 4시간 멈춰]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0006923593?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0006923593?sid=102"/>
+        <updated>2023-07-12T09:14:00.404Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006923593?sid=102" class="nclicks(rig.secteco)" title="현대차 노조, 5년만에 부분파업…생산라인 4시간 멈춰">현대차 노조, 5년만에 부분파업…생산라인 4시간 멈춰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 지하철 기본요금, 10월부터 150원 오른다 [종합]]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004867187?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004867187?sid=103"/>
-        <updated>2023-07-12T08:19:37.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004867187?sid=103" class="nclicks(rig.secteco)" title="서울 지하철 기본요금, 10월부터 150원 오른다 [종합]">서울 지하철 기본요금, 10월부터 150원 오른다 [종합]</a>]]></content>
+        <title type="html"><![CDATA[민주당 소속 제주도의원 성매매 의혹 수사에 제주정가 요동]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005284909?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005284909?sid=102"/>
+        <updated>2023-07-12T09:14:00.407Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005284909?sid=102" class="nclicks(rig.secteco)" title="민주당 소속 제주도의원 성매매 의혹 수사에 제주정가 요동">민주당 소속 제주도의원 성매매 의혹 수사에 제주정가 요동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대차 노조 파업에 생산라인 4시간 멈춰]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000916198?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000916198?sid=103"/>
-        <updated>2023-07-12T08:19:37.790Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000916198?sid=103" class="nclicks(rig.secteco)" title="현대차 노조 파업에 생산라인 4시간 멈춰">현대차 노조 파업에 생산라인 4시간 멈춰</a>]]></content>
+        <title type="html"><![CDATA[홍준표, 대구퀴어축제조직위 손배 청구에 “경찰과 공범” 맞고발]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002647805?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002647805?sid=102"/>
+        <updated>2023-07-12T09:14:00.410Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002647805?sid=102" class="nclicks(rig.secteco)" title="홍준표, 대구퀴어축제조직위 손배 청구에 “경찰과 공범” 맞고발">홍준표, 대구퀴어축제조직위 손배 청구에 “경찰과 공범” 맞고발</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보건의료노조 총파업 앞두고 상급종합병원장 회의…“응급 진료체계 유지”]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011523442?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011523442?sid=102"/>
-        <updated>2023-07-12T08:19:37.793Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011523442?sid=102" class="nclicks(rig.secteco)" title="보건의료노조 총파업 앞두고 상급종합병원장 회의…“응급 진료체계 유지”">보건의료노조 총파업 앞두고 상급종합병원장 회의…“응급 진료체계 유지”</a>]]></content>
+        <title type="html"><![CDATA[반복되는 목 통증…원인은 따로 있었다?]]></title>
+        <id>https://n.news.naver.com/mnews/article/662/0000024069?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/662/0000024069?sid=103"/>
+        <updated>2023-07-12T09:14:00.413Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/662/0000024069?sid=103" class="nclicks(rig.secteco)" title="반복되는 목 통증…원인은 따로 있었다?">반복되는 목 통증…원인은 따로 있었다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전세계 동시개봉 日 드라마·예능, 한국서도 실시간으로 본다]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002168331?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002168331?sid=103"/>
-        <updated>2023-07-12T08:19:37.794Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002168331?sid=103" class="nclicks(rig.secteco)" title="전세계 동시개봉 日 드라마·예능, 한국서도 실시간으로 본다">전세계 동시개봉 日 드라마·예능, 한국서도 실시간으로 본다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“245마력 해치백”…폭스바겐 ‘2023년형 골프 GTI’ 인도 개시]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005157278?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005157278?sid=103"/>
-        <updated>2023-07-12T08:19:37.797Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005157278?sid=103" class="nclicks(rig.secteco)" title="“245마력 해치백”…폭스바겐 ‘2023년형 골프 GTI’ 인도 개시">“245마력 해치백”…폭스바겐 ‘2023년형 골프 GTI’ 인도 개시</a>]]></content>
+        <title type="html"><![CDATA[고성능 해치백의 귀환…폭스바겐, 2023년형 골프 GTI 고객 인도]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004213062?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004213062?sid=101"/>
+        <updated>2023-07-12T09:14:00.416Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004213062?sid=101" class="nclicks(rig.secteco)" title="고성능 해치백의 귀환…폭스바겐, 2023년형 골프 GTI 고객 인도">고성능 해치백의 귀환…폭스바겐, 2023년형 골프 GTI 고객 인도</a>]]></content>
     </entry>
 </feed>
