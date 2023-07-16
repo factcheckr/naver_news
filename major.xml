@@ -2,106 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-07-16T08:17:03.037Z</updated>
+    <updated>2023-07-16T09:14:25.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[대통령실 "우크라에 지뢰 탐지·제거기 지원 확대"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014070785?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014070785?sid=100"/>
-        <updated>2023-07-16T08:16:33.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014070785?sid=100" class="nclicks(rig.secteco)" title="대통령실 &quot;우크라에 지뢰 탐지·제거기 지원 확대&quot;">대통령실 "우크라에 지뢰 탐지·제거기 지원 확대"</a>]]></content>
+        <title type="html"><![CDATA[한 총리 "인력·자원 총동원…실종자 구조 작업에 최선"]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000351404?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000351404?sid=102"/>
+        <updated>2023-07-16T09:13:56.483Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000351404?sid=102" class="nclicks(rig.secteco)" title="한 총리 &quot;인력·자원 총동원…실종자 구조 작업에 최선&quot;">한 총리 "인력·자원 총동원…실종자 구조 작업에 최선"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이정미 정의당 대표, 21일 만에 '오염수 투기 반대' 단식투쟁 종료]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0000935465?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0000935465?sid=100"/>
-        <updated>2023-07-16T08:16:33.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/417/0000935465?sid=100" class="nclicks(rig.secteco)" title="이정미 정의당 대표, 21일 만에 '오염수 투기 반대' 단식투쟁 종료">이정미 정의당 대표, 21일 만에 '오염수 투기 반대' 단식투쟁 종료</a>]]></content>
+        <title type="html"><![CDATA[왕복 27시간 전쟁터행… 호우피해 점검 위해 일정까지 줄인 尹]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005287081?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005287081?sid=100"/>
+        <updated>2023-07-16T09:13:56.490Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005287081?sid=100" class="nclicks(rig.secteco)" title="왕복 27시간 전쟁터행… 호우피해 점검 위해 일정까지 줄인 尹">왕복 27시간 전쟁터행… 호우피해 점검 위해 일정까지 줄인 尹</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤재옥, 수해 현장 찾아 "특별재난지역 선포 등 필요한 조치 취할 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004912663?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004912663?sid=100"/>
-        <updated>2023-07-16T08:16:33.705Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004912663?sid=100" class="nclicks(rig.secteco)" title="윤재옥, 수해 현장 찾아 &quot;특별재난지역 선포 등 필요한 조치 취할 것&quot;">윤재옥, 수해 현장 찾아 "특별재난지역 선포 등 필요한 조치 취할 것"</a>]]></content>
+        <title type="html"><![CDATA[오송 지하차도 현장 방문한 이재명…"안타깝다, 신속 수습해주길"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005287058?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005287058?sid=100"/>
+        <updated>2023-07-16T09:13:56.490Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005287058?sid=100" class="nclicks(rig.secteco)" title="오송 지하차도 현장 방문한 이재명…&quot;안타깝다, 신속 수습해주길&quot;">오송 지하차도 현장 방문한 이재명…"안타깝다, 신속 수습해주길"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['워싱턴선언' 취지 담긴 국방수권법 美하원 통과…논란된 낙태 정책도 반영]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003294111?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003294111?sid=104"/>
-        <updated>2023-07-16T08:16:33.716Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003294111?sid=104" class="nclicks(rig.secteco)" title="'워싱턴선언' 취지 담긴 국방수권법 美하원 통과…논란된 낙태 정책도 반영">'워싱턴선언' 취지 담긴 국방수권법 美하원 통과…논란된 낙태 정책도 반영</a>]]></content>
+        <title type="html"><![CDATA[푸틴이 직접 지목한 '회색머리'…바그너 새 수장으로?]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001113697?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001113697?sid=104"/>
+        <updated>2023-07-16T09:13:56.492Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001113697?sid=104" class="nclicks(rig.secteco)" title="푸틴이 직접 지목한 '회색머리'…바그너 새 수장으로?">푸틴이 직접 지목한 '회색머리'…바그너 새 수장으로?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핀란드서 1000여 명 '집단 누드 촬영'…무슨 일?]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001756426?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001756426?sid=104"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001756426?sid=104" class="nclicks(rig.secteco)" title="핀란드서 1000여 명 '집단 누드 촬영'…무슨 일?">핀란드서 1000여 명 '집단 누드 촬영'…무슨 일?</a>]]></content>
+        <title type="html"><![CDATA[케리 美기후변화 특사, 中도착..내일부터 '기후변화 논의']]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005042514?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005042514?sid=104"/>
+        <updated>2023-07-16T09:13:56.492Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005042514?sid=104" class="nclicks(rig.secteco)" title="케리 美기후변화 특사, 中도착..내일부터 '기후변화 논의'">케리 美기후변화 특사, 中도착..내일부터 '기후변화 논의'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘무역의 날’ 포상 접수… 200만 달러 수출의 탑 신설]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001623795?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001623795?sid=101"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001623795?sid=101" class="nclicks(rig.secteco)" title="‘무역의 날’ 포상 접수… 200만 달러 수출의 탑 신설">‘무역의 날’ 포상 접수… 200만 달러 수출의 탑 신설</a>]]></content>
+        <title type="html"><![CDATA[4대 금융지주, 집중호우 피해에 '성금 기부·금리 우대' 등 지원 총력전]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005042490?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005042490?sid=101"/>
+        <updated>2023-07-16T09:13:56.499Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005042490?sid=101" class="nclicks(rig.secteco)" title="4대 금융지주, 집중호우 피해에 '성금 기부·금리 우대' 등 지원 총력전">4대 금융지주, 집중호우 피해에 '성금 기부·금리 우대' 등 지원 총력전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[편의점업계, 폭우 피해 지역에 긴급 구호물품 지원(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005531398?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005531398?sid=101"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005531398?sid=101" class="nclicks(rig.secteco)" title="편의점업계, 폭우 피해 지역에 긴급 구호물품 지원(종합)">편의점업계, 폭우 피해 지역에 긴급 구호물품 지원(종합)</a>]]></content>
+        <title type="html"><![CDATA[새마을금고 사태 이후 상호금융·저축은행 예금 2조 원 넘게 증가]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001910453?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001910453?sid=101"/>
+        <updated>2023-07-16T09:13:56.504Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001910453?sid=101" class="nclicks(rig.secteco)" title="새마을금고 사태 이후 상호금융·저축은행 예금 2조 원 넘게 증가">새마을금고 사태 이후 상호금융·저축은행 예금 2조 원 넘게 증가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["보험사기 점수 90점" 이젠 AI가 적발해요[금융 라운지]]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005159192?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005159192?sid=101"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005159192?sid=101" class="nclicks(rig.secteco)" title=" &quot;보험사기 점수 90점&quot; 이젠 AI가 적발해요[금융 라운지]"> "보험사기 점수 90점" 이젠 AI가 적발해요[금융 라운지]</a>]]></content>
+        <title type="html"><![CDATA[포스코 명장에 포항 이영진·광양 이선동씨 선정]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005286972?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005286972?sid=101"/>
+        <updated>2023-07-16T09:13:56.521Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005286972?sid=101" class="nclicks(rig.secteco)" title="포스코 명장에 포항 이영진·광양 이선동씨 선정">포스코 명장에 포항 이영진·광양 이선동씨 선정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["스마트폰에 올인"…'갤Z5' 시리즈 흥행 간절한 삼성, 분위기 띄우기 총력]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000759205?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000759205?sid=105"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000759205?sid=105" class="nclicks(rig.secteco)" title="&quot;스마트폰에 올인&quot;…'갤Z5' 시리즈 흥행 간절한 삼성, 분위기 띄우기 총력">"스마트폰에 올인"…'갤Z5' 시리즈 흥행 간절한 삼성, 분위기 띄우기 총력</a>]]></content>
+        <title type="html"><![CDATA[LG유플러스, 친환경 네임택·미니가방 제작]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004868503?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004868503?sid=105"/>
+        <updated>2023-07-16T09:13:56.523Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004868503?sid=105" class="nclicks(rig.secteco)" title="LG유플러스, 친환경 네임택·미니가방 제작">LG유플러스, 친환경 네임택·미니가방 제작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오모빌리티, 폴란드 사절단 동행…기술 교류·우크라 재건 협력]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006931268?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006931268?sid=105"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006931268?sid=105" class="nclicks(rig.secteco)" title="카카오모빌리티, 폴란드 사절단 동행…기술 교류·우크라 재건 협력">카카오모빌리티, 폴란드 사절단 동행…기술 교류·우크라 재건 협력</a>]]></content>
+        <title type="html"><![CDATA[카카오모빌리티, 폴란드 경제사절단 동행… “기술 교류·우크라 재건 협력”]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000917116?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000917116?sid=105"/>
+        <updated>2023-07-16T09:13:56.525Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000917116?sid=105" class="nclicks(rig.secteco)" title="카카오모빌리티, 폴란드 경제사절단 동행… “기술 교류·우크라 재건 협력”">카카오모빌리티, 폴란드 경제사절단 동행… “기술 교류·우크라 재건 협력”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임실 옥정호에서 50대 실종…경찰·소방 수색 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011526126?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011526126?sid=102"/>
-        <updated>2023-07-16T08:16:33.719Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011526126?sid=102" class="nclicks(rig.secteco)" title="임실 옥정호에서 50대 실종…경찰·소방 수색 중">임실 옥정호에서 50대 실종…경찰·소방 수색 중</a>]]></content>
+        <title type="html"><![CDATA[정부 ‘응급실 뺑뺑이’ 대책에…의사들, “의료진에 책임 전가 말라”]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002170384?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002170384?sid=102"/>
+        <updated>2023-07-16T09:13:56.528Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002170384?sid=102" class="nclicks(rig.secteco)" title="정부 ‘응급실 뺑뺑이’ 대책에…의사들, “의료진에 책임 전가 말라”">정부 ‘응급실 뺑뺑이’ 대책에…의사들, “의료진에 책임 전가 말라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사고 전 모래 제방 쌓더라"…오송 지하차도 침수, '인재 논란']]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006930876?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006930876?sid=102"/>
-        <updated>2023-07-16T08:16:33.720Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0006930876?sid=102" class="nclicks(rig.secteco)" title="&quot;사고 전 모래 제방 쌓더라&quot;…오송 지하차도 침수, '인재 논란'">"사고 전 모래 제방 쌓더라"…오송 지하차도 침수, '인재 논란'</a>]]></content>
+        <title type="html"><![CDATA[[속보] 소방당국 "오송 지하차도서 실종자 시신 5구 발견"]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004868450?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004868450?sid=102"/>
+        <updated>2023-07-16T09:13:56.531Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004868450?sid=102" class="nclicks(rig.secteco)" title="[속보] 소방당국 &quot;오송 지하차도서 실종자 시신 5구 발견&quot;">[속보] 소방당국 "오송 지하차도서 실종자 시신 5구 발견"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일반열차 이틀째 운행 중지...KTX, 서행·지연 잇따라]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001910432?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001910432?sid=102"/>
-        <updated>2023-07-16T08:16:33.720Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001910432?sid=102" class="nclicks(rig.secteco)" title="일반열차 이틀째 운행 중지...KTX, 서행·지연 잇따라">일반열차 이틀째 운행 중지...KTX, 서행·지연 잇따라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충청·남부 최고 200mm, 시간당 70mm 폭우 비상‥이 시각 기상센터[날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001286228?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001286228?sid=103"/>
-        <updated>2023-07-16T08:16:33.721Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001286228?sid=103" class="nclicks(rig.secteco)" title=" 충청·남부 최고 200mm, 시간당 70mm 폭우 비상‥이 시각 기상센터[날씨]"> 충청·남부 최고 200mm, 시간당 70mm 폭우 비상‥이 시각 기상센터[날씨]</a>]]></content>
+        <title type="html"><![CDATA[박완수 경남지사 호우 대비 긴급회의…"피해 우려지역 재점검"]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014070526?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014070526?sid=102"/>
+        <updated>2023-07-16T09:13:56.534Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014070526?sid=102" class="nclicks(rig.secteco)" title="박완수 경남지사 호우 대비 긴급회의…&quot;피해 우려지역 재점검&quot;">박완수 경남지사 호우 대비 긴급회의…"피해 우려지역 재점검"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현대차, 친환경차 매출 비중 17%로 높인다..“임원도 사활건다”]]></title>
@@ -109,5 +102,12 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005531123?sid=103"/>
         <updated>2023-07-16T08:16:33.722Z</updated>
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005531123?sid=103" class="nclicks(rig.secteco)" title="현대차, 친환경차 매출 비중 17%로 높인다..“임원도 사활건다”">현대차, 친환경차 매출 비중 17%로 높인다..“임원도 사활건다”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안도 타다오 '빛의공간' 개관…"자연과 일체되는 곳"]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000609159?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000609159?sid=103"/>
+        <updated>2023-07-16T09:13:56.537Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000609159?sid=103" class="nclicks(rig.secteco)" title="안도 타다오 '빛의공간' 개관…&quot;자연과 일체되는 곳&quot;">안도 타다오 '빛의공간' 개관…"자연과 일체되는 곳"</a>]]></content>
     </entry>
 </feed>
