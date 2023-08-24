@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-08-24T06:16:44.448Z</updated>
+    <updated>2023-08-24T07:12:07.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 22일 자 B4면 '제약·우유·화장품 이어 백화점도 뛰어든 건강기능식품' 기사에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003783490?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003783490?sid=001"/>
+        <updated>2023-08-24T07:11:45.165Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 15일 자 A5면 '美 우주군, 北 ICBM 추적·요격 맡는다'기사 제목에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003781996?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003781996?sid=001"/>
+        <updated>2023-08-24T07:11:45.166Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005163682?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005163682?sid=001"/>
+        <updated>2023-08-24T07:11:45.166Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 20일 자 A23면 '오늘의 운세'에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003777021?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003777021?sid=001"/>
+        <updated>2023-08-24T07:11:45.166Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005159889?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005159889?sid=001"/>
+        <updated>2023-08-24T07:11:45.166Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화감독 김기덕 미투 사건 관련 정정보도문]]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000916872?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000916872?sid=001"/>
+        <updated>2023-08-24T07:11:45.167Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화감독 김기덕 미투 사건 관련 정정보도문]]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011515657?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011515657?sid=001"/>
+        <updated>2023-08-24T07:11:45.167Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영화 감독 김기덕 미투 사건 관련 정정보도문]]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003786306?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003786306?sid=001"/>
+        <updated>2023-08-24T07:11:45.167Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 27일 자 A8면 '막말 없이 아름다운 언어로 정치… JP의 삶 돌아보면 마음이 찔려' 기사에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003772793?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003772793?sid=001"/>
+        <updated>2023-08-24T07:11:45.174Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005275415?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005275415?sid=001"/>
+        <updated>2023-08-24T07:11:45.180Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] "심정지 민노총 집회자 생명 구한 女기동대원들" 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003503874?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003503874?sid=001"/>
+        <updated>2023-08-24T07:11:45.183Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로잡습니다.]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005509957?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005509957?sid=001"/>
+        <updated>2023-08-24T07:11:45.186Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 '롯데케미칼 대산공장 노조, 민노총 탈퇴' 기사 제목에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003769808?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003769808?sid=001"/>
+        <updated>2023-08-24T07:11:45.187Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 10일 자 A2면 '방송 장악이 뭔지 KBS 경영진이 잘 알 것' 강규형 전 KBS 이사 인터뷰 기사 중]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003769523?sid=001</id>
@@ -123,96 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004876872?sid=001"/>
         <updated>2023-06-14T05:13:07.916Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로 잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001735176?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001735176?sid=001"/>
-        <updated>2023-06-14T05:13:07.917Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] '아스타'는 상폐 관리 종목이 아니기에 사과드립니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003755476?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003755476?sid=001"/>
-        <updated>2023-06-14T05:13:07.919Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000037143?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000037143?sid=001"/>
-        <updated>2023-04-03T04:16:20.805Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020. 1. 8. 자 "1년전 휴대전화 바꾼 이후 낯선 사람이 나의 비밀을…" 제목 기사 관련 정정 및 반론보도문]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003755268?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003755268?sid=001"/>
-        <updated>2023-04-03T04:16:20.808Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선일보 1면톱 '판사 인권위 진정', 1·2면 걸쳐 '바로잡습니다']]></title>
-        <id>https://n.news.naver.com/mnews/article/127/0000033886?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/127/0000033886?sid=001"/>
-        <updated>2023-06-14T05:13:07.922Z</updated>
-        <content type="html"><![CDATA[기자협회보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 28일자 A4면 '재외공관장 166명 초청해 만찬' 사진 설명에서 외]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003754535?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003754535?sid=001"/>
-        <updated>2023-06-14T05:13:07.925Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배석판사의 인권위 진정' 기사 바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003754774?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003754774?sid=001"/>
-        <updated>2023-06-14T05:13:07.926Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이충상 국가인권위원' 기사 관련 반론보도문]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003349252?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003349252?sid=001"/>
-        <updated>2023-04-03T04:16:20.811Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 3월 11일자 21면 『그 많은 개념어는 누가 만들었을까』(야마모토 다카미쓰 지 음, 메멘토) 서평 기사]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000044559?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000044559?sid=001"/>
-        <updated>2023-06-14T05:13:07.932Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※ 바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/087/0000956404?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/087/0000956404?sid=001"/>
-        <updated>2023-03-10T12:28:24.766Z</updated>
-        <content type="html"><![CDATA[강원일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 23일 자 A31면 "민변 변호사 '라임' 위증 사주 의혹, 文 정권 개입 없었나" 사설에 대해]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003748326?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003748326?sid=001"/>
-        <updated>2023-03-10T12:28:24.767Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지지통신 "도쿄전력, 방류예정 오염수 측정항목 29개로 줄이기로"]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000332212?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000332212?sid=001"/>
-        <updated>2023-03-10T12:28:24.768Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]국민권익위, '과기부 고위공무원 부정청탁 맞다' 보복성 감사에 제동 보도 관련 정정보도문]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003203637?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003203637?sid=001"/>
-        <updated>2023-03-10T12:28:24.768Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
