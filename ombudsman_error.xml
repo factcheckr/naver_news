@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-09-05T07:12:34.394Z</updated>
+    <updated>2023-09-05T08:16:54.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 25일 자 A4면 '北 정찰위성 발사 실패, 2단 분리는 성공…10월 또 쏜다' 기사에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003783908?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003783908?sid=001"/>
+        <updated>2023-09-05T08:16:32.336Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 22일 자 B4면 '제약·우유·화장품 이어 백화점도 뛰어든 건강기능식품' 기사에서]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003783490?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/215/0001097741?sid=001"/>
         <updated>2023-06-14T05:13:07.915Z</updated>
         <content type="html"><![CDATA[한국경제TV]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쯔양 먹방 1편이 1억?' 기사에 관한 정정보도문]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004876872?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004876872?sid=001"/>
-        <updated>2023-06-14T05:13:07.916Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
