@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-06T02:18:23.068Z</updated>
+    <updated>2023-09-06T03:13:47.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA['갑질 의혹' 파출소장 전임지에서도 감찰내사]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002387618</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002387618"/>
-        <updated>2023-06-10T06:16:07.235Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] '간부들의 무덤' 광주 동부경찰서에서 또 '갑질 의혹']]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002387136</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002387136"/>
-        <updated>2023-06-10T06:16:07.240Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[법정 가득 메운 안정권 지지자들…보석심리만 진행(종합)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0006402451</id>
@@ -214,5 +200,19 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003004567"/>
         <updated>2023-07-10T01:19:32.713Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與 국회의원의 비서관, 가정폭력 혐의 등으로 경찰에 입건]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000488835</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000488835"/>
+        <updated>2023-09-06T03:13:31.892Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與비서관, 가정폭력 논란에 "다 거짓"…실제로 모든 의혹 '무혐의']]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004396747</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004396747"/>
+        <updated>2023-09-06T03:13:31.896Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>

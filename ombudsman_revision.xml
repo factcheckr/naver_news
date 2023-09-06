@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-06T02:18:23.066Z</updated>
+    <updated>2023-09-06T03:13:47.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -95,6 +95,20 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003473117"/>
         <updated>2023-07-10T06:19:50.121Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] '간부들의 무덤' 광주 동부경찰서에서 또 '갑질 의혹']]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002387136</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002387136"/>
+        <updated>2023-09-06T03:13:39.480Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['갑질 의혹' 파출소장 전임지에서도 감찰내사]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002387618</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002387618"/>
+        <updated>2023-09-06T03:13:39.482Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김문기 전 국회의원 별세]]></title>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003171675"/>
         <updated>2023-07-10T01:19:40.887Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부-서울시 '동상이몽'에 서울역 쪽방촌 울상]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005131011</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005131011"/>
-        <updated>2023-07-10T01:19:40.890Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 앞두고···간호협회, 지지 후보 실명 조사 논란]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003128830</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003128830"/>
-        <updated>2023-07-10T01:19:40.892Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
