@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-06T04:15:45.333Z</updated>
+    <updated>2023-09-06T05:12:06.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -41,39 +41,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매운 김치 '먹방' 울 때까지 '몰카'?…선 넘는 '아동 유튜브']]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001081995</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001081995"/>
-        <updated>2023-06-10T06:16:07.254Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도 포함] 민주당 의원 비서관, ‘가정 폭력·부부 강간’ 의혹으로…]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000511842</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000511842"/>
-        <updated>2023-06-10T06:16:07.254Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[팩트의 무게] 술값 3,300만원. 누구의 말이 맞았나]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001056600</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001056600"/>
         <updated>2023-06-10T06:16:07.255Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김어준 비판한 출연자 다시 불러 사과시킨 KBS]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003537477</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003537477"/>
-        <updated>2023-06-10T06:16:07.257Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 소득격차 악화하는데 '소주성' 안 고치고 통계 조작]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003533093</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003533093"/>
-        <updated>2023-06-10T06:16:07.259Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유행처럼 번지는 부실펀드 피해금 선지급…이번엔 우리銀?]]></title>
@@ -137,13 +109,6 @@
         <link href="https://n.news.naver.com/mnews/article/018/0004627036"/>
         <updated>2023-06-10T06:16:07.268Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 의원 비서관, 가정폭력 의혹 수사]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003457902</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003457902"/>
-        <updated>2023-06-10T06:16:07.269Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘아내 폭행 혐의’ 민주당 의원 비서관 사직 처리]]></title>
@@ -214,5 +179,40 @@
         <link href="https://n.news.naver.com/mnews/article/448/0000295968"/>
         <updated>2023-09-06T04:15:28.778Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여당 의원실 비서관 가정폭력 의혹 경찰 수사…“사직처리”]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003083624</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003083624"/>
+        <updated>2023-09-06T05:11:52.173Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이연아 기자의 사건브리핑 - 검찰, 다음 주 초 윤석열 총장 장모 소환]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001417608</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001417608"/>
+        <updated>2023-09-06T05:11:52.175Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넉 달 만에 전화한 검찰…"사건 종결합니다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001024251</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001024251"/>
+        <updated>2023-09-06T05:11:52.176Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "경찰로 넘기겠다" 제안도…동업자는 오늘 조사]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001024170</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001024170"/>
+        <updated>2023-09-06T05:11:52.178Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 넉 달 만에 전화한 검찰…"사건 종결합니다"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001024168</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001024168"/>
+        <updated>2023-09-06T05:11:52.179Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
