@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-06T03:13:47.401Z</updated>
+    <updated>2023-09-06T04:15:45.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -32,41 +32,6 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003123688"/>
         <updated>2023-06-10T06:16:07.244Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 아들 불법 도박에… ‘나꼼수’ 김용민 “이게 시빗거리?”]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005107921</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005107921"/>
-        <updated>2023-06-10T06:16:07.245Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></title>
-        <id>https://n.news.naver.com/mnews/article/607/0000000919</id>
-        <link href="https://n.news.naver.com/mnews/article/607/0000000919"/>
-        <updated>2023-06-10T06:16:07.247Z</updated>
-        <content type="html"><![CDATA[뉴스타파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["회원 불법 감시"…상류층 모임 '서울클럽'에 무슨 일이]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004527907</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004527907"/>
-        <updated>2023-06-10T06:16:07.248Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 빙상 감독 ‘미투 논란'에  “최종 선발아냐 재심의할 것”]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003587015</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003587015"/>
-        <updated>2023-06-10T06:16:07.250Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]서울시, 박원순 성추행 겪고도… ‘미투 논란’ 인사를 감독 선발]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003586936</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003586936"/>
-        <updated>2023-06-10T06:16:07.252Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[단독]현직 의원 비서관 가정폭력·부부강간 의혹 경찰 수사 중]]></title>
@@ -214,5 +179,40 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004396747"/>
         <updated>2023-09-06T03:13:31.896Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현역 국회의원 비서관 가정폭력 논란… 경찰 수사 착수]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003457861</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003457861"/>
+        <updated>2023-09-06T04:15:28.763Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현직 의원 비서관, 아내폭행·강간 혐의로 경찰 수사중]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003351137</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003351137"/>
+        <updated>2023-09-06T04:15:28.765Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주당 의원 비서관, '가정폭력 의혹'으로 사직 처리]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0011558339</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0011558339"/>
+        <updated>2023-09-06T04:15:28.767Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰, 현직 의원 비서관 가정폭력·부부강간 의혹 수사]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0004622950</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0004622950"/>
+        <updated>2023-09-06T04:15:28.769Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경찰, 현직 의원 비서관 가정폭력 등 의혹 수사]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000295968</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000295968"/>
+        <updated>2023-09-06T04:15:28.778Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
