@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-08T05:12:31.044Z</updated>
+    <updated>2023-09-08T06:18:39.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://n.news.naver.com/mnews/article/108/0003179041"/>
         <updated>2023-09-06T06:16:20.098Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노사연·노사봉 측 "부친 논란 사실 아냐" 반론 제기]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000358151</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000358151"/>
-        <updated>2023-09-06T06:16:20.101Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '민족영웅 찾는다더니 '정권퇴진 운동'...없는 기념…]]></title>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003781177"/>
         <updated>2023-09-06T06:16:20.134Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[현장검증] "소개할 땐 내편, 일 터지면 남의 편"‥오리발…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001291342</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001291342"/>
+        <updated>2023-09-08T06:18:30.943Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
