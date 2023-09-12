@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-12T05:13:51.329Z</updated>
+    <updated>2023-09-12T06:16:58.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]  관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003786710</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003786710"/>
+        <updated>2023-09-12T06:16:50.475Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '"노사연 부친은 민간인 학살 주도 인물"...과거사 폭로글 …]]></title>
         <id>https://n.news.naver.com/mnews/article/416/0000298847</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003781177"/>
         <updated>2023-09-06T06:16:20.134Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[현장검증] "소개할 땐 내편, 일 터지면 남의 편"‥오리발…]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001291342</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001291342"/>
-        <updated>2023-09-08T06:18:30.943Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
