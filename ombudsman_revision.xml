@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-12T09:13:21.693Z</updated>
+    <updated>2023-09-12T10:14:09.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '손희권 경북도의원, 실적 부풀리기용 '공동 발의' 남발 의…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000238247</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000238247"/>
+        <updated>2023-09-12T10:14:01.589Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]  관련]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003786710</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004880883"/>
         <updated>2023-09-06T06:16:20.132Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]  “사장 퇴진 찬반 묻자” “가짜·불법 투표 멈추라” …]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003781177</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003781177"/>
-        <updated>2023-09-06T06:16:20.134Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
