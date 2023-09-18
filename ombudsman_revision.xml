@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-18T11:11:26.458Z</updated>
+    <updated>2023-09-18T12:24:55.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]「법제처, 최민희 내정자에 “방통위원 부적격” 판단」 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003520754</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003520754"/>
+        <updated>2023-09-18T12:24:45.964Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '손희권 경북도의원, 실적 부풀리기용 '공동 발의' 남발 의…]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000238247</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012037809"/>
         <updated>2023-09-06T06:16:20.131Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '"소방서는 혐오시설, 싸이렌 꺼라"…시위 예고한 입주민들'…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004880883</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004880883"/>
-        <updated>2023-09-06T06:16:20.132Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
