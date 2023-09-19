@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-19T04:15:58.049Z</updated>
+    <updated>2023-09-19T05:12:28.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] ＜조국, 딸 조민 기소에 검찰 맹비판＞ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001937257</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001937257"/>
+        <updated>2023-09-19T05:12:21.394Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「법제처, 최민희 내정자에 “방통위원 부적격” 판단」 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003520754</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002652970"/>
         <updated>2023-09-06T06:16:20.129Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 등 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012037809</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012037809"/>
-        <updated>2023-09-06T06:16:20.131Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
