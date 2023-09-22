@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-09-22T00:55:10.428Z</updated>
+    <updated>2023-09-22T01:48:42.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[속보]이재명 체포동의안 가결, 찬성 149·반대 136·기권 6·무효 4]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002201457?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002201457?sid=100"/>
-        <updated>2023-09-22T00:54:37.052Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002201457?sid=100" class="nclicks(rig.secteco)" title="[속보]이재명 체포동의안 가결, 찬성 149·반대 136·기권 6·무효 4">[속보]이재명 체포동의안 가결, 찬성 149·반대 136·기권 6·무효 4</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 “北 어떤짓 하든 명칭 앞자리 현 정부에서는 있을 수 없어”]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004241154?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004241154?sid=100"/>
-        <updated>2023-09-22T00:54:37.056Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004241154?sid=100" class="nclicks(rig.secteco)" title="대통령실 “北 어떤짓 하든 명칭 앞자리 현 정부에서는 있을 수 없어”">대통령실 “北 어떤짓 하든 명칭 앞자리 현 정부에서는 있을 수 없어”</a>]]></content>
+        <title type="html"><![CDATA['보복 기소' 검사 첫 탄핵‥피해자 "사필귀정"]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001301554?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001301554?sid=102"/>
+        <updated>2023-09-22T01:48:09.653Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001301554?sid=102" class="nclicks(rig.secteco)" title="'보복 기소' 검사 첫 탄핵‥피해자 &quot;사필귀정&quot;">'보복 기소' 검사 첫 탄핵‥피해자 "사필귀정"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국회 이재명 체포동의안 가결…찬성 149명, 반대 136명]]></title>
@@ -27,87 +20,94 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000620604?sid=100" class="nclicks(rig.secteco)" title="국회 이재명 체포동의안 가결…찬성 149명, 반대 136명">국회 이재명 체포동의안 가결…찬성 149명, 반대 136명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대 최고로 뜨거웠던 8월, 20세기 평균보다 더웠다]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001126353?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001126353?sid=104"/>
-        <updated>2023-09-22T00:54:37.062Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001126353?sid=104" class="nclicks(rig.secteco)" title="역대 최고로 뜨거웠던 8월, 20세기 평균보다 더웠다">역대 최고로 뜨거웠던 8월, 20세기 평균보다 더웠다</a>]]></content>
+        <title type="html"><![CDATA['등 돌린 동지들'에 사선에 선 이재명]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000064872?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000064872?sid=100"/>
+        <updated>2023-09-22T01:48:09.660Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/586/0000064872?sid=100" class="nclicks(rig.secteco)" title="'등 돌린 동지들'에 사선에 선 이재명">'등 돌린 동지들'에 사선에 선 이재명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英 중앙은행, 기준금리 동결…연 5.25%]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001126326?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001126326?sid=101"/>
-        <updated>2023-09-22T00:54:37.066Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001126326?sid=101" class="nclicks(rig.secteco)" title="英 중앙은행, 기준금리 동결…연 5.25%">英 중앙은행, 기준금리 동결…연 5.25%</a>]]></content>
+        <title type="html"><![CDATA[곡물 갈등에…폴란드 “우크라에 무기 지원 중단” 발끈]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003250872?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003250872?sid=104"/>
+        <updated>2023-09-22T01:48:09.663Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003250872?sid=104" class="nclicks(rig.secteco)" title="곡물 갈등에…폴란드 “우크라에 무기 지원 중단” 발끈">곡물 갈등에…폴란드 “우크라에 무기 지원 중단” 발끈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[14년 공회전 `실손청구 간소화` 법사위 통과…간편 청구 가능?]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002826709?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002826709?sid=101"/>
-        <updated>2023-09-22T00:54:37.069Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002826709?sid=101" class="nclicks(rig.secteco)" title="14년 공회전 `실손청구 간소화` 법사위 통과…간편 청구 가능?">14년 공회전 `실손청구 간소화` 법사위 통과…간편 청구 가능?</a>]]></content>
+        <title type="html"><![CDATA[[2보] 영국 기준금리 연 5.25%로 동결…14회 연속 인상 이어]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014209909?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014209909?sid=104"/>
+        <updated>2023-09-22T01:48:09.674Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014209909?sid=104" class="nclicks(rig.secteco)" title="[2보] 영국 기준금리 연 5.25%로 동결…14회 연속 인상 이어">[2보] 영국 기준금리 연 5.25%로 동결…14회 연속 인상 이어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국토부, 26일 화생방 테러 대응 유관기관 합동훈련]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014210442?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014210442?sid=101"/>
-        <updated>2023-09-22T00:54:37.072Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014210442?sid=101" class="nclicks(rig.secteco)" title="국토부, 26일 화생방 테러 대응 유관기관 합동훈련">국토부, 26일 화생방 테러 대응 유관기관 합동훈련</a>]]></content>
+        <title type="html"><![CDATA["금융소비자 보호" 카카오·은행연합회 업무협약]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004241589?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004241589?sid=105"/>
+        <updated>2023-09-22T01:48:09.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004241589?sid=105" class="nclicks(rig.secteco)" title="&quot;금융소비자 보호&quot; 카카오·은행연합회 업무협약">"금융소비자 보호" 카카오·은행연합회 업무협약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수출입銀, 추석 맞아 총 1억7000만원 기부]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005318053?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005318053?sid=101"/>
-        <updated>2023-09-22T00:54:37.085Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005318053?sid=101" class="nclicks(rig.secteco)" title="수출입銀, 추석 맞아 총 1억7000만원 기부">수출입銀, 추석 맞아 총 1억7000만원 기부</a>]]></content>
+        <title type="html"><![CDATA[마곡나루역 인근 '마곡16단지' 공공주택 608가구 공급]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005318195?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005318195?sid=101"/>
+        <updated>2023-09-22T01:48:09.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005318195?sid=101" class="nclicks(rig.secteco)" title="마곡나루역 인근 '마곡16단지' 공공주택 608가구 공급">마곡나루역 인근 '마곡16단지' 공공주택 608가구 공급</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, 국내 우주발사체 기업의 세계시장 진출 선제적 지원]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002407228?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002407228?sid=101"/>
-        <updated>2023-09-22T00:54:37.094Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/047/0002407228?sid=101" class="nclicks(rig.secteco)" title="정부, 국내 우주발사체 기업의 세계시장 진출 선제적 지원">정부, 국내 우주발사체 기업의 세계시장 진출 선제적 지원</a>]]></content>
+        <title type="html"><![CDATA[제14회 디스플레이날 행사…방문규 장관 "2027년 세계 1위 탈환"]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005317951?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005317951?sid=101"/>
+        <updated>2023-09-22T01:48:09.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005317951?sid=101" class="nclicks(rig.secteco)" title="제14회 디스플레이날 행사…방문규 장관 &quot;2027년 세계 1위 탈환&quot;">제14회 디스플레이날 행사…방문규 장관 "2027년 세계 1위 탈환"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오라클DB 23c 정식 출시…‘AI 벡터 검색’ 도입]]></title>
-        <id>https://n.news.naver.com/mnews/article/092/0002306002?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/092/0002306002?sid=105"/>
-        <updated>2023-09-22T00:54:37.097Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/092/0002306002?sid=105" class="nclicks(rig.secteco)" title="오라클DB 23c 정식 출시…‘AI 벡터 검색’ 도입">오라클DB 23c 정식 출시…‘AI 벡터 검색’ 도입</a>]]></content>
+        <title type="html"><![CDATA[오라클, 클라우드·DB에 생성 AI 적용 출시…검색 강화[오라클 클라우드월드 2023]]]></title>
+        <id>https://n.news.naver.com/mnews/article/030/0003138279?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/030/0003138279?sid=105"/>
+        <updated>2023-09-22T01:48:09.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/030/0003138279?sid=105" class="nclicks(rig.secteco)" title=" 오라클, 클라우드·DB에 생성 AI 적용 출시…검색 강화[오라클 클라우드월드 2023]"> 오라클, 클라우드·DB에 생성 AI 적용 출시…검색 강화[오라클 클라우드월드 2023]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰 “의정부 교사 사망 관련 돈 강요 등 수사 집중”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001639890?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001639890?sid=102"/>
-        <updated>2023-09-22T00:54:37.100Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001639890?sid=102" class="nclicks(rig.secteco)" title="경찰 “의정부 교사 사망 관련 돈 강요 등 수사 집중”">경찰 “의정부 교사 사망 관련 돈 강요 등 수사 집중”</a>]]></content>
+        <title type="html"><![CDATA["새벽 1시에 왔어요" 中, 아이폰 사랑은 변함없었다[르포]]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005318187?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005318187?sid=101"/>
+        <updated>2023-09-22T01:48:09.678Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005318187?sid=101" class="nclicks(rig.secteco)" title="&quot;새벽 1시에 왔어요&quot; 中, 아이폰 사랑은 변함없었다[르포]">"새벽 1시에 왔어요" 中, 아이폰 사랑은 변함없었다[르포]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민변 "경찰 집회·시위 개선안, 기본권 심각하게 침해"]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001939039?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001939039?sid=102"/>
-        <updated>2023-09-22T00:54:37.103Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001939039?sid=102" class="nclicks(rig.secteco)" title="민변 &quot;경찰 집회·시위 개선안, 기본권 심각하게 침해&quot;">민변 "경찰 집회·시위 개선안, 기본권 심각하게 침해"</a>]]></content>
+        <title type="html"><![CDATA[이재명 체포안 가결되자 '격앙'한 지지자들, 촛불집회]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000774870?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000774870?sid=100"/>
+        <updated>2023-09-22T01:48:09.680Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000774870?sid=100" class="nclicks(rig.secteco)" title="이재명 체포안 가결되자 '격앙'한 지지자들, 촛불집회">이재명 체포안 가결되자 '격앙'한 지지자들, 촛불집회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혼수상태 남친과 혼인신고…재산 노린 50대女 집행유예]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001639939?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001639939?sid=102"/>
-        <updated>2023-09-22T00:54:37.106Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001639939?sid=102" class="nclicks(rig.secteco)" title="혼수상태 남친과 혼인신고…재산 노린 50대女 집행유예">혼수상태 남친과 혼인신고…재산 노린 50대女 집행유예</a>]]></content>
+        <title type="html"><![CDATA[모르는 남성과 외도로 임신…모텔서 출산한 아기 살해 유기한 40대女]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005190441?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005190441?sid=102"/>
+        <updated>2023-09-22T01:48:09.682Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005190441?sid=102" class="nclicks(rig.secteco)" title="모르는 남성과 외도로 임신…모텔서 출산한 아기 살해 유기한 40대女">모르는 남성과 외도로 임신…모텔서 출산한 아기 살해 유기한 40대女</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중부 아침 15도 안팎 '쌀쌀'…큰 일교차 유의[날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001091772?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001091772?sid=103"/>
-        <updated>2023-09-22T00:54:37.109Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001091772?sid=103" class="nclicks(rig.secteco)" title=" 중부 아침 15도 안팎 '쌀쌀'…큰 일교차 유의[날씨]"> 중부 아침 15도 안팎 '쌀쌀'…큰 일교차 유의[날씨]</a>]]></content>
+        <title type="html"><![CDATA[대법 "강제추행죄, 유형력 행사로 충분"…판례 변경]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000620676?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000620676?sid=102"/>
+        <updated>2023-09-22T01:48:09.685Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000620676?sid=102" class="nclicks(rig.secteco)" title="대법 &quot;강제추행죄, 유형력 행사로 충분&quot;…판례 변경">대법 "강제추행죄, 유형력 행사로 충분"…판례 변경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아산제약, 퇴행성 뇌질환 진단기업 파미르테라퓨틱스에 20억 투자]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005317926?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005317926?sid=101"/>
-        <updated>2023-09-22T00:54:37.113Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005317926?sid=101" class="nclicks(rig.secteco)" title="아산제약, 퇴행성 뇌질환 진단기업 파미르테라퓨틱스에 20억 투자">아산제약, 퇴행성 뇌질환 진단기업 파미르테라퓨틱스에 20억 투자</a>]]></content>
+        <title type="html"><![CDATA[왔구나, 가을…조금 쌀쌀해진 출근길[날씨]]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003250895?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003250895?sid=103"/>
+        <updated>2023-09-22T01:48:09.687Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003250895?sid=103" class="nclicks(rig.secteco)" title="왔구나, 가을…조금 쌀쌀해진 출근길[날씨]">왔구나, 가을…조금 쌀쌀해진 출근길[날씨]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말 완연한 가을 날씨…추석 연휴 맑고 선선]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005580284?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005580284?sid=103"/>
+        <updated>2023-09-22T01:48:09.691Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005580284?sid=103" class="nclicks(rig.secteco)" title="주말 완연한 가을 날씨…추석 연휴 맑고 선선">주말 완연한 가을 날씨…추석 연휴 맑고 선선</a>]]></content>
     </entry>
 </feed>
