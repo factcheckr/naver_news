@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-09-24T18:14:56.475Z</updated>
+    <updated>2023-09-24T19:10:02.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 9월 11일자 8면 '폐허 된 중세고도 마라케시…'미션 임파서블' '미이라' 찍은 곳' 기사]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003307105?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003307105?sid=001"/>
+        <updated>2023-09-24T19:09:38.205Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 9일 자 B3면 '망한 줄 알았는데 살아 있었네…' 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003787251?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003787251?sid=001"/>
+        <updated>2023-09-24T19:09:38.213Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <49재날 분향소 기습 철거 규탄"…오송 참사 유족들 시청서 농성> 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000426800?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000426800?sid=001"/>
+        <updated>2023-09-24T19:09:38.217Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 25일 자 A4면 '北 정찰위성 발사 실패, 2단 분리는 성공…10월 또 쏜다' 기사에서]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003783908?sid=001</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003807676?sid=001"/>
         <updated>2023-06-14T05:13:07.910Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로 잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005122349?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005122349?sid=001"/>
-        <updated>2023-06-14T05:13:07.912Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로 잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004836741?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004836741?sid=001"/>
-        <updated>2023-06-14T05:13:07.913Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로 잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/215/0001097741?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/215/0001097741?sid=001"/>
-        <updated>2023-06-14T05:13:07.915Z</updated>
-        <content type="html"><![CDATA[한국경제TV]]></content>
     </entry>
 </feed>

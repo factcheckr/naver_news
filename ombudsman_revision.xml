@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-24T18:14:56.468Z</updated>
+    <updated>2023-09-24T19:10:02.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '내부고발' 위해 환자정보 빼낸 의사들…대법 "정당 행위" …]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002752106</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002752106"/>
+        <updated>2023-09-24T19:09:53.007Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] ＜조국, 딸 조민 기소에 검찰 맹비판＞ 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001937257</id>
         <link href="https://n.news.naver.com/mnews/article/052/0001937257"/>
         <updated>2023-09-19T05:12:21.394Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '[뉴스야?!] 선생님은 공익제보자?' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000427991</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000427991"/>
+        <updated>2023-09-24T19:09:53.010Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「법제처, 최민희 내정자에 “방통위원 부적격” 판단」 관…]]></title>
@@ -32,6 +46,13 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003786710"/>
         <updated>2023-09-12T06:16:50.475Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000834794</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000834794"/>
+        <updated>2023-09-24T19:09:53.014Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '"노사연 부친은 민간인 학살 주도 인물"...과거사 폭로글 …]]></title>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003805728"/>
         <updated>2023-09-06T06:16:20.124Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] '버스비 환급 철회…결국 탈난 지자체 票퓰리즘' 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004230417</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004230417"/>
-        <updated>2023-09-06T06:16:20.126Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알려왔습니다…‘“깡패네, 유족 맞아요?” 김장겸의 MBC…다시 보는 추락…]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002652971</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002652971"/>
-        <updated>2023-09-06T06:16:20.127Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알려왔습니다…‘국힘, 괴담방지특위 위원장에 ‘편향보도’ 논란 김장겸 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002652970</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002652970"/>
-        <updated>2023-09-06T06:16:20.129Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
