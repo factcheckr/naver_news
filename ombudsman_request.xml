@@ -2,107 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-25T07:12:53.533Z</updated>
+    <updated>2023-09-25T08:17:20.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[법정 가득 메운 안정권 지지자들…보석심리만 진행(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006402451</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006402451"/>
-        <updated>2023-06-10T06:16:07.241Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법정 가득 메운 안정권 지지자들…보석심리만 진행]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006402181</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006402181"/>
-        <updated>2023-06-10T06:16:07.242Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법정 가득 메운 안정권 지지자들…보석심리만 진행]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006402112</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006402112"/>
-        <updated>2023-06-10T06:16:07.243Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["당신 죽으면 내 밥줄도 끊긴다" 상관 성폭력 신고한 여군에게 돌아온 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003123688</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003123688"/>
-        <updated>2023-06-10T06:16:07.244Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독]현직 의원 비서관 가정폭력·부부강간 의혹 경찰 수사 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0002994031</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0002994031"/>
-        <updated>2023-06-10T06:16:07.253Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트의 무게] 술값 3,300만원. 누구의 말이 맞았나]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001056600</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001056600"/>
-        <updated>2023-06-10T06:16:07.255Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유행처럼 번지는 부실펀드 피해금 선지급…이번엔 우리銀?]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004407742</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004407742"/>
-        <updated>2023-06-10T06:16:07.260Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쏟아진 비에 관광객 실내로'…제주 코로나19 방역 변수]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0009844181</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0009844181"/>
-        <updated>2023-06-10T06:16:07.260Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주, 연휴 첫날 4만명 왔다…방역지침 준수 숙제(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0009842149</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0009842149"/>
-        <updated>2023-06-10T06:16:07.261Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정말 우연일까"…'성추행'오거돈⋅'탈세'양정숙, 총선 끝나니 공…]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000517039</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000517039"/>
-        <updated>2023-06-10T06:16:07.262Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 김병기, 비서 강간의혹 미리 알고도 "선거 뒤에 보자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003526301</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003526301"/>
-        <updated>2023-06-10T06:16:07.263Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김병기 의원, 선거 끝나고 보자 했다"…성폭행 의혹 전 비서관 아내 주…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0002995751</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0002995751"/>
-        <updated>2023-06-10T06:16:07.264Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 김병기 "비서관 가정폭력 논란, 수사 결과 기다릴 것"]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003526274</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003526274"/>
-        <updated>2023-06-10T06:16:07.265Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장모도 모르는 사생활"···김병기, 가정폭력 의혹 비서관 면직]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0002995632</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0002995632"/>
-        <updated>2023-06-10T06:16:07.267Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[김병기, 전 비서관 가정폭력 의혹에 "명명백백하게 진위 밝혀지길"]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0004627036</id>
@@ -111,108 +13,206 @@
         <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘아내 폭행 혐의’ 민주당 의원 비서관 사직 처리]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003083691</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003083691"/>
-        <updated>2023-06-10T06:16:07.270Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내남편은 與의원 비서관...목 조르고 강간·낙태 강요"]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003524749</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003524749"/>
-        <updated>2023-06-10T06:16:07.271Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현직 국회의원 비서관의 배우자 “남편 가정폭력에 인생 망가져”]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003004567</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003004567"/>
-        <updated>2023-07-10T01:19:32.713Z</updated>
+        <title type="html"><![CDATA[미래통합당의 앞날을 보여주는 당 로고?]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0002993265</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0002993265"/>
+        <updated>2023-09-25T08:17:06.044Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[與 국회의원의 비서관, 가정폭력 혐의 등으로 경찰에 입건]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000488835</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000488835"/>
-        <updated>2023-09-06T03:13:31.892Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與비서관, 가정폭력 논란에 "다 거짓"…실제로 모든 의혹 '무혐의']]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004396747</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004396747"/>
-        <updated>2023-09-06T03:13:31.896Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현역 국회의원 비서관 가정폭력 논란… 경찰 수사 착수]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003457861</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003457861"/>
-        <updated>2023-09-06T04:15:28.763Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현직 의원 비서관, 아내폭행·강간 혐의로 경찰 수사중]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003351137</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003351137"/>
-        <updated>2023-09-06T04:15:28.765Z</updated>
+        <title type="html"><![CDATA[中에 마스크 300만장 지원? 비난여론 확산 배경은]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003318534</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003318534"/>
+        <updated>2023-09-25T08:17:06.046Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주당 의원 비서관, '가정폭력 의혹'으로 사직 처리]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0011558339</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0011558339"/>
-        <updated>2023-09-06T04:15:28.767Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[男제자 퀴어축제 간다고 '동성애자니?'추궁한 교수…"인격권 침해"]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0004377977</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0004377977"/>
+        <updated>2023-09-25T08:17:06.047Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, 현직 의원 비서관 가정폭력·부부강간 의혹 수사]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0004622950</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0004622950"/>
-        <updated>2023-09-06T04:15:28.769Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA['보복폭행·극단 시도' 피해학생 멍드는데…학폭 징계는?]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000222945</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000222945"/>
+        <updated>2023-09-25T08:17:06.061Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경찰, 현직 의원 비서관 가정폭력 등 의혹 수사]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000295968</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000295968"/>
-        <updated>2023-09-06T04:15:28.778Z</updated>
+        <title type="html"><![CDATA["소년원 가게 생겼다" 보복 폭행…유리병까지 들었다]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000768361</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000768361"/>
+        <updated>2023-09-25T08:17:06.062Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집단폭행 신고한 피해 중학생…보복 폭행에 협박 당했다]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000285103</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000285103"/>
+        <updated>2023-09-25T08:17:06.063Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여당 의원실 비서관 가정폭력 의혹 경찰 수사…“사직처리”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003083624</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003083624"/>
-        <updated>2023-09-06T05:11:52.173Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
+        <title type="html"><![CDATA[“한체대 전 조교, 10대女선수 성추행… ‘은폐 의혹’ 전명규 수사해야”]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003422944</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003422944"/>
+        <updated>2023-09-25T08:17:06.064Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이연아 기자의 사건브리핑 - 검찰, 다음 주 초 윤석열 총장 장모 소환]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001417608</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001417608"/>
-        <updated>2023-09-06T05:11:52.175Z</updated>
+        <title type="html"><![CDATA[빙상연대 “확인 피해사례, 심석희 선수 포함 6건”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0002918197</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0002918197"/>
+        <updated>2023-09-25T08:17:06.065Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빙상계 성폭력 5건 추가 공개…“가해 코치는 전명규 사단”]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0010663142</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0010663142"/>
+        <updated>2023-09-25T08:17:06.067Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[훈련 중 강제 추행‧사적 만남 요구, 빙상 성범죄 사례만 6건]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0003795461</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0003795461"/>
+        <updated>2023-09-25T08:17:06.068Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "코치 상습 성추행에 선수 생활 포기…폭행도 목격"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000704163</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000704163"/>
+        <updated>2023-09-25T08:17:06.072Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“욕하고, 뽀뽀하고”…前 스피스케이팅 선수, 코치로부터 성추행 폭로]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003193489</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003193489"/>
+        <updated>2023-09-25T08:17:06.075Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상]목포 잔혹사건에 출동한 경찰의 자세가…]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003138773</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003138773"/>
+        <updated>2023-09-25T08:17:06.076Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생약 의약품서 '납' 검출… 부모님 약통 점검해보세요]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0003970945</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0003970945"/>
+        <updated>2023-09-25T08:17:06.078Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“무슬림 학생들 서울대 교수 협박” 확인 안된 글 올린 한국당 간부]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002415302</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002415302"/>
+        <updated>2023-09-25T08:17:06.081Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사람들 남겨놓고 떠날 수 없어서 남았다" 18년 전 그랬던 그가 광주로 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002189487</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002189487"/>
+        <updated>2023-09-25T08:17:06.082Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] MB 경찰, '朴 당선' 다음날 사이버대응 문건 하달]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003081907</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003081907"/>
+        <updated>2023-09-25T08:17:06.083Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 시인, 고속버스 안에서 여고생 성추행 혐의 입건]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003131174</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003131174"/>
+        <updated>2023-09-25T08:17:06.085Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 시인, 고속버스서 여고생 성추행 혐의···"잠 깨우기 위해 허벅…]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0003233174</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0003233174"/>
+        <updated>2023-09-25T08:17:06.086Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 시인, 버스 안에서 여고생 성추행 혐의로 검찰 송치(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0009928378</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0009928378"/>
+        <updated>2023-09-25T08:17:06.087Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 시인, 버스 안 여고생 성추행 혐의로 검찰 송치]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001120851</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001120851"/>
+        <updated>2023-09-25T08:17:06.090Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넉 달 만에 전화한 검찰…"사건 종결합니다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001024251</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001024251"/>
-        <updated>2023-09-06T05:11:52.176Z</updated>
+        <title type="html"><![CDATA[유명 시인, 버스 안에서 여고생 성추행한 혐의로 검찰 송치]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0009928184</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0009928184"/>
+        <updated>2023-09-25T08:17:06.091Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명시인 '여고생 성추행' 의혹 '기소의견' 검찰 송치]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003074082</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003074082"/>
+        <updated>2023-09-25T08:17:06.092Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[분노] 어느 목사의 성추행…침묵이 피해 키웠다]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0000811199</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0000811199"/>
+        <updated>2023-09-25T08:17:06.093Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] "경찰로 넘기겠다" 제안도…동업자는 오늘 조사]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001024170</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001024170"/>
-        <updated>2023-09-06T05:11:52.178Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[이슈플러스] 민간자격증 '홍수'…돈 내면 5시간 만에 '뚝딱']]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000173676</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000173676"/>
+        <updated>2023-09-25T08:17:06.094Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] 넉 달 만에 전화한 검찰…"사건 종결합니다"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001024168</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001024168"/>
-        <updated>2023-09-11T00:54:56.366Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA["헷갈리게 안내" 공주교대 입학서류 미제출 책임 공방]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0009825074</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0009825074"/>
+        <updated>2023-09-25T08:17:06.095Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "감독 아들 위해 강제 기권" 테니스 승부조작 수사]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0000599936</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0000599936"/>
+        <updated>2023-09-25T08:17:06.097Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 부여이장 땅(맹지) 앞에 郡예산으로 소하천 복개 王특혜, 가격 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003238151</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003238151"/>
+        <updated>2023-09-25T08:17:06.097Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그랑서울 ‘식객촌’ 퇴출 통보 왜? 맛집 명성 ‘시들’ 월세도 밀려 소송전…]]></title>
+        <id>https://n.news.naver.com/mnews/article/024/0000058171</id>
+        <link href="https://n.news.naver.com/mnews/article/024/0000058171"/>
+        <updated>2023-09-25T08:17:06.098Z</updated>
+        <content type="html"><![CDATA[매경이코노미]]></content>
     </entry>
 </feed>
