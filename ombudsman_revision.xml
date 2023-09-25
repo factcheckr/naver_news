@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-25T09:14:19.746Z</updated>
+    <updated>2023-09-25T10:14:21.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -41,14 +41,14 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]  관련]]></title>
+        <title type="html"><![CDATA[[반론보도] <열린공감·더탐사 멤버들, 300만원짜리 ‘제냐 정장’ 받았다…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003786710</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003786710"/>
         <updated>2023-09-12T06:16:50.475Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정보도] 관련]]></title>
+        <title type="html"><![CDATA[[정정보도] <선관위 자녀 자소서에 '이재명 표창'…>관련]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000834794</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000834794"/>
         <updated>2023-09-24T19:09:53.014Z</updated>
@@ -195,7 +195,7 @@
         <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]  관련]]></title>
+        <title type="html"><![CDATA[[반론보도] <4800억원 규모 기술반환을 '라이선스 종료'로...대웅제약의…]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005561107</id>
         <link href="https://n.news.naver.com/mnews/article/018/0005561107"/>
         <updated>2023-09-06T06:16:20.121Z</updated>

@@ -2,84 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-25T09:14:19.743Z</updated>
+    <updated>2023-09-25T10:14:20.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[뿔난 노조 “정용식 원장 ‘전횡’ 밝혀달라…진정서 제출”]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0003888903</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0003888903"/>
-        <updated>2023-09-25T09:14:03.146Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
+        <title type="html"><![CDATA[[정정보도] '내부고발' 위해 환자정보 빼낸 의사들…대법 "정당 행위" …]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002752106</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002752106"/>
+        <updated>2023-09-25T10:14:06.055Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월급쟁이 46% '월 200만원'도 못번다]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0002356496</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0002356496"/>
-        <updated>2023-09-25T09:14:03.147Z</updated>
+        <title type="html"><![CDATA[[정정보도] ＜조국, 딸 조민 기소에 검찰 맹비판＞ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001937257</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001937257"/>
+        <updated>2023-09-25T10:14:06.060Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '[뉴스야?!] 선생님은 공익제보자?' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000427991</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000427991"/>
+        <updated>2023-09-25T10:14:06.061Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]「법제처, 최민희 내정자에 “방통위원 부적격” 판단」 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003520754</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003520754"/>
+        <updated>2023-09-25T10:14:06.062Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '손희권 경북도의원, 실적 부풀리기용 '공동 발의' 남발 의…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000238247</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000238247"/>
+        <updated>2023-09-25T10:14:06.063Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <열린공감·더탐사 멤버들, 300만원짜리 ‘제냐 정장’ 받았다…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003786710</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003786710"/>
+        <updated>2023-09-25T10:14:06.064Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] <선관위 자녀 자소서에 '이재명 표창'…>관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000834794</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000834794"/>
+        <updated>2023-09-25T10:14:06.065Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '"노사연 부친은 민간인 학살 주도 인물"...과거사 폭로글 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/416/0000298847</id>
+        <link href="https://n.news.naver.com/mnews/article/416/0000298847"/>
+        <updated>2023-09-25T10:14:06.066Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '"노사연 부친, 마산 민간인 학살 주도"...폭로글 일파만파'…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000236746</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000236746"/>
+        <updated>2023-09-25T10:14:06.067Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]"노사연 부친, 마산 민간인 학살 주도"...SNS 폭로글 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000626802</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000626802"/>
+        <updated>2023-09-25T10:14:06.069Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] “노사연 부친 마산 민간인 학살 주도 인물”…SNS 폭로글 일…]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005181705</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005181705"/>
+        <updated>2023-09-25T10:14:06.070Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "노사연 부친은 마산 민간인 학살 주도자"…SNS 폭로글 확…]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001766250</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001766250"/>
+        <updated>2023-09-25T10:14:06.071Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘노사연 부친, “마산 민간인 학살 주도” 폭로글 확산’ 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/468/0000976809</id>
+        <link href="https://n.news.naver.com/mnews/article/468/0000976809"/>
+        <updated>2023-09-25T10:14:06.072Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]'"노사연 父, 마산 민간인 학살 주도" 폭로글 논란…소속사 '…]]></title>
+        <id>https://n.news.naver.com/mnews/article/477/0000448804</id>
+        <link href="https://n.news.naver.com/mnews/article/477/0000448804"/>
+        <updated>2023-09-25T10:14:06.073Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "노사연 부친, 마산 민간인 학살 주도"..'충격' 폭로글  관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/108/0003179041</id>
+        <link href="https://n.news.naver.com/mnews/article/108/0003179041"/>
+        <updated>2023-09-25T10:14:06.074Z</updated>
+        <content type="html"><![CDATA[스타뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] '민족영웅 찾는다더니 '정권퇴진 운동'...없는 기념…]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005066729</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005066729"/>
+        <updated>2023-09-25T10:14:06.075Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 노사연 자매 '부친' 과거사까지 소환된 까닭?…"마산보도연…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002299001</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002299001"/>
+        <updated>2023-09-25T10:14:06.076Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '"노사연 부친 노양환, 한국전쟁 당시 마산 민간인 학살 주…]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007023561</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007023561"/>
+        <updated>2023-09-25T10:14:06.077Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[줄줄새는 개인정보]]></title>
-        <id>https://n.news.naver.com/mnews/article/034/0002492207</id>
-        <link href="https://n.news.naver.com/mnews/article/034/0002492207"/>
-        <updated>2023-09-25T09:14:03.149Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[[반론보도문] ‘‘尹 부친상’ 조문 갔다가… “노사연 자매 父, 마산 민간…]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003850859</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003850859"/>
+        <updated>2023-09-25T10:14:06.078Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[호재 만발 'e편한세상 평택' 분양]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0003047223</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0003047223"/>
-        <updated>2023-09-25T09:14:03.152Z</updated>
+        <title type="html"><![CDATA[[반론보도]'노사연·노사봉 아버지로 번진 尹 부친상 조문 논란' 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005307400</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005307400"/>
+        <updated>2023-09-25T10:14:06.082Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘“노사연 父, 마산 민간인 학살 주도” 尹부친 조문에 SNS …]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002190524</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002190524"/>
+        <updated>2023-09-25T10:14:06.083Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]'"노사연·노사봉 父, 마산서 '민간인 학살' 주도"…폭로 일…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004931652</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004931652"/>
+        <updated>2023-09-25T10:14:06.085Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[취재파일] 직원 폭행해도, 회장직은 지킨다?]]></title>
-        <id>https://n.news.naver.com/mnews/article/096/0000239755</id>
-        <link href="https://n.news.naver.com/mnews/article/096/0000239755"/>
-        <updated>2023-09-25T09:14:03.155Z</updated>
-        <content type="html"><![CDATA[SBS(text)]]></content>
+        <title type="html"><![CDATA[[반론보도문] '"노사연 부친, 마산 민간인 학살 주도자" SNS 폭로글 확…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000833059</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000833059"/>
+        <updated>2023-09-25T10:14:06.096Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국 대학생들 고위층 막말에 둔감]]></title>
-        <id>https://n.news.naver.com/mnews/article/038/0002359538</id>
-        <link href="https://n.news.naver.com/mnews/article/038/0002359538"/>
-        <updated>2023-09-25T09:14:03.158Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[[반론보도] '노사연·노사봉 자매 아버지 과거 논란으로 번진 尹부친상 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004231725</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004231725"/>
+        <updated>2023-09-25T10:14:06.100Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[적자투성 DMZ 관광시설 애물단지]]></title>
-        <id>https://n.news.naver.com/mnews/article/034/0002471465</id>
-        <link href="https://n.news.naver.com/mnews/article/034/0002471465"/>
-        <updated>2023-09-25T09:14:03.164Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[[반론보도] '"노사연·노사봉 부친, 마산 민간인 학살 주도한 인물" 폭…]]></title>
+        <id>https://n.news.naver.com/mnews/article/311/0001632934</id>
+        <link href="https://n.news.naver.com/mnews/article/311/0001632934"/>
+        <updated>2023-09-25T10:14:06.101Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['은경표 전 PD 불법대출' 연예계 뒤흔드나]]></title>
-        <id>https://n.news.naver.com/mnews/article/038/0002325116</id>
-        <link href="https://n.news.naver.com/mnews/article/038/0002325116"/>
-        <updated>2023-09-25T09:14:03.166Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[[반론보도] ‘"노사연·노사봉 父, 마산 민간인 학살 주도" 폭로 일파만…]]></title>
+        <id>https://n.news.naver.com/mnews/article/117/0003765337</id>
+        <link href="https://n.news.naver.com/mnews/article/117/0003765337"/>
+        <updated>2023-09-25T10:14:06.102Z</updated>
+        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강호동에 엄청난 시련 닥치나… 나꼼수 주장 파문]]></title>
-        <id>https://n.news.naver.com/mnews/article/100/0000019181</id>
-        <link href="https://n.news.naver.com/mnews/article/100/0000019181"/>
-        <updated>2023-09-25T09:14:03.171Z</updated>
-        <content type="html"><![CDATA[스포츠한국]]></content>
+        <title type="html"><![CDATA[[반론보도] 「 “노사연 부친, 마산 민간인 학살 주도” 가족사 일파만파 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/609/0000764859</id>
+        <link href="https://n.news.naver.com/mnews/article/609/0000764859"/>
+        <updated>2023-09-25T10:14:06.103Z</updated>
+        <content type="html"><![CDATA[뉴스엔]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뺑소니 사고 피의자에게 돈 뜯은 경찰]]></title>
-        <id>https://n.news.naver.com/mnews/article/038/0002154978</id>
-        <link href="https://n.news.naver.com/mnews/article/038/0002154978"/>
-        <updated>2023-09-25T09:14:03.174Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[[반론보도] <4800억원 규모 기술반환을 '라이선스 종료'로...대웅제약의…]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005561107</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005561107"/>
+        <updated>2023-09-25T10:14:06.104Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위안부 할머니 나눔의집, 일본 연구원 해고 왜?]]></title>
-        <id>https://n.news.naver.com/mnews/article/038/0002121385</id>
-        <link href="https://n.news.naver.com/mnews/article/038/0002121385"/>
-        <updated>2023-09-25T09:14:03.177Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[“수문 열자는 민원, 결국 안 들어…농사 망쳐 생계 어쩌나” 등 관련[반…]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003245089</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003245089"/>
+        <updated>2023-09-25T10:14:06.105Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「검찰, 신천지 간부 출신 윤미현 과천시의원 1심 선고에 '…]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003805728</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003805728"/>
+        <updated>2023-09-25T10:14:06.107Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
