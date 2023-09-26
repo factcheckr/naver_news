@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-26T08:17:06.959Z</updated>
+    <updated>2023-09-26T09:13:51.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '자기소개서냐 아빠소개서냐…선관위 특채 의혹 점입가경' …]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002753410</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002753410"/>
+        <updated>2023-09-26T09:13:34.477Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다]“아빠가 선관위 계셔”…채용 특혜 자녀, 자소서에 ‘부모’…]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003522806</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003522806"/>
+        <updated>2023-09-26T09:13:34.480Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] “AI가 배차·운임 척척 … 중개료 뺀 ‘화물 플랫폼’ 뜬다” …]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005192104</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005192104"/>
+        <updated>2023-09-26T09:13:34.480Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜'[단독] 폭행 증언 쏟아진 A코치, 국가대표 지도자 또 지원?＞ 기사 …]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001940544</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/117/0003765337"/>
         <updated>2023-09-25T10:14:06.102Z</updated>
         <content type="html"><![CDATA[마이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「 “노사연 부친, 마산 민간인 학살 주도” 가족사 일파만파 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/609/0000764859</id>
-        <link href="https://n.news.naver.com/mnews/article/609/0000764859"/>
-        <updated>2023-09-25T10:14:06.103Z</updated>
-        <content type="html"><![CDATA[뉴스엔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <4800억원 규모 기술반환을 '라이선스 종료'로...대웅제약의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005561107</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005561107"/>
-        <updated>2023-09-25T10:14:06.104Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“수문 열자는 민원, 결국 안 들어…농사 망쳐 생계 어쩌나” 등 관련[반…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003245089</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003245089"/>
-        <updated>2023-09-25T10:14:06.105Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
