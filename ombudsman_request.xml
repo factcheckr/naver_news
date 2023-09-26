@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-09-26T04:15:35.949Z</updated>
+    <updated>2023-09-26T05:12:20.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜'[단독] 폭행 증언 쏟아진 A코치, 국가대표 지도자 또 지원?＞ 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001940544</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001940544"/>
+        <updated>2023-09-26T05:12:05.552Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '내부고발' 위해 환자정보 빼낸 의사들…대법 "정당 행위" …]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002752106</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003245089"/>
         <updated>2023-09-25T10:14:06.105Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「검찰, 신천지 간부 출신 윤미현 과천시의원 1심 선고에 '…]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003805728</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003805728"/>
-        <updated>2023-09-25T10:14:06.107Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
