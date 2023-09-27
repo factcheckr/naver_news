@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-09-27T07:12:22.357Z</updated>
+    <updated>2023-09-27T08:18:42.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014225401</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014225401"/>
+        <updated>2023-09-27T08:18:32.096Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]지도교수 ‘대리수술’ 고발하며 진료기록 제출 의사들 무죄 확…]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005320431</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005320431"/>
+        <updated>2023-09-27T08:18:32.101Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<이동관이 방송을 '정상화' 했었는데, 왜 '이명박근혜'는 감…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002302251</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002302251"/>
+        <updated>2023-09-27T08:18:32.115Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '자기소개서냐 아빠소개서냐…선관위 특채 의혹 점입가경' …]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002753410</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000833059"/>
         <updated>2023-09-06T06:16:20.111Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '노사연·노사봉 자매 아버지 과거 논란으로 번진 尹부친상 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004231725</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004231725"/>
-        <updated>2023-09-06T06:16:20.113Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '"노사연·노사봉 부친, 마산 민간인 학살 주도한 인물" 폭…]]></title>
-        <id>https://n.news.naver.com/mnews/article/311/0001632934</id>
-        <link href="https://n.news.naver.com/mnews/article/311/0001632934"/>
-        <updated>2023-09-06T06:16:20.115Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘"노사연·노사봉 父, 마산 민간인 학살 주도" 폭로 일파만…]]></title>
-        <id>https://n.news.naver.com/mnews/article/117/0003765337</id>
-        <link href="https://n.news.naver.com/mnews/article/117/0003765337"/>
-        <updated>2023-09-06T06:16:20.117Z</updated>
-        <content type="html"><![CDATA[마이데일리]]></content>
     </entry>
 </feed>
