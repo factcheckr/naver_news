@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-10-05T05:13:47.333Z</updated>
+    <updated>2023-10-05T06:17:52.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 …]]></title>
+        <title type="html"><![CDATA[[정정및반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 "무…]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014225401</id>
         <link href="https://n.news.naver.com/mnews/article/001/0014225401"/>
         <updated>2023-09-27T08:18:32.096Z</updated>
