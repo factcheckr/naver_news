@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-10-05T00:55:41.738Z</updated>
+    <updated>2023-10-05T01:53:12.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[「이재명 표창 강조, 면접서 만점…與의원 '선관위 특혜채용' 공개」 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003311178</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003311178"/>
+        <updated>2023-10-05T01:52:54.784Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 …]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014225401</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004931652"/>
         <updated>2023-09-25T10:14:06.085Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문] '"노사연 부친, 마산 민간인 학살 주도자" SNS 폭로글 확…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000833059</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000833059"/>
-        <updated>2023-09-25T10:14:06.096Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>

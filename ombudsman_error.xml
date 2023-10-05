@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-05T00:55:41.731Z</updated>
+    <updated>2023-10-05T01:53:12.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론 보도] '"후문을 이용하세요"…금전 요구하는 병원과 약국의 담합' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001771279?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001771279?sid=001"/>
+        <updated>2023-10-05T01:52:46.585Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 9월 11일자 8면 '폐허 된 중세고도 마라케시…'미션 임파서블' '미이라' 찍은 곳' 기사]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003307105?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004185289?sid=001"/>
         <updated>2023-06-14T05:13:07.909Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] '카페 회원 세탁하다 걸리면∼'…섬뜩한 현수막 내건 코인 세탁소 사장…왜? 기사 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003807676?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003807676?sid=001"/>
-        <updated>2023-06-14T05:13:07.910Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
