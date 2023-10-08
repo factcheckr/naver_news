@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-10-08T17:11:12.492Z</updated>
+    <updated>2023-10-08T18:15:32.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[‘이스라엘-하마스’ 전쟁…외교부 “교민 570여명 체류. 현재까지 피해 없어”]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003862531?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003862531?sid=100"/>
-        <updated>2023-10-08T17:10:41.438Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003862531?sid=100" class="nclicks(rig.secteco)" title="‘이스라엘-하마스’ 전쟁…외교부 “교민 570여명 체류. 현재까지 피해 없어”">‘이스라엘-하마스’ 전쟁…외교부 “교민 570여명 체류. 현재까지 피해 없어”</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[강서구청장 보궐선거 막판 표심 잡기...총선 D-6개월]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001944680?sid=100</id>
@@ -20,94 +13,101 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001944680?sid=100" class="nclicks(rig.secteco)" title="강서구청장 보궐선거 막판 표심 잡기...총선 D-6개월">강서구청장 보궐선거 막판 표심 잡기...총선 D-6개월</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부, 이스라엘에 특별여행주의보]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005196402?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005196402?sid=100"/>
-        <updated>2023-10-08T17:10:41.441Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005196402?sid=100" class="nclicks(rig.secteco)" title="정부, 이스라엘에 특별여행주의보">정부, 이스라엘에 특별여행주의보</a>]]></content>
+        <title type="html"><![CDATA[민주당 "'의혹 백화점' 김행 후보자 지명 당장 철회해야"]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001095619?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001095619?sid=100"/>
+        <updated>2023-10-08T18:15:02.518Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001095619?sid=100" class="nclicks(rig.secteco)" title="민주당 &quot;'의혹 백화점' 김행 후보자 지명 당장 철회해야&quot;">민주당 "'의혹 백화점' 김행 후보자 지명 당장 철회해야"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두만강역에 궤도차 급증…北, 러 무기지원 시작했나]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003524253?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003524253?sid=104"/>
-        <updated>2023-10-08T17:10:41.443Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003524253?sid=104" class="nclicks(rig.secteco)" title="두만강역에 궤도차 급증…北, 러 무기지원 시작했나">두만강역에 궤도차 급증…北, 러 무기지원 시작했나</a>]]></content>
+        <title type="html"><![CDATA[북한의 우리 국민 억류 10년…통일부, 송환 촉구 성명]]></title>
+        <id>https://n.news.naver.com/mnews/article/422/0000622928?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/422/0000622928?sid=100"/>
+        <updated>2023-10-08T18:15:02.520Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000622928?sid=100" class="nclicks(rig.secteco)" title="북한의 우리 국민 억류 10년…통일부, 송환 촉구 성명">북한의 우리 국민 억류 10년…통일부, 송환 촉구 성명</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공습 눈치 못챈 CIA·모사드…세계 최강 첩보기관의 '굴욕']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004899757?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004899757?sid=104"/>
-        <updated>2023-10-08T17:10:41.444Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004899757?sid=104" class="nclicks(rig.secteco)" title="공습 눈치 못챈 CIA·모사드…세계 최강 첩보기관의 '굴욕'">공습 눈치 못챈 CIA·모사드…세계 최강 첩보기관의 '굴욕'</a>]]></content>
+        <title type="html"><![CDATA[‘아프간 강진’ 사망자 폭증…“2천명 이상” 공식발표]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001642824?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001642824?sid=104"/>
+        <updated>2023-10-08T18:15:02.524Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001642824?sid=104" class="nclicks(rig.secteco)" title="‘아프간 강진’ 사망자 폭증…“2천명 이상” 공식발표">‘아프간 강진’ 사망자 폭증…“2천명 이상” 공식발표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이스라엘·하마스 무력충돌에…현지 진출 한국 기업 ‘초긴장’]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011578092?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011578092?sid=101"/>
-        <updated>2023-10-08T17:10:41.445Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011578092?sid=101" class="nclicks(rig.secteco)" title="이스라엘·하마스 무력충돌에…현지 진출 한국 기업 ‘초긴장’">이스라엘·하마스 무력충돌에…현지 진출 한국 기업 ‘초긴장’</a>]]></content>
+        <title type="html"><![CDATA[이스라엘행 항공편 80편 이상 결항…美·獨 등 항공사 잇단 운항 취소]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012134207?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012134207?sid=104"/>
+        <updated>2023-10-08T18:15:02.525Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0012134207?sid=104" class="nclicks(rig.secteco)" title="이스라엘행 항공편 80편 이상 결항…美·獨 등 항공사 잇단 운항 취소">이스라엘행 항공편 80편 이상 결항…美·獨 등 항공사 잇단 운항 취소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갑자기 불어닥친 찬바람…편의점 호빵 매출 488% 뛰었다]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003312793?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003312793?sid=101"/>
-        <updated>2023-10-08T17:10:41.446Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003312793?sid=101" class="nclicks(rig.secteco)" title="갑자기 불어닥친 찬바람…편의점 호빵 매출 488% 뛰었다">갑자기 불어닥친 찬바람…편의점 호빵 매출 488% 뛰었다</a>]]></content>
+        <title type="html"><![CDATA['빚' 쓰나미 몰려오는데 대출금리 '더' 뛴다 [머니뭐니]]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002207055?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002207055?sid=101"/>
+        <updated>2023-10-08T18:15:02.527Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002207055?sid=101" class="nclicks(rig.secteco)" title="'빚' 쓰나미 몰려오는데 대출금리 '더' 뛴다 [머니뭐니]">'빚' 쓰나미 몰려오는데 대출금리 '더' 뛴다 [머니뭐니]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중기부, 더루트컴퍼니 등 34개팀 '강한 소상공인'으로 선발]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005323402?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005323402?sid=101"/>
-        <updated>2023-10-08T17:10:41.448Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005323402?sid=101" class="nclicks(rig.secteco)" title="중기부, 더루트컴퍼니 등 34개팀 '강한 소상공인'으로 선발">중기부, 더루트컴퍼니 등 34개팀 '강한 소상공인'으로 선발</a>]]></content>
+        <title type="html"><![CDATA[더루트컴퍼니 등 강한소상공인 34개팀 선발…사업화 자금 지원]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014248032?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014248032?sid=101"/>
+        <updated>2023-10-08T18:15:02.529Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014248032?sid=101" class="nclicks(rig.secteco)" title="더루트컴퍼니 등 강한소상공인 34개팀 선발…사업화 자금 지원">더루트컴퍼니 등 강한소상공인 34개팀 선발…사업화 자금 지원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모바일 국가보훈증으로 주차할인까지 받는다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003253459?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003253459?sid=102"/>
-        <updated>2023-10-08T17:10:41.449Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003253459?sid=102" class="nclicks(rig.secteco)" title="모바일 국가보훈증으로 주차할인까지 받는다">모바일 국가보훈증으로 주차할인까지 받는다</a>]]></content>
+        <title type="html"><![CDATA[이스라엘 전쟁에 현지판매 1위 현대차 초긴장…LG전자,  재택근무 돌입]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005196347?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005196347?sid=101"/>
+        <updated>2023-10-08T18:15:02.533Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005196347?sid=101" class="nclicks(rig.secteco)" title="이스라엘 전쟁에 현지판매 1위 현대차 초긴장…LG전자,  재택근무 돌입">이스라엘 전쟁에 현지판매 1위 현대차 초긴장…LG전자,  재택근무 돌입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“오빠 갤레기 써요?” 성시경, 지인 여성에게 들은 말에 '울컥']]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004246692?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004246692?sid=105"/>
-        <updated>2023-10-08T17:10:41.450Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004246692?sid=105" class="nclicks(rig.secteco)" title="“오빠 갤레기 써요?” 성시경, 지인 여성에게 들은 말에 '울컥'">“오빠 갤레기 써요?” 성시경, 지인 여성에게 들은 말에 '울컥'</a>]]></content>
+        <title type="html"><![CDATA[삼성페이 '모바일 신분증' 할인 혜택까지…내년 초부터 쓸 수 있다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004246638?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004246638?sid=105"/>
+        <updated>2023-10-08T18:15:02.534Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004246638?sid=105" class="nclicks(rig.secteco)" title="삼성페이 '모바일 신분증' 할인 혜택까지…내년 초부터 쓸 수 있다">삼성페이 '모바일 신분증' 할인 혜택까지…내년 초부터 쓸 수 있다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["남한테 휴대폰 절대 빌려주지 마세요" 불쌍한 척 탈탈 털어가는 이 수법]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002207193?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002207193?sid=105"/>
-        <updated>2023-10-08T17:10:41.451Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002207193?sid=105" class="nclicks(rig.secteco)" title="&quot;남한테 휴대폰 절대 빌려주지 마세요&quot; 불쌍한 척 탈탈 털어가는 이 수법">"남한테 휴대폰 절대 빌려주지 마세요" 불쌍한 척 탈탈 털어가는 이 수법</a>]]></content>
+        <title type="html"><![CDATA[K-콘텐츠 성장 걸림돌에 언어적 문제 꼽혀[2023 국감]]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000777610?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000777610?sid=105"/>
+        <updated>2023-10-08T18:15:02.536Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/031/0000777610?sid=105" class="nclicks(rig.secteco)" title=" K-콘텐츠 성장 걸림돌에 언어적 문제 꼽혀[2023 국감]"> K-콘텐츠 성장 걸림돌에 언어적 문제 꼽혀[2023 국감]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아파트 엘베서 여성 끌고 간 10대…女화장실서 폭행도]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001642766?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001642766?sid=102"/>
-        <updated>2023-10-08T17:10:41.454Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001642766?sid=102" class="nclicks(rig.secteco)" title="아파트 엘베서 여성 끌고 간 10대…女화장실서 폭행도">아파트 엘베서 여성 끌고 간 10대…女화장실서 폭행도</a>]]></content>
+        <title type="html"><![CDATA[서울 밤하늘 가득 내린 ‘불꽃비’…100만 인파 일제히 “대박”]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005196130?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005196130?sid=102"/>
+        <updated>2023-10-08T18:15:02.538Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005196130?sid=102" class="nclicks(rig.secteco)" title="서울 밤하늘 가득 내린 ‘불꽃비’…100만 인파 일제히 “대박”">서울 밤하늘 가득 내린 ‘불꽃비’…100만 인파 일제히 “대박”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘역대급’ 불꽃놀이 펼친 서울세계불꽃축제…100만 명 군집[르포]]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004246576?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004246576?sid=102"/>
-        <updated>2023-10-08T17:10:41.455Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004246576?sid=102" class="nclicks(rig.secteco)" title=" ‘역대급’ 불꽃놀이 펼친 서울세계불꽃축제…100만 명 군집[르포]"> ‘역대급’ 불꽃놀이 펼친 서울세계불꽃축제…100만 명 군집[르포]</a>]]></content>
+        <title type="html"><![CDATA[열기 뜨거운 강서구청장 유세현장…선거운동원 폭행한 40대 체포]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005196415?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005196415?sid=100"/>
+        <updated>2023-10-08T18:15:02.540Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005196415?sid=100" class="nclicks(rig.secteco)" title="열기 뜨거운 강서구청장 유세현장…선거운동원 폭행한 40대 체포">열기 뜨거운 강서구청장 유세현장…선거운동원 폭행한 40대 체포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학부모·교사·학생 "누가 진짜 괴물인가" 日고레에다 신작 '괴물']]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003312781?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003312781?sid=103"/>
-        <updated>2023-10-08T17:10:41.458Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003312781?sid=103" class="nclicks(rig.secteco)" title="학부모·교사·학생 &quot;누가 진짜 괴물인가&quot; 日고레에다 신작 '괴물'">학부모·교사·학생 "누가 진짜 괴물인가" 日고레에다 신작 '괴물'</a>]]></content>
+        <title type="html"><![CDATA[`강철 체력` 오세훈, 한강 건너고 달렸다…"한강에 끊임없이 투자"]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002829027?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002829027?sid=102"/>
+        <updated>2023-10-08T18:15:02.543Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002829027?sid=102" class="nclicks(rig.secteco)" title="`강철 체력` 오세훈, 한강 건너고 달렸다…&quot;한강에 끊임없이 투자&quot;">`강철 체력` 오세훈, 한강 건너고 달렸다…"한강에 끊임없이 투자"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 늦은 오후부터 중부 비…해안가 너울 주의[날씨]]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001772943?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001772943?sid=103"/>
-        <updated>2023-10-08T17:10:41.464Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001772943?sid=103" class="nclicks(rig.secteco)" title=" 내일 늦은 오후부터 중부 비…해안가 너울 주의[날씨]"> 내일 늦은 오후부터 중부 비…해안가 너울 주의[날씨]</a>]]></content>
+        <title type="html"><![CDATA[뤼크 베송 “한국 영화, 예전에 佛이 하던 역할 해”]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003524309?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003524309?sid=102"/>
+        <updated>2023-10-08T18:15:02.545Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003524309?sid=102" class="nclicks(rig.secteco)" title="뤼크 베송 “한국 영화, 예전에 佛이 하던 역할 해”">뤼크 베송 “한국 영화, 예전에 佛이 하던 역할 해”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한글날 전국 흐림…경기·강원 오후 5㎜ 비]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000259164?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000259164?sid=103"/>
+        <updated>2023-10-08T18:15:02.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000259164?sid=103" class="nclicks(rig.secteco)" title="한글날 전국 흐림…경기·강원 오후 5㎜ 비">한글날 전국 흐림…경기·강원 오후 5㎜ 비</a>]]></content>
     </entry>
 </feed>
