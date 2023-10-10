@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-10-10T09:13:40.647Z</updated>
+    <updated>2023-10-10T10:15:10.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 서인천금고의 '수상한' 금리 보도 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000361959</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000361959"/>
-        <updated>2023-10-05T05:13:38.352Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[「이재명 표창 강조, 면접서 만점…與의원 '선관위 특혜채용' 공개」 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003311178</id>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005307400"/>
         <updated>2023-09-06T06:16:20.106Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘“노사연 父, 마산 민간인 학살 주도” 尹부친 조문에 SNS …]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002190524</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002190524"/>
+        <updated>2023-10-10T10:15:01.742Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
