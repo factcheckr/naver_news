@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-16T00:57:30.240Z</updated>
+    <updated>2023-10-16T01:53:42.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 7일 자 A2면 〈기온 뚝, 단풍 시작… 설악산은 23일, 북한산은 30일이 절정〉 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003793050?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003793050?sid=001"/>
+        <updated>2023-10-16T01:53:15.750Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] 서인천금고의 '수상한' 금리 보도 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000361959?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003764594?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003764594?sid=001"/>
         <updated>2023-06-14T05:13:07.907Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 13일 자 A11면 '환경과학원 "4대강 사업 전에도 낙동강 녹조 있었다"' 기사에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003763863?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003763863?sid=001"/>
-        <updated>2023-06-14T05:13:07.908Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
