@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-10-15T23:12:47.025Z</updated>
+    <updated>2023-10-16T00:57:30.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]…‘[단독] 반올림피자…황당차별’ 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002660329</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002660329"/>
+        <updated>2023-10-16T00:57:22.943Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] `[한기호의 정치박박] 침략자에 꼬박꼬박 "선생"…6·25전범…]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002830306</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002830306"/>
+        <updated>2023-10-16T00:57:22.946Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「"대통령과 어떤 관계인지 몰라도"…野 '일감 몰아주기' 의…]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003822845</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003822845"/>
+        <updated>2023-10-16T00:57:22.950Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 정부 ‘오염수 진실’ 유튜브 속 아나운서, 정체?...“일감 몰…]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003864331</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003864331"/>
+        <updated>2023-10-16T00:57:22.953Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문]]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007107902</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007107902"/>
+        <updated>2023-10-16T00:57:22.954Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] ‘경찰, 선관위 아빠찬스 14명 수사한다’ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003400215</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003400215"/>
+        <updated>2023-10-16T00:57:22.958Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「이재명 표창 강조, 면접서 만점…與의원 '선관위 특혜채용' 공개」 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003311178</id>
@@ -172,47 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/108/0003179041"/>
         <updated>2023-09-06T06:16:20.098Z</updated>
         <content type="html"><![CDATA[스타뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] '민족영웅 찾는다더니 '정권퇴진 운동'...없는 기념…]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005066729</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005066729"/>
-        <updated>2023-09-06T06:16:20.102Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 노사연 자매 '부친' 과거사까지 소환된 까닭?…"마산보도연…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002299001</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002299001"/>
-        <updated>2023-09-06T06:16:20.102Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '"노사연 부친 노양환, 한국전쟁 당시 마산 민간인 학살 주…]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007023561</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007023561"/>
-        <updated>2023-09-06T06:16:20.103Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문] ‘‘尹 부친상’ 조문 갔다가… “노사연 자매 父, 마산 민간…]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003850859</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003850859"/>
-        <updated>2023-09-06T06:16:20.104Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]'노사연·노사봉 아버지로 번진 尹 부친상 조문 논란' 기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005307400</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005307400"/>
-        <updated>2023-09-06T06:16:20.106Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘“노사연 父, 마산 민간인 학살 주도” 尹부친 조문에 SNS …]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002190524</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002190524"/>
-        <updated>2023-10-10T10:15:01.742Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
