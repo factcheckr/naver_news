@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-10-17T04:15:31.279Z</updated>
+    <updated>2023-10-17T05:12:52.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈[영상] 김영호 "오염수 안전 홍보 영상 아나운서 포털 찾아보니 놀라…]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000120288</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000120288"/>
+        <updated>2023-10-17T05:12:44.931Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다]…‘[단독] 반올림피자…황당차별’ 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002660329</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/477/0000448804"/>
         <updated>2023-09-06T06:16:20.098Z</updated>
         <content type="html"><![CDATA[스포티비뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "노사연 부친, 마산 민간인 학살 주도"..'충격' 폭로글  관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/108/0003179041</id>
-        <link href="https://n.news.naver.com/mnews/article/108/0003179041"/>
-        <updated>2023-09-06T06:16:20.098Z</updated>
-        <content type="html"><![CDATA[스타뉴스]]></content>
     </entry>
 </feed>
