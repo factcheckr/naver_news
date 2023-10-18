@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-10-18T03:14:04.903Z</updated>
+    <updated>2023-10-18T04:15:35.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도문] <입시부정으로 파면 요구받은 지평선학교장, 이사장으로 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002409701</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002409701"/>
+        <updated>2023-10-18T04:15:20.263Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈[영상] 김영호 "오염수 안전 홍보 영상 아나운서 포털 찾아보니 놀라…]]></title>
         <id>https://n.news.naver.com/mnews/article/006/0000120288</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/468/0000976809"/>
         <updated>2023-09-25T10:14:06.072Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]'"노사연 父, 마산 민간인 학살 주도" 폭로글 논란…소속사 '…]]></title>
-        <id>https://n.news.naver.com/mnews/article/477/0000448804</id>
-        <link href="https://n.news.naver.com/mnews/article/477/0000448804"/>
-        <updated>2023-09-25T10:14:06.073Z</updated>
-        <content type="html"><![CDATA[스포티비뉴스]]></content>
     </entry>
 </feed>
