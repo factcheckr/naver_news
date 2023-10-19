@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-19T05:13:34.223Z</updated>
+    <updated>2023-10-19T06:18:01.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]"실천문학사 '성추문' 고은 시집 재판매 사흘만에 또 중단" 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005599343?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005599343?sid=001"/>
+        <updated>2023-10-19T06:17:36.525Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 7일 자 A2면 〈기온 뚝, 단풍 시작… 설악산은 23일, 북한산은 30일이 절정〉 기사 중]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003793050?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003764848?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003764848?sid=001"/>
         <updated>2023-06-14T05:13:07.905Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 13일 자 A11면 "낙동강 녹조라테 원인은 보 아닌 축산 폐수" 기사 제목에서 외]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003764594?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003764594?sid=001"/>
-        <updated>2023-06-14T05:13:07.907Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
