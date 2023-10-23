@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-23T01:52:17.980Z</updated>
+    <updated>2023-10-23T02:21:36.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고침] 국제(네팔 다닝서 규모 6.1 강진 발생…)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014278544?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014278544?sid=001"/>
+        <updated>2023-10-23T02:21:12.695Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 17일 자 B6면 '약세장에 주목받는 우선주' 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003794158?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003794158?sid=001"/>
+        <updated>2023-10-23T02:21:12.695Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]"실천문학사 '성추문' 고은 시집 재판매 사흘만에 또 중단" 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/018/0005599343?sid=001</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003282477?sid=001"/>
         <updated>2023-06-14T05:13:07.896Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 5월 24일자 A3면 "한·일 쌍방향 투자로 윈윈…반도체·에너지 공급망 협력 강화하자"]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004848654?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004848654?sid=001"/>
-        <updated>2023-06-14T05:13:07.898Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 본지 1월 16일 자 A10면 〈창원 지하조직원들 "들키면 USB 부숴 삼켜라"〉 기사에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003764848?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003764848?sid=001"/>
-        <updated>2023-06-14T05:13:07.905Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
