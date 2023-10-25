@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-25T01:50:41.198Z</updated>
+    <updated>2023-10-25T02:20:16.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 23일 자 A23면 '선수 때랑은 달라… 첫 승 거둔 정조국' 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003795258?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003795258?sid=001"/>
+        <updated>2023-10-25T02:19:53.657Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 20일 자 A18면 '반 클라이번 우승 임윤찬, 명문 음반사 데카 전속 계약' 기사 외]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003795026?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003795026?sid=001"/>
+        <updated>2023-10-25T02:19:53.658Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 정부 '오염수 진실' 영상 아나운서 국힘 당원? "가짜뉴스"]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002214098?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002214098?sid=001"/>
+        <updated>2023-10-25T02:19:53.663Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 국제(네팔 다닝서 규모 6.1 강진 발생…)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014278544?sid=001</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003767995?sid=001"/>
         <updated>2023-06-14T05:13:07.895Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001276476?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001276476?sid=001"/>
-        <updated>2023-06-14T05:13:07.896Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 24일 자 A6면 '관동 조선인 대학살 얘기하며 '동물원 사자 탈출' 빗댄 日 장관' 기사 중 외]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003766206?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003766206?sid=001"/>
-        <updated>2023-06-14T05:13:07.896Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 5월 24일자 18면 '남서울대 명예총장 공정자 박사 별세' 기사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003282477?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003282477?sid=001"/>
-        <updated>2023-06-14T05:13:07.896Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

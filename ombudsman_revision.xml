@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-10-25T01:50:41.203Z</updated>
+    <updated>2023-10-25T02:20:16.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[［정정보도］<“정부 채널 ‘오염수 진실’ 영상 아나운서, 국민의힘 소속”…]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003256611</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003256611"/>
+        <updated>2023-10-25T02:20:09.119Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도문] <입시부정으로 파면 요구받은 지평선학교장, 이사장으로 …]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002409701</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/057/0001766250"/>
         <updated>2023-09-06T05:11:59.229Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘노사연 부친, “마산 민간인 학살 주도” 폭로글 확산’ 기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/468/0000976809</id>
-        <link href="https://n.news.naver.com/mnews/article/468/0000976809"/>
-        <updated>2023-09-06T06:16:20.097Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
