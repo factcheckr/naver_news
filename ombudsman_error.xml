@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-10-31T04:16:06.790Z</updated>
+    <updated>2023-10-31T05:12:53.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 26일 자 A35면 '[김명섭의 그레이트 게임과 한반도]에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003795937?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003795937?sid=001"/>
+        <updated>2023-10-31T05:12:28.426Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 23일 자 A23면 '선수 때랑은 달라… 첫 승 거둔 정조국' 기사 중]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003795258?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003502081?sid=001"/>
         <updated>2023-06-14T05:13:07.894Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 3일 자 B1면 "55만 대군은 있는데 군인이 없고, 스타는 널렸는데 장군이 없다" 기사 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003767995?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003767995?sid=001"/>
-        <updated>2023-06-14T05:13:07.895Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
