@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-11-01T07:13:26.095Z</updated>
+    <updated>2023-11-01T08:16:49.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]<韓정부 향해 “남조선 괴뢰도당” 日친북단체 행사에 윤미…]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005207876</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005207876"/>
+        <updated>2023-11-01T08:16:33.765Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알립니다] 〈한 총리 담화 평가?…“사기당하고도 사기 당한지 몰라”〉 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011592789</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011592789"/>
+        <updated>2023-11-01T08:16:33.765Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]〈[영상] 김영호 "오염수 안전 홍보 영상 아나운서 포털 찾아…]]></title>
         <id>https://n.news.naver.com/mnews/article/006/0000120288</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/312/0000626802"/>
         <updated>2023-09-25T10:14:06.069Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] “노사연 부친 마산 민간인 학살 주도 인물”…SNS 폭로글 일…]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005181705</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005181705"/>
-        <updated>2023-09-25T10:14:06.070Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "노사연 부친은 마산 민간인 학살 주도자"…SNS 폭로글 확…]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001766250</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001766250"/>
-        <updated>2023-09-25T10:14:06.071Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
