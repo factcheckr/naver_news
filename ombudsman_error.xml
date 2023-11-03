@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-03T07:12:01.428Z</updated>
+    <updated>2023-11-03T08:16:44.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] 검찰에 의한 태블릿 PC 조작 주장에 대한 반박 입장 보도와 관련하여]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003871298?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003871298?sid=001"/>
+        <updated>2023-11-03T08:16:21.669Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 30일 자 A4면 〈尹 "오늘은 가장 슬픈 날, 안전한 한국 만들겠다"〉 기사에서]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003796592?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003769523?sid=001"/>
         <updated>2023-06-14T05:13:07.889Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0006858956?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0006858956?sid=001"/>
-        <updated>2023-06-14T05:13:07.892Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
