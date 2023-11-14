@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-14T00:56:52.896Z</updated>
+    <updated>2023-11-14T01:52:47.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 지난 4일 자 B9면 <전봉관의 해방 거리를 걷다> 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003798991?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003798991?sid=001"/>
+        <updated>2023-11-14T01:52:28.422Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] 검찰에 의한 태블릿 PC 조작 주장에 대한 반박 입장 보도와 관련하여]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003871298?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003769808?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003769808?sid=001"/>
         <updated>2023-08-24T07:11:45.187Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 10일 자 A2면 '방송 장악이 뭔지 KBS 경영진이 잘 알 것' 강규형 전 KBS 이사 인터뷰 기사 중]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003769523?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003769523?sid=001"/>
-        <updated>2023-06-14T05:13:07.889Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
