@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-11-15T05:12:34.659Z</updated>
+    <updated>2023-11-15T06:17:50.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 검찰 "송영길, 점점 사실 왜곡하고 억지 주장…터무니 없는 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002769316</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002769316"/>
+        <updated>2023-11-15T06:17:42.842Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜[단독] 테니스협회장의 전횡...곳곳에 '배임 의혹'도＞ 등…]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001960162</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001960162"/>
+        <updated>2023-11-15T06:17:42.844Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[추후보도]진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003833434</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003833434"/>
+        <updated>2023-11-15T06:17:42.847Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] “野김병욱 보좌관이 尹상관 둔갑”…허위보도 연루 의…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003321247</id>
@@ -181,38 +202,17 @@
         <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[패소 앙심에 폭언·방화…변호사들 '분노 범죄' 무방비]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004892791</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004892791"/>
+        <updated>2023-11-15T06:17:42.885Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정보도] '자기소개서냐 아빠소개서냐…선관위 특채 의혹 점입가경' …]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002753410</id>
         <link href="https://n.news.naver.com/mnews/article/119/0002753410"/>
         <updated>2023-09-26T09:13:42.950Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다]“아빠가 선관위 계셔”…채용 특혜 자녀, 자소서에 ‘부모’…]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003522806</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003522806"/>
-        <updated>2023-09-26T09:13:42.955Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] “AI가 배차·운임 척척 … 중개료 뺀 ‘화물 플랫폼’ 뜬다” …]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005192104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005192104"/>
-        <updated>2023-09-26T09:13:42.957Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜'[단독] 폭행 증언 쏟아진 A코치, 국가대표 지도자 또 지원?＞ 기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001940544</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001940544"/>
-        <updated>2023-09-26T05:12:12.784Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] '내부고발' 위해 환자정보 빼낸 의사들…대법 "정당 행위" …]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002752106</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002752106"/>
-        <updated>2023-09-24T19:09:53.007Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
