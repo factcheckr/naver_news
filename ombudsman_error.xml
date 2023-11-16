@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-16T06:17:46.424Z</updated>
+    <updated>2023-11-16T07:12:49.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 지난 14일 자 A12면 〈文 옛 사위 채용 특혜 의혹… 중진공 등 4곳 압수수색〉 기사 중 외]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799419?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799419?sid=001"/>
+        <updated>2023-11-16T07:12:20.708Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 지난 6일 자 A20면 〈"미제레~미제레~" 프랑스어로 부르는 '흥보가'도 있다〉 기사 중]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003799215?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003503874?sid=001"/>
         <updated>2023-08-24T07:11:45.183Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로잡습니다.]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005509957?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005509957?sid=001"/>
-        <updated>2023-08-24T07:11:45.186Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>

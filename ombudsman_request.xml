@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-11-16T06:17:46.426Z</updated>
+    <updated>2023-11-16T07:12:49.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「이주호 장관님 과거에는 안 이랬잖아요」 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002412868</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002412868"/>
+        <updated>2023-11-16T07:12:30.613Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「교원단체 골라서 간담회?... 이주호, 4개 단체 '내치기' …]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002412867</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002412867"/>
+        <updated>2023-11-16T07:12:30.614Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「'교권 보호' 하겠다더니... 결국은 학생 인권 공격?」 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002412866</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002412866"/>
+        <updated>2023-11-16T07:12:30.616Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「학폭 행심 5배 폭증... 교권침해까지 기재하면 "학교는 소…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002412865</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002412865"/>
+        <updated>2023-11-16T07:12:30.616Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] 대통령이 참관한 그 수업들, 그날만 '교실 바꿔치…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002412862</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002412862"/>
+        <updated>2023-11-16T07:12:30.617Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] <조해진 의원 '수해속 술자리' 논란> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0000962491</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0000962491"/>
+        <updated>2023-11-16T07:12:30.619Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 검찰 "송영길, 점점 사실 왜곡하고 억지 주장…터무니 없는 …]]></title>
         <id>https://n.news.naver.com/mnews/article/119/0002769316</id>
@@ -172,47 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003311178"/>
         <updated>2023-10-05T01:52:54.784Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론 보도] ‘"후문을 이용하세요"…금전 요구하는 병원과 약국의 담합’…]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001771279</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001771279"/>
-        <updated>2023-10-05T05:13:28.164Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정및반론보도] <지도교수 고발하며 진료기록 제출한 의사들…대법 "무…]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014225401</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014225401"/>
-        <updated>2023-09-27T08:18:22.938Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]지도교수 ‘대리수술’ 고발하며 진료기록 제출 의사들 무죄 확…]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005320431</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005320431"/>
-        <updated>2023-09-27T08:18:22.939Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<이동관이 방송을 '정상화' 했었는데, 왜 '이명박근혜'는 감…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002302251</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002302251"/>
-        <updated>2023-09-27T08:18:22.939Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패소 앙심에 폭언·방화…변호사들 '분노 범죄' 무방비]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004892791</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004892791"/>
-        <updated>2023-11-15T06:17:35.575Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] '자기소개서냐 아빠소개서냐…선관위 특채 의혹 점입가경' …]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002753410</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002753410"/>
-        <updated>2023-09-26T09:13:34.477Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
