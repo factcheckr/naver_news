@@ -2,71 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-11-18T01:55:00.460Z</updated>
+    <updated>2023-11-18T02:24:32.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[APEC 전 열린 한일 정상회담, 올해만 7번 만나 '의기투합']]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005102156?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005102156?sid=100"/>
-        <updated>2023-11-18T01:54:32.669Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005102156?sid=100" class="nclicks(rig.secteco)" title="APEC 전 열린 한일 정상회담, 올해만 7번 만나 '의기투합'">APEC 전 열린 한일 정상회담, 올해만 7번 만나 '의기투합'</a>]]></content>
+        <title type="html"><![CDATA[이준석 “한동훈은 긁지 않은 복권, 나와 재밌는 관계 형성할 수 있다”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003262014?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003262014?sid=100"/>
+        <updated>2023-11-18T02:24:06.881Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003262014?sid=100" class="nclicks(rig.secteco)" title="이준석 “한동훈은 긁지 않은 복권, 나와 재밌는 관계 형성할 수 있다”">이준석 “한동훈은 긁지 않은 복권, 나와 재밌는 관계 형성할 수 있다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여 혁신위 "대통령실 출신 인사도 공정한 경선"]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000629896?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000629896?sid=100"/>
-        <updated>2023-11-18T01:54:32.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000629896?sid=100" class="nclicks(rig.secteco)" title="여 혁신위 &quot;대통령실 출신 인사도 공정한 경선&quot;">여 혁신위 "대통령실 출신 인사도 공정한 경선"</a>]]></content>
+        <title type="html"><![CDATA[[속보] 인요한, 김기현 만나 "고통스러운 쓴소리 계속 건의할 것"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000770775?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000770775?sid=100"/>
+        <updated>2023-11-18T02:24:06.881Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/469/0000770775?sid=100" class="nclicks(rig.secteco)" title="[속보] 인요한, 김기현 만나 &quot;고통스러운 쓴소리 계속 건의할 것&quot;">[속보] 인요한, 김기현 만나 "고통스러운 쓴소리 계속 건의할 것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당정 "개 식용 종식 특별법 연내 제정 추진…3년 유예기간"]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005342404?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005342404?sid=100"/>
-        <updated>2023-11-18T01:54:32.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005342404?sid=100" class="nclicks(rig.secteco)" title="당정 &quot;개 식용 종식 특별법 연내 제정 추진…3년 유예기간&quot;">당정 "개 식용 종식 특별법 연내 제정 추진…3년 유예기간"</a>]]></content>
+        <title type="html"><![CDATA[與혁신위 "용산 출신도 예외 없어…모든 지역구 전략공천 배제"(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014338565?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014338565?sid=100"/>
+        <updated>2023-11-18T02:24:06.881Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014338565?sid=100" class="nclicks(rig.secteco)" title="與혁신위 &quot;용산 출신도 예외 없어…모든 지역구 전략공천 배제&quot;(종합)">與혁신위 "용산 출신도 예외 없어…모든 지역구 전략공천 배제"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 시진핑-기시다, 중일 정상회담 시작…오염수 방류 논의 주목]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005216494?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005216494?sid=104"/>
-        <updated>2023-11-18T01:54:32.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005216494?sid=104" class="nclicks(rig.secteco)" title="[속보] 시진핑-기시다, 중일 정상회담 시작…오염수 방류 논의 주목">[속보] 시진핑-기시다, 중일 정상회담 시작…오염수 방류 논의 주목</a>]]></content>
+        <title type="html"><![CDATA[시진핑 만찬 서둘러 떠난 머스크, APEC 대담도 불참... 이유는?]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000948320?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000948320?sid=104"/>
+        <updated>2023-11-18T02:24:06.883Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000948320?sid=104" class="nclicks(rig.secteco)" title="시진핑 만찬 서둘러 떠난 머스크, APEC 대담도 불참... 이유는?">시진핑 만찬 서둘러 떠난 머스크, APEC 대담도 불참... 이유는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美 연준 인사 "추가 긴축카드, 아직 내려놨다고 안 봐"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001312746?sid=104</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001312746?sid=104"/>
-        <updated>2023-11-18T01:54:32.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001312746?sid=104" class="nclicks(rig.secteco)" title="美 연준 인사 &quot;추가 긴축카드, 아직 내려놨다고 안 봐&quot;">美 연준 인사 "추가 긴축카드, 아직 내려놨다고 안 봐"</a>]]></content>
+        <title type="html"><![CDATA[미중 정상회담 이후 상무장관 회동…중국, 미국 대중국 제재에 우려]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012216808?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012216808?sid=104"/>
+        <updated>2023-11-18T02:24:06.886Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0012216808?sid=104" class="nclicks(rig.secteco)" title="미중 정상회담 이후 상무장관 회동…중국, 미국 대중국 제재에 우려">미중 정상회담 이후 상무장관 회동…중국, 미국 대중국 제재에 우려</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부여 럼피스킨 신규 발생 등 누적 100건 돌파…고창 한주 새 8건]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012215339?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012215339?sid=101"/>
-        <updated>2023-11-18T01:54:32.673Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0012215339?sid=101" class="nclicks(rig.secteco)" title="부여 럼피스킨 신규 발생 등 누적 100건 돌파…고창 한주 새 8건">부여 럼피스킨 신규 발생 등 누적 100건 돌파…고창 한주 새 8건</a>]]></content>
+        <title type="html"><![CDATA[‘경기둔화’ 17개월 만에 “경기회복 조짐”]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005342355?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005342355?sid=101"/>
+        <updated>2023-11-18T02:24:06.888Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005342355?sid=101" class="nclicks(rig.secteco)" title="‘경기둔화’ 17개월 만에 “경기회복 조짐”">‘경기둔화’ 17개월 만에 “경기회복 조짐”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴욕증시, 강보합 마감...3주 연속 상승]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005102549?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005102549?sid=101"/>
-        <updated>2023-11-18T01:54:32.674Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/014/0005102549?sid=101" class="nclicks(rig.secteco)" title="뉴욕증시, 강보합 마감...3주 연속 상승">뉴욕증시, 강보합 마감...3주 연속 상승</a>]]></content>
+        <title type="html"><![CDATA[현대엘리베이터, 내달 29일 임시주총 소집 결의]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012215940?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012215940?sid=101"/>
+        <updated>2023-11-18T02:24:06.890Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0012215940?sid=101" class="nclicks(rig.secteco)" title="현대엘리베이터, 내달 29일 임시주총 소집 결의">현대엘리베이터, 내달 29일 임시주총 소집 결의</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“29년 묵은 소주 ‘뚜껑’ 열었다”…구광모 LG회장이 축배 든 술의 정체]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005216949?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005216949?sid=101"/>
-        <updated>2023-11-18T01:54:32.675Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005216949?sid=101" class="nclicks(rig.secteco)" title="“29년 묵은 소주 ‘뚜껑’ 열었다”…구광모 LG회장이 축배 든 술의 정체">“29년 묵은 소주 ‘뚜껑’ 열었다”…구광모 LG회장이 축배 든 술의 정체</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래프톤 '다크앤다커' 시연에 쏟아진 관심[지스타 2023]]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000249727?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000249727?sid=105"/>
-        <updated>2023-11-18T01:54:32.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/629/0000249727?sid=105" class="nclicks(rig.secteco)" title=" 크래프톤 '다크앤다커' 시연에 쏟아진 관심[지스타 2023]"> 크래프톤 '다크앤다커' 시연에 쏟아진 관심[지스타 2023]</a>]]></content>
+        <title type="html"><![CDATA[김천 럼피스킨 발병 농가서 12마리 추가 확진]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011604775?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011604775?sid=101"/>
+        <updated>2023-11-18T02:24:06.892Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011604775?sid=101" class="nclicks(rig.secteco)" title="김천 럼피스킨 발병 농가서 12마리 추가 확진">김천 럼피스킨 발병 농가서 12마리 추가 확진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['로스트아크 모바일' 오픈런…첫날 6500명 시연[지스타2023]]]></title>
@@ -76,11 +69,18 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/003/0012216361?sid=105" class="nclicks(rig.secteco)" title=" '로스트아크 모바일' 오픈런…첫날 6500명 시연[지스타2023]"> '로스트아크 모바일' 오픈런…첫날 6500명 시연[지스타2023]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공포심에 '빈대 발생 지도'까지 등장…불똥 튄 중고시장]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001106638?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001106638?sid=102"/>
-        <updated>2023-11-18T01:54:32.680Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001106638?sid=102" class="nclicks(rig.secteco)" title="공포심에 '빈대 발생 지도'까지 등장…불똥 튄 중고시장">공포심에 '빈대 발생 지도'까지 등장…불똥 튄 중고시장</a>]]></content>
+        <title type="html"><![CDATA[?짬내서 부산행…?유인촌?김택진?권혁빈의?‘게임 돌보기’[지스타2023]]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002161093?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002161093?sid=105"/>
+        <updated>2023-11-18T02:24:06.896Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002161093?sid=105" class="nclicks(rig.secteco)" title="?짬내서 부산행…?유인촌?김택진?권혁빈의?‘게임 돌보기’[지스타2023]">?짬내서 부산행…?유인촌?김택진?권혁빈의?‘게임 돌보기’[지스타2023]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30년 된 일산 아파트 지하주차장 기둥 ‘휘청’]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000261899?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000261899?sid=102"/>
+        <updated>2023-11-18T02:24:06.897Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/449/0000261899?sid=102" class="nclicks(rig.secteco)" title="30년 된 일산 아파트 지하주차장 기둥 ‘휘청’">30년 된 일산 아파트 지하주차장 기둥 ‘휘청’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[울먹인 이재용 "합병 때 이익 염두한 적 없어…앞으로 나갈 기회 달라"(종합)]]></title>
@@ -90,24 +90,24 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007183892?sid=102" class="nclicks(rig.secteco)" title="울먹인 이재용 &quot;합병 때 이익 염두한 적 없어…앞으로 나갈 기회 달라&quot;(종합)">울먹인 이재용 "합병 때 이익 염두한 적 없어…앞으로 나갈 기회 달라"(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주 겨울 재촉하는 비바람…해안엔 우박, 한라산엔 폭설(종합)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007183718?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007183718?sid=102"/>
-        <updated>2023-11-18T01:54:32.684Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007183718?sid=102" class="nclicks(rig.secteco)" title="제주 겨울 재촉하는 비바람…해안엔 우박, 한라산엔 폭설(종합)">제주 겨울 재촉하는 비바람…해안엔 우박, 한라산엔 폭설(종합)</a>]]></content>
+        <title type="html"><![CDATA[“때 이른 첫눈에 빙판길 조심하세요”…바람 ‘쌩쌩’ 체감온도 ‘뚝’]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005216915?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005216915?sid=102"/>
+        <updated>2023-11-18T02:24:06.900Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005216915?sid=102" class="nclicks(rig.secteco)" title="“때 이른 첫눈에 빙판길 조심하세요”…바람 ‘쌩쌩’ 체감온도 ‘뚝’">“때 이른 첫눈에 빙판길 조심하세요”…바람 ‘쌩쌩’ 체감온도 ‘뚝’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫눈부터 함박눈 '펑펑'…주말 아침 영하권 강추위]]></title>
-        <id>https://n.news.naver.com/mnews/article/422/0000630009?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/422/0000630009?sid=103"/>
-        <updated>2023-11-18T01:54:32.685Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/422/0000630009?sid=103" class="nclicks(rig.secteco)" title="첫눈부터 함박눈 '펑펑'…주말 아침 영하권 강추위">첫눈부터 함박눈 '펑펑'…주말 아침 영하권 강추위</a>]]></content>
+        <title type="html"><![CDATA[일터의 ‘도른자’ 대처하려면… 감정싸움 대신 그의 행동 기록하라]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799899?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799899?sid=103"/>
+        <updated>2023-11-18T02:24:06.901Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/023/0003799899?sid=103" class="nclicks(rig.secteco)" title="일터의 ‘도른자’ 대처하려면… 감정싸움 대신 그의 행동 기록하라">일터의 ‘도른자’ 대처하려면… 감정싸움 대신 그의 행동 기록하라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[간장게장이 먹고 싶다, 여긴 화성인데[책의 향기]]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003531958?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003531958?sid=103"/>
-        <updated>2023-11-18T01:54:32.686Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003531958?sid=103" class="nclicks(rig.secteco)" title="간장게장이 먹고 싶다, 여긴 화성인데[책의 향기]">간장게장이 먹고 싶다, 여긴 화성인데[책의 향기]</a>]]></content>
+        <title type="html"><![CDATA[내일 더 춥다…서울 아침 체감온도 -11도]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011604743?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011604743?sid=103"/>
+        <updated>2023-11-18T02:24:06.902Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011604743?sid=103" class="nclicks(rig.secteco)" title="내일 더 춥다…서울 아침 체감온도 -11도">내일 더 춥다…서울 아침 체감온도 -11도</a>]]></content>
     </entry>
 </feed>
