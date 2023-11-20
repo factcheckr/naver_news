@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-20T04:16:24.866Z</updated>
+    <updated>2023-11-20T05:13:43.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 8일 자 A4~5면 〈세계로 뻗어나가는 K방산〉 그래픽에서 외]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799926?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799926?sid=001"/>
+        <updated>2023-11-20T05:13:22.877Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 14일 자 A18면 '나의 현대사 보물: 일곱 살 어린 나이에 첫 앨범' 기사에서]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799678?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799678?sid=001"/>
+        <updated>2023-11-20T05:13:22.877Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 지난 14일 자 A12면 〈文 옛 사위 채용 특혜 의혹… 중진공 등 4곳 압수수색〉 기사 중 외]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003799419?sid=001</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003772793?sid=001"/>
         <updated>2023-08-24T07:11:45.174Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] 영화감독 김기덕 미투 사건 관련 보도를 바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005275415?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005275415?sid=001"/>
-        <updated>2023-08-24T07:11:45.180Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] "심정지 민노총 집회자 생명 구한 女기동대원들" 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003503874?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003503874?sid=001"/>
-        <updated>2023-08-24T07:11:45.183Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>

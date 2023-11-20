@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-11-20T04:16:24.863Z</updated>
+    <updated>2023-11-20T05:13:43.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<[단독] 국책 연구기관 26곳, 尹정부 출범 후에도 ‘文 국정과…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799856</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799856"/>
+        <updated>2023-11-20T05:13:29.790Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<‘경영 모르쇠’ 김행, 넥서스투자서 수억 유치> 관련[정정보도]]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003261988</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003261988"/>
+        <updated>2023-11-20T05:13:29.793Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「이주호 장관님 과거에는 안 이랬잖아요」 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002412868</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0007107902"/>
         <updated>2023-10-16T00:57:14.988Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] ‘경찰, 선관위 아빠찬스 14명 수사한다’ 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003400215</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003400215"/>
-        <updated>2023-10-16T00:57:14.990Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「이재명 표창 강조, 면접서 만점…與의원 '선관위 특혜채용' 공개」 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003311178</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003311178"/>
-        <updated>2023-10-05T01:52:54.784Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
