@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-21T09:13:51.251Z</updated>
+    <updated>2023-11-21T10:20:10.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] '민주당 돈 봉투 의혹 세 번째 구속영장 만지작' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000250414?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000250414?sid=001"/>
+        <updated>2023-11-21T10:19:52.764Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 8일 자 A4~5면 〈세계로 뻗어나가는 K방산〉 그래픽에서 외]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003799926?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003786306?sid=001"/>
         <updated>2023-08-24T07:11:45.167Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 27일 자 A8면 '막말 없이 아름다운 언어로 정치… JP의 삶 돌아보면 마음이 찔려' 기사에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003772793?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003772793?sid=001"/>
-        <updated>2023-08-24T07:11:45.174Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
