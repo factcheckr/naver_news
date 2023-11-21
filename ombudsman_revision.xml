@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-11-21T05:13:05.361Z</updated>
+    <updated>2023-11-21T06:17:52.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004964321</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004964321"/>
+        <updated>2023-11-21T06:17:46.167Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<[단독] 국책 연구기관 26곳, 尹정부 출범 후에도 ‘文 국정과…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003799856</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003864331"/>
         <updated>2023-10-16T00:57:22.953Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문]]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007107902</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007107902"/>
-        <updated>2023-10-16T00:57:22.954Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
