@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-11-22T07:12:36.268Z</updated>
+    <updated>2023-11-22T08:17:21.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 성남시 신흥동 법조단지 이전 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/262/0000016994</id>
+        <link href="https://n.news.naver.com/mnews/article/262/0000016994"/>
+        <updated>2023-11-22T08:17:08.006Z</updated>
+        <content type="html"><![CDATA[신동아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알립니다] <'신사협정'으로 마련된 협치 분위기…노봉법·방송법 강행…]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002771562</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002771562"/>
+        <updated>2023-11-22T08:17:08.010Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0004964321</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/029/0002830306"/>
         <updated>2023-10-16T00:57:14.983Z</updated>
         <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「"대통령과 어떤 관계인지 몰라도"…野 '일감 몰아주기' 의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003822845</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003822845"/>
-        <updated>2023-10-16T00:57:14.985Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 정부 ‘오염수 진실’ 유튜브 속 아나운서, 정체?...“일감 몰…]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003864331</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003864331"/>
-        <updated>2023-10-16T00:57:14.986Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
