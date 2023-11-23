@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-11-23T05:13:39.228Z</updated>
+    <updated>2023-11-23T06:17:13.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000790546</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000790546"/>
+        <updated>2023-11-23T06:16:59.757Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 성남시 신흥동 법조단지 이전 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/262/0000016994</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002660329"/>
         <updated>2023-10-16T00:57:14.981Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] `[한기호의 정치박박] 침략자에 꼬박꼬박 "선생"…6·25전범…]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002830306</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002830306"/>
-        <updated>2023-10-16T00:57:14.983Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
     </entry>
 </feed>
