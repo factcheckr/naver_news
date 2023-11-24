@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-24T08:16:39.250Z</updated>
+    <updated>2023-11-24T09:13:21.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <검찰 '태블릿PC 조작설' 거론한 송영길에 "터무니없는 막말">]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014353317?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014353317?sid=001"/>
+        <updated>2023-11-24T09:13:02.359Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] '민주당 돈 봉투 의혹 세 번째 구속영장 만지작' 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000250414?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011515657?sid=001"/>
         <updated>2023-08-24T07:11:45.167Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영화 감독 김기덕 미투 사건 관련 정정보도문]]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003786306?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003786306?sid=001"/>
-        <updated>2023-08-24T07:11:45.167Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
