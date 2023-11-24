@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-11-24T07:12:44.715Z</updated>
+    <updated>2023-11-24T08:16:39.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇠구슬 새총으로 동료 차 파손 혐의 교직원, 무죄 판결 확정]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001654632</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001654632"/>
+        <updated>2023-11-24T08:16:33.264Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['유디치과' 관련 반론보도문]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000771957</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000771957"/>
+        <updated>2023-11-24T08:16:33.267Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무죄 판결 확…]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005626068</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005626068"/>
+        <updated>2023-11-24T08:16:33.269Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] "SNS 영상 계속 올리면 스토킹"…유튜버 구제역, 스토커…]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000771846</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011592789"/>
         <updated>2023-11-22T20:13:42.525Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]〈[영상] 김영호 "오염수 안전 홍보 영상 아나운서 포털 찾아…]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000120288</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000120288"/>
-        <updated>2023-11-22T20:13:42.526Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［정정보도］<“정부 채널 ‘오염수 진실’ 영상 아나운서, 국민의힘 소속”…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003256611</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003256611"/>
-        <updated>2023-11-22T20:13:42.528Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도문] <입시부정으로 파면 요구받은 지평선학교장, 이사장으로 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002409701</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002409701"/>
-        <updated>2023-11-22T20:13:42.529Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
