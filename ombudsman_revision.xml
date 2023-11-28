@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-11-28T01:58:52.993Z</updated>
+    <updated>2023-11-28T02:30:40.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈"직접 얘기나 들어보자"…'김포 서울 편입' 주민 설명회〉…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000368678</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000368678"/>
+        <updated>2023-11-28T02:30:32.186Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇠구슬 새총으로 동료 차 파손 혐의 교직원, 무죄 판결 확정]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001654632</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005207876"/>
         <updated>2023-11-22T20:13:42.524Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알립니다] 〈한 총리 담화 평가?…“사기당하고도 사기 당한지 몰라”〉 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011592789</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011592789"/>
-        <updated>2023-11-22T20:13:42.525Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
