@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-11-30T09:13:28.066Z</updated>
+    <updated>2023-11-30T10:15:25.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '패소 앙심에 폭언·방화…변호사들 분노 범죄 무방비' 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004920308?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004920308?sid=001"/>
+        <updated>2023-11-30T10:15:07.745Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <검찰, 송영길의 증거 조작 주장에 “터무니 없는 막말”> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/021/0002607559?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003777021?sid=001"/>
         <updated>2023-08-24T07:11:45.166Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005159889?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005159889?sid=001"/>
-        <updated>2023-08-24T07:11:45.166Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
