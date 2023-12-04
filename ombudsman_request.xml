@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-12-04T08:17:48.475Z</updated>
+    <updated>2023-12-04T09:14:59.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] 2021. 9. 30.자 “수백억 혈세 펑펑 쓰는 과거  조사위, 친…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003802602</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003802602"/>
+        <updated>2023-12-04T09:14:47.891Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<검찰, ‘태블릿PC 조작설’ 언급 송영길에 “답변할 가치 없는 막말”> 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003264927</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003264927"/>
+        <updated>2023-12-04T09:14:47.891Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<‘장애통합반 어린이집’ 없애는 서울시, 윤정부 ‘사회서비스 시장화’의 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003264864</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003264864"/>
+        <updated>2023-12-04T09:14:47.894Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<'송영길 '태블릿PC 조작설' 주장에…檢 "막말, 답변가치 없…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0004967247</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0004967247"/>
+        <updated>2023-12-04T09:14:47.895Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈"직접 얘기나 들어보자"…'김포 서울 편입' 주민 설명회〉…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000368678</id>
@@ -186,33 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000769659"/>
         <updated>2023-11-14T01:52:34.998Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '대구로' 집중해부 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/657/0000020159</id>
-        <link href="https://n.news.naver.com/mnews/article/657/0000020159"/>
-        <updated>2023-11-14T01:52:34.998Z</updated>
-        <content type="html"><![CDATA[대구MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈사교와 로비, 그들은 왜 형제가 되었나〉 보도 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011597168</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011597168"/>
-        <updated>2023-11-08T08:16:04.895Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈일사천리 해상풍력 사업 뒤엔 ‘수상한 사교 모임’ 있었다…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011597167</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011597167"/>
-        <updated>2023-11-08T08:16:04.896Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다]<韓정부 향해 “남조선 괴뢰도당” 日친북단체 행사에 윤미…]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005207876</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005207876"/>
-        <updated>2023-11-01T08:16:33.765Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>

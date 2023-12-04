@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-12-04T08:17:48.419Z</updated>
+    <updated>2023-12-04T09:14:59.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문]『구멍 뚫린 현장…서울경찰 총경 남고 순경 '절반결원'』관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014370767?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014370767?sid=001"/>
+        <updated>2023-12-04T09:14:41.494Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] 「"너 나가~" 파리 목숨 국회 보좌진 근무 백태」 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000068796?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000068796?sid=001"/>
+        <updated>2023-12-04T09:14:41.495Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '패소 앙심에 폭언·방화…변호사들 분노 범죄 무방비' 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004920308?sid=001</id>
@@ -198,20 +212,6 @@
         <title type="html"><![CDATA[[바로잡습니다] 15일 자 A5면 '美 우주군, 北 ICBM 추적·요격 맡는다'기사 제목에서]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003781996?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003781996?sid=001"/>
-        <updated>2023-08-24T07:11:45.166Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005163682?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005163682?sid=001"/>
-        <updated>2023-08-24T07:11:45.166Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 20일 자 A23면 '오늘의 운세'에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003777021?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003777021?sid=001"/>
         <updated>2023-08-24T07:11:45.166Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
