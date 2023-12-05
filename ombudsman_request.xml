@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-12-05T05:13:33.480Z</updated>
+    <updated>2023-12-05T06:17:50.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 송영길 언급 ‘태블릿 PC 조작설’에 검찰 “막말 가까워”]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001657202</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001657202"/>
+        <updated>2023-12-05T06:17:37.779Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] 2021. 9. 30.자 “수백억 혈세 펑펑 쓰는 과거  조사위, 친…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003802602</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002412358"/>
         <updated>2023-11-14T01:52:34.998Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알림] '동급생 학폭 의혹' 명문고 야구부원, 이번엔 후배 학폭으로 또 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000769659</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000769659"/>
-        <updated>2023-11-14T01:52:34.998Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
