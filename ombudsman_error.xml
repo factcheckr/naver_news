@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-12-07T04:16:44.935Z</updated>
+    <updated>2023-12-07T05:13:27.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 2일 자 B1면 〈"가져갈 순 없잖아요? 하하" 수백억원 기부한 이 남자, 남은 재산도 다 내놓는다〉 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003803140?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003803140?sid=001"/>
+        <updated>2023-12-07T05:13:05.035Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문]『구멍 뚫린 현장…서울경찰 총경 남고 순경 '절반결원'』관련]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014370767?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003783490?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003783490?sid=001"/>
         <updated>2023-08-24T07:11:45.165Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 15일 자 A5면 '美 우주군, 北 ICBM 추적·요격 맡는다'기사 제목에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003781996?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003781996?sid=001"/>
-        <updated>2023-08-24T07:11:45.166Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

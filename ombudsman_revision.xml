@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-12-07T04:16:44.926Z</updated>
+    <updated>2023-12-07T05:13:27.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알립니다] 『쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥』 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000001765</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000001765"/>
+        <updated>2023-12-07T05:13:19.565Z</updated>
+        <content type="html"><![CDATA[뉴스타파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 송영길 언급 ‘태블릿 PC 조작설’에 검찰 “막말 가까워”]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001657202</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000769653"/>
         <updated>2023-11-22T20:13:42.515Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] '정율성 반대' 보훈단체 광주 집회, '보훈부 관제데…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412358</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412358"/>
-        <updated>2023-11-22T20:13:42.516Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
