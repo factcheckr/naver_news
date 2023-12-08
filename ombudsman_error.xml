@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-12-08T03:14:12.210Z</updated>
+    <updated>2023-12-08T04:16:15.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 6일자 A18면 '가족 붕괴·혼자 살기 예능 시대에' 기사 중]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003803714?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003803714?sid=001"/>
+        <updated>2023-12-08T04:15:51.832Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 2일 자 B1면 〈"가져갈 순 없잖아요? 하하" 수백억원 기부한 이 남자, 남은 재산도 다 내놓는다〉 기사 중]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003803140?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003783908?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003783908?sid=001"/>
         <updated>2023-09-05T08:16:32.336Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 22일 자 B4면 '제약·우유·화장품 이어 백화점도 뛰어든 건강기능식품' 기사에서]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003783490?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003783490?sid=001"/>
-        <updated>2023-08-24T07:11:45.165Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
