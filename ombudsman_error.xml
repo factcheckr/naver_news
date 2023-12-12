@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-12-12T10:14:45.720Z</updated>
+    <updated>2023-12-12T11:11:54.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -174,6 +174,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 서인천금고의 '수상한' 금리 보도 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000361959?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000361959?sid=001"/>
+        <updated>2023-12-12T11:11:33.657Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[바로잡습니다] 9월 11일자 8면 '폐허 된 중세고도 마라케시…'미션 임…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003307105?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003307105?sid=001"/>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003769808?sid=001"/>
         <updated>2023-12-12T08:17:30.209Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] "심정지 민노총 집회자 생명 구한 女기동대원들" 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003503874?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003503874?sid=001"/>
-        <updated>2023-12-12T08:17:30.210Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
