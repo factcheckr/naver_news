@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-12-12T07:12:37.578Z</updated>
+    <updated>2023-12-12T08:17:48.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] [이동관 “총선까지 방통위 마비시키려 폭주... 가짜 뉴…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003804232</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003804232"/>
+        <updated>2023-12-12T08:17:41.657Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<여의도 브라이튼 기부채납지> 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003804164</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003321247"/>
         <updated>2023-11-22T20:13:42.510Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'철근 누락' 아파트, 설계부터 부실…전문가 "이건 그리다…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000366869</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000366869"/>
-        <updated>2023-11-22T20:13:42.512Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
