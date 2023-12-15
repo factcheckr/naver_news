@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-12-15T07:12:30.430Z</updated>
+    <updated>2023-12-15T08:17:47.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 서울시 지방보조금 예산 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004925846</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004925846"/>
+        <updated>2023-12-15T08:17:36.008Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] [이동관 “총선까지 방통위 마비시키려 폭주... 가짜 뉴…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003804232</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003833434"/>
         <updated>2023-11-15T06:17:35.540Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] “野김병욱 보좌관이 尹상관 둔갑”…허위보도 연루 의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003321247</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003321247"/>
-        <updated>2023-11-14T01:52:34.982Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
