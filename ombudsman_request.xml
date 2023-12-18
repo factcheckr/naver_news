@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-12-18T04:16:25.948Z</updated>
+    <updated>2023-12-18T05:13:33.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '방산보험 '불완전판매 논란'…K방산 발목' 등 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004926519</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004926519"/>
+        <updated>2023-12-18T05:13:20.898Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] 미국 출장 DL회장…국감 불출석 논란〉  보도 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011623315</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011623315"/>
+        <updated>2023-12-18T05:13:20.898Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] 서울시 지방보조금 예산 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004925846</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/119/0002769316"/>
         <updated>2023-11-15T06:17:35.525Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ＜[단독] 테니스협회장의 전횡...곳곳에 '배임 의혹'도＞ 등…]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001960162</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001960162"/>
-        <updated>2023-11-15T06:17:35.537Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도]진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003833434</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003833434"/>
-        <updated>2023-11-15T06:17:35.540Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
