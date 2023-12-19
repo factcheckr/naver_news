@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2023-12-19T18:15:10.693Z</updated>
+    <updated>2023-12-19T19:09:17.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 19일 자 A8면 ‘美 셰일의 역습… 두 개의 전쟁·사우디 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003805880?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003805880?sid=001"/>
+        <updated>2023-12-19T19:08:58.349Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 6일자 A18면 '가족 붕괴·혼자 살기 예능 시대에' 기사 …]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003803714?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003783908?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003783908?sid=001"/>
         <updated>2023-09-05T08:16:32.336Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 '롯데케미칼 대산공장 노조, 민노총 탈퇴…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003769808?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003769808?sid=001"/>
-        <updated>2023-12-12T08:17:30.209Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
