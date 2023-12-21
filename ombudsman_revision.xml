@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2023-12-21T04:17:31.811Z</updated>
+    <updated>2023-12-21T05:13:37.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도 및 반론보도] <[OK!제보] 작은 아파트단지의…> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014402717</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014402717"/>
+        <updated>2023-12-21T05:13:30.685Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '방산보험 '불완전판매 논란'…K방산 발목' 등 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004926519</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/417/0000962491"/>
         <updated>2023-11-22T20:13:42.505Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 검찰 "송영길, 점점 사실 왜곡하고 억지 주장…터무니 없는 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002769316</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002769316"/>
-        <updated>2023-11-22T20:13:42.506Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
