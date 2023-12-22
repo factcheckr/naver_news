@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2023-12-22T08:16:44.037Z</updated>
+    <updated>2023-12-22T09:13:09.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] <'취약보육' 민간에 넘기겠다?‥무늬뿐인 서울시의 '약자와…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001320288</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001320288"/>
+        <updated>2023-12-22T09:12:56.689Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈[단독] 고발인 변호사가 피고발인에게 고발장 넘겨…증거 …]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011628120</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/047/0002412865</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002412865"/>
         <updated>2023-11-16T07:12:30.616Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] 대통령이 참관한 그 수업들, 그날만 '교실 바꿔치…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412862</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412862"/>
-        <updated>2023-11-16T07:12:30.617Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
