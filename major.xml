@@ -2,36 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/main.naver?mode=LSD&amp;mid=shm&amp;sid1=100</id>
     <title>네이버 뉴스 ─ 분야별 주요뉴스</title>
-    <updated>2023-12-25T10:14:10.929Z</updated>
+    <updated>2023-12-25T11:11:24.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[‘이낙연 포용·공정한 공천’ 강조한 정세균·김부겸…“분열하면 총선 패배”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001661855?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001661855?sid=100"/>
-        <updated>2023-12-25T10:13:46.842Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001661855?sid=100" class="nclicks(rig.secteco)" title="‘이낙연 포용·공정한 공천’ 강조한 정세균·김부겸…“분열하면 총선 패배”">‘이낙연 포용·공정한 공천’ 강조한 정세균·김부겸…“분열하면 총선 패배”</a>]]></content>
+        <title type="html"><![CDATA[탈당 예고 하루 앞둔 이준석, 신당 창당 결행하나]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004929136?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004929136?sid=100"/>
+        <updated>2023-12-25T11:10:58.898Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004929136?sid=100" class="nclicks(rig.secteco)" title="탈당 예고 하루 앞둔 이준석, 신당 창당 결행하나">탈당 예고 하루 앞둔 이준석, 신당 창당 결행하나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문재인 "아기 예수, 가장 가난한 모습으로 태어나…가장 중요한 의미"]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007252533?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007252533?sid=100"/>
-        <updated>2023-12-25T10:13:46.842Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007252533?sid=100" class="nclicks(rig.secteco)" title="문재인 &quot;아기 예수, 가장 가난한 모습으로 태어나…가장 중요한 의미&quot;">문재인 "아기 예수, 가장 가난한 모습으로 태어나…가장 중요한 의미"</a>]]></content>
+        <title type="html"><![CDATA[정세균·김부겸 “필요하면 이재명·이낙연도 함께 보자”]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003269332?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003269332?sid=100"/>
+        <updated>2023-12-25T11:10:58.900Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003269332?sid=100" class="nclicks(rig.secteco)" title="정세균·김부겸 “필요하면 이재명·이낙연도 함께 보자”">정세균·김부겸 “필요하면 이재명·이낙연도 함께 보자”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[험지·요충지 출마 검토하는 ‘尹 사람들’… 새바람 일으킬까]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001662071?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001662071?sid=100"/>
-        <updated>2023-12-25T10:13:46.844Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001662071?sid=100" class="nclicks(rig.secteco)" title="험지·요충지 출마 검토하는 ‘尹 사람들’… 새바람 일으킬까">험지·요충지 출마 검토하는 ‘尹 사람들’… 새바람 일으킬까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“여자 ‘눈물 냄새’만 맡아도…남성 ‘이것’ 줄어든다”]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003419075?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003419075?sid=103"/>
-        <updated>2023-12-25T10:13:46.845Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/081/0003419075?sid=103" class="nclicks(rig.secteco)" title="“여자 ‘눈물 냄새’만 맡아도…남성 ‘이것’ 줄어든다”">“여자 ‘눈물 냄새’만 맡아도…남성 ‘이것’ 줄어든다”</a>]]></content>
+        <title type="html"><![CDATA['계파갈등에 집안싸움까지' 민주당 공천 갈등 어디까지]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001788977?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001788977?sid=100"/>
+        <updated>2023-12-25T11:10:58.903Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/057/0001788977?sid=100" class="nclicks(rig.secteco)" title="'계파갈등에 집안싸움까지' 민주당 공천 갈등 어디까지">'계파갈등에 집안싸움까지' 민주당 공천 갈등 어디까지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일밤 아내에 수면제를?… 쓸데없는 농담에 사퇴위기 놓인 장관[人사이더]]]></title>
@@ -41,73 +34,80 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/029/0002845368?sid=104" class="nclicks(rig.secteco)" title=" 매일밤 아내에 수면제를?… 쓸데없는 농담에 사퇴위기 놓인 장관[人사이더]"> 매일밤 아내에 수면제를?… 쓸데없는 농담에 사퇴위기 놓인 장관[人사이더]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농식품부 "할당관세 적용에 망고·바나나 가격 하락"]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014408588?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014408588?sid=101"/>
-        <updated>2023-12-25T10:13:46.848Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014408588?sid=101" class="nclicks(rig.secteco)" title="농식품부 &quot;할당관세 적용에 망고·바나나 가격 하락&quot;">농식품부 "할당관세 적용에 망고·바나나 가격 하락"</a>]]></content>
+        <title type="html"><![CDATA[성탄 전야엔 산타 추적하는 우주방위군 "서울 11시 25분 도착"]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001976834?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001976834?sid=104"/>
+        <updated>2023-12-25T11:10:58.905Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001976834?sid=104" class="nclicks(rig.secteco)" title="성탄 전야엔 산타 추적하는 우주방위군 &quot;서울 11시 25분 도착&quot;">성탄 전야엔 산타 추적하는 우주방위군 "서울 11시 25분 도착"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BNP파리바, 불법 공매도 과징금 190억]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005235025?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005235025?sid=101"/>
-        <updated>2023-12-25T10:13:46.850Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005235025?sid=101" class="nclicks(rig.secteco)" title="BNP파리바, 불법 공매도 과징금 190억">BNP파리바, 불법 공매도 과징금 190억</a>]]></content>
+        <title type="html"><![CDATA[‘불법공매도’ 글로벌IB 과징금 265억…역대 최대]]></title>
+        <id>https://n.news.naver.com/mnews/article/215/0001140667?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/215/0001140667?sid=101"/>
+        <updated>2023-12-25T11:10:58.908Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/215/0001140667?sid=101" class="nclicks(rig.secteco)" title="‘불법공매도’ 글로벌IB 과징금 265억…역대 최대">‘불법공매도’ 글로벌IB 과징금 265억…역대 최대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자동차 사고기록장치 기록항목 확대…기록조건도 강화]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001117277?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001117277?sid=102"/>
-        <updated>2023-12-25T10:13:46.852Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/055/0001117277?sid=102" class="nclicks(rig.secteco)" title="자동차 사고기록장치 기록항목 확대…기록조건도 강화">자동차 사고기록장치 기록항목 확대…기록조건도 강화</a>]]></content>
+        <title type="html"><![CDATA[산업R&D 예산 5조800억…'다이어트' 속 첨단산업·경제안보 증액]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014408582?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014408582?sid=100"/>
+        <updated>2023-12-25T11:10:58.908Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014408582?sid=100" class="nclicks(rig.secteco)" title="산업R&amp;D 예산 5조800억…'다이어트' 속 첨단산업·경제안보 증액">산업R&amp;D 예산 5조800억…'다이어트' 속 첨단산업·경제안보 증액</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 60만원대 태블릿 ‘갤럭시탭 S9 FE’ 출시]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003269440?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003269440?sid=101"/>
-        <updated>2023-12-25T09:13:12.153Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003269440?sid=101" class="nclicks(rig.secteco)" title="삼성전자, 60만원대 태블릿 ‘갤럭시탭 S9 FE’ 출시">삼성전자, 60만원대 태블릿 ‘갤럭시탭 S9 FE’ 출시</a>]]></content>
+        <title type="html"><![CDATA[‘1분으로 확 줄인 홈쇼핑’... GS샵, ‘숏픽’ 선보여]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000957406?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000957406?sid=101"/>
+        <updated>2023-12-25T11:10:58.910Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000957406?sid=101" class="nclicks(rig.secteco)" title="‘1분으로 확 줄인 홈쇼핑’... GS샵, ‘숏픽’ 선보여">‘1분으로 확 줄인 홈쇼핑’... GS샵, ‘숏픽’ 선보여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['몸값 130조' 오픈AI, 또 자금조달]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004928868?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004928868?sid=105"/>
-        <updated>2023-12-25T10:13:46.858Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004928868?sid=105" class="nclicks(rig.secteco)" title="'몸값 130조' 오픈AI, 또 자금조달">'몸값 130조' 오픈AI, 또 자금조달</a>]]></content>
+        <title type="html"><![CDATA[오픈AI 몸값, 130조까지 올랐다…AI '쩐의 전쟁' 뒤 짙어진 그늘 [팩플]]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003330848?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003330848?sid=105"/>
+        <updated>2023-12-25T11:10:58.912Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003330848?sid=105" class="nclicks(rig.secteco)" title="오픈AI 몸값, 130조까지 올랐다…AI '쩐의 전쟁' 뒤 짙어진 그늘 [팩플]">오픈AI 몸값, 130조까지 올랐다…AI '쩐의 전쟁' 뒤 짙어진 그늘 [팩플]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[검찰, 송영길 구속 뒤 네 번째 소환 통보‥"조사받아야"]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001320589?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001320589?sid=102"/>
-        <updated>2023-12-25T10:13:46.860Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001320589?sid=102" class="nclicks(rig.secteco)" title="검찰, 송영길 구속 뒤 네 번째 소환 통보‥&quot;조사받아야&quot;">검찰, 송영길 구속 뒤 네 번째 소환 통보‥"조사받아야"</a>]]></content>
+        <title type="html"><![CDATA[침 속 스트레스 호르몬은 알고 있었네...누가 얼마나 우울한지[벤처하는 의사들]]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000957363?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000957363?sid=105"/>
+        <updated>2023-12-25T11:10:58.915Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/366/0000957363?sid=105" class="nclicks(rig.secteco)" title=" 침 속 스트레스 호르몬은 알고 있었네...누가 얼마나 우울한지[벤처하는 의사들]"> 침 속 스트레스 호르몬은 알고 있었네...누가 얼마나 우울한지[벤처하는 의사들]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[명동에만 10만명… 성탄전야 서울 번화가 6곳에 30만명 몰렸다]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001662020?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001662020?sid=102"/>
-        <updated>2023-12-25T10:13:46.861Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001662020?sid=102" class="nclicks(rig.secteco)" title="명동에만 10만명… 성탄전야 서울 번화가 6곳에 30만명 몰렸다">명동에만 10만명… 성탄전야 서울 번화가 6곳에 30만명 몰렸다</a>]]></content>
+        <title type="html"><![CDATA[성탄절 새벽 도봉구 아파트 화재…2명 사망, 주민 200여명 대피(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007252703?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007252703?sid=102"/>
+        <updated>2023-12-25T11:10:58.916Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007252703?sid=102" class="nclicks(rig.secteco)" title="성탄절 새벽 도봉구 아파트 화재…2명 사망, 주민 200여명 대피(종합)">성탄절 새벽 도봉구 아파트 화재…2명 사망, 주민 200여명 대피(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서울 지하철 노선도 40년만에 변경…“2호선 중심 놓고 지리정보 반영”]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005234882?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005234882?sid=100"/>
-        <updated>2023-12-25T10:13:46.863Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005234882?sid=100" class="nclicks(rig.secteco)" title="서울 지하철 노선도 40년만에 변경…“2호선 중심 놓고 지리정보 반영”">서울 지하철 노선도 40년만에 변경…“2호선 중심 놓고 지리정보 반영”</a>]]></content>
+        <title type="html"><![CDATA[세종 목욕탕서 70대 여성 입욕객 감전…2명 사망·1명 심정지(종합)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005358975?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005358975?sid=102"/>
+        <updated>2023-12-25T11:10:58.918Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005358975?sid=102" class="nclicks(rig.secteco)" title="세종 목욕탕서 70대 여성 입욕객 감전…2명 사망·1명 심정지(종합)">세종 목욕탕서 70대 여성 입욕객 감전…2명 사망·1명 심정지(종합)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['서울의 봄' 33일만에 1000만명 돌파]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004928812?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004928812?sid=103"/>
-        <updated>2023-12-25T10:13:46.864Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004928812?sid=103" class="nclicks(rig.secteco)" title="'서울의 봄' 33일만에 1000만명 돌파">'서울의 봄' 33일만에 1000만명 돌파</a>]]></content>
+        <title type="html"><![CDATA[서울 지하철 역 ‘단번에’ 찾는다…노선도 40년 만에 개편]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002612613?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002612613?sid=102"/>
+        <updated>2023-12-25T11:10:58.919Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/021/0002612613?sid=102" class="nclicks(rig.secteco)" title="서울 지하철 역 ‘단번에’ 찾는다…노선도 40년 만에 개편">서울 지하철 역 ‘단번에’ 찾는다…노선도 40년 만에 개편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연휴 벌써 지나갔나…날씨라도 덜 춥네]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003269444?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003269444?sid=103"/>
-        <updated>2023-12-25T10:13:46.866Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003269444?sid=103" class="nclicks(rig.secteco)" title="연휴 벌써 지나갔나…날씨라도 덜 춥네">연휴 벌써 지나갔나…날씨라도 덜 춥네</a>]]></content>
+        <title type="html"><![CDATA[‘서울의 봄’ 천만 돌파…올해 두 번째]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011628765?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011628765?sid=103"/>
+        <updated>2023-12-25T11:10:58.921Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011628765?sid=103" class="nclicks(rig.secteco)" title="‘서울의 봄’ 천만 돌파…올해 두 번째">‘서울의 봄’ 천만 돌파…올해 두 번째</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["결국 이 지경" 노홍철 깜짝 근황…휠체어에 지팡이, 대체 뭔일]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003330712?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003330712?sid=103"/>
+        <updated>2023-12-25T11:10:58.923Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003330712?sid=103" class="nclicks(rig.secteco)" title="&quot;결국 이 지경&quot; 노홍철 깜짝 근황…휠체어에 지팡이, 대체 뭔일">"결국 이 지경" 노홍철 깜짝 근황…휠체어에 지팡이, 대체 뭔일</a>]]></content>
     </entry>
 </feed>
