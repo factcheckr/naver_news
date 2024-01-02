@@ -2,63 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-02T15:13:38.688Z</updated>
+    <updated>2024-01-02T16:14:58.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[홍준표, 이재명 피습에 “2006년 박근혜 연상…증오정치의 비극” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001663791?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001663791?sid=100"/>
-        <updated>2024-01-02T15:13:13.887Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/005/0001663791?sid=100" class="nclicks(rig.secteco)" title="홍준표, 이재명 피습에 “2006년 박근혜 연상…증오정치의 비극”">홍준표, 이재명 피습에 “2006년 박근혜 연상…증오정치의 비극”</a>]]></content>
+        <title type="html"><![CDATA[이재명 피습에 여야 일정도 줄줄이 취소‥민주당은 비상의총 소집 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001322085?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001322085?sid=100"/>
+        <updated>2024-01-02T16:14:33.594Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001322085?sid=100" class="nclicks(rig.secteco)" title="이재명 피습에 여야 일정도 줄줄이 취소‥민주당은 비상의총 소집">이재명 피습에 여야 일정도 줄줄이 취소‥민주당은 비상의총 소집</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[용의자 ‘종이왕관’ 지난 달에도…이재명 부산 방문 현장에 있었다 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005238559?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005238559?sid=100"/>
-        <updated>2024-01-02T15:13:13.889Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/009/0005238559?sid=100" class="nclicks(rig.secteco)" title="용의자 ‘종이왕관’ 지난 달에도…이재명 부산 방문 현장에 있었다">용의자 ‘종이왕관’ 지난 달에도…이재명 부산 방문 현장에 있었다</a>]]></content>
+        <title type="html"><![CDATA[문재인, 당 지도부에 “이재명 대표 쾌유 위해 집중해달라” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003271028?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003271028?sid=100"/>
+        <updated>2024-01-02T16:14:33.595Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/032/0003271028?sid=100" class="nclicks(rig.secteco)" title="문재인, 당 지도부에 “이재명 대표 쾌유 위해 집중해달라”">문재인, 당 지도부에 “이재명 대표 쾌유 위해 집중해달라”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이재명, 2시간 수술 후 의식 회복"…퇴원 일정 미정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004981189?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004981189?sid=100"/>
-        <updated>2024-01-02T15:13:13.890Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004981189?sid=100" class="nclicks(rig.secteco)" title="&quot;이재명, 2시간 수술 후 의식 회복&quot;…퇴원 일정 미정">"이재명, 2시간 수술 후 의식 회복"…퇴원 일정 미정</a>]]></content>
+        <title type="html"><![CDATA[윤 대통령 “금투세 폐지 추진”…여야 합의 뒤집고 포퓰리즘 질주 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002671110?sid=100</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002671110?sid=100"/>
+        <updated>2024-01-02T16:14:33.596Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/028/0002671110?sid=100" class="nclicks(rig.secteco)" title="윤 대통령 “금투세 폐지 추진”…여야 합의 뒤집고 포퓰리즘 질주">윤 대통령 “금투세 폐지 추진”…여야 합의 뒤집고 포퓰리즘 질주</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외교부, 日쓰나미 경보 독도 자국땅 표기에 "엄중 항의·시정 요구" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007267034?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007267034?sid=100"/>
-        <updated>2024-01-02T15:13:13.892Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007267034?sid=100" class="nclicks(rig.secteco)" title="외교부, 日쓰나미 경보 독도 자국땅 표기에 &quot;엄중 항의·시정 요구&quot;">외교부, 日쓰나미 경보 독도 자국땅 표기에 "엄중 항의·시정 요구"</a>]]></content>
+        <title type="html"><![CDATA['中부품 배터리' 배제하자 美보조금 받는 전기차 모델 43→19개 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014420015?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014420015?sid=104"/>
+        <updated>2024-01-02T16:14:33.597Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/001/0014420015?sid=104" class="nclicks(rig.secteco)" title="'中부품 배터리' 배제하자 美보조금 받는 전기차 모델 43→19개">'中부품 배터리' 배제하자 美보조금 받는 전기차 모델 43→19개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외교부 "日 하네다공항 JAL 항공기 화재 관련 한국인 피해 없어" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004981199?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004981199?sid=100"/>
-        <updated>2024-01-02T15:13:13.894Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004981199?sid=100" class="nclicks(rig.secteco)" title="외교부 &quot;日 하네다공항 JAL 항공기 화재 관련 한국인 피해 없어&quot;">외교부 "日 하네다공항 JAL 항공기 화재 관련 한국인 피해 없어"</a>]]></content>
+        <title type="html"><![CDATA[이스라엘, 가자서 수천명 병력 철수 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004931768?sid=104</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004931768?sid=104"/>
+        <updated>2024-01-02T16:14:33.598Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/015/0004931768?sid=104" class="nclicks(rig.secteco)" title="이스라엘, 가자서 수천명 병력 철수">이스라엘, 가자서 수천명 병력 철수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허윤홍 GS건설 대표 “선택과 집중 기반 중장기 사업 추진” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002246513?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002246513?sid=101"/>
-        <updated>2024-01-02T15:13:13.896Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002246513?sid=101" class="nclicks(rig.secteco)" title="허윤홍 GS건설 대표 “선택과 집중 기반 중장기 사업 추진”">허윤홍 GS건설 대표 “선택과 집중 기반 중장기 사업 추진”</a>]]></content>
+        <title type="html"><![CDATA[신창재 교보생명 대표 “디지털 환경, 개방형 혁신 중요”[신년사] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005647632?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005647632?sid=101"/>
+        <updated>2024-01-02T16:14:33.600Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/018/0005647632?sid=101" class="nclicks(rig.secteco)" title="신창재 교보생명 대표 “디지털 환경, 개방형 혁신 중요”[신년사]">신창재 교보생명 대표 “디지털 환경, 개방형 혁신 중요”[신년사]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술인재 육성 박차…삼성, 역대 최다 '명장' 15인 선정 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005361857?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005361857?sid=101"/>
-        <updated>2024-01-02T15:13:13.904Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/277/0005361857?sid=101" class="nclicks(rig.secteco)" title="기술인재 육성 박차…삼성, 역대 최다 '명장' 15인 선정">기술인재 육성 박차…삼성, 역대 최다 '명장' 15인 선정</a>]]></content>
+        <title type="html"><![CDATA[삼성證 슈퍼리치 선정 올해 금융시장 사자성어는 ‘거안사위’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002785443?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002785443?sid=101"/>
+        <updated>2024-01-02T16:14:33.603Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/119/0002785443?sid=101" class="nclicks(rig.secteco)" title="삼성證 슈퍼리치 선정 올해 금융시장 사자성어는 ‘거안사위’">삼성證 슈퍼리치 선정 올해 금융시장 사자성어는 ‘거안사위’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최윤호 삼성SDI 사장 "차원 다른 변화·혁신 필요한 시기" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/648/0000022191?sid=101</id>
-        <link href="https://n.news.naver.com/mnews/article/648/0000022191?sid=101"/>
-        <updated>2024-01-02T15:13:13.904Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/648/0000022191?sid=101" class="nclicks(rig.secteco)" title="최윤호 삼성SDI 사장 &quot;차원 다른 변화·혁신 필요한 시기&quot;">최윤호 삼성SDI 사장 "차원 다른 변화·혁신 필요한 시기"</a>]]></content>
+        <title type="html"><![CDATA[건설사 ‘우발부채’ 주먹구구 공시 막는다…금감원, 모범사례 마련 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011633981?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011633981?sid=101"/>
+        <updated>2024-01-02T16:14:33.606Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011633981?sid=101" class="nclicks(rig.secteco)" title="건설사 ‘우발부채’ 주먹구구 공시 막는다…금감원, 모범사례 마련">건설사 ‘우발부채’ 주먹구구 공시 막는다…금감원, 모범사례 마련</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스넷그룹 조직개편…“그룹간 시너지 및 내실 강화” (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/138/0002164093?sid=105</id>
+        <link href="https://n.news.naver.com/mnews/article/138/0002164093?sid=105"/>
+        <updated>2024-01-02T16:14:33.609Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/138/0002164093?sid=105" class="nclicks(rig.secteco)" title="에스넷그룹 조직개편…“그룹간 시너지 및 내실 강화”">에스넷그룹 조직개편…“그룹간 시너지 및 내실 강화”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[류희림 "허위 조작 콘텐츠 대응이 새해 당면 과제" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
@@ -68,46 +75,39 @@
         <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/052/0001979929?sid=101" class="nclicks(rig.secteco)" title="류희림 &quot;허위 조작 콘텐츠 대응이 새해 당면 과제&quot;">류희림 "허위 조작 콘텐츠 대응이 새해 당면 과제"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SKT 유영상 "글로벌 AI컴퍼니 전략의 성과 거두자" (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004980667?sid=105</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004980667?sid=105"/>
-        <updated>2024-01-02T15:13:13.904Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/008/0004980667?sid=105" class="nclicks(rig.secteco)" title="SKT 유영상 &quot;글로벌 AI컴퍼니 전략의 성과 거두자&quot;">SKT 유영상 "글로벌 AI컴퍼니 전략의 성과 거두자"</a>]]></content>
+        <title type="html"><![CDATA[日 지진 여파…강원 묵호에 높이 67㎝ 지진해일 관측 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003540191?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003540191?sid=102"/>
+        <updated>2024-01-02T16:14:33.612Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/020/0003540191?sid=102" class="nclicks(rig.secteco)" title="日 지진 여파…강원 묵호에 높이 67㎝ 지진해일 관측">日 지진 여파…강원 묵호에 높이 67㎝ 지진해일 관측</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대구 찾은 한동훈 경호도 비상…경찰, 240명 신변보호팀 배치 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003332532?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003332532?sid=102"/>
-        <updated>2024-01-02T15:13:13.904Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/025/0003332532?sid=102" class="nclicks(rig.secteco)" title="대구 찾은 한동훈 경호도 비상…경찰, 240명 신변보호팀 배치">대구 찾은 한동훈 경호도 비상…경찰, 240명 신변보호팀 배치</a>]]></content>
+        <title type="html"><![CDATA[심야 무면허 운전 ‘라이브 방송’…10대 두 명 검거 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011634262?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011634262?sid=102"/>
+        <updated>2024-01-02T16:14:33.614Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/056/0011634262?sid=102" class="nclicks(rig.secteco)" title="심야 무면허 운전 ‘라이브 방송’…10대 두 명 검거">심야 무면허 운전 ‘라이브 방송’…10대 두 명 검거</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 공무원 보수 전년 대비 2.5% 인상…9급 공무원 초임 연봉 3000만 원 넘어 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004281672?sid=100</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004281672?sid=100"/>
-        <updated>2024-01-02T15:13:13.905Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/011/0004281672?sid=100" class="nclicks(rig.secteco)" title="올해 공무원 보수 전년 대비 2.5% 인상…9급 공무원 초임 연봉 3000만 원 넘어">올해 공무원 보수 전년 대비 2.5% 인상…9급 공무원 초임 연봉 3000만 원 넘어</a>]]></content>
+        <title type="html"><![CDATA[광양제철소장에 이동렬 포스코엠텍 사장 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002246593?sid=101</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002246593?sid=101"/>
+        <updated>2024-01-02T16:14:33.615Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/016/0002246593?sid=101" class="nclicks(rig.secteco)" title="광양제철소장에 이동렬 포스코엠텍 사장">광양제철소장에 이동렬 포스코엠텍 사장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동작구, 공공기관 '종합청렴도' 5년 연속 2등급 달성 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007267244?sid=102</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007267244?sid=102"/>
-        <updated>2024-01-02T15:13:13.906Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/421/0007267244?sid=102" class="nclicks(rig.secteco)" title="동작구, 공공기관 '종합청렴도' 5년 연속 2등급 달성">동작구, 공공기관 '종합청렴도' 5년 연속 2등급 달성</a>]]></content>
+        <title type="html"><![CDATA[새벽 사이 전국 곳곳에 눈·비…빙판길 조심[내일날씨] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003890242?sid=103</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003890242?sid=103"/>
+        <updated>2024-01-02T16:14:33.617Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/022/0003890242?sid=103" class="nclicks(rig.secteco)" title=" 새벽 사이 전국 곳곳에 눈·비…빙판길 조심[내일날씨]"> 새벽 사이 전국 곳곳에 눈·비…빙판길 조심[내일날씨]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내일 곳곳 눈·비‥스모그 유입돼[날씨] (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001322106?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001322106?sid=103"/>
-        <updated>2024-01-02T15:13:13.908Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/214/0001322106?sid=103" class="nclicks(rig.secteco)" title=" 내일 곳곳 눈·비‥스모그 유입돼[날씨]"> 내일 곳곳 눈·비‥스모그 유입돼[날씨]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수요일(3일) 전국 곳곳 비?눈…큰 추위 없지만 미세먼지 ‘나쁨’ (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
-        <id>https://n.news.naver.com/mnews/article/662/0000034952?sid=103</id>
-        <link href="https://n.news.naver.com/mnews/article/662/0000034952?sid=103"/>
-        <updated>2024-01-02T15:13:13.909Z</updated>
-        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/662/0000034952?sid=103" class="nclicks(rig.secteco)" title="수요일(3일) 전국 곳곳 비?눈…큰 추위 없지만 미세먼지 ‘나쁨’">수요일(3일) 전국 곳곳 비?눈…큰 추위 없지만 미세먼지 ‘나쁨’</a>]]></content>
+        <title type="html"><![CDATA['암표' 때문에 콘서트 표 전체 취소…막을 방법 없나 (네이버 뉴스 ─ 분야별 주요뉴스)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000373414?sid=102</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000373414?sid=102"/>
+        <updated>2024-01-02T16:14:33.618Z</updated>
+        <content type="html"><![CDATA[<a href="https://n.news.naver.com/mnews/article/437/0000373414?sid=102" class="nclicks(rig.secteco)" title="'암표' 때문에 콘서트 표 전체 취소…막을 방법 없나">'암표' 때문에 콘서트 표 전체 취소…막을 방법 없나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 19일 자 A8면 ‘美 셰일의 역습… 두 개의 전쟁·사우디 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
