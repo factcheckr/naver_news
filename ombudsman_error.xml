@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-01-02T22:12:11.728Z</updated>
+    <updated>2024-01-02T23:13:13.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001322244?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001322244?sid=001"/>
+        <updated>2024-01-02T23:12:56.927Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 19일 자 A8면 ‘美 셰일의 역습… 두 개의 전쟁·사우디 …]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003805880?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/448/0000426800?sid=001"/>
         <updated>2023-09-24T19:09:38.217Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 25일 자 A4면 '北 정찰위성 발사 실패, 2단 분리는 성공…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003783908?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003783908?sid=001"/>
-        <updated>2023-09-05T08:16:32.336Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
