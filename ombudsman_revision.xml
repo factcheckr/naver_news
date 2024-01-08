@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-07T23:12:48.669Z</updated>
+    <updated>2024-01-08T00:59:51.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜영유아 식판 세척 업체 관리는 어디서 하나요?＞ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001982208</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001982208"/>
+        <updated>2024-01-08T00:59:44.928Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] <'취약보육' 민간에 넘기겠다?‥무늬뿐인 서울시의 '약자와…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001320288</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/047/0002412866</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002412866"/>
         <updated>2023-11-22T20:13:42.501Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「학폭 행심 5배 폭증... 교권침해까지 기재하면 "학교는 소…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412865</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412865"/>
-        <updated>2023-11-22T20:13:42.502Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
