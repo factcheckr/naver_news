@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-09T02:32:44.888Z</updated>
+    <updated>2024-01-09T03:14:59.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] 서울시의회, 월 수당 50만원 셀프 인상... 법 위반…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002418285</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002418285"/>
+        <updated>2024-01-09T03:14:52.650Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜영유아 식판 세척 업체 관리는 어디서 하나요?＞ 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001982208</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/047/0002412867</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002412867"/>
         <updated>2023-11-22T20:13:42.498Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「'교권 보호' 하겠다더니... 결국은 학생 인권 공격?」 기…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412866</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412866"/>
-        <updated>2023-11-22T20:13:42.501Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
