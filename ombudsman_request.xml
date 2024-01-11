@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-01-11T06:17:43.499Z</updated>
+    <updated>2024-01-11T07:12:43.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '불법 녹취 사건 핵심증거 '휴대폰' 압수 안 한 경찰…봐주…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000260179</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000260179"/>
+        <updated>2024-01-11T07:12:30.260Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] 서울시의회, 월 수당 50만원 셀프 인상... 법 위반…]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002418285</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/047/0002412868</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002412868"/>
         <updated>2023-11-16T07:12:30.613Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「교원단체 골라서 간담회?... 이주호, 4개 단체 '내치기' …]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412867</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412867"/>
-        <updated>2023-11-16T07:12:30.614Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
