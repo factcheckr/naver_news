@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-01-12T09:14:09.809Z</updated>
+    <updated>2024-01-12T10:14:41.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 안산시 공공기관 노조탄압 보도 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000375071</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000375071"/>
+        <updated>2024-01-12T10:14:29.336Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '불법 녹취 사건 핵심증거 '휴대폰' 압수 안 한 경찰…봐주…]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000260179</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003261988"/>
         <updated>2023-11-20T05:13:29.793Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「이주호 장관님 과거에는 안 이랬잖아요」 기사 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002412868</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002412868"/>
-        <updated>2023-11-16T07:12:30.613Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
