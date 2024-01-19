@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-01-19T11:12:02.651Z</updated>
+    <updated>2024-01-19T12:25:03.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오보를 바로잡습니다] 《與 비대위원 박은식 "광주폭동을 민주화 운동…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000071485?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000071485?sid=001"/>
+        <updated>2024-01-19T12:24:45.331Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 2023년 12월 13일자 A25면, '대우조선 분식회계'로 손해…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004938957?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003794158?sid=001"/>
         <updated>2023-10-23T02:21:12.695Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도]"실천문학사 '성추문' 고은 시집 재판매 사흘만에 또 중단" …]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005599343?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005599343?sid=001"/>
-        <updated>2023-10-19T06:17:36.525Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
