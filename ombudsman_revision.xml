@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-21T04:15:50.442Z</updated>
+    <updated>2024-01-21T05:34:03.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <‘이재명 수사 무마’  김수남 전 검찰총장 조사하나…‘이석기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003336405</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003336405"/>
+        <updated>2024-01-21T05:33:57.578Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]<‘남남 성추행’ 상병헌 전 세종시의장 첫 재판 12월7일> 등 …]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012319848</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0004964321"/>
         <updated>2024-01-14T06:16:55.735Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<[단독] 국책 연구기관 26곳, 尹정부 출범 후에도 ‘文 국정과…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799856</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799856"/>
-        <updated>2024-01-14T06:16:55.737Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
