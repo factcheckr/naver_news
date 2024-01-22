@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-22T05:13:37.628Z</updated>
+    <updated>2024-01-22T06:18:43.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]「"유기견 보낼 테니 입양비 달라"…돈벌이로 변질된 단체」…]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001124692</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001124692"/>
+        <updated>2024-01-22T06:18:36.122Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <‘이재명 수사 무마’  김수남 전 검찰총장 조사하나…‘이석기…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003336405</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/119/0002771562"/>
         <updated>2024-01-14T06:16:55.734Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도] 진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004964321</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004964321"/>
-        <updated>2024-01-14T06:16:55.735Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
