@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-01-23T17:12:40.029Z</updated>
+    <updated>2024-01-23T18:17:11.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003544399?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003544399?sid=001"/>
+        <updated>2024-01-23T18:16:51.679Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] "與 비대위원 박은식 '광주폭동을 민주화 운동으로 포장…]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002316708?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003795258?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003795258?sid=001"/>
         <updated>2023-10-25T02:19:53.657Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 20일 자 A18면 '반 클라이번 우승 임윤찬, 명문 음반사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003795026?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003795026?sid=001"/>
-        <updated>2023-10-25T02:19:53.658Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
