@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-01-23T04:16:50.136Z</updated>
+    <updated>2024-01-23T05:13:44.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] "與 비대위원 박은식 '광주폭동을 민주화 운동으로 포장…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002316708?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002316708?sid=001"/>
+        <updated>2024-01-23T05:13:24.964Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 홍석준 “이재명 피습 가짜뉴스 심의? 민주당 내로남불” 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003897473?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003795026?sid=001"/>
         <updated>2023-10-25T02:19:53.658Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 정부 '오염수 진실' 영상 아나운서 국힘 당원? "가짜뉴스"]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002214098?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002214098?sid=001"/>
-        <updated>2023-10-25T02:19:53.663Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
