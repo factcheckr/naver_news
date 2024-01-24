@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-23T23:13:49.673Z</updated>
+    <updated>2024-01-24T01:00:44.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "석사논문 통과심사 앞두고 돌연 지도 거부" 60대 대학원생 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002316832</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002316832"/>
+        <updated>2024-01-24T01:00:37.609Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]「"유기견 보낼 테니 입양비 달라"…돈벌이로 변질된 단체」…]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001124692</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/262/0000016994"/>
         <updated>2024-01-14T06:16:55.733Z</updated>
         <content type="html"><![CDATA[신동아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알립니다] <'신사협정'으로 마련된 협치 분위기…노봉법·방송법 강행…]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002771562</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002771562"/>
-        <updated>2024-01-14T06:16:55.734Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
