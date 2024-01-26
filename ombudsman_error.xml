@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-01-26T04:16:29.496Z</updated>
+    <updated>2024-01-26T05:12:20.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도][오늘의 주요일정]대전·세종·충남(12월 07일 목요일)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012252775?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012252775?sid=001"/>
+        <updated>2024-01-26T05:12:01.277Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003544399?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003795937?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003795937?sid=001"/>
         <updated>2023-10-31T05:12:28.426Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 23일 자 A23면 '선수 때랑은 달라… 첫 승 거둔 정조국'…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003795258?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003795258?sid=001"/>
-        <updated>2023-10-25T02:19:53.657Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

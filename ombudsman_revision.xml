@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-26T04:16:29.509Z</updated>
+    <updated>2024-01-26T05:12:20.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]'남남 성추행' 혐의 상병헌 전 세종시의장 첫 재판 12월7일]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012182424</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012182424"/>
+        <updated>2024-01-26T05:12:13.582Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "석사논문 통과심사 앞두고 돌연 지도 거부" 60대 대학원생 …]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002316832</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000790546"/>
         <updated>2024-01-14T06:16:55.733Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 성남시 신흥동 법조단지 이전 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/262/0000016994</id>
-        <link href="https://n.news.naver.com/mnews/article/262/0000016994"/>
-        <updated>2024-01-14T06:16:55.733Z</updated>
-        <content type="html"><![CDATA[신동아]]></content>
     </entry>
 </feed>
