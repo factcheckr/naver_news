@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-01-29T07:13:05.632Z</updated>
+    <updated>2024-01-29T08:15:56.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] '성인 화보집' 만들어 판 중학교 교사…"취미생활일 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000377372</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000377372"/>
+        <updated>2024-01-29T08:15:50.773Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]'남남 성추행' 혐의 상병헌 전 세종시의장 첫 재판 12월7일]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012182424</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000771846"/>
         <updated>2024-01-14T06:16:55.733Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도] 진해 모 초등학교 교직원 새총으로 동료 차량 파손 혐의, 무…]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000790546</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000790546"/>
-        <updated>2024-01-14T06:16:55.733Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
