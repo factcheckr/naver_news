@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-01-31T09:12:40.974Z</updated>
+    <updated>2024-01-31T10:13:12.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000377768</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000377768"/>
+        <updated>2024-01-31T10:12:59.842Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] '성인 화보집' 만들어 판 중학교 교사…"취미생활일 …]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000377372</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001654632"/>
         <updated>2024-01-25T09:13:48.559Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유디치과' 관련 반론보도문]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000771957</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000771957"/>
-        <updated>2024-01-25T09:13:48.560Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
