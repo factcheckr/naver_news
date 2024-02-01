@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-02-01T18:15:26.528Z</updated>
+    <updated>2024-02-01T19:11:50.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 30일 자 A3면 〈살 빠지는 ‘나비약’ ‘좀비마약’ 펜타닐 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003814563?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003814563?sid=001"/>
+        <updated>2024-02-01T19:11:30.178Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 26일 자 A12면 〈부상 소방관 느는데, 간병비는 15년 전…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003813596?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003871298?sid=001"/>
         <updated>2024-01-31T04:15:28.986Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 30일 자 A4면 〈尹 "오늘은 가장 슬픈 날, 안전한 한국 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003796592?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003796592?sid=001"/>
-        <updated>2024-01-31T04:15:28.988Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
