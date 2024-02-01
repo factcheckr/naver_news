@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-01T07:12:54.468Z</updated>
+    <updated>2024-02-01T08:16:38.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <MBC 제3노조 "이준석! 첫 정강정책이 민주노총 영…]]></title>
+        <id>https://n.news.naver.com/mnews/article/119/0002795802</id>
+        <link href="https://n.news.naver.com/mnews/article/119/0002795802"/>
+        <updated>2024-02-01T08:16:32.179Z</updated>
+        <content type="html"><![CDATA[데일리안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000377768</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000368678"/>
         <updated>2024-01-14T06:16:55.723Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇠구슬 새총으로 동료 차 파손 혐의 교직원, 무죄 판결 확정]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001654632</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001654632"/>
-        <updated>2024-01-14T06:16:55.725Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
