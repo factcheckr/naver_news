@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-02T01:47:12.978Z</updated>
+    <updated>2024-02-02T02:19:31.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[<원전 비중 확대, 거꾸로 가는 윤 정부>기사 관련[반론보도] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/033/0000046786?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/033/0000046786?sid=001"/>
+        <updated>2024-02-02T02:19:12.254Z</updated>
+        <content type="html"><![CDATA[주간경향]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈원전 비중 확대, 거꾸로 가는 윤 정부〉기사 관련[반론보도] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003277050?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003277050?sid=001"/>
+        <updated>2024-02-02T02:19:12.254Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 6월 12일자 [중기 24시]기업사냥꾼에 지분-지원 잃어… “경… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003521971?sid=001</id>
@@ -198,20 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003799419?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003799419?sid=001"/>
         <updated>2023-11-16T07:12:20.708Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지난 6일 자 A20면 〈"미제레~미제레~" 프랑스어로 부르… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799215?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799215?sid=001"/>
-        <updated>2023-11-15T06:17:27.542Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지난 4일 자 B9면 <전봉관의 해방 거리를 걷다> 중 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003798991?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003798991?sid=001"/>
-        <updated>2023-11-14T01:52:28.422Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -428,7 +428,7 @@
         <title type="html"><![CDATA[[정정 및 반론보도] "'돌아온 김부선…' 최민희, 공천 받으려고 이재명 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000809900</id>
         <link href="https://n.news.naver.com/mnews/article/031/0000809900"/>
-        <updated>2024-02-02T01:47:04.747Z</updated>
+        <updated>2024-02-02T01:46:59.212Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
