@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-05T02:26:05.974Z</updated>
+    <updated>2024-02-05T03:14:55.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001994289"/>
         <updated>2024-02-05T02:25:49.904Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<원전 비중 확대, 거꾸로 가는 윤 정부>기사 관련[반론보도]]]></title>
+        <id>https://n.news.naver.com/mnews/article/033/0000046786</id>
+        <link href="https://n.news.naver.com/mnews/article/033/0000046786"/>
+        <updated>2024-02-05T03:14:42.123Z</updated>
+        <content type="html"><![CDATA[주간경향]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈원전 비중 확대, 거꾸로 가는 윤 정부〉기사 관련[반론보도]]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003277050</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003277050"/>
+        <updated>2024-02-05T03:14:42.124Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "'돌아온 김부선…' 최민희, 공천 받으려고 이재명 …]]></title>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003802602"/>
         <updated>2024-01-25T09:13:48.551Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<검찰, ‘태블릿PC 조작설’ 언급 송영길에 “답변할 가치 없는 막말”> 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003264927</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003264927"/>
-        <updated>2024-01-25T09:13:48.552Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<‘장애통합반 어린이집’ 없애는 서울시, 윤정부 ‘사회서비스 시장화’의 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003264864</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003264864"/>
-        <updated>2024-01-25T09:13:48.554Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
