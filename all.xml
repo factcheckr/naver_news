@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-05T01:53:30.948Z</updated>
+    <updated>2024-02-05T02:26:05.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<원전 비중 확대, 거꾸로 가는 윤 정부>기사 관련[반론보도] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] ＜"최재경 녹취록 가짜 확인해 보도 안 해" 주장 제기＞ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001994289</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001994289"/>
+        <updated>2024-02-05T02:25:49.904Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "'돌아온 김부선…' 최민희, 공천 받으려고 이재명 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000809900</id>
         <link href="https://n.news.naver.com/mnews/article/031/0000809900"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]<'송영길 '태블릿PC 조작설' 주장에…檢 "막말, 답변가치 없… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004967247</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004967247"/>
-        <updated>2023-12-04T09:14:47.895Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
+        <title type="html"><![CDATA[[반론보도] ＜"최재경 녹취록 가짜 확인해 보도 안 해" 주장 제기＞ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001994289</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001994289"/>
+        <updated>2024-02-05T02:25:57.054Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "'돌아온 김부선…' 최민희, 공천 받으려고 이재명 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003264864"/>
         <updated>2023-12-04T09:14:47.894Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<'송영길 '태블릿PC 조작설' 주장에…檢 "막말, 답변가치 없… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0004967247</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0004967247"/>
-        <updated>2023-12-04T09:14:47.895Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
