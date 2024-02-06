@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-06T04:15:02.338Z</updated>
+    <updated>2024-02-06T05:13:25.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 흔들리는 '신흥 명문' BNK의 숨겨진 진실..구단운영진 갈등…]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0001994296</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0001994296"/>
+        <updated>2024-02-06T05:13:12.144Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜"최재경 녹취록 가짜 확인해 보도 안 해" 주장 제기＞ 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001994289</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001657202"/>
         <updated>2024-01-25T09:13:48.550Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문] 2021. 9. 30.자 “수백억 혈세 펑펑 쓰는 과거  조사위, 친…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003802602</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003802602"/>
-        <updated>2024-01-25T09:13:48.551Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
