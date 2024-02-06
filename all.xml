@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-06T17:11:48.914Z</updated>
+    <updated>2024-02-06T18:14:26.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 3일 자 A14면 ‘매티스도 매케인도 추천 美의원이 또 꺼… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003815467?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003815467?sid=001"/>
+        <updated>2024-02-06T18:14:06.380Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 6월 12일자 [중기 24시]기업사냥꾼에 지분-지원 잃어… “경… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003521971?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003799215?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003799215?sid=001"/>
         <updated>2024-02-05T03:14:35.763Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지난 4일 자 B9면 <전봉관의 해방 거리를 걷다> 중 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003798991?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003798991?sid=001"/>
-        <updated>2024-02-05T03:14:35.764Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
