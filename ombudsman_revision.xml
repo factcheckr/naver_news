@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-08T02:18:23.618Z</updated>
+    <updated>2024-02-08T03:15:06.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "[단독]수상한 '00듀오피아노'…한국소리문화의전당, 대관 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003862092</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003862092"/>
+        <updated>2024-02-08T03:15:01.096Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] '전당대회 돈봉투 수수 혐의 의원들, 공관위 어떤 결정 내릴…]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000266199</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002667918"/>
         <updated>2024-01-14T06:16:55.714Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알립니다] 『쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥』 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/607/0000001765</id>
-        <link href="https://n.news.naver.com/mnews/article/607/0000001765"/>
-        <updated>2024-01-14T06:16:55.715Z</updated>
-        <content type="html"><![CDATA[뉴스타파]]></content>
     </entry>
 </feed>
