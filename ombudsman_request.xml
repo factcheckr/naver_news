@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-08T01:44:08.789Z</updated>
+    <updated>2024-02-08T02:18:23.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] '전당대회 돈봉투 수수 혐의 의원들, 공관위 어떤 결정 내릴…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000266199</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000266199"/>
+        <updated>2024-02-08T02:18:11.721Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 흔들리는 '신흥 명문' BNK의 숨겨진 진실..구단운영진 갈등…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001994296</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/607/0000001765"/>
         <updated>2024-01-25T09:13:48.549Z</updated>
         <content type="html"><![CDATA[뉴스타파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 송영길 언급 ‘태블릿 PC 조작설’에 검찰 “막말 가까워”]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001657202</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001657202"/>
-        <updated>2024-01-25T09:13:48.550Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
