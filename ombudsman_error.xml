@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-02-15T18:17:12.836Z</updated>
+    <updated>2024-02-15T19:11:39.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 ‘HD현대重 울산조선소서 근로자 1명 사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003817015?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003817015?sid=001"/>
+        <updated>2024-02-15T19:11:18.491Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 3일 자 A14면 ‘매티스도 매케인도 추천 美의원이 또 꺼…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003815467?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003799419?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003799419?sid=001"/>
         <updated>2023-11-16T07:12:20.708Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지난 6일 자 A20면 〈"미제레~미제레~" 프랑스어로 부르…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799215?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799215?sid=001"/>
-        <updated>2024-02-05T03:14:35.763Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
