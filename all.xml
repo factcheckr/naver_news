@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-15T23:13:02.672Z</updated>
+    <updated>2024-02-16T00:55:10.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 ‘HD현대重 울산조선소서 근로자 1명 사… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]<"그때 1억 줬으면 총경 승진했을까요?">, <[취재수첩] 활개… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949087</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949087"/>
+        <updated>2024-02-16T00:54:56.648Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] ＜명절마다 상납에 해고까지...아파트 경비원 수난시대＞ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001995858</id>
         <link href="https://n.news.naver.com/mnews/article/052/0001995858"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]<여의도 브라이튼 기부채납지> 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003804164</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003804164"/>
-        <updated>2023-12-11T03:14:30.532Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[반론보도]<"그때 1억 줬으면 총경 승진했을까요?">, <[취재수첩] 활개… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949087</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949087"/>
+        <updated>2024-02-16T00:55:02.967Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜명절마다 상납에 해고까지...아파트 경비원 수난시대＞ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -625,13 +632,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003804232</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003804232"/>
         <updated>2023-12-12T08:17:35.953Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<여의도 브라이튼 기부채납지> 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003804164</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003804164"/>
-        <updated>2023-12-11T03:14:30.532Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

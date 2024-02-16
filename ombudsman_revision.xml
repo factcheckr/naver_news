@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-15T23:13:02.664Z</updated>
+    <updated>2024-02-16T00:55:10.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<"그때 1억 줬으면 총경 승진했을까요?">, <[취재수첩] 활개…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949087</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949087"/>
+        <updated>2024-02-16T00:55:02.967Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜명절마다 상납에 해고까지...아파트 경비원 수난시대＞ 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0001995858</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003804232</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003804232"/>
         <updated>2024-01-14T06:16:55.708Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<여의도 브라이튼 기부채납지> 기사 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003804164</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003804164"/>
-        <updated>2024-01-14T06:16:55.712Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
