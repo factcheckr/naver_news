@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-16T01:44:59.433Z</updated>
+    <updated>2024-02-16T02:18:55.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <롯데손보, 지방병원 의료자문 기피 의혹> 등 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001799696</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001799696"/>
+        <updated>2024-02-16T02:18:40.440Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<"그때 1억 줬으면 총경 승진했을까요?">, <[취재수첩] 활개…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004949087</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004925846"/>
         <updated>2024-02-10T02:16:21.164Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] [이동관 “총선까지 방통위 마비시키려 폭주... 가짜 뉴…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003804232</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003804232"/>
-        <updated>2024-02-10T02:16:21.166Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
