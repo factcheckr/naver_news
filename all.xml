@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-16T08:16:33.731Z</updated>
+    <updated>2024-02-16T09:13:05.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 ‘HD현대重 울산조선소서 근로자 1명 사… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정보도] <방심위 셀프민원 의혹 개인정보유출, 공익신고자로 보호될… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003904988</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003904988"/>
+        <updated>2024-02-16T09:12:53.550Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <롯데손보, 지방병원 의료자문 기피 의혹> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/057/0001799696</id>
         <link href="https://n.news.naver.com/mnews/article/057/0001799696"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 서울시 지방보조금 예산 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004925846</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004925846"/>
-        <updated>2023-12-15T08:17:36.008Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[정정보도] <방심위 셀프민원 의혹 개인정보유출, 공익신고자로 보호될… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003904988</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003904988"/>
+        <updated>2024-02-16T09:12:59.014Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <롯데손보, 지방병원 의료자문 기피 의혹> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011623315"/>
         <updated>2023-12-18T05:13:20.898Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 서울시 지방보조금 예산 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004925846</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004925846"/>
-        <updated>2023-12-15T08:17:36.008Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
