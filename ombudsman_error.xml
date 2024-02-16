@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-02-16T13:14:07.822Z</updated>
+    <updated>2024-02-16T14:12:55.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949437?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949437?sid=001"/>
+        <updated>2024-02-16T14:12:35.031Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003817161?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003817161?sid=001"/>
+        <updated>2024-02-16T14:12:35.034Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 13일 자 A10면 ‘HD현대重 울산조선소서 근로자 1명 사…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003817015?sid=001</id>
@@ -199,20 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003799926?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003799926?sid=001"/>
         <updated>2023-11-20T05:13:22.877Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 14일 자 A18면 '나의 현대사 보물: 일곱 살 어린 나이에…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799678?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799678?sid=001"/>
-        <updated>2023-11-20T05:13:22.877Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 지난 14일 자 A12면 〈文 옛 사위 채용 특혜 의혹… 중…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799419?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799419?sid=001"/>
-        <updated>2023-11-16T07:12:20.708Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
