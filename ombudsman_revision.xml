@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-19T00:56:15.733Z</updated>
+    <updated>2024-02-19T01:49:47.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[버티고 버티다… 조선·한경 1년 반만에 '쿠팡 노조 술판' 정정]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000122409</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000122409"/>
-        <updated>2024-02-18T07:13:39.647Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '그때 1억 줬으면 총경 승진했을까요?', '[취재수첩] 활개치…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004949318</id>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004926519"/>
         <updated>2024-01-14T06:16:55.703Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] 미국 출장 DL회장…국감 불출석 논란〉  보도 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011623315</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011623315"/>
+        <updated>2024-02-19T01:49:40.172Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
