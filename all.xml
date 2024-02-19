@@ -2,27 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-19T07:14:14.470Z</updated>
+    <updated>2024-02-19T08:16:58.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003817230?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003817230?sid=001"/>
         <updated>2024-02-16T19:11:46.139Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004949437?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004949437?sid=001"/>
-        <updated>2024-02-16T14:12:35.031Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003817161?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003817161?sid=001"/>
-        <updated>2024-02-16T14:12:35.034Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -213,6 +199,34 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000250414?sid=001"/>
         <updated>2023-11-21T10:19:52.764Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 8일 자 A4~5면 〈세계로 뻗어나가는 K방산〉 그래픽에… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799926?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799926?sid=001"/>
+        <updated>2024-02-19T08:16:38.822Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 14일 자 A18면 '나의 현대사 보물: 일곱 살 어린 나이에… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003799678?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003799678?sid=001"/>
+        <updated>2024-02-19T08:16:38.823Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949437</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949437"/>
+        <updated>2024-02-19T08:16:45.149Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003817161</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003817161"/>
+        <updated>2024-02-19T08:16:45.150Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '그때 1억 줬으면 총경 승진했을까요?', '[취재수첩] 활개치… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] '방산보험 '불완전판매 논란'…K방산 발목' 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004926519</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004926519"/>
-        <updated>2023-12-18T05:13:20.898Z</updated>
+        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949437</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949437"/>
+        <updated>2024-02-19T08:16:51.253Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] 미국 출장 DL회장…국감 불출석 논란〉  보도 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011623315</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011623315"/>
-        <updated>2024-02-19T01:49:32.369Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003817161</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003817161"/>
+        <updated>2024-02-19T08:16:51.253Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '그때 1억 줬으면 총경 승진했을까요?', '[취재수첩] 활개치… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0014402717"/>
         <updated>2023-12-21T05:13:24.530Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '방산보험 '불완전판매 논란'…K방산 발목' 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004926519</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004926519"/>
-        <updated>2023-12-18T05:13:20.898Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] 미국 출장 DL회장…국감 불출석 논란〉  보도 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011623315</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011623315"/>
-        <updated>2024-02-19T01:49:32.369Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
