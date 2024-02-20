@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-19T23:13:10.911Z</updated>
+    <updated>2024-02-20T00:54:40.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <롯데손보, 지방병원 의료자문 기피 의혹> 등 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001800380</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001800380"/>
+        <updated>2024-02-20T00:54:26.800Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004949437</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011628120"/>
         <updated>2024-02-10T02:16:21.159Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도 및 반론보도] <[OK!제보] 작은 아파트단지의…> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014402717</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014402717"/>
-        <updated>2024-02-10T02:16:21.160Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
