@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-21T13:14:29.762Z</updated>
+    <updated>2024-02-21T14:12:12.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012385801</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
+        <updated>2024-02-21T14:11:59.887Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <정년 지난뒤 해임무효 대법원 판결받은 사학비리 폭로교사>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014516377</id>
         <link href="https://n.news.naver.com/mnews/article/001/0014516377"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정보도] <'취약보육' 민간에 넘기겠다?‥무늬뿐인 서울시의 '약자와… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001320288</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001320288"/>
-        <updated>2023-12-22T09:12:56.689Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012385801</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
+        <updated>2024-02-21T14:12:06.396Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <정년 지난뒤 해임무효 대법원 판결받은 사학비리 폭로교사>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001982208"/>
         <updated>2024-01-08T00:59:38.856Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] <'취약보육' 민간에 넘기겠다?‥무늬뿐인 서울시의 '약자와… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001320288</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001320288"/>
-        <updated>2023-12-22T09:12:56.689Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
