@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-22T04:14:49.273Z</updated>
+    <updated>2024-02-22T05:14:21.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <'역대급' 인천, 뒤흔드는 검은 그림자...'그들'은 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003331313</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003331313"/>
+        <updated>2024-02-22T05:14:07.778Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012385801</id>
         <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] ＜영유아 식판 세척 업체 관리는 어디서 하나요?＞ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001982208</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001982208"/>
-        <updated>2024-01-08T00:59:38.856Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] <'역대급' 인천, 뒤흔드는 검은 그림자...'그들'은 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003331313</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003331313"/>
+        <updated>2024-02-22T05:14:14.137Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002418285"/>
         <updated>2024-01-09T03:14:46.610Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ＜영유아 식판 세척 업체 관리는 어디서 하나요?＞ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001982208</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001982208"/>
-        <updated>2024-01-08T00:59:38.856Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
