@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-23T07:14:08.136Z</updated>
+    <updated>2024-02-23T08:16:49.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <하마스 기습 비장의 패러글라이딩…"개성도 생산 정황">…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003343240</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003343240"/>
+        <updated>2024-02-23T08:16:38.242Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 하도급사 '파산신청'에…신원종합개발, 14%가량 '급락' 기사…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004952165</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003336405"/>
         <updated>2024-02-10T02:16:21.148Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도]<‘남남 성추행’ 상병헌 전 세종시의장 첫 재판 12월7일> 등 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012319848</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012319848"/>
-        <updated>2024-02-10T02:16:21.150Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
