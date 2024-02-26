@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-26T20:14:07.898Z</updated>
+    <updated>2024-02-26T21:13:10.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
+        <updated>2024-02-26T21:13:04.453Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 …]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012252775"/>
         <updated>2024-01-31T04:15:41.470Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "석사논문 통과심사 앞두고 돌연 지도 거부" 60대 대학원생 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002316832</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002316832"/>
-        <updated>2024-01-24T01:00:37.609Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>

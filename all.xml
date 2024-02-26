@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-26T20:14:07.888Z</updated>
+    <updated>2024-02-26T21:13:10.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
+        <updated>2024-02-26T21:12:59.361Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
         <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] "석사논문 통과심사 앞두고 돌연 지도 거부" 60대 대학원생 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002316832</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002316832"/>
-        <updated>2024-01-24T01:00:31.401Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
+        <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
+        <updated>2024-02-26T21:13:04.453Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012252775"/>
         <updated>2024-01-31T04:15:35.415Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "석사논문 통과심사 앞두고 돌연 지도 거부" 60대 대학원생 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002316832</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002316832"/>
-        <updated>2024-01-24T01:00:31.401Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
