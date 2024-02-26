@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-26T09:14:18.162Z</updated>
+    <updated>2024-02-26T10:14:27.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
+        <updated>2024-02-26T10:14:15.424Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산…]]></title>
         <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/002/0002316832"/>
         <updated>2024-02-10T02:16:21.145Z</updated>
         <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]「"유기견 보낼 테니 입양비 달라"…돈벌이로 변질된 단체」…]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001124692</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001124692"/>
-        <updated>2024-02-10T02:16:21.147Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
