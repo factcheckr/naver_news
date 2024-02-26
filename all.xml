@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-25T23:12:49.224Z</updated>
+    <updated>2024-02-26T00:57:22.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
+        <updated>2024-02-26T00:57:09.791Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알려왔습니다] <하마스 기습 비장의 패러글라이딩…"개성도 생산 정황">… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003343240</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003343240"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <‘이재명 수사 무마’  김수남 전 검찰총장 조사하나…‘이석기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003336405</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003336405"/>
-        <updated>2024-01-21T05:33:51.647Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
+        <updated>2024-02-26T00:57:15.927Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] <하마스 기습 비장의 패러글라이딩…"개성도 생산 정황">… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/055/0001124692"/>
         <updated>2024-01-22T06:18:30.405Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <‘이재명 수사 무마’  김수남 전 검찰총장 조사하나…‘이석기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003336405</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003336405"/>
-        <updated>2024-01-21T05:33:51.647Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
