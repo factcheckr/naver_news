@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T18:17:50.711Z</updated>
+    <updated>2024-02-27T19:11:15.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 17일자 B5면 ‘지우다 못해 조작까지 해서 없애버리는 이… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003819154?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003819154?sid=001"/>
+        <updated>2024-02-27T19:10:56.393Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003817230?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003799926?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003799926?sid=001"/>
         <updated>2024-02-19T08:16:38.822Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 14일 자 A18면 '나의 현대사 보물: 일곱 살 어린 나이에… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003799678?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003799678?sid=001"/>
-        <updated>2024-02-19T08:16:38.823Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
