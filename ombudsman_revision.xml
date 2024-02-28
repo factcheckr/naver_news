@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-02-28T07:12:19.913Z</updated>
+    <updated>2024-02-28T08:16:20.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] “주주간 비밀계약서? 허위‧악성 주장…법적 책임 엄중…]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003332472</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003332472"/>
+        <updated>2024-02-28T08:16:13.726Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] '논산 확산탄 공장 건설에 주민 반발' 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000270380</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000270380"/>
+        <updated>2024-02-28T08:16:13.726Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 …]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001991351"/>
         <updated>2024-01-31T04:15:41.467Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도]'남남 성추행' 혐의 상병헌 전 세종시의장 첫 재판 12월7일]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012182424</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012182424"/>
-        <updated>2024-01-26T05:12:13.582Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도][오늘의 주요일정]대전·세종·충남(12월 07일 목요일)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012252775</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012252775"/>
-        <updated>2024-01-31T04:15:41.470Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
