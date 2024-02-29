@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-29T14:15:18.352Z</updated>
+    <updated>2024-02-29T15:13:20.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 베트남 달랏 라비앙산 한국인 관광객 사망사고 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003344581</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003344581"/>
+        <updated>2024-02-29T15:13:07.368Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]베트남 달랏 랑비앙 산 한국인 관광객 사망 사고 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005386520</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000809900"/>
         <updated>2024-02-10T02:16:21.131Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <MBC 제3노조 "이준석! 첫 정강정책이 민주노총 영…]]></title>
-        <id>https://n.news.naver.com/mnews/article/119/0002795802</id>
-        <link href="https://n.news.naver.com/mnews/article/119/0002795802"/>
-        <updated>2024-02-10T02:16:21.137Z</updated>
-        <content type="html"><![CDATA[데일리안]]></content>
     </entry>
 </feed>
