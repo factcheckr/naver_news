@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-02-29T06:17:05.452Z</updated>
+    <updated>2024-02-29T07:14:27.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]베트남 달랏 랑비앙 산 한국인 관광객 사망 사고 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005386520</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005386520"/>
+        <updated>2024-02-29T07:14:14.535Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「경인방송, “미디어 오늘의 왜곡된 보도, 유감”」기사 관련[반론보도]]]></title>
+        <id>https://n.news.naver.com/mnews/article/144/0000946300</id>
+        <link href="https://n.news.naver.com/mnews/article/144/0000946300"/>
+        <updated>2024-02-29T07:14:14.537Z</updated>
+        <content type="html"><![CDATA[스포츠경향]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] 윈저글로벌 인수 주체는 현 대표 미성년자 아들이 …]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000974232</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/119/0002795802"/>
         <updated>2024-02-10T02:16:21.137Z</updated>
         <content type="html"><![CDATA[데일리안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[팩트체크] 이재명 나무젓가락에 찔렸다? 음모론 대체 누가…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000377768</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000377768"/>
-        <updated>2024-02-10T02:16:21.139Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] '성인 화보집' 만들어 판 중학교 교사…"취미생활일 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000377372</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000377372"/>
-        <updated>2024-02-10T02:16:21.140Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
