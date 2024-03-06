@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-06T06:17:59.468Z</updated>
+    <updated>2024-03-06T07:12:31.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]'돌아온 김부선 "이재명, 내 집와서 술마시고 대리불러"' 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012410772</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012410772"/>
+        <updated>2024-03-06T07:12:25.610Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알립니다] <팔면 팔수록 수수료 늘어나…쿠팡의 늪에 빠진 중소 셀러들>…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004954745</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/033/0000046786"/>
         <updated>2024-02-05T03:14:48.654Z</updated>
         <content type="html"><![CDATA[주간경향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈원전 비중 확대, 거꾸로 가는 윤 정부〉기사 관련[반론보도]]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003277050</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003277050"/>
-        <updated>2024-02-05T03:14:48.655Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
