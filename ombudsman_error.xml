@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-03-06T18:20:02.980Z</updated>
+    <updated>2024-03-06T19:09:46.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 4일 자 A3면 ‘호남 28개 全지역구에 국민의힘 후보’ 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003820678?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003820678?sid=001"/>
+        <updated>2024-03-06T19:09:29.497Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] '서원 논산시의장, 시민단체 대표 수사 의뢰' 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000271599?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004920308?sid=001"/>
         <updated>2023-11-30T10:15:07.745Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <검찰, 송영길의 증거 조작 주장에 “터무니 없는 막말”> 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/021/0002607559?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/021/0002607559?sid=001"/>
-        <updated>2023-11-28T02:30:16.051Z</updated>
-        <content type="html"><![CDATA[문화일보]]></content>
     </entry>
 </feed>
