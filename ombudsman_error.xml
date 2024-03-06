@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-03-06T00:55:18.507Z</updated>
+    <updated>2024-03-06T01:45:15.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] '서원 논산시의장, 시민단체 대표 수사 의뢰' 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000271599?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000271599?sid=001"/>
+        <updated>2024-03-06T01:44:54.019Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 4일 자 A12면 ‘쇼핑몰만 8번 도는 ‘덤핑 관광’… 서울시…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003820380?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/021/0002607559?sid=001"/>
         <updated>2023-11-28T02:30:16.051Z</updated>
         <content type="html"><![CDATA[문화일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<檢, 송영길의 '태블릿PC 조작설' 거론에 "답할 가치도 없는…]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005346407?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005346407?sid=001"/>
-        <updated>2023-11-27T01:57:39.033Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
