@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-03-06T22:13:18.817Z</updated>
+    <updated>2024-03-06T23:13:04.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고침] 그래픽(서울 주요 상권 통상임대료·월평균 매출액)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014547592?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014547592?sid=001"/>
+        <updated>2024-03-06T23:12:46.243Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 4일 자 A3면 ‘호남 28개 全지역구에 국민의힘 후보’ 기…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003820678?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/586/0000068796?sid=001"/>
         <updated>2023-12-04T09:14:41.495Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '패소 앙심에 폭언·방화…변호사들 분노 범죄 무방비' 기사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004920308?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004920308?sid=001"/>
-        <updated>2023-11-30T10:15:07.745Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
