@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-12T17:12:37.786Z</updated>
+    <updated>2024-03-12T18:16:07.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 11일 자 A3면 ‘포스코 상생어린이집’ 그래픽에서 외 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003821823?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003821823?sid=001"/>
+        <updated>2024-03-12T18:15:49.169Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "진급하려면 3천만원어치 주식사라 강요" 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002425357?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003803714?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003803714?sid=001"/>
         <updated>2023-12-08T04:15:51.832Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 2일 자 B1면 〈"가져갈 순 없잖아요? 하하" 수백억원 기… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003803140?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003803140?sid=001"/>
-        <updated>2023-12-07T05:13:05.035Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
