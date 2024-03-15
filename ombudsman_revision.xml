@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-15T12:22:28.159Z</updated>
+    <updated>2024-03-15T13:15:36.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<‘美문화원 점거’ 함운경 vs ‘美대사관저 방화 미수’…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003822454</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
+        <updated>2024-03-15T13:15:28.602Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]'돌아온 김부선 "이재명, 내 집와서 술마시고 대리불러"' 기…]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012410772</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001994289"/>
         <updated>2024-02-05T02:25:57.054Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<원전 비중 확대, 거꾸로 가는 윤 정부>기사 관련[반론보도]]]></title>
-        <id>https://n.news.naver.com/mnews/article/033/0000046786</id>
-        <link href="https://n.news.naver.com/mnews/article/033/0000046786"/>
-        <updated>2024-02-05T03:14:48.654Z</updated>
-        <content type="html"><![CDATA[주간경향]]></content>
     </entry>
 </feed>
