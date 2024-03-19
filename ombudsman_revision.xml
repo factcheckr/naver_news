@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-19T05:13:24.695Z</updated>
+    <updated>2024-03-19T06:18:02.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
+        <updated>2024-03-19T06:17:55.834Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 …]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/052/0001994296</id>
         <link href="https://n.news.naver.com/mnews/article/052/0001994296"/>
         <updated>2024-02-06T05:13:18.330Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ＜"최재경 녹취록 가짜 확인해 보도 안 해" 주장 제기＞ 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001994289</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001994289"/>
-        <updated>2024-03-18T04:15:41.795Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
