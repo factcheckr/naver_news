@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-19T18:16:20.532Z</updated>
+    <updated>2024-03-19T19:11:47.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 18일 자 A10면 ‘국내 스타트업 14곳 “오픈 AI 잡아라” … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003823230?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003823230?sid=001"/>
+        <updated>2024-03-19T19:11:28.703Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 15일 자 A12면 ‘욕지도 전복 사고 5일 만에… 어선 또 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003822753?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003809561?sid=001"/>
         <updated>2024-01-08T19:11:09.487Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001322244?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001322244?sid=001"/>
-        <updated>2024-01-02T23:12:56.927Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>

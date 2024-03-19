@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-03-19T18:16:20.520Z</updated>
+    <updated>2024-03-19T19:11:47.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 18일 자 A10면 ‘국내 스타트업 14곳 “오픈 AI 잡아라” …]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003823230?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003823230?sid=001"/>
+        <updated>2024-03-19T19:11:28.703Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 15일 자 A12면 ‘욕지도 전복 사고 5일 만에… 어선 또 …]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003822753?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003809561?sid=001"/>
         <updated>2024-01-08T19:11:09.487Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001322244?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001322244?sid=001"/>
-        <updated>2024-01-02T23:12:56.927Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
