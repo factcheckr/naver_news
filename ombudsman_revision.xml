@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-20T04:17:21.906Z</updated>
+    <updated>2024-03-20T05:14:15.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘XX 욕설 파문’ 방심위원 2명 해촉…야권 인사 1명만 남아 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005394719</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
+        <updated>2024-03-20T05:14:09.067Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000266199"/>
         <updated>2024-02-08T02:18:17.730Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 흔들리는 '신흥 명문' BNK의 숨겨진 진실..구단운영진 갈등…]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0001994296</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0001994296"/>
-        <updated>2024-02-06T05:13:18.330Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
