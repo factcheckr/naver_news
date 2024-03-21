@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-21T04:16:54.430Z</updated>
+    <updated>2024-03-21T05:12:18.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
         <updated>2024-03-20T05:14:09.067Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주·진보당 연대에 '이재명 극좌숙주인가' 뉴데일리 칼럼 '주의']]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000122934</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000122934"/>
+        <updated>2024-03-21T05:12:10.982Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003862092"/>
         <updated>2024-02-08T03:15:01.096Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] '전당대회 돈봉투 수수 혐의 의원들, 공관위 어떤 결정 내릴…]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000266199</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000266199"/>
-        <updated>2024-02-08T02:18:17.730Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
