@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-22T05:14:22.821Z</updated>
+    <updated>2024-03-22T06:16:45.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] ‘조국 “조국혁신당 인기 이유? 尹 싫은데 민주당도 싫어… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003349166?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003349166?sid=001"/>
+        <updated>2024-03-22T06:16:22.376Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 18일 자 A10면 ‘국내 스타트업 14곳 “오픈 AI 잡아라” … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003823230?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003809805?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003809805?sid=001"/>
         <updated>2024-01-09T18:13:42.688Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 6일 자 B4면 〈'엄근진’은 버렸다… 재벌을 ‘형’이라 부… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003809561?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003809561?sid=001"/>
-        <updated>2024-01-08T19:11:09.487Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
@@ -428,7 +428,7 @@
         <title type="html"><![CDATA[[정정 및 반론보도] <[단독]윈저글로벌 인수 주체는 현 대표 미성년자  … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0000979990</id>
         <link href="https://n.news.naver.com/mnews/article/366/0000979990"/>
-        <updated>2024-03-22T05:14:16.482Z</updated>
+        <updated>2024-03-22T05:14:10.382Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
