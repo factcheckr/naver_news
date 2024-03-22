@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-22T04:15:08.690Z</updated>
+    <updated>2024-03-22T05:14:22.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <[단독]윈저글로벌 인수 주체는 현 대표 미성년자  …]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000979990</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000979990"/>
+        <updated>2024-03-22T05:14:16.482Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ‘XX 욕설 파문’ 방심위원 2명 해촉…야권 인사 1명만 남아 …]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005394719</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0001995858"/>
         <updated>2024-02-08T05:14:17.713Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "[단독]수상한 '00듀오피아노'…한국소리문화의전당, 대관 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003862092</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003862092"/>
-        <updated>2024-02-08T03:15:01.096Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
