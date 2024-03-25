@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-03-25T05:14:13.261Z</updated>
+    <updated>2024-03-25T06:17:47.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈6살 장애아 뺨·명치 때린 재활사…센터장은 "합의해야 환…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000385460</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000385460"/>
+        <updated>2024-03-25T06:17:35.563Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <이재명 아내 수행했던 권향엽 전남 공천 논란> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003823906</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004949318"/>
         <updated>2024-02-16T10:13:52.624Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] <방심위 셀프민원 의혹 개인정보유출, 공익신고자로 보호될…]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003904988</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003904988"/>
-        <updated>2024-02-16T09:12:53.550Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
