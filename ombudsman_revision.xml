@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-26T07:12:01.907Z</updated>
+    <updated>2024-03-26T08:16:23.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <박성중 “민주당, 방심위 추천권 도둑질”... 야당 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003918162</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003918162"/>
+        <updated>2024-03-26T08:16:16.898Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정·반론보도] ‘초과근무 통제 공문’ 수사·안전 기관 4곳 중 경찰 …]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003917737</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004949437"/>
         <updated>2024-03-26T05:12:30.528Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003817161</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003817161"/>
-        <updated>2024-03-26T05:12:30.529Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
