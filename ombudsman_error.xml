@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-03-26T06:17:26.919Z</updated>
+    <updated>2024-03-26T07:12:01.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고침] 그래픽(4·10 총선 국민의힘·민주당 자체 분석...)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014589661?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014589661?sid=001"/>
+        <updated>2024-03-26T07:11:41.972Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 21일 자 C1면 ‘중동의 큰손들 잇따라 방한… ‘K방산’ 글…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003823988?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003811207?sid=001"/>
         <updated>2024-01-16T18:17:10.019Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003272958?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003272958?sid=001"/>
-        <updated>2024-01-11T13:15:56.551Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
