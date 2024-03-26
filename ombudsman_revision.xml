@@ -2,7 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-03-26T04:15:14.446Z</updated>
+    <updated>2024-03-26T05:12:38.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정·반론보도] ‘초과근무 통제 공문’ 수사·안전 기관 4곳 중 경찰 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003917737</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003917737"/>
+        <updated>2024-03-26T05:12:30.479Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈6살 장애아 뺨·명치 때린 재활사…센터장은 "합의해야 환…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000385460</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000385460"/>
+        <updated>2024-03-26T05:12:30.479Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <이재명 아내 수행했던 권향엽 전남 공천 논란> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003823906</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003823906"/>
+        <updated>2024-03-26T05:12:30.480Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜"내 땅" 통행 막은 이웃...빙판길 건너던 주민 숨져＞ 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002013779</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002013779"/>
+        <updated>2024-03-26T05:12:30.480Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <[단독]윈저글로벌 인수 주체는 현 대표 미성년자  …]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0000979990</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0000979990"/>
+        <updated>2024-03-26T05:12:30.481Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘XX 욕설 파문’ 방심위원 2명 해촉…야권 인사 1명만 남아 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005394719</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
+        <updated>2024-03-26T05:12:30.483Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주·진보당 연대에 '이재명 극좌숙주인가' 뉴데일리 칼럼 '주의']]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000122934</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000122934"/>
+        <updated>2024-03-26T05:12:30.486Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
+        <updated>2024-03-26T05:12:30.492Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
+        <updated>2024-03-26T05:12:30.494Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<‘美문화원 점거’ 함운경 vs ‘美대사관저 방화 미수’…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003822454</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
+        <updated>2024-03-26T05:12:30.497Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]'돌아온 김부선 "이재명, 내 집와서 술마시고 대리불러"' 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012410772</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012410772"/>
+        <updated>2024-03-26T05:12:30.503Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알립니다] <팔면 팔수록 수수료 늘어나…쿠팡의 늪에 빠진 중소 셀러들>…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004954745</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004954745"/>
+        <updated>2024-03-26T05:12:30.504Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 베트남 달랏 라비앙산 한국인 관광객 사망사고 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003344581</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003344581"/>
+        <updated>2024-03-26T05:12:30.506Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]베트남 달랏 랑비앙 산 한국인 관광객 사망 사고 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005386520</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005386520"/>
+        <updated>2024-03-26T05:12:30.507Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「경인방송, “미디어 오늘의 왜곡된 보도, 유감”」기사 관련[반론보도]]]></title>
+        <id>https://n.news.naver.com/mnews/article/144/0000946300</id>
+        <link href="https://n.news.naver.com/mnews/article/144/0000946300"/>
+        <updated>2024-03-26T05:12:30.508Z</updated>
+        <content type="html"><![CDATA[스포츠경향]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] “주주간 비밀계약서? 허위‧악성 주장…법적 책임 엄중…]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003332472</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003332472"/>
+        <updated>2024-03-26T05:12:30.510Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] '논산 확산탄 공장 건설에 주민 반발' 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000270380</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000270380"/>
+        <updated>2024-03-26T05:12:30.511Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
+        <updated>2024-03-26T05:12:30.512Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
+        <updated>2024-03-26T05:12:30.514Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산…]]></title>
+        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
+        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
+        <updated>2024-03-26T05:12:30.515Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <하마스 기습 비장의 패러글라이딩…"개성도 생산 정황">…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003343240</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003343240"/>
+        <updated>2024-03-26T05:12:30.517Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 하도급사 '파산신청'에…신원종합개발, 14%가량 '급락' 기사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004952165</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004952165"/>
+        <updated>2024-03-26T05:12:30.518Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜안산시 산하기관 직원 블랙리스트 논란…시장 등 고발 예…]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002678155</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002678155"/>
+        <updated>2024-03-26T05:12:30.520Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「신명학원 방명화 전 교사 해임무효 판결」 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003866942</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003866942"/>
+        <updated>2024-03-26T05:12:30.521Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <'역대급' 인천, 뒤흔드는 검은 그림자...'그들'은 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003331313</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003331313"/>
+        <updated>2024-03-26T05:12:30.522Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조…]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012385801</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
+        <updated>2024-03-26T05:12:30.524Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <정년 지난뒤 해임무효 대법원 판결받은 사학비리 폭로교사>…]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014516377</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014516377"/>
+        <updated>2024-03-26T05:12:30.525Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <롯데손보, 지방병원 의료자문 기피 의혹> 등 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001800380</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001800380"/>
+        <updated>2024-03-26T05:12:30.526Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004949437</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004949437"/>
+        <updated>2024-03-26T05:12:30.528Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<"술판 벌이며 쿠팡 본사 점거한 민주노총... 강제진입 시도하다 보안요…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003817161</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003817161"/>
+        <updated>2024-03-26T05:12:30.529Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
 </feed>
