@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-03-26T03:13:34.077Z</updated>
+    <updated>2024-03-26T04:15:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정·반론보도] ‘초과근무 통제 공문’ 수사·안전 기관 4곳 중 경찰 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003917737</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003917737"/>
+        <updated>2024-03-26T04:15:01.045Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈6살 장애아 뺨·명치 때린 재활사…센터장은 "합의해야 환…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000385460</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003817161"/>
         <updated>2024-02-19T08:16:45.150Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '그때 1억 줬으면 총경 승진했을까요?', '[취재수첩] 활개치…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004949318</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004949318"/>
-        <updated>2024-02-16T10:13:52.624Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
