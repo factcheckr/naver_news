@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-03-28T07:12:06.375Z</updated>
+    <updated>2024-03-28T08:16:09.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알려왔습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002682971</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002682971"/>
+        <updated>2024-03-28T08:15:58.255Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <박성중 “민주당, 방심위 추천권 도둑질”... 야당 …]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003918162</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/057/0001800380"/>
         <updated>2024-02-20T00:54:26.800Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['[단독] 쿠팡 노조, 본사 점거하고 대낮부터 술판 벌였다' 관련 정정보…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004949437</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004949437"/>
-        <updated>2024-02-19T08:16:45.149Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
