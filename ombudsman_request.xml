@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-03-29T12:23:46.271Z</updated>
+    <updated>2024-03-29T13:14:09.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]〈野, ‘김혜경 보좌’ 권향엽 여성전략특구 만들어 공천……]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003556253</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003556253"/>
+        <updated>2024-03-29T13:13:58.143Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도][단독]이재명, 조정식에 불출마권유…기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003879793</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
         <updated>2024-02-21T14:11:59.887Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <정년 지난뒤 해임무효 대법원 판결받은 사학비리 폭로교사>…]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014516377</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014516377"/>
-        <updated>2024-02-20T08:16:01.298Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
