@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-01T06:17:21.769Z</updated>
+    <updated>2024-04-01T07:12:52.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판…]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
+        <updated>2024-04-01T07:12:46.226Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전…]]></title>
         <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003866942"/>
         <updated>2024-03-26T05:12:30.521Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <'역대급' 인천, 뒤흔드는 검은 그림자...'그들'은 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/241/0003331313</id>
-        <link href="https://n.news.naver.com/mnews/article/241/0003331313"/>
-        <updated>2024-03-26T05:12:30.522Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
     </entry>
 </feed>
