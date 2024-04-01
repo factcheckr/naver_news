@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-01T04:16:33.270Z</updated>
+    <updated>2024-04-01T05:15:11.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전…]]></title>
+        <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
+        <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
+        <updated>2024-04-01T05:14:58.899Z</updated>
+        <content type="html"><![CDATA[디스패치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다]〈野, ‘김혜경 보좌’ 권향엽 여성전략특구 만들어 공천……]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003556253</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/241/0003331313"/>
         <updated>2024-02-22T05:14:07.778Z</updated>
         <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「신원종합개발 "하도급사가 악의적 파산신청…민형 사상 조…]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012385801</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012385801"/>
-        <updated>2024-02-21T14:11:59.887Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
