@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-04-02T17:15:08.828Z</updated>
+    <updated>2024-04-02T18:16:32.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 3월30일 자 A2면 “‘與 보면 가슴 답답’ 보수층 입 닫았…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003826035?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003826035?sid=001"/>
+        <updated>2024-04-02T18:16:14.746Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 25일 자 A12면 ‘내년 최저임금 1만원 넘을까’ 기사 중 …]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003824864?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003812137?sid=001"/>
         <updated>2024-01-21T19:10:22.879Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오보를 바로잡습니다] 《與 비대위원 박은식 "광주폭동을 민주화 운동…]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000071485?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000071485?sid=001"/>
-        <updated>2024-01-19T12:24:45.331Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
