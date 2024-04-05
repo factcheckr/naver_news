@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-04T23:14:05.527Z</updated>
+    <updated>2024-04-05T00:56:23.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -95,13 +95,6 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
         <updated>2024-03-26T05:12:30.483Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주·진보당 연대에 '이재명 극좌숙주인가' 뉴데일리 칼럼 '주의']]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000122934</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000122934"/>
-        <updated>2024-03-26T05:12:30.486Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002678155"/>
         <updated>2024-03-26T05:12:30.520Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「신명학원 방명화 전 교사 해임무효 판결」 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003866942</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003866942"/>
+        <updated>2024-04-05T00:56:16.860Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
