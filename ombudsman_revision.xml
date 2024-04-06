@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-06T04:16:28.646Z</updated>
+    <updated>2024-04-06T05:13:02.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] "국민의힘 당원아니다"...한동훈 비서실장 김형동 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002326753</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002326753"/>
+        <updated>2024-04-06T05:12:54.368Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정정보도 <野, 시민사회 몫 비례 후보에 '이재명 캠프' 변호사> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005402326</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004952165"/>
         <updated>2024-03-26T05:12:30.518Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ＜안산시 산하기관 직원 블랙리스트 논란…시장 등 고발 예…]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002678155</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002678155"/>
-        <updated>2024-03-26T05:12:30.520Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
