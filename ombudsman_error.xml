@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-04-11T04:15:35.824Z</updated>
+    <updated>2024-04-11T05:13:55.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<정정보도문>조수진 전 민주당 강북을 후보 관련 보도를 바로잡습니다.]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012486493?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012486493?sid=001"/>
+        <updated>2024-04-11T05:13:36.960Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 4월 5일 자 A12면 ‘일본 법원의 ‘품위 손상 판사’ 대처…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003826810?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003544399?sid=001"/>
         <updated>2024-01-23T18:16:51.679Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] "與 비대위원 박은식 '광주폭동을 민주화 운동으로 포장…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002316708?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002316708?sid=001"/>
-        <updated>2024-01-23T05:13:24.964Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
