@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-12T06:17:45.701Z</updated>
+    <updated>2024-04-12T07:15:05.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '이재명 방탄 올인…민주당 '종북·급진'과도 손잡았다' 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004972044</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004972044"/>
+        <updated>2024-04-12T07:14:52.532Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "국민의힘 당원아니다"...한동훈 비서실장 김형동 …]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002326753</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003343240"/>
         <updated>2024-02-23T08:16:38.242Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 하도급사 '파산신청'에…신원종합개발, 14%가량 '급락' 기사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004952165</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004952165"/>
-        <updated>2024-02-23T07:13:57.491Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
