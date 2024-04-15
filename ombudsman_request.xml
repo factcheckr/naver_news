@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-15T05:12:02.196Z</updated>
+    <updated>2024-04-15T06:17:32.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'밥퍼' 후원금이 종교시설로?…'억 단위' 사용 정황〉관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000388545</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000388545"/>
+        <updated>2024-04-15T06:17:20.250Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '이재명 방탄 올인…민주당 '종북·급진'과도 손잡았다' 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004972044</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
         <updated>2024-02-26T00:57:09.791Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] <하마스 기습 비장의 패러글라이딩…"개성도 생산 정황">…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003343240</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003343240"/>
-        <updated>2024-02-23T08:16:38.242Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
