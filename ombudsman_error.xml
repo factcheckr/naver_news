@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-04-15T07:11:06.570Z</updated>
+    <updated>2024-04-15T08:13:59.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] 조수진 전 민주당 후보 관련 보도를 바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004327946?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004327946?sid=001"/>
+        <updated>2024-04-15T08:13:40.088Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<정정보도문>조수진 전 민주당 강북을 후보 관련 보도를 바로잡습니다.]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012486493?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000377272?sid=001"/>
         <updated>2024-01-28T10:13:02.135Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003544399?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003544399?sid=001"/>
-        <updated>2024-01-23T18:16:51.679Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
