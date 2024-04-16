@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-16T07:15:12.488Z</updated>
+    <updated>2024-04-16T08:16:54.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004972044"/>
         <updated>2024-04-12T07:14:58.911Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올림픽대로에 취객 내려 준 택시, 교통사고 낸 택시… 모두 유죄 [법정 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442612</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442612"/>
+        <updated>2024-04-16T08:16:48.703Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“알아서 하겠다”며 올림픽대로에 내린 취객...내려준 택시기사 징역형[…]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442579</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442579"/>
+        <updated>2024-04-16T08:16:48.704Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "국민의힘 당원아니다"...한동훈 비서실장 김형동 …]]></title>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
         <updated>2024-03-26T05:12:30.512Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
-        <updated>2024-03-26T05:12:30.514Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산…]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
-        <updated>2024-03-26T05:12:30.515Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>

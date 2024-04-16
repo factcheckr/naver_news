@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-16T07:15:12.494Z</updated>
+    <updated>2024-04-16T08:16:54.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도문] 조수진 전 민주당 후보 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -229,6 +229,20 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[올림픽대로에 취객 내려 준 택시, 교통사고 낸 택시… 모두 유죄 [법정 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442612</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442612"/>
+        <updated>2024-04-16T08:16:42.758Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“알아서 하겠다”며 올림픽대로에 내린 취객...내려준 택시기사 징역형[… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442579</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442579"/>
+        <updated>2024-04-16T08:16:42.759Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "국민의힘 당원아니다"...한동훈 비서실장 김형동 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002326753</id>
         <link href="https://n.news.naver.com/mnews/article/002/0002326753"/>
@@ -411,20 +425,6 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
-        <updated>2024-02-26T10:14:15.424Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
-        <updated>2024-02-26T00:57:09.791Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도] 〈'밥퍼' 후원금이 종교시설로?…'억 단위' 사용 정황〉관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000388545</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000388545"/>
@@ -437,6 +437,20 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004972044"/>
         <updated>2024-04-12T07:14:52.532Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올림픽대로에 취객 내려 준 택시, 교통사고 낸 택시… 모두 유죄 [법정 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442612</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442612"/>
+        <updated>2024-04-16T08:16:48.703Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“알아서 하겠다”며 올림픽대로에 내린 취객...내려준 택시기사 징역형[… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003442579</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003442579"/>
+        <updated>2024-04-16T08:16:48.704Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] "국민의힘 당원아니다"...한동훈 비서실장 김형동 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
         <updated>2024-02-26T21:12:59.361Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
-        <updated>2024-02-26T10:14:15.424Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <인천 송도 유일의 분만 가능한 산부인과 이전 무산… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/014/0005147214</id>
-        <link href="https://n.news.naver.com/mnews/article/014/0005147214"/>
-        <updated>2024-02-26T00:57:09.791Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스]]></content>
     </entry>
 </feed>
