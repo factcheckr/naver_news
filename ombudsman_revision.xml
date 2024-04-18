@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-18T02:23:00.926Z</updated>
+    <updated>2024-04-18T03:14:28.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어…]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
+        <updated>2024-04-18T03:14:22.685Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈'밥퍼' 후원금이 종교시설로?…'억 단위' 사용 정황〉관련]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000388545</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
         <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
         <updated>2024-03-26T05:12:30.512Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<한동훈 "김건희 사과 얘기한 적 없어"…김경률도 김 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012394006</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012394006"/>
-        <updated>2024-04-17T01:52:38.892Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
