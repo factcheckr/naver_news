@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-19T02:24:03.064Z</updated>
+    <updated>2024-04-19T03:13:48.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] [단독] 민변 사무차장, 위성정당 직행... 내부에선 "선 넘었…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002431099</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002431099"/>
+        <updated>2024-04-19T03:13:35.610Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어…]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000270380"/>
         <updated>2024-02-28T08:16:07.247Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<충주 신명학원 보복성 해고…방명화 전 교사 소송 승소>기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012394205</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012394205"/>
-        <updated>2024-02-26T21:12:59.361Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
