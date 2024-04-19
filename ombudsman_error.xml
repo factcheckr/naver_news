@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-04-19T14:13:10.826Z</updated>
+    <updated>2024-04-19T15:14:19.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 4월 13일자 24면 ‘22대 국회 초선 의원님들, 등원 전에 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/353/0000047769?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/353/0000047769?sid=001"/>
+        <updated>2024-04-19T15:14:01.700Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도문] 조수진 전 민주당 후보 관련 보도를 바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004327946?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003813596?sid=001"/>
         <updated>2024-01-28T18:14:02.783Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] '윤석열 대통령 재래시장 방문' 유튜브 영상]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000377272?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000377272?sid=001"/>
-        <updated>2024-01-28T10:13:02.135Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
