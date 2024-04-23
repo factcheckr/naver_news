@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T05:13:03.531Z</updated>
+    <updated>2024-04-23T06:18:46.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[고침] 국제(한은총재 "중동 확전 않는다면 환율…) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <‘위성정당’ 규탄 민변 임원들, 더불어민주연합 구성참여, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002686548</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002686548"/>
+        <updated>2024-04-23T06:18:32.145Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론]  '한동훈 비서실장' 김형동 의원, 불법 선거운동 정황 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000282452</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000282452"/>
+        <updated>2024-04-23T06:18:32.146Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] [단독] 민변 사무차장, 위성정당 직행... 내부에선 "선 넘었… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002431099</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002431099"/>
@@ -411,17 +425,17 @@
         <content type="html"><![CDATA[스포츠경향]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] “주주간 비밀계약서? 허위‧악성 주장…법적 책임 엄중… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/241/0003332472</id>
-        <link href="https://n.news.naver.com/mnews/article/241/0003332472"/>
-        <updated>2024-02-28T08:16:07.244Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
+        <title type="html"><![CDATA[[반론보도] <‘위성정당’ 규탄 민변 임원들, 더불어민주연합 구성참여, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002686548</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002686548"/>
+        <updated>2024-04-23T06:18:38.718Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려왔습니다] '논산 확산탄 공장 건설에 주민 반발' 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000270380</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000270380"/>
-        <updated>2024-02-28T08:16:07.247Z</updated>
+        <title type="html"><![CDATA[[정정 및 반론]  '한동훈 비서실장' 김형동 의원, 불법 선거운동 정황 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000282452</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000282452"/>
+        <updated>2024-04-23T06:18:38.720Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/144/0000946300"/>
         <updated>2024-02-29T07:14:14.537Z</updated>
         <content type="html"><![CDATA[스포츠경향]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] “주주간 비밀계약서? 허위‧악성 주장…법적 책임 엄중… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/241/0003332472</id>
-        <link href="https://n.news.naver.com/mnews/article/241/0003332472"/>
-        <updated>2024-02-28T08:16:07.244Z</updated>
-        <content type="html"><![CDATA[일간스포츠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] '논산 확산탄 공장 건설에 주민 반발' 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000270380</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000270380"/>
-        <updated>2024-02-28T08:16:07.247Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
