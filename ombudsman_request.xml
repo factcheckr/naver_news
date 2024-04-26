@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-26T13:14:06.266Z</updated>
+    <updated>2024-04-26T14:12:27.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜방심위, ‘부산저축은행 봐주기 의혹’ 보도 기자 출연 MBC…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011710200</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011710200"/>
+        <updated>2024-04-26T14:12:16.272Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 …]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
         <updated>2024-03-15T13:15:22.261Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]'돌아온 김부선 "이재명, 내 집와서 술마시고 대리불러"' 기…]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012410772</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012410772"/>
-        <updated>2024-03-06T07:12:20.134Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
