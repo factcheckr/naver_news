@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-26T05:13:19.367Z</updated>
+    <updated>2024-04-26T06:19:06.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음…]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004333434</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004333434"/>
+        <updated>2024-04-26T06:19:00.007Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] KBS 대하드라마 <고려거란전쟁>의 전우성 감독과 …]]></title>
         <id>https://n.news.naver.com/mnews/article/312/0000659895</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0004954745"/>
         <updated>2024-03-26T05:12:30.504Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 베트남 달랏 라비앙산 한국인 관광객 사망사고 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003344581</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003344581"/>
-        <updated>2024-03-26T05:12:30.506Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
