@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-26T12:24:03.200Z</updated>
+    <updated>2024-04-26T13:14:06.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[조수진 전 더불어민주당 강북을 후보 관련 보도[정정 및 반론보도] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
+        <updated>2024-04-26T13:13:54.002Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004333434</id>
         <link href="https://n.news.naver.com/mnews/article/011/0004333434"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알립니다] <팔면 팔수록 수수료 늘어나…쿠팡의 늪에 빠진 중소 셀러들>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004954745</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004954745"/>
-        <updated>2024-03-01T14:12:06.625Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
+        <updated>2024-04-26T13:13:59.851Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012410772"/>
         <updated>2024-03-06T07:12:20.134Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알립니다] <팔면 팔수록 수수료 늘어나…쿠팡의 늪에 빠진 중소 셀러들>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004954745</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004954745"/>
-        <updated>2024-03-01T14:12:06.625Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
