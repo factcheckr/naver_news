@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-26T04:15:35.933Z</updated>
+    <updated>2024-04-26T05:13:19.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] KBS 대하드라마 <고려거란전쟁>의 전우성 감독과 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000659895</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000659895"/>
+        <updated>2024-04-26T05:13:12.808Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈'한동훈 비대위' 닻 올리자마자…위원 '과거 발언 논란' …]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000389899</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003344581"/>
         <updated>2024-03-26T05:12:30.506Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도]베트남 달랏 랑비앙 산 한국인 관광객 사망 사고 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005386520</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005386520"/>
-        <updated>2024-03-26T05:12:30.507Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
