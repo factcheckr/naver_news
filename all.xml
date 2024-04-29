@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-29T00:58:39.133Z</updated>
+    <updated>2024-04-29T01:56:26.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[인사] 연합뉴스TV (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/030/0003201952?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/030/0003201952?sid=001"/>
-        <updated>2024-04-28T23:12:01.576Z</updated>
-        <content type="html"><![CDATA[전자신문]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[조수진 전 더불어민주당 강북을 후보 관련 보도[정정 및 반론보도] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003292552?sid=001</id>
@@ -215,6 +208,20 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 6월 12일자 [중기 24시]기업사냥꾼에 지분-지원 잃어… “경… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003521971?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003521971?sid=001"/>
+        <updated>2024-04-29T01:56:05.914Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 2017. 2. 27.자 「합격자 뒤바꾼 대안학교 교장 파면 요구」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002028919</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002028919"/>
+        <updated>2024-04-29T01:56:12.591Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] ＜방심위, ‘부산저축은행 봐주기 의혹’ 보도 기자 출연 MBC… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011710200</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011710200"/>
@@ -227,6 +234,13 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
         <updated>2024-04-26T13:13:54.002Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] <'부산저축銀' 봐주기 수사' 보도 기자 출연…> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014655531</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
+        <updated>2024-04-29T01:56:12.605Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -411,18 +425,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
-        <updated>2024-03-15T15:12:55.148Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<‘美문화원 점거’ 함운경 vs ‘美대사관저 방화 미수’… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003822454</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
-        <updated>2024-03-15T13:15:22.261Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[추후보도] 2017. 2. 27.자 「합격자 뒤바꾼 대안학교 교장 파면 요구」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002028919</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002028919"/>
+        <updated>2024-04-29T01:56:19.176Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜방심위, ‘부산저축은행 봐주기 의혹’ 보도 기자 출연 MBC… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -437,6 +444,13 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
         <updated>2024-04-26T13:13:54.002Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] <'부산저축銀' 봐주기 수사' 보도 기자 출연…> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014655531</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
+        <updated>2024-04-29T01:56:19.177Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -618,20 +632,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
         <updated>2024-03-19T06:17:50.257Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
-        <updated>2024-03-15T15:12:55.148Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<‘美문화원 점거’ 함운경 vs ‘美대사관저 방화 미수’… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003822454</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
-        <updated>2024-03-15T13:15:22.261Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-29T00:58:39.126Z</updated>
+    <updated>2024-04-29T01:56:26.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 2017. 2. 27.자 「합격자 뒤바꾼 대안학교 교장 파면 요구」…]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002028919</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002028919"/>
+        <updated>2024-04-29T01:56:19.176Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜방심위, ‘부산저축은행 봐주기 의혹’ 보도 기자 출연 MBC…]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011710200</id>
@@ -18,6 +25,13 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
         <updated>2024-04-26T13:13:59.851Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] <'부산저축銀' 봐주기 수사' 보도 기자 출연…> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014655531</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
+        <updated>2024-04-29T01:56:19.177Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음…]]></title>
@@ -199,20 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
         <updated>2024-03-26T05:12:30.492Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
-        <updated>2024-03-26T05:12:30.494Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<‘美문화원 점거’ 함운경 vs ‘美대사관저 방화 미수’…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003822454</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003822454"/>
-        <updated>2024-03-26T05:12:30.497Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
