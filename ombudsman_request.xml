@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-04-29T09:15:27.294Z</updated>
+    <updated>2024-04-29T10:15:05.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민주·진보당 연대에 '이재명 극좌숙주인가' 뉴데일리 칼럼 '주의']]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000122934</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000122934"/>
-        <updated>2024-04-17T05:13:12.336Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
         <updated>2024-03-19T06:17:50.257Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
+        <updated>2024-04-29T10:14:52.761Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
