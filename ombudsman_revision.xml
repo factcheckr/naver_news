@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-04-30T05:13:07.101Z</updated>
+    <updated>2024-04-30T06:17:52.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "가맹점주에 노조 권한 부여…전세계 유일" 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000832988</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000832988"/>
+        <updated>2024-04-30T06:17:45.559Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 2017. 2. 27.자 「합격자 뒤바꾼 대안학교 교장 파면 요구」…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002028919</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
         <updated>2024-04-30T02:22:55.015Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] ‘비명학살’ 하위 20% 평가…‘이재명 성남시’ 업체들 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003347703</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003347703"/>
-        <updated>2024-04-30T02:22:55.016Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
