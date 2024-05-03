@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-05-03T05:14:02.477Z</updated>
+    <updated>2024-05-03T06:17:55.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <2023.3.17.자 [최병성 리포트] 보도> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002432494?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002432494?sid=001"/>
+        <updated>2024-05-03T06:17:36.993Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조수진 전 더불어민주당 강북을 후보 관련 보도[정정 및 반론보도]]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003292552?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003815467?sid=001"/>
         <updated>2024-02-06T18:14:06.380Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 6월 12일자 [중기 24시]기업사냥꾼에 지분-지원 잃어… “경…]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003521971?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003521971?sid=001"/>
-        <updated>2024-04-29T01:56:05.914Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
