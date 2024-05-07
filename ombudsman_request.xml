@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-07T14:12:47.885Z</updated>
+    <updated>2024-05-07T15:12:54.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <2023.3.17.자 [최병성 리포트] 보도> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002432494</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002432494"/>
+        <updated>2024-05-07T15:12:40.542Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "가맹점주에 노조 권한 부여…전세계 유일" 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000832988</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
         <updated>2024-03-20T05:14:03.052Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정청래 의원 관련 정정 및 반론 보도]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003822526</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003822526"/>
-        <updated>2024-03-19T06:17:50.257Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
