@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-09T01:59:06.492Z</updated>
+    <updated>2024-05-09T02:31:32.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜"벌레도 같이 코팅" SNS 인기업체 '불법 시공' 경찰 수사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002033129</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002033129"/>
+        <updated>2024-05-09T02:31:21.167Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <2023.3.17.자 [최병성 리포트] 보도> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002432494</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/366/0000979990"/>
         <updated>2024-03-22T05:14:10.382Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘XX 욕설 파문’ 방심위원 2명 해촉…야권 인사 1명만 남아 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005394719</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005394719"/>
-        <updated>2024-03-20T05:14:03.052Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
