@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-05-10T08:17:33.864Z</updated>
+    <updated>2024-05-10T09:14:51.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '[단독]경찰, 재향경우회 회장 기부금 전용 의혹 입건' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012539927</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012539927"/>
+        <updated>2024-05-10T09:14:45.801Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜"벌레도 같이 코팅" SNS 인기업체 '불법 시공' 경찰 수사…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002033129</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002013779"/>
         <updated>2024-04-30T02:22:55.010Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <[단독]윈저글로벌 인수 주체는 현 대표 미성년자  …]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0000979990</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0000979990"/>
-        <updated>2024-04-30T02:22:55.012Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
