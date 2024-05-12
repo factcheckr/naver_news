@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-12T11:11:34.323Z</updated>
+    <updated>2024-05-12T12:24:45.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]신태양건설 부도 관련 보도를 바로잡습니다. (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/082/0001269615?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/082/0001269615?sid=001"/>
+        <updated>2024-05-12T12:24:27.410Z</updated>
+        <content type="html"><![CDATA[부산일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003449677?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003817015?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003817015?sid=001"/>
         <updated>2024-02-15T19:11:18.491Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 3일 자 A14면 ‘매티스도 매케인도 추천 美의원이 또 꺼… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003815467?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003815467?sid=001"/>
-        <updated>2024-02-06T18:14:06.380Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
