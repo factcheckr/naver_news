@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-14T05:14:26.209Z</updated>
+    <updated>2024-05-14T06:20:05.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「강남 노른자 PF사업도 위태…구조조정 미루다 위기 반… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -320,6 +320,20 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[벽산그룹 3세 음란물 유포 혐의 항소심도 무죄 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005027389</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005027389"/>
+        <updated>2024-05-14T06:19:52.624Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["피해자 성적 대상 삼아" TYM 장남, 무죄…계속되는 오너리스크 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005027477</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005027477"/>
+        <updated>2024-05-14T06:19:52.626Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
@@ -409,20 +423,6 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003917737"/>
         <updated>2024-03-26T04:15:01.045Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈6살 장애아 뺨·명치 때린 재활사…센터장은 "합의해야 환… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000385460</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000385460"/>
-        <updated>2024-03-25T06:17:35.563Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <이재명 아내 수행했던 권향엽 전남 공천 논란> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003823906</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003823906"/>
-        <updated>2024-03-22T09:14:42.889Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 소방관 공기호흡기 불량 보도 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -530,6 +530,20 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[벽산그룹 3세 음란물 유포 혐의 항소심도 무죄 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005027389</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005027389"/>
+        <updated>2024-05-14T06:19:58.438Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["피해자 성적 대상 삼아" TYM 장남, 무죄…계속되는 오너리스크 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005027477</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005027477"/>
+        <updated>2024-05-14T06:19:58.439Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003917737"/>
         <updated>2024-03-26T04:15:01.045Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈6살 장애아 뺨·명치 때린 재활사…센터장은 "합의해야 환… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000385460</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000385460"/>
-        <updated>2024-03-25T06:17:35.563Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <이재명 아내 수행했던 권향엽 전남 공천 논란> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003823906</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003823906"/>
-        <updated>2024-03-22T09:14:42.889Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
