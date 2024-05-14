@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-14T06:20:05.093Z</updated>
+    <updated>2024-05-14T07:14:04.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "애견카페서 견종차별?"…진돗개 '믹스견' 출입 거부 당해 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001155023</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001155023"/>
+        <updated>2024-05-14T07:13:52.424Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 소방관 공기호흡기 불량 보도 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002034107</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/022/0003918162</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003918162"/>
         <updated>2024-03-26T08:16:10.926Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정·반론보도] ‘초과근무 통제 공문’ 수사·안전 기관 4곳 중 경찰 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003917737</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003917737"/>
-        <updated>2024-03-26T04:15:01.045Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
