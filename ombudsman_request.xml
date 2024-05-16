@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-16T09:15:29.297Z</updated>
+    <updated>2024-05-16T10:14:32.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] "가상현실 집 사면 돈 된다"…'메타버스 투자사기'…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000392969</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000392969"/>
+        <updated>2024-05-16T10:14:20.532Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <“진돗개 믹스견은 소형견 아냐…애견카페 실랑이 화제> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001696020</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003879793"/>
         <updated>2024-03-29T09:12:35.550Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알려왔습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002682971</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002682971"/>
-        <updated>2024-03-28T08:15:58.255Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
