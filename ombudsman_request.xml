@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-20T04:17:35.246Z</updated>
+    <updated>2024-05-20T05:16:27.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003297157</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003297157"/>
+        <updated>2024-05-20T05:16:13.719Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]＜"십일조 안 내면 유산"...만민중앙교회 목사 수억 가로챈 …]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002036307</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
         <updated>2024-04-01T07:12:39.858Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전…]]></title>
-        <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
-        <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
-        <updated>2024-04-01T05:14:58.899Z</updated>
-        <content type="html"><![CDATA[디스패치]]></content>
     </entry>
 </feed>
