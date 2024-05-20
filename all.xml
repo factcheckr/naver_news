@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-20T07:14:27.748Z</updated>
+    <updated>2024-05-20T08:19:33.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[정정 보도]故장자연, 어머니 기일 술 접대 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012556236?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012556236?sid=001"/>
+        <updated>2024-05-20T08:19:14.574Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「강남 노른자 PF사업도 위태…구조조정 미루다 위기 반… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003564376?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003819154?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003819154?sid=001"/>
         <updated>2024-05-12T22:13:06.170Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 14일 자 A8면 〈개혁신당 첫 최고위 이원욱 경기도 화성… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003817230?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003817230?sid=001"/>
-        <updated>2024-05-12T22:13:06.171Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
