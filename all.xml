@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-20T02:01:39.383Z</updated>
+    <updated>2024-05-20T03:17:58.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「강남 노른자 PF사업도 위태…구조조정 미루다 위기 반… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -229,6 +229,13 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[추후보도문]"SNS 영상 계속 올리면 스토킹"...유튜버 구제역, 스토커… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000801600</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000801600"/>
+        <updated>2024-05-20T03:17:46.530Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <“진돗개 믹스견은 소형견 아냐…애견카페 실랑이 화제> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001696020</id>
         <link href="https://n.news.naver.com/mnews/article/005/0001696020"/>
@@ -418,13 +425,6 @@
         <content type="html"><![CDATA[디스패치]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려왔습니다]〈野, ‘김혜경 보좌’ 권향엽 여성전략특구 만들어 공천…… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003556253</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003556253"/>
-        <updated>2024-03-29T13:13:58.143Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도]＜"십일조 안 내면 유산"...만민중앙교회 목사 수억 가로챈 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002036307</id>
         <link href="https://n.news.naver.com/mnews/article/052/0002036307"/>
@@ -437,6 +437,13 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000392969"/>
         <updated>2024-05-16T10:14:20.532Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[추후보도문]"SNS 영상 계속 올리면 스토킹"...유튜버 구제역, 스토커… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000801600</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000801600"/>
+        <updated>2024-05-20T03:17:52.043Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <“진돗개 믹스견은 소형견 아냐…애견카페 실랑이 화제> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
         <updated>2024-04-01T04:16:26.180Z</updated>
         <content type="html"><![CDATA[디스패치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다]〈野, ‘김혜경 보좌’ 권향엽 여성전략특구 만들어 공천…… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003556253</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003556253"/>
-        <updated>2024-03-29T13:13:58.143Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
 </feed>
