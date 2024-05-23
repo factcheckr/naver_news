@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-05-23T17:14:20.259Z</updated>
+    <updated>2024-05-23T18:18:01.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 기독교복음침례회 및 유병언 전 회장 관련 정정 및 반론…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000880430?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000880430?sid=001"/>
+        <updated>2024-05-23T18:17:40.553Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 보도]故장자연, 어머니 기일 술 접대 관련 보도를 바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012556236?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/449/0000269294?sid=001"/>
         <updated>2024-05-12T22:13:06.169Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 17일자 B5면 ‘지우다 못해 조작까지 해서 없애버리는 이…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003819154?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003819154?sid=001"/>
-        <updated>2024-05-12T22:13:06.170Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
