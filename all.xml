@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-23T01:58:28.807Z</updated>
+    <updated>2024-05-23T02:30:11.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정 보도]故장자연, 어머니 기일 술 접대 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 국가인권위원회 상임위원 김용원 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002690558</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002690558"/>
+        <updated>2024-05-23T02:29:59.490Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003297157</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003297157"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
-        <updated>2024-04-01T07:12:39.858Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA[[반론보도] 국가인권위원회 상임위원 김용원 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002690558</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002690558"/>
+        <updated>2024-05-23T02:30:05.410Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000825709"/>
         <updated>2024-04-03T07:12:03.530Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
-        <updated>2024-04-01T07:12:39.858Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>

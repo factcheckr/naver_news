@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-05-23T01:58:28.811Z</updated>
+    <updated>2024-05-23T02:30:11.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 국가인권위원회 상임위원 김용원 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002690558</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002690558"/>
+        <updated>2024-05-23T02:30:05.410Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 …]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003297157</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000825709"/>
         <updated>2024-04-30T02:22:54.997Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판…]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
-        <updated>2024-04-30T02:22:54.998Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
