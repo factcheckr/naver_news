@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-29T06:21:53.090Z</updated>
+    <updated>2024-05-29T07:13:44.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -160,20 +160,6 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벽산그룹 3세 음란물 유포 혐의 항소심도 무죄]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005027389</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005027389"/>
-        <updated>2024-05-14T06:19:52.624Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피해자 성적 대상 삼아" TYM 장남, 무죄…계속되는 오너리스크]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005027477</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005027477"/>
-        <updated>2024-05-14T06:19:52.626Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어…]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
@@ -214,5 +200,19 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000825709"/>
         <updated>2024-04-03T07:12:03.530Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판…]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
+        <updated>2024-05-29T07:13:31.374Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전…]]></title>
+        <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
+        <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
+        <updated>2024-05-29T07:13:31.376Z</updated>
+        <content type="html"><![CDATA[디스패치]]></content>
     </entry>
 </feed>
