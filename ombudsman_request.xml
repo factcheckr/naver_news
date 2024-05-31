@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-05-31T07:12:57.942Z</updated>
+    <updated>2024-05-31T08:18:08.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '한 명 반대해서, 시기 놓쳐서…사라지는 21대 경제법안' 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004991652</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004991652"/>
+        <updated>2024-05-31T08:17:57.164Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '이해관계 충돌 속…로톡법 상정 무산' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004991651</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004991651"/>
+        <updated>2024-05-31T08:17:57.166Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]〈기자 폭행 논란 언론사, 간부는 "그건 사랑이잖아요"〉 등 …]]></title>
         <id>https://n.news.naver.com/mnews/article/006/0000124177</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005402326"/>
         <updated>2024-04-05T07:12:34.658Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '셀리버리, 백화점·유흥업소 등서 수억원 '법카' 사용 의혹…]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000825709</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000825709"/>
-        <updated>2024-04-03T07:12:03.530Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 김부겸·정세균, 선대위장 제안 '거절'…유시민 등판…]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007450874</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
-        <updated>2024-05-29T07:13:31.374Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
