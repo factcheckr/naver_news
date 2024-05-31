@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-31T01:01:31.728Z</updated>
+    <updated>2024-05-31T02:02:17.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]5월22일 '"이승기가 해결할 것" 임영규, 싱글맘에....'  … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]〈기자 폭행 논란 언론사, 간부는 "그건 사랑이잖아요"〉 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000124177</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000124177"/>
+        <updated>2024-05-31T02:02:06.515Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 국가인권위원회 상임위원 김용원 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002690558</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002690558"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
-        <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
-        <updated>2024-05-29T07:13:31.376Z</updated>
-        <content type="html"><![CDATA[디스패치]]></content>
+        <title type="html"><![CDATA[[반론보도]〈기자 폭행 논란 언론사, 간부는 "그건 사랑이잖아요"〉 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000124177</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000124177"/>
+        <updated>2024-05-31T02:02:11.874Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 국가인권위원회 상임위원 김용원 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0007450874"/>
         <updated>2024-05-29T07:13:31.374Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] "누가 '심해'의 주인입니까"…시나리오 논란의 전… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/433/0000102974</id>
-        <link href="https://n.news.naver.com/mnews/article/433/0000102974"/>
-        <updated>2024-05-29T07:13:31.376Z</updated>
-        <content type="html"><![CDATA[디스패치]]></content>
     </entry>
 </feed>
