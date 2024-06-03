@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-03T19:12:42.542Z</updated>
+    <updated>2024-06-03T20:15:05.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 대구연기학원 '진실' 법원 판결, 2018년 3월 1일자 '대…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000575754?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000575754?sid=001"/>
+        <updated>2024-06-03T20:14:45.253Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]5월22일 '"이승기가 해결할 것" 임영규, 싱글맘에....'  …]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005044133?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003820380?sid=001"/>
         <updated>2024-05-12T22:13:06.166Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003282773?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003282773?sid=001"/>
-        <updated>2024-05-12T22:13:06.167Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
