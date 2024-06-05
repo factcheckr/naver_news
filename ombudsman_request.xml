@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-05T14:15:20.443Z</updated>
+    <updated>2024-06-05T15:14:46.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<초대 전남연구원장 이례적 단독추천 놓고 '의견 분분'> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012590553</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012590553"/>
+        <updated>2024-06-05T15:14:34.389Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '한 명 반대해서, 시기 놓쳐서…사라지는 21대 경제법안' 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0004991652</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/002/0002326753"/>
         <updated>2024-04-06T05:12:48.292Z</updated>
         <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정정보도 <野, 시민사회 몫 비례 후보에 '이재명 캠프' 변호사> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005402326</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005402326"/>
-        <updated>2024-04-05T07:12:34.658Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
