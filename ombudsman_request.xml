@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-11T03:16:19.099Z</updated>
+    <updated>2024-06-11T04:18:35.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<성남시 청년 지원 정책> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005430163</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005430163"/>
+        <updated>2024-06-11T04:18:23.408Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문]'국정농단 태블릿PC 조작됐다' 변희재 불구속 기소…허위…]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0007593523</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000388545"/>
         <updated>2024-04-15T06:17:20.250Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '이재명 방탄 올인…민주당 '종북·급진'과도 손잡았다' 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004972044</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004972044"/>
-        <updated>2024-04-12T07:14:52.532Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
