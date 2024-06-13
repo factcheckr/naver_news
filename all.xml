@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-13T04:17:15.924Z</updated>
+    <updated>2024-06-13T05:15:23.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]<변희재 불구속 기소… "유튜브서 허위사실 유포, 명예훼손"> … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] "교회서 쓰러진 여학생, 온몸 멍든 채 사망…'학대 혐의' 신… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001163119</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001163119"/>
+        <updated>2024-06-13T05:15:09.316Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <현주엽의 '휘문 농구부'에서 터진 잇단 의혹...서… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000806617</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000806617"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
-        <updated>2024-04-18T03:14:17.449Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[[반론보도] "교회서 쓰러진 여학생, 온몸 멍든 채 사망…'학대 혐의' 신… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001163119</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001163119"/>
+        <updated>2024-06-13T05:15:15.333Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <현주엽의 '휘문 농구부'에서 터진 잇단 의혹...서… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002431099"/>
         <updated>2024-04-19T03:13:35.610Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <친한 학생에게 시험채점·성적입력 맡긴 교사…징계절차 들어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002685893</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
-        <updated>2024-04-18T03:14:17.449Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
