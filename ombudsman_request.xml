@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-13T01:02:46.718Z</updated>
+    <updated>2024-06-13T02:30:34.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <현주엽의 '휘문 농구부'에서 터진 잇단 의혹...서…]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000806617</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000806617"/>
+        <updated>2024-06-13T02:30:23.982Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<성남시 청년 지원 정책> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005430163</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002685893"/>
         <updated>2024-04-18T03:14:17.449Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'밥퍼' 후원금이 종교시설로?…'억 단위' 사용 정황〉관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000388545</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000388545"/>
-        <updated>2024-04-15T06:17:20.250Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
