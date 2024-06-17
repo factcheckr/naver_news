@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-06-17T05:17:38.856Z</updated>
+    <updated>2024-06-17T06:21:33.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000080782</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000080782"/>
+        <updated>2024-06-17T06:21:27.336Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014750668</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000389899"/>
         <updated>2024-04-30T02:22:54.982Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <‘위성정당’ 규탄 민변 임원들, 더불어민주연합 구성참여, …]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002686548</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002686548"/>
-        <updated>2024-04-30T02:22:54.984Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

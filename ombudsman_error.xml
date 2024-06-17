@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-17T05:17:38.842Z</updated>
+    <updated>2024-06-17T06:21:33.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<‘국정농단 태블릿 허위사실 유포’ 변희재 명예훼손 혐의 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003458243?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003458243?sid=001"/>
+        <updated>2024-06-17T06:21:14.985Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<변희재 불구속 기소… "유튜브서 허위사실 유포, 명예훼손"> …]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005049948?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002425357?sid=001"/>
         <updated>2024-05-12T22:13:06.154Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 3월 4일자 B7면 ‘바둑 해설’ 기사]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003345993?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003345993?sid=001"/>
-        <updated>2024-05-12T22:13:06.155Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
