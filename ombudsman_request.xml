@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-16T23:17:23.853Z</updated>
+    <updated>2024-06-17T01:04:04.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014750668</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014750668"/>
+        <updated>2024-06-17T01:03:51.288Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「법원 "동료 여교수 강제추행한 교수 해임은 적법"」 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002049003</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002049003"/>
+        <updated>2024-06-17T01:03:51.288Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "교회서 쓰러진 여학생, 온몸 멍든 채 사망…'학대 혐의' 신…]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001163119</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002686548"/>
         <updated>2024-04-23T06:18:32.145Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론]  '한동훈 비서실장' 김형동 의원, 불법 선거운동 정황 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000282452</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000282452"/>
-        <updated>2024-04-23T06:18:32.146Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] [단독] 민변 사무차장, 위성정당 직행... 내부에선 "선 넘었…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002431099</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002431099"/>
-        <updated>2024-04-19T03:13:35.610Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
