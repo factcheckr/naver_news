@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-18T01:02:43.748Z</updated>
+    <updated>2024-06-18T02:31:18.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
         <updated>2024-06-17T08:18:30.328Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000080782</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000080782"/>
-        <updated>2024-06-17T06:21:21.550Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련]]></title>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/312/0000659895"/>
         <updated>2024-04-26T05:13:06.763Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'한동훈 비대위' 닻 올리자마자…위원 '과거 발언 논란' …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000389899</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000389899"/>
+        <updated>2024-06-18T02:31:05.689Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-18T01:02:43.744Z</updated>
+    <updated>2024-06-18T02:31:18.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000080782?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000080782?sid=001"/>
+        <updated>2024-06-18T02:30:58.953Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<‘국정농단 태블릿 허위사실 유포’ 변희재 명예훼손 혐의 기… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003458243?sid=001</id>
@@ -208,25 +215,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] "진급하려면 3천만원어치 주식사라 강요" 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002425357?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002425357?sid=001"/>
-        <updated>2024-05-12T22:13:06.154Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
         <updated>2024-06-17T08:18:30.328Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000080782</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000080782"/>
-        <updated>2024-06-17T06:21:21.550Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -425,18 +418,18 @@
         <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'한동훈 비대위' 닻 올리자마자…위원 '과거 발언 논란' … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000389899</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000389899"/>
+        <updated>2024-06-18T02:31:05.689Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
         <updated>2024-06-17T08:18:30.328Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000080782</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000080782"/>
-        <updated>2024-06-17T06:21:21.550Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -633,5 +626,12 @@
         <link href="https://n.news.naver.com/mnews/article/312/0000659895"/>
         <updated>2024-04-26T05:13:06.763Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'한동훈 비대위' 닻 올리자마자…위원 '과거 발언 논란' … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000389899</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000389899"/>
+        <updated>2024-06-18T02:31:11.964Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

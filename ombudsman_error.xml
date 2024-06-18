@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-18T01:02:43.747Z</updated>
+    <updated>2024-06-18T02:31:18.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000080782?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000080782?sid=001"/>
+        <updated>2024-06-18T02:30:58.953Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<‘국정농단 태블릿 허위사실 유포’ 변희재 명예훼손 혐의 기…]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003458243?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003821823?sid=001"/>
         <updated>2024-05-12T22:13:06.154Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "진급하려면 3천만원어치 주식사라 강요" 기사 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002425357?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002425357?sid=001"/>
-        <updated>2024-05-12T22:13:06.154Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
