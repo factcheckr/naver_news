@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-06-19T17:15:23.481Z</updated>
+    <updated>2024-06-19T18:18:15.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]경북대 간호대학 A교수 연구부정 의혹 재조사 관련 반론…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000622670</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000622670"/>
+        <updated>2024-06-19T18:18:08.114Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/312/0000659895"/>
         <updated>2024-04-30T02:22:54.980Z</updated>
         <content type="html"><![CDATA[텐아시아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'한동훈 비대위' 닻 올리자마자…위원 '과거 발언 논란' …]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000389899</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000389899"/>
-        <updated>2024-06-18T02:31:11.964Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
