@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-06-21T06:22:05.642Z</updated>
+    <updated>2024-06-21T07:14:46.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「학생 문제 해결하려 했더니 부당 전보‥학교 밖에서의 스…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001356445</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001356445"/>
+        <updated>2024-06-21T07:14:40.251Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다]경북대 간호대학 A교수 연구부정 의혹 재조사 관련 반론…]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000622670</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004333434"/>
         <updated>2024-04-30T02:22:54.979Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] KBS 대하드라마 <고려거란전쟁>의 전우성 감독과 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/312/0000659895</id>
-        <link href="https://n.news.naver.com/mnews/article/312/0000659895"/>
-        <updated>2024-04-30T02:22:54.980Z</updated>
-        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
 </feed>
