@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-06-24T05:14:28.808Z</updated>
+    <updated>2024-06-24T06:20:16.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「파주 용주골 성매매 집결지 철거」 밀착취재 기사들 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003944544</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003944544"/>
+        <updated>2024-06-24T06:20:03.611Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「학생 문제 해결하려 했더니 부당 전보‥학교 밖에서의 스…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001356445</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
         <updated>2024-04-29T01:56:12.605Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <이승기 '50억' 사태 재현되나, 무기한 계약 의혹도…인디 음…]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004333434</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004333434"/>
-        <updated>2024-04-26T06:18:53.786Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
