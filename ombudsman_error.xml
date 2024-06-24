@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-24T19:12:31.362Z</updated>
+    <updated>2024-06-24T20:15:22.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로 잡습니다]]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000638988?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000638988?sid=001"/>
+        <updated>2024-06-24T20:15:02.260Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광화문에서/유성열]매년 1만 건 넘게 ‘바로잡습니다’ 쓰는 법원]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003572418?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003824864?sid=001"/>
         <updated>2024-05-12T22:13:06.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고침] 경영권 분쟁 디딤이앤에프, 27일 임시 주총 개최]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000823843?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000823843?sid=001"/>
-        <updated>2024-05-12T22:13:06.152Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
