@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-25T06:20:08.579Z</updated>
+    <updated>2024-06-25T07:13:36.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 조수진 변호사 성범죄 가해자 변호 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003369092?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003369092?sid=001"/>
+        <updated>2024-06-25T07:13:15.567Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로 잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000638988?sid=001</id>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[[바로잡습니다] 3월30일 자 A2면 “‘與 보면 가슴 답답’ 보수층 입 닫았… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003826035?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003826035?sid=001"/>
-        <updated>2024-05-12T22:13:06.152Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 25일 자 A12면 ‘내년 최저임금 1만원 넘을까’ 기사 중 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003824864?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003824864?sid=001"/>
         <updated>2024-05-12T22:13:06.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
