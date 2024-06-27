@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-27T10:16:34.502Z</updated>
+    <updated>2024-06-27T11:12:31.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알려왔습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/658/0000077182?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/658/0000077182?sid=001"/>
+        <updated>2024-06-27T11:12:14.690Z</updated>
+        <content type="html"><![CDATA[국제신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 김영식 미래통합당 구미을 후보 지지 선언]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000641073?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003826810?sid=001"/>
         <updated>2024-05-12T22:13:06.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공영운 후보 딸 갭투자 논란’ 보도 바로잡습니다.]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000271929?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000271929?sid=001"/>
-        <updated>2024-05-12T22:13:06.152Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
