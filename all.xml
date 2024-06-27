@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-27T01:02:23.811Z</updated>
+    <updated>2024-06-27T02:30:47.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 김영식 미래통합당 구미을 후보 지지 선언 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[채널A]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 「끌어안고 입맞춤 했는데 해임취소 처분…법원은 “해임 적… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002327728</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002327728"/>
+        <updated>2024-06-27T02:30:35.176Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 「파주 용주골 성매매 집결지 철거」 밀착취재 기사들 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003944544</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003944544"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도문] <'부산저축銀' 봐주기 수사' 보도 기자 출연…> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014655531</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
-        <updated>2024-04-29T01:56:12.605Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
+        <title type="html"><![CDATA[[반론보도] 「끌어안고 입맞춤 했는데 해임취소 처분…법원은 “해임 적… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002327728</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002327728"/>
+        <updated>2024-06-27T02:30:40.867Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「파주 용주골 성매매 집결지 철거」 밀착취재 기사들 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
         <updated>2024-04-26T13:13:54.002Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문] <'부산저축銀' 봐주기 수사' 보도 기자 출연…> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014655531</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014655531"/>
-        <updated>2024-04-29T01:56:12.605Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
