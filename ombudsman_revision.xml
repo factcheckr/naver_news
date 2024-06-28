@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-06-28T06:19:51.311Z</updated>
+    <updated>2024-06-28T07:15:06.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <광주시도시공사, 첨단3지구 대행 개발 아파트 사업 또 특혜…]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000809365</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000809365"/>
+        <updated>2024-06-28T07:15:00.109Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「끌어안고 입맞춤 했는데 해임취소 처분…법원은 “해임 적…]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002327728</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011710200"/>
         <updated>2024-04-30T02:22:54.963Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
-        <updated>2024-04-30T02:22:54.963Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

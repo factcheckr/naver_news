@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-28T06:19:51.321Z</updated>
+    <updated>2024-06-28T07:15:06.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[알립니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -31,13 +31,6 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000638988?sid=001"/>
         <updated>2024-06-24T20:15:02.260Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광화문에서/유성열]매년 1만 건 넘게 ‘바로잡습니다’ 쓰는 법원 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003572418?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003572418?sid=001"/>
-        <updated>2024-06-24T14:14:12.824Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] '경북도 신공항 TV 토론회 제안'(1월 31일자 1면) 제하… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -213,6 +206,20 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003826810?sid=001"/>
         <updated>2024-05-12T22:13:06.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘공영운 후보 딸 갭투자 논란’ 보도 바로잡습니다. (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000271929?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000271929?sid=001"/>
+        <updated>2024-06-28T07:14:48.101Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <광주시도시공사, 첨단3지구 대행 개발 아파트 사업 또 특혜… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000809365</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000809365"/>
+        <updated>2024-06-28T07:14:54.163Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「끌어안고 입맞춤 했는데 해임취소 처분…법원은 “해임 적… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
-        <updated>2024-04-26T13:13:54.002Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[[반론보도] <광주시도시공사, 첨단3지구 대행 개발 아파트 사업 또 특혜… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000809365</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000809365"/>
+        <updated>2024-06-28T07:15:00.109Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「끌어안고 입맞춤 했는데 해임취소 처분…법원은 “해임 적… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011710200"/>
         <updated>2024-04-26T14:12:16.272Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <아난티 소액주주운동, 시작부터 휘청?…주주대표 사익 추구 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000832177</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000832177"/>
-        <updated>2024-04-26T13:13:54.002Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
