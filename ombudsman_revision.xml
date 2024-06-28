@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-06-28T14:13:45.921Z</updated>
+    <updated>2024-06-28T15:14:58.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 구본성, 회삿돈 부정 수급 의혹 전 임원 아워홈 사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001001114</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001001114"/>
+        <updated>2024-06-28T15:14:50.963Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <광주시도시공사, 첨단3지구 대행 개발 아파트 사업 또 특혜…]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000809365</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002028919"/>
         <updated>2024-04-30T02:22:54.963Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ＜방심위, ‘부산저축은행 봐주기 의혹’ 보도 기자 출연 MBC…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011710200</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011710200"/>
-        <updated>2024-04-30T02:22:54.963Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
