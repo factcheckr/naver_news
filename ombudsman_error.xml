@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-06-29T16:17:32.579Z</updated>
+    <updated>2024-06-29T17:12:28.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] '공무원 수영 동호회, 지원금 받으려 묻지마 행사?' 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000652283?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000652283?sid=001"/>
+        <updated>2024-06-29T17:12:07.019Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알립니다]]></title>
         <id>https://n.news.naver.com/mnews/article/658/0000077182?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003826810?sid=001"/>
         <updated>2024-05-12T22:13:06.152Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공영운 후보 딸 갭투자 논란’ 보도 바로잡습니다.]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000271929?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000271929?sid=001"/>
-        <updated>2024-06-28T07:14:48.101Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
