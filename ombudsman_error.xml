@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-07-01T06:21:35.708Z</updated>
+    <updated>2024-07-01T07:15:16.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 코스피 2804.31(▲6.49p, 0.23%) 마감]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001826960?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001826960?sid=001"/>
+        <updated>2024-07-01T07:14:56.040Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]조수진 전 민주당 강북을 후보 성범죄 가해자 변호 …]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000809714?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004327946?sid=001"/>
         <updated>2024-05-12T22:13:06.147Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<정정보도문>조수진 전 민주당 강북을 후보 관련 보도를 바로잡습니다.]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012486493?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012486493?sid=001"/>
-        <updated>2024-05-12T22:13:06.152Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
