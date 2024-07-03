@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-03T04:17:01.440Z</updated>
+    <updated>2024-07-03T05:15:33.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도] 조수진 전 민주당 강북을 후보 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -10,13 +10,6 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003574019?sid=001"/>
         <updated>2024-07-02T09:15:00.613Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 코스피 2804.31(▲6.49p, 0.23%) 마감 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001826960?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001826960?sid=001"/>
-        <updated>2024-07-01T07:14:56.040Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]조수진 전 민주당 강북을 후보 성범죄 가해자 변호 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -213,6 +206,13 @@
         <link href="https://n.news.naver.com/mnews/article/353/0000047769?sid=001"/>
         <updated>2024-05-12T22:13:06.147Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] 조수진 전 민주당 후보 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004327946?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004327946?sid=001"/>
+        <updated>2024-07-03T05:15:13.201Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도][단독]현직 수의사, 강형욱 '출장 안락사' 고발 예정 관련 보… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
