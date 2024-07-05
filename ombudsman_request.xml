@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-05T12:26:34.488Z</updated>
+    <updated>2024-07-05T13:16:22.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <평화야, 친구하자?…“평화 그림대회 내세우며 다음…]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001708747</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001708747"/>
+        <updated>2024-07-05T13:16:09.210Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <경기도 지역화폐사업으로 쑥쑥 큰 이 회사... 자녀…]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0001002375</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002033129"/>
         <updated>2024-05-09T02:31:21.167Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <2023.3.17.자 [최병성 리포트] 보도> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002432494</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002432494"/>
-        <updated>2024-05-07T15:12:40.542Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
