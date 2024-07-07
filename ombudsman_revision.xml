@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-07T06:19:43.318Z</updated>
+    <updated>2024-07-07T07:14:05.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <대법원, ‘동료 여교수 추행’ 평택대 교수 해임 처분 ‘…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002339856</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002339856"/>
+        <updated>2024-07-07T07:13:59.111Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도][단독]'직장 내 갑질' 사건 터졌는데…강북구청장, '…]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003913238</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002034107"/>
         <updated>2024-05-11T04:16:23.167Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '[단독]경찰, 재향경우회 회장 기부금 전용 의혹 입건' 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012539927</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012539927"/>
-        <updated>2024-05-10T09:14:45.801Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
