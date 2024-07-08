@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T05:16:46.901Z</updated>
+    <updated>2024-07-08T06:21:14.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도] <'女보좌진 성명' 묵살 시도 사건?>  관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <”측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
+        <updated>2024-07-08T06:21:03.026Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003463174</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003463174"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] "가상현실 집 사면 돈 된다"…'메타버스 투자사기'… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000392969</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000392969"/>
-        <updated>2024-05-16T10:14:20.532Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
+        <title type="html"><![CDATA[[반론보도] <”측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
+        <updated>2024-07-08T06:21:08.841Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002036307"/>
         <updated>2024-05-16T11:11:58.470Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] "가상현실 집 사면 돈 된다"…'메타버스 투자사기'… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000392969</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000392969"/>
-        <updated>2024-05-16T10:14:20.532Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
