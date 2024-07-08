@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-08T03:17:35.577Z</updated>
+    <updated>2024-07-08T04:19:01.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463174</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463174"/>
+        <updated>2024-07-08T04:18:48.709Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴직…]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463173</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463173"/>
+        <updated>2024-07-08T04:18:48.710Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<사망 직원 유가족 ‘직장내 괴롭힘’ 호소…강북구청장은 유럽 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463172</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463172"/>
+        <updated>2024-07-08T04:18:48.711Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] 「조수진 '2차 가해' 변호 논란…줄 잇는 사퇴 촉구…]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001169982</id>
@@ -193,26 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000392969"/>
         <updated>2024-05-16T10:14:20.532Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도문]"SNS 영상 계속 올리면 스토킹"...유튜버 구제역, 스토커…]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000801600</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000801600"/>
-        <updated>2024-05-20T03:17:46.530Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <“진돗개 믹스견은 소형견 아냐…애견카페 실랑이 화제> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001696020</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001696020"/>
-        <updated>2024-05-14T09:15:06.827Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "애견카페서 견종차별?"…진돗개 '믹스견' 출입 거부 당해 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001155023</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001155023"/>
-        <updated>2024-05-14T07:13:52.424Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
