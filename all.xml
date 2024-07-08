@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T19:11:59.467Z</updated>
+    <updated>2024-07-08T20:16:40.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도] <'女보좌진 성명' 묵살 시도 사건?>  관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463357</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463357"/>
+        <updated>2024-07-08T20:16:28.634Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463355</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463355"/>
+        <updated>2024-07-08T20:16:28.634Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <“측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
         <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003297157</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003297157"/>
-        <updated>2024-05-20T05:16:13.719Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] <이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463357</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463357"/>
+        <updated>2024-07-08T20:16:34.161Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]＜"십일조 안 내면 유산"...만민중앙교회 목사 수억 가로챈 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002036307</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002036307"/>
-        <updated>2024-05-16T11:11:58.470Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463355</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463355"/>
+        <updated>2024-07-08T20:16:34.169Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <“측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002690558"/>
         <updated>2024-05-23T02:29:59.490Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘쥴리 보도’ 징계하려는 김백 사장, KBS 박민처럼 공포정치” 보도 등 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003297157</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003297157"/>
-        <updated>2024-05-20T05:16:13.719Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]＜"십일조 안 내면 유산"...만민중앙교회 목사 수억 가로챈 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002036307</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002036307"/>
-        <updated>2024-05-16T11:11:58.470Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
