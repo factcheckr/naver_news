@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-08T02:33:14.795Z</updated>
+    <updated>2024-07-08T03:17:35.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 「조수진 '2차 가해' 변호 논란…줄 잇는 사퇴 촉구…]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001169982</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001169982"/>
+        <updated>2024-07-08T03:17:22.807Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] <대법원, ‘동료 여교수 추행’ 평택대 교수 해임 처분 ‘…]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002339856</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/055/0001155023"/>
         <updated>2024-05-14T07:13:52.424Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 소방관 공기호흡기 불량 보도 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002034107</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002034107"/>
-        <updated>2024-05-11T04:16:17.293Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
