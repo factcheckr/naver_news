@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-07-10T05:15:29.774Z</updated>
+    <updated>2024-07-10T06:20:13.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002340402?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002340402?sid=001"/>
+        <updated>2024-07-10T06:19:53.490Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] <'女보좌진 성명' 묵살 시도 사건?>  관련]]></title>
         <id>https://n.news.naver.com/mnews/article/448/0000465964?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/081/0003449677?sid=001"/>
         <updated>2024-05-12T22:13:06.145Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조수진 전 더불어민주당 강북을 후보 관련 보도[정정 및 반론보도]]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003292552?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003292552?sid=001"/>
-        <updated>2024-05-12T22:13:06.145Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
