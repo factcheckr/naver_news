@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-11T08:18:32.083Z</updated>
+    <updated>2024-07-11T09:16:40.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]([단독]“이재명, 방북 비용 합의 직후 北과 접촉 시도”) 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003845666</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003845666"/>
+        <updated>2024-07-11T09:16:28.403Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<의왕시의회 추경심의 “한치 부끄럼 없다” VS “협치가 부족…]]></title>
         <id>https://n.news.naver.com/mnews/article/468/0001075410</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/015/0004991652</id>
         <link href="https://n.news.naver.com/mnews/article/015/0004991652"/>
         <updated>2024-05-31T08:17:57.164Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '이해관계 충돌 속…로톡법 상정 무산' 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004991651</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004991651"/>
-        <updated>2024-05-31T08:17:57.166Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
