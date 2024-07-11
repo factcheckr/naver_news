@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-11T17:15:00.371Z</updated>
+    <updated>2024-07-11T18:19:18.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 330억 사기 논란 회사-황희 민주당 의원 다리 놓은 '청와대 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000689061</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000689061"/>
+        <updated>2024-07-11T18:19:11.471Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]([단독]“이재명, 방북 비용 합의 직후 北과 접촉 시도”) 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003845666</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012590553"/>
         <updated>2024-06-05T15:14:40.138Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '한 명 반대해서, 시기 놓쳐서…사라지는 21대 경제법안' 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004991652</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004991652"/>
-        <updated>2024-05-31T08:18:02.815Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
