@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-12T23:14:21.457Z</updated>
+    <updated>2024-07-13T01:04:15.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] < [단독] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발'> …]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
+        <updated>2024-07-13T01:04:03.081Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발']]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0004987753</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0004987753"/>
+        <updated>2024-07-13T01:04:03.082Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] 서울시 스피드 스케이팅팀 감독으로 선발된 A코치에 대한 빙…]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000691663</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002049003"/>
         <updated>2024-06-17T01:03:51.288Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "교회서 쓰러진 여학생, 온몸 멍든 채 사망…'학대 혐의' 신…]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001163119</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001163119"/>
-        <updated>2024-06-13T05:15:09.316Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <현주엽의 '휘문 농구부'에서 터진 잇단 의혹...서…]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000806617</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000806617"/>
-        <updated>2024-06-13T02:30:23.982Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
