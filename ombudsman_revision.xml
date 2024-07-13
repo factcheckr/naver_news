@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-13T08:17:36.916Z</updated>
+    <updated>2024-07-13T09:14:03.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]([단독]‘청담동’ 제보자, 첼리스트에 “술자리 부인하…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003846042</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
+        <updated>2024-07-13T09:13:57.342Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발" 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0014750668"/>
         <updated>2024-06-17T01:03:57.261Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「법원 "동료 여교수 강제추행한 교수 해임은 적법"」 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002049003</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002049003"/>
-        <updated>2024-06-17T01:03:57.261Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
