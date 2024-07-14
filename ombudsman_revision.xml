@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-14T20:14:52.087Z</updated>
+    <updated>2024-07-14T21:13:30.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '박원순 성추행 반박 도서' 서울 공공도서관 비치 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000700131</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000700131"/>
+        <updated>2024-07-14T21:13:24.784Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]([단독]‘청담동’ 제보자, 첼리스트에 “술자리 부인하…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003846042</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
         <updated>2024-06-17T08:18:36.465Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「법원, '동료 여교수 추행' 평택대 교수 해임…」관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014750668</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014750668"/>
-        <updated>2024-06-17T01:03:57.261Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
