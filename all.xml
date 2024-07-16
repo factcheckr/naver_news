@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-16T02:34:00.893Z</updated>
+    <updated>2024-07-16T03:19:50.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[속보] 코스피 2860.92(▲3.92p, 0.14%) 마감 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001829788?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001829788?sid=001"/>
-        <updated>2024-07-15T07:15:38.530Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]"10억대 강남 아파트 임차권 받은 담임 목사, 배임 혐의 수사… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0007583313?sid=001</id>
@@ -215,6 +208,13 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[바로잡습니다]「강남 노른자 PF사업도 위태…구조조정 미루다 위기 반… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003564376?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003564376?sid=001"/>
+        <updated>2024-07-16T03:19:31.280Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
@@ -240,13 +240,6 @@
         <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
         <updated>2024-07-13T01:04:03.081Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발' (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004987753</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004987753"/>
-        <updated>2024-07-13T01:04:03.082Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -425,6 +418,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
+        <updated>2024-07-16T03:19:37.756Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
@@ -450,13 +450,6 @@
         <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
         <updated>2024-07-13T01:04:03.081Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발' (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004987753</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004987753"/>
-        <updated>2024-07-13T01:04:03.082Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -633,5 +626,12 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000622670"/>
         <updated>2024-06-19T18:18:02.097Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
+        <updated>2024-07-16T03:19:43.934Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>

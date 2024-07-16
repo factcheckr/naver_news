@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-16T02:34:00.878Z</updated>
+    <updated>2024-07-16T03:19:50.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -31,13 +31,6 @@
         <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
         <updated>2024-07-13T01:04:03.081Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발']]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0004987753</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0004987753"/>
-        <updated>2024-07-13T01:04:03.082Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
@@ -214,5 +207,12 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000622670"/>
         <updated>2024-06-19T18:18:02.097Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
+        <updated>2024-07-16T03:19:37.756Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
