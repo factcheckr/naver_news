@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-17T06:20:54.584Z</updated>
+    <updated>2024-07-17T07:15:30.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <서천 임시상설시장 자리배치 때문에... 상인에 봉변당한 공…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002440209</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002440209"/>
+        <updated>2024-07-17T07:15:23.031Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000622670"/>
         <updated>2024-06-19T18:18:08.114Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 구원파 교회 사망사고 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000397482</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000397482"/>
-        <updated>2024-07-16T03:19:43.934Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
