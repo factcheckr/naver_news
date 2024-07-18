@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-07-18T18:20:23.442Z</updated>
+    <updated>2024-07-18T19:13:11.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 수성못 뮤지컬 프린지 페스티벌 장마로 1주일 연기]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000711132?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000711132?sid=001"/>
+        <updated>2024-07-18T19:12:48.759Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 그래픽(유상임 과학기술정보통신부 장관 후보자 프로필)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014814206?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000880430?sid=001"/>
         <updated>2024-05-23T18:17:40.553Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 보도]故장자연, 어머니 기일 술 접대 관련 보도를 바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012556236?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012556236?sid=001"/>
-        <updated>2024-05-20T08:19:14.574Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
