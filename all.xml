@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-18T10:15:51.253Z</updated>
+    <updated>2024-07-18T11:13:20.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[고침] 그래픽(유상임 과학기술정보통신부 장관 후보자 프로필) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014814206?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014814206?sid=001"/>
+        <updated>2024-07-18T11:13:00.512Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도]"10억대 강남 아파트 임차권 받은 담임 목사, 배임 혐의 수사… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0007583313?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012556236?sid=001"/>
         <updated>2024-05-20T08:19:14.574Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다]「강남 노른자 PF사업도 위태…구조조정 미루다 위기 반… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/020/0003564376?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/020/0003564376?sid=001"/>
-        <updated>2024-07-16T03:19:31.280Z</updated>
-        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
