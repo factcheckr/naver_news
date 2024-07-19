@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-19T15:16:23.758Z</updated>
+    <updated>2024-07-19T16:17:58.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] ‘2021 시민행복콘서트’ 코로나19 사회적 거리두기 격상… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
+        <updated>2024-07-19T16:17:45.495Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/586/0000083064</id>
         <link href="https://n.news.naver.com/mnews/article/586/0000083064"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 「학생 문제 해결하려 했더니 부당 전보‥학교 밖에서의 스… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001356445</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001356445"/>
-        <updated>2024-06-21T07:14:33.709Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
+        <updated>2024-07-19T16:17:51.803Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003944544"/>
         <updated>2024-06-24T06:20:03.611Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「학생 문제 해결하려 했더니 부당 전보‥학교 밖에서의 스… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001356445</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001356445"/>
-        <updated>2024-06-21T07:14:33.709Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>

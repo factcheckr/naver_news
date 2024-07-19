@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-07-19T15:16:23.761Z</updated>
+    <updated>2024-07-19T16:17:58.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
+        <updated>2024-07-19T16:17:51.803Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고…]]></title>
         <id>https://n.news.naver.com/mnews/article/586/0000083064</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003944544"/>
         <updated>2024-07-17T14:14:07.531Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「학생 문제 해결하려 했더니 부당 전보‥학교 밖에서의 스…]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001356445</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001356445"/>
-        <updated>2024-07-17T14:14:07.533Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
