@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-25T08:18:53.717Z</updated>
+    <updated>2024-07-25T09:16:58.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 허위사실 유포' 변희재 명예훼손 혐의 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014830051</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014830051"/>
+        <updated>2024-07-25T09:16:46.567Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<우기다가 안되니…서천 상인, 공무원에게 폭언·협박>관련]]></title>
         <id>https://n.news.naver.com/mnews/article/003/0012680579</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/366/0001001114"/>
         <updated>2024-06-28T15:14:44.631Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <광주시도시공사, 첨단3지구 대행 개발 아파트 사업 또 특혜…]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000809365</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000809365"/>
-        <updated>2024-06-28T07:14:54.163Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
