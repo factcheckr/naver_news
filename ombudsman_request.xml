@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-07-26T06:21:06.977Z</updated>
+    <updated>2024-07-26T07:14:03.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 PC 조작설' 변희재, 허위사실 유포로 재…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000403432</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000403432"/>
+        <updated>2024-07-26T07:13:49.745Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 허위사실 유포' 변희재 명예훼손 혐의 기…]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014830051</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012636996"/>
         <updated>2024-06-29T08:17:35.227Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 구본성, 회삿돈 부정 수급 의혹 전 임원 아워홈 사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001001114</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001001114"/>
-        <updated>2024-06-28T15:14:44.631Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
