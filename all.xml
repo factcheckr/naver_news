@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-04T23:16:11.021Z</updated>
+    <updated>2024-08-05T01:06:37.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] ‘2021 시민행복콘서트’ 코로나19 사회적 거리두기 격상… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
+        <updated>2024-08-05T01:06:24.521Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] ‘초유의 관급공사 반란’··· 업체가 천안시 공무원들 형사… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000815738</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000815738"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <경기도 지역화폐사업으로 쑥쑥 큰 이 회사... 자녀… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001002375</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001002375"/>
-        <updated>2024-07-05T01:02:37.530Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
+        <updated>2024-08-05T01:06:30.539Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ‘초유의 관급공사 반란’··· 업체가 천안시 공무원들 형사… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001708747"/>
         <updated>2024-07-05T13:16:09.210Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <경기도 지역화폐사업으로 쑥쑥 큰 이 회사... 자녀… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001002375</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001002375"/>
-        <updated>2024-07-05T01:02:37.530Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
