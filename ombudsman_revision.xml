@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-06T04:19:02.822Z</updated>
+    <updated>2024-08-06T05:14:56.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 새마을금고, 자녀 채용 비리 논란 前 선관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001010154</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001010154"/>
+        <updated>2024-08-06T05:14:49.262Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003913238"/>
         <updated>2024-07-17T14:14:07.517Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <평화야, 친구하자?…“평화 그림대회 내세우며 다음…]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001708747</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001708747"/>
-        <updated>2024-07-17T14:14:07.519Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
