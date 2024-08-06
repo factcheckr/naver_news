@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-06T07:15:13.010Z</updated>
+    <updated>2024-08-06T08:18:44.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] ‘2021 시민행복콘서트’ 코로나19 사회적 거리두기 격상… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,13 +215,6 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 새마을금고, 자녀 채용 비리 논란 前 선관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001010154</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001010154"/>
-        <updated>2024-08-06T05:14:43.127Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
@@ -425,11 +418,11 @@
         <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 새마을금고, 자녀 채용 비리 논란 前 선관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001010154</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001010154"/>
-        <updated>2024-08-06T05:14:43.127Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] <평화야, 친구하자?…“평화 그림대회 내세우며 다음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001708747</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001708747"/>
+        <updated>2024-08-06T08:18:32.040Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -633,5 +626,12 @@
         <link href="https://n.news.naver.com/mnews/article/079/0003913238"/>
         <updated>2024-07-05T14:14:18.271Z</updated>
         <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <평화야, 친구하자?…“평화 그림대회 내세우며 다음… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001708747</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001708747"/>
+        <updated>2024-08-06T08:18:37.885Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
