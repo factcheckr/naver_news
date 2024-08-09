@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-08-09T08:19:47.261Z</updated>
+    <updated>2024-08-09T09:17:18.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000897276?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000897276?sid=001"/>
+        <updated>2024-08-09T09:16:57.959Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] ‘2021 시민행복콘서트’ 코로나19 사회적 거리두기 격상…]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000712192?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0005044133?sid=001"/>
         <updated>2024-05-29T05:14:23.175Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 기독교복음침례회 및 유병언 전 회장 관련 정정 및 반론…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000880430?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000880430?sid=001"/>
-        <updated>2024-07-19T06:20:25.593Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
