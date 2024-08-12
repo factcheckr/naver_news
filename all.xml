@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-12T13:20:19.301Z</updated>
+    <updated>2024-08-12T14:17:06.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -213,6 +213,216 @@
         <link href="https://n.news.naver.com/mnews/article/008/0005044133?sid=001"/>
         <updated>2024-05-29T05:14:23.175Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <野 고민정 유세 나온 김미화...’파란 점퍼’ 입고 투표 인증… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003852069</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003852069"/>
+        <updated>2024-08-12T07:14:23.472Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<경찰청 안보수사국, 규격 미달 무선도청 탐지기 수의계약> 관련[반론보… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003313586</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003313586"/>
+        <updated>2024-08-07T10:15:42.823Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
+        <updated>2024-08-05T01:06:24.521Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘초유의 관급공사 반란’··· 업체가 천안시 공무원들 형사… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000815738</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000815738"/>
+        <updated>2024-08-02T06:22:17.191Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 PC 조작설' 변희재, 허위사실 유포로 재… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000403432</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000403432"/>
+        <updated>2024-07-26T07:13:49.745Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 허위사실 유포' 변희재 명예훼손 혐의 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014830051</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014830051"/>
+        <updated>2024-07-25T09:16:46.567Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<우기다가 안되니…서천 상인, 공무원에게 폭언·협박>관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012680579</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012680579"/>
+        <updated>2024-07-22T03:17:43.016Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '檢, '태블릿PC 통신사 가입 계약서 조작' 주장 변희재 불… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0012678015</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0012678015"/>
+        <updated>2024-07-19T22:15:10.127Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
+        <updated>2024-07-19T16:17:45.495Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000083064</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000083064"/>
+        <updated>2024-07-18T07:13:55.318Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <서천 임시상설시장 자리배치 때문에... 상인에 봉변당한 공… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002440209</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002440209"/>
+        <updated>2024-07-17T07:15:17.310Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
+        <updated>2024-07-16T01:04:57.849Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '박원순 성추행 반박 도서' 서울 공공도서관 비치 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000700131</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000700131"/>
+        <updated>2024-07-14T21:13:19.049Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]([단독]‘청담동’ 제보자, 첼리스트에 “술자리 부인하… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003846042</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
+        <updated>2024-07-13T09:13:51.369Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발" 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
+        <updated>2024-07-13T01:04:03.081Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 서울시 스피드 스케이팅팀 감독으로 선발된 A코치에 대한 빙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000691663</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000691663"/>
+        <updated>2024-07-12T17:14:20.612Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 「법사위원장까지 판사 공격 가세…‘이재명 로펌’ 된 법… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003373036</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003373036"/>
+        <updated>2024-07-12T13:17:26.257Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도]「조수진, 과거 '성범죄 변호' 논란...블로그 홍보성 글까지[… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002060169</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002060169"/>
+        <updated>2024-07-12T05:13:56.524Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 330억 사기 논란 회사-황희 민주당 의원 다리 놓은 '청와대 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000689061</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000689061"/>
+        <updated>2024-07-11T18:19:05.548Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]([단독]“이재명, 방북 비용 합의 직후 北과 접촉 시도”) 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003845666</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003845666"/>
+        <updated>2024-07-11T09:16:28.403Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<의왕시의회 추경심의 “한치 부끄럼 없다” VS “협치가 부족… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/468/0001075410</id>
+        <link href="https://n.news.naver.com/mnews/article/468/0001075410"/>
+        <updated>2024-07-09T06:20:16.505Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<의왕시의회 박혜숙 부의장 “제1차 추경예산 만장일치 아니다… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/468/0001075408</id>
+        <link href="https://n.news.naver.com/mnews/article/468/0001075408"/>
+        <updated>2024-07-09T06:20:16.505Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463357</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463357"/>
+        <updated>2024-07-08T20:16:28.634Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463355</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463355"/>
+        <updated>2024-07-08T20:16:28.634Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <“측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
+        <updated>2024-07-08T06:21:03.026Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463174</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463174"/>
+        <updated>2024-07-08T04:18:48.709Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]<이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴직… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463173</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463173"/>
+        <updated>2024-07-08T04:18:48.710Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<사망 직원 유가족 ‘직장내 괴롭힘’ 호소…강북구청장은 유럽 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003463172</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003463172"/>
+        <updated>2024-07-08T04:18:48.711Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 「조수진 '2차 가해' 변호 논란…줄 잇는 사퇴 촉구… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001169982</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001169982"/>
+        <updated>2024-07-08T03:17:22.807Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <대법원, ‘동료 여교수 추행’ 평택대 교수 해임 처분 ‘… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002339856</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002339856"/>
+        <updated>2024-07-07T07:13:52.884Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <野 고민정 유세 나온 김미화...’파란 점퍼’ 입고 투표 인증… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
