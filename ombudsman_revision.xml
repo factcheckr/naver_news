@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-12T06:21:27.644Z</updated>
+    <updated>2024-08-12T07:14:36.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <野 고민정 유세 나온 김미화...’파란 점퍼’ 입고 투표 인증…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003852069</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003852069"/>
+        <updated>2024-08-12T07:14:29.693Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<경찰청 안보수사국, 규격 미달 무선도청 탐지기 수의계약> 관련[반론보…]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003313586</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/002/0002339856"/>
         <updated>2024-07-17T14:14:07.516Z</updated>
         <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도][단독]'직장 내 갑질' 사건 터졌는데…강북구청장, '…]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003913238</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003913238"/>
-        <updated>2024-07-17T14:14:07.517Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
