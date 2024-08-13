@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-13T06:21:55.297Z</updated>
+    <updated>2024-08-13T07:14:57.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]  「‘전주산 드론볼이라더니’.. 조립만 전주에서?」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/659/0000024402?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/659/0000024402?sid=001"/>
+        <updated>2024-08-13T07:14:37.737Z</updated>
+        <content type="html"><![CDATA[전주MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000897276?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000575754?sid=001"/>
         <updated>2024-06-03T20:14:45.253Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다]5월22일 '"이승기가 해결할 것" 임영규, 싱글맘에....'  … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005044133?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005044133?sid=001"/>
-        <updated>2024-05-29T05:14:23.175Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <검찰, 이재명 다시 조준…'정자동 개발 의혹' 수사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
