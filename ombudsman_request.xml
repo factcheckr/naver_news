@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-08-13T01:07:07.069Z</updated>
+    <updated>2024-08-13T02:36:39.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <검찰, 이재명 다시 조준…'정자동 개발 의혹' 수사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001835418</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001835418"/>
+        <updated>2024-08-13T02:36:25.612Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <野 고민정 유세 나온 김미화...’파란 점퍼’ 입고 투표 인증…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003852069</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/055/0001169982"/>
         <updated>2024-08-12T14:16:53.106Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] <대법원, ‘동료 여교수 추행’ 평택대 교수 해임 처분 ‘…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002339856</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002339856"/>
-        <updated>2024-08-12T14:16:53.107Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
