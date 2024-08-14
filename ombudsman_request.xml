@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-08-14T01:06:17.238Z</updated>
+    <updated>2024-08-14T02:35:40.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 이재명이 '사인'한 또 다른 특혜의혹... 검…]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000817689</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000817689"/>
+        <updated>2024-08-14T02:35:26.205Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <검찰, 이재명 다시 조준…'정자동 개발 의혹' 수사 …]]></title>
         <id>https://n.news.naver.com/mnews/article/057/0001835418</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/081/0003463172"/>
         <updated>2024-08-12T14:16:53.104Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 「조수진 '2차 가해' 변호 논란…줄 잇는 사퇴 촉구…]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001169982</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001169982"/>
-        <updated>2024-08-12T14:16:53.106Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
