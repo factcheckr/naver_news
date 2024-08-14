@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-08-14T05:15:19.267Z</updated>
+    <updated>2024-08-14T06:20:38.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] '아동 성폭행범 변호한 조수진…"아버지가 성병 옮…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005021645</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005021645"/>
+        <updated>2024-08-14T06:20:25.659Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 이재명이 '사인'한 또 다른 특혜의혹... 검…]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000817689</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/081/0003463173</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003463173"/>
         <updated>2024-08-12T14:16:53.103Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<사망 직원 유가족 ‘직장내 괴롭힘’ 호소…강북구청장은 유럽 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003463172</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003463172"/>
-        <updated>2024-08-12T14:16:53.104Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
