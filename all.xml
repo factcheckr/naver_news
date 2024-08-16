@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-16T14:14:34.631Z</updated>
+    <updated>2024-08-16T15:15:07.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도] '텔레그램으로 국산전투기 설계도 팔아넘긴 군인' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <“사료 특이점 없다”는데 88마리로 급증…고양이 폐사 미스터… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003380283</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003380283"/>
+        <updated>2024-08-16T15:14:52.838Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <"교회 목사, 반려견 목 조르고도 사과 안해"…뻔뻔한 태도… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003852949</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003852949"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <“측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
-        <updated>2024-07-08T06:21:03.026Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[반론보도] <“사료 특이점 없다”는데 88마리로 급증…고양이 폐사 미스터… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003380283</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003380283"/>
+        <updated>2024-08-16T15:15:00.464Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <"교회 목사, 반려견 목 조르고도 사과 안해"…뻔뻔한 태도… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/081/0003463355"/>
         <updated>2024-07-08T20:16:28.634Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <“측근 특채하고 직원 절반 계약 해지?”...오세희 민주당 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001002996</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
-        <updated>2024-07-08T06:21:03.026Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
