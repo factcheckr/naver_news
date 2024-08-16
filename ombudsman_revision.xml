@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-16T08:19:58.570Z</updated>
+    <updated>2024-08-16T09:17:27.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"교회 목사, 반려견 목 조르고도 사과 안해"…뻔뻔한 태도…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003852949</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003852949"/>
+        <updated>2024-08-16T09:17:21.424Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<[단독] 교장이 학교 CCTV 휴대폰 연동해 봤다... 감사 시작…]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000818038</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/366/0001002996"/>
         <updated>2024-07-17T14:14:07.509Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <물거품 우려 이순희(강북구청장) 1호 공약 신강북선> 등 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003463174</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003463174"/>
-        <updated>2024-07-17T14:14:07.511Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-08-16T08:19:58.573Z</updated>
+    <updated>2024-08-16T09:17:27.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '텔레그램으로 국산전투기 설계도 팔아넘긴 군인' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005351269?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005351269?sid=001"/>
+        <updated>2024-08-16T09:17:09.080Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의…]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000897276?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000575754?sid=001"/>
         <updated>2024-06-03T20:14:45.253Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다]5월22일 '"이승기가 해결할 것" 임영규, 싱글맘에....'  …]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005044133?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005044133?sid=001"/>
-        <updated>2024-08-13T08:18:48.293Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
