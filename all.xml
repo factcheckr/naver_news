@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-16T02:35:06.933Z</updated>
+    <updated>2024-08-16T03:19:15.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]<[단독] 교장이 학교 CCTV 휴대폰 연동해 봤다... 감사 시작… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000818038</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000818038"/>
+        <updated>2024-08-16T03:19:02.245Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '아동 성폭행범 변호한 조수진…"아버지가 성병 옮… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005021645</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005021645"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴직… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003463173</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003463173"/>
-        <updated>2024-07-08T04:18:48.710Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
+        <title type="html"><![CDATA[[반론보도]<[단독] 교장이 학교 CCTV 휴대폰 연동해 봤다... 감사 시작… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000818038</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000818038"/>
+        <updated>2024-08-16T03:19:08.315Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '아동 성폭행범 변호한 조수진…"아버지가 성병 옮… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -625,13 +632,6 @@
         <id>https://n.news.naver.com/mnews/article/081/0003463174</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003463174"/>
         <updated>2024-07-08T04:18:48.709Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]<이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴직… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003463173</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003463173"/>
-        <updated>2024-07-08T04:18:48.710Z</updated>
         <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
