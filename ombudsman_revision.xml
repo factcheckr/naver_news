@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-19T02:37:20.538Z</updated>
+    <updated>2024-08-19T03:16:59.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[사설] 국정원 껍데기 만들고 간첩법 막는 巨野…종북이 당…]]></title>
+        <id>https://n.news.naver.com/mnews/article/029/0002896015</id>
+        <link href="https://n.news.naver.com/mnews/article/029/0002896015"/>
+        <updated>2024-08-19T03:16:53.197Z</updated>
+        <content type="html"><![CDATA[디지털타임스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<반려묘 88마리의 죽음 ‘볼드모트 사료’ 공포 확산...반려동물 사료 안…]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003315517</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/468/0001075408"/>
         <updated>2024-07-17T14:14:07.505Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <이순희 강북구청장이 도입한 ‘질병휴직 심사’…“휴…]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003463357</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003463357"/>
-        <updated>2024-07-17T14:14:07.507Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
