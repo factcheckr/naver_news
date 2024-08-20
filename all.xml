@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-20T07:15:43.434Z</updated>
+    <updated>2024-08-20T08:19:43.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 카이스트 AI 대학원 교수 혐의없음 처분 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002076402?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002076402?sid=001"/>
+        <updated>2024-08-20T08:19:24.078Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '텔레그램으로 국산전투기 설계도 팔아넘긴 군인' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005351269?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/448/0000461976?sid=001"/>
         <updated>2024-06-11T03:16:00.246Z</updated>
         <content type="html"><![CDATA[TV조선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 대구연기학원 '진실' 법원 판결, 2018년 3월 1일자 '대… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000575754?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000575754?sid=001"/>
-        <updated>2024-06-03T20:14:45.253Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[사설] 국정원 껍데기 만들고 간첩법 막는 巨野…종북이 당… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
