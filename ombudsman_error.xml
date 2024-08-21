@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-08-21T06:20:50.690Z</updated>
+    <updated>2024-08-21T07:14:11.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] '교섭단체 요건 완화' 공수표였나…민주, 논의도 안…]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000863658?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000863658?sid=001"/>
+        <updated>2024-08-21T07:13:50.723Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 카이스트 AI 대학원 교수 혐의없음 처분]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002076402?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/016/0002320859?sid=001"/>
         <updated>2024-06-12T04:16:54.827Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿PC 조작설' 변희재, 허위사실 유포 혐의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/448/0000461976?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/448/0000461976?sid=001"/>
-        <updated>2024-06-11T03:16:00.246Z</updated>
-        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
 </feed>
