@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-23T07:14:57.275Z</updated>
+    <updated>2024-08-23T08:20:10.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <서울 최초 '편백 치유의 숲'···자연에게도 치유 공간일까> …]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000819311</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000819311"/>
+        <updated>2024-08-23T08:20:03.298Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[사설] 국정원 껍데기 만들고 간첩법 막는 巨野…종북이 당…]]></title>
         <id>https://n.news.naver.com/mnews/article/029/0002896015</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/468/0001075410</id>
         <link href="https://n.news.naver.com/mnews/article/468/0001075410"/>
         <updated>2024-07-17T14:14:07.503Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<의왕시의회 박혜숙 부의장 “제1차 추경예산 만장일치 아니다…]]></title>
-        <id>https://n.news.naver.com/mnews/article/468/0001075408</id>
-        <link href="https://n.news.naver.com/mnews/article/468/0001075408"/>
-        <updated>2024-07-17T14:14:07.505Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
