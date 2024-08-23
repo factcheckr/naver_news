@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-23T19:13:10.680Z</updated>
+    <updated>2024-08-23T20:16:43.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[추후보도] [제보K] 필리핀 어학연수 중 ‘아동 성추행’…“다들 나 몰라… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] "[단독] 새마을금고, 자녀 채용 비리로 면직된 선관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001013547</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001013547"/>
+        <updated>2024-08-23T20:16:30.655Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <서울 최초 '편백 치유의 숲'···자연에게도 치유 공간일까> … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000819311</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000819311"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]<의왕시의회 추경심의 “한치 부끄럼 없다” VS “협치가 부족… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/468/0001075410</id>
-        <link href="https://n.news.naver.com/mnews/article/468/0001075410"/>
-        <updated>2024-07-09T06:20:16.505Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] "[단독] 새마을금고, 자녀 채용 비리로 면직된 선관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001013547</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001013547"/>
+        <updated>2024-08-23T20:16:36.640Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <서울 최초 '편백 치유의 숲'···자연에게도 치유 공간일까> … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003845666"/>
         <updated>2024-07-11T09:16:28.403Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<의왕시의회 추경심의 “한치 부끄럼 없다” VS “협치가 부족… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/468/0001075410</id>
-        <link href="https://n.news.naver.com/mnews/article/468/0001075410"/>
-        <updated>2024-07-09T06:20:16.505Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
