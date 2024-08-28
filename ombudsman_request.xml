@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-08-28T06:21:23.559Z</updated>
+    <updated>2024-08-28T07:14:20.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
+        <updated>2024-08-28T07:14:04.250Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 …]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
         <updated>2024-08-12T14:16:53.087Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발" 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
-        <updated>2024-08-12T14:16:53.087Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T06:21:23.561Z</updated>
+    <updated>2024-08-28T07:14:20.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
+        <updated>2024-08-28T07:14:04.250Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발" 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
-        <updated>2024-07-13T01:04:03.081Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
+        <updated>2024-08-28T07:14:10.339Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
         <updated>2024-07-13T09:13:51.369Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "교육공무직은 '꿀'무직"…공무원들 '불만 폭발" 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005009221</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
-        <updated>2024-07-13T01:04:03.081Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
