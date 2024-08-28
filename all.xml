@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T02:37:52.195Z</updated>
+    <updated>2024-08-28T03:17:24.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
+        <updated>2024-08-28T03:17:10.657Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005026653</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005026653"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정보도] 서울시 스피드 스케이팅팀 감독으로 선발된 A코치에 대한 빙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000691663</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000691663"/>
-        <updated>2024-07-12T17:14:20.612Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
+        <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
+        <updated>2024-08-28T03:17:16.999Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
         <updated>2024-07-13T01:04:03.081Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 서울시 스피드 스케이팅팀 감독으로 선발된 A코치에 대한 빙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000691663</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000691663"/>
-        <updated>2024-07-12T17:14:20.612Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>

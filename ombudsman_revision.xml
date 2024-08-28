@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-28T02:37:52.193Z</updated>
+    <updated>2024-08-28T03:17:24.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
+        <updated>2024-08-28T03:17:16.999Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005026653</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005009221"/>
         <updated>2024-07-17T14:14:07.493Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 서울시 스피드 스케이팅팀 감독으로 선발된 A코치에 대한 빙…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000691663</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000691663"/>
-        <updated>2024-07-17T14:14:07.495Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
