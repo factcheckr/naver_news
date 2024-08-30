@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-30T05:15:22.129Z</updated>
+    <updated>2024-08-30T06:22:08.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]<내 자식 부회장 낙선에 앙갚음?...'악성민원' 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005083716</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005083716"/>
+        <updated>2024-08-30T06:21:55.270Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] '공무원 잡으려다 자기 꾀에 빠진 안산시 감사관' 등과 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000317438</id>
         <link href="https://n.news.naver.com/mnews/article/629/0000317438"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
-        <updated>2024-07-16T01:04:57.849Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
+        <title type="html"><![CDATA[[반론보도]<내 자식 부회장 낙선에 앙갚음?...'악성민원' 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005083716</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005083716"/>
+        <updated>2024-08-30T06:22:01.476Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] '공무원 잡으려다 자기 꾀에 빠진 안산시 감사관' 등과 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002440209"/>
         <updated>2024-07-17T07:15:17.310Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <장관 사라진 여가부 여성정책도 사라졌다> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003951010</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
-        <updated>2024-07-16T01:04:57.849Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
