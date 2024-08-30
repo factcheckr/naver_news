@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-08-30T12:28:54.336Z</updated>
+    <updated>2024-08-30T13:20:20.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
+        <updated>2024-08-30T13:20:07.393Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]「자녀 부회장 취소에 '무더기 민원' 학부모, 조희연 무고로 …]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0014903582</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
         <updated>2024-08-12T14:16:53.082Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도] 「[단독] "다이빙 국가대표 지도자, 미성년 선수 성폭행하고…]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000083064</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000083064"/>
-        <updated>2024-08-12T14:16:53.082Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
