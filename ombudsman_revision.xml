@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-08-30T07:15:10.027Z</updated>
+    <updated>2024-08-30T08:20:36.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]「자녀 부회장 취소에 '무더기 민원' 학부모, 조희연 무고로 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0014903582</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0014903582"/>
+        <updated>2024-08-30T08:20:29.222Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<내 자식 부회장 낙선에 앙갚음?...'악성민원' 학부모, 조희…]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005083716</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/586/0000083064"/>
         <updated>2024-07-18T07:14:01.441Z</updated>
         <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <서천 임시상설시장 자리배치 때문에... 상인에 봉변당한 공…]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002440209</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002440209"/>
-        <updated>2024-07-17T14:14:07.485Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
