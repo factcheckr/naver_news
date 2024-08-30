@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T23:15:54.806Z</updated>
+    <updated>2024-08-30T01:08:15.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] '공무원 잡으려다 자기 꾀에 빠진 안산시 감사관' 등과 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000317438</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000317438"/>
+        <updated>2024-08-30T01:08:02.205Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 〈‘자녀 부회장 탈락’에 민원…교육청에 고발 당한 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002356337</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002356337"/>
+        <updated>2024-08-30T01:08:02.205Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[세계일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] '박원순 성추행 반박 도서' 서울 공공도서관 비치 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000700131</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000700131"/>
-        <updated>2024-07-14T21:13:19.049Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
+        <title type="html"><![CDATA[[반론보도] '공무원 잡으려다 자기 꾀에 빠진 안산시 감사관' 등과 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000317438</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000317438"/>
+        <updated>2024-08-30T01:08:08.487Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]([단독]‘청담동’ 제보자, 첼리스트에 “술자리 부인하… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003846042</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
-        <updated>2024-07-13T09:13:51.369Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] 〈‘자녀 부회장 탈락’에 민원…교육청에 고발 당한 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002356337</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002356337"/>
+        <updated>2024-08-30T01:08:08.487Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003951010"/>
         <updated>2024-07-16T01:04:57.849Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '박원순 성추행 반박 도서' 서울 공공도서관 비치 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000700131</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000700131"/>
-        <updated>2024-07-14T21:13:19.049Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]([단독]‘청담동’ 제보자, 첼리스트에 “술자리 부인하… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003846042</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003846042"/>
-        <updated>2024-07-13T09:13:51.369Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
