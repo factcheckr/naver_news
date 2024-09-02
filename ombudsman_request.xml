@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-09-02T01:10:08.406Z</updated>
+    <updated>2024-09-02T02:42:47.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희…]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
+        <updated>2024-09-02T02:42:34.886Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012678015"/>
         <updated>2024-08-12T14:16:53.078Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
-        <updated>2024-08-12T14:16:53.082Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>

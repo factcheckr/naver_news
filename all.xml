@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-02T01:10:08.495Z</updated>
+    <updated>2024-09-02T02:42:47.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
+        <updated>2024-09-02T02:42:34.886Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
-        <updated>2024-07-19T16:17:45.495Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
+        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
+        <updated>2024-09-02T02:42:41.150Z</updated>
+        <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/003/0012678015"/>
         <updated>2024-07-19T22:15:10.127Z</updated>
         <content type="html"><![CDATA[뉴시스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <포항 인동SNC 소유권 다툼... 입주 업체 ‘직격탄’> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000712572</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000712572"/>
-        <updated>2024-07-19T16:17:45.495Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
