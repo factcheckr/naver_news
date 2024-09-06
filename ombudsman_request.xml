@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-09-06T12:29:23.660Z</updated>
+    <updated>2024-09-06T13:20:30.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 「자녀 부회장 당선 취소에 '무더기 민원' 학부모, …]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003936138</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003936138"/>
+        <updated>2024-09-06T13:20:18.685Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]「'악성민원' 고발 당한 학부모, 조희연 교육감 무고…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005030815</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0014830051"/>
         <updated>2024-08-12T14:16:53.078Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<우기다가 안되니…서천 상인, 공무원에게 폭언·협박>관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/003/0012680579</id>
-        <link href="https://n.news.naver.com/mnews/article/003/0012680579"/>
-        <updated>2024-08-12T14:16:53.078Z</updated>
-        <content type="html"><![CDATA[뉴시스]]></content>
     </entry>
 </feed>
