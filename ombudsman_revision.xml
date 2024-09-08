@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-09-08T08:18:49.445Z</updated>
+    <updated>2024-09-08T09:15:21.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈"임금 인상 어렵다"더니 법인카드로 골드바 구입한 카라, …]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000822171</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
+        <updated>2024-09-08T09:15:14.623Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] 「자녀 부회장 당선 취소에 '무더기 민원' 학부모, …]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003936138</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000403432"/>
         <updated>2024-07-26T07:13:55.456Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 허위사실 유포' 변희재 명예훼손 혐의 기…]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014830051</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014830051"/>
-        <updated>2024-07-25T09:16:51.951Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
