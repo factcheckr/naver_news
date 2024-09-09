@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-09-08T23:17:25.614Z</updated>
+    <updated>2024-09-09T01:11:24.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ＜머리하러 온 교회 목사…CCTV 돌려보고 ‘경악’ [잇슈 키…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011796882</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011796882"/>
+        <updated>2024-09-09T01:11:17.473Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈"임금 인상 어렵다"더니 법인카드로 골드바 구입한 카라, …]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000822171</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000815738"/>
         <updated>2024-08-02T06:22:23.782Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <'국정농단 태블릿 PC 조작설' 변희재, 허위사실 유포로 재…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000403432</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000403432"/>
-        <updated>2024-07-26T07:13:55.456Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
