@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-09-09T08:21:29.703Z</updated>
+    <updated>2024-09-09T09:18:42.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] “동물권행동 카라에서 노사 갈등 왜?…단체 사유화·노…]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002706686</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002706686"/>
+        <updated>2024-09-09T09:18:29.345Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ＜머리하러 온 교회 목사…CCTV 돌려보고 ‘경악’ [잇슈 키…]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011796882</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
         <updated>2024-08-12T14:16:53.072Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘초유의 관급공사 반란’··· 업체가 천안시 공무원들 형사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000815738</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000815738"/>
-        <updated>2024-08-12T14:16:53.076Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
