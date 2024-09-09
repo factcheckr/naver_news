@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-09-09T19:13:19.901Z</updated>
+    <updated>2024-09-09T20:17:20.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 9일자 종2면 ‘당뇨환자, 주사 고통 끝나나’]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003857718?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003857718?sid=001"/>
+        <updated>2024-09-09T20:17:00.931Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] (정정)전국 오후 6시 3461명 확진…서울시 발표 1258명→707명으…]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000736536?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005433528?sid=001"/>
         <updated>2024-06-18T08:19:11.835Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈'태블릿 PC 조작설' 변희재, 명예훼손 혐의 기소〉와 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000080782?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000080782?sid=001"/>
-        <updated>2024-06-18T02:30:58.953Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
     </entry>
 </feed>
