@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-09-13T15:17:10.580Z</updated>
+    <updated>2024-09-13T16:18:50.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 9월 11일 자 A2면 ‘43세 고이즈미, ‘늙은 나라’ 日서 사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003858676?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003858676?sid=001"/>
+        <updated>2024-09-13T16:18:24.602Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 9일자 종2면 ‘당뇨환자, 주사 고통 끝나나’]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003857718?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/005/0001704412?sid=001"/>
         <updated>2024-06-18T08:19:11.835Z</updated>
         <content type="html"><![CDATA[국민일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<"'국정농단' 태블릿PC 계약서 위조"…변희재 불구속 기소> …]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005433528?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005433528?sid=001"/>
-        <updated>2024-06-18T08:19:11.835Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
