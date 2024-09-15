@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-09-14T23:15:11.752Z</updated>
+    <updated>2024-09-15T01:17:23.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"이진숙 권력 좇은 변절자…MBC 세월호 보도 참사, 책임져…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002350932</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002350932"/>
+        <updated>2024-09-15T01:17:11.683Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] “동물권행동 카라에서 노사 갈등 왜?…단체 사유화·노…]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002706686</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003313586"/>
         <updated>2024-08-12T14:16:53.072Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]   〈法治가 망할 때까지 '法대로'〉 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000896099</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000896099"/>
-        <updated>2024-08-12T14:16:53.072Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
