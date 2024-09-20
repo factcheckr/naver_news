@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-09-20T05:15:55.031Z</updated>
+    <updated>2024-09-20T06:22:36.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] '[단독] 해피머니 판매자 충격 실체…'바다이야기' 주범이었…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005035091</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005035091"/>
+        <updated>2024-09-20T06:22:30.625Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <"이진숙 권력 좇은 변절자…MBC 세월호 보도 참사, 책임져…]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002350932</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003852069"/>
         <updated>2024-08-12T07:14:29.693Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<경찰청 안보수사국, 규격 미달 무선도청 탐지기 수의계약> 관련[반론보…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003313586</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003313586"/>
-        <updated>2024-08-07T10:15:48.788Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
