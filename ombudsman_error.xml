@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-09-23T20:19:39.093Z</updated>
+    <updated>2024-09-23T21:15:20.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 5월 28일자 34면 ‘미·일은 밀월인데 한국은 외톨이 신…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0002910444?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0002910444?sid=001"/>
+        <updated>2024-09-23T21:15:02.197Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 9월 11일 자 A2면 ‘43세 고이즈미, ‘늙은 나라’ 日서 사…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003858676?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002050513?sid=001"/>
         <updated>2024-06-19T23:14:38.457Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘태블릿 PC 조작설’ 변희재 재판행… 허위사실 유포 혐의]]></title>
-        <id>https://n.news.naver.com/mnews/article/005/0001704412?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/005/0001704412?sid=001"/>
-        <updated>2024-06-18T08:19:11.835Z</updated>
-        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
 </feed>
