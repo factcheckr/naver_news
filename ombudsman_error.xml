@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-09-25T08:22:07.243Z</updated>
+    <updated>2024-09-25T09:18:20.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대입 내비게이션 - 2020 수시특집] 바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0002932966?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0002932966?sid=001"/>
+        <updated>2024-09-25T09:18:01.626Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 서울교통공사 “무기계약직, 필기시험 포함 4단계 거쳐 …]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0002932603?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/055/0001165252?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/055/0001165252?sid=001"/>
         <updated>2024-06-20T08:18:24.805Z</updated>
-        <content type="html"><![CDATA[SBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]＜'국정농단 태블릿 허위사실 유포' 변희재 명예훼손 혐의 기…]]></title>
-        <id>https://n.news.naver.com/mnews/article/055/0001165251?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/055/0001165251?sid=001"/>
-        <updated>2024-06-20T08:18:24.806Z</updated>
         <content type="html"><![CDATA[SBS]]></content>
     </entry>
 </feed>
