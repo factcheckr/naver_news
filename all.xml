@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T17:14:56.528Z</updated>
+    <updated>2024-09-25T18:21:35.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 검찰, 박범계 의원 특별당비 요구 무혐의 처분 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0002938691?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0002938691?sid=001"/>
+        <updated>2024-09-25T18:21:14.567Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 서울교통공사 “정규직 전환은 노사 합의 따른 조치” (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003388490?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/088/0000638988?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000638988?sid=001"/>
         <updated>2024-06-24T20:15:02.260Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] '경북도 신공항 TV 토론회 제안'(1월 31일자 1면) 제하… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000630901?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000630901?sid=001"/>
-        <updated>2024-06-22T17:11:42.231Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
