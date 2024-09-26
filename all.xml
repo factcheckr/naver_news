@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-26T07:16:11.958Z</updated>
+    <updated>2024-09-26T08:21:22.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] [단독] 최재영 수심위 8대7로 기소의견…"5% 가능성이면 기… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000479570?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000479570?sid=001"/>
+        <updated>2024-09-26T08:21:02.131Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 검찰, 박범계 의원 특별당비 요구 무혐의 처분 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0002938691?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003369092?sid=001"/>
         <updated>2024-06-25T07:13:15.567Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로 잡습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000638988?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000638988?sid=001"/>
-        <updated>2024-06-24T20:15:02.260Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈"입 맞추고 몸 비비고" 남직원 상습 성추행한 체육회 여팀… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
