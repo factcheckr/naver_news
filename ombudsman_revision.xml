@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-09-29T22:14:33.742Z</updated>
+    <updated>2024-09-29T23:15:21.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]"자녀부회장 탈락하자 '악성민원'… 교육청 고발된 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/018/0005847067</id>
+        <link href="https://n.news.naver.com/mnews/article/018/0005847067"/>
+        <updated>2024-09-29T23:15:14.416Z</updated>
+        <content type="html"><![CDATA[이데일리]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈"입 맞추고 몸 비비고" 남직원 상습 성추행한 체육회 여팀…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000411769</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005021645"/>
         <updated>2024-08-14T06:20:31.920Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <[단독] 이재명이 '사인'한 또 다른 특혜의혹... 검…]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000817689</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000817689"/>
-        <updated>2024-08-14T02:35:33.251Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
