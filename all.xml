@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-30T14:16:40.739Z</updated>
+    <updated>2024-09-30T15:18:33.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 경제 1면 ‘규제에 벌금에 방산업계 비명’ 기사 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003010419?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003010419?sid=001"/>
+        <updated>2024-09-30T15:18:12.814Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] [단독] 최재영 수심위 8대7로 기소의견…"5% 가능성이면 기… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/448/0000479570?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000641073?sid=001"/>
         <updated>2024-06-25T18:19:06.410Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 조수진 변호사 성범죄 가해자 변호 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003369092?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003369092?sid=001"/>
-        <updated>2024-06-25T07:13:15.567Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 중앙일보 4월 1일자 사설 <‘코로나 영웅’ 의료진을 이토… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
