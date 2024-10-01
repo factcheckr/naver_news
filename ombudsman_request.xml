@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-01T05:16:58.372Z</updated>
+    <updated>2024-10-01T06:24:07.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 5월 18일자 “청와대 불려가더니…국방부, 대규…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003019646"/>
+        <updated>2024-10-01T06:23:55.065Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 『"정의연은 운동권 물주"…재벌 뺨치는 그들만의 일감 …]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/032/0003315517"/>
         <updated>2024-08-18T10:15:07.269Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <“사료 특이점 없다”는데 88마리로 급증…고양이 폐사 미스터…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003380283</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003380283"/>
-        <updated>2024-08-16T15:14:52.838Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
