@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-01T16:21:07.450Z</updated>
+    <updated>2024-10-01T17:14:50.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 7월 8일자 5면 ‘검찰, 옵티머스 특별수사팀 검…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003026021</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003026021"/>
+        <updated>2024-10-01T17:14:41.253Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]'검찰, 옵티머스 특별수사팀 검토…해외출국 이혁진 추적…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003025974</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003025974"/>
+        <updated>2024-10-01T17:14:41.253Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 중앙일보 5월 18일자 “청와대 불려가더니…국방부, 대규…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000819311"/>
         <updated>2024-08-23T08:20:03.298Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[사설] 국정원 껍데기 만들고 간첩법 막는 巨野…종북이 당…]]></title>
-        <id>https://n.news.naver.com/mnews/article/029/0002896015</id>
-        <link href="https://n.news.naver.com/mnews/article/029/0002896015"/>
-        <updated>2024-08-19T03:16:53.197Z</updated>
-        <content type="html"><![CDATA[디지털타임스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<반려묘 88마리의 죽음 ‘볼드모트 사료’ 공포 확산...반려동물 사료 안…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003315517</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003315517"/>
-        <updated>2024-08-18T10:15:13.771Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
