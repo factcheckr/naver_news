@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-01T03:31:58.315Z</updated>
+    <updated>2024-10-01T04:20:30.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 경제 1면 ‘규제에 벌금에 방산업계 비명’ 기사 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 『"정의연은 운동권 물주"…재벌 뺨치는 그들만의 일감 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003390101"/>
+        <updated>2024-10-01T04:20:16.934Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 『[단독]“‘아미’가  기부한  패딩…이용수·곽예남 할머… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
+        <updated>2024-10-01T04:20:16.943Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[알려왔습니다] 중앙일보 4월 1일자 사설 <‘코로나 영웅’ 의료진을 이토… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003002376</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003002376"/>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <"교회 목사, 반려견 목 조르고도 사과 안해"…뻔뻔한 태도… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003852949</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003852949"/>
-        <updated>2024-08-16T09:17:15.402Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[알려왔습니다] 『"정의연은 운동권 물주"…재벌 뺨치는 그들만의 일감 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003390101"/>
+        <updated>2024-10-01T04:20:23.129Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]<[단독] 교장이 학교 CCTV 휴대폰 연동해 봤다... 감사 시작… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000818038</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000818038"/>
-        <updated>2024-08-16T03:19:02.245Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[[바로잡습니다] 『[단독]“‘아미’가  기부한  패딩…이용수·곽예남 할머… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
+        <updated>2024-10-01T04:20:23.129Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 중앙일보 4월 1일자 사설 <‘코로나 영웅’ 의료진을 이토… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003380283"/>
         <updated>2024-08-16T15:14:52.838Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <"교회 목사, 반려견 목 조르고도 사과 안해"…뻔뻔한 태도… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003852949</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003852949"/>
-        <updated>2024-08-16T09:17:15.402Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<[단독] 교장이 학교 CCTV 휴대폰 연동해 봤다... 감사 시작… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000818038</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000818038"/>
-        <updated>2024-08-16T03:19:02.245Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
