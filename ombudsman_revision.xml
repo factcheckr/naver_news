@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-02T05:16:57.301Z</updated>
+    <updated>2024-10-02T06:22:52.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도]‘조희연 서울시교육감, '무더기 악성 민원' 학부모에…]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005479218</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005479218"/>
+        <updated>2024-10-02T06:22:45.912Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 중앙일보 7월 8일자 5면 ‘검찰, 옵티머스 특별수사팀 검…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003026021</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/366/0001013547"/>
         <updated>2024-08-23T20:16:36.640Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <서울 최초 '편백 치유의 숲'···자연에게도 치유 공간일까> …]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000819311</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000819311"/>
-        <updated>2024-08-23T08:20:03.298Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
