@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-04T07:15:50.491Z</updated>
+    <updated>2024-10-04T08:21:14.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] ‘무더기 민원’ 학부모, 서울교육감까지 고소 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004399279</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004399279"/>
+        <updated>2024-10-04T08:21:07.768Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 법무부 특수활동비 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003062325</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002078651"/>
         <updated>2024-08-25T18:18:27.872Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] “가족이 죽었는데 이유조차 모르는 게 말이 되나요” 등 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002704183</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002704183"/>
-        <updated>2024-08-25T01:11:15.918Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
