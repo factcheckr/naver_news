@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-06T02:53:40.130Z</updated>
+    <updated>2024-10-06T03:24:12.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」…]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003090553</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003090553"/>
+        <updated>2024-10-06T03:24:04.225Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다]국립중앙의료원 피부과 레지던트 정원 증원 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003084296</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005026653"/>
         <updated>2024-08-28T01:07:42.030Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 끊이지 않는 연구비 ‘풀링’... 서울 의대도 6억 횡…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003854684</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003854684"/>
-        <updated>2024-08-26T02:37:47.972Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
