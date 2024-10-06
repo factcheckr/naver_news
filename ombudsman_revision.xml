@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-06T21:14:16.365Z</updated>
+    <updated>2024-10-06T22:14:36.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003101786</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003101786"/>
+        <updated>2024-10-06T22:14:29.482Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] <[단독] “30% 수익 인증 글에 홀렸다” 암호화폐 100억 …]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003094193</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
         <updated>2024-08-28T07:14:10.339Z</updated>
         <content type="html"><![CDATA[한겨레]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <한동훈, 조국 등 야당 대표 예방 미루는 이유는?> 등 기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002444255</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
-        <updated>2024-08-28T03:17:16.999Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
