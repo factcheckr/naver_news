@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-06T08:19:07.676Z</updated>
+    <updated>2024-10-06T09:18:22.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] <[오병상의 코멘터리]김상조 경질…몰락하는 참여연대> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003094195?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003094195?sid=001"/>
+        <updated>2024-10-06T09:18:02.195Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 경제 1면 ‘규제에 벌금에 방산업계 비명’ 기사 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003010419?sid=001</id>
@@ -208,11 +215,11 @@
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 김영식 미래통합당 구미을 후보 지지 선언 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000641073?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000641073?sid=001"/>
-        <updated>2024-06-25T18:19:06.410Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
+        <title type="html"><![CDATA[[알려왔습니다] <[단독] “30% 수익 인증 글에 홀렸다” 암호화폐 100억 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003094193</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003094193"/>
+        <updated>2024-10-06T09:18:09.026Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005026653</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005026653"/>
-        <updated>2024-08-28T01:07:36.617Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
+        <title type="html"><![CDATA[[알려왔습니다] <[단독] “30% 수익 인증 글에 홀렸다” 암호화폐 100억 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003094193</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003094193"/>
+        <updated>2024-10-06T09:18:15.489Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
         <updated>2024-08-28T03:17:10.657Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005026653</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005026653"/>
-        <updated>2024-08-28T01:07:36.617Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-06T08:19:07.688Z</updated>
+    <updated>2024-10-06T09:18:22.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] <[단독] “30% 수익 인증 글에 홀렸다” 암호화폐 100억 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003094193</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003094193"/>
+        <updated>2024-10-06T09:18:15.489Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」…]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003090553</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002444255"/>
         <updated>2024-08-28T03:17:16.999Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '박정훈 "한동훈, 국민 눈높이 맞는 당정 관계 이끌 적임자"…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005026653</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005026653"/>
-        <updated>2024-08-28T01:07:42.030Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
