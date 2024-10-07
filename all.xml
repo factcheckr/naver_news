@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-07T02:52:41.548Z</updated>
+    <updated>2024-10-07T03:25:09.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도] <[오병상의 코멘터리]김상조 경질…몰락하는 참여연대> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[국제신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003105186"/>
+        <updated>2024-10-07T03:24:57.774Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003101786</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003101786"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
-        <updated>2024-08-28T07:14:04.250Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003105186"/>
+        <updated>2024-10-07T03:25:03.472Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/016/0002356337"/>
         <updated>2024-08-30T01:08:02.205Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
-        <updated>2024-08-28T07:14:04.250Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>

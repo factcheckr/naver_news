@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-07T02:52:41.551Z</updated>
+    <updated>2024-10-07T03:25:09.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
+        <link href="https://n.news.naver.com/mnews/article/025/0003105186"/>
+        <updated>2024-10-07T03:24:57.774Z</updated>
+        <content type="html"><![CDATA[중앙일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003101786</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/016/0002356337"/>
         <updated>2024-08-30T01:08:02.205Z</updated>
         <content type="html"><![CDATA[헤럴드경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 강한승 쿠팡 대표, 공정위 제재 발표 전 쿠팡 주식 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002704794</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002704794"/>
-        <updated>2024-08-28T07:14:04.250Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
