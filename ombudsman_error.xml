@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-10-08T19:12:00.428Z</updated>
+    <updated>2024-10-08T20:14:51.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이순신 마지막 말을 바로잡습니다 "내 죽음을 숨겨야 써"]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000826879?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000826879?sid=001"/>
+        <updated>2024-10-08T20:14:33.367Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] <[오병상의 코멘터리]김상조 경질…몰락하는 참여연대> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003094195?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000652283?sid=001"/>
         <updated>2024-06-29T17:12:07.019Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알립니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000077182?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000077182?sid=001"/>
-        <updated>2024-06-27T11:12:14.690Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
