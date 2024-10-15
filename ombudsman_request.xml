@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-15T14:15:53.134Z</updated>
+    <updated>2024-10-15T15:17:45.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"여학생 1년 일찍 입학시키면 출산율 높아질 것">, <'황당 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004403111</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004403111"/>
+        <updated>2024-10-15T15:17:32.246Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <"여학생 1년 일찍 입학시키면 출산율 높아질 것">, <'황당 …]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004402943</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0005083716"/>
         <updated>2024-08-30T06:21:55.270Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '공무원 잡으려다 자기 꾀에 빠진 안산시 감사관' 등과 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000317438</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000317438"/>
-        <updated>2024-08-30T01:08:02.205Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
