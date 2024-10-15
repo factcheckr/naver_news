@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-10-15T15:17:45.655Z</updated>
+    <updated>2024-10-15T16:21:00.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] 15일자 국민일보 5면 ‘탄핵 군불 때는 야당…’ 기사 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001731516?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001731516?sid=001"/>
+        <updated>2024-10-15T16:20:42.936Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 뉴진스 최후통첩 디데이…'계약서'를 주목하라' 기사 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003947140?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000809714?sid=001"/>
         <updated>2024-07-01T06:21:16.313Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] '공무원 수영 동호회, 지원금 받으려 묻지마 행사?' 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000652283?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000652283?sid=001"/>
-        <updated>2024-06-29T17:12:07.019Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
