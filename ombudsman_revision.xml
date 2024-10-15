@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-15T06:23:53.550Z</updated>
+    <updated>2024-10-15T07:17:48.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"여학생 1년 일찍 입학시키면 출산율 높아질 것">, <'황당 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/011/0004402943</id>
+        <link href="https://n.news.naver.com/mnews/article/011/0004402943"/>
+        <updated>2024-10-15T07:17:42.127Z</updated>
+        <content type="html"><![CDATA[서울경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000317438"/>
         <updated>2024-08-30T01:08:08.487Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 〈‘자녀 부회장 탈락’에 민원…교육청에 고발 당한 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/016/0002356337</id>
-        <link href="https://n.news.naver.com/mnews/article/016/0002356337"/>
-        <updated>2024-08-30T01:08:08.487Z</updated>
-        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
 </feed>
