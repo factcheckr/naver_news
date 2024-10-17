@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-17T05:17:00.985Z</updated>
+    <updated>2024-10-17T06:23:34.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] [머니포토] 논란 일으킨 국회의원의 '뻣뻣한 악수' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/417/0001033167</id>
+        <link href="https://n.news.naver.com/mnews/article/417/0001033167"/>
+        <updated>2024-10-17T06:23:21.804Z</updated>
+        <content type="html"><![CDATA[머니S]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <"여학생 1년 일찍 입학시키면 출산율 높아질 것">, <'황당 …]]></title>
         <id>https://n.news.naver.com/mnews/article/011/0004403111</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0014903582"/>
         <updated>2024-08-30T08:20:23.223Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<내 자식 부회장 낙선에 앙갚음?...'악성민원' 학부모, 조희…]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005083716</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005083716"/>
-        <updated>2024-08-30T06:21:55.270Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
