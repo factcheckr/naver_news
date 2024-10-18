@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-18T08:21:22.785Z</updated>
+    <updated>2024-10-18T09:18:07.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책…]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
+        <updated>2024-10-18T09:18:00.386Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기…]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005102535</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005030815"/>
         <updated>2024-09-06T05:16:23.004Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희…]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
-        <updated>2024-09-02T02:42:41.150Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>

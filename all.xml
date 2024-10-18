@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T08:21:22.804Z</updated>
+    <updated>2024-10-18T09:18:07.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「金여사 집무실-제2 부속실 설치 공사, 이달 국정감사 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
+        <updated>2024-10-18T09:17:54.314Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005102535</id>
         <link href="https://n.news.naver.com/mnews/article/008/0005102535"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
-        <updated>2024-09-02T02:42:34.886Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
+        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
+        <updated>2024-10-18T09:18:00.386Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005030815"/>
         <updated>2024-09-06T05:16:17.187Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] <자녀 부회장 취소에 악성민원 제기한 학부모, 조희… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/057/0001839283</id>
-        <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
-        <updated>2024-09-02T02:42:34.886Z</updated>
-        <content type="html"><![CDATA[MBN]]></content>
     </entry>
 </feed>
