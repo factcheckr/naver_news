@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T06:23:25.347Z</updated>
+    <updated>2024-10-18T07:16:52.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「金여사 집무실-제2 부속실 설치 공사, 이달 국정감사 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005102535</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005102535"/>
+        <updated>2024-10-18T07:16:39.517Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <연천은 생물권보전지역인데...폐기물처리 도시될 판> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000828502</id>
         <link href="https://n.news.naver.com/mnews/article/469/0000828502"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[MBN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
-        <updated>2024-08-30T13:20:07.393Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
+        <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005102535</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005102535"/>
+        <updated>2024-10-18T07:16:45.592Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <연천은 생물권보전지역인데...폐기물처리 도시될 판> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
         <updated>2024-09-02T02:42:34.886Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
-        <updated>2024-08-30T13:20:07.393Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>

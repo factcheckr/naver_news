@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-18T06:23:25.368Z</updated>
+    <updated>2024-10-18T07:16:52.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <추경호 "野 방송4법 강행, 대통령 재의요구 건의할 것"> 기…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005102535</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005102535"/>
+        <updated>2024-10-18T07:16:39.517Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <연천은 생물권보전지역인데...폐기물처리 도시될 판> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000828502</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/057/0001839283"/>
         <updated>2024-09-02T02:42:34.886Z</updated>
         <content type="html"><![CDATA[MBN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론 보도] <野 최민희·김용민·차규근도 ‘私心 법안’ 발의> 등 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003855746</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
-        <updated>2024-08-30T13:20:07.393Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
