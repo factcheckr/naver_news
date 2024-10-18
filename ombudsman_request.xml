@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-18T03:24:14.114Z</updated>
+    <updated>2024-10-18T04:20:22.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <연천은 생물권보전지역인데...폐기물처리 도시될 판> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000828502</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000828502"/>
+        <updated>2024-10-18T04:20:08.986Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] [머니포토] 논란 일으킨 국회의원의 '뻣뻣한 악수' 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/417/0001033167</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003855746"/>
         <updated>2024-08-30T13:20:07.393Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]「자녀 부회장 취소에 '무더기 민원' 학부모, 조희연 무고로 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0014903582</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0014903582"/>
-        <updated>2024-08-30T08:20:23.223Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
