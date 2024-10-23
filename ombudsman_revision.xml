@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-23T05:18:45.711Z</updated>
+    <updated>2024-10-23T06:23:21.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한…]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
+        <updated>2024-10-23T06:23:13.442Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] '배 5척' 참가 역대 최소 수준‥이상한 독도 방어…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001381347</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
         <updated>2024-10-18T18:21:59.535Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 「자녀 부회장 당선 취소에 '무더기 민원' 학부모, …]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003936138</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003936138"/>
-        <updated>2024-10-18T18:21:59.536Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>

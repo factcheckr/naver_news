@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-23T05:18:45.729Z</updated>
+    <updated>2024-10-23T06:23:21.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「金여사 집무실-제2 부속실 설치 공사, 이달 국정감사 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
+        <updated>2024-10-23T06:23:07.353Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] '배 5척' 참가 역대 최소 수준‥이상한 독도 방어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001381347</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001381347"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[한국일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 「자녀 부회장 당선 취소에 '무더기 민원' 학부모, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003936138</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003936138"/>
-        <updated>2024-09-06T13:20:18.685Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
+        <updated>2024-10-23T06:23:13.442Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] '배 5척' 참가 역대 최소 수준‥이상한 독도 방어… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
         <updated>2024-09-08T09:15:07.963Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 「자녀 부회장 당선 취소에 '무더기 민원' 학부모, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/079/0003936138</id>
-        <link href="https://n.news.naver.com/mnews/article/079/0003936138"/>
-        <updated>2024-09-06T13:20:18.685Z</updated>
-        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
 </feed>
