@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-24T01:13:13.061Z</updated>
+    <updated>2024-10-24T02:48:51.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘그 도서관에 신간이 없는 이유…직장 내 괴롭힘 때문?’ 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011824585</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011824585"/>
+        <updated>2024-10-24T02:48:44.797Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한…]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011796882"/>
         <updated>2024-10-23T21:15:35.901Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈"임금 인상 어렵다"더니 법인카드로 골드바 구입한 카라, …]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000822171</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
-        <updated>2024-10-23T21:15:35.902Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>

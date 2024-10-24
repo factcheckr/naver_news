@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-24T01:13:13.041Z</updated>
+    <updated>2024-10-24T02:48:51.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「金여사 집무실-제2 부속실 설치 공사, 이달 국정감사 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] ‘그 도서관에 신간이 없는 이유…직장 내 괴롭힘 때문?’ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011824585</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011824585"/>
+        <updated>2024-10-24T02:48:38.402Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
         <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 〈"임금 인상 어렵다"더니 법인카드로 골드바 구입한 카라, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000822171</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
-        <updated>2024-10-23T21:15:29.321Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
+        <title type="html"><![CDATA[[반론보도] ‘그 도서관에 신간이 없는 이유…직장 내 괴롭힘 때문?’ 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011824585</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011824585"/>
+        <updated>2024-10-24T02:48:44.797Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011796882"/>
         <updated>2024-10-23T21:15:29.320Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈"임금 인상 어렵다"더니 법인카드로 골드바 구입한 카라, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/469/0000822171</id>
-        <link href="https://n.news.naver.com/mnews/article/469/0000822171"/>
-        <updated>2024-10-23T21:15:29.321Z</updated>
-        <content type="html"><![CDATA[한국일보]]></content>
     </entry>
 </feed>
