@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-10-28T05:17:27.070Z</updated>
+    <updated>2024-10-28T06:25:32.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[취재썰-단독] "45억 통학버스 승하차장 검토"…교장 고소 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000416017</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000416017"/>
+        <updated>2024-10-28T06:25:26.308Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] '아파트 통학버스' 교내 진입 거절했다고…교장 고소…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000416016</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000416016"/>
+        <updated>2024-10-28T06:25:26.310Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<[OTT 씹어먹기 '오도독'] 오늘은 별점에 반기를 들…]]></title>
         <id>https://n.news.naver.com/mnews/article/082/0001294739</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005035091"/>
         <updated>2024-10-23T21:15:35.896Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <"이진숙 권력 좇은 변절자…MBC 세월호 보도 참사, 책임져…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002350932</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002350932"/>
-        <updated>2024-10-23T21:15:35.898Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] “동물권행동 카라에서 노사 갈등 왜?…단체 사유화·노…]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002706686</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002706686"/>
-        <updated>2024-10-23T21:15:35.899Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
