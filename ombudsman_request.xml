@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-10-28T06:25:32.296Z</updated>
+    <updated>2024-10-28T07:17:18.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000416016"/>
         <updated>2024-10-28T06:25:20.589Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] < 카라, 노사 내홍 '점입가경'…"동물 상습 폭행" vs "전부 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005049703</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005049703"/>
+        <updated>2024-10-28T07:17:06.879Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<[OTT 씹어먹기 '오도독'] 오늘은 별점에 반기를 들…]]></title>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0002904343"/>
         <updated>2024-10-23T21:15:29.313Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '[단독] 해피머니 판매자 충격 실체…'바다이야기' 주범이었…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005035091</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005035091"/>
-        <updated>2024-10-23T21:15:29.315Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>

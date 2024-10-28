@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T06:25:32.299Z</updated>
+    <updated>2024-10-28T07:17:18.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] < 카라, 노사 내홍 '점입가경'…"동물 상습 폭행" vs "전부 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005049703?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005049703?sid=001"/>
-        <updated>2024-10-28T05:17:07.514Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다]「金여사 집무실-제2 부속실 설치 공사, 이달 국정감사 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003592443?sid=001</id>
@@ -215,6 +208,13 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정보도] 조수진 전 민주당 강북을 후보 관련 보도를 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003574019?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003574019?sid=001"/>
+        <updated>2024-10-28T07:17:01.088Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <[취재썰-단독] "45억 통학버스 승하차장 검토"…교장 고소 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000416017</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000416017"/>
@@ -227,6 +227,13 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000416016"/>
         <updated>2024-10-28T06:25:20.589Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] < 카라, 노사 내홍 '점입가경'…"동물 상습 폭행" vs "전부 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005049703</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005049703"/>
+        <updated>2024-10-28T07:17:06.879Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<[OTT 씹어먹기 '오도독'] 오늘은 별점에 반기를 들… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
@@ -418,25 +425,25 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] '[단독] 해피머니 판매자 충격 실체…'바다이야기' 주범이었… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005035091</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005035091"/>
-        <updated>2024-10-23T21:15:29.315Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도] <[취재썰-단독] "45억 통학버스 승하차장 검토"…교장 고소 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000416017</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000416017"/>
-        <updated>2024-10-28T06:25:26.308Z</updated>
+        <updated>2024-10-28T06:25:20.589Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] '아파트 통학버스' 교내 진입 거절했다고…교장 고소… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000416016</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000416016"/>
-        <updated>2024-10-28T06:25:26.310Z</updated>
+        <updated>2024-10-28T06:25:20.589Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] < 카라, 노사 내홍 '점입가경'…"동물 상습 폭행" vs "전부 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/015/0005049703</id>
+        <link href="https://n.news.naver.com/mnews/article/015/0005049703"/>
+        <updated>2024-10-28T07:17:12.529Z</updated>
+        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도]<[OTT 씹어먹기 '오도독'] 오늘은 별점에 반기를 들… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0002904343"/>
         <updated>2024-10-23T21:15:29.313Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] '[단독] 해피머니 판매자 충격 실체…'바다이야기' 주범이었… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005035091</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005035091"/>
-        <updated>2024-10-23T21:15:29.315Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
