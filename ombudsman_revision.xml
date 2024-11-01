@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-01T06:24:46.526Z</updated>
+    <updated>2024-11-01T07:16:50.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<아리셀 화재 유족 "회사측 불법적 개별합의 종용"> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0015021181</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0015021181"/>
+        <updated>2024-11-01T07:16:43.683Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]「[제보는Y] "경북태권도협회, 훈련비 개인 통장으로 돌려받…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002106760</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/018/0005847067"/>
         <updated>2024-10-23T21:15:35.891Z</updated>
         <content type="html"><![CDATA[이데일리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈"입 맞추고 몸 비비고" 남직원 상습 성추행한 체육회 여팀…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000411769</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000411769"/>
-        <updated>2024-10-23T21:15:35.893Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
