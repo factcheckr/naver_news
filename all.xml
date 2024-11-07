@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-07T07:15:33.922Z</updated>
+    <updated>2024-11-07T08:20:26.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<바로잡습니다> (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[TV조선]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 『[제보는Y] 배변 실수 장애인 "열차 승무원 반응에 수치심"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002110653</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002110653"/>
+        <updated>2024-11-07T08:20:13.124Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도]<아리셀 화재 유족 "회사측 불법적 개별합의 종용"> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0015021181</id>
         <link href="https://n.news.naver.com/mnews/article/001/0015021181"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]"자녀부회장 탈락하자 '악성민원'… 교육청 고발된 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005847067</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005847067"/>
-        <updated>2024-11-02T13:20:01.136Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
+        <title type="html"><![CDATA[[반론보도] 『[제보는Y] 배변 실수 장애인 "열차 승무원 반응에 수치심"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002110653</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002110653"/>
+        <updated>2024-11-07T08:20:19.642Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]<아리셀 화재 유족 "회사측 불법적 개별합의 종용"> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0003002376"/>
         <updated>2024-11-02T13:20:01.135Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]"자녀부회장 탈락하자 '악성민원'… 교육청 고발된 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/018/0005847067</id>
-        <link href="https://n.news.naver.com/mnews/article/018/0005847067"/>
-        <updated>2024-11-02T13:20:01.136Z</updated>
-        <content type="html"><![CDATA[이데일리]]></content>
     </entry>
 </feed>
