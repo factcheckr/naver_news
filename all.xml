@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-11T19:13:14.881Z</updated>
+    <updated>2024-11-11T20:17:16.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사고] 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003494323?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003494323?sid=001"/>
+        <updated>2024-11-11T20:16:56.896Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 10월 26일자 18면 ‘글과 공명하는 한강 퍼포먼스 아트…… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/353/0000049704?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011758798?sid=001"/>
         <updated>2024-11-02T13:19:54.111Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002340402?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002340402?sid=001"/>
-        <updated>2024-11-02T13:19:54.113Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>

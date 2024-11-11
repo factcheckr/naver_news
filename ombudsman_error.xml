@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-11-11T19:13:14.872Z</updated>
+    <updated>2024-11-11T20:17:16.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사고] 바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/081/0003494323?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/081/0003494323?sid=001"/>
+        <updated>2024-11-11T20:16:56.896Z</updated>
+        <content type="html"><![CDATA[서울신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] 10월 26일자 18면 ‘글과 공명하는 한강 퍼포먼스 아트……]]></title>
         <id>https://n.news.naver.com/mnews/article/353/0000049704?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011758798?sid=001"/>
         <updated>2024-11-02T13:19:54.111Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다]]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002340402?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002340402?sid=001"/>
-        <updated>2024-11-02T13:19:54.113Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
     </entry>
 </feed>
