@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-11T05:19:25.527Z</updated>
+    <updated>2024-11-11T06:22:57.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금…]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0007899595</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0007899595"/>
+        <updated>2024-11-11T06:22:51.591Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 『[제보는Y] 배변 실수 장애인 "열차 승무원 반응에 수치심"…]]></title>
         <id>https://n.news.naver.com/mnews/article/052/0002110653</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
         <updated>2024-11-02T13:20:07.481Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 4월 1일자 사설 <‘코로나 영웅’ 의료진을 이토…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003002376</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003002376"/>
-        <updated>2024-11-02T13:20:07.483Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
