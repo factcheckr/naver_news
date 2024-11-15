@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-11-15T06:27:45.662Z</updated>
+    <updated>2024-11-15T07:16:34.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 《[이정근 노트] "친문 자금책" 홈앤쇼핑, 1000억원대 비자…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000090879?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000090879?sid=001"/>
+        <updated>2024-11-15T07:16:14.109Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사고] 바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003494323?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0007583313?sid=001"/>
         <updated>2024-11-02T13:19:54.110Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도문] 〈‘국정농단 태블릿 허위사실 유포’ 변희재 명예훼손 혐의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011758798?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011758798?sid=001"/>
-        <updated>2024-11-02T13:19:54.111Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
