@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-15T08:21:45.670Z</updated>
+    <updated>2024-11-15T09:17:58.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <청주 광역소각장 주민지원금 10억원 부정수급…경찰 조사> …]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0015049425</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0015049425"/>
+        <updated>2024-11-15T09:17:50.854Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 원자력환경공단, 직원 실수로 세금 18억 늦게 …]]></title>
         <id>https://n.news.naver.com/mnews/article/020/0003598389</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003019646"/>
         <updated>2024-11-02T13:20:07.478Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 『"정의연은 운동권 물주"…재벌 뺨치는 그들만의 일감 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003390101"/>
-        <updated>2024-11-02T13:20:07.480Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
