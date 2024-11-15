@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-15T12:33:00.331Z</updated>
+    <updated>2024-11-15T13:25:12.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[정정보도] 《[이정근 노트] "친문 자금책" 홈앤쇼핑, 1000억원대 비자… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <경찰, 청주광역소각장 주민지원금 부정수급 수사> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003959550</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003959550"/>
+        <updated>2024-11-15T13:24:58.653Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <청주 광역소각장 주민지원금 10억원 부정수급…경찰 조사> … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0015049425</id>
         <link href="https://n.news.naver.com/mnews/article/001/0015049425"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 5월 18일자 “청와대 불려가더니…국방부, 대규… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003019646"/>
-        <updated>2024-11-02T13:20:01.132Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[반론보도] <경찰, 청주광역소각장 주민지원금 부정수급 수사> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003959550</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003959550"/>
+        <updated>2024-11-15T13:25:05.245Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <청주 광역소각장 주민지원금 10억원 부정수급…경찰 조사> … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -624,13 +631,6 @@
         <title type="html"><![CDATA[[알려왔습니다]'검찰, 옵티머스 특별수사팀 검토…해외출국 이혁진 추적… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/025/0003025974</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003025974"/>
-        <updated>2024-11-02T13:20:01.132Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 5월 18일자 “청와대 불려가더니…국방부, 대규… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003019646"/>
         <updated>2024-11-02T13:20:01.132Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>

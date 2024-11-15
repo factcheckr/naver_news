@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-15T12:33:00.321Z</updated>
+    <updated>2024-11-15T13:25:12.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <경찰, 청주광역소각장 주민지원금 부정수급 수사> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003959550</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003959550"/>
+        <updated>2024-11-15T13:25:05.245Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <청주 광역소각장 주민지원금 10억원 부정수급…경찰 조사> …]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0015049425</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003025974</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003025974"/>
         <updated>2024-11-02T13:20:07.477Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 5월 18일자 “청와대 불려가더니…국방부, 대규…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003019646</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003019646"/>
-        <updated>2024-11-02T13:20:07.478Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
