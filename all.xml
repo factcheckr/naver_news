@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-15T04:20:41.761Z</updated>
+    <updated>2024-11-15T05:17:04.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[사고] 바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 원자력환경공단, 직원 실수로 세금 18억 늦게 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003598389</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003598389"/>
+        <updated>2024-11-15T05:16:50.273Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0007899595</id>
         <link href="https://n.news.naver.com/mnews/article/421/0007899595"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 『[단독]“‘아미’가  기부한  패딩…이용수·곽예남 할머… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
-        <updated>2024-11-02T13:20:01.133Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 원자력환경공단, 직원 실수로 세금 18억 늦게 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003598389</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003598389"/>
+        <updated>2024-11-15T05:16:56.872Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -625,13 +632,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003390101"/>
         <updated>2024-11-02T13:20:01.132Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 『[단독]“‘아미’가  기부한  패딩…이용수·곽예남 할머… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
-        <updated>2024-11-02T13:20:01.133Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

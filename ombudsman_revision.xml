@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-15T04:20:41.767Z</updated>
+    <updated>2024-11-15T05:17:04.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 원자력환경공단, 직원 실수로 세금 18억 늦게 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/020/0003598389</id>
+        <link href="https://n.news.naver.com/mnews/article/020/0003598389"/>
+        <updated>2024-11-15T05:16:56.872Z</updated>
+        <content type="html"><![CDATA[동아일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금…]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0007899595</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003390101</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003390101"/>
         <updated>2024-11-02T13:20:07.480Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 『[단독]“‘아미’가  기부한  패딩…이용수·곽예남 할머…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003390098</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003390098"/>
-        <updated>2024-11-02T13:20:07.481Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
