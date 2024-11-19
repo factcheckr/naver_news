@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-19T01:17:27.718Z</updated>
+    <updated>2024-11-19T02:56:10.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈'무관중 행사'라면서 "김건희 오시길 바랐다"…계속 바뀌…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000418820</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000418820"/>
+        <updated>2024-11-19T02:56:04.378Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈8600만원 들인 공연 녹화…무관중이라더니 김 여사 관람〉…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000418819</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000418819"/>
+        <updated>2024-11-19T02:56:04.378Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <경찰, 청주광역소각장 주민지원금 부정수급 수사> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003959550</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/277/0005479218"/>
         <updated>2024-11-02T13:20:07.474Z</updated>
         <content type="html"><![CDATA[아시아경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 중앙일보 7월 8일자 5면 ‘검찰, 옵티머스 특별수사팀 검…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003026021</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003026021"/>
-        <updated>2024-11-02T13:20:07.475Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다]'검찰, 옵티머스 특별수사팀 검토…해외출국 이혁진 추적…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003025974</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003025974"/>
-        <updated>2024-11-02T13:20:07.477Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
