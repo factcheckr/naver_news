@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-19T05:17:07.560Z</updated>
+    <updated>2024-11-19T06:24:10.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] <매니저 2명에게 배신당한 신현준…전 매니저, 1심 벌금형 뒤…]]></title>
+        <id>https://n.news.naver.com/mnews/article/468/0001109068</id>
+        <link href="https://n.news.naver.com/mnews/article/468/0001109068"/>
+        <updated>2024-11-19T06:24:04.095Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 매니저 2명에게 배신당한 신현준…전 매니저, 1심 벌금형 뒤…]]></title>
+        <id>https://n.news.naver.com/mnews/article/468/0001088637</id>
+        <link href="https://n.news.naver.com/mnews/article/468/0001088637"/>
+        <updated>2024-11-19T06:24:04.098Z</updated>
+        <content type="html"><![CDATA[스포츠서울]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈'무관중 행사'라면서 "김건희 오시길 바랐다"…계속 바뀌…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000418820</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004399279"/>
         <updated>2024-11-02T13:20:07.471Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 법무부 특수활동비 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003062325</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003062325"/>
-        <updated>2024-11-02T13:20:07.472Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도]‘조희연 서울시교육감, '무더기 악성 민원' 학부모에…]]></title>
-        <id>https://n.news.naver.com/mnews/article/277/0005479218</id>
-        <link href="https://n.news.naver.com/mnews/article/277/0005479218"/>
-        <updated>2024-11-02T13:20:07.474Z</updated>
-        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
 </feed>
