@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-19T10:18:58.703Z</updated>
+    <updated>2024-11-19T11:14:21.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000291457?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000291457?sid=001"/>
+        <updated>2024-11-19T11:14:00.736Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/662/0000056390?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/088/0000712192?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000712192?sid=001"/>
         <updated>2024-11-02T13:19:54.107Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 수성못 뮤지컬 프린지 페스티벌 장마로 1주일 연기 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000711132?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000711132?sid=001"/>
-        <updated>2024-11-02T13:19:54.108Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
@@ -428,7 +428,7 @@
         <title type="html"><![CDATA[<소설은 못 써도 리뷰는 쓸 수 있어!…‘리뷰왕’이 된 아파트 경비원> 기… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003333184</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003333184"/>
-        <updated>2024-11-19T10:18:51.872Z</updated>
+        <updated>2024-11-19T10:18:45.905Z</updated>
         <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>

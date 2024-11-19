@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-11-19T10:18:58.695Z</updated>
+    <updated>2024-11-19T11:14:21.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000291457?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000291457?sid=001"/>
+        <updated>2024-11-19T11:14:00.736Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다]]></title>
         <id>https://n.news.naver.com/mnews/article/662/0000056390?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/088/0000712192?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000712192?sid=001"/>
         <updated>2024-11-02T13:19:54.107Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 수성못 뮤지컬 프린지 페스티벌 장마로 1주일 연기]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000711132?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000711132?sid=001"/>
-        <updated>2024-11-02T13:19:54.108Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
