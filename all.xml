@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-22T23:20:09.457Z</updated>
+    <updated>2024-11-23T01:14:22.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] 제주 쿠팡 사망 노동자, 2주 전 "업무 과중" 통화… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001388399</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001388399"/>
+        <updated>2024-11-23T01:14:10.150Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정보도] <“신현준, 두려움 느꼈을 것”…‘갑질폭로’ 협박한 前매니저 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/081/0003496792</id>
         <link href="https://n.news.naver.com/mnews/article/081/0003496792"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003090553</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003090553"/>
-        <updated>2024-11-02T13:20:01.120Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] 제주 쿠팡 사망 노동자, 2주 전 "업무 과중" 통화… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001388399</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001388399"/>
+        <updated>2024-11-23T01:14:16.111Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] <“신현준, 두려움 느꼈을 것”…‘갑질폭로’ 협박한 前매니저 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -625,13 +632,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0003094193</id>
         <link href="https://n.news.naver.com/mnews/article/025/0003094193"/>
         <updated>2024-11-02T13:20:01.119Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 「"분노한 수용자 문 차고 나와..." 그날 동부구치소」… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003090553</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003090553"/>
-        <updated>2024-11-02T13:20:01.120Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
