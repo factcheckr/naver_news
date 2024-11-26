@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T01:17:38.220Z</updated>
+    <updated>2024-11-26T02:57:42.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] “교육감도 고소당했다”…자녀 부회장 당선 취소 앙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005402869</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005402869"/>
+        <updated>2024-11-26T02:57:29.667Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 교권보호에 칼 빼는 교육청…‘악성민원’ 학부모 잇… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005402868</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
+        <updated>2024-11-26T02:57:29.667Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 〈[바로간다] 벌목해놓고 산사태는 기후재난?‥"나무 잘린 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001388691</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001388691"/>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[서울경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003105186"/>
-        <updated>2024-11-02T13:20:01.113Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] “교육감도 고소당했다”…자녀 부회장 당선 취소 앙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005402869</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005402869"/>
+        <updated>2024-11-26T02:57:35.953Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003101786</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003101786"/>
-        <updated>2024-11-02T13:20:01.114Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] 교권보호에 칼 빼는 교육청…‘악성민원’ 학부모 잇… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005402868</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
+        <updated>2024-11-26T02:57:35.953Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈[바로간다] 벌목해놓고 산사태는 기후재난?‥"나무 잘린 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/011/0004402943"/>
         <updated>2024-11-02T13:20:01.113Z</updated>
         <content type="html"><![CDATA[서울경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 한국ABC협회 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003105186</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003105186"/>
-        <updated>2024-11-02T13:20:01.113Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]윤상현·함바왕 '총선 공작 의혹'관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0003101786</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0003101786"/>
-        <updated>2024-11-02T13:20:01.114Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>
