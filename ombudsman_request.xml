@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-11-28T05:17:53.440Z</updated>
+    <updated>2024-11-28T06:25:15.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <특정업체 유리한 군산시 마을하수도 설계용역 수 행능력 평…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002361638</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002361638"/>
+        <updated>2024-11-28T06:24:58.376Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <“정치투쟁 신물”…전공노 탈퇴 잇따라> 등 기사 3개 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003989803</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/417/0001033167"/>
         <updated>2024-11-02T13:20:01.106Z</updated>
         <content type="html"><![CDATA[머니S]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <"여학생 1년 일찍 입학시키면 출산율 높아질 것">, <'황당 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/011/0004403111</id>
-        <link href="https://n.news.naver.com/mnews/article/011/0004403111"/>
-        <updated>2024-11-02T13:20:01.107Z</updated>
-        <content type="html"><![CDATA[서울경제]]></content>
     </entry>
 </feed>
