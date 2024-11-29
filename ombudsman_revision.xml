@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-11-29T11:14:31.508Z</updated>
+    <updated>2024-11-29T12:33:53.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 유명 사찰에 '스크린 골프장'…"템플스테이 위…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000420310</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000420310"/>
+        <updated>2024-11-29T12:33:46.156Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <특정업체 유리한 군산시 마을하수도 설계용역 수 행능력 평…]]></title>
         <id>https://n.news.naver.com/mnews/article/002/0002361638</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/469/0000828502"/>
         <updated>2024-11-02T13:20:07.450Z</updated>
         <content type="html"><![CDATA[한국일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] [머니포토] 논란 일으킨 국회의원의 '뻣뻣한 악수' 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/417/0001033167</id>
-        <link href="https://n.news.naver.com/mnews/article/417/0001033167"/>
-        <updated>2024-11-02T13:20:07.457Z</updated>
-        <content type="html"><![CDATA[머니S]]></content>
     </entry>
 </feed>
