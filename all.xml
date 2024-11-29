@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T13:27:01.192Z</updated>
+    <updated>2024-11-29T14:16:25.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <김성태·김용 3차례 만나... ‘변호사비 대납 의혹’ 이태형이… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003873445?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003873445?sid=001"/>
+        <updated>2024-11-29T14:16:06.064Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/449/0000291457?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/088/0000897276?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/088/0000897276?sid=001"/>
         <updated>2024-11-02T13:19:54.104Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] ‘2021 시민행복콘서트’ 코로나19 사회적 거리두기 격상… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000712192?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000712192?sid=001"/>
-        <updated>2024-11-02T13:19:54.107Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
