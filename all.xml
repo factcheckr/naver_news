@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T05:17:51.167Z</updated>
+    <updated>2024-12-03T06:25:30.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도] <김성태·김용 3차례 만나... ‘변호사비 대납 의혹’ 이태형이… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 영남대병원-약국 커넥션 의혹 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
+        <updated>2024-12-03T06:25:15.750Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <태안군 공무원노조 "군청 내 장송곡 시위, 공권력으로 멈춰… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003990537</id>
         <link href="https://n.news.naver.com/mnews/article/022/0003990537"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
-        <updated>2024-11-02T13:20:01.101Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
+        <title type="html"><![CDATA[[알려왔습니다] 영남대병원-약국 커넥션 의혹 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
+        <updated>2024-12-03T06:25:22.826Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <태안군 공무원노조 "군청 내 장송곡 시위, 공권력으로 멈춰… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/214/0001381347"/>
         <updated>2024-11-02T13:20:01.097Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
-        <updated>2024-11-02T13:20:01.101Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>

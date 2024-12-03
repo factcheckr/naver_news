@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-12-03T05:17:51.175Z</updated>
+    <updated>2024-12-03T06:25:30.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 영남대병원-약국 커넥션 의혹 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
+        <updated>2024-12-03T06:25:22.826Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <태안군 공무원노조 "군청 내 장송곡 시위, 공권력으로 멈춰…]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0003990537</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/214/0001381347"/>
         <updated>2024-11-02T13:20:07.446Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘2500억 코인 먹튀 델리오, 약관 개정해 이용자에게 손실 책…]]></title>
-        <id>https://n.news.naver.com/mnews/article/366/0001025369</id>
-        <link href="https://n.news.naver.com/mnews/article/366/0001025369"/>
-        <updated>2024-11-02T13:20:07.446Z</updated>
-        <content type="html"><![CDATA[조선비즈]]></content>
     </entry>
 </feed>
