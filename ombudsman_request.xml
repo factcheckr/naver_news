@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-12-05T07:17:46.227Z</updated>
+    <updated>2024-12-05T08:24:01.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 「상품권 팔던 YTN, 123억 손실 고객에 떠넘기나」 기사 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001391285</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001391285"/>
+        <updated>2024-12-05T08:23:48.174Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영남대병원 주차장 증축…특정 약국 밀어주기 '구설']]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/658/0000086330"/>
         <updated>2024-11-02T13:20:01.097Z</updated>
         <content type="html"><![CDATA[국제신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] '배 5척' 참가 역대 최소 수준‥이상한 독도 방어…]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001381347</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001381347"/>
-        <updated>2024-11-02T13:20:01.097Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
