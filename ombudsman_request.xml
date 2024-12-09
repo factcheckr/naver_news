@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-12-09T01:21:51.734Z</updated>
+    <updated>2024-12-09T03:05:01.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈4조 원 추산 다단계 사기 코인업체 '공범' 몰린 조선일보…]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000127478</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000127478"/>
+        <updated>2024-12-09T03:04:48.348Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] 「상품권 팔던 YTN, 123억 손실 고객에 떠넘기나」 기사 관…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001391285</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
         <updated>2024-11-02T13:20:01.097Z</updated>
         <content type="html"><![CDATA[한국경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘앞차 고의충돌한 뒤 보복 운전이라 고소, 보험금 수차례 타내’ 관련 추…]]></title>
-        <id>https://n.news.naver.com/mnews/article/658/0000086330</id>
-        <link href="https://n.news.naver.com/mnews/article/658/0000086330"/>
-        <updated>2024-11-02T13:20:01.097Z</updated>
-        <content type="html"><![CDATA[국제신문]]></content>
     </entry>
 </feed>
