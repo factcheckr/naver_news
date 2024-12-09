@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2024-12-09T11:15:42.898Z</updated>
+    <updated>2024-12-09T12:36:11.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003338046?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003338046?sid=001"/>
+        <updated>2024-12-09T12:35:48.975Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <김성태·김용 3차례 만나... ‘변호사비 대납 의혹’ 이태형이…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003873445?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005351269?sid=001"/>
         <updated>2024-11-02T13:19:54.102Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] <국회 배지 들이밀며 쿠팡 새벽배송 막아 세운 야당 의…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000897276?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000897276?sid=001"/>
-        <updated>2024-11-02T13:19:54.104Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
