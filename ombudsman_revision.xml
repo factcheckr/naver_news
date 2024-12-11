@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-12-11T05:17:26.023Z</updated>
+    <updated>2024-12-11T06:25:05.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000002357</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
+        <updated>2024-12-11T06:24:58.502Z</updated>
+        <content type="html"><![CDATA[뉴스타파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] [단독] 《세종남부署 팀장, 현행법 무시 '참고인 출석' 강요…]]></title>
         <id>https://n.news.naver.com/mnews/article/586/0000093035</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/082/0001294739"/>
         <updated>2024-11-02T13:20:07.443Z</updated>
         <content type="html"><![CDATA[부산일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] ‘그 도서관에 신간이 없는 이유…직장 내 괴롭힘 때문?’ 관…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011824585</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011824585"/>
-        <updated>2024-11-02T13:20:07.446Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
