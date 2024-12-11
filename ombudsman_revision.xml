@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-12-11T04:21:07.172Z</updated>
+    <updated>2024-12-11T05:17:26.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] [단독] 《세종남부署 팀장, 현행법 무시 '참고인 출석' 강요…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000093035</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000093035"/>
+        <updated>2024-12-11T05:17:19.101Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈4조 원 추산 다단계 사기 코인업체 '공범' 몰린 조선일보…]]></title>
         <id>https://n.news.naver.com/mnews/article/006/0000127478</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011824585"/>
         <updated>2024-11-02T13:20:07.446Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] '"명절에 시댁 못 가서 너~무 슬퍼"…기혼자 조롱한…]]></title>
-        <id>https://n.news.naver.com/mnews/article/015/0005047898</id>
-        <link href="https://n.news.naver.com/mnews/article/015/0005047898"/>
-        <updated>2024-11-02T13:20:07.446Z</updated>
-        <content type="html"><![CDATA[한국경제]]></content>
     </entry>
 </feed>
