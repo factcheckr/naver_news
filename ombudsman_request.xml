@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-12-13T11:15:40.141Z</updated>
+    <updated>2024-12-13T12:34:17.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발…]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
+        <updated>2024-12-13T12:34:04.985Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <국민의힘, 최민희 과방위원장 윤리위 제소..."직권남용 해…]]></title>
         <id>https://n.news.naver.com/mnews/article/008/0005128204</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002106760"/>
         <updated>2024-11-02T13:20:01.096Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[취재썰-단독] "45억 통학버스 승하차장 검토"…교장 고소 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000416017</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000416017"/>
-        <updated>2024-11-02T13:20:01.096Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
