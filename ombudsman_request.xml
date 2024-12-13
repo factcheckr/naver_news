@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-12-13T06:24:51.226Z</updated>
+    <updated>2024-12-13T07:17:53.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <국민의힘, 최민희 과방위원장 윤리위 제소..."직권남용 해…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005128204</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005128204"/>
+        <updated>2024-12-13T07:17:40.070Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려드립니다] <핫플 용리단길 임대료 상승 갈등> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005412550</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[반론보도] <[취재썰-단독] "45억 통학버스 승하차장 검토"…교장 고소 …]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000416017</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000416017"/>
-        <updated>2024-11-02T13:20:01.096Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] '아파트 통학버스' 교내 진입 거절했다고…교장 고소…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000416016</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000416016"/>
         <updated>2024-11-02T13:20:01.096Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
