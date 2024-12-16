@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-16T06:25:56.947Z</updated>
+    <updated>2024-12-16T07:18:39.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,13 +215,6 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] 2월에 완공한다던 여의도선착장, 여전히 현장은 공… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001394109</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001394109"/>
-        <updated>2024-12-16T06:25:45.412Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
         <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
@@ -425,11 +418,11 @@
         <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 「[단독] 2월에 완공한다던 여의도선착장, 여전히 현장은 공… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001394109</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001394109"/>
-        <updated>2024-12-16T06:25:50.989Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[반론보도]「[제보는Y] "경북태권도협회, 훈련비 개인 통장으로 돌려받… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002106760</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002106760"/>
+        <updated>2024-12-16T07:18:26.697Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -633,5 +626,12 @@
         <link href="https://n.news.naver.com/mnews/article/001/0015021181"/>
         <updated>2024-11-02T13:20:01.091Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]「[제보는Y] "경북태권도협회, 훈련비 개인 통장으로 돌려받… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/052/0002106760</id>
+        <link href="https://n.news.naver.com/mnews/article/052/0002106760"/>
+        <updated>2024-12-16T07:18:32.858Z</updated>
+        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
