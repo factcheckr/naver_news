@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2024-12-17T01:20:08.960Z</updated>
+    <updated>2024-12-17T03:00:45.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] 2월에 완공한다던 여의도선착장, 여전히 현장은 공…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001394310</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001394310"/>
+        <updated>2024-12-17T03:00:39.291Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발…]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/001/0015021181"/>
         <updated>2024-11-02T13:20:07.439Z</updated>
         <content type="html"><![CDATA[연합뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]「[제보는Y] "경북태권도협회, 훈련비 개인 통장으로 돌려받…]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002106760</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002106760"/>
-        <updated>2024-12-16T07:18:32.858Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
