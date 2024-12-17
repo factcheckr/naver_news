@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2024-12-17T05:17:41.522Z</updated>
+    <updated>2024-12-17T06:24:59.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002722224</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002722224"/>
+        <updated>2024-12-17T06:24:47.573Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] 2월에 완공한다던 여의도선착장, 여전히 현장은 공…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001394310</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/052/0002110653"/>
         <updated>2024-11-07T08:20:13.124Z</updated>
         <content type="html"><![CDATA[YTN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]<아리셀 화재 유족 "회사측 불법적 개별합의 종용"> 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/001/0015021181</id>
-        <link href="https://n.news.naver.com/mnews/article/001/0015021181"/>
-        <updated>2024-11-02T13:20:01.091Z</updated>
-        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
 </feed>
