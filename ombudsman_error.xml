@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-01-05T01:19:42.603Z</updated>
+    <updated>2025-01-05T02:53:34.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] ‘방심위 국가기구화, 언론자유 침해 우려 크다’ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005423822?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005423822?sid=001"/>
+        <updated>2025-01-05T02:53:15.421Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] '한강 저작권 둘러싼 짬짜미 유착... 보상금으로 온천 여…]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000840377?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000863658?sid=001"/>
         <updated>2024-11-02T13:19:54.100Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도] 카이스트 AI 대학원 교수 혐의없음 처분]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002076402?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002076402?sid=001"/>
-        <updated>2024-11-02T13:19:54.101Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
