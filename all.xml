@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-07T13:24:14.499Z</updated>
+    <updated>2025-01-07T15:24:36.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도] ‘방심위 국가기구화, 언론자유 침해 우려 크다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0008009177</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
+        <updated>2025-01-07T15:24:23.388Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/028/0002722224</id>
         <link href="https://n.news.naver.com/mnews/article/028/0002722224"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] 『[제보는Y] 배변 실수 장애인 "열차 승무원 반응에 수치심"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002110653</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002110653"/>
-        <updated>2024-11-07T08:20:13.124Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
+        <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0008009177</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
+        <updated>2025-01-07T15:24:29.543Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0007899595"/>
         <updated>2024-11-11T06:22:45.764Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 『[제보는Y] 배변 실수 장애인 "열차 승무원 반응에 수치심"… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/052/0002110653</id>
-        <link href="https://n.news.naver.com/mnews/article/052/0002110653"/>
-        <updated>2024-11-07T08:20:13.124Z</updated>
-        <content type="html"><![CDATA[YTN]]></content>
     </entry>
 </feed>
