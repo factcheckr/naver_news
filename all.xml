@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-10T04:19:45.618Z</updated>
+    <updated>2025-01-10T05:16:08.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[반론보도] ‘방심위 국가기구화, 언론자유 침해 우려 크다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[알려왔습니다]<‘독도가 분쟁지역’이라는 AI교과서, 지금 서둘 땐가>사… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003344620</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003344620"/>
+        <updated>2025-01-10T05:15:55.569Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/421/0008009177</id>
         <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[동아일보]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007899595</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007899595"/>
-        <updated>2024-11-11T06:22:45.764Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
+        <title type="html"><![CDATA[[알려왔습니다]<‘독도가 분쟁지역’이라는 AI교과서, 지금 서둘 땐가>사… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003344620</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003344620"/>
+        <updated>2025-01-10T05:16:01.663Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/020/0003598389"/>
         <updated>2024-11-15T05:16:50.273Z</updated>
         <content type="html"><![CDATA[동아일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] 협회 돈으로 파리 다녀온 배드민턴협회 임원…기부금… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0007899595</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0007899595"/>
-        <updated>2024-11-11T06:22:45.764Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
