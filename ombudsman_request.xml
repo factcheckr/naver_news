@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-01-14T05:15:35.027Z</updated>
+    <updated>2025-01-14T06:22:02.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://n.news.naver.com/mnews/article/047/0002459566</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002459566"/>
         <updated>2025-01-14T04:18:43.239Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002459558</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002459558"/>
+        <updated>2025-01-14T06:21:50.392Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[반론보도] 〈'무관중 행사'라면서 "김건희 오시길 바랐다"…계속 바뀌…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000418820</id>
         <link href="https://n.news.naver.com/mnews/article/437/0000418820"/>
-        <updated>2024-11-19T02:55:58.685Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈8600만원 들인 공연 녹화…무관중이라더니 김 여사 관람〉…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000418819</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000418819"/>
         <updated>2024-11-19T02:55:58.685Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
