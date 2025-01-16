@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-01-16T03:18:00.975Z</updated>
+    <updated>2025-01-16T04:18:46.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] 소액 주주들 "당했구나"…논란의 '환매조건부 주식매매' …]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001223858?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001223858?sid=001"/>
+        <updated>2025-01-16T04:18:26.095Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] ‘방심위 국가기구화, 언론자유 침해 우려 크다’ 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005423822?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011786975?sid=001"/>
         <updated>2024-11-02T13:19:54.098Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독] '교섭단체 요건 완화' 공수표였나…민주, 논의도 안…]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000863658?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000863658?sid=001"/>
-        <updated>2024-11-02T13:19:54.100Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>

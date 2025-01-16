@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-01-16T03:18:00.962Z</updated>
+    <updated>2025-01-16T04:18:46.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] '신현준 갑질폭로 협박' 前 매니저, 징역 6개월 선고 .. "…]]></title>
+        <id>https://n.news.naver.com/mnews/article/109/0005227337</id>
+        <link href="https://n.news.naver.com/mnews/article/109/0005227337"/>
+        <updated>2025-01-16T04:18:39.249Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈[단독] 내란죄 공범 고발된 추경호…이번엔 '한동훈 빼내…]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000426495</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/468/0001109068</id>
         <link href="https://n.news.naver.com/mnews/article/468/0001109068"/>
         <updated>2024-11-19T06:24:04.095Z</updated>
-        <content type="html"><![CDATA[스포츠서울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 매니저 2명에게 배신당한 신현준…전 매니저, 1심 벌금형 뒤…]]></title>
-        <id>https://n.news.naver.com/mnews/article/468/0001088637</id>
-        <link href="https://n.news.naver.com/mnews/article/468/0001088637"/>
-        <updated>2024-11-19T06:24:04.098Z</updated>
         <content type="html"><![CDATA[스포츠서울]]></content>
     </entry>
 </feed>
