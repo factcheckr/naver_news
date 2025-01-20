@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-01-20T01:14:48.788Z</updated>
+    <updated>2025-01-20T02:45:28.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000358014</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000358014"/>
+        <updated>2025-01-20T02:45:16.084Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] [단독] 김용현 전 장관, 변호인단 교체 검토…‘불법수사’ 변…]]></title>
         <id>https://n.news.naver.com/mnews/article/056/0011876932</id>
         <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
         <updated>2025-01-17T07:15:18.714Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이…]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000357544</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000357544"/>
-        <updated>2025-01-20T01:14:36.464Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도문] '신현준 갑질폭로 협박' 前 매니저, 징역 6개월 선고 .. "…]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-01-20T01:14:48.790Z</updated>
+    <updated>2025-01-20T02:45:28.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] "내란몰이 野 이제 와 '철회'…尹탄핵 정당성 논란" 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000926973?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000926973?sid=001"/>
+        <updated>2025-01-20T02:45:09.958Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도문] 소액 주주들 "당했구나"…논란의 '환매조건부 주식매매' …]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001223858?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/308/0000035390?sid=001"/>
         <updated>2024-11-02T13:19:54.097Z</updated>
         <content type="html"><![CDATA[시사IN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[추후보도] [제보K] 필리핀 어학연수 중 ‘아동 성추행’…“다들 나 몰라…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011786975?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011786975?sid=001"/>
-        <updated>2024-11-02T13:19:54.098Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
