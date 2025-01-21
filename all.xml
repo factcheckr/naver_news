@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-21T03:17:41.806Z</updated>
+    <updated>2025-01-21T04:19:47.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[반론보도문] “캐나다 학력인정”…국제학교에 속아 학비만 뜯긴 부모들 … (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/021/0002685557?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/021/0002685557?sid=001"/>
+        <updated>2025-01-21T04:19:27.900Z</updated>
+        <content type="html"><![CDATA[문화일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알려왔습니다] "내란몰이 野 이제 와 '철회'…尹탄핵 정당성 논란" 관… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/088/0000926973?sid=001</id>
@@ -206,13 +213,6 @@
         <link href="https://n.news.naver.com/mnews/article/662/0000051532?sid=001"/>
         <updated>2024-11-02T13:19:54.096Z</updated>
         <content type="html"><![CDATA[농민신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도]「200마리 고양이, 무엇 때문에 죽었나」 관련 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/308/0000035390?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/308/0000035390?sid=001"/>
-        <updated>2024-11-02T13:19:54.097Z</updated>
-        <content type="html"><![CDATA[시사IN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
