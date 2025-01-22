@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-01-21T23:16:31.737Z</updated>
+    <updated>2025-01-22T01:13:18.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도] 「[단독] 교통계 경찰관들의 면허학원 투자?‥"배당금 수천…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001401566?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001401566?sid=001"/>
+        <updated>2025-01-22T01:12:58.813Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도문] “캐나다 학력인정”…국제학교에 속아 학비만 뜯긴 부모들 …]]></title>
         <id>https://n.news.naver.com/mnews/article/021/0002685557?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000736536?sid=001"/>
         <updated>2024-11-02T13:19:54.095Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로잡습니다]]></title>
-        <id>https://n.news.naver.com/mnews/article/662/0000051532?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/662/0000051532?sid=001"/>
-        <updated>2024-11-02T13:19:54.096Z</updated>
-        <content type="html"><![CDATA[농민신문]]></content>
     </entry>
 </feed>
