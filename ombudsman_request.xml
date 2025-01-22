@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-01-22T07:15:28.209Z</updated>
+    <updated>2025-01-22T08:21:24.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정·반론보도] <[단독] 젝시믹스 매각 본격화...최대주주는 주당 1만…]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001049026</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001049026"/>
+        <updated>2025-01-22T08:21:11.539Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이…]]></title>
         <id>https://n.news.naver.com/mnews/article/629/0000358014</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/214/0001388399"/>
         <updated>2024-11-23T01:14:10.150Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] <“신현준, 두려움 느꼈을 것”…‘갑질폭로’ 협박한 前매니저 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/081/0003496792</id>
-        <link href="https://n.news.naver.com/mnews/article/081/0003496792"/>
-        <updated>2024-11-20T02:55:06.994Z</updated>
-        <content type="html"><![CDATA[서울신문]]></content>
     </entry>
 </feed>
