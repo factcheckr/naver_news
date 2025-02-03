@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-03T09:18:35.686Z</updated>
+    <updated>2025-02-03T10:17:40.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈군 무전기에 '중국산 통신칩'…내년 말 전력화에 차질〉 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000428749</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000428749"/>
+        <updated>2025-02-03T10:17:34.415Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정·반론보도] <[단독] 젝시믹스 매각 본격화...최대주주는 주당 1만…]]></title>
         <id>https://n.news.naver.com/mnews/article/366/0001049026</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/214/0001388691</id>
         <link href="https://n.news.naver.com/mnews/article/214/0001388691"/>
         <updated>2024-11-25T06:24:45.757Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] 제주 쿠팡 사망 노동자, 2주 전 "업무 과중" 통화…]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001388399</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001388399"/>
-        <updated>2024-11-23T01:14:16.111Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
