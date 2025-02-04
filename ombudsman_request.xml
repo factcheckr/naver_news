@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-04T06:22:49.184Z</updated>
+    <updated>2025-02-04T07:16:15.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"둘이 여행 가니?" 성희롱에 명품 심부름까지... '갑질 신…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002461511</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002461511"/>
+        <updated>2025-02-04T07:16:03.811Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] ‘시민이 쓰는 내란 공소장…우두머리 윤석열을 처벌하라’ 등…]]></title>
         <id>https://n.news.naver.com/mnews/article/036/0000051124</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[정정 및 반론보도] “교육감도 고소당했다”…자녀 부회장 당선 취소 앙…]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005402869</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005402869"/>
-        <updated>2024-11-26T02:57:29.667Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 교권보호에 칼 빼는 교육청…‘악성민원’ 학부모 잇…]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005402868</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
         <updated>2024-11-26T02:57:29.667Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>

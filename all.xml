@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-04T06:22:49.188Z</updated>
+    <updated>2025-02-04T07:16:15.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] 교통계 경찰관들의 면허학원 투자?‥"배당금 수천… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[매일신문]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <"둘이 여행 가니?" 성희롱에 명품 심부름까지... '갑질 신… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002461511</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002461511"/>
+        <updated>2025-02-04T07:16:03.811Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정보도] ‘시민이 쓰는 내란 공소장…우두머리 윤석열을 처벌하라’ 등… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/036/0000051124</id>
         <link href="https://n.news.naver.com/mnews/article/036/0000051124"/>
@@ -418,17 +425,17 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 교권보호에 칼 빼는 교육청…‘악성민원’ 학부모 잇… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005402868</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
-        <updated>2024-11-26T02:57:29.667Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
+        <title type="html"><![CDATA[[반론보도] <"둘이 여행 가니?" 성희롱에 명품 심부름까지... '갑질 신… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002461511</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002461511"/>
+        <updated>2025-02-04T07:16:09.485Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정보도] ‘시민이 쓰는 내란 공소장…우두머리 윤석열을 처벌하라’ 등… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/036/0000051124</id>
         <link href="https://n.news.naver.com/mnews/article/036/0000051124"/>
-        <updated>2025-02-04T06:22:42.521Z</updated>
+        <updated>2025-02-04T06:22:36.255Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
     </entry>
     <entry>
@@ -624,13 +631,6 @@
         <title type="html"><![CDATA[[정정 및 반론보도] “교육감도 고소당했다”…자녀 부회장 당선 취소 앙… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/009/0005402869</id>
         <link href="https://n.news.naver.com/mnews/article/009/0005402869"/>
-        <updated>2024-11-26T02:57:29.667Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 교권보호에 칼 빼는 교육청…‘악성민원’ 학부모 잇… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005402868</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
         <updated>2024-11-26T02:57:29.667Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
