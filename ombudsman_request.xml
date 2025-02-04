@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-04T05:15:57.741Z</updated>
+    <updated>2025-02-04T06:22:49.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] ‘시민이 쓰는 내란 공소장…우두머리 윤석열을 처벌하라’ 등…]]></title>
+        <id>https://n.news.naver.com/mnews/article/036/0000051124</id>
+        <link href="https://n.news.naver.com/mnews/article/036/0000051124"/>
+        <updated>2025-02-04T06:22:36.255Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈군 무전기에 '중국산 통신칩'…내년 말 전력화에 차질〉 …]]></title>
         <id>https://n.news.naver.com/mnews/article/437/0000428749</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005402868"/>
         <updated>2024-11-26T02:57:29.667Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[바로간다] 벌목해놓고 산사태는 기후재난?‥"나무 잘린 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001388691</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001388691"/>
-        <updated>2024-11-25T06:24:39.248Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
     </entry>
 </feed>
