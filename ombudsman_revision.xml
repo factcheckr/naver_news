@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-05T03:19:50.645Z</updated>
+    <updated>2025-02-05T04:19:28.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://n.news.naver.com/mnews/article/036/0000051124"/>
         <updated>2025-02-04T06:22:42.521Z</updated>
         <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알림보도] <“여야 모두 정신 다른 곳에”…박선영 진화위원장 기이한 신…]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002729305</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002729305"/>
+        <updated>2025-02-05T04:19:21.457Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 〈군 무전기에 '중국산 통신칩'…내년 말 전력화에 차질〉 …]]></title>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003989803"/>
         <updated>2024-11-28T05:17:46.685Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] “교육감도 고소당했다”…자녀 부회장 당선 취소 앙…]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005402869</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005402869"/>
-        <updated>2024-11-26T02:57:35.953Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
