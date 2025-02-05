@@ -2,7 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-05T11:13:44.204Z</updated>
+    <updated>2025-02-05T12:31:53.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <"둘이 여행 가니?" 성희롱에 명품 심부름까지... '갑질 신…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002461511</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002461511"/>
+        <updated>2025-02-05T12:31:40.476Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] ‘시민이 쓰는 내란 공소장…우두머리 윤석열을 처벌하라’ 등…]]></title>
+        <id>https://n.news.naver.com/mnews/article/036/0000051124</id>
+        <link href="https://n.news.naver.com/mnews/article/036/0000051124"/>
+        <updated>2025-02-05T12:31:40.476Z</updated>
+        <content type="html"><![CDATA[한겨레21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알림보도] <“여야 모두 정신 다른 곳에”…박선영 진화위원장 기이한 신…]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002729305</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002729305"/>
+        <updated>2025-02-05T12:31:40.476Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈군 무전기에 '중국산 통신칩'…내년 말 전력화에 차질〉 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000428749</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000428749"/>
+        <updated>2025-02-05T12:31:40.477Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정·반론보도] <[단독] 젝시믹스 매각 본격화...최대주주는 주당 1만…]]></title>
+        <id>https://n.news.naver.com/mnews/article/366/0001049026</id>
+        <link href="https://n.news.naver.com/mnews/article/366/0001049026"/>
+        <updated>2025-02-05T12:31:40.480Z</updated>
+        <content type="html"><![CDATA[조선비즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이…]]></title>
+        <id>https://n.news.naver.com/mnews/article/629/0000358014</id>
+        <link href="https://n.news.naver.com/mnews/article/629/0000358014"/>
+        <updated>2025-02-05T12:31:40.481Z</updated>
+        <content type="html"><![CDATA[더팩트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] [단독] 김용현 전 장관, 변호인단 교체 검토…‘불법수사’ 변…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011876932</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
+        <updated>2025-02-05T12:31:40.483Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도문] '신현준 갑질폭로 협박' 前 매니저, 징역 6개월 선고 .. "…]]></title>
+        <id>https://n.news.naver.com/mnews/article/109/0005227337</id>
+        <link href="https://n.news.naver.com/mnews/article/109/0005227337"/>
+        <updated>2025-02-05T12:31:40.485Z</updated>
+        <content type="html"><![CDATA[OSEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] 내란죄 공범 고발된 추경호…이번엔 '한동훈 빼내…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000426495</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000426495"/>
+        <updated>2025-02-05T12:31:40.489Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <쿠팡 '전국민 로켓배송' 시대의 비극> 기사 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002459566</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002459566"/>
+        <updated>2025-02-05T12:31:40.490Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002459558</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002459558"/>
+        <updated>2025-02-05T12:31:40.491Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독]김용현 “지시 따랐을 뿐…난 우두머리 아냐”> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/449/0000296469</id>
+        <link href="https://n.news.naver.com/mnews/article/449/0000296469"/>
+        <updated>2025-02-05T12:31:40.492Z</updated>
+        <content type="html"><![CDATA[채널A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 〈“투자하면 매일 0.4% 이자 지급”…알고 보니 ‘폰…]]></title>
+        <id>https://n.news.naver.com/mnews/article/056/0011872936</id>
+        <link href="https://n.news.naver.com/mnews/article/056/0011872936"/>
+        <updated>2025-02-05T12:31:40.494Z</updated>
+        <content type="html"><![CDATA[KBS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다]<‘독도가 분쟁지역’이라는 AI교과서, 지금 서둘 땐가>사…]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003344620</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003344620"/>
+        <updated>2025-02-05T12:31:40.496Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/421/0008009177</id>
+        <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
+        <updated>2025-02-05T12:31:40.497Z</updated>
+        <content type="html"><![CDATA[뉴스1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/028/0002722224</id>
+        <link href="https://n.news.naver.com/mnews/article/028/0002722224"/>
+        <updated>2025-02-05T12:31:40.499Z</updated>
+        <content type="html"><![CDATA[한겨레]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] 2월에 완공한다던 여의도선착장, 여전히 현장은 공…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001394310</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001394310"/>
+        <updated>2025-02-05T12:31:40.500Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발…]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
+        <updated>2025-02-05T12:31:40.501Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <국민의힘, 최민희 과방위원장 윤리위 제소..."직권남용 해…]]></title>
+        <id>https://n.news.naver.com/mnews/article/008/0005128204</id>
+        <link href="https://n.news.naver.com/mnews/article/008/0005128204"/>
+        <updated>2025-02-05T12:31:40.504Z</updated>
+        <content type="html"><![CDATA[머니투데이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려드립니다] <핫플 용리단길 임대료 상승 갈등> 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/009/0005412550</id>
+        <link href="https://n.news.naver.com/mnews/article/009/0005412550"/>
+        <updated>2025-02-05T12:31:40.505Z</updated>
+        <content type="html"><![CDATA[매일경제]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000002357</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
+        <updated>2025-02-05T12:31:40.508Z</updated>
+        <content type="html"><![CDATA[뉴스타파]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] [단독] 《세종남부署 팀장, 현행법 무시 '참고인 출석' 강요…]]></title>
+        <id>https://n.news.naver.com/mnews/article/586/0000093035</id>
+        <link href="https://n.news.naver.com/mnews/article/586/0000093035"/>
+        <updated>2025-02-05T12:31:40.509Z</updated>
+        <content type="html"><![CDATA[시사저널]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈4조 원 추산 다단계 사기 코인업체 '공범' 몰린 조선일보…]]></title>
+        <id>https://n.news.naver.com/mnews/article/006/0000127478</id>
+        <link href="https://n.news.naver.com/mnews/article/006/0000127478"/>
+        <updated>2025-02-05T12:31:40.511Z</updated>
+        <content type="html"><![CDATA[미디어오늘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] 「상품권 팔던 YTN, 123억 손실 고객에 떠넘기나」 기사 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001391285</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001391285"/>
+        <updated>2025-02-05T12:31:40.512Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영남대병원 주차장 증축…특정 약국 밀어주기 '구설']]></title>
+        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
+        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
+        <updated>2025-02-05T12:31:40.514Z</updated>
+        <content type="html"><![CDATA[매일신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <태안군 공무원노조 "군청 내 장송곡 시위, 공권력으로 멈춰…]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003990537</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003990537"/>
+        <updated>2025-02-05T12:31:40.517Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<서울 집값, 윤석열 정부 2년 새 문재인 정부 5년보다 더 뛰었다> 기사 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003335721</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003335721"/>
+        <updated>2025-02-05T12:31:40.518Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알려왔습니다] 〈[단독] 유명 사찰에 '스크린 골프장'…"템플스테이 위…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000420310</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000420310"/>
+        <updated>2025-02-05T12:31:40.518Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <특정업체 유리한 군산시 마을하수도 설계용역 수 행능력 평…]]></title>
+        <id>https://n.news.naver.com/mnews/article/002/0002361638</id>
+        <link href="https://n.news.naver.com/mnews/article/002/0002361638"/>
+        <updated>2025-02-05T12:31:40.520Z</updated>
+        <content type="html"><![CDATA[프레시안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <“정치투쟁 신물”…전공노 탈퇴 잇따라> 등 기사 3개 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0003989803</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0003989803"/>
+        <updated>2025-02-05T12:31:40.522Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
 </feed>
