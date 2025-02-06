@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-06T08:20:59.132Z</updated>
+    <updated>2025-02-06T09:17:18.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 〈[단독] "나 교장이야!" 교사에 폭언…'와인파티' 참석 강…]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000429192</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000429192"/>
+        <updated>2025-02-06T09:17:11.745Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정보도] JTBC '뉴스룸' 방송 〈"이유도 없이 '빈 방 만들라' 지시" …]]></title>
+        <id>https://n.news.naver.com/mnews/article/437/0000429188</id>
+        <link href="https://n.news.naver.com/mnews/article/437/0000429188"/>
+        <updated>2025-02-06T09:17:11.746Z</updated>
+        <content type="html"><![CDATA[JTBC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <"둘이 여행 가니?" 성희롱에 명품 심부름까지... '갑질 신…]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002461511</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000420310"/>
         <updated>2024-11-29T12:33:46.156Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <특정업체 유리한 군산시 마을하수도 설계용역 수 행능력 평…]]></title>
-        <id>https://n.news.naver.com/mnews/article/002/0002361638</id>
-        <link href="https://n.news.naver.com/mnews/article/002/0002361638"/>
-        <updated>2024-11-28T06:25:05.926Z</updated>
-        <content type="html"><![CDATA[프레시안]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <“정치투쟁 신물”…전공노 탈퇴 잇따라> 등 기사 3개 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003989803</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003989803"/>
-        <updated>2024-11-28T05:17:46.685Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
