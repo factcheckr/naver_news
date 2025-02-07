@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-02-07T05:17:01.742Z</updated>
+    <updated>2025-02-07T06:23:00.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로잡습니다]]></title>
+        <id>https://n.news.naver.com/mnews/article/469/0000847778?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/469/0000847778?sid=001"/>
+        <updated>2025-02-07T06:22:40.769Z</updated>
+        <content type="html"><![CDATA[한국일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[추후보도] 「[단독] 교통계 경찰관들의 면허학원 투자?‥"배당금 수천…]]></title>
         <id>https://n.news.naver.com/mnews/article/214/0001401566?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/023/0003857718?sid=001"/>
         <updated>2024-11-02T13:19:54.094Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] (정정)전국 오후 6시 3461명 확진…서울시 발표 1258명→707명으…]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000736536?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000736536?sid=001"/>
-        <updated>2024-11-02T13:19:54.095Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
