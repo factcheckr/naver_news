@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-07T13:21:55.647Z</updated>
+    <updated>2025-02-07T14:15:10.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도][단독]친윤 '원내 쿠데타' 노린다…韓축출에 尹구속 '염두' …]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003989619</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003989619"/>
+        <updated>2025-02-07T14:14:57.330Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <경찰 국수본부장, 검찰 수사엔 소극적...尹 영장 집행엔 적…]]></title>
         <id>https://n.news.naver.com/mnews/article/023/0003886666</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/022/0003990537"/>
         <updated>2025-02-05T12:31:40.517Z</updated>
         <content type="html"><![CDATA[세계일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<서울 집값, 윤석열 정부 2년 새 문재인 정부 5년보다 더 뛰었다> 기사 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003335721</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003335721"/>
-        <updated>2025-02-05T12:31:40.518Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
     </entry>
 </feed>
