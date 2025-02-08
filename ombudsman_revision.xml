@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-08T13:18:23.427Z</updated>
+    <updated>2025-02-08T14:14:05.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도][단독]비대위원장 김무성 추천…한동훈 곧 사퇴 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/079/0003989702</id>
+        <link href="https://n.news.naver.com/mnews/article/079/0003989702"/>
+        <updated>2025-02-08T14:13:58.687Z</updated>
+        <content type="html"><![CDATA[노컷뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도][단독]친윤 '원내 쿠데타' 노린다…韓축출에 尹구속 '염두' …]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003989619</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
         <updated>2024-12-03T06:25:22.826Z</updated>
         <content type="html"><![CDATA[매일신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <태안군 공무원노조 "군청 내 장송곡 시위, 공권력으로 멈춰…]]></title>
-        <id>https://n.news.naver.com/mnews/article/022/0003990537</id>
-        <link href="https://n.news.naver.com/mnews/article/022/0003990537"/>
-        <updated>2024-12-01T05:16:25.113Z</updated>
-        <content type="html"><![CDATA[세계일보]]></content>
     </entry>
 </feed>
