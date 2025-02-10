@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-10T01:14:09.127Z</updated>
+    <updated>2025-02-10T02:49:22.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 「[단독] "민희진 사과해"…'성희롱 폭로' 어도어 전직원, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000699955</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000699955"/>
+        <updated>2025-02-10T02:49:08.574Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] 「'경영 아마추어' 민희진 VS '미감 아마추어' 하… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000699954</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000699954"/>
+        <updated>2025-02-10T02:49:08.582Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도][단독]비대위원장 김무성 추천…한동훈 곧 사퇴 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/079/0003989702</id>
         <link href="https://n.news.naver.com/mnews/article/079/0003989702"/>
@@ -411,18 +425,18 @@
         <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정보도] 「상품권 팔던 YTN, 123억 손실 고객에 떠넘기나」 기사 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001391285</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001391285"/>
-        <updated>2024-12-05T08:23:48.174Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
+        <title type="html"><![CDATA[[반론보도] 「[단독] "민희진 사과해"…'성희롱 폭로' 어도어 전직원, … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000699955</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000699955"/>
+        <updated>2025-02-10T02:49:14.936Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영남대병원 주차장 증축…특정 약국 밀어주기 '구설' (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
-        <updated>2024-12-03T06:25:15.750Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
+        <title type="html"><![CDATA[[정정 및 반론보도] 「'경영 아마추어' 민희진 VS '미감 아마추어' 하… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/312/0000699954</id>
+        <link href="https://n.news.naver.com/mnews/article/312/0000699954"/>
+        <updated>2025-02-10T02:49:14.937Z</updated>
+        <content type="html"><![CDATA[텐아시아]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도][단독]비대위원장 김무성 추천…한동훈 곧 사퇴 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/006/0000127478"/>
         <updated>2024-12-09T03:04:48.348Z</updated>
         <content type="html"><![CDATA[미디어오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] 「상품권 팔던 YTN, 123억 손실 고객에 떠넘기나」 기사 관… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/214/0001391285</id>
-        <link href="https://n.news.naver.com/mnews/article/214/0001391285"/>
-        <updated>2024-12-05T08:23:48.174Z</updated>
-        <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영남대병원 주차장 증축…특정 약국 밀어주기 '구설' (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/088/0000906405</id>
-        <link href="https://n.news.naver.com/mnews/article/088/0000906405"/>
-        <updated>2024-12-03T06:25:15.750Z</updated>
-        <content type="html"><![CDATA[매일신문]]></content>
     </entry>
 </feed>
