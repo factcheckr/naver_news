@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-11T01:12:46.873Z</updated>
+    <updated>2025-02-11T02:47:41.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <허구로 드러난 “한동훈 사살” 폭로, 혼란 키우는 선동 멈춰…]]></title>
+        <id>https://n.news.naver.com/mnews/article/022/0004009810</id>
+        <link href="https://n.news.naver.com/mnews/article/022/0004009810"/>
+        <updated>2025-02-11T02:47:28.469Z</updated>
+        <content type="html"><![CDATA[세계일보]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론 및 추후보도문] ‘학교 폭력’ 방치 혐의로 고발된 강남의 한 중학…]]></title>
+        <id>https://n.news.naver.com/mnews/article/023/0003887116</id>
+        <link href="https://n.news.naver.com/mnews/article/023/0003887116"/>
+        <updated>2025-02-11T02:47:28.469Z</updated>
+        <content type="html"><![CDATA[조선일보]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 「[단독] "민희진 사과해"…'성희롱 폭로' 어도어 전직원, …]]></title>
         <id>https://n.news.naver.com/mnews/article/312/0000699955</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
         <updated>2025-02-05T12:31:40.508Z</updated>
         <content type="html"><![CDATA[뉴스타파]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도] [단독] 《세종남부署 팀장, 현행법 무시 '참고인 출석' 강요…]]></title>
-        <id>https://n.news.naver.com/mnews/article/586/0000093035</id>
-        <link href="https://n.news.naver.com/mnews/article/586/0000093035"/>
-        <updated>2025-02-05T12:31:40.509Z</updated>
-        <content type="html"><![CDATA[시사저널]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈4조 원 추산 다단계 사기 코인업체 '공범' 몰린 조선일보…]]></title>
-        <id>https://n.news.naver.com/mnews/article/006/0000127478</id>
-        <link href="https://n.news.naver.com/mnews/article/006/0000127478"/>
-        <updated>2025-02-05T12:31:40.511Z</updated>
-        <content type="html"><![CDATA[미디어오늘]]></content>
     </entry>
 </feed>
