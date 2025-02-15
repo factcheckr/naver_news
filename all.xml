@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-15T01:12:21.104Z</updated>
+    <updated>2025-02-15T02:44:09.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000002467</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000002467"/>
+        <updated>2025-02-15T02:43:55.996Z</updated>
+        <content type="html"><![CDATA[뉴스타파]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <허구로 드러난 “한동훈 사살” 폭로, 혼란 키우는 선동 멈춰… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0004009810</id>
         <link href="https://n.news.naver.com/mnews/article/022/0004009810"/>
@@ -418,10 +425,10 @@
         <content type="html"><![CDATA[매일경제]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/607/0000002357</id>
-        <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
-        <updated>2024-12-11T06:24:52.196Z</updated>
+        <title type="html"><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000002467</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000002467"/>
+        <updated>2025-02-15T02:44:02.724Z</updated>
         <content type="html"><![CDATA[뉴스타파]]></content>
     </entry>
     <entry>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005412550"/>
         <updated>2024-12-12T06:25:14.826Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/607/0000002357</id>
-        <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
-        <updated>2024-12-11T06:24:52.196Z</updated>
-        <content type="html"><![CDATA[뉴스타파]]></content>
     </entry>
 </feed>

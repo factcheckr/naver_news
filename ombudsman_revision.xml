@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-15T01:12:21.094Z</updated>
+    <updated>2025-02-15T02:44:09.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착…]]></title>
+        <id>https://n.news.naver.com/mnews/article/607/0000002467</id>
+        <link href="https://n.news.naver.com/mnews/article/607/0000002467"/>
+        <updated>2025-02-15T02:44:02.724Z</updated>
+        <content type="html"><![CDATA[뉴스타파]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <허구로 드러난 “한동훈 사살” 폭로, 혼란 키우는 선동 멈춰…]]></title>
         <id>https://n.news.naver.com/mnews/article/022/0004009810</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/009/0005412550"/>
         <updated>2024-12-12T06:25:20.881Z</updated>
         <content type="html"><![CDATA[매일경제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 …]]></title>
-        <id>https://n.news.naver.com/mnews/article/607/0000002357</id>
-        <link href="https://n.news.naver.com/mnews/article/607/0000002357"/>
-        <updated>2024-12-11T06:24:58.502Z</updated>
-        <content type="html"><![CDATA[뉴스타파]]></content>
     </entry>
 </feed>
