@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-17T04:20:10.552Z</updated>
+    <updated>2025-02-17T05:17:42.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <인터넷 쓰레기 정보에 포획된 인공지능 교과서> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005547614</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005547614"/>
+        <updated>2025-02-17T05:17:29.315Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/607/0000002467</id>
         <link href="https://n.news.naver.com/mnews/article/607/0000002467"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[알려드립니다] <핫플 용리단길 임대료 상승 갈등> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005412550</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005412550"/>
-        <updated>2024-12-12T06:25:14.826Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
+        <title type="html"><![CDATA[[반론보도] <인터넷 쓰레기 정보에 포획된 인공지능 교과서> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/277/0005547614</id>
+        <link href="https://n.news.naver.com/mnews/article/277/0005547614"/>
+        <updated>2025-02-17T05:17:35.280Z</updated>
+        <content type="html"><![CDATA[아시아경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/008/0005128204"/>
         <updated>2024-12-13T07:17:40.070Z</updated>
         <content type="html"><![CDATA[머니투데이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려드립니다] <핫플 용리단길 임대료 상승 갈등> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/009/0005412550</id>
-        <link href="https://n.news.naver.com/mnews/article/009/0005412550"/>
-        <updated>2024-12-12T06:25:14.826Z</updated>
-        <content type="html"><![CDATA[매일경제]]></content>
     </entry>
 </feed>
