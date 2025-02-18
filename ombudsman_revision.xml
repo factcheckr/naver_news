@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-18T05:17:54.900Z</updated>
+    <updated>2025-02-18T06:22:36.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] 'GA협회장도 생·손보협회장 수준 연봉 인상?' 관련]]></title>
+        <id>https://n.news.naver.com/mnews/article/031/0000909718</id>
+        <link href="https://n.news.naver.com/mnews/article/031/0000909718"/>
+        <updated>2025-02-18T06:22:29.208Z</updated>
+        <content type="html"><![CDATA[아이뉴스24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <인터넷 쓰레기 정보에 포획된 인공지능 교과서> 관련]]></title>
         <id>https://n.news.naver.com/mnews/article/277/0005547614</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
         <updated>2024-12-13T12:34:11.282Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <국민의힘, 최민희 과방위원장 윤리위 제소..."직권남용 해…]]></title>
-        <id>https://n.news.naver.com/mnews/article/008/0005128204</id>
-        <link href="https://n.news.naver.com/mnews/article/008/0005128204"/>
-        <updated>2024-12-13T07:17:45.702Z</updated>
-        <content type="html"><![CDATA[머니투데이]]></content>
     </entry>
 </feed>
