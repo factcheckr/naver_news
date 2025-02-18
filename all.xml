@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-18T06:22:36.314Z</updated>
+    <updated>2025-02-18T07:15:44.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] 「 [단독] 한동훈 "대통령 권한 못 뺏는 게 맹점‥TF '문서… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001406237</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001406237"/>
+        <updated>2025-02-18T07:15:31.103Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] 'GA협회장도 생·손보협회장 수준 연봉 인상?' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000909718</id>
         <link href="https://n.news.naver.com/mnews/article/031/0000909718"/>
@@ -418,17 +425,17 @@
         <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
-        <updated>2024-12-13T12:34:04.985Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
+        <title type="html"><![CDATA[[반론보도] 「 [단독] 한동훈 "대통령 권한 못 뺏는 게 맹점‥TF '문서… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/214/0001406237</id>
+        <link href="https://n.news.naver.com/mnews/article/214/0001406237"/>
+        <updated>2025-02-18T07:15:37.325Z</updated>
+        <content type="html"><![CDATA[MBC]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] 'GA협회장도 생·손보협회장 수준 연봉 인상?' 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
         <id>https://n.news.naver.com/mnews/article/031/0000909718</id>
         <link href="https://n.news.naver.com/mnews/article/031/0000909718"/>
-        <updated>2025-02-18T06:22:29.208Z</updated>
+        <updated>2025-02-18T06:22:22.835Z</updated>
         <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
     <entry>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/214/0001394310"/>
         <updated>2024-12-17T03:00:33.588Z</updated>
         <content type="html"><![CDATA[MBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <평택대, 성폭력 가해 교수 복직 논란 확산..학부모들 '반발… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/031/0000893398</id>
-        <link href="https://n.news.naver.com/mnews/article/031/0000893398"/>
-        <updated>2024-12-13T12:34:04.985Z</updated>
-        <content type="html"><![CDATA[아이뉴스24]]></content>
     </entry>
 </feed>
