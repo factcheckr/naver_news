@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-20T07:15:51.042Z</updated>
+    <updated>2025-02-20T08:21:31.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 추경호, 계엄날 광화문 이용원 나온 뒤 어디로? "6…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463320</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463320"/>
+        <updated>2025-02-20T08:21:18.661Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <한 총리, 김건희- 내란 특검 거부권 행사하면 탄핵해야> 관…]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463318</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463318"/>
+        <updated>2025-02-20T08:21:18.661Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] “한 대표 본회의장 있다” 요청에도 원대실 지킨 추…]]></title>
         <id>https://n.news.naver.com/mnews/article/005/0001758647</id>
@@ -200,19 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011872936"/>
         <updated>2025-02-05T12:31:40.494Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다]<‘독도가 분쟁지역’이라는 AI교과서, 지금 서둘 땐가>사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/032/0003344620</id>
-        <link href="https://n.news.naver.com/mnews/article/032/0003344620"/>
-        <updated>2025-02-05T12:31:40.496Z</updated>
-        <content type="html"><![CDATA[경향신문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] "경남 학교운영위 진주협의회" 보도 관련]]></title>
-        <id>https://n.news.naver.com/mnews/article/421/0008009177</id>
-        <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
-        <updated>2025-02-05T12:31:40.497Z</updated>
-        <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
 </feed>
