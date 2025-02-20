@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-20T06:23:52.805Z</updated>
+    <updated>2025-02-20T07:15:51.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] “한 대표 본회의장 있다” 요청에도 원대실 지킨 추… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001758647</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001758647"/>
+        <updated>2025-02-20T07:15:38.462Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <고양시 하나밖에 없는 1종 미술관, 불 났는데 소방차 접근 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002463188</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002463188"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[뉴스1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002722224</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002722224"/>
-        <updated>2024-12-17T06:24:47.573Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
+        <title type="html"><![CDATA[[반론보도] <[단독] “한 대표 본회의장 있다” 요청에도 원대실 지킨 추… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/005/0001758647</id>
+        <link href="https://n.news.naver.com/mnews/article/005/0001758647"/>
+        <updated>2025-02-20T07:15:44.550Z</updated>
+        <content type="html"><![CDATA[국민일보]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <고양시 하나밖에 없는 1종 미술관, 불 났는데 소방차 접근 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/421/0008009177"/>
         <updated>2025-01-07T15:24:23.388Z</updated>
         <content type="html"><![CDATA[뉴스1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] ‘언론계 낙하산들을 박제한다’ 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/028/0002722224</id>
-        <link href="https://n.news.naver.com/mnews/article/028/0002722224"/>
-        <updated>2024-12-17T06:24:47.573Z</updated>
-        <content type="html"><![CDATA[한겨레]]></content>
     </entry>
 </feed>
