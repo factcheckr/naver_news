@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-19T23:15:44.540Z</updated>
+    <updated>2025-02-20T01:14:13.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유튜버 이진호씨 영상에서 사실과 다른 많은 내용을 바로잡습니다 [전형… (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
+        <id>https://n.news.naver.com/mnews/article/241/0003414702?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/241/0003414702?sid=001"/>
+        <updated>2025-02-20T01:13:53.484Z</updated>
+        <content type="html"><![CDATA[일간스포츠]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
         <id>https://n.news.naver.com/mnews/article/469/0000847778?sid=001</id>
@@ -205,13 +212,6 @@
         <id>https://n.news.naver.com/mnews/article/023/0003858676?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/023/0003858676?sid=001"/>
         <updated>2024-11-02T13:19:54.093Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 9일자 종2면 ‘당뇨환자, 주사 고통 끝나나’ (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003857718?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003857718?sid=001"/>
-        <updated>2024-11-02T13:19:54.094Z</updated>
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
