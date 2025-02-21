@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-21T08:25:58.026Z</updated>
+    <updated>2025-02-21T09:17:33.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도]＜[단독] 비상계엄 선포 뒤 추경호 통화…친한계 "해제 방해 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001234027</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001234027"/>
+        <updated>2025-02-21T09:17:21.214Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<“공부 안 하는 친구들에겐 최고의 학교”...정치권 막말에 상처받는 학… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/032/0003352488</id>
         <link href="https://n.news.naver.com/mnews/article/032/0003352488"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독]김용현 “지시 따랐을 뿐…난 우두머리 아냐”> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000296469</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000296469"/>
-        <updated>2025-01-10T13:21:38.527Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
+        <title type="html"><![CDATA[[반론보도]＜[단독] 비상계엄 선포 뒤 추경호 통화…친한계 "해제 방해 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/055/0001234027</id>
+        <link href="https://n.news.naver.com/mnews/article/055/0001234027"/>
+        <updated>2025-02-21T09:17:27.027Z</updated>
+        <content type="html"><![CDATA[SBS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<“공부 안 하는 친구들에겐 최고의 학교”...정치권 막말에 상처받는 학… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002459558"/>
         <updated>2025-01-14T06:21:50.392Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <[단독]김용현 “지시 따랐을 뿐…난 우두머리 아냐”> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/449/0000296469</id>
-        <link href="https://n.news.naver.com/mnews/article/449/0000296469"/>
-        <updated>2025-01-10T13:21:38.527Z</updated>
-        <content type="html"><![CDATA[채널A]]></content>
     </entry>
 </feed>
