@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-21T06:23:03.526Z</updated>
+    <updated>2025-02-21T07:16:20.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<“공부 안 하는 친구들에겐 최고의 학교”...정치권 막말에 상처받는 학…]]></title>
+        <id>https://n.news.naver.com/mnews/article/032/0003352488</id>
+        <link href="https://n.news.naver.com/mnews/article/032/0003352488"/>
+        <updated>2025-02-21T07:16:08.026Z</updated>
+        <content type="html"><![CDATA[경향신문]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 추경호, 계엄날 광화문 이용원 나온 뒤 어디로? "6…]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002463320</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/449/0000296469"/>
         <updated>2025-02-05T12:31:40.492Z</updated>
         <content type="html"><![CDATA[채널A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정 및 반론보도] 〈“투자하면 매일 0.4% 이자 지급”…알고 보니 ‘폰…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011872936</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011872936"/>
-        <updated>2025-02-05T12:31:40.494Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
