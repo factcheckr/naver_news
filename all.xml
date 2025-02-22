@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-22T07:14:35.909Z</updated>
+    <updated>2025-02-22T08:18:33.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] < 4일 0시 29분과 38분, 추경호의 통화가 수상하다>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463499</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463499"/>
+        <updated>2025-02-22T08:18:19.406Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정정 및 반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463498</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463498"/>
+        <updated>2025-02-22T08:18:19.411Z</updated>
+        <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도]＜[단독] 비상계엄 선포 뒤 추경호 통화…친한계 "해제 방해 … (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/055/0001234027</id>
         <link href="https://n.news.naver.com/mnews/article/055/0001234027"/>
@@ -411,17 +425,17 @@
         <content type="html"><![CDATA[JTBC]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <쿠팡 '전국민 로켓배송' 시대의 비극> 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002459566</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002459566"/>
-        <updated>2025-01-14T04:18:43.239Z</updated>
+        <title type="html"><![CDATA[[정정 및 반론보도] < 4일 0시 29분과 38분, 추경호의 통화가 수상하다>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463499</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463499"/>
+        <updated>2025-02-22T08:18:25.372Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002459558</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002459558"/>
-        <updated>2025-01-14T06:21:50.392Z</updated>
+        <title type="html"><![CDATA[[정정 및 반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/047/0002463498</id>
+        <link href="https://n.news.naver.com/mnews/article/047/0002463498"/>
+        <updated>2025-02-22T08:18:25.372Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
     <entry>
@@ -619,19 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/437/0000426495"/>
         <updated>2025-01-14T10:16:37.714Z</updated>
         <content type="html"><![CDATA[JTBC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <쿠팡 '전국민 로켓배송' 시대의 비극> 기사 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002459566</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002459566"/>
-        <updated>2025-01-14T04:18:43.239Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] <'추경호 원내지도부' 신동욱 미스터리> 관련 (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/047/0002459558</id>
-        <link href="https://n.news.naver.com/mnews/article/047/0002459558"/>
-        <updated>2025-01-14T06:21:50.392Z</updated>
-        <content type="html"><![CDATA[오마이뉴스]]></content>
     </entry>
 </feed>
