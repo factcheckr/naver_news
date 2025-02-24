@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/requestArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청</title>
-    <updated>2025-02-23T23:15:04.168Z</updated>
+    <updated>2025-02-24T01:16:07.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://n.news.naver.com/mnews/article/047/0002463498"/>
         <updated>2025-02-22T08:18:19.411Z</updated>
         <content type="html"><![CDATA[오마이뉴스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반론보도]<새 단장 오자마자 '선수 12명 바꿔라'…사유화 논란 휩싸인 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0015227645</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0015227645"/>
+        <updated>2025-02-24T01:15:52.227Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도]＜[단독] 비상계엄 선포 뒤 추경호 통화…친한계 "해제 방해 …]]></title>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/109/0005227337"/>
         <updated>2025-02-05T12:31:40.485Z</updated>
         <content type="html"><![CDATA[OSEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 〈[단독] 내란죄 공범 고발된 추경호…이번엔 '한동훈 빼내…]]></title>
-        <id>https://n.news.naver.com/mnews/article/437/0000426495</id>
-        <link href="https://n.news.naver.com/mnews/article/437/0000426495"/>
-        <updated>2025-02-05T12:31:40.489Z</updated>
-        <content type="html"><![CDATA[JTBC]]></content>
     </entry>
 </feed>
