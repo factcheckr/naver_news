@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-24T23:16:27.386Z</updated>
+    <updated>2025-02-25T01:15:36.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[바로잡습니다 (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[조선일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <[그늘집에서] 협회 곳간 헐어 대회 신설한 KPGA 신임회장>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002433229</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002433229"/>
+        <updated>2025-02-25T01:15:22.921Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] < 4일 0시 29분과 38분, 추경호의 통화가 수상하다>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/047/0002463499</id>
         <link href="https://n.news.naver.com/mnews/article/047/0002463499"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[KBS]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[정정보도문] '신현준 갑질폭로 협박' 前 매니저, 징역 6개월 선고 .. "… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/109/0005227337</id>
-        <link href="https://n.news.naver.com/mnews/article/109/0005227337"/>
-        <updated>2025-01-16T04:18:32.895Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
+        <title type="html"><![CDATA[[반론보도] <[그늘집에서] 협회 곳간 헐어 대회 신설한 KPGA 신임회장>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/016/0002433229</id>
+        <link href="https://n.news.naver.com/mnews/article/016/0002433229"/>
+        <updated>2025-02-25T01:15:29.374Z</updated>
+        <content type="html"><![CDATA[헤럴드경제]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정정 및 반론보도] < 4일 0시 29분과 38분, 추경호의 통화가 수상하다>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
         <updated>2025-01-17T07:15:18.714Z</updated>
         <content type="html"><![CDATA[KBS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정정보도문] '신현준 갑질폭로 협박' 前 매니저, 징역 6개월 선고 .. "… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/109/0005227337</id>
-        <link href="https://n.news.naver.com/mnews/article/109/0005227337"/>
-        <updated>2025-01-16T04:18:32.895Z</updated>
-        <content type="html"><![CDATA[OSEN]]></content>
     </entry>
 </feed>
