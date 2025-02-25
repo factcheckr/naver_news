@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-25T06:23:27.805Z</updated>
+    <updated>2025-02-25T07:16:44.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 이웃 여성 집 침입한 남성의 '황당' 변명..."집 구…]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000510376</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000510376"/>
+        <updated>2025-02-25T07:16:37.527Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[그늘집에서] 협회 곳간 헐어 대회 신설한 KPGA 신임회장>…]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002433229</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000358014"/>
         <updated>2025-02-22T21:15:02.228Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] [단독] 김용현 전 장관, 변호인단 교체 검토…‘불법수사’ 변…]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011876932</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
-        <updated>2025-02-22T21:15:02.229Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>

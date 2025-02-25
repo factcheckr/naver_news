@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/naver_news/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-25T06:23:27.815Z</updated>
+    <updated>2025-02-25T07:16:44.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[고침] 그래픽(서울세종고속도로 안성 구간 교량 붕괴 사고) (네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[반론보도] <[단독] 이웃 여성 집 침입한 남성의 '황당' 변명..."집 구… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000510376</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000510376"/>
+        <updated>2025-02-25T07:16:31.306Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[반론보도] <[그늘집에서] 협회 곳간 헐어 대회 신설한 KPGA 신임회장>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
         <id>https://n.news.naver.com/mnews/article/016/0002433229</id>
         <link href="https://n.news.naver.com/mnews/article/016/0002433229"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[더팩트]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[반론보도] [단독] 김용현 전 장관, 변호인단 교체 검토…‘불법수사’ 변… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도요청)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011876932</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
-        <updated>2025-01-17T07:15:18.714Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
+        <title type="html"><![CDATA[[반론보도] <[단독] 이웃 여성 집 침입한 남성의 '황당' 변명..."집 구… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
+        <id>https://n.news.naver.com/mnews/article/448/0000510376</id>
+        <link href="https://n.news.naver.com/mnews/article/448/0000510376"/>
+        <updated>2025-02-25T07:16:37.527Z</updated>
+        <content type="html"><![CDATA[TV조선]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[그늘집에서] 협회 곳간 헐어 대회 신설한 KPGA 신임회장>… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
@@ -626,12 +633,5 @@
         <link href="https://n.news.naver.com/mnews/article/629/0000358014"/>
         <updated>2025-01-20T02:45:16.084Z</updated>
         <content type="html"><![CDATA[더팩트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] [단독] 김용현 전 장관, 변호인단 교체 검토…‘불법수사’ 변… (네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도)]]></title>
-        <id>https://n.news.naver.com/mnews/article/056/0011876932</id>
-        <link href="https://n.news.naver.com/mnews/article/056/0011876932"/>
-        <updated>2025-01-17T07:15:18.714Z</updated>
-        <content type="html"><![CDATA[KBS]]></content>
     </entry>
 </feed>
