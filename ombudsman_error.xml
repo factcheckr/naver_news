@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-02-25T05:16:45.099Z</updated>
+    <updated>2025-02-25T06:23:27.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고침] 그래픽(서울세종고속도로 안성 구간 교량 붕괴 사고)]]></title>
+        <id>https://n.news.naver.com/mnews/article/001/0015232214?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/001/0015232214?sid=001"/>
+        <updated>2025-02-25T06:23:07.324Z</updated>
+        <content type="html"><![CDATA[연합뉴스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 지방([3보]안성 고속도로 공사장 붕괴…인부 3명 사망…)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0015232480?sid=001</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/025/0002910444?sid=001"/>
         <updated>2024-11-02T13:19:54.093Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[바로잡습니다] 9월 11일 자 A2면 ‘43세 고이즈미, ‘늙은 나라’ 日서 사…]]></title>
-        <id>https://n.news.naver.com/mnews/article/023/0003858676?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/023/0003858676?sid=001"/>
-        <updated>2024-11-02T13:19:54.093Z</updated>
-        <content type="html"><![CDATA[조선일보]]></content>
     </entry>
 </feed>
