@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 고침·바로잡습니다</title>
-    <updated>2025-02-26T23:16:15.258Z</updated>
+    <updated>2025-02-27T01:16:37.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추후보도]사회복지법인 동방사회복지회 평택시니어클럽 전·현직 관장 …]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0013091015?sid=001</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0013091015?sid=001"/>
+        <updated>2025-02-27T01:16:18.617Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고침] 그래픽(서울세종고속도로 안성 구간 교량 붕괴 사고)]]></title>
         <id>https://n.news.naver.com/mnews/article/001/0015232214?sid=001</id>
@@ -206,13 +213,6 @@
         <id>https://n.news.naver.com/mnews/article/025/0002932603?sid=001</id>
         <link href="https://n.news.naver.com/mnews/article/025/0002932603?sid=001"/>
         <updated>2024-11-02T13:19:54.090Z</updated>
-        <content type="html"><![CDATA[중앙일보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알려왔습니다] 5월 28일자 34면 ‘미·일은 밀월인데 한국은 외톨이 신…]]></title>
-        <id>https://n.news.naver.com/mnews/article/025/0002910444?sid=001</id>
-        <link href="https://n.news.naver.com/mnews/article/025/0002910444?sid=001"/>
-        <updated>2024-11-02T13:19:54.093Z</updated>
         <content type="html"><![CDATA[중앙일보]]></content>
     </entry>
 </feed>

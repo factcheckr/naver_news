@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb</id>
     <title>네이버 뉴스 ─ 정정보도모음 ─ 정정·반론·추후보도</title>
-    <updated>2025-02-26T23:16:15.261Z</updated>
+    <updated>2025-02-27T01:16:37.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.naver.com/main/ombudsman/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알림]]]></title>
+        <id>https://n.news.naver.com/mnews/article/003/0013090876</id>
+        <link href="https://n.news.naver.com/mnews/article/003/0013090876"/>
+        <updated>2025-02-27T01:16:31.302Z</updated>
+        <content type="html"><![CDATA[뉴시스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[반론보도] <[단독] 이웃 여성 집 침입한 남성의 '황당' 변명..."집 구…]]></title>
         <id>https://n.news.naver.com/mnews/article/448/0000510376</id>
@@ -207,12 +214,5 @@
         <link href="https://n.news.naver.com/mnews/article/366/0001049026"/>
         <updated>2025-02-22T21:15:02.227Z</updated>
         <content type="html"><![CDATA[조선비즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반론보도] 순천 A건설사 '주민 무시 일방적 발파'…소음·진동에 "아이…]]></title>
-        <id>https://n.news.naver.com/mnews/article/629/0000358014</id>
-        <link href="https://n.news.naver.com/mnews/article/629/0000358014"/>
-        <updated>2025-02-22T21:15:02.228Z</updated>
-        <content type="html"><![CDATA[더팩트]]></content>
     </entry>
 </feed>
